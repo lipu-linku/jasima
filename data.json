@@ -99,11 +99,11 @@
       "see_also": "kin",
       "def": {
         "en": "(emphasis, emotion or confirmation)",
-        "isv_l": "(izraznost, emocionalnost, izra\u017eenje soglasja)",
-        "isv_c": "(\u0438\u0437\u0440\u0430\u0437\u043d\u043e\u0441\u0442, \u0435\u043c\u043e\u0446\u0438\u043e\u043d\u0430\u043b\u043d\u043e\u0441\u0442, \u0438\u0437\u0440\u0430\u0436\u0435\u045a\u0435 \u0441\u043e\u0433\u043b\u0430\u0441\u0458\u0430)",
         "ru": "(\u043f\u043e\u0434\u0447\u0451\u0440\u043a\u0438\u0432\u0430\u043d\u0438\u0435, \u044d\u043c\u043e\u0446\u0438\u043e\u043d\u0430\u043b\u044c\u043d\u043e\u0441\u0442\u044c \u0438\u043b\u0438 \u0432\u044b\u0440\u0430\u0436\u0435\u043d\u0438\u0435 \u0441\u043e\u0433\u043b\u0430\u0441\u0438\u044f)",
         "eo": "(emfazo, emocio a\u016d konfirmo)",
         "de": "(Betonung, Emotion, Best\u00e4tigung)",
+        "isv_l": "(izraznost, emocionalnost, izra\u017eenje soglasja)",
+        "isv_c": "(\u0438\u0437\u0440\u0430\u0437\u043d\u043e\u0441\u0442, \u0435\u043c\u043e\u0446\u0438\u043e\u043d\u0430\u043b\u043d\u043e\u0441\u0442, \u0438\u0437\u0440\u0430\u0436\u0435\u045a\u0435 \u0441\u043e\u0433\u043b\u0430\u0441\u0458\u0430)",
         "ceb_l": "(paghatag ug kamahinungdanon, pagbati, pagpamatuod)"
       }
     },
@@ -119,11 +119,11 @@
       "ku_data": "reptile\u2075, frog\u00b3",
       "def": {
         "en": "non-cute animal; reptile, amphibian",
-        "isv_l": "nemila \u017eivotina; gad, amfibija",
-        "isv_c": "\u043d\u0435\u043c\u0438\u043b\u0430 \u0436\u0438\u0432\u043e\u0442\u0438\u043d\u0430; \u0433\u0430\u0434, \u0430\u043c\u0444\u0438\u0431\u0438\u0458\u0430",
         "ru": "\u043d\u0435\u043f\u0440\u0438\u044f\u0442\u043d\u043e\u0435 \u0436\u0438\u0432\u043e\u0442\u043d\u043e\u0435; \u0440\u0435\u043f\u0442\u0438\u043b\u0438\u044f, \u0430\u043c\u0444\u0438\u0431\u0438\u044f",
         "eo": "ne\u0109arma besto; reptilio, amfibio",
-        "de": "Reptil, Amphibium"
+        "de": "Reptil, Amphibie",
+        "isv_l": "nemila \u017eivotina; gad, amfibija",
+        "isv_c": "\u043d\u0435\u043c\u0438\u043b\u0430 \u0436\u0438\u0432\u043e\u0442\u0438\u043d\u0430; \u0433\u0430\u0434, \u0430\u043c\u0444\u0438\u0431\u0438\u0458\u0430"
       }
     },
     "ala": {
@@ -138,11 +138,11 @@
       "ku_data": "not\u2075, none\u2075, zero\u2075, no\u2075, nothing\u2075, neither\u00b3, nor\u00b2, hardly\u00b2",
       "def": {
         "en": "no, not, zero; [~ ala ~] (used to form a yes-no question); nothing",
-        "isv_l": "ne, nula; [~ ala ~] (koristano aby stvarjati da-ne pytanje); ni\u010dto",
-        "isv_c": "\u043d\u0435, \u043d\u0443\u043b\u0430; [~ ala ~] (\u043a\u043e\u0440\u0438\u0441\u0442\u0430\u043d\u043e \u0430\u0431\u044b \u0441\u0442\u0432\u0430\u0440\u0458\u0430\u0442\u0438 \u0434\u0430-\u043d\u0435 \u043f\u044b\u0442\u0430\u045a\u0435); \u043d\u0438\u0447\u0442\u043e",
         "ru": "\u043d\u0435, \u043d\u0435\u0442, \u043d\u043e\u043b\u044c; [~ ala ~] (\u0438\u0441\u043f\u043e\u043b\u044c\u0437\u0443\u0435\u0442\u0441\u044f \u0434\u043b\u044f \u0444\u043e\u0440\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u044f \u0432\u043e\u043f\u0440\u043e\u0441\u0430 \"\u0434\u0430-\u043d\u0435\u0442\"); \u043d\u0438\u0447\u0442\u043e",
         "eo": "ne, nul; [~ ala ~] (uzata por fari \u0109u-demandon); nenio",
         "de": "nicht, kein, nichts, null; [~ ala ~] (M\u00f6glichkeit der Ja/Nein-Frage)",
+        "isv_l": "ne, nula; [~ ala ~] (koristano aby stvarjati da-ne pytanje); ni\u010dto",
+        "isv_c": "\u043d\u0435, \u043d\u0443\u043b\u0430; [~ ala ~] (\u043a\u043e\u0440\u0438\u0441\u0442\u0430\u043d\u043e \u0430\u0431\u044b \u0441\u0442\u0432\u0430\u0440\u0458\u0430\u0442\u0438 \u0434\u0430-\u043d\u0435 \u043f\u044b\u0442\u0430\u045a\u0435); \u043d\u0438\u0447\u0442\u043e",
         "ceb_l": "dili, wala; [~ ala ~] (ginagamit para makahimo ug oo o dili nga pangutana)"
       }
     },
@@ -158,11 +158,11 @@
       "ku_data": "hunt\u2075, hunting\u2075, search\u2074, pursuit\u2074, pursue\u2074, gather\u2074, finding\u00b3, seek\u00b3, explore\u00b3, chase\u00b2, locate\u00b2, try\u00b2, collect\u00b2, quest\u00b2, catch\u00b2",
       "def": {
         "en": "to hunt, forage, seek | ALT (pv.) try to, attempt",
-        "isv_l": "loviti, sbirati, iskati | ALT (pv.) probovati",
-        "isv_c": "\u043b\u043e\u0432\u0438\u0442\u0438, \u0441\u0431\u0438\u0440\u0430\u0442\u0438, \u0438\u0441\u043a\u0430\u0442\u0438 | ALT (pv.) \u043f\u0440\u043e\u0431\u043e\u0432\u0430\u0442\u0438",
         "ru": "\u043e\u0445\u043e\u0442\u0438\u0442\u044c\u0441\u044f, \u0437\u0430\u043d\u0438\u043c\u0430\u0442\u044c\u0441\u044f \u0441\u043e\u0431\u0438\u0440\u0430\u0442\u0435\u043b\u044c\u0441\u0442\u0432\u043e\u043c, \u0438\u0441\u043a\u0430\u0442\u044c | ALT (pv.) \u043f\u044b\u0442\u0430\u0442\u044c\u0441\u044f",
         "eo": "\u0109asi, fura\u011di, kolekti, ser\u0109i | ALT (a.v.) provi",
         "de": "jagen, \u00fcberfallen, suchen, erstreben | (pv.) versuchen",
+        "isv_l": "loviti, sbirati, iskati | ALT (pv.) probovati",
+        "isv_c": "\u043b\u043e\u0432\u0438\u0442\u0438, \u0441\u0431\u0438\u0440\u0430\u0442\u0438, \u0438\u0441\u043a\u0430\u0442\u0438 | ALT (pv.) \u043f\u0440\u043e\u0431\u043e\u0432\u0430\u0442\u0438",
         "ceb_l": "mangita, mangita ug pagkaon | ALT (pv.) sulayan"
       }
     },
@@ -180,11 +180,11 @@
       "tags": "pre-pu ALT",
       "def": {
         "en": "all; abundant, countless, bountiful, every, plentiful; abundance, everything, life, universe; one hundred | ALT twenty; 100; 120",
-        "isv_l": "ves; obilny, nes\u010disljeny, ka\u017edy, vsaky; obilje, vse\u010dto, \u017eitje, vsesv\u011bt, vsemir; sto | ALT dvadeset; 100; 120",
-        "isv_c": "\u0432\u0435\u0441; \u043e\u0431\u0438\u043b\u043d\u044b, \u043d\u0435\u0441\u0447\u0438\u0441\u0459\u0435\u043d\u044b, \u043a\u0430\u0436\u0434\u044b, \u0432\u0441\u0430\u043a\u044b; \u043e\u0431\u0438\u0459\u0435, \u0432\u0441\u0435\u0447\u0442\u043e, \u0436\u0438\u0442\u0458\u0435, \u0432\u0441\u0435\u0441\u0432\u0454\u0442, \u0432\u0441\u0435\u043c\u0438\u0440; \u0441\u0442\u043e | ALT \u0434\u0432\u0430\u0434\u0435\u0441\u0435\u0442; 100; 120",
         "ru": "\u0432\u0441\u0435; \u0438\u0437\u043e\u0431\u0438\u043b\u044c\u043d\u044b\u0439, \u0431\u0435\u0441\u0447\u0438\u0441\u043b\u0435\u043d\u043d\u044b\u0439, \u043a\u0430\u0436\u0434\u044b\u0439; \u0438\u0437\u043e\u0431\u0438\u043b\u0438\u0435, \u0432\u0441\u0435, \u0436\u0438\u0437\u043d\u044c, \u0432\u0441\u0435\u043b\u0435\u043d\u043d\u0430\u044f; \u0441\u0442\u043e | ALT \u0434\u0432\u0430\u0434\u0446\u0430\u0442\u044c; 100; 120",
         "eo": "\u0109iuj; abunda, nenombrebla, \u0109iu; abundo, \u0109io, vivo, universo; cent | ALT 20; 100; 120",
         "de": "alle(s), jede(r/s), F\u00fclle, \u00dcberfluss, zahllos, Leben, Universum, einhundert",
+        "isv_l": "ves; obilny, nes\u010disljeny, ka\u017edy, vsaky; obilje, vse\u010dto, \u017eitje, vsesv\u011bt, vsemir; sto | ALT dvadeset; 100; 120",
+        "isv_c": "\u0432\u0435\u0441; \u043e\u0431\u0438\u043b\u043d\u044b, \u043d\u0435\u0441\u0447\u0438\u0441\u0459\u0435\u043d\u044b, \u043a\u0430\u0436\u0434\u044b, \u0432\u0441\u0430\u043a\u044b; \u043e\u0431\u0438\u0459\u0435, \u0432\u0441\u0435\u0447\u0442\u043e, \u0436\u0438\u0442\u0458\u0435, \u0432\u0441\u0435\u0441\u0432\u0454\u0442, \u0432\u0441\u0435\u043c\u0438\u0440; \u0441\u0442\u043e | ALT \u0434\u0432\u0430\u0434\u0435\u0441\u0435\u0442; 100; 120",
         "ceb_l": "tanan, daghan, dili maihap, kinabuhi; usa ka gatos | baynte; 100; 120"
       }
     },
@@ -200,11 +200,11 @@
       "see_also": "ale",
       "def": {
         "en": "[alternate form of ale]",
-        "isv_l": "[alternativna forma ale]",
-        "isv_c": "[\u0430\u043b\u0442\u0435\u0440\u043d\u0430\u0442\u0438\u0432\u043d\u0430 \u0444\u043e\u0440\u043c\u0430 ale]",
         "ru": "[\u0430\u043b\u044c\u0442\u0435\u0440\u043d\u0430\u0442\u0438\u0432\u043d\u0430\u044f \u0444\u043e\u0440\u043c\u0430 ale]",
         "eo": "[alternativa formo de la vorto ale]",
         "de": "[alternative Form von ale]",
+        "isv_l": "[alternativna forma ale]",
+        "isv_c": "[\u0430\u043b\u0442\u0435\u0440\u043d\u0430\u0442\u0438\u0432\u043d\u0430 \u0444\u043e\u0440\u043c\u0430 ale]",
         "ceb_l": "[pamuli sa ale]"
       }
     },
@@ -219,18 +219,18 @@
       "see_also": "la",
       "def": {
         "en": "(between the main sentence and the context phrase)",
-        "isv_l": "med\u017eu glavnym r\u011b\u010denjem i kontekstoju frazoju",
-        "isv_c": "\u043c\u0435\u0434\u0436\u0443 \u0433\u043b\u0430\u0432\u043d\u044b\u043c \u0440\u0454\u0447\u0435\u045a\u0435\u043c \u0438 \u043a\u043e\u043d\u0442\u0435\u043a\u0441\u0442\u043e\u0458\u0443 \u0444\u0440\u0430\u0437\u043e\u0458\u0443",
         "ru": "(\u043c\u0435\u0436\u0434\u0443 \u0433\u043b\u0430\u0432\u043d\u044b\u043c \u043f\u0440\u0435\u0434\u043b\u043e\u0436\u0435\u043d\u0438\u0435\u043c \u0438 \u043a\u043e\u043d\u0442\u0435\u043a\u0441\u0442\u043d\u043e\u0439 \u0444\u0440\u0430\u0437\u043e\u0439)",
         "eo": "(inter la \u0109effrazo kaj la kunteksta frazparto)",
+        "de": "(zwischen Haupt- und Kontextsatz)",
         "tok": "nimi \"alu\" li sama nimi \"la,\" taso nimi \"alu\" li lon monsi pi linja nimi.",
         "es": "(entre la oraci\u00f3n principal y la frase contextual)",
-        "de": "(zwischen Haupt- und Kontextsatz)",
         "hi": "\u092e\u0941\u0916\u094d\u092f \u0935\u093e\u0915\u094d\u092f \u0914\u0930 \u0938\u0902\u0926\u0930\u094d\u092d \u0915\u0947 \u092c\u0940\u091a \u092e\u0947\u0902",
         "ur": "\u0645\u0631\u06a9\u0632\u06cc \u062c\u0645\u0644\u06d2 \u0627\u0648\u0631 \u0642\u0631\u06cc\u0646\u06d2 \u06a9\u06d2 \u0628\u06cc\u0686 \u0645\u06cc\u06ba",
         "pa": "\u0a2e\u0a41\u0a71\u0a16 \u0a35\u0a3e\u0a15 \u0a05\u0a24\u0a47 \u0a38\u0a70\u0a27\u0a30\u0a2d \u0a26\u0a47 \u0a35\u0a3f\u0a71\u0a1a",
         "id": "(di antara klausa utama dan klausa keterangan)",
-        "pl": "(mi\u0119dzy g\u0142\u00f3wnym zdaniem a kontekstem)"
+        "pl": "(mi\u0119dzy g\u0142\u00f3wnym zdaniem a kontekstem)",
+        "isv_l": "med\u017eu glavnym r\u011b\u010denjem i kontekstoju frazoju",
+        "isv_c": "\u043c\u0435\u0434\u0436\u0443 \u0433\u043b\u0430\u0432\u043d\u044b\u043c \u0440\u0454\u0447\u0435\u045a\u0435\u043c \u0438 \u043a\u043e\u043d\u0442\u0435\u043a\u0441\u0442\u043e\u0458\u0443 \u0444\u0440\u0430\u0437\u043e\u0458\u0443"
       }
     },
     "anpa": {
@@ -246,11 +246,11 @@
       "tags": "pre-pu ALT",
       "def": {
         "en": "bowing down, downward, humble, lowly, dependent | ALT bottom, lower part, under, below, floor, beneath; low, lower, bottom, down",
-        "isv_l": "klanjaju\u010di se, na dol, skromny, prizemjeny, zavisny, zale\u017eny | ALT dno, dol, podloga; dolny, niz\u0161i",
-        "isv_c": "\u043a\u043b\u0430\u045a\u0430\u0458\u0443\u0447\u0438 \u0441\u0435, \u043d\u0430 \u0434\u043e\u043b, \u0441\u043a\u0440\u043e\u043c\u043d\u044b, \u043f\u0440\u0438\u0437\u0435\u043c\u0458\u0435\u043d\u044b, \u0437\u0430\u0432\u0438\u0441\u043d\u044b, \u0437\u0430\u043b\u0435\u0436\u043d\u044b | ALT \u0434\u043d\u043e, \u0434\u043e\u043b, \u043f\u043e\u0434\u043b\u043e\u0433\u0430; \u0434\u043e\u043b\u043d\u044b, \u043d\u0438\u0437\u0448\u0438",
         "ru": "\u0441\u043a\u043b\u043e\u043d\u044f\u044e\u0449\u0438\u0439\u0441\u044f, \u043d\u0438\u0437\u0448\u0438\u0439, \u0441\u043c\u0438\u0440\u0435\u043d\u043d\u044b\u0439, \u0437\u0430\u0432\u0438\u0441\u0438\u043c\u044b\u0439 | ALT \u0441\u043d\u0438\u0437\u0443, \u043d\u0438\u0436\u043d\u044f\u044f \u0447\u0430\u0441\u0442\u044c, \u043f\u043e\u043b, \u043d\u0438\u0437; \u043d\u0438\u0437\u043a\u0438\u0439, \u043d\u0438\u0436\u043d\u0438\u0439",
         "eo": "klinanta sin, malsupren, humila, modesta, dependa | ALT malsupro, malsupra parto, sub, planko, fundo; malsupra, suba, malalta",
-        "de": "herunter, unter, nieder, niedrig, unten, Grund, Boden"
+        "de": "herunter, unter, nieder, niedrig, unten, Grund, Boden",
+        "isv_l": "klanjaju\u010di se, na dol, skromny, prizemjeny, zavisny, zale\u017eny | ALT dno, dol, podloga; dolny, niz\u0161i",
+        "isv_c": "\u043a\u043b\u0430\u045a\u0430\u0458\u0443\u0447\u0438 \u0441\u0435, \u043d\u0430 \u0434\u043e\u043b, \u0441\u043a\u0440\u043e\u043c\u043d\u044b, \u043f\u0440\u0438\u0437\u0435\u043c\u0458\u0435\u043d\u044b, \u0437\u0430\u0432\u0438\u0441\u043d\u044b, \u0437\u0430\u043b\u0435\u0436\u043d\u044b | ALT \u0434\u043d\u043e, \u0434\u043e\u043b, \u043f\u043e\u0434\u043b\u043e\u0433\u0430; \u0434\u043e\u043b\u043d\u044b, \u043d\u0438\u0437\u0448\u0438"
       }
     },
     "ante": {
@@ -265,11 +265,11 @@
       "ku_data": "other\u2075, changing\u2075, different\u2075, alter\u2075, modify\u2075, alternative\u2074, change\u2074, convert\u2074, edit\u2074, difference\u2074, transformation\u2074, distinct\u2074, differently\u2074, vary\u2074, transform\u00b3, variation\u00b3, contrast\u00b3, distinction\u00b3, replace\u00b3, switch\u00b3, else\u00b3, another\u00b3, conversion\u00b3, adjustment\u00b3, adapt\u00b2, affect\u00b2, distinguish\u00b2, adjust\u00b2, amendment\u00b2, transition\u00b2, opposed\u00b2, unlike\u00b2, separate\u00b2, counterpart\u00b2, diversity\u00b2, shift\u00b2, adaptation\u00b2",
       "def": {
         "en": "different, altered, changed, other",
-        "isv_l": "iny, razny, pr\u011bina\u010deny, izm\u011bnjeny, drugy",
-        "isv_c": "\u0438\u043d\u044b, \u0440\u0430\u0437\u043d\u044b, \u043f\u0440\u0454\u0438\u043d\u0430\u0447\u0435\u043d\u044b, \u0438\u0437\u043c\u0454\u045a\u0435\u043d\u044b, \u0434\u0440\u0443\u0433\u044b",
         "ru": "\u0438\u043d\u043e\u0439, \u0438\u0437\u043c\u0435\u043d\u0435\u043d\u043d\u044b\u0439, \u0434\u0440\u0443\u0433\u043e\u0439",
         "eo": "malsama, \u015dan\u011dita, alia",
-        "de": "anders, andere(r), unterschiedlich, ver\u00e4ndert"
+        "de": "anders, andere(r), unterschiedlich, ver\u00e4ndert",
+        "isv_l": "iny, razny, pr\u011bina\u010deny, izm\u011bnjeny, drugy",
+        "isv_c": "\u0438\u043d\u044b, \u0440\u0430\u0437\u043d\u044b, \u043f\u0440\u0454\u0438\u043d\u0430\u0447\u0435\u043d\u044b, \u0438\u0437\u043c\u0454\u045a\u0435\u043d\u044b, \u0434\u0440\u0443\u0433\u044b"
       }
     },
     "anu": {
@@ -284,11 +284,11 @@
       "ku_data": "or\u2075, whether\u00b3, choice\u00b3, selection\u00b2, decide\u00b2, either\u00b2, select\u00b2",
       "def": {
         "en": "or | ALT choose, decide",
-        "isv_l": "ili, abo | ALT izbirati, r\u011b\u0161ati",
-        "isv_c": "\u0438\u043b\u0438, \u0430\u0431\u043e | ALT \u0438\u0437\u0431\u0438\u0440\u0430\u0442\u0438, \u0440\u0454\u0448\u0430\u0442\u0438",
         "ru": "\u0438\u043b\u0438 | ALT \u0432\u044b\u0431\u0438\u0440\u0430\u0442\u044c, \u0440\u0435\u0448\u0430\u0442\u044c",
         "eo": "a\u016d | ALT elekti, decidi",
-        "de": "oder | w\u00e4hlen, sich entscheiden"
+        "de": "oder | w\u00e4hlen, sich entscheiden",
+        "isv_l": "ili, abo | ALT izbirati, r\u011b\u0161ati",
+        "isv_c": "\u0438\u043b\u0438, \u0430\u0431\u043e | ALT \u0438\u0437\u0431\u0438\u0440\u0430\u0442\u0438, \u0440\u0454\u0448\u0430\u0442\u0438"
       }
     },
     "apeja": {
@@ -302,18 +302,18 @@
       "ku_data": "shame\u00b2, embarrassed\u00b2, guilt\u00b9",
       "def": {
         "en": "guilt, shame, shun, stigma, disgrace; to accuse, to single out, to expose, to dishonor, to embarrass",
-        "isv_l": "vina, styd, stigma, obez\u010de\u0161\u010denje; obvinjati, obez\u010destiti, zasramjati",
-        "isv_c": "\u0432\u0438\u043d\u0430, \u0441\u0442\u044b\u0434, \u0441\u0442\u0438\u0433\u043c\u0430, \u043e\u0431\u0435\u0437\u0447\u0435\u0448\u0447\u0435\u045a\u0435; \u043e\u0431\u0432\u0438\u045a\u0430\u0442\u0438, \u043e\u0431\u0435\u0437\u0447\u0435\u0441\u0442\u0438\u0442\u0438, \u0437\u0430\u0441\u0440\u0430\u043c\u0458\u0430\u0442\u0438",
         "ru": "\u0432\u0438\u043d\u0430, \u0441\u0442\u044b\u0434, \u0441\u0442\u0438\u0433\u043c\u0430, \u043f\u043e\u0437\u043e\u0440; \u043e\u0431\u0432\u0438\u043d\u044f\u0442\u044c, \u0440\u0430\u0437\u043e\u0431\u043b\u0430\u0447\u0430\u0442\u044c, \u0431\u0435\u0441\u0447\u0435\u0441\u0442\u0438\u0442\u044c, \u0441\u0442\u0430\u0432\u0438\u0442\u044c \u0432 \u043d\u0435\u043b\u043e\u0432\u043a\u043e\u0435 \u043f\u043e\u043b\u043e\u0436\u0435\u043d\u0438\u0435",
         "eo": "kulpo, honto, stigmato; ofendi, humili, diri a\u0109ajn vortojn",
+        "de": "Schande, Scham; beschuldigen, ausgrenzen, entehren, entbl\u00f6\u00dfen",
         "tok": "mi mute li weka e ona tan kulupu pi mi mute la, ona li pilin ike mute. ona li pilin apeja tan ni: mi mute li apeja e ona.",
         "es": "l\u00e1stima, pena, deshonra, estigma; avergonzar, exponer, acusar, rechazar",
-        "de": "Schande, Scham; beschuldigen, ausgrenzen, entehren, entbl\u00f6\u00dfen",
         "hi": "\u0936\u0930\u094d\u092e, \u0936\u0930\u094d\u092e\u093f\u0902\u0926\u0917\u0940, \u0915\u0932\u0902\u0915; \u0907\u0932\u094d\u091c\u093c\u093e\u092e \u0932\u0917\u093e\u0928\u093e, \u0926\u094b\u0937\u0940 \u0920\u0939\u0930\u093e\u0928\u093e, \u0906\u0930\u094b\u092a \u0915\u0930\u0928\u093e, \u092a\u0930\u094d\u0926\u093e\u092b\u093c\u093e\u0936 \u0915\u0930\u0928\u093e, \u091c\u093c\u0932\u0940\u0932 \u0915\u0930\u0928\u093e\u0938, \u0915\u0932\u0902\u0915\u093f\u0924 \u0915\u0930\u0928\u093e",
         "ur": "\u0634\u0631\u0645\u060c \u0634\u0631\u0645\u0646\u062f\u06af\u06cc\u060c \u06a9\u0644\u0646\u06a9\u061b \u0627\u0644\u0632\u0627\u0645 \u0644\u06af\u0627\u0646\u0627\u060c \u062f\u0648\u0634\u06cc \u0679\u06be\u06c1\u0631\u0627\u0646\u0627\u060c \u0622\u0631\u0648\u067e \u0644\u06af\u0627\u0646\u0627\u060c \u067e\u0631\u062f\u0627\u0641\u0627\u0634 \u06a9\u0631\u0646\u0627\u060c \u0630\u0644\u06cc\u0644 \u06a9\u0631\u0646\u0627",
         "pa": "\u0a38\u0a3c\u0a30\u0a2e, \u0a38\u0a3c\u0a30\u0a2e\u0a3f\u0a70\u0a26\u0a17\u0a40, \u0a15\u0a32\u0a70\u0a15; \u0a07\u0a32\u0a1c\u0a3e\u0a2e \u0a32\u0a17\u0a3e\u0a09\u0a23\u0a3e, \u0a26\u0a4b\u0a38\u0a3c\u0a40 \u0a20\u0a39\u0a30\u0a3e\u0a09\u0a23\u0a3e, \u0a05\u0a30\u0a4b\u0a2a \u0a32\u0a17\u0a3e\u0a09\u0a23\u0a3e, \u0a2a\u0a30\u0a26\u0a3e\u0a2b\u0a3e\u0a38\u0a3c \u0a15\u0a30\u0a28\u0a3e, \u0a1c\u0a32\u0a40\u0a32 \u0a15\u0a30\u0a28\u0a3e",
         "id": "rasa bersalah, malu, cela, stigma, aib; menuduh, mengasingkan, mengekspos, mengejek, mempermalukan",
-        "pl": "poczucie winy, wstyd, pi\u0119tno, ha\u0144ba; oskar\u017ca\u0107, wyklucza\u0107, demaskowa\u0107, ha\u0144bi\u0107, zawstydza\u0107"
+        "pl": "poczucie winy, wstyd, pi\u0119tno, ha\u0144ba; oskar\u017ca\u0107, wyklucza\u0107, demaskowa\u0107, ha\u0144bi\u0107, zawstydza\u0107",
+        "isv_l": "vina, styd, stigma, obez\u010de\u0161\u010denje; obvinjati, obez\u010destiti, zasramjati",
+        "isv_c": "\u0432\u0438\u043d\u0430, \u0441\u0442\u044b\u0434, \u0441\u0442\u0438\u0433\u043c\u0430, \u043e\u0431\u0435\u0437\u0447\u0435\u0448\u0447\u0435\u045a\u0435; \u043e\u0431\u0432\u0438\u045a\u0430\u0442\u0438, \u043e\u0431\u0435\u0437\u0447\u0435\u0441\u0442\u0438\u0442\u0438, \u0437\u0430\u0441\u0440\u0430\u043c\u0458\u0430\u0442\u0438"
       }
     },
     "awen": {
@@ -377,7 +377,8 @@
       "creator": "jan Seli",
       "see_also": "lon, ma",
       "def": {
-        "en": "(spatial equivalents of tenpo constructions) space, place, distance, size (length, width, height, depth, area, volume)"
+        "en": "(spatial equivalents of tenpo constructions) space, place, distance, size (length, width, height, depth, area, volume)",
+        "ru": "(\u043f\u0440\u043e\u0441\u0442\u0440\u0430\u043d\u0441\u0442\u0432\u0435\u043d\u043d\u044b\u0435 \u044d\u043a\u0432\u0438\u0432\u0430\u043b\u0435\u043d\u0442\u044b \u043a\u043e\u043d\u0441\u0442\u0440\u0443\u043a\u0446\u0438\u0439 \u0441 tenpo) \u043f\u0440\u043e\u0441\u0442\u0440\u0430\u043d\u0441\u0442\u0432\u043e, \u043c\u0435\u0441\u0442\u043e, \u0440\u0430\u0441\u0441\u0442\u043e\u044f\u043d\u0438\u0435, \u0440\u0430\u0437\u043c\u0435\u0440 (\u0434\u043b\u0438\u043d\u0430, \u0448\u0438\u0440\u0438\u043d\u0430, \u0432\u044b\u0441\u043e\u0442\u0430, \u0433\u043b\u0443\u0431\u0438\u043d\u0430, \u043f\u043b\u043e\u0449\u0430\u0434\u044c, \u043e\u0431\u044a\u0451\u043c)"
       }
     },
     "epiku": {
@@ -395,9 +396,9 @@
         "en": "epic, cool, awesome, amazing",
         "ru": "\u044d\u043f\u0438\u0447\u043d\u044b\u0439, \u043a\u0440\u0443\u0442\u043e\u0439, \u043f\u043e\u0442\u0440\u044f\u0441\u0430\u044e\u0449\u0438\u0439",
         "eo": "mojosa, mirinda",
+        "de": "episch, gro\u00dfartisch, wunderbar",
         "tok": "ijo li pona mute tawa sina la, ona li epiku! ",
         "es": "genial, \u00e9pico",
-        "de": "episch, gro\u00dfartisch, wunderbar",
         "hi": "\u0917\u093c\u091c\u092c, \u0905\u0926\u094d\u092d\u0941\u0924, \u0936\u093e\u0928\u0926\u093e\u0930, \u0932\u093e\u091c\u0935\u093e\u092c",
         "ur": "\u063a\u062c\u0628\u060c \u0634\u0627\u0646\u062f\u0627\u0631\u060c \u0644\u0627\u062c\u0648\u0627\u0628\u060c \u062d\u06cc\u0631\u062a \u0627\u0646\u06af\u06cc\u0632",
         "pa": "\u0a17\u0a1c\u0a2c, \u0a38\u0a3c\u0a3e\u0a28\u0a26\u0a3e\u0a30, \u0a32\u0a3e\u0a1c\u0a35\u0a3e\u0a2c",
@@ -435,9 +436,9 @@
         "en": "beyond, exceeding, outside of, more than",
         "ru": "\u0441\u0432\u044b\u0448\u0435, \u043f\u0440\u0435\u0432\u044b\u0448\u0430\u044e\u0449\u0438\u0439, \u0437\u0430 \u043f\u0440\u0435\u0434\u0435\u043b\u0430\u043c\u0438, \u0431\u043e\u043b\u0435\u0435 \u0447\u0435\u043c",
         "eo": "preter, superi, pli ol",
+        "de": "mehr als, weiterhin, jenseits, \u00fcber etwas hinaus, au\u00dferhalb",
         "tok": "mi lili. sina lili mute. sina lili ete mi.",
         "es": "fuera de, aparte de; m\u00e1s all\u00e1; m\u00e1s que",
-        "de": "mehr als, weiterhin, jenseits, \u00fcber etwas hinaus, au\u00dferhalb",
         "hi": "\u0938\u0947 \u091c\u093c\u094d\u092f\u093e\u0926\u093e, \u0938\u0947 \u0905\u0927\u093f\u0915, \u0938\u0947 \u0906\u0917\u0947, \u0938\u0947 \u092c\u093e\u0939\u0930",
         "ur": "\u0633\u06d2 \u0632\u06cc\u0627\u062f\u06c1\u060c \u0633\u06d2 \u067e\u0631\u06d2\u060c \u0633\u06d2 \u0622\u06af\u06d2\u060c \u0633\u06d2 \u0628\u0627\u06c1\u0631",
         "pa": "\u0a24\u0a4b\u0a02 \u0a35\u0a71\u0a27, \u0a24\u0a4b\u0a02 \u0a05\u0a71\u0a17\u0a47, \u0a24\u0a4b\u0a02 \u0a2c\u0a3e\u0a39\u0a30",
@@ -459,9 +460,9 @@
         "en": "stone, gravel, rock, pebble, lava, magma",
         "ru": "\u0433\u043e\u0440\u043d\u0430\u044f \u043f\u043e\u0440\u043e\u0434\u0430, \u0433\u0440\u0430\u0432\u0438\u0439, \u043a\u0430\u043c\u0435\u043d\u044c, \u0433\u0430\u043b\u044c\u043a\u0430, \u043b\u0430\u0432\u0430, \u043c\u0430\u0433\u043c\u0430",
         "eo": "\u015dtono, gruzo, roko, \u015dtoneto, lafo, magmo",
+        "de": "Stein, Kies, Lava, Magma",
         "tok": "mi ken pali e kiwen kepeken e ewe e seli. kiwen li tan jan, taso ewe li tan ma. ",
         "es": "piedra, grava, roca, guijarro; lava, magma",
-        "de": "Stein, Kies, Lava, Magma",
         "hi": "\u092a\u0924\u094d\u0925\u0930, \u091a\u091f\u094d\u091f\u093e\u0928, \u0932\u093e\u0935\u093e, \u092d\u0941\u0930\u093e\u0932",
         "ur": "\u067e\u062a\u06be\u0631 \u060c \u0686\u0679\u0627\u0646 \u060c \u0644\u0627\u0648\u0627",
         "pa": "\u0a2a\u0a71\u0a25\u0a30, \u0a1a\u0a71\u0a1f\u0a3e\u0a28, \u0a32\u0a3e\u0a35\u0a3e",
@@ -481,9 +482,9 @@
         "en": "he, she, it, they [alternate form of ona]",
         "ru": "\u043e\u043d, \u043e\u043d\u0430, \u043e\u043d\u043e, \u043e\u043d\u0438 [\u0430\u043b\u044c\u0442\u0435\u0440\u043d\u0430\u0442\u0438\u0432\u043d\u0430\u044f \u0444\u043e\u0440\u043c\u0430 ona]",
         "eo": "li, \u015di, \u011di, ili [alternativa formo de la vorto ona]",
+        "de": "er, sie, es, sie (pl.) [Alternativform von ona]",
         "tok": "nimi \"i\" li sama nimi \"ona.\"",
         "es": "\u00e9l, ella, ello, lo, la, le, ellos, ellas [forma alternativa de la palabra ona]",
-        "de": "er, sie, es, sie (pl.) [Alternativform von ona]",
         "hi": "\u092f\u0947, \u0935\u094b, \u092f\u0939, \u0935\u0939 (\u0907\u0902\u0938\u093e\u0928), (\u0913\u0928\u093e \u092c\u094b\u0932\u0928\u0947 \u0915\u093e \u090f\u0915 \u0914\u0930 \u0924\u0930\u0940\u0915\u093e)",
         "ur": "\u06cc\u06c1\u060c \u0648\u06c1\u060c \u06cc\u06d2\u060c \u0648\u0648 (\u0627\u0646\u0633\u0627\u0646)\u060c (\u0627\u0648\u0646\u06c1 \u0628\u0648\u0644\u0646\u06d2 \u06a9\u0627 \u0627\u06cc\u06a9 \u0627\u0648\u0631 \u062a\u0631\u06cc\u0642\u0627)",
         "pa": "\u0a07\u0a39, \u0a13\u0a39 (\u0a07\u0a28\u0a38\u0a3e\u0a28), (\u0a13\u0a28\u0a3e \u0a28\u0a42\u0a70 \u0a2c\u0a4b\u0a32\u0a23 \u0a26\u0a3e \u0a07\u0a71\u0a15 \u0a39\u0a4b\u0a30 \u0a24\u0a30\u0a40\u0a15\u0a3e)",
@@ -539,9 +540,9 @@
         "en": "he, she, it, they [alternate form of ona]",
         "ru": "\u043e\u043d, \u043e\u043d\u0430, \u043e\u043d\u043e, \u043e\u043d\u0438 [\u0430\u043b\u044c\u0442\u0435\u0440\u043d\u0430\u0442\u0438\u0432\u043d\u0430\u044f \u0444\u043e\u0440\u043c\u0430 ona]",
         "eo": "li, \u015di, \u011di, ili [alternativa formo de la vorto ona]",
+        "de": "er, sie, es, sie (pl.) [Alternativform von ona]",
         "tok": "nimi \"iki\" li sama nimi \"ona.\"",
         "es": "\u00e9l, ella, ello, lo, la, le, ellos, ellas [forma alternativa de la palabra ona]",
-        "de": "er, sie, es, sie (pl.) [Alternativform von ona]",
         "hi": "\u092f\u0947, \u0935\u094b, \u092f\u0939, \u0935\u0939 (\u0907\u0902\u0938\u093e\u0928), (\u0913\u0928\u093e \u092c\u094b\u0932\u0928\u0947 \u0915\u093e \u090f\u0915 \u0914\u0930 \u0924\u0930\u0940\u0915\u093e)",
         "ur": "\u06cc\u06c1\u060c \u0648\u06c1\u060c \u06cc\u06d2\u060c \u0648\u0648 (\u0627\u0646\u0633\u0627\u0646)\u060c (\u0627\u0648\u0646\u06c1 \u0628\u0648\u0644\u0646\u06d2 \u06a9\u0627 \u0627\u06cc\u06a9 \u0627\u0648\u0631 \u062a\u0631\u06cc\u0642\u0627)",
         "pa": "\u0a07\u0a39, \u0a13\u0a39 (\u0a07\u0a28\u0a38\u0a3e\u0a28), (\u0a13\u0a28\u0a3e \u0a28\u0a42\u0a70 \u0a2c\u0a4b\u0a32\u0a23 \u0a26\u0a3e \u0a07\u0a71\u0a15 \u0a39\u0a4b\u0a30 \u0a24\u0a30\u0a40\u0a15\u0a3e)",
@@ -579,9 +580,9 @@
         "en": "the digit \u20182\u2019",
         "ru": "\u0446\u0438\u0444\u0440\u0430 2",
         "eo": "cifero du",
+        "de": "Ziffer \u201e2\u201c",
         "tok": "ini li sitelen nanpa pi nanpa tu.",
         "es": "el d\u00edgito 2",
-        "de": "Ziffer \u201e2\u201c",
         "hi": "\u0905\u0902\u0915 \u0926\u094b",
         "ur": "\u0646\u0645\u0628\u0631 \u062f\u0648",
         "pa": "\u0a28\u0a2e\u0a2c\u0a30 \u0a26\u0a4b",
@@ -619,9 +620,9 @@
         "en": "he, she, it, they [alternate form of ona]",
         "ru": "\u043e\u043d, \u043e\u043d\u0430, \u043e\u043d\u043e, \u043e\u043d\u0438 [\u0430\u043b\u044c\u0442\u0435\u0440\u043d\u0430\u0442\u0438\u0432\u043d\u0430\u044f \u0444\u043e\u0440\u043c\u0430 ona]",
         "eo": "li, \u015di, \u011di, ili [alternativa formo de la vorto ona]",
+        "de": "er, sie, es, sie (pl.) [Alternativform von ona]",
         "tok": "nimi \"ipi\" li sama nimi \"ona.\"",
         "es": "\u00e9l, ella, ello, lo, la, le, ellos, ellas [forma alternativa de la palabra ona]",
-        "de": "er, sie, es, sie (pl.) [Alternativform von ona]",
         "hi": "\u092f\u0947, \u0935\u094b, \u092f\u0939, \u0935\u0939 (\u0907\u0902\u0938\u093e\u0928), (\u0913\u0928\u093e \u092c\u094b\u0932\u0928\u0947 \u0915\u093e \u090f\u0915 \u0914\u0930 \u0924\u0930\u0940\u0915\u093e)",
         "ur": "\u06cc\u06c1\u060c \u0648\u06c1\u060c \u06cc\u06d2\u060c \u0648\u0648 (\u0627\u0646\u0633\u0627\u0646)\u060c (\u0627\u0648\u0646\u06c1 \u0628\u0648\u0644\u0646\u06d2 \u06a9\u0627 \u0627\u06cc\u06a9 \u0627\u0648\u0631 \u062a\u0631\u06cc\u0642\u0627)",
         "pa": "\u0a07\u0a39, \u0a13\u0a39 (\u0a07\u0a28\u0a38\u0a3e\u0a28), (\u0a13\u0a28\u0a3e \u0a28\u0a42\u0a70 \u0a2c\u0a4b\u0a32\u0a23 \u0a26\u0a3e \u0a07\u0a71\u0a15 \u0a39\u0a4b\u0a30 \u0a24\u0a30\u0a40\u0a15\u0a3e)",
@@ -641,9 +642,9 @@
         "en": "to think, to imagine, to believe, to remember, to recall; a thought, an idea",
         "ru": "\u0434\u0443\u043c\u0430\u0442\u044c, \u0432\u043e\u043e\u0431\u0440\u0430\u0436\u0430\u0442\u044c, \u0432\u0435\u0440\u0438\u0442\u044c, \u043f\u043e\u043c\u043d\u0438\u0442\u044c, \u0432\u0441\u043f\u043e\u043c\u0438\u043d\u0430\u0442\u044c; \u043c\u044b\u0441\u043b\u044c, \u0438\u0434\u0435\u044f",
         "eo": "pensi, imagi, kredi",
+        "de": "denken, glauben, vorstellen, erinnern; Gedanke, Idee",
         "tok": "sina toki insa la, sina isipin. sitelen pi lawa sina li isipin.",
         "es": "pensar, imaginar, creer, recordar; pensamiento, idea, reflexi\u00f3n",
-        "de": "denken, glauben, vorstellen, erinnern; Gedanke, Idee",
         "hi": "\u0938\u094b\u091a\u0928\u093e, \u0915\u0932\u094d\u092a\u0928\u093e \u0915\u0930\u0928\u093e, \u0935\u093f\u091a\u093e\u0930 \u0915\u0930\u0928\u093e, \u092e\u093e\u0928\u0928\u093e",
         "ur": "\u0633\u0648\u0686\u0646\u0627 \u060c \u062a\u0635\u0648\u0631 \u06a9\u0631\u0646\u0627 \u060c \u06cc\u0642\u06cc\u0646 \u06a9\u0631\u0646\u0627\u060c \u0645\u0627\u0646\u0646\u0627\u060c \u06a9\u0644\u067e\u0646\u0627 \u06a9\u0631\u0646\u0627",
         "pa": "\u0a38\u0a4b\u0a1a\u0a23\u0a3e, \u0a15\u0a32\u0a2a\u0a28\u0a3e \u0a15\u0a30\u0a28\u0a3e, \u0a35\u0a3f\u0a1a\u0a3e\u0a30 \u0a15\u0a30\u0a28\u0a3e, \u0a2e\u0a28\u0a23\u0a3e, \u0a16\u0a3f\u0a06\u0a32 \u0a15\u0a30\u0a28\u0a3e",
@@ -663,9 +664,9 @@
         "en": "Schadenfreude, indirect insult or disrespect, shade",
         "ru": "\u0437\u043b\u043e\u0440\u0430\u0434\u0441\u0442\u0432\u043e, \u043a\u043e\u0441\u0432\u0435\u043d\u043d\u043e\u0435 \u043e\u0441\u043a\u043e\u0440\u0431\u043b\u0435\u043d\u0438\u0435 \u0438\u043b\u0438 \u043d\u0435\u0443\u0432\u0430\u0436\u0435\u043d\u0438\u0435",
         "eo": "\u011dojo pri sufero de aliulo, malrekta insulto a\u016d malrespekto, subtile moka esprimo de malestimo",
+        "de": "Schadenfreude, indirekte Beleidung/Respektlosigkeit",
         "tok": "tenpo ike li kama tawa jan ante la, sina pilin pona tan ni la, sina pilin itomi.",
         "es": "Schadenfreude, regodearse, insultar",
-        "de": "Schadenfreude, indirekte Beleidung/Respektlosigkeit",
         "hi": "\u0924\u093e\u0928\u093e \u092e\u093e\u0930\u0928\u093e",
         "ur": "\u0637\u0639\u0646\u06c1 \u0645\u0627\u0631\u0646\u0627",
         "pa": "\u0a24\u0a3e\u0a28\u0a3e \u0a2e\u0a3e\u0a30\u0a28\u0a3e",
@@ -701,9 +702,9 @@
         "en": "one hundred",
         "ru": "\u0441\u0442\u043e",
         "eo": "cent",
+        "de": "einhundert",
         "tok": "nasin nanpa pi lipu pu la, nimi \"jaku\" li sama nimi \"ali\" anu nimi \"mute mute mute mute mute.\"",
         "es": "cien",
-        "de": "einhundert",
         "hi": "\u090f\u0915 \u0938\u094c",
         "ur": "\u0627\u06cc\u06a9 \u0633\u0648",
         "pa": "\u0a07\u0a71\u0a15 \u0a38\u0a4c",
@@ -724,9 +725,9 @@
         "en": "foot [alternate form of noka]",
         "ru": "\u043d\u043e\u0433\u0430, \u0441\u0442\u043e\u043f\u0430 [\u0430\u043b\u044c\u0442\u0435\u0440\u043d\u0430\u0442\u0438\u0432\u043d\u0430\u044f \u0444\u043e\u0440\u043c\u0430 noka]",
         "eo": "piedo [alternativa formo de la vorto noka]",
+        "de": "Fu\u00df [Alternativform von noka]",
         "tok": "jalan li noka.",
         "es": "pie, pata [forma alternativa de la palabra noka]",
-        "de": "Fu\u00df [Alternativform von noka]",
         "hi": "\u092a\u0948\u0930, \u091f\u093e\u0902\u0917 (\u0928\u094b\u0915\u093e \u092c\u094b\u0932\u0928\u0947 \u0915\u093e \u090f\u0915 \u0914\u0930 \u0924\u0930\u0940\u0915\u093e)",
         "ur": "\u067e\u0627\u0624\u06ba\u060c \u067e\u06cc\u0631\u060c \u0679\u0627\u0646\u06af (\u0646\u0648\u06a9\u06c1 \u0628\u0648\u0644\u0646\u06d2 \u06a9\u0627 \u0627\u06cc\u06a9 \u0627\u0648\u0631 \u062a\u0631\u06cc\u0642\u0627)",
         "pa": "\u0a2a\u0a48\u0a30, \u0a1f\u0a3e\u0a70\u0a17, \u0a32\u0a71\u0a24 (\u0a28\u0a4b\u0a15\u0a3e \u0a28\u0a42\u0a70 \u0a2c\u0a4b\u0a32\u0a23 \u0a26\u0a3e \u0a07\u0a71\u0a15 \u0a39\u0a4b\u0a30 \u0a24\u0a30\u0a40\u0a15\u0a3e)",
@@ -747,9 +748,9 @@
         "en": "yummy; eliciting or stimulating a positive sensory experience",
         "ru": "\u0432\u043a\u0443\u0441\u043d\u044b\u0439; \u0441\u0442\u0438\u043c\u0443\u043b\u0438\u0440\u0443\u044e\u0449\u0438\u0439 \u043f\u043e\u043b\u043e\u0436\u0438\u0442\u0435\u043b\u044c\u043d\u043e\u0435 \u0441\u0435\u043d\u0441\u043e\u0440\u043d\u043e\u0435 \u043e\u0449\u0443\u0449\u0435\u043d\u0438\u0435",
         "eo": "bongusta; estiganta a\u016d stimulanta pozitivan sensan sperton",
+        "de": "lecker, toll",
         "tok": "moku li pona tawa sina la, ona li jami.",
         "es": "rico",
-        "de": "lecker, toll",
         "hi": "\u0938\u094d\u0935\u093e\u0926\u093f\u0937\u094d\u091f",
         "ur": "\u0644\u0630\u06cc\u0630\u060c \u062e\u0648\u0634 \u0630\u0627\u0626\u0642\u06c1",
         "pa": "\u0a38\u0a35\u0a3e\u0a26, \u0a38\u0a41\u0a06\u0a26\u0a40, \u0a38\u0a41\u0a06\u0a26\u0a32\u0a3e",
@@ -786,9 +787,9 @@
         "en": "reflect, resound, mirror, be on the opposite/polar end of",
         "ru": "\u043e\u0442\u0440\u0430\u0436\u0430\u0442\u044c, \u043e\u0442\u0434\u0430\u0432\u0430\u0442\u044c\u0441\u044f \u044d\u0445\u043e\u043c, \u0431\u044b\u0442\u044c \u043d\u0430 \u043f\u0440\u043e\u0442\u0438\u0432\u043e\u043f\u043e\u043b\u043e\u0436\u043d\u043e\u043c \u043a\u043e\u043d\u0446\u0435",
         "eo": "reflekti, resoni, speguli, esti je la mala flanko de",
+        "de": "Spiegel, Gegenteil; reflektieren; gegenteilig",
         "tok": "selo telo li lon supa la, ona li ken jasima e sewi e sinpin sina. ante la, jasima li ken lon sama ilo pi lukin sama.",
         "es": "reflejar, resonar; espejo, extremo opuesto",
-        "de": "Spiegel, Gegenteil; reflektieren; gegenteilig",
         "hi": "\u092a\u0930\u091b\u093e\u0908, \u0906\u0908\u0928\u093e, \u0936\u0940\u0936\u093e, \u0909\u0932\u091f\u093e, \u0935\u093f\u092a\u094d\u0930\u0940\u0924",
         "ur": "\u0639\u06a9\u0627\u0633\u06cc\u060c \u067e\u0631\u0686\u06be\u0627\u0626\u06cc\u060c \u0622\u0626\u06cc\u0646\u06c1\u060c \u0634\u06cc\u0634\u06c1\u060c \u0627\u0644\u0679\u0627 \u060c \u0645\u062e\u0627\u0644\u0641",
         "pa": "\u0a2a\u0a30\u0a1b\u0a3e\u0a08, \u0a06\u0a08\u0a28\u0a3e, \u0a38\u0a3c\u0a40\u0a38\u0a3c\u0a3e, \u0a2a\u0a41\u0a71\u0a20\u0a3e",
@@ -809,9 +810,9 @@
         "en": "the digit \u20181\u2019",
         "ru": "\u0446\u0438\u0444\u0440\u0430 1",
         "eo": "cifero unu",
+        "de": "Ziffer \u201e1\u201c",
         "tok": "jatu li sitelen nanpa pi nanpa wan.",
         "es": "el d\u00edgito 1",
-        "de": "Ziffer \u201e1\u201c",
         "hi": "\u0905\u0902\u0915 \u090f\u0915",
         "ur": "\u0646\u0645\u0628\u0631 \u0627\u06cc\u06a9",
         "pa": "\u0a28\u0a2e\u0a2c\u0a30 \u0a07\u0a71\u0a15",
@@ -894,9 +895,9 @@
         "en": "the digit \u20189\u2019",
         "ru": "\u0446\u0438\u0444\u0440\u0430 9",
         "eo": "cifero na\u016d",
+        "de": "Ziffer \u201e9\u201c",
         "tok": "kajo li sitelen nanpa pi nanpa luka tu tu.",
         "es": "el d\u00edgito 9",
-        "de": "Ziffer \u201e9\u201c",
         "hi": "\u0905\u0902\u0915 \u0928\u094c",
         "ur": "\u0646\u0645\u0628\u0631 \u0646\u0648",
         "pa": "\u0a28\u0a2e\u0a2c\u0a30 \u0a28\u0a4c",
@@ -964,9 +965,9 @@
         "en": "anarchy, uprising, revolt, rebellion",
         "ru": "\u0430\u043d\u0430\u0440\u0445\u0438\u044f, \u0432\u043e\u0441\u0441\u0442\u0430\u043d\u0438\u0435, \u043c\u044f\u0442\u0435\u0436",
         "eo": "anarkio, rebelo",
+        "de": "Anarchie, Aufstand, Rebellion",
         "tok": "tenpo kama pi lawa ala li tenpo kamalawala.",
         "es": "anarqu\u00eda, revuelta, rebeli\u00f3n, sublevaci\u00f3n, levantamiento",
-        "de": "Anarchie, Aufstand, Rebellion",
         "hi": "\u092c\u0917\u093c\u093e\u0935\u0924, \u0906\u0902\u0926\u094b\u0932\u0928, \u0907\u0902\u0915\u0932\u093e\u092c, \u0935\u093f\u0926\u094d\u0930\u094b\u0939",
         "ur": "\u0628\u063a\u0627\u0648\u062a \u060c \u062a\u062d\u0631\u06cc\u06a9 \u060c \u0627\u0646\u0642\u0644\u0627\u0628 \u060c \u0622\u0646\u062f\u0648\u0644\u0646",
         "pa": "\u0a2c\u0a17\u0a3e\u0a35\u0a24, \u0a07\u0a28\u0a15\u0a32\u0a3e\u0a2c, \u0a05\u0a70\u0a26\u0a4b\u0a32\u0a28",
@@ -987,9 +988,9 @@
         "en": "with, among, in the company of",
         "ru": "\u0441, \u0441\u0440\u0435\u0434\u0438, \u0432\u043c\u0435\u0441\u0442\u0435 \u0441",
         "eo": "kun, inter",
+        "de": "mit, in Gesellschaft von",
         "tok": "mi lon poka sina. mi en sina li tawa tomo esun. mi tawa tomo esun kan sina.",
         "es": "con",
-        "de": "mit, in Gesellschaft von",
         "hi": "\u0915\u0947 \u0938\u093e\u0925",
         "ur": "\u06a9\u06d2 \u0633\u0627\u062a\u06be",
         "pa": "\u0a26\u0a47 \u0a28\u0a3e\u0a32\u0a3c",
@@ -1010,9 +1011,9 @@
         "en": "extrusion, protrusion, hill, mountain, button",
         "ru": "\u0432\u044b\u0441\u0442\u0443\u043f, \u0445\u043e\u043b\u043c, \u0433\u043e\u0440\u0430, \u043a\u043d\u043e\u043f\u043a\u0430, \u043f\u0443\u0433\u043e\u0432\u0438\u0446\u0430",
         "eo": "elstara malebena\u0135o, elstara\u0135o, monteto, monto, butono",
+        "de": "Berg, H\u00fcgel, Knopf, Beule, Erh\u00f6hung [Alternativform von nena]",
         "tok": "kapa li nena.",
         "es": "colina, monta\u00f1a, bot\u00f3n, bulto, chich\u00f3n [forma alternativa de la palabra nena]",
-        "de": "Berg, H\u00fcgel, Knopf, Beule, Erh\u00f6hung [Alternativform von nena]",
         "hi": "\u092a\u0939\u093e\u0921\u093c, \u092a\u0930\u094d\u0935\u0924, \u092c\u091f\u0928, \u0909\u092d\u093e\u0930 (\u0928\u0947\u0928\u093e \u092c\u094b\u0932\u0928\u0947 \u0915\u093e \u090f\u0915 \u0914\u0930 \u0924\u0930\u0940\u0915\u093e)",
         "ur": "\u067e\u06c1\u0627\u0691 \u060c \u067e\u06c1\u0627\u0691 \u060c \u0628\u0679\u0646 \u060c \u0628\u0644\u062c (\u06a9\u0627\u067e\u06c1 \u0628\u0648\u0644\u0646\u06d2 \u06a9\u0627 \u0627\u06cc\u06a9 \u0627\u0648\u0631 \u062a\u0631\u06cc\u0642\u0627)",
         "pa": "\u0a2a\u0a39\u0a3e\u0a5c, \u0a2c\u0a1f\u0a28, \u0a09\u0a2d\u0a3e\u0a30 (\u0a28\u0a47\u0a28\u0a3e \u0a28\u0a42\u0a70 \u0a2c\u0a4b\u0a32\u0a23 \u0a26\u0a3e \u0a07\u0a71\u0a15 \u0a39\u0a4b\u0a30 \u0a24\u0a30\u0a40\u0a15\u0a3e)",
@@ -1032,9 +1033,9 @@
         "en": "brown, gray",
         "ru": "\u043a\u043e\u0440\u0438\u0447\u043d\u0435\u0432\u044b\u0439, \u0441\u0435\u0440\u044b\u0439",
         "eo": "bruna, griza",
+        "de": "braun, grau",
         "tok": "kapesi li nimi kule. ona li sama nimi \"pimeja jelo\" anu \"pimeja walo.\"",
         "es": "marr\u00f3n, casta\u00f1o, caf\u00e9; pardo; gris, rucio",
-        "de": "braun, grau",
         "hi": "\u092d\u0942\u0930\u093e, \u0927\u0942\u0938\u0930",
         "ur": "\u0628\u06be\u0648\u0631\u0627",
         "pa": "\u0a2d\u0a42\u0a30\u0a3e",
@@ -1071,9 +1072,9 @@
         "en": "(acknowledgment or acceptance)",
         "ru": "(\u043f\u043e\u0434\u0442\u0432\u0435\u0440\u0436\u0434\u0435\u043d\u0438\u0435 \u0438\u043b\u0438 \u043f\u0440\u0438\u043d\u044f\u0442\u0438\u0435)",
         "eo": "(agnosko a\u016d akcepto)",
+        "de": "(Anerkennung oder Akzeptanz)",
         "tok": "sina pilin pona la, sina pilin oke. ijo li pona tawa sina la, o toki e ni: \"ke!\" sina wile e ijo? sina wile la, o toki e ni: \"ke.\"",
         "es": "de acuerdo, est\u00e1 bien, vale, okey",
-        "de": "(Anerkennung oder Akzeptanz)",
         "hi": "\u0920\u0940\u0915 \u0939\u0948, (\u092c\u093e\u0924 \u0938\u092e\u091d\u0928\u0947 \u0915\u093e \u092a\u094d\u0930\u0924\u0940\u0915)",
         "ur": "\u0679\u06be\u06cc\u06a9 \u06c1\u06d2 \u060c (\u0628\u0627\u062a \u0633\u0645\u062c\u06be\u0646\u06d2 \u06a9\u06cc \u0639\u0644\u0627\u0645\u062a)",
         "pa": "\u0a20\u0a3f\u0a71\u0a15 \u0a39\u0a48 (\u0a17\u0a71\u0a32 \u0a38\u0a2e\u0a1d\u0a23 \u0a26\u0a3e \u0a1a\u0a3f\u0a70\u0a28\u0a4d\u0a39)",
@@ -1141,9 +1142,9 @@
         "en": "(relative clause marker)",
         "ru": "(\u043f\u043e\u043a\u0430\u0437\u0430\u0442\u0435\u043b\u044c \u043e\u0442\u043d\u043e\u0441\u0438\u0442\u0435\u043b\u044c\u043d\u043e\u0433\u043e \u043f\u0440\u0435\u0434\u043b\u043e\u0436\u0435\u043d\u0438\u044f)",
         "eo": "(relativa subfrazo-markilo)",
+        "de": "Relativsatzmarker",
         "tok": "mi ken toki e ni: toki pona li toki pona. mi ken toki ki toki pona li toki pona. nanpa wan li sama nanpa tu.",
         "es": "(marcador de cl\u00e1usula relativa)",
-        "de": "Relativsatzmarker",
         "hi": "\u0938\u0902\u092c\u0902\u0927\u0935\u093e\u091a\u0915 \u0916\u0902\u0921 \u0915\u093e \u092a\u094d\u0930\u0924\u0940\u0915 (\u092e\u093f\u0938\u093e\u0932: \u0935\u094b \u0932\u0921\u093c\u0915\u0940 \u091c\u094b \u0938\u092c\u0938\u0947 \u0905\u0932\u0917 \u0939\u0948)",
         "ur": "\u0631\u0634\u062a\u06c1 \u062f\u0627\u0631 \u0634\u0642 \u06a9\u06cc \u0639\u0644\u0627\u0645\u062a (\u0645\u062b\u0627\u0644: \u0648\u06c1 \u0644\u0691\u06a9\u06cc \u062c\u0648 \u0633\u0628 \u0633\u06d2 \u0627\u0644\u06af \u06c1\u06d2)",
         "pa": "\u0a38\u0a70\u0a2c\u0a70\u0a27\u0a35\u0a3e\u0a1a\u0a15 \u0a16\u0a70\u0a21 \u0a26\u0a3e \u0a1a\u0a3f\u0a70\u0a28\u0a4d\u0a39 (\u0a2e\u0a3f\u0a38\u0a3e\u0a32: \u0a13\u0a39 \u0a15\u0a41\u0a5c\u0a40 \u0a1c\u0a4b \u0a38\u0a2d \u0a24\u0a4b\u0a02 \u0a35\u0a16\u0a30\u0a40 \u0a39\u0a48)",
@@ -1164,9 +1165,9 @@
         "en": "any animal from the Procyonidae family, such as raccoons, coatis, kinkajous, olingos, ringtails and cacomistles | ALT any animal from the Musteloidea superfamily, including raccoons, weasels, otters, skunks, and red pandas",
         "ru": "\u043b\u044e\u0431\u043e\u0435 \u0436\u0438\u0432\u043e\u0442\u043d\u043e\u0435 \u0438\u0437 \u0441\u0435\u043c\u0435\u0439\u0441\u0442\u0432\u0430 \u0435\u043d\u043e\u0442\u043e\u0432\u044b\u0445, \u0442\u0430\u043a\u0438\u0435 \u043a\u0430\u043a \u0435\u043d\u043e\u0442\u044b, \u043e\u043b\u0438\u043d\u0433\u043e, \u043a\u0430\u043a\u043e\u043c\u0438\u0442\u0446\u043b\u0438, \u043d\u043e\u0441\u0443\u0445\u0438, \u043a\u0438\u043d\u043a\u0430\u0436\u0443",
         "eo": "iu ajn besto en la familio de procionedoj, kiel lavursoj, koatioj, kinkajuoj, basaricionoj, basariskoj kaj kakomistloj",
+        "de": "Tiere der Familie der Kleinb\u00e4ren, u.a. Waschb\u00e4ren, Nasenb\u00e4ren, Wickelb\u00e4ren, Makib\u00e4ren, Katzenfrette",
         "tok": "kijetesantakalu li soweli. ona li jo e sinpin pimeja e monsi linja. ona li kepeken luka ona.",
         "es": "mapache, coat\u00edes, cola anillada",
-        "de": "Tiere der Familie der Kleinb\u00e4ren, u.a. Waschb\u00e4ren, Nasenb\u00e4ren, Wickelb\u00e4ren, Makib\u00e4ren, Katzenfrette",
         "hi": "Procyonidae \u0915\u0941\u0932 \u0915\u093e \u0915\u094b\u0908 \u091c\u0940\u0935, \u091c\u0948\u0938\u0947 \u0930\u0915\u0942\u0928, \u0913\u0932\u093f\u0902\u0917\u094b \u0906\u0926\u093f",
         "ur": "\u067e\u0631\u0648\u0633\u06cc\u0648\u0646\u0627\u0626\u0688\u0627\u0626 \u062e\u0627\u0646\u062f\u0627\u0646 \u06a9\u06d2 \u06a9\u0633\u06cc \u0628\u06be\u06cc \u062d\u06cc\u0627\u062a\u06cc\u0627\u062a \u060c \u062c\u06cc\u0633\u06d2 \u0631\u06cc\u06a9\u0648\u0646\u0632 \u060c \u0627\u0648\u0644\u06cc\u0646\u06af\u0648 \u0648\u063a\u06cc\u0631\u06c1\u06d4",
         "pa": "Procyonidae \u0a15\u0a41\u0a32 \u0a26\u0a3e \u0a15\u0a4b\u0a08 \u0a1c\u0a3e\u0a28\u0a35\u0a30: \u0a30\u0a15\u0a42\u0a28, \u0a13\u0a32\u0a3f\u0a70\u0a17\u0a4b, \u0a06\u0a26\u0a3f",
@@ -1186,9 +1187,9 @@
         "en": "spiky, sharp, angle, point, triangular",
         "ru": "\u043e\u0441\u0442\u0440\u043e\u043a\u043e\u043d\u0435\u0447\u043d\u044b\u0439, \u043e\u0441\u0442\u0440\u044b\u0439, \u0443\u0433\u043e\u043b, \u043e\u0441\u0442\u0440\u0438\u0435, \u0442\u0440\u0435\u0443\u0433\u043e\u043b\u044c\u043d\u044b\u0439",
         "eo": "pinta, akra, angulo, pinto, triangula",
+        "de": "stachelig, scharf, eckig, dreieckig",
         "tok": "ijo li kiki la, ona li ken pakala e luka jan. poka pi ijo kiki li sike ala. poka ona li jo e linja wawa mute.",
         "es": "puntiagudo, afilado, angular, triangular",
-        "de": "stachelig, scharf, eckig, dreieckig",
         "hi": "\u0924\u0940\u0916\u093e (\u091b\u0941\u0930\u0947 \u091c\u0948\u0938\u093e), \u0915\u094b\u0923, \u0924\u094d\u0930\u093f\u0915\u094b\u0923 \u091c\u0948\u0938\u093e",
         "ur": "\u062a\u06cc\u0632 \u0627\u0648\u0631 \u062a\u06cc\u062e\u0627 (\u0686\u0627\u0642\u0648 \u06a9\u06cc \u0637\u0631\u062d)\u060c \u0632\u0627\u0648\u06cc\u06c1, \u0645\u062b\u0644\u062b \u062c\u06cc\u0633\u0627",
         "pa": "\u0a24\u0a3f\u0a71\u0a16\u0a3e (\u0a1b\u0a41\u0a30\u0a47 \u0a35\u0a30\u0a17\u0a3e), \u0a15\u0a4b\u0a23, \u0a24\u0a3f\u0a30\u0a15\u0a4b\u0a23 \u0a35\u0a30\u0a17\u0a3e",
@@ -1228,9 +1229,9 @@
         "en": "{see a} | ALT indeed, too, also, as well",
         "ru": "{\u0441\u043c. a} | ALT \u0434\u0435\u0439\u0441\u0442\u0432\u0438\u0442\u0435\u043b\u044c\u043d\u043e, \u0442\u043e\u0436\u0435, \u0442\u0430\u043a\u0436\u0435, \u043a\u0440\u043e\u043c\u0435 \u0442\u043e\u0433\u043e",
         "eo": "{vidu a} | ALT ja, anka\u016d, certe",
+        "de": "jawohl, in der Tat; auch, ebenfalls, au\u00dferdem; sogar",
         "tok": "pu la, nimi \"kin\" li sama nimi \"a,\" taso nimi \"kin\" li ken suli e wawa nimi. ni la, nimi \"a\" li pana taso e sona pilin.",
         "es": "ciertamente, de verdad, de hecho; tambi\u00e9n, adem\u00e1s; a\u00fan, incluso",
-        "de": "jawohl, in der Tat; auch, ebenfalls, au\u00dferdem; sogar",
         "hi": "\u092d\u0940",
         "ur": "\u0628\u06be\u06cc",
         "pa": "\u0a35\u0a40",
@@ -1252,9 +1253,9 @@
         "en": "split, cut, slice, sever; sharp",
         "ru": "\u0440\u0430\u0437\u0434\u0435\u043b\u044f\u0442\u044c, \u043e\u0442\u0440\u0435\u0437\u0430\u0442\u044c, \u0440\u0430\u0437\u0440\u0435\u0437\u0430\u0442\u044c, \u043e\u0442\u0434\u0435\u043b\u044f\u0442\u044c; \u043e\u0441\u0442\u0440\u044b\u0439, \u0437\u0430\u0442\u043e\u0447\u0435\u043d\u043d\u044b\u0439",
         "eo": "apartigi, dividi, fendi, tran\u0109i",
+        "de": "teilen, schneiden, trennen; scharf",
         "tok": "mi tu e kasi mi, taso mi jo ala e kasi tu. mi pakala e selo kasi. mi kipisi e kasi mi.",
         "es": "partir, dividir, escindir, cortar, rebanar; afilado, filoso, puntiagudo",
-        "de": "teilen, schneiden, trennen; scharf",
         "hi": "\u092c\u093e\u0902\u091f\u0928\u093e, \u0915\u093e\u091f\u0928\u093e, \u0924\u0940\u0916\u093e",
         "ur": "\u0628\u0627\u06ba\u0679\u0646\u0627\u060c \u06a9\u0627\u0679\u0646\u0627 \u060c \u062a\u06cc\u0632 \u0627\u0648\u0631 \u062a\u06cc\u062e\u0627",
         "pa": "\u0a35\u0a70\u0a21\u0a23\u0a3e, \u0a15\u0a3e\u0a1f\u0a23\u0a3e, \u0a24\u0a3f\u0a71\u0a16\u0a3e",
@@ -1274,9 +1275,9 @@
         "en": "cat",
         "ru": "\u043a\u043e\u0442, \u043a\u043e\u0448\u043a\u0430",
         "eo": "kato",
+        "de": "Katze",
         "tok": "kisa li soweli. ona li jo e noka tu tu e monsi linja. ona li soweli tomo. kalama la, ona li mu pi wawa lili.",
         "es": "gato",
-        "de": "Katze",
         "hi": "\u092c\u093f\u0932\u094d\u0932\u093e, \u092c\u093f\u0932\u094d\u0932\u0940",
         "ur": "\u0628\u0644\u0651\u06cc",
         "pa": "\u0a2c\u0a3f\u0a71\u0a32\u0a3e, \u0a2c\u0a3f\u0a71\u0a32\u0a40",
@@ -1329,9 +1330,9 @@
         "en": "to speak a non-Toki Pona language in an environment where Toki Pona is more appropriate",
         "ru": "\u0433\u043e\u0432\u043e\u0440\u0438\u0442\u044c \u043d\u0430 \u044f\u0437\u044b\u043a\u0435, \u043e\u0442\u043b\u0438\u0447\u043d\u043e\u043c \u043e\u0442 \u0442\u043e\u043a\u0438 \u043f\u043e\u043d\u044b, \u0432 \u0441\u0440\u0435\u0434\u0435, \u0433\u0434\u0435 \u0442\u043e\u043a\u0438 \u043f\u043e\u043d\u0430 \u0431\u043e\u043b\u0435\u0435 \u0443\u043c\u0435\u0441\u0442\u043d\u0430",
         "eo": "paroli netokipone en situacio, kie Tokipono estus pli ta\u016dga",
+        "de": "nicht Toki Pona sprechen, wenn Toki Pona angemessener w\u00e4re",
         "tok": "sina toki e toki ante lon ma pi toki pona taso la, sina kokosila.",
         "es": "no hablar Toki Pona cuando Toki Pona ser\u00eda m\u00e1s apropiado",
-        "de": "nicht Toki Pona sprechen, wenn Toki Pona angemessener w\u00e4re",
         "hi": "\u0917\u093c\u0948\u0930 \u0924\u094b\u0915\u0940 \u092a\u094b\u0928\u093e \u092d\u093e\u0937\u093e \u092c\u094b\u0932\u0928\u093e, \u090f\u0915 \u0910\u0938\u0940 \u091c\u0917\u0939 \u092e\u0947\u0902 \u091c\u0939\u093e\u0902 \u0924\u094b\u0915\u0940 \u092a\u094b\u0928\u093e \u092c\u094b\u0932\u0928\u093e \u091c\u093c\u094d\u092f\u093e\u0926\u093e \u0909\u091a\u093f\u0924 \u0939\u094b\u0917\u093e",
         "ur": "\u0627\u06cc\u06a9 \u0627\u06cc\u0633\u06cc \u062c\u06af\u06c1 \u0645\u06cc\u06ba \u063a\u06cc\u0631 \u062a\u0648\u06a9\u06cc \u067e\u0648\u0646\u06c1 \u0632\u0628\u0627\u0646 \u0628\u0648\u0644\u0646\u0627 \u062c\u06c1\u0627\u06ba \u062a\u0648\u06a9\u06cc \u067e\u0648\u0646\u06c1 \u0628\u0648\u0644\u0646\u0627 \u0632\u06cc\u0627\u062f\u06c1 \u0645\u0646\u0627\u0635\u0628 \u06c1\u06d2",
         "pa": "\u0a17\u0a48\u0a30 \u0a24\u0a4b\u0a15\u0a40 \u0a2a\u0a4b\u0a23\u0a3e \u0a2d\u0a3e\u0a38\u0a3c\u0a3e \u0a2c\u0a4b\u0a32\u0a23\u0a3e, \u0a07\u0a71\u0a15 \u0a07\u0a39\u0a4b \u0a1c\u0a3f\u0a39\u0a5c\u0a40 \u0a25\u0a3e\u0a02 \u0a35\u0a3f\u0a71\u0a1a \u0a1c\u0a3f\u0a71\u0a25\u0a47 \u0a24\u0a4b\u0a15\u0a40 \u0a2a\u0a4b\u0a23\u0a3e \u0a2c\u0a4b\u0a32\u0a28\u0a3e \u0a35\u0a71\u0a27 \u0a2e\u0a28\u0a3e\u0a38\u0a2c \u0a05\u0a24\u0a47 \u0a38\u0a39\u0a40 \u0a39\u0a48",
@@ -1368,9 +1369,9 @@
         "en": "interacting with the Toki Pona Dictionary by Sonja Lang",
         "ru": "\u0432\u0437\u0430\u0438\u043c\u043e\u0434\u0435\u0439\u0441\u0442\u0432\u043e\u0432\u0430\u0442\u044c \u0441\u043e \u0441\u043b\u043e\u0432\u0430\u0440\u0435\u043c Toki Pona \u0421\u043e\u043d\u0438 \u041b\u0430\u043d\u0433",
         "eo": "interagante kun la Tokipona Vortaro de Sonja Lang",
+        "de": "interagieren mit dem Toki Pona W\u00f6rterbuch von Sonja Lang",
         "tok": "lipu ku li lipu sin tan jan Sonja. ijo anu jan li lon poka lipu ku la, ona li ku.",
         "es": "interactuando con el Diccionario Toki Pona por Sonja Lang",
-        "de": "interagieren mit dem Toki Pona W\u00f6rterbuch von Sonja Lang",
         "hi": "\u0938\u094b\u0928\u094d\u092f\u093e \u0932\u093e\u0902\u0917 \u0915\u0947 \u0924\u0947\u0915\u0940 \u092a\u094b\u0928\u093e \u0936\u092c\u094d\u0926\u0915\u094b\u0936 \u0915\u0947 \u0938\u093e\u0925 \u0915\u0941\u091b \u0915\u0930\u0928\u0947 \u0935\u093e\u0932\u093e",
         "ur": "\u0633\u0648\u0646\u06cc\u06c1 \u0644\u0627\u0646\u06af \u06a9\u06d2 \u062a\u0648\u06a9\u06cc \u067e\u0648\u0646\u06c1 \u0644\u063a\u062a \u06a9\u06d2 \u0633\u0627\u062a\u06be \u06a9\u0686\u06be \u06a9\u0631\u0646\u06d2 \u0648\u0627\u0644\u0627",
         "pa": "\u0a38\u0a4b\u0a28\u0a3f\u0a06 \u0a32\u0a3e\u0a02\u0a17 \u0a26\u0a47 \u0a36\u0a2c\u0a26\u0a15\u0a4b\u0a36 \u0a26\u0a47 \u0a28\u0a3e\u0a33 \u0a15\u0a41\u0a1d \u0a15\u0a30\u0a28\u0a3e",
@@ -1406,9 +1407,9 @@
         "en": "[interjection] casual expression of appreciation or acknowledgement; cool, fine, okay",
         "ru": "[\u043c\u0435\u0436\u0434\u043e\u043c\u0435\u0442\u0438\u0435] \u043f\u043e\u0432\u0441\u0435\u0434\u043d\u0435\u0432\u043d\u043e\u0435 \u0432\u044b\u0440\u0430\u0436\u0435\u043d\u0438\u0435 \u043f\u043e\u0434\u0442\u0432\u0435\u0440\u0436\u0434\u0435\u043d\u0438\u044f \u0438\u043b\u0438 \u043f\u0440\u0438\u0437\u043d\u0430\u0442\u0435\u043b\u044c\u043d\u043e\u0441\u0442\u0438; \u043a\u0440\u0443\u0442\u043e, \u043e\u043a\u0435\u0439, \u0445\u043e\u0440\u043e\u0448\u043e",
         "eo": "[interjekcio] malformala esprimo de aprezo a\u016d agnosko; bone, en ordo, o kej",
+        "de": "cool, knorke, k\u00fchl",
         "tok": "kulijo li pilin ni: tenpo ni la, ali li pona tawa sina.",
         "es": "guay, bac\u00e1n",
-        "de": "cool, knorke, k\u00fchl",
         "hi": "\u0915\u0942\u0932\u093f\u092f\u094b (\u0905\u092e\u0930\u0940\u0915\u0940 \u0905\u0902\u0917\u094d\u0930\u0947\u091c\u093c\u0940)",
         "ur": "\u06a9\u0648\u0652\u0644\u0650\u06cc\u0648 (\u0627\u0645\u0631\u06cc\u06a9\u06cc \u0627\u0646\u06af\u0631\u06cc\u0632\u06cc)",
         "pa": "\u0a15\u0a42\u0a32\u0a3f\u0a13 (\u0a05\u0a2e\u0a30\u0a40\u0a15\u0a40 \u0a05\u0a70\u0a17\u0a30\u0a47\u0a1c\u0a40)",
@@ -1429,9 +1430,9 @@
         "en": "(shortened variant of kulupu); six (particularly in senary base)",
         "ru": "(\u0443\u043a\u043e\u0440\u043e\u0447\u0435\u043d\u043d\u044b\u0439 \u0432\u0430\u0440\u0438\u0430\u043d\u0442 kulupu); \u0448\u0435\u0441\u0442\u044c (\u043e\u0441\u043e\u0431\u0435\u043d\u043d\u043e \u0432 \u0448\u0435\u0441\u0442\u0435\u0440\u0438\u0447\u043d\u043e\u0439 \u0441\u0438\u0441\u0442\u0435\u043c\u0435 \u0441\u0447\u0438\u0441\u043b\u0435\u043d\u0438\u044f)",
         "eo": "(mallonga varia\u0135o de kulupu); ses (plej ofte en sesuma nombrosistemo)",
+        "de": "(Kurzform von kulupu); 6 (besonders im Sechserzahlensystem)",
         "tok": "nimi \"kulu\" li nimi lili. ona li sama nimi \"kulupu.\"",
         "es": "(variante abreviada de la palabra kulupu); seis (particularmente en base senaria)",
-        "de": "(Kurzform von kulupu); 6 (besonders im Sechserzahlensystem)",
         "hi": "(\u0915\u0942\u0932\u0941\u092a\u0941 \u0936\u092c\u094d\u0926 \u0915\u093e \u090f\u0915 \u091b\u094b\u091f\u093e \u092a\u094d\u0930\u0915\u093e\u0930), \u091b\u0947, \u091b\u0903",
         "ur": "(\u06a9\u0652\u0648\u0644\u0652\u067e\u0652 \u0644\u0641\u0638 \u0628\u0648\u0644\u0646\u06d2 \u06a9\u0627 \u0627\u06cc\u06a9 \u0627\u0648\u0631 \u062a\u0631\u06cc\u0642\u0627)\u061b \u0686\u06be\u06c1\u060c \u0686\u06be\u06d2",
         "pa": "(\u0a15\u0a42\u0a32\u0a41\u0a2a\u0a41 \u0a38\u0a3c\u0a2c\u0a26 \u0a28\u0a42\u0a70 \u0a2c\u0a4b\u0a32\u0a23 \u0a26\u0a3e \u0a07\u0a71\u0a15 \u0a28\u0a3f\u0a71\u0a15\u0a3e \u0a1c\u0a3f\u0a39\u0a3e \u0a24\u0a30\u0a40\u0a15\u0a3e), \u0a1b\u0a47",
@@ -1467,9 +1468,9 @@
         "en": "laughter, chuckle, laugh, comedy, humor",
         "ru": "\u0441\u043c\u0435\u0445, \u0441\u043c\u0435\u0448\u043e\u043a, \u0445\u043e\u0445\u043e\u0442, \u044e\u043c\u043e\u0440",
         "eo": "ridado, humuro",
+        "de": "Lachen, Humor",
         "tok": "sina pana e kalama musi tan uta sina la, sina kuntu.",
         "es": "risa, humor",
-        "de": "Lachen, Humor",
         "hi": "\u0939\u093e\u0938\u094d\u092f, \u0939\u0901\u0938\u0940",
         "ur": "\u06c1\u0646\u0633\u06cc \u0645\u0630\u0627\u0642 \u060c \u06c1\u0646\u0633\u06cc",
         "pa": "\u0a39\u0a70\u0a38\u0a40, \u0a39\u0a70\u0a38\u0a40 \u0a2e\u0a1c\u0a3e\u0a15",
@@ -1523,9 +1524,9 @@
         "en": "take, seize, catch, receive, get",
         "ru": "\u0432\u0437\u044f\u0442\u044c, \u0441\u0445\u0432\u0430\u0442\u0438\u0442\u044c, \u0437\u0430\u0431\u0440\u0430\u0442\u044c, \u043f\u043e\u0439\u043c\u0430\u0442\u044c, \u043f\u043e\u043b\u0443\u0447\u0438\u0442\u044c",
         "eo": "preni, kapti, ricevi",
+        "de": "nehmen, erobern, fangen, bekommen, kriegen",
         "tok": "tenpo pi kama jo wawa li tenpo lanpan. ",
         "es": "tomar, coger, agarrar, capturar, recibir, obtener, conseguir",
-        "de": "nehmen, erobern, fangen, bekommen, kriegen",
         "hi": "\u0932\u0947\u0928\u093e, \u091b\u0940\u0928 \u0932\u0947\u0928\u093e, \u092a\u0915\u0921\u093c\u0928\u093e, \u092e\u093f\u0932\u0928\u093e",
         "ur": "\u0644\u06cc\u0646\u0627\u060c \u067e\u06a9\u0691\u0646\u0627\u060c \u0686\u06be\u06cc\u0646 \u0644\u06cc\u0646\u0627\u060c \u0645\u0644\u0646\u0627",
         "pa": "\u0a32\u0a48\u0a23\u0a3e, \u0a1b\u0a3f\u0a71\u0a28 \u0a32\u0a48\u0a23\u0a3e, \u0a2b\u0a5c\u0a28\u0a3e, \u0a2e\u0a3f\u0a32\u0a23\u0a3e",
@@ -1594,9 +1595,9 @@
         "en": "stairs, square, block, corner, cube",
         "ru": "\u043b\u0435\u0441\u0442\u043d\u0438\u0446\u0430, \u043a\u0432\u0430\u0434\u0440\u0430\u0442, \u0431\u043b\u043e\u043a, \u0443\u0433\u043e\u043b, \u043a\u0443\u0431",
         "eo": "\u0161tuparo, kvadrato, bloko, angulo",
+        "de": "Treppen, Klotz, W\u00fcrfel, Quadrat",
         "tok": "sitelen la, leko li ijo pi poka tu tu. ",
         "es": "escalaras, cuadrado, casilla, bloque, cubo",
-        "de": "Treppen, Klotz, W\u00fcrfel, Quadrat",
         "hi": "\u0938\u0940\u0922\u093c\u0940, \u0935\u0930\u094d\u0917, \u0921\u092c\u094d\u092c\u093e",
         "ur": "\u0633\u06cc\u0691\u06be\u06cc\u0627\u06ba \u060c \u0645\u0631\u0628\u0639 \u060c \u0628\u0644\u0627\u06a9 \u060c \u0645\u06a9\u0639\u0628\u060c \u0688\u0628\u0651\u0627",
         "pa": "\u0a2a\u0a4c\u0a5c\u0a40, \u0a35\u0a30\u0a17, \u0a21\u0a71\u0a2c\u0a3e",
@@ -1633,9 +1634,9 @@
         "en": "the digit \u20180\u2019",
         "ru": "\u0446\u0438\u0444\u0440\u0430 0",
         "eo": "cifero nulo",
+        "de": "Ziffer \u201e0\u201c",
         "tok": "lenke li sitelen nanpa pi nanpa ala.",
         "es": "el d\u00edgito 0",
-        "de": "Ziffer \u201e0\u201c",
         "hi": "\u0905\u0902\u0915 \u0936\u0942\u0928\u094d\u092f",
         "ur": "\u0646\u0645\u0628\u0631 \u0635\u0641\u0631\u060c \u0632\u06cc\u0631\u0648",
         "pa": "\u0a28\u0a38\u0a2c\u0a30 \u0a1c\u0a40\u0a30\u0a4b",
@@ -1690,9 +1691,9 @@
         "en": "collection, assortment, menagerie, arrangement, handful, harvest; seven",
         "ru": "\u043a\u043e\u043b\u043b\u0435\u043a\u0446\u0438\u044f, \u043d\u0430\u0431\u043e\u0440, \u0437\u0432\u0435\u0440\u0438\u043d\u0435\u0446, \u0430\u0440\u0430\u043d\u0436\u0438\u0440\u043e\u0432\u043a\u0430, \u043f\u0440\u0438\u0433\u043e\u0440\u0448\u043d\u044f, \u0443\u0440\u043e\u0436\u0430\u0439; \u0441\u0435\u043c\u044c",
         "eo": "kolekto, aro, sortimento, mena\u011derio, aran\u011do, plenmano, iom, rikolto; sep",
+        "de": "Kollektion, Sortiment, Sammlung, Ertrag, Auslese",
         "tok": "likujo li kulupu ijo anu kulupu kasi moku.",
         "es": "colecci\u00f3n, surtido, menagerie, arreglo, pu\u00f1ado, manojo, cosecha",
-        "de": "Kollektion, Sortiment, Sammlung, Ertrag, Auslese",
         "hi": "\u0938\u092e\u0942\u0939, \u0917\u0941\u091f, \u0938\u0902\u0917\u094d\u0930\u0939, \u0915\u094d\u0930\u092e, \u0909\u092a\u091c",
         "ur": "\u0627\u0646\u062c\u0645\u0646 \u060c \u06af\u0631\u0648\u067e \u060c \u0645\u062c\u0645\u0648\u0639\u0647 \u060c \u062a\u0631\u062a\u06cc\u0628 \u060c \u067e\u06cc\u062f\u0627\u0648\u0627\u0631\u060c \u0627\u067e\u062c",
         "pa": "\u0a17\u0a41\u0a71\u0a1f, \u0a15\u0a4d\u0a30\u0a2e, \u0a09\u0a2a\u0a1c",
@@ -1746,9 +1747,9 @@
         "en": "network, internet, connection; weave, braid, interlace",
         "ru": "\u0441\u0435\u0442\u044c, \u0438\u043d\u0442\u0435\u0440\u043d\u0435\u0442, \u0441\u0432\u044f\u0437\u044c; \u043f\u043b\u0435\u0441\u0442\u0438, \u043f\u0435\u0440\u0435\u043f\u043b\u0435\u0442\u0430\u0442\u044c",
         "eo": "reto, interreto, interkonekto; teksi; interplekti",
+        "de": "Netzwerk, Internet, Verbindung",
         "tok": "linluwi li kulupu pi ilo sona. lipu \"nimi ali epiku\" li lon linluwi.",
         "es": "red, Internet, conexi\u00f3n; tejer, entrelazar, trenzar",
-        "de": "Netzwerk, Internet, Verbindung",
         "hi": "\u0928\u0947\u091f\u0935\u0930\u094d\u0915, \u0907\u0902\u091f\u0930\u0928\u0947\u091f; \u091c\u093e\u0932, (\u092c\u093e\u0932\u094b\u0902 \u0915\u0940) \u091a\u094b\u091f\u0940, ",
         "ur": "\u0646\u06cc\u0679\u0648\u0631\u06a9 \u060c \u0627\u0646\u0679\u0631\u0646\u06cc\u0679\u060c \u0646\u06cc\u0679 \u060c (\u0628\u0627\u0644) \u0686\u0648\u0679\u06cc \u060c \u062c\u0627\u0644\u060c \u062c\u0627\u0644\u06cc",
         "pa": "\u0a28\u0a47\u0a1f\u0a35\u0a30\u0a15, \u0a07\u0a70\u0a1f\u0a30\u0a28\u0a47\u0a1f; \u0a1c\u0a3e\u0a32, (\u0a35\u0a3e\u0a32\u0a3e\u0a02 \u0a26\u0a40) \u0a1a\u0a4b\u0a1f\u0a40",
@@ -1816,9 +1817,9 @@
         "en": "{a compromise between lukin & oko}",
         "ru": "{\u043a\u043e\u043c\u043f\u0440\u043e\u043c\u0438\u0441\u0441 \u043c\u0435\u0436\u0434\u0443 lukin \u0438 oko}",
         "eo": "(kompromiso inter la vortoj lukin kaj oko)",
+        "de": "[Kompromiss zwischen lukin & oko]",
         "tok": "sina olin e nimi \"lukin\" e nimi \"oko\" anu seme? olin la, o sona e ni: nimi \"lokon\" li tan nimi tu ni! ona li jo e kon sama.",
         "es": "(un compromiso entre las palabras lukin & oko)",
-        "de": "[Kompromiss zwischen lukin & oko]",
         "hi": "(\u0932\u0942\u0915\u093f\u0902 \u0914\u0930 \u0913\u0915\u094b \u0936\u092c\u094d\u0926\u094b\u0902 \u0915\u093e \u092e\u093f\u0936\u094d\u0930\u0923)",
         "ur": "(\u0644\u0652\u0648\u06a9\u06cc\u0646 \u0627\u0648\u0631 \u0627\u0648\u06a9\u0648 \u0644\u0641\u0638\u0648\u06ba \u06a9\u0627 \u0645\u06cc\u0644)",
         "pa": "(\u0a32\u0a42\u0a15\u0a3f\u0a02 \u0a05\u0a24\u0a47 \u0a13\u0a15\u0a4b \u0a38\u0a3c\u0a2c\u0a26\u0a3e\u0a02 \u0a26\u0a3e \u0a2e\u0a47\u0a32)",
@@ -1838,9 +1839,9 @@
         "en": "the digit \u20186\u2019",
         "ru": "\u0446\u0438\u0444\u0440\u0430 6",
         "eo": "cifero ses",
+        "de": "Ziffer \u201e6\u201c",
         "tok": "loku li sitelen nanpa pi nanpa luka wan.",
         "es": "el d\u00edgito 6",
-        "de": "Ziffer \u201e6\u201c",
         "hi": "\u0905\u0902\u0915 \u091b\u0947",
         "ur": "\u0646\u0645\u0628\u0631 \u0686\u06be\u06d2\u060c \u0686\u06be\u06c1",
         "pa": "\u0a28\u0a38\u0a2c\u0a30 \u0a1b\u0a47",
@@ -1957,9 +1958,9 @@
         "en": "old, aged, ancient",
         "ru": "\u0441\u0442\u0430\u0440\u044b\u0439, \u043f\u043e\u0436\u0438\u043b\u043e\u0439, \u0434\u0440\u0435\u0432\u043d\u0438\u0439",
         "eo": "maljuna, a\u011da, antikva",
+        "de": "alt, betagt, antik",
         "tok": "tenpo mute la, sina li lon. ni la, sina jan majuna. ",
         "es": "viejo, antiguo, anciano, a\u00f1ejo",
-        "de": "alt, betagt, antik",
         "hi": "\u092a\u0941\u0930\u093e\u0928\u093e, \u092c\u0942\u0922\u093c\u093e, \u092c\u0941\u091c\u093c\u0941\u0930\u094d\u0917, \u092a\u094d\u0930\u093e\u091a\u0940\u0928",
         "ur": "\u0628\u0648\u0691\u06be\u0627\u060c \u0628\u0632\u0631\u06af \u060c \u0642\u062f\u06cc\u0645\u06cc",
         "pa": "\u0a2a\u0a41\u0a30\u0a3e\u0a23\u0a3e, \u0a2c\u0a41\u0a71\u0a22\u0a3e",
@@ -2012,7 +2013,8 @@
       "def": {
         "en": "woman, female, feminine person; wife",
         "ru": "\u0436\u0435\u043d\u0449\u0438\u043d\u0430, \u0444\u0435\u043c\u0438\u043d\u043d\u0430\u044f \u043b\u0438\u0447\u043d\u043e\u0441\u0442\u044c; \u0436\u0435\u043d\u0430",
-        "eo": "virino, inseksulo, ino; edzino"
+        "eo": "virino, inseksulo, ino; edzino",
+        "de": "Frau, weiblich, feminine Person; Ehefrau"
       }
     },
     "melome": {
@@ -2028,9 +2030,9 @@
         "en": "sapphic, lesbian, wlw",
         "ru": "\u0441\u0430\u043f\u0444\u0438\u0447\u0435\u0441\u043a\u0438\u0439, \u043b\u0435\u0441\u0431\u0438\u0439\u0441\u043a\u0438\u0439, \u0436\u043b\u0436",
         "eo": "lesbo, ina gejo",
+        "de": "lesbisch",
         "tok": "melome li meli pi olin meli.",
         "es": "s\u00e1fico, lesbiana",
-        "de": "lesbisch",
         "hi": "\u0938\u094d\u0924\u094d\u0930\u0940 \u0938\u092e\u0932\u0948\u0902\u0917\u093f\u0915",
         "ur": "\u06c1\u0645 \u062c\u0646\u0633 \u067e\u0631\u0633\u062a \u0639\u0648\u0631\u062a\u060c \u0644\u06cc\u0633\u0628\u06cc\u0626\u0646",
         "pa": "\u0a2e\u0a39\u0a3f\u0a32\u0a3e \u0a38\u0a2e\u0a32\u0a48\u0a02\u0a17\u0a3f\u0a15",
@@ -2051,9 +2053,9 @@
         "en": "middle, medium, mediocre; neither one not the other, neither fully is nor isn't",
         "ru": "\u0441\u0440\u0435\u0434\u043d\u0438\u0439, \u043f\u043e\u0441\u0440\u0435\u0434\u0441\u0442\u0432\u0435\u043d\u043d\u044b\u0439; \u043d\u0438 \u0442\u043e \u043d\u0438 \u0434\u0440\u0443\u0433\u043e\u0435",
         "eo": "mezo, mezkvalita, mezbona, nek unu nek alia",
+        "de": "mittel, mittelgut, mittem\u00e4\u00dfig; weder eins oder das andere",
         "tok": "moku mi li seli ala li lete ala. ona li meso tawa mi. lipu sina li pona ala li ike ala. ona li meso.",
         "es": "medio, mediano, mediocre, mediocre; ni uno ni el otro, ni completamente es ni no es",
-        "de": "mittel, mittelgut, mittem\u00e4\u00dfig; weder eins oder das andere",
         "hi": "\u092c\u0940\u091a, \u0906\u092e, \u0920\u0940\u0915, \u0920\u0940\u0915-\u0920\u093e\u0915; \u0928\u093e \u092f\u0947 \u0928\u093e \u0935\u094b",
         "ur": "\u0628\u06cc\u0686\u060c \u062f\u0631\u0645\u06cc\u0627\u0646\u06cc \u060c \u0639\u0627\u0645 \u060c \u0679\u06be\u06cc\u06a9\u061b \u0646\u06c1 \u06cc\u06c1 \u0646\u06c1 \u0648\u06c1",
         "pa": "\u0a35\u0a3f\u0a71\u0a1a, \u0a06\u0a2e, \u0a20\u0a3f\u0a71\u0a15, \u0a20\u0a3f\u0a71\u0a15 \u0a20\u0a3e\u0a15; \u0a28\u0a3e \u0a07\u0a39 \u0a28\u0a3e \u0a13\u0a39",
@@ -2073,7 +2075,8 @@
       "def": {
         "en": "I, me, we, us",
         "ru": "\u044f, \u043c\u0435\u043d\u044f, \u043c\u044b, \u043d\u0430\u0441",
-        "eo": "mi, ni"
+        "eo": "mi, ni",
+        "de": "ich, mein, wir, unser"
       }
     },
     "mije": {
@@ -2089,7 +2092,8 @@
       "def": {
         "en": "man, male, masculine person; husband",
         "ru": "\u043c\u0443\u0436\u0447\u0438\u043d\u0430, \u043c\u0430\u0441\u043a\u0443\u043b\u0438\u043d\u043d\u0430\u044f \u043b\u0438\u0447\u043d\u043e\u0441\u0442\u044c; \u043c\u0443\u0436",
-        "eo": "viro, virseksulo, i\u0109o; edzo"
+        "eo": "viro, virseksulo, i\u0109o; edzo",
+        "de": "Mann, m\u00e4nnlich, maskuline Person; Ehemann"
       }
     },
     "mijomi": {
@@ -2105,9 +2109,9 @@
         "en": "gay, mlm",
         "ru": "\u0433\u0435\u0439\u0441\u043a\u0438\u0439, \u043c\u043b\u043c",
         "eo": "vira gejo",
+        "de": "schwul",
         "tok": "mijomi li mije pi olin mije.",
         "es": "gay, homosexual",
-        "de": "schwul",
         "hi": "\u092a\u0941\u0930\u0941\u0937 \u0938\u092e\u0932\u0948\u0902\u0917\u093f\u0915",
         "ur": "\u0645\u0631\u062f \u06c1\u0645 \u062c\u0646\u0633 \u067e\u0631\u0633\u062a\u0648\u06ba",
         "pa": "\u0a2a\u0a41\u0a30\u0a41\u0a38\u0a3c \u0a38\u0a2e\u0a32\u0a48\u0a02\u0a17\u0a3f\u0a15",
@@ -2127,9 +2131,9 @@
         "en": "Glires or Eulipotyphla; rat, mouse, squirrel, rabbit, rodent; {~ suli} capybara",
         "ru": "\u0433\u0440\u044b\u0437\u0443\u043d\u043e\u043e\u0431\u0440\u0430\u0437\u043d\u044b\u0435 \u0438\u043b\u0438 \u043d\u0430\u0441\u0435\u043a\u043e\u043c\u043e\u044f\u0434\u043d\u044b\u0435; \u043a\u0440\u044b\u0441\u0430, \u043c\u044b\u0448\u044c, \u0431\u0435\u043b\u043a\u0430, \u043a\u0440\u043e\u043b\u0438\u043a, \u0433\u0440\u044b\u0437\u0443\u043d; {~ suli} \u043a\u0430\u043f\u0438\u0431\u0430\u0440\u0430",
         "eo": "Glires a\u016d Eulipotyphla; rato, muso, sciuro, kuniklo, ron\u011dulo; {~ suli} kapibaro",
+        "de": "Ratte, Maus, Eichh\u00f6rnchen, Kaninchen, Nagetier",
         "tok": "misa li soweli lili. ona li lon poka pi tomo jan. ona li ike tawa jan mute.  ",
         "es": "rata, rat\u00f3n, ardilla, conejo, roedor",
-        "de": "Ratte, Maus, Eichh\u00f6rnchen, Kaninchen, Nagetier",
         "hi": "\u091a\u0942\u0939\u093e, \u092e\u0942\u0937\u0915, \u0917\u093f\u0932\u0939\u0930\u0940, \u0916\u093c\u0930\u0917\u094b\u0936",
         "ur": "\u0686\u0648\u06c1\u0627\u060c \u06af\u0644\u06c1\u0631\u06cc\u060c \u062e\u0631\u06af\u0648\u0634",
         "pa": "\u0a1a\u0a42\u0a39\u0a3e, \u0a17\u0a3f\u0a32\u0a39\u0a30\u0a40, \u0a16\u0a30\u0a17\u0a4b\u0a36",
@@ -2150,9 +2154,9 @@
         "en": "medicine, medical",
         "ru": "\u043c\u0435\u0434\u0438\u0446\u0438\u043d\u0430, \u043c\u0435\u0434\u0438\u0446\u0438\u043d\u0441\u043a\u0438\u0439",
         "eo": "medikamento, medicina",
+        "de": "Medzin; medizinisch, \u00e4rztlich",
         "tok": "misikeke li ijo pi pona sijelo. jan li moku e ona.",
         "es": "medicina, medicamento, m\u00e9dico, cl\u00ednico",
-        "de": "Medzin; medizinisch, \u00e4rztlich",
         "hi": "\u0926\u0935\u093e, \u0938\u0935\u093e\u0938\u094d\u0925, \u091f\u093e\u0915\u094d\u091f\u0930\u0940, \u091a\u093f\u0915\u093f\u0924\u094d\u0938\u093e",
         "ur": "\u062f\u0648\u0627 \u060c \u0645\u06cc\u0688\u06cc\u06a9\u0644\u060c \u0688\u0627\u06a9\u0679\u0631\u06cc\u060c \u0686\u06a9\u062a\u0633\u0627",
         "pa": "\u0a26\u0a35\u0a3e, \u0a21\u0a3e\u0a15\u0a1f\u0a30\u0a40, \u0a1a\u0a3f\u0a15\u0a3f\u0a24\u0a38\u0a3e",
@@ -2172,7 +2176,8 @@
       "def": {
         "en": "to eat, drink, consume, swallow, ingest",
         "ru": "\u0435\u0441\u0442\u044c, \u043f\u0438\u0442\u044c, \u0443\u043f\u043e\u0442\u0440\u0435\u0431\u043b\u044f\u0442\u044c, \u0433\u043b\u043e\u0442\u0430\u0442\u044c",
-        "eo": "man\u011di, trinki, konsumi, gluti"
+        "eo": "man\u011di, trinki, konsumi, gluti",
+        "de": "essen, trinken, konsumieren, schlicken, einverleiben"
       }
     },
     "moli": {
@@ -2187,7 +2192,8 @@
       "def": {
         "en": "dead, dying",
         "ru": "\u043c\u0435\u0440\u0442\u0432\u044b\u0439, \u0443\u043c\u0438\u0440\u0430\u044e\u0449\u0438\u0439",
-        "eo": "mortinta, mortanta"
+        "eo": "mortinta, mortanta",
+        "de": "tot, sterben"
       }
     },
     "monsi": {
@@ -2202,7 +2208,8 @@
       "def": {
         "en": "back, behind, rear",
         "ru": "\u0437\u0430\u0434\u043d\u044f\u044f \u0447\u0430\u0441\u0442\u044c, \u0441\u043f\u0438\u043d\u0430, \u0442\u044b\u043b",
-        "eo": "dorso, malanta\u016do"
+        "eo": "dorso, malanta\u016do",
+        "de": "hinten, Hintern, Hinterteil, R\u00fccken"
       }
     },
     "monsuta": {
@@ -2218,9 +2225,9 @@
         "en": "fear, dread; monster, predator; threat, danger",
         "ru": "\u0441\u0442\u0440\u0430\u0445, \u0443\u0436\u0430\u0441; \u043c\u043e\u043d\u0441\u0442\u0440, \u0445\u0438\u0449\u043d\u0438\u043a; \u0443\u0433\u0440\u043e\u0437\u0430, \u043e\u043f\u0430\u0441\u043d\u043e\u0441\u0442\u044c",
         "eo": "monstro, krea\u0135o, kiu persekutas homojn, rabobesto; minaco; ka\u016dzo de timo, timigilo",
+        "de": "Angst, Furcht; Monster; Gefahr",
         "tok": "monsuta li soweli wawa. ona li alasa e soweli ante. ona li pana e pilin ike tawa jan. ",
         "es": "miedo, temor, pavor, terror; monstruo, (de)predador; amenaza, peligro",
-        "de": "Angst, Furcht; Monster; Gefahr",
         "hi": "\u0921\u0930, \u0918\u092c\u0930\u093e\u0939\u091f; \u0939\u0948\u0935\u093e\u0928, \u0930\u093e\u0915\u094d\u0937\u0938, \u0916\u093c\u0924\u0930\u093e",
         "ur": "\u062e\u0648\u0641 \u060c \u06af\u06be\u0628\u0631\u0627\u06c1\u0679\u061b \u0639\u0641\u0631\u06cc\u062a \u060c \u0634\u06a9\u0627\u0631\u06cc \u060c \u062e\u0637\u0631\u06c1",
         "pa": "\u0a21\u0a30, \u0a18\u0a2c\u0a30\u0a3e\u0a39\u0a1f; \u0a39\u0a48\u0a35\u0a3e\u0a28, \u0a16\u0a24\u0a30\u0a3e",
@@ -2240,7 +2247,8 @@
       "def": {
         "en": "(animal noise or communication) | ALT (non-speech vocalization)",
         "ru": "(\u0437\u0432\u0443\u043a, \u0438\u0437\u0434\u0430\u0432\u0430\u0435\u043c\u044b\u0439 \u0436\u0438\u0432\u043e\u0442\u043d\u044b\u043c, \u0438\u043b\u0438 \u043e\u0431\u0449\u0435\u043d\u0438\u0435 \u0436\u0438\u0432\u043e\u0442\u043d\u044b\u0445) | ALT (\u043d\u0435\u0440\u0435\u0447\u0435\u0432\u0430\u044f \u0432\u043e\u043a\u0430\u043b\u0438\u0437\u0430\u0446\u0438\u044f) ",
-        "eo": "(besta sono a\u016d komunika\u0135o) | ALT (neparola vo\u0109a sono)"
+        "eo": "(besta sono a\u016d komunika\u0135o) | ALT (neparola vo\u0109a sono)",
+        "de": "(Tierger\u00e4usch oder -kommunikation) | ALT (nichtsprachlicher Ausruf)"
       }
     },
     "mulapisu": {
@@ -2255,9 +2263,9 @@
         "en": "pizza",
         "ru": "\u043f\u0438\u0446\u0446\u0430",
         "eo": "pico",
+        "de": "Pizza",
         "tok": "mulapisu li pan sike loje tan ma Italija. ",
         "es": "pizza",
-        "de": "Pizza",
         "hi": "\u092a\u0940\u091c\u093c\u093e",
         "ur": "\u067e\u06cc\u0632\u0627",
         "pa": "\u0a2a\u0a40\u0a1c\u0a3e",
@@ -2278,7 +2286,8 @@
       "def": {
         "en": "moon, night sky object, star | ALT glow, glowing light, light in the dark",
         "ru": "\u043b\u0443\u043d\u0430, \u043e\u0431\u044a\u0435\u043a\u0442 \u043d\u043e\u0447\u043d\u043e\u0433\u043e \u043d\u0435\u0431\u0430, \u0437\u0432\u0435\u0437\u0434\u0430 | ALT \u0441\u0432\u0435\u0447\u0435\u043d\u0438\u0435, \u0441\u0432\u0435\u0442\u044f\u0449\u0438\u0439\u0441\u044f \u043e\u0433\u043e\u043d\u044c, \u0441\u0432\u0435\u0442 \u0432 \u0442\u0435\u043c\u043d\u043e\u0442\u0435",
-        "eo": "luno, nokta \u0109iela objekto, stelo | ALT lumi, lumineska lumo, lumo en mallumo"
+        "eo": "luno, nokta \u0109iela objekto, stelo | ALT lumi, lumineska lumo, lumo en mallumo",
+        "de": "Mond, Objekt im Nachthimmel, Stern | ALT gl\u00fchen, gl\u00fchendes Licht, Licht im Dunkeln"
       }
     },
     "musi": {
@@ -2293,7 +2302,8 @@
       "def": {
         "en": "artistic, entertaining, frivolous, playful, recreation",
         "ru": "\u0445\u0443\u0434\u043e\u0436\u0435\u0441\u0442\u0432\u0435\u043d\u043d\u044b\u0439, \u0440\u0430\u0437\u0432\u043b\u0435\u043a\u0430\u0442\u0435\u043b\u044c\u043d\u044b\u0439, \u0444\u0440\u0438\u0432\u043e\u043b\u044c\u043d\u044b\u0439, \u0438\u0433\u0440\u0438\u0432\u044b\u0439, \u0440\u0430\u0437\u0432\u043b\u0435\u0447\u0435\u043d\u0438\u0435",
-        "eo": "arta, amuza, frivola, ludeca, rilata al amuzi\u011do"
+        "eo": "arta, amuza, frivola, ludeca, rilata al amuzi\u011do",
+        "de": "k\u00fcnstlerisch, unterhaltsam, frivol, spielerisch, am\u00fcsant"
       }
     },
     "mute": {
@@ -2309,7 +2319,8 @@
       "def": {
         "en": "many, a lot, more, much, several, very; quantity | ALT three (or more), 20",
         "ru": "\u043c\u043d\u043e\u0433\u043e, \u0435\u0449\u0451, \u043d\u0435\u0441\u043a\u043e\u043b\u044c\u043a\u043e, \u043e\u0447\u0435\u043d\u044c; \u043a\u043e\u043b\u0438\u0447\u0435\u0441\u0442\u0432\u043e | ALT \u0442\u0440\u0438 (\u0438 \u0431\u043e\u043b\u0435\u0435), 20",
-        "eo": "multaj, multe, pluraj, tre; kvanto | ALT tri (a\u016d pli); 20"
+        "eo": "multaj, multe, pluraj, tre; kvanto | ALT tri (a\u016d pli); 20",
+        "de": "viel, eine Menge, mehr, mehrere, sehr; Anzahl | ALT drei (oder mehr), 20"
       }
     },
     "n": {
@@ -2325,9 +2336,9 @@
         "en": "(indicates thinking, pondering, recognition, agreement, or humming)",
         "ru": "(\u0443\u043a\u0430\u0437\u044b\u0432\u0430\u0435\u0442 \u043d\u0430 \u0440\u0430\u0437\u043c\u044b\u0448\u043b\u0435\u043d\u0438\u0435, \u043f\u0440\u0438\u0437\u043d\u0430\u043d\u0438\u0435, \u0441\u043e\u0433\u043b\u0430\u0441\u0438\u0435 \u0438\u043b\u0438 \u0431\u043e\u0440\u043c\u043e\u0442\u0430\u043d\u0438\u0435)",
         "eo": "(indikas pensadon, pripensadon, rekonon, interkonsenton, a\u016d zumadon)",
+        "de": "(zeigt Nachdenken, Gr\u00fcbeln, Anerkennung, Zustimmung oder Summen an)",
         "tok": "sina pana e nimi \"n\" la, ni li sama pana e nimi \"a.\"",
-        "es": "(indica pensar, ponderar, reconocer, acordar, o tararear)",
-        "de": "(zeigt Nachdenken, Gr\u00fcbeln, Anerkennung, Zustimmung oder Summen an)"
+        "es": "(indica pensar, ponderar, reconocer, acordar, o tararear)"
       }
     },
     "namako": {
@@ -2345,9 +2356,9 @@
         "en": "{see sin} | ALT embellishment, spice; extra, additional",
         "ru": "{\u0441\u043c. sin} | ALT \u0443\u043a\u0440\u0430\u0448\u0435\u043d\u0438\u044f, \u0441\u043f\u0435\u0446\u0438\u0438; \u0434\u043e\u043f\u043e\u043b\u043d\u0438\u0442\u0435\u043b\u044c\u043d\u044b\u0439, \u0434\u043e\u0431\u0430\u0432\u043e\u0447\u043d\u044b\u0439",
         "eo": "salo, spico, vinagro; akcesora\u0135o; kroma\u0135o; sali, spici; ornami, plibeligi; stimuli, eksciti",
+        "de": "Ausschm\u00fcckung, Gew\u00fcrz; extra, zus\u00e4tlich",
         "tok": "mi moku e pan, taso ona o jo e ijo sin. mi pona e ona kepeken ni: mi pana e ijo sin tawa moku mi. ijo ni li namako.",
         "es": "embellecimiento, especias; extra, adiciona",
-        "de": "Ausschm\u00fcckung, Gew\u00fcrz; extra, zus\u00e4tlich",
         "hi": "\u092e\u0938\u093e\u0932\u093e; \u0905\u0924\u093f\u0930\u093f\u0915\u093c\u094d\u0924",
         "ur": "\u0645\u0633\u0627\u0644\u0627\u060c \u0627\u0636\u0627\u0641\u06cc",
         "pa": "\u0a2e\u0a38\u0a3e\u0a32\u0a3e, \u0a05\u0a24\u0a3f\u0a30\u0a3f\u0a15\u0a24",
@@ -2367,7 +2378,8 @@
       "def": {
         "en": "-th (ordinal number); numbers",
         "ru": "(\u043f\u043e\u0440\u044f\u0434\u043a\u043e\u0432\u043e\u0435 \u0447\u0438\u0441\u043b\u0438\u0442\u0435\u043b\u044c\u043d\u043e\u0435); \u0447\u0438\u0441\u043b\u043e",
-        "eo": "-a (kiel en \"unua\", \"dua\", ktp; indikas pozicion en vicordo); ciferoj, nombroj"
+        "eo": "-a (kiel en \"unua\", \"dua\", ktp; indikas pozicion en vicordo); ciferoj, nombroj",
+        "de": "-ste (Ordnungszahl); Zahlen"
       }
     },
     "nasa": {
@@ -2382,7 +2394,8 @@
       "def": {
         "en": "unusual, strange; silly; drunk, intoxicated",
         "ru": "\u043d\u0435\u043e\u0431\u044b\u0447\u043d\u044b\u0439, \u0441\u0442\u0440\u0430\u043d\u043d\u044b\u0439; \u043d\u0435\u043b\u0435\u043f\u044b\u0439; \u043f\u044c\u044f\u043d\u044b\u0439, \u043e\u0434\u0443\u0440\u043c\u0430\u043d\u0435\u043d\u043d\u044b\u0439",
-        "eo": "nekutima, stranga; malsa\u011da; ebria"
+        "eo": "nekutima, stranga; malsa\u011da; ebria",
+        "de": "ungew\u00f6hnlich, merkw\u00fcrdig, seltsam; albern; betrunken, berauscht"
       }
     },
     "nasin": {
@@ -2397,7 +2410,8 @@
       "def": {
         "en": "way, custom, doctrine, method, path, road",
         "ru": "\u0441\u043f\u043e\u0441\u043e\u0431, \u043e\u0431\u044b\u0447\u0430\u0439, \u0434\u043e\u043a\u0442\u0440\u0438\u043d\u0430, \u043c\u0435\u0442\u043e\u0434, \u043f\u0443\u0442\u044c, \u0434\u043e\u0440\u043e\u0433\u0430",
-        "eo": "maniero, kutimo, doktrino, metodo, vojo, irejo"
+        "eo": "maniero, kutimo, doktrino, metodo, vojo, irejo",
+        "de": "Weg, Br\u00e4uche, Lehre, Doktrin, Methode, Pfad, Stra\u00dfe"
       }
     },
     "natu": {
@@ -2412,9 +2426,9 @@
         "en": "relationship, correlation, commonality; cross, knot, junction, intersection; to overlap, to fold; to overstep, to exceed to a point",
         "ru": "\u0432\u0437\u0430\u0438\u043c\u043e\u0441\u0432\u044f\u0437\u044c, \u043a\u043e\u0440\u0440\u0435\u043b\u044f\u0446\u0438\u044f, \u043e\u0431\u0449\u043d\u043e\u0441\u0442\u044c; \u043a\u0440\u0435\u0441\u0442, \u0443\u0437\u0435\u043b, \u0441\u0442\u044b\u043a, \u043f\u0435\u0440\u0435\u043a\u0440\u0435\u0441\u0442\u043e\u043a; \u043f\u0435\u0440\u0435\u043a\u0440\u044b\u0432\u0430\u0442\u044c, \u0441\u043a\u043b\u0430\u0434\u044b\u0432\u0430\u0442\u044c; \u043f\u0435\u0440\u0435\u0448\u0430\u0433\u043d\u0443\u0442\u044c, \u043f\u0440\u0435\u0432\u0437\u043e\u0439\u0442\u0438 \u0434\u043e \u0443\u0440\u043e\u0432\u043d\u044f",
         "eo": "rilato, korelacio, simileco; kruco, nodo, krucvojo, intersekci\u011do; interkovri, faldi; preterpasi, superi \u011dis punkto",
+        "de": "Beziehung, Korrelation, Gemeinsamkeit; Kreuz, Knoten, Kreuzung; \u00fcberlappen, falten; \u00fcbersteigen, bis zu einem Punkt \u00fcberschreiten",
         "tok": "natu li nasin pilin pi jan tu, anu ni: palisa tu li lon la, ona li kama wan lon ma lili wan. ni li sama sitelen pi nimi \"ala.\"",
         "es": "relaci\u00f3n, correlaci\u00f3n, similitud; cruz, nudo, cruce, intersecci\u00f3n; superponerse, doblar, plegar; traspasar, sobrepasar, excederse",
-        "de": "Beziehung, Korrelation, Gemeinsamkeit; Kreuz, Knoten, Kreuzung; \u00fcberlappen, falten; \u00fcbersteigen, bis zu einem Punkt \u00fcberschreiten",
         "hi": "\u0928\u093e\u0924\u093e, \u0930\u093f\u0936\u094d\u0924\u093e, \u0938\u092e\u093e\u0928\u0924\u093e; \u091a\u094c\u0930\u093e\u0939\u093e, \u091a\u094c\u0915, \u0917\u093e\u0902\u0920; \u0905\u0924\u093f\u0935\u094d\u092f\u093e\u092a\u0928 \u0915\u0930\u0928\u093e, \u0915\u093f\u0938\u0940 \u0939\u0926 \u0915\u094b \u092a\u093e\u0930 \u0915\u0930\u0928\u093e",
         "ur": "\u0646\u0627\u062a\u06c1\u060c \u0631\u0634\u062a\u06c1\u060c \u0645\u0645\u0627\u062b\u0644\u062a\u061b \u0686\u0648\u0631\u0627\u062d\u0627\u060c \u0686\u0648\u06a9\u060c \u06af\u0627\u06ba\u0679\u06be\u061b \u06a9\u0633\u06cc \u062d\u062f \u06a9\u0648 \u067e\u0627\u0631 \u06a9\u0631\u0646\u0627 ",
         "pa": "\u0a28\u0a3e\u0a24\u0a3e, \u0a30\u0a3f\u0a36\u0a24\u0a3e, \u0a38\u0a2e\u0a3e\u0a32\u0a24\u0a3e; \u0a1a\u0a4c\u0a15, \u0a1a\u0a4b\u0a30\u0a3e\u0a39\u0a3e, \u0a17\u0a3e\u0a02\u0a20; \u0a05\u0a24\u0a3f\u0a35\u0a2f\u0a3e\u0a2a\u0a28 \u0a15\u0a30\u0a28\u0a3e, \u0a15\u0a3f\u0a38\u0a40 \u0a39\u0a26 \u0a28\u0a42\u0a70 \u0a2a\u0a3e\u0a30 \u0a15\u0a30\u0a28\u0a3e",
@@ -2435,9 +2449,9 @@
         "en": "four",
         "ru": "\u0447\u0435\u0442\u044b\u0440\u0435",
         "eo": "kvar",
+        "de": "4",
         "tok": "ona li pali e ijo neja. mi pali e ijo tu tu. ona en mi li pali e ijo pi nanpa sama.",
         "es": "cuatro",
-        "de": "4",
         "hi": "\u091a\u093e\u0930",
         "ur": "\u0686\u0627\u0631",
         "pa": "\u0a1a\u0a3e\u0a30",
@@ -2458,7 +2472,8 @@
       "def": {
         "en": "bump, button, hill, mountain, nose, protuberance",
         "ru": "\u0432\u044b\u043f\u0443\u043a\u043b\u043e\u0441\u0442\u044c, \u043a\u043d\u043e\u043f\u043a\u0430, \u0445\u043e\u043b\u043c, \u0433\u043e\u0440\u0430, \u043d\u043e\u0441, \u0432\u044b\u0441\u0442\u0443\u043f",
-        "eo": "elstara malebena\u0135o, tubero, butono, monteto, monto, nazo, elstara\u0135o"
+        "eo": "elstara malebena\u0135o, tubero, butono, monteto, monto, nazo, elstara\u0135o",
+        "de": "Erhebung, Knopf, H\u00fcgel, Hubbel, Berg, Nase"
       }
     },
     "ni": {
@@ -2474,7 +2489,8 @@
       "def": {
         "en": "that, this",
         "ru": "\u0442\u043e\u0442, \u044d\u0442\u043e\u0442",
-        "eo": "(\u0109i) tio, (\u0109i) tiu"
+        "eo": "(\u0109i) tio, (\u0109i) tiu",
+        "de": "dies, das, jenes"
       }
     },
     "nimi": {
@@ -2489,7 +2505,8 @@
       "def": {
         "en": "name, word",
         "ru": "\u0438\u043c\u044f, \u0441\u043b\u043e\u0432\u043e",
-        "eo": "nomo, vorto"
+        "eo": "nomo, vorto",
+        "de": "Name, Wort"
       }
     },
     "noka": {
@@ -2506,7 +2523,8 @@
       "def": {
         "en": "foot, leg, organ of locomotion; bottom, lower part | ALT ten; twenty; negative five",
         "ru": "\u0441\u0442\u0443\u043f\u043d\u044f, \u043d\u043e\u0433\u0430, \u043e\u0440\u0433\u0430\u043d \u043f\u0435\u0440\u0435\u0434\u0432\u0438\u0436\u0435\u043d\u0438\u044f; \u043d\u0438\u0437, \u043d\u0438\u0436\u043d\u044f\u044f \u0447\u0430\u0441\u0442\u044c | ALT \u0434\u0435\u0441\u044f\u0442\u044c; \u0434\u0432\u0430\u0434\u0446\u0430\u0442\u044c; \u043c\u0438\u043d\u0443\u0441 \u043f\u044f\u0442\u044c",
-        "eo": "piedo, kruro, movi\u011da organo; malsupro, malsupra parto | ALT dek; dudek; minus kvin"
+        "eo": "piedo, kruro, movi\u011da organo; malsupro, malsupra parto | ALT dek; dudek; minus kvin",
+        "de": "Fu\u00df, Bein, Fortbewegungsorgan; Unterteil, unten | ALT zehn; zwanzig; minus f\u00fcnf"
       }
     },
     "nu": {
@@ -2519,7 +2537,8 @@
       "def": {
         "en": "(word reserved for future use by Sonja Lang)",
         "ru": "(\u0441\u043b\u043e\u0432\u043e \u0437\u0430\u0440\u0435\u0437\u0435\u0440\u0432\u0438\u0440\u043e\u0432\u0430\u043d\u043e \u0434\u043b\u044f \u0431\u0443\u0434\u0443\u0449\u0435\u0433\u043e \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u043d\u0438\u044f \u0421\u043e\u043d\u0435\u0439 \u041b\u0430\u043d\u0433)",
-        "eo": "(vorto rezervita por estonteca uzo de Sonja Lang)"
+        "eo": "(vorto rezervita por estonteca uzo de Sonja Lang)",
+        "de": "(f\u00fcr zuk\u00fcnftige Verwendung von Sonja Lang reserviertes Wort)"
       }
     },
     "nu1": {
@@ -2534,9 +2553,9 @@
         "en": "new",
         "ru": "\u043d\u043e\u0432\u044b\u0439",
         "eo": "nova",
+        "de": "neu",
         "tok": "ijo li nu la, ijo li sin. ",
         "es": "nuevo",
-        "de": "neu",
         "hi": "\u0928\u092f\u093e, \u0928\u0935\u0940\u0928, \u0928\u0935\u093e",
         "ur": "\u0646\u06cc\u0627\u060c \u0646\u0648\u0627",
         "pa": "\u0a28\u0a35\u0a3e",
@@ -2556,9 +2575,9 @@
         "en": "the digit \u20185\u2019",
         "ru": "\u0446\u0438\u0444\u0440\u0430 5",
         "eo": "cifero kvin",
+        "de": "5",
         "tok": "nun li sitelen nanpa pi nanpa luka.",
         "es": "el d\u00edgito 5",
-        "de": "5",
         "hi": "\u0905\u0902\u0915 \u092a\u093e\u0901\u091a",
         "ur": "\u0646\u0645\u0628\u0631 \u067e\u0627\u0646\u0686",
         "pa": "\u0a28\u0a2e\u0a2c\u0a30 \u0a2a\u0a70\u0a1c",
@@ -2578,9 +2597,9 @@
         "en": "newer",
         "ru": "\u043d\u043e\u0432\u0435\u0435",
         "eo": "pli nova",
+        "de": "neuer",
         "tok": "ijo nuwa li ijo pi sin mute.",
         "es": "m\u00e1s nuevo",
-        "de": "neuer",
         "hi": "\u091c\u093c\u094d\u092f\u093e\u0926\u093e \u0928\u092f\u093e",
         "ur": "\u0632\u06cc\u0627\u062f\u06c1 \u0646\u06cc\u0627",
         "pa": "\u0a35\u0a71\u0a27 \u0a28\u0a35\u0a3e",
@@ -2601,7 +2620,8 @@
       "def": {
         "en": "hey! O! (vocative, imperative, or optative)",
         "ru": "\u044d\u0439! (\u0437\u0432\u0430\u0442\u0435\u043b\u044c\u043d\u044b\u0439, \u043f\u043e\u0432\u0435\u043b\u0438\u0442\u0435\u043b\u044c\u043d\u044b\u0439 \u0438\u043b\u0438 \u0436\u0435\u043b\u0430\u0442\u0435\u043b\u044c\u043d\u044b\u0439)",
-        "eo": "he! (vokativo, imperativo, a\u016d volitivo)"
+        "eo": "he! (vokativo, imperativo, a\u016d volitivo)",
+        "de": "He! Hey! O! (Anrede, Befehl oder Wunsch)"
       }
     },
     "oke": {
@@ -2617,9 +2637,9 @@
         "en": "(acknowledgement or acceptance)",
         "ru": "(\u043f\u043e\u0434\u0442\u0432\u0435\u0440\u0436\u0434\u0435\u043d\u0438\u0435 \u0438\u043b\u0438 \u043f\u0440\u0438\u043d\u044f\u0442\u0438\u0435)",
         "eo": "(agnosko a\u016d akcepto)",
+        "de": "(Anerkennung oder Akzeptanz)",
         "tok": "sina pilin pona la, sina pilin oke. ijo li pona tawa sina la, o toki e ni: \"oke!\" sina wile e ijo? sina wile la, o toki e ni: \"oke.\"",
         "es": "de acuerdo, est\u00e1 bien, vale, okey",
-        "de": "(Anerkennung oder Akzeptanz)",
         "hi": "\u0920\u0940\u0915 \u0939\u0948, (\u092c\u093e\u0924 \u0938\u092e\u091d\u0928\u0947 \u0915\u093e \u092a\u094d\u0930\u0924\u0940\u0915)",
         "ur": "\u0679\u06be\u06cc\u06a9 \u06c1\u06d2 \u060c (\u0628\u0627\u062a \u0633\u0645\u062c\u06be\u0646\u06d2 \u06a9\u06cc \u0639\u0644\u0627\u0645\u062a)",
         "pa": "\u0a20\u0a3f\u0a71\u0a15 \u0a39\u0a48 (\u0a17\u0a71\u0a32 \u0a38\u0a2e\u0a1d\u0a23 \u0a26\u0a3e \u0a1a\u0a3f\u0a70\u0a28\u0a4d\u0a39)",
@@ -2639,9 +2659,9 @@
         "en": "boomer, Baby Boomer, inconsiderate elder; [interjection/insult]",
         "ru": "\u0431\u0443\u043c\u0435\u0440, \u0431\u044d\u0431\u0438-\u0431\u0443\u043c\u0435\u0440, \u043d\u0435\u0431\u043b\u0430\u0433\u043e\u0440\u0430\u0437\u0443\u043c\u043d\u044b\u0439 \u043f\u043e\u0436\u0438\u043b\u043e\u0439 \u0447\u0435\u043b\u043e\u0432\u0435\u043a; [\u043c\u0435\u0436\u0434\u043e\u043c\u0435\u0442\u0438\u0435/\u043e\u0441\u043a\u043e\u0440\u0431\u043b\u0435\u043d\u0438\u0435]",
         "eo": "bumero, senkonsidera oldulo, iu kun malmodernaj a\u016d maljunulecaj sintenoj; [interjekcio/insulto]",
+        "de": "Explodiere, (Baby) Boomer, r\u00fccksichtslose \u00c4ltere",
         "tok": "nimi \"okepuma\" li nimi pi pana ike tawa jan pi tenpo mute. ",
         "es": "la persona nacida durante el boom de natalidad de la posguerra, anciano grosero",
-        "de": "Explodiere, (Baby) Boomer, r\u00fccksichtslose \u00c4ltere",
         "hi": "\u092c\u0942\u092e\u0930, \u092c\u0947\u092c\u0940 \u092c\u0942\u092e\u0930 (\u0905\u092e\u0930\u0940\u0915\u0940 \u0905\u0902\u0917\u094d\u0930\u0947\u091c\u093c\u0940), \u090f\u0915 \u092c\u0947\u0932\u093f\u0939\u093e\u091c\u093c \u092c\u0941\u091c\u093c\u0941\u0930\u094d\u0917",
         "ur": "\u0628\u0652\u0648\u0645\u0631\u060c \u0628\u06cc\u0628\u06cc \u0628\u0652\u0648\u0645\u0631 (\u0627\u0645\u0631\u06cc\u06a9\u06cc \u0627\u0646\u06af\u0631\u06cc\u0632\u06cc)\u060c \u0627\u06cc\u06a9 \u0628\u06d2\u0644\u062d\u0627\u0638 \u0628\u0632\u0631\u06af",
         "pa": "\u0a2c\u0a42\u0a2e\u0a30, \u0a2c\u0a47\u0a2c\u0a40 \u0a2c\u0a42\u0a2e\u0a30 (\u0a05\u0a2e\u0a30\u0a40\u0a15\u0a40 \u0a05\u0a70\u0a17\u0a30\u0a47\u0a1c\u0a40), \u0a07\u0a71\u0a15 \u0a2c\u0a47\u0a32\u0a3f\u0a39\u0a3e\u0a1c \u0a2c\u0a41\u0a71\u0a22\u0a3e",
@@ -2664,9 +2684,9 @@
         "en": "{see lukin} | ALT eye, ocular, visual {cf. lukin}",
         "ru": "{\u0441\u043c. lukin} | ALT \u0433\u043b\u0430\u0437, \u0433\u043b\u0430\u0437\u043d\u043e\u0439, \u0437\u0440\u0438\u0442\u0435\u043b\u044c\u043d\u044b\u0439 {\u0441\u0440. lukin}",
         "eo": "{vidu lukin} | ALT okulo, okula, vida {kp. lukin}",
+        "de": "Auge, Okular",
         "tok": "oko li insa lukin pi sijelo jan. jan li lukin kepeken oko ona.",
         "es": "ojo, ocular",
-        "de": "Auge, Okular",
         "hi": "\u0906\u0901\u0916",
         "ur": "\u0622\u0646\u06a9\u06be",
         "pa": "\u0a05\u0a71\u0a16",
@@ -2686,7 +2706,8 @@
       "def": {
         "en": "love, have compassion for, respect, show affection to",
         "ru": "\u043b\u044e\u0431\u0438\u0442\u044c, \u0441\u043e\u0441\u0442\u0440\u0430\u0434\u0430\u0442\u044c, \u0443\u0432\u0430\u0436\u0430\u0442\u044c, \u043f\u0440\u043e\u044f\u0432\u043b\u044f\u0442\u044c \u043f\u0440\u0438\u0432\u044f\u0437\u0430\u043d\u043d\u043e\u0441\u0442\u044c \u043a",
-        "eo": "ami, simpatii kun, respekti, montri sian korinklinon al"
+        "eo": "ami, simpatii kun, respekti, montri sian korinklinon al",
+        "de": "lieben, Mitgef\u00fchl haben mit, respektieren, Zuneigung haben zu"
       }
     },
     "omekapo": {
@@ -2701,9 +2722,9 @@
         "en": "goodbye, farewell, see you later, eat a good fish",
         "ru": "\u0434\u043e \u0441\u0432\u0438\u0434\u0430\u043d\u0438\u044f, \u043f\u0440\u043e\u0449\u0430\u0439, \u0443\u0432\u0438\u0434\u0438\u043c\u0441\u044f \u043f\u043e\u0437\u0436\u0435, \u0441\u044a\u0435\u0448\u044c \u0445\u043e\u0440\u043e\u0448\u0443\u044e \u0440\u044b\u0431\u0443",
         "eo": "\u011dis la revido, adia\u016d, man\u011du bonan fi\u015don",
+        "de": "Auf wiedersehen, lebe wohl, bis sp\u00e4ter, iss einen guten Fisch",
         "tok": "nimi \"omekapo\" li sama nimi \"o moku e kala pona.\"",
         "es": "adi\u00f3s, despedida, nos vemos m\u00e1s tarde, hasta luego, coma un buen pescado",
-        "de": "Auf wiedersehen, lebe wohl, bis sp\u00e4ter, iss einen guten Fisch",
         "hi": "\u0905\u0932\u0935\u093f\u0926\u093e, \u092b\u093f\u0930 \u092e\u093f\u0932\u0947\u0902\u0917\u0947, \u0935\u093f\u0926\u093e\u0908",
         "ur": "\u0627\u0644\u0648\u062f\u0627\u0639 \u060c \u067e\u06be\u0631 \u0645\u0644\u06cc\u06ba \u06af\u06d2\u060c \u0648\u062f\u0627\u0639\u06cc",
         "pa": "\u0a05\u0a32\u0a35\u0a3f\u0a26\u0a3e, \u0a35\u0a3f\u0a26\u0a3e\u0a08, \u0a2b\u0a3f\u0a30 \u0a2e\u0a3f\u0a32\u0a3e\u0a02\u0a17\u0a47",
@@ -2723,9 +2744,9 @@
         "en": "sarcasm, irony",
         "ru": "\u0441\u0430\u0440\u043a\u0430\u0437\u043c, \u0438\u0440\u043e\u043d\u0438\u044f",
         "eo": "sarkasmo, ironio",
+        "de": "Sarkasmus, Ironie",
         "tok": "nimi \"omen\" li sama nimi \"o moli e mi.\"",
         "es": "sarcasmo, iron\u00eda",
-        "de": "Sarkasmus, Ironie",
         "hi": "\u0935\u094d\u092f\u0902\u0917, \u0906\u0907\u0930\u094b\u0928\u0940",
         "ur": "\u0637\u0646\u0632 \u060c \u0633\u062a\u0645 \u0638\u0631\u06cc\u0641\u06cc",
         "pa": "\u0a24\u0a28\u0a1c\u0a3c, \u0a35\u0a3f\u0a05\u0a70\u0a17, \u0a06\u0a07\u0a30\u0a4b\u0a28\u0a40",
@@ -2746,7 +2767,8 @@
       "def": {
         "en": "he, she, it, they",
         "ru": "\u043e\u043d, \u043e\u043d\u0430, \u043e\u043d\u043e, \u043e\u043d\u0438",
-        "eo": "li, \u015di, ri, \u011di, ili"
+        "eo": "li, \u015di, ri, \u011di, ili",
+        "de": "er, sie, es, sie"
       }
     },
     "open": {
@@ -2761,7 +2783,8 @@
       "def": {
         "en": "begin, start; open; turn on",
         "ru": "\u043d\u0430\u0447\u0430\u0442\u044c; \u043e\u0442\u043a\u0440\u044b\u0442\u044c; \u0432\u043a\u043b\u044e\u0447\u0438\u0442\u044c, \u0437\u0430\u043f\u0443\u0441\u0442\u0438\u0442\u044c",
-        "eo": "komenci; malfermi; \u015dalti"
+        "eo": "komenci; malfermi; \u015dalti",
+        "de": "anfangen, beginnen; \u00f6ffnen; anschalten"
       }
     },
     "owe": {
@@ -2789,9 +2812,9 @@
         "en": "[interjection] bruh; expression of disbelief, exasperation, or excitement",
         "ru": "[\u043c\u0435\u0436\u0434\u043e\u043c\u0435\u0442\u0438\u0435] bruh; \u0432\u044b\u0440\u0430\u0436\u0435\u043d\u0438\u0435 \u043d\u0435\u0432\u0435\u0440\u0438\u044f, \u0440\u0430\u0437\u0434\u0440\u0430\u0436\u0435\u043d\u0438\u044f \u0438\u043b\u0438 \u0432\u043e\u043b\u043d\u0435\u043d\u0438\u044f",
         "eo": "[interjekcio] angla bruh; esprimas senton de nekredebleco, \u0109agrenon, a\u016d entuziasmon",
+        "de": "bruh, \"ernsthaft?\", \"Oh Mann...\"",
         "tok": "nimi \"pa\" li pona lon tenpo pi pilin ike lili tawa jan pona sina. o weka e ike ona kepeken nimi ni.",
         "es": "hermano, mano, vato, tronco",
-        "de": "bruh, \"ernsthaft?\", \"Oh Mann...\"",
         "hi": "\u0905\u092c\u0947",
         "ur": "\u0627\u0628\u06d2",
         "pa": "\u0a05\u0a2c\u0a47",
@@ -2812,7 +2835,8 @@
       "def": {
         "en": "botched, broken, damaged, harmed, messed up | ALT (curse expletive, e.g. fuck!)",
         "ru": "\u0438\u0441\u043f\u043e\u0440\u0447\u0435\u043d\u043d\u044b\u0439, \u0441\u043b\u043e\u043c\u0430\u043d\u043d\u044b\u0439, \u043f\u043e\u0432\u0440\u0435\u0436\u0434\u0451\u043d\u043d\u044b\u0439 | ALT (\u0440\u0443\u0433\u0430\u0442\u0435\u043b\u044c\u0441\u0442\u0432\u043e, \u043d\u0430\u043f\u0440\u0438\u043c\u0435\u0440 \"\u0447\u0451\u0440\u0442!\")",
-        "eo": "fu\u015dita, rompita, dama\u011dita, difektita | ALT (sakra\u0135o, ekz. fek!, damne!)"
+        "eo": "fu\u015dita, rompita, dama\u011dita, difektita | ALT (sakra\u0135o, ekz. fek!, damne!)",
+        "de": "kaputt, vermasselt, besch\u00e4digt, zerst\u00f6rt, defekt | ALT (Kraftausdruck, z.B. Mist!)"
       }
     },
     "pake": {
@@ -2828,9 +2852,9 @@
         "en": "stop, cease, halt; to block the way, to interrupt; to prevent",
         "ru": "\u043f\u0435\u0440\u0435\u0441\u0442\u0430\u0442\u044c, \u043e\u0441\u0442\u0430\u043d\u043e\u0432\u0438\u0442\u044c, \u043e\u0441\u0442\u0430\u043d\u043e\u0432\u0438\u0442\u044c\u0441\u044f; \u043f\u0440\u0435\u0433\u0440\u0430\u0434\u0438\u0442\u044c \u043f\u0443\u0442\u044c, \u043f\u0440\u0435\u0440\u0432\u0430\u0442\u044c; \u043f\u0440\u0435\u0434\u043e\u0442\u0432\u0440\u0430\u0442\u0438\u0442\u044c",
         "eo": "halti, \u0109esi; bari la vojon, interrompi; preventi",
+        "de": "stoppen, an-, aufhalten; den Weg versprerren, st\u00f6ren; verhindern",
         "tok": "sina pini moku lon tenpo lili. sina pake moku, taso sina moku lon tenpo ni. ",
         "es": "parar, detener, dejar de; bloquear, interrumpir; prevenir, impedir",
-        "de": "stoppen, an-, aufhalten; den Weg versprerren, st\u00f6ren; verhindern",
         "hi": "\u0930\u0941\u0915\u0928\u093e, \u0930\u094b\u0915\u0928\u093e, \u091f\u094b\u0915\u0928\u093e, \u092c\u0940\u091a \u092e\u0947\u0902 \u0930\u094b\u0915\u0928\u093e, \u092c\u093e\u0927\u093e \u092c\u0928\u0928\u093e, \u092c\u093e\u0927\u093e \u0921\u093e\u0932\u0928\u093e, \u0939\u094b\u0928\u0947 \u0928 \u0926\u0947\u0928\u093e",
         "ur": "\u0631\u06a9\u0646\u0627\u060c \u0631\u0648\u06a9\u0646\u0627\u060c \u0679\u0648\u06a9\u0646\u0627\u060c \u0628\u06cc\u0686 \u0645\u06cc\u06ba \u0631\u0648\u06a9\u0646\u0627\u060c \u0628\u0627\u062f\u06be\u0627 \u0628\u0646\u0646\u0627\u060c \u0628\u0627\u062f\u06be\u0627 \u0688\u0627\u0644\u0646\u0627\u060c \u06c1\u0648\u0646\u06d2 \u0646\u06c1 \u062f\u06cc\u0646\u0627\u061b \u06c1\u0648\u0646\u06d2 \u0646\u06c1 \u062f\u06cc\u0646\u0627",
         "pa": "\u0a30\u0a41\u0a15\u0a23\u0a3e, \u0a30\u0a4b\u0a15\u0a23\u0a3e, \u0a1f\u0a4b\u0a15\u0a23\u0a3e; \u0a39\u0a4b\u0a23 \u0a28\u0a3e \u0a26\u0a47\u0a23\u0a3e",
@@ -2850,7 +2874,8 @@
       "def": {
         "en": "do, take action on, work on; build, make, prepare",
         "ru": "\u0434\u0435\u043b\u0430\u0442\u044c, \u0434\u0435\u0439\u0441\u0442\u0432\u043e\u0432\u0430\u0442\u044c, \u0440\u0430\u0431\u043e\u0442\u0430\u0442\u044c; \u0441\u0442\u0440\u043e\u0438\u0442\u044c, \u0441\u043e\u0437\u0434\u0430\u0432\u0430\u0442\u044c, \u0433\u043e\u0442\u043e\u0432\u0438\u0442\u044c",
-        "eo": "fari, agi por atingi a\u016d plenumi ion, prilabori; konstrui, fari, prepari"
+        "eo": "fari, agi por atingi a\u016d plenumi ion, prilabori; konstrui, fari, prepari",
+        "de": "tun, etwas ausf\u00fchren, an etwas arbeiten; bauen, machen, erstellen, vorbereiten"
       }
     },
     "palisa": {
@@ -2865,7 +2890,8 @@
       "def": {
         "en": "long hard thing; branch, rod, stick",
         "ru": "\u0434\u043b\u0438\u043d\u043d\u044b\u0439 \u0436\u0451\u0441\u0442\u043a\u0438\u0439 \u043f\u0440\u0435\u0434\u043c\u0435\u0442; \u0432\u0435\u0442\u043a\u0430, \u0441\u0442\u0435\u0440\u0436\u0435\u043d\u044c, \u043f\u0430\u043b\u043a\u0430",
-        "eo": "io longa kaj malmola; bran\u0109o, stango, bastono"
+        "eo": "io longa kaj malmola; bran\u0109o, stango, bastono",
+        "de": "langes hartes Ding; Stock, Ast, Stab"
       }
     },
     "pan": {
@@ -2880,7 +2906,8 @@
       "def": {
         "en": "cereal, grain; barley, corn, oat, rice, wheat; bread, pasta",
         "ru": "\u043a\u0440\u0443\u043f\u0430, \u0437\u0435\u0440\u043d\u043e; \u044f\u0447\u043c\u0435\u043d\u044c, \u043a\u0443\u043a\u0443\u0440\u0443\u0437\u0430, \u043e\u0432\u0435\u0441, \u0440\u0438\u0441, \u043f\u0448\u0435\u043d\u0438\u0446\u0430; \u0445\u043b\u0435\u0431, \u043c\u0430\u043a\u0430\u0440\u043e\u043d\u044b",
-        "eo": "greno, cerealo; aveno, hordeo, maizo, rizo, tritiko; pano, pasta\u0135o"
+        "eo": "greno, cerealo; aveno, hordeo, maizo, rizo, tritiko; pano, pasta\u0135o",
+        "de": "Getreide; Gerste, Hafer, Mais, Reis, Weizen; Brot, Nudeln"
       }
     },
     "pana": {
@@ -2895,7 +2922,8 @@
       "def": {
         "en": "give, send, emit, provide, put, release",
         "ru": "\u0434\u0430\u0442\u044c, \u043e\u0442\u043f\u0440\u0430\u0432\u0438\u0442\u044c, \u0438\u0441\u043f\u0443\u0441\u0442\u0438\u0442\u044c, \u043f\u0440\u0435\u0434\u043e\u0441\u0442\u0430\u0432\u0438\u0442\u044c, \u043f\u043e\u0441\u0442\u0430\u0432\u0438\u0442\u044c, \u043f\u043e\u043b\u043e\u0436\u0438\u0442\u044c, \u0432\u044b\u043f\u0443\u0441\u0442\u0438\u0442\u044c",
-        "eo": "doni, sendi, eligi, ellasi, provizi, meti"
+        "eo": "doni, sendi, eligi, ellasi, provizi, meti",
+        "de": "geben, senden, ausstr\u00f6hmen, bereitstellen, etwas hinstellen, freigeben"
       }
     },
     "pasila": {
@@ -2911,9 +2939,9 @@
         "en": "good, easy; simple, relaxed, peaceful, uncomplicated",
         "ru": "\u0445\u043e\u0440\u043e\u0448\u0438\u0439, \u043b\u0435\u0433\u043a\u0438\u0439; \u043f\u0440\u043e\u0441\u0442\u043e\u0439, \u0440\u0430\u0441\u0441\u043b\u0430\u0431\u043b\u0435\u043d\u043d\u044b\u0439, \u043c\u0438\u0440\u043d\u044b\u0439, \u043d\u0435\u0437\u0430\u043c\u044b\u0441\u043b\u043e\u0432\u0430\u0442\u044b\u0439",
         "eo": "bona, facila; simpla, malstre\u0109a, paca, trankvila, nekomplika",
+        "de": "gut, einfach",
         "tok": "ijo pasila li pana e pona insa. jan o pali kepeken ilo pasila lon tenpo lili. ona o pali ala kepeken wawa mute.",
         "es": "bueno, f\u00e1cil; sencillo, simple, relajado, tranquilo",
-        "de": "gut, einfach",
         "hi": "\u0906\u0938\u093e\u0928, \u0938\u0930\u0932, \u0906\u0930\u093e\u092e, \u0936\u093e\u0902\u0924",
         "ur": "\u0622\u0633\u0627\u0646\u060c \u063a\u06cc\u0631 \u067e\u06cc\u0686\u06cc\u062f\u06c1 \u061b \u067e\u0631 \u0633\u06a9\u0648\u0646 \u060c \u067e\u0631\u0627\u0645\u0646",
         "pa": "\u0a1a\u0a70\u0a17\u0a3e, \u0a38\u0a4c\u0a16\u0a3e; \u0a05\u0a30\u0a3e\u0a2e \u0a28\u0a3e\u0a32\u0a3c, \u0a38\u0a3c\u0a3e\u0a02\u0a24\u0a40 \u0a28\u0a3e\u0a32\u0a3c",
@@ -2934,9 +2962,9 @@
         "en": "brother, sister, sibling",
         "ru": "\u0431\u0440\u0430\u0442, \u0441\u0435\u0441\u0442\u0440\u0430, \u0441\u0438\u0431\u043b\u0438\u043d\u0433",
         "eo": "frato, fratino, gefrato",
+        "de": "Bruder, Schwester, Geschwister",
         "tok": "mi jo e pata tu. ona li jan sama mi.",
         "es": "hermano, hermana",
-        "de": "Bruder, Schwester, Geschwister",
         "hi": "\u092d\u093e\u0908 \u092c\u0939\u0928",
         "ur": "\u0628\u06be\u0627\u0626\u06cc \u0628\u06c1\u0646",
         "pa": "\u0a2d\u0a30\u0a3e \u0a2d\u0a48\u0a23",
@@ -2956,9 +2984,9 @@
         "en": "the digit \u20188\u2019",
         "ru": "\u0446\u0438\u0444\u0440\u0430 8",
         "eo": "cifero ok",
+        "de": "8",
         "tok": "patu li sitelen nanpa pi nanpa luka tu wan.",
         "es": "el d\u00edgito 8",
-        "de": "8",
         "hi": "\u0905\u0902\u0915 \u0906\u0920",
         "ur": "\u0646\u0645\u0628\u0631 \u0622\u0679\u06be",
         "pa": "\u0a28\u0a2e\u0a2c\u0a30 \u0a05\u0a71\u0a20",
@@ -2978,9 +3006,9 @@
         "en": "green, greenish; verdant, alive; ecofriendly",
         "ru": "\u0437\u0435\u043b\u0435\u043d\u044b\u0439, \u0437\u0435\u043b\u0435\u043d\u043e\u0432\u0430\u0442\u044b\u0439; \u0436\u0438\u0432\u043e\u0439; \u044d\u043a\u043e\u043b\u043e\u0433\u0438\u0447\u0435\u0441\u043a\u0438 \u0447\u0438\u0441\u0442\u044b\u0439",
         "eo": "verda, verdeta; verda, viva; ekamika",
+        "de": "gr\u00fcn, gr\u00fcnlich; lebendig; \u00f6kologisch",
         "tok": "nimi \"laso\" anu nimi \"laso jelo\" li ike tawa sina la, o kepeken nimi \"peta.\"",
         "es": "verde, verdoso; vivo, ecol\u00f3gico",
-        "de": "gr\u00fcn, gr\u00fcnlich; lebendig; \u00f6kologisch",
         "hi": "\u0939\u0930\u093e, \u092a\u094d\u0930\u093e\u0915\u0943\u0924\u093f\u0915, \u091c\u093c\u093f\u0902\u0926\u093e, \u091c\u0940\u0935\u093f\u0924",
         "ur": "\u06c1\u0631\u0627 \u060c \u0633\u0628\u0632 \u061b \u0642\u062f\u0631\u062a\u06cc \u061b \u0632\u0646\u062f\u06c1 \u060c \u0642\u062f\u0631\u062a\u06cc",
         "pa": "\u0a39\u0a30\u0a3e, \u0a1c\u0a3f\u0a09\u0a02\u0a26\u0a3e, \u0a15\u0a41\u0a26\u0a30\u0a24\u0a40",
@@ -3000,9 +3028,9 @@
         "en": "cry, tears; sad, sadness",
         "ru": "\u043f\u043b\u0430\u043a\u0430\u0442\u044c, \u0441\u043b\u0435\u0437\u044b; \u0433\u0440\u0443\u0441\u0442\u043d\u044b\u0439, \u0433\u0440\u0443\u0441\u0442\u044c",
         "eo": "plori, larmoj; mal\u011doja, mal\u011dojo",
+        "de": "Traurigkeit, Tr\u00e4ne; weinen; traurig",
         "tok": "sina pana e telo oko la, sina peto.",
         "es": "llorar, l\u00e1grimas; triste, tristeza",
-        "de": "Traurigkeit, Tr\u00e4ne; weinen; traurig",
         "hi": "\u0930\u094b\u0928\u093e, \u0906\u0901\u0938\u0942, \u0926\u0941\u0916",
         "ur": "\u0631\u0648\u0646\u0627 \u060c \u0622\u0646\u0633\u0648 \u060c \u0627\u062f\u0627\u0633 \u060c \u0627\u062f\u0627\u0633\u06cc",
         "pa": "\u0a30\u0a4b\u0a23\u0a3e, \u0a39\u0a70\u0a1d\u0a42; \u0a09\u0a26\u0a3e\u0a38, \u0a26\u0a41\u0a16, \u0a09\u0a26\u0a3e\u0a38\u0a40",
@@ -3023,7 +3051,8 @@
       "def": {
         "en": "of (used to divide a second noun group that describes a first noun group) | ALT (introduces a genitive noun)",
         "ru": "(\u0438\u0441\u043f\u043e\u043b\u044c\u0437\u0443\u0435\u0442\u0441\u044f \u0434\u043b\u044f \u043e\u0442\u0434\u0435\u043b\u0435\u043d\u0438\u044f \u0432\u0442\u043e\u0440\u043e\u0439 \u0433\u0440\u0443\u043f\u043f\u044b \u0441\u0443\u0449\u0435\u0441\u0442\u0432\u0438\u0442\u0435\u043b\u044c\u043d\u044b\u0445, \u043e\u043f\u0438\u0441\u044b\u0432\u0430\u044e\u0449\u0435\u0439 \u043f\u0435\u0440\u0432\u0443\u044e \u0433\u0440\u0443\u043f\u043f\u0443 \u0441\u0443\u0449\u0435\u0441\u0442\u0432\u0438\u0442\u0435\u043b\u044c\u043d\u044b\u0445) | ALT (\u0432\u0432\u043e\u0434\u0438\u0442 \u0440\u043e\u0434\u0438\u0442\u0435\u043b\u044c\u043d\u043e\u0435 \u0441\u0443\u0449\u0435\u0441\u0442\u0432\u0438\u0442\u0435\u043b\u044c\u043d\u043e\u0435)",
-        "eo": "de (uzata por dividi duan substantivan grupon, kiu priskribas la duan substantivan grupon) | ALT (enkondukas genitivan substantivon)"
+        "eo": "de (uzata por dividi duan substantivan grupon, kiu priskribas la duan substantivan grupon) | ALT (enkondukas genitivan substantivon)",
+        "de": "(trennt eine zweite Wortgruppe ab, die die erste Wortgruppe beschreibt) | ALT (f\u00fchrt ein Wort im Genetiv ein)"
       }
     },
     "pilin": {
@@ -3038,7 +3067,8 @@
       "def": {
         "en": "heart (physical or emotional); feeling (an emotion, a direct experience)",
         "ru": "\u0441\u0435\u0440\u0434\u0446\u0435 (\u0444\u0438\u0437\u0438\u0447\u0435\u0441\u043a\u043e\u0435 \u0438\u043b\u0438 \u044d\u043c\u043e\u0446\u0438\u043e\u043d\u0430\u043b\u044c\u043d\u043e\u0435); \u0447\u0443\u0432\u0441\u0442\u0432\u043e (\u044d\u043c\u043e\u0446\u0438\u044f, \u043f\u0440\u044f\u043c\u043e\u0439 \u043e\u043f\u044b\u0442)",
-        "eo": "koro (fizika a\u016d emocia); senti (emocion, rektan sperton)"
+        "eo": "koro (fizika a\u016d emocia); senti (emocion, rektan sperton)",
+        "de": "Herz (k\u00f6rperlich oder emotional); Gef\u00fchl (eine Emotion oder eine direkte Erfahrung), f\u00fchlen"
       }
     },
     "pimeja": {
@@ -3053,7 +3083,8 @@
       "def": {
         "en": "black, dark, unlit",
         "ru": "\u0447\u0435\u0440\u043d\u044b\u0439, \u0442\u0435\u043c\u043d\u044b\u0439, \u043d\u0435\u043e\u0441\u0432\u0435\u0449\u0435\u043d\u043d\u044b\u0439",
-        "eo": "nigra, malhela, malluma"
+        "eo": "nigra, malhela, malluma",
+        "de": "schwarz, dunkel, finster"
       }
     },
     "Pingo": {
@@ -3067,7 +3098,8 @@
       "def": {
         "en": "car",
         "ru": "\u0430\u0432\u0442\u043e\u043c\u043e\u0431\u0438\u043b\u044c",
-        "eo": "a\u016dto"
+        "eo": "a\u016dto",
+        "de": "Auto"
       }
     },
     "pini": {
@@ -3083,7 +3115,8 @@
       "def": {
         "en": "ago, completed, ended, finished, past",
         "ru": "\u0442\u043e\u043c\u0443 \u043d\u0430\u0437\u0430\u0434, \u0437\u0430\u0432\u0435\u0440\u0448\u0435\u043d\u043d\u044b\u0439, \u043e\u043a\u043e\u043d\u0447\u0435\u043d\u043d\u044b\u0439, \u0437\u0430\u0432\u0435\u0440\u0448\u0435\u043d\u043d\u044b\u0439, \u043f\u0440\u043e\u0448\u043b\u044b\u0439",
-        "eo": "anta\u016da, finfarita, finita, fini\u011dinta, pasinta"
+        "eo": "anta\u016da, finfarita, finita, fini\u011dinta, pasinta",
+        "de": "her, abgeschlossen, beendet, fertig, vergangen"
       }
     },
     "pipi": {
@@ -3098,7 +3131,8 @@
       "def": {
         "en": "bug, insect, ant, spider",
         "ru": "\u043d\u0430\u0441\u0435\u043a\u043e\u043c\u043e\u0435, \u0436\u0443\u043a, \u043c\u0443\u0440\u0430\u0432\u0435\u0439, \u043f\u0430\u0443\u043a",
-        "eo": "artropodo, insekto, formiko, araneo, eta besto"
+        "eo": "artropodo, insekto, formiko, araneo, eta besto",
+        "de": "Krabbeltier, Insekt, Ameise, Spinne"
       }
     },
     "pipo": {
@@ -3113,9 +3147,9 @@
         "en": "annoy, annoyance, bothersome, boring",
         "ru": "\u0440\u0430\u0437\u0434\u0440\u0430\u0436\u0430\u0442\u044c, \u0440\u0430\u0437\u0434\u0440\u0430\u0436\u0435\u043d\u0438\u0435, \u043d\u0430\u0434\u043e\u0435\u0434\u043b\u0438\u0432\u044b\u0439, \u0441\u043a\u0443\u0447\u043d\u044b\u0439",
         "eo": "\u011deni, \u0109agreni, \u011dena, enuiga",
+        "de": "nerven; nervig, l\u00e4stig, langweilig",
         "tok": "jan ni li pini ala e toki ona! ona li pipo e mi.",
         "es": "molestar, fastidiar, irratici\u00f3n, incordiante, molesto, fastidioso, aburrido",
-        "de": "nerven; nervig, l\u00e4stig, langweilig",
         "hi": "\u091a\u093f\u0922\u093e\u0928\u093e, \u092a\u0915\u093e\u0928\u093e (\u0926\u093f\u092e\u093e\u0917 \u0916\u0930\u093e\u092c \u0915\u0930\u0928\u093e), \u092a\u0915\u093e\u090a, \u092c\u094b\u0930\u093f\u0902\u0917",
         "ur": "\u0686\u0688\u06be\u0627\u0646\u0627\u060c \u067e\u06a9\u06be\u0627\u0646\u0627 (\u062f\u0645\u0627\u063a \u062e\u0631\u0627\u0628 \u06a9\u0631\u0646\u0627) \u067e\u06a9\u0627\u0626\u0648\u060c \u0628\u0648\u0631\u0646\u06af",
         "pa": "\u0a1a\u0a3f\u0a5c\u0a3e\u0a09\u0a23\u0a3e, \u0a1a\u0a3f\u0a5c, \u0a2a\u0a15\u0a3e\u0a09\u0a23\u0a3e (\u0a26\u0a3f\u0a2e\u0a3e\u0a17 \u0a16\u0a30\u0a3e\u0a2c \u0a15\u0a30\u0a28\u0a3e), \u0a2a\u0a15\u0a3e\u0a0a, \u0a2c\u0a4b\u0a30\u0a3f\u0a02\u0a17",
@@ -3136,9 +3170,9 @@
         "en": "four",
         "ru": "\u0447\u0435\u0442\u044b\u0440\u0435",
         "eo": "kvar",
+        "de": "4",
         "tok": "ona li pali e ijo po. mi pali e ijo tu tu. ona en mi li pali e ijo pi nanpa sama.",
         "es": "cuatro",
-        "de": "4",
         "hi": "\u091a\u093e\u0930",
         "ur": "\u0686\u0627\u0631",
         "pa": "\u0a1a\u0a3e\u0a30",
@@ -3160,7 +3194,8 @@
       "def": {
         "en": "hip, side; next to, nearby, vicinity | ALT along with (comitative), beside",
         "ru": "\u0431\u043e\u043a, \u0441\u0442\u043e\u0440\u043e\u043d\u0430; \u0440\u044f\u0434\u043e\u043c, \u043f\u043e\u0431\u043b\u0438\u0437\u043e\u0441\u0442\u0438, \u043e\u043a\u0440\u0435\u0441\u0442\u043d\u043e\u0441\u0442\u044c | ALT \u0432\u043c\u0435\u0441\u0442\u0435 \u0441 (\u043a\u043e\u043c\u0438\u0442\u0430\u0442\u0438\u0432\u043d\u043e\u0435), \u0440\u044f\u0434\u043e\u043c \u0441",
-        "eo": "kokso, flanko; apud, proksime de, proksima\u0135o | ALT kune kun, krom"
+        "eo": "kokso, flanko; apud, proksime de, proksima\u0135o | ALT kune kun, krom",
+        "de": "H\u00fcfte, Seite; neben, nah, Umgebung | ALT zusammen mit (Komitativ), n\u00e4chst"
       }
     },
     "poki": {
@@ -3175,7 +3210,8 @@
       "def": {
         "en": "container, bag, bowl, box, cup, cupboard, drawer, vessel",
         "ru": "\u043a\u043e\u043d\u0442\u0435\u0439\u043d\u0435\u0440, \u0441\u0443\u043c\u043a\u0430, \u0447\u0430\u0448\u0430, \u044f\u0449\u0438\u043a, \u0447\u0430\u0448\u043a\u0430, \u0448\u043a\u0430\u0444, \u0441\u043e\u0441\u0443\u0434",
-        "eo": "ujo, sako, bovlo, skatolo, taso, \u015dranko, tirkesto"
+        "eo": "ujo, sako, bovlo, skatolo, taso, \u015dranko, tirkesto",
+        "de": "Beh\u00e4lter, Tasche, Sch\u00fcssel, Box, Tasse, Schublade, Schrank, Gef\u00e4\u00df"
       }
     },
     "polinpin": {
@@ -3190,9 +3226,9 @@
         "en": "bowling pin",
         "ru": "\u043a\u0435\u0433\u043b\u044f \u0434\u043b\u044f \u0431\u043e\u0443\u043b\u0438\u043d\u0433\u0430",
         "eo": "bovlinga keglo",
+        "de": "Bowlingkegel",
         "tok": "polinpin li palisa sike tawa musi Polin. jan li anpa e polinpin kepeken sike pimeja kiwen.",
         "es": "bolo, pino de boliche",
-        "de": "Bowlingkegel",
         "hi": "\u092c\u094c\u0932\u093f\u0902\u0917 (\u0916\u0947\u0932) \u092a\u093f\u0928",
         "ur": "\u0628\u0648\u0644\u0646\u06af (\u06a9\u06be\u06cc\u0644) \u067e\u0646",
         "pa": "\u0a2c\u0a4b\u0a32\u0a3f\u0a70\u0a17 (\u0a16\u0a47\u0a32) \u0a2a\u0a3f\u0a28",
@@ -3212,9 +3248,9 @@
         "en": "effective, useful, give good results",
         "ru": "\u044d\u0444\u0444\u0435\u043a\u0442\u0438\u0432\u043d\u044b\u0439, \u043f\u043e\u043b\u0435\u0437\u043d\u044b\u0439, \u0434\u0430\u0432\u0430\u0442\u044c \u0445\u043e\u0440\u043e\u0448\u0438\u0439 \u0440\u0435\u0437\u0443\u043b\u044c\u0442\u0430\u0442",
         "eo": "efika, utila, donanta bonajn rezultojn",
+        "de": "gute Resultate hervorbrigend, effektiv, n\u00fctzlich",
         "tok": "lipu li ilo tawa sina la, ona li pomotolo. ijo pomotolo li ijo pi ilo wawa.",
         "es": "eficaz, efectivo, \u00fatil, dar buenos resultados",
-        "de": "gute Resultate hervorbrigend, effektiv, n\u00fctzlich",
         "hi": "\u0915\u093e\u092e \u0915\u093e, \u0909\u092a\u092f\u094b\u0917\u0940",
         "ur": "\u06a9\u0627\u0645 \u06a9\u0627\u060c \u0645\u0641\u06cc\u062f",
         "pa": "\u0a15\u0a71\u0a2e \u0a26\u0a3e, \u0a32\u0a3e\u0a2d\u0a26\u0a3e\u0a07\u0a15, \u0a09\u0a2a\u0a2f\u0a4b\u0a17\u0a40",
@@ -3234,7 +3270,8 @@
       "def": {
         "en": "good, positive, useful; friendly, peaceful; simple",
         "ru": "\u0445\u043e\u0440\u043e\u0448\u0438\u0439, \u043f\u043e\u043b\u043e\u0436\u0438\u0442\u0435\u043b\u044c\u043d\u044b\u0439, \u043f\u043e\u043b\u0435\u0437\u043d\u044b\u0439; \u0434\u0440\u0443\u0436\u0435\u043b\u044e\u0431\u043d\u044b\u0439, \u043c\u0438\u0440\u043e\u043b\u044e\u0431\u0438\u0432\u044b\u0439; \u043f\u0440\u043e\u0441\u0442\u043e\u0439",
-        "eo": "bona, pozitiva, utila; amika, paca; simpla"
+        "eo": "bona, pozitiva, utila; amika, paca; simpla",
+        "de": "gut, positiv, n\u00fctzlich; freundlich, friedlich; einfach"
       }
     },
     "powe": {
@@ -3249,9 +3286,9 @@
         "en": "unreal, false, untrue; pretend; deceive, trick",
         "ru": "\u043d\u0435\u043d\u0430\u0441\u0442\u043e\u044f\u0449\u0438\u0439, \u043b\u043e\u0436\u043d\u044b\u0439, \u043d\u0435\u0432\u0435\u0440\u043d\u044b\u0439; \u043f\u0440\u0438\u0442\u0432\u043e\u0440\u044f\u0442\u044c\u0441\u044f; \u043e\u0431\u043c\u0430\u043d, \u0443\u043b\u043e\u0432\u043a\u0430",
         "eo": "nereala, falsa, malvera; \u015dajnigi; trompi",
+        "de": "Trick, T\u00e4uschung, F\u00e4lschung; t\u00e4uschen; falsch, unwahr, irreal",
         "tok": "ijo li lon ala la, ijo li powe. ",
         "es": "irreal, falso, equivocado, de mentira; fingir, simular; enga\u00f1ar",
-        "de": "Trick, T\u00e4uschung, F\u00e4lschung; t\u00e4uschen; falsch, unwahr, irreal",
         "hi": "\u091d\u0942\u091f, \u0928\u0915\u0932\u0940, \u0905\u0938\u0924\u094d\u092f; \u091a\u0915\u092e\u093e \u0926\u0947\u0928\u093e, \u0927\u094b\u0916\u093c\u093e \u0926\u0947\u0928\u093e",
         "ur": "\u062c\u06be\u0648\u0679\u060c \u0646\u0642\u0644\u06cc\u060c \u0628\u06d2 \u062d\u0642\u06cc\u0642\u062a \u061b \u0686\u06a9\u0645\u0627 \u062f\u06cc\u0646\u0627\u060c \u062f\u06be\u0648\u06a9\u0627 \u062f\u06cc\u0646\u0627",
         "pa": "\u0a1d\u0a42\u0a20, \u0a28\u0a15\u0a32\u0a40, \u0a2c\u0a47\u0a39\u0a15\u0a40\u0a15\u0a24; \u0a27\u0a4b\u0a15\u0a3e \u0a26\u0a47\u0a23\u0a3e",
@@ -3270,7 +3307,8 @@
       "def": {
         "en": "interacting with the official Toki Pona book",
         "ru": "\u0432\u0437\u0430\u0438\u043c\u043e\u0434\u0435\u0439\u0441\u0442\u0432\u0443\u044e\u0449\u0438\u0439 \u0441 \u043e\u0444\u0438\u0446\u0438\u0430\u043b\u044c\u043d\u043e\u0439 \u043a\u043d\u0438\u0433\u043e\u0439 \u0442\u043e\u043a\u0438 \u043f\u043e\u043d\u044b",
-        "eo": "interaganta kun la oficiala libro de Tokipono"
+        "eo": "interaganta kun la oficiala libro de Tokipono",
+        "de": "mit dem offiziellen Toki-Pona-Buch interagieren"
       }
     },
     "puwa": {
@@ -3285,9 +3323,9 @@
         "en": "fluffy, soft, squishy (something that can be compressed and will try to go back to its original shape)",
         "ru": "\u043f\u0443\u0448\u0438\u0441\u0442\u044b\u0439, \u043c\u044f\u0433\u043a\u0438\u0439, \u043f\u043b\u044e\u0448\u0435\u0432\u044b\u0439 (\u0442\u043e, \u0447\u0442\u043e \u043c\u043e\u0436\u043d\u043e \u0441\u0436\u0430\u0442\u044c \u0438 \u043a\u043e\u0442\u043e\u0440\u043e\u0435 \u043f\u043e\u043f\u044b\u0442\u0430\u0435\u0442\u0441\u044f \u0432\u0435\u0440\u043d\u0443\u0442\u044c\u0441\u044f \u043a \u0441\u0432\u043e\u0435\u0439 \u043f\u0435\u0440\u0432\u043e\u043d\u0430\u0447\u0430\u043b\u044c\u043d\u043e\u0439 \u0444\u043e\u0440\u043c\u0435)",
         "eo": "mola, lanugeca, spongeca (io kio provas reiri al sia originala formo post esti kunpremita)",
+        "de": "weich, sanft, flauschige, flaumig",
         "tok": "ijo puwa li kiwen ala. ona li olin selo e ijo ni.",
         "es": "suave, blando, mullido, esponjoso",
-        "de": "weich, sanft, flauschige, flaumig",
         "hi": "\u0928\u0930\u092e",
         "ur": "\u0646\u0631\u0645",
         "pa": "\u0a28\u0a30\u0a2e",
@@ -3308,7 +3346,8 @@
       "def": {
         "en": "same, similar; each other; sibling, peer, fellow; as, like",
         "ru": "\u0442\u0430\u043a\u043e\u0439 \u0436\u0435, \u043f\u043e\u0445\u043e\u0436\u0438\u0439; \u0434\u0440\u0443\u0433 \u0434\u0440\u0443\u0433\u0430; \u0431\u0440\u0430\u0442, \u0441\u0435\u0441\u0442\u0440\u0430, \u0441\u0432\u0435\u0440\u0441\u0442\u043d\u0438\u043a, \u0442\u043e\u0432\u0430\u0440\u0438\u0449; \u043f\u043e\u0434\u043e\u0431\u043d\u043e",
-        "eo": "sama, simila; unu la alia; frat(in)o, egalulo, kamarado, kunulo; kiel, simile al"
+        "eo": "sama, simila; unu la alia; frat(in)o, egalulo, kamarado, kunulo; kiel, simile al",
+        "de": "gleich, selbig, \u00e4hnlich; einander; Geschwister, Gleichgestellter, Artgenosse; so, wie"
       }
     },
     "samu": {
@@ -3323,9 +3362,9 @@
         "en": "wanting to create new words",
         "ru": "\u0436\u0435\u043b\u0430\u0442\u044c \u0441\u043e\u0437\u0434\u0430\u0432\u0430\u0442\u044c \u043d\u043e\u0432\u044b\u0435 \u0441\u043b\u043e\u0432\u0430",
         "eo": "voli krei novajn vortojn",
+        "de": "mehr W\u00f6rter machen wollen",
         "tok": "sina samu la, sina wile e nimi sin tawa pona! tan ni la, o lukin e lipu \"nimi ali epiku!\"",
         "es": "querer crear nuevas palabras",
-        "de": "mehr W\u00f6rter machen wollen",
         "hi": "\u0928\u092f\u0947 \u0936\u092c\u094d\u0926 \u092c\u0928\u093e\u0928\u0947 \u092e\u0947\u0902 \u0926\u093f\u0932\u091a\u0938\u094d\u092a\u0940 \u0930\u0916\u0928\u093e",
         "ur": "\u0646\u0626\u06d2 \u0627\u0644\u0641\u0627\u0638 \u0628\u0646\u0627\u0646\u06d2 \u0645\u06cc\u06ba \u062f\u0644\u0686\u0633\u067e\u06cc \u0631\u06a9\u06be\u0646\u0627",
         "pa": "\u0a28\u0a35\u0a47 \u0a32\u0a2b\u0a1c \u0a2c\u0a28\u0a4c\u0a23\u0a47 \u0a26\u0a40 \u0a24\u0a3e\u0a02\u0a18 \u0a39\u0a4b\u0a23\u0a3e",
@@ -3347,9 +3386,9 @@
         "en": "three",
         "ru": "\u0442\u0440\u0438",
         "eo": "tri",
+        "de": "3",
         "tok": "ona li pali e ijo san. mi pali e ijo tu wan. ona en mi li pali e ijo pi nanpa sama.",
         "es": "tres",
-        "de": "3",
         "hi": "\u0924\u0940\u0928",
         "ur": "\u062a\u06cc\u0646",
         "pa": "\u0a24\u0a3f\u0a71\u0a28",
@@ -3369,9 +3408,9 @@
         "en": "the digit \u20184\u2019",
         "ru": "\u0446\u0438\u0444\u0440\u0430 4",
         "eo": "cifero kvar",
+        "de": "4",
         "tok": "se li sitelen nanpa pi nanpa tu tu.",
         "es": "el d\u00edgito 4",
-        "de": "4",
         "hi": "\u0905\u0902\u0915 \u091a\u093e\u0930",
         "ur": "\u0646\u0645\u0628\u0631 \u0686\u0627\u0631",
         "pa": "\u0a28\u0a2e\u0a2c\u0a30 \u0a1a\u0a3e\u0a30",
@@ -3391,7 +3430,8 @@
       "def": {
         "en": "fire; cooking element, chemical reaction, heat source",
         "ru": "\u043e\u0433\u043e\u043d\u044c; \u043d\u0430\u0433\u0440\u0435\u0432\u0430\u0442\u0435\u043b\u044c\u043d\u044b\u0439 \u044d\u043b\u0435\u043c\u0435\u043d\u0442, \u0445\u0438\u043c\u0438\u0447\u0435\u0441\u043a\u0430\u044f \u0440\u0435\u0430\u043a\u0446\u0438\u044f, \u0438\u0441\u0442\u043e\u0447\u043d\u0438\u043a \u0442\u0435\u043f\u043b\u0430",
-        "eo": "fajro; varmiga elemento de kuirilo, kemia reago, fonto de varmo"
+        "eo": "fajro; varmiga elemento de kuirilo, kemia reago, fonto de varmo",
+        "de": "Feuere; Kochelement, chemische Reaktion, W\u00e4rmequelle"
       }
     },
     "selo": {
@@ -3406,7 +3446,8 @@
       "def": {
         "en": "outer form, outer layer; bark, peel, shell, skin; boundary",
         "ru": "\u0432\u043d\u0435\u0448\u043d\u044f\u044f \u0444\u043e\u0440\u043c\u0430, \u0432\u043d\u0435\u0448\u043d\u0438\u0439 \u0441\u043b\u043e\u0439; \u043a\u043e\u0440\u0430, \u043a\u043e\u0436\u0443\u0440\u0430, \u0441\u043a\u043e\u0440\u043b\u0443\u043f\u0430, \u043a\u043e\u0436\u0438\u0446\u0430; \u0433\u0440\u0430\u043d\u0438\u0446\u0430",
-        "eo": "ekstera formo, ekstera tavolo; \u015delo (de arbo, frukto, molusko), konko, karapaco, ha\u016dto; limo"
+        "eo": "ekstera formo, ekstera tavolo; \u015delo (de arbo, frukto, molusko), konko, karapaco, ha\u016dto; limo",
+        "de": "\u00e4u\u00dfere Form, \u00e4u\u00dfere Schicht; Rinde, Schale, H\u00fclle, Haut; Grenze, Abgrenzung"
       }
     },
     "seme": {
@@ -3421,7 +3462,8 @@
       "def": {
         "en": "what? which?",
         "ru": "\u043a\u0430\u043a\u043e\u0439? \u043a\u043e\u0442\u043e\u0440\u044b\u0439?",
-        "eo": "kio? kiu?"
+        "eo": "kio? kiu?",
+        "de": "was? welche?"
       }
     },
     "sewi": {
@@ -3436,7 +3478,8 @@
       "def": {
         "en": "area above, highest part, something elevated; awe-inspiring, divine, sacred, supernatural",
         "ru": "\u043e\u0431\u043b\u0430\u0441\u0442\u044c \u0432\u044b\u0448\u0435, \u043d\u0430\u0438\u0432\u044b\u0441\u0448\u0430\u044f \u0447\u0430\u0441\u0442\u044c, \u043d\u0435\u0447\u0442\u043e \u0432\u043e\u0437\u0432\u044b\u0448\u0435\u043d\u043d\u043e\u0435; \u0432\u043d\u0443\u0448\u0430\u044e\u0449\u0438\u0439 \u0442\u0440\u0435\u043f\u0435\u0442, \u0431\u043e\u0436\u0435\u0441\u0442\u0432\u0435\u043d\u043d\u044b\u0439, \u0441\u0432\u044f\u0449\u0435\u043d\u043d\u044b\u0439, \u0441\u0432\u0435\u0440\u0445\u044a\u0435\u0441\u0442\u0435\u0441\u0442\u0432\u0435\u043d\u043d\u044b\u0439",
-        "eo": "areo super io, plej alta parto de io, io pli alta; miriga, dia, sankta, supernatura"
+        "eo": "areo super io, plej alta parto de io, io pli alta; miriga, dia, sankta, supernatura",
+        "de": "h\u00f6hergelegener Bereich, h\u00f6chster Teil, etwas erhobenes; beeindruckend, g\u00f6ttlich, heilig, \u00fcbernat\u00fcrlich"
       }
     },
     "sijelo": {
@@ -3451,7 +3494,8 @@
       "def": {
         "en": "body (of person or animal), physical state, torso",
         "ru": "\u0442\u0435\u043b\u043e (\u0447\u0435\u043b\u043e\u0432\u0435\u043a\u0430 \u0438\u043b\u0438 \u0436\u0438\u0432\u043e\u0442\u043d\u043e\u0433\u043e), \u0444\u0438\u0437\u0438\u0447\u0435\u0441\u043a\u043e\u0435 \u0441\u043e\u0441\u0442\u043e\u044f\u043d\u0438\u0435, \u0442\u043e\u0440\u0441",
-        "eo": "korpo (de homo a\u016d besto), fizika stato, torso"
+        "eo": "korpo (de homo a\u016d besto), fizika stato, torso",
+        "de": "K\u00f6rper (einer Person oder eines Tieres), k\u00f6rperlicher Zustand, Torso, Oberk\u00f6rper"
       }
     },
     "sike": {
@@ -3466,7 +3510,8 @@
       "def": {
         "en": "round or circular thing; ball, circle, cycle, sphere, wheel; of one year",
         "ru": "\u043a\u0440\u0443\u0433\u043b\u044b\u0439 \u043f\u0440\u0435\u0434\u043c\u0435\u0442; \u0448\u0430\u0440, \u043a\u0440\u0443\u0433, \u0446\u0438\u043a\u043b, \u0441\u0444\u0435\u0440\u0430, \u043a\u043e\u043b\u0435\u0441\u043e; \u043e\u0442\u043d\u043e\u0441\u044f\u0449\u0438\u0439\u0441\u044f \u043a \u043e\u0434\u043d\u043e\u043c\u0443 \u0433\u043e\u0434\u0443",
-        "eo": "io ronda a\u016d cirkla; pilko, cirklo, ciklo, globo, sfero, rado; de unu jaro"
+        "eo": "io ronda a\u016d cirkla; pilko, cirklo, ciklo, globo, sfero, rado; de unu jaro",
+        "de": "rundes oder kreisf\u00f6rmiges Ding; Ball, Kreis, Zyklus, Kugel, Rad; ein Jahr betreffend"
       }
     },
     "sikomo": {
@@ -3482,9 +3527,9 @@
         "en": "on a higher tier/plane, enlighten(ed), epic; to an exceedingly great extent",
         "ru": "\u0431\u043e\u043b\u0435\u0435 \u0432\u044b\u0441\u043e\u043a\u043e\u0433\u043e \u0443\u0440\u043e\u0432\u043d\u044f / \u043f\u043b\u0430\u043d\u0430, \u043f\u0440\u043e\u0441\u0432\u0435\u0449\u0451\u043d\u043d\u044b\u0439, \u044d\u043f\u0438\u0447\u0435\u0441\u043a\u0438\u0439; \u0432 \u0447\u0440\u0435\u0437\u0432\u044b\u0447\u0430\u0439\u043d\u043e \u0431\u043e\u043b\u044c\u0448\u043e\u0439 \u0441\u0442\u0435\u043f\u0435\u043d\u0438",
         "eo": "en alia pli alta nivelo ol aliaj, en kleri\u011dinta stato de supera kompreno kaj percepto, mojosega; treege, en eksterordinare alta grado",
+        "de": "auf einer h\u00f6heren Ebene, erleuchtet, erh\u00f6ht; in \u00fcberaus gro\u00dfem Ma\u00dfe",
         "tok": "tomo sina li pona lili. tomo ona li pona. taso, tomo mi li pona mute mute! pona pi tomo mi la, ona li sama ala tomo ante ali. tomo mi li sikomo.",
         "es": "en un nivel/plano superior, iluminado, \u00e9pico; en gran medida",
-        "de": "auf einer h\u00f6heren Ebene, erleuchtet, erh\u00f6ht; in \u00fcberaus gro\u00dfem Ma\u00dfe",
         "hi": "\u0928\u093f\u0930\u094d\u0935\u093e\u0923 \u0915\u0940 \u092a\u094d\u0930\u093e\u092a\u094d\u0924\u093f \u0915\u093f\u092f\u093e \u0939\u0941\u0906, \u0939\u0926 \u0938\u0947 \u091c\u093c\u094d\u092f\u093e\u0926\u093e",
         "ur": "\u062d\u062f \u0633\u06d2 \u0628\u0691\u06be \u06a9\u0631 \u060c \u0646\u0631\u0648\u0627\u0646 \u062d\u0627\u0635\u0644 \u06a9\u06cc\u0627",
         "pa": "\u0a28\u0a3f\u0a15\u0a35\u0a3e\u0a23 \u0a28\u0a42\u0a70 \u0a39\u0a3e\u0a38\u0a3f\u0a32 \u0a15\u0a3f\u0a71\u0a24\u0a3e \u0a39\u0a4b\u0a07\u0a06, \u0a39\u0a26 \u0a24\u0a4b\u0a02 \u0a35\u0a71\u0a27",
@@ -3505,7 +3550,8 @@
       "def": {
         "en": "new, fresh; additional, another, extra",
         "ru": "\u043d\u043e\u0432\u044b\u0439, \u0441\u0432\u0435\u0436\u0438\u0439; \u0434\u043e\u043f\u043e\u043b\u043d\u0438\u0442\u0435\u043b\u044c\u043d\u044b\u0439, \u0434\u043e\u0431\u0430\u0432\u043e\u0447\u043d\u044b\u0439",
-        "eo": "nova, fre\u015da; plia, aldona, kroma"
+        "eo": "nova, fre\u015da; plia, aldona, kroma",
+        "de": "neu, frisch; zus\u00e4tzlich, weitere, extra"
       }
     },
     "sina": {
@@ -3520,7 +3566,8 @@
       "def": {
         "en": "you",
         "ru": "\u0442\u044b, \u0432\u044b",
-        "eo": "vi"
+        "eo": "vi",
+        "de": "du, Sie, ihr"
       }
     },
     "sinpin": {
@@ -3535,7 +3582,8 @@
       "def": {
         "en": "face, foremost, front, wall",
         "ru": "\u043b\u0438\u0446\u043e, \u043f\u0435\u0440\u0435\u0434\u043d\u0438\u0439, \u043f\u0435\u0440\u0435\u0434, \u0441\u0442\u0435\u043d\u0430",
-        "eo": "viza\u011do, unuaranga, anta\u016do, muro"
+        "eo": "viza\u011do, unuaranga, anta\u016do, muro",
+        "de": "Gesicht, vorderst, vorne, Wand"
       }
     },
     "sitelen": {
@@ -3550,7 +3598,8 @@
       "def": {
         "en": "image, picture, representation, symbol, mark, writing",
         "ru": "\u043e\u0431\u0440\u0430\u0437, \u043a\u0430\u0440\u0442\u0438\u043d\u0430, \u043f\u0440\u0435\u0434\u0441\u0442\u0430\u0432\u043b\u0435\u043d\u0438\u0435, \u0441\u0438\u043c\u0432\u043e\u043b, \u043e\u0442\u043c\u0435\u0442\u043a\u0430, \u043f\u0438\u0441\u044c\u043c\u0435\u043d\u043d\u043e\u0441\u0442\u044c",
-        "eo": "bildo, figuro, simbolo, marka\u0135o, skriba\u0135o"
+        "eo": "bildo, figuro, simbolo, marka\u0135o, skriba\u0135o",
+        "de": "Bild, Repr\u00e4sentation, Symbol, Markierung, Schrift"
       }
     },
     "soko": {
@@ -3567,9 +3616,9 @@
         "en": "fungus, fungi",
         "ru": "\u0433\u0440\u0438\u0431, \u0433\u0440\u0438\u0431\u043e\u043a",
         "eo": "fungo, fungoj",
+        "de": "Pliz, Fungus",
         "tok": "soko li kili, taso soko en kili mute li sama ala. soko li jo e sijelo ante e linja suli mute lon ma anpa. selo soko li sama ala selo kasi.",
         "es": "hongo(s)",
-        "de": "Pliz, Fungus",
         "hi": "\u092b\u093c\u0902\u0917\u0938",
         "ur": "\u0641\u0646\u06af\u0633",
         "pa": "\u0a2b\u0a70\u0a17\u0a38",
@@ -3589,7 +3638,8 @@
       "def": {
         "en": "know, be skilled in, be wise about, have information on; (pv.) know how to",
         "ru": "\u0437\u043d\u0430\u0442\u044c, \u0431\u044b\u0442\u044c \u043e\u043f\u044b\u0442\u043d\u044b\u043c, \u0431\u044b\u0442\u044c \u043c\u0443\u0434\u0440\u044b\u043c, \u0440\u0430\u0441\u043f\u043e\u043b\u0430\u0433\u0430\u0442\u044c \u0438\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0438\u0435\u0439; (pv.) \u0443\u043c\u0435\u0442\u044c",
-        "eo": "scii, esti lerta pri, esti sa\u011da pri, havi informojn pri; (a.v.) scipovi"
+        "eo": "scii, esti lerta pri, esti sa\u011da pri, havi informojn pri; (a.v.) scipovi",
+        "de": "wissen, k\u00f6nnen, erfahren sein in, weise sein \u00fcber, Informationen haben \u00fcber; (HV) wissen wie"
       }
     },
     "soto": {
@@ -3605,9 +3655,9 @@
         "en": "left, left side, port side",
         "ru": "\u043b\u0435\u0432\u044b\u0439, \u0441\u043b\u0435\u0432\u0430",
         "eo": "maldekstra, maldekstra flanko, babordo",
+        "de": "links, linke Seite, Backbord",
         "tok": "nimi \"teje\" en nimi \"soto\" li jo e kon sama nimi ni: nimi \"sinpin\" en nimi \"monsi.\" linja nimi la, soto li lon poka open.",
         "es": "izquierda",
-        "de": "links, linke Seite, Backbord",
         "hi": "\u092c\u093e\u090f\u0902, \u092c\u093e\u092f\u093e\u0902",
         "ur": "\u0628\u0627\u0626\u06cc\u06ba\u060c \u0628\u0627\u06cc\u0627\u06ba",
         "pa": "\u0a16\u0a71\u0a2c\u0a47",
@@ -3627,7 +3677,8 @@
       "def": {
         "en": "animal, beast, land mammal",
         "ru": "\u0436\u0438\u0432\u043e\u0442\u043d\u043e\u0435, \u0437\u0432\u0435\u0440\u044c, \u043d\u0430\u0437\u0435\u043c\u043d\u043e\u0435 \u043c\u043b\u0435\u043a\u043e\u043f\u0438\u0442\u0430\u044e\u0449\u0435\u0435",
-        "eo": "besto, surtera mamulo"
+        "eo": "besto, surtera mamulo",
+        "de": "Tier, Biest, Lands\u00e4ugetier"
       }
     },
     "su": {
@@ -3640,7 +3691,8 @@
       "def": {
         "en": "(word reserved for future use by Sonja Lang)",
         "ru": "(\u0441\u043b\u043e\u0432\u043e \u0437\u0430\u0440\u0435\u0437\u0435\u0440\u0432\u0438\u0440\u043e\u0432\u0430\u043d\u043e \u0434\u043b\u044f \u0431\u0443\u0434\u0443\u0449\u0435\u0433\u043e \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u043d\u0438\u044f \u0421\u043e\u043d\u0435\u0439 \u041b\u0430\u043d\u0433)",
-        "eo": "(vorto rezervita por estonteca uzo de Sonja Lang)"
+        "eo": "(vorto rezervita por estonteca uzo de Sonja Lang)",
+        "de": "(f\u00fcr zuk\u00fcnftige Verwendung von Sonja Lang reserviertes Wort)"
       }
     },
     "su1": {
@@ -3656,9 +3708,9 @@
         "en": "[yes/no question marker, taking the place of li & o]",
         "ru": "[\u043f\u043e\u043a\u0430\u0437\u0430\u0442\u0435\u043b\u044c \u043f\u0440\u044f\u043c\u043e\u0433\u043e \u0432\u043e\u043f\u0440\u043e\u0441\u0430, \u0437\u0430\u043c\u0435\u043d\u044f\u044e\u0449\u0438\u0439 li \u0438 o]",
         "eo": "(\u0109u-demanda markilo, anstata\u016dante la vortojn li kaj o)",
+        "de": "[ja/nein-Fragenmarker, anstatt li/o]",
         "tok": "o kama sona e wile sona sina kepeken nasin tu wan. wan la, ni li pona anu seme? tu la, ni li pona ala pona? tu wan la, ni su pona?",
         "es": "(s\u00ed/no marcador de pregunta, tomando el lugar de las palabras li & o)",
-        "de": "[ja/nein-Fragenmarker, anstatt li/o]",
         "hi": "(\u0939\u093e\u0902 \u092f\u093e \u0928\u093e \u0915\u093e \u0938\u0935\u093e\u0932 \u092a\u0942\u0901\u091b\u0928\u0947 \u0915\u093e \u092a\u094d\u0930\u0924\u0940\u0915, \u091c\u094b \u0932\u0940 \u0914\u0930 \u0913 \u0915\u0940 \u091c\u0917\u0939 \u0932\u0947\u0924\u0947 \u0939\u0948\u0902)",
         "ur": "(\u06c1\u0627\u06ba \u06cc\u0627 \u0646\u06c1 \u06a9\u0627 \u0633\u0648\u0627\u0644 \u06a9\u0631\u0646\u06d2 \u06a9\u06cc \u0639\u0644\u0627\u0645\u062a \u060c \u062c\u0648 \u0644\u06cc \u0627\u0648\u0631 \u0627\u0648 \u06a9\u06cc \u062c\u06af\u06c1 \u0644\u06cc\u062a\u0627 \u06c1\u06d2\u06ba)",
         "pa": "(\u0a06\u0a39\u0a4b \u0a1c\u0a3e\u0a02 \u0a28\u0a3e \u0a26\u0a47 \u0a38\u0a35\u0a3e\u0a32 \u0a15\u0a30\u0a28 \u0a26\u0a3e \u0a1a\u0a3f\u0a28\u0a4d\u0a39, \u0a1c\u0a4b \u0a32\u0a40 \u0a05\u0a24\u0a47 \u0a13 \u0a26\u0a40 \u0a25\u0a3e\u0a02 \u0a32\u0a48\u0a02\u0a26\u0a3e \u0a39\u0a48)",
@@ -3678,7 +3730,8 @@
       "def": {
         "en": "big, heavy, large, long, tall; important; adult",
         "ru": "\u0431\u043e\u043b\u044c\u0448\u043e\u0439, \u0442\u044f\u0436\u0435\u043b\u044b\u0439, \u0434\u043b\u0438\u043d\u043d\u044b\u0439, \u0432\u044b\u0441\u043e\u043a\u0438\u0439; \u0432\u0430\u0436\u043d\u044b\u0439; \u0432\u0437\u0440\u043e\u0441\u043b\u044b\u0439",
-        "eo": "granda, peza, longa, alta; grava; plenkreska"
+        "eo": "granda, peza, longa, alta; grava; plenkreska",
+        "de": "gro\u00df, schwer, lang, breit, hoch; wichtig; erwachsen"
       }
     },
     "suno": {
@@ -3694,7 +3747,8 @@
       "def": {
         "en": "sun; light, brightness, glow, radiance, shine; light source",
         "ru": "\u0441\u043e\u043b\u043d\u0446\u0435; \u0441\u0432\u0435\u0442, \u044f\u0440\u043a\u043e\u0441\u0442\u044c, \u0441\u0432\u0435\u0447\u0435\u043d\u0438\u0435, \u0441\u0438\u044f\u043d\u0438\u0435; \u0438\u0441\u0442\u043e\u0447\u043d\u0438\u043a \u0441\u0432\u0435\u0442\u0430",
-        "eo": "suno; lumo, heleco, lumi, ardi, brilo; lumfonto"
+        "eo": "suno; lumo, heleco, lumi, ardi, brilo; lumfonto",
+        "de": "Sonne; Licht, Helligkeit, Leuchten, Glanz, Schein; Lichtquelle"
       }
     },
     "supa": {
@@ -3709,7 +3763,8 @@
       "def": {
         "en": "horizontal surface, thing to put or rest something on",
         "ru": "\u0433\u043e\u0440\u0438\u0437\u043e\u043d\u0442\u0430\u043b\u044c\u043d\u0430\u044f \u043f\u043e\u0432\u0435\u0440\u0445\u043d\u043e\u0441\u0442\u044c, \u043f\u0440\u0435\u0434\u043c\u0435\u0442, \u043d\u0430 \u043a\u043e\u0442\u043e\u0440\u044b\u0439 \u043c\u043e\u0436\u043d\u043e \u0447\u0442\u043e-\u0442\u043e \u043f\u043e\u0441\u0442\u0430\u0432\u0438\u0442\u044c \u0438\u043b\u0438 \u043e\u043f\u0435\u0440\u0435\u0442\u044c\u0441\u044f",
-        "eo": " horizontala surfaco, io sur kio oni metas ion alian"
+        "eo": " horizontala surfaco, io sur kio oni metas ion alian",
+        "de": "waagerechte Oberfl\u00e4che, Ding f\u00fcr das Abstellen von anderen Dingen"
       }
     },
     "sutopatikuna": {
@@ -3724,9 +3779,9 @@
         "en": "platypus",
         "ru": "\u0443\u0442\u043a\u043e\u043d\u043e\u0441",
         "eo": "ornitorinko, anasbeka platopiedulo",
+        "de": "Schnabeltier",
         "tok": "sutopatikuna li soweli telo pi ma Oselija. ona li mama e soweli lili kepeken sike wala. ona li jo e nena musi suli.",
         "es": "ornitorrinco",
-        "de": "Schnabeltier",
         "hi": "\u092a\u094d\u0932\u0948\u091f\u093f\u092a\u0938 (\u091c\u093e\u0928\u0935\u0930)",
         "ur": "\u067e\u0644\u0627\u0679\u06cc\u067e\u0633 (\u062c\u0627\u0646\u0648\u0631)",
         "pa": "\u0a2a\u0a32\u0a48\u0a1f\u0a3f\u0a2a\u0a38 (\u0a1c\u0a3e\u0a28\u0a35\u0a30)",
@@ -3746,7 +3801,8 @@
       "def": {
         "en": "sweet, fragrant; cute, innocent, adorable",
         "ru": "\u0441\u043b\u0430\u0434\u043a\u0438\u0439, \u0430\u0440\u043e\u043c\u0430\u0442\u043d\u044b\u0439; \u043c\u0438\u043b\u044b\u0439, \u043d\u0435\u0432\u0438\u043d\u043d\u044b\u0439, \u043e\u0447\u0430\u0440\u043e\u0432\u0430\u0442\u0435\u043b\u044c\u043d\u044b\u0439",
-        "eo": "dol\u0109a, bonodora; \u0109arma, senkulpa, aminda"
+        "eo": "dol\u0109a, bonodora; \u0109arma, senkulpa, aminda",
+        "de": "s\u00fc\u00df, wohlriechend; niedlich, unschuldig, liebenswert"
       }
     },
     "take": {
@@ -3761,9 +3817,9 @@
         "en": "the digit \u20187\u2019",
         "ru": "\u0446\u0438\u0444\u0440\u0430 7",
         "eo": "cifero sep",
+        "de": "7",
         "tok": "take li sitelen nanpa pi nanpa luka tu.",
         "es": "el d\u00edgito 7",
-        "de": "7",
         "hi": "\u0905\u0902\u0915 \u0938\u093e\u0924",
         "ur": "\u0646\u0645\u0628\u0631 \u0633\u0627\u062a",
         "pa": "\u0a28\u0a38\u0a2c\u0a30 \u0a38\u0a3e\u0a24",
@@ -3783,9 +3839,9 @@
         "en": "sticky, magnetic; bond, attract, attach, clip",
         "ru": "\u043b\u0438\u043f\u043a\u0438\u0439, \u043c\u0430\u0433\u043d\u0438\u0442\u043d\u044b\u0439; \u0441\u0432\u044f\u0437\u044b\u0432\u0430\u0442\u044c, \u043f\u0440\u0438\u0442\u044f\u0433\u0438\u0432\u0430\u0442\u044c, \u043f\u0440\u0438\u043a\u0440\u0435\u043f\u043b\u044f\u0442\u044c, \u0437\u0430\u0436\u0438\u043c\u0430\u0442\u044c",
         "eo": "glueca, magneta; ligilo, altiri, alligi\u011di, fiksilo",
+        "de": "klebrig, magnetisch",
         "tok": "lipu ni li lon luka mi. mi ken ala weka e ona! ona li taki. tan ni la, mi taki e lipu ni lon sinpin mi. tenpo ni la, sinpin mi li jo e lipu ni.",
         "es": "pegajoso, pringoso, adhesivo; magn\u00e9tico",
-        "de": "klebrig, magnetisch",
         "hi": "\u091a\u093f\u092a\u0915\u0942",
         "ur": "\u0686\u067e\u06a9\u0648 \u061b \u0645\u063a\u0646\u0627\u0637\u06cc\u0633\u06cc",
         "pa": "\u0a1a\u0a3f\u0a2a\u0a15\u0a42, \u0a2e\u0a48\u0a17\u0a28\u0a47\u0a1f\u0a3f\u0a15",
@@ -3805,7 +3861,8 @@
       "def": {
         "en": "by, from, because of; origin, cause",
         "ru": "\u043e\u0442, \u0438\u0437, \u0438\u0437-\u0437\u0430; \u043f\u0440\u043e\u0438\u0441\u0445\u043e\u0436\u0434\u0435\u043d\u0438\u0435, \u043f\u0440\u0438\u0447\u0438\u043d\u0430",
-        "eo": "pro, el, fare de; origino, ka\u016dzo"
+        "eo": "pro, el, fare de; origino, ka\u016dzo",
+        "de": "von, durch, wegen; Grund, Ursache"
       }
     },
     "taso": {
@@ -3820,7 +3877,8 @@
       "def": {
         "en": "but, however; only",
         "ru": "\u043d\u043e, \u043e\u0434\u043d\u0430\u043a\u043e; \u0442\u043e\u043b\u044c\u043a\u043e",
-        "eo": "sed, tamen; nur"
+        "eo": "sed, tamen; nur",
+        "de": "aber, jedoch; nur"
       }
     },
     "tawa": {
@@ -3835,7 +3893,8 @@
       "def": {
         "en": "going to, toward; for; from the perspective of; moving | ALT (pv.) going to",
         "ru": "\u0434\u0432\u0438\u0433\u0430\u044e\u0449\u0438\u0439\u0441\u044f, \u043d\u0430\u0432\u0441\u0442\u0440\u0435\u0447\u0443; \u0434\u043b\u044f; \u0441 \u0442\u043e\u0447\u043a\u0438 \u0437\u0440\u0435\u043d\u0438\u044f; \u043f\u0435\u0440\u0435\u043c\u0435\u0449\u0430\u044e\u0449\u0438\u0439\u0441\u044f | ALT (pv.) \u0441\u043e\u0431\u0438\u0440\u0430\u0435\u0442\u0441\u044f",
-        "eo": "al, iranta al, en la direkto al; por, al; la\u016d la vidpunkto de; movanta | ALT (a.v.) iri ...i"
+        "eo": "al, iranta al, en la direkto al; por, al; la\u016d la vidpunkto de; movanta | ALT (a.v.) iri ...i",
+        "de": "hin, zu, nach; f\u00fcr; nach Ansicht von; bewegen | ALT (HV) zu... hingehen"
       }
     },
     "te": {
@@ -3851,9 +3910,9 @@
         "en": "(particle introducing a quote)",
         "ru": "(\u0447\u0430\u0441\u0442\u0438\u0446\u0430, \u043e\u0442\u043a\u0440\u044b\u0432\u0430\u044e\u0449\u0430\u044f \u0446\u0438\u0442\u0430\u0442\u0443)",
         "eo": "(partiklo kiu enkondukas cita\u0135on)",
+        "de": "Zitatanfangszeichen",
         "tok": "sina toki e ni: \"mi pilin suli.\" sina toki te mi pilin suli to. linja nimi tu ni li sama.",
         "es": "(part\u00edcula que introduce una cita)",
-        "de": "Zitatanfangszeichen",
         "hi": "(\u0915\u093f\u0938\u0940 \u0914\u0930 \u0915\u0947 \u0939\u0935\u093e\u0932\u0947 \u0915\u0947 \u0936\u0941\u0930\u0941\u0906\u0924 \u0915\u093e \u092a\u094d\u0930\u0924\u0940\u0915)",
         "ur": "(\u06a9\u0633\u06cc \u0627\u0648\u0631 \u06a9\u06d2 \u06c1\u0648\u0627\u0644\u06d2 \u06a9\u06d2 \u0634\u0631\u0648\u0639\u0627\u062a \u06a9\u06cc \u0639\u0644\u0627\u0645\u062a)",
         "pa": "(\u0a26\u0a42\u0a1c\u0a47 \u0a26\u0a3e \u0a39\u0a35\u0a3e\u0a32\u0a47 \u0a28\u0a42\u0a70 \u0a38\u0a3c\u0a41\u0a30\u0a42 \u0a15\u0a30\u0a28 \u0a35\u0a3e\u0a32\u0a3e \u0a1a\u0a3f\u0a28\u0a4d\u0a39)",
@@ -3874,9 +3933,9 @@
         "en": "right, right side, starboard",
         "ru": "\u043f\u0440\u0430\u0432\u044b\u0439, \u0441\u043f\u0440\u0430\u0432\u0430",
         "eo": "dekstra, dekstra flanko, tribordo",
+        "de": "rechts, rechte Seite, Steuerbord",
         "tok": "nimi \"teje\" en nimi \"soto\" li jo e kon sama nimi ni: nimi \"sinpin\" en nimi \"monsi.\" linja nimi la, teje li lon poka pini.",
         "es": "derecha, lado derecho, estribor",
-        "de": "rechts, rechte Seite, Steuerbord",
         "hi": "\u0926\u093e\u090f\u0902, \u0926\u093e\u092f\u093e\u0902",
         "ur": "\u062f\u0627\u0626\u06cc\u06ba\u060c \u062f\u0627\u06cc\u0627\u06ba",
         "pa": "\u0a38\u0a71\u0a1c\u0a47",
@@ -3896,7 +3955,8 @@
       "def": {
         "en": "water, liquid, fluid, wet substance; beverages",
         "ru": "\u0432\u043e\u0434\u0430, \u0436\u0438\u0434\u043a\u043e\u0441\u0442\u044c, \u0432\u043b\u0430\u0436\u043d\u043e\u0435 \u0432\u0435\u0449\u0435\u0441\u0442\u0432\u043e; \u043d\u0430\u043f\u0438\u0442\u043e\u043a",
-        "eo": "akvo, likvo, flua\u0135o, malseka substanco; trinka\u0135o"
+        "eo": "akvo, likvo, flua\u0135o, malseka substanco; trinka\u0135o",
+        "de": "Wasser, Fl\u00fcssigkeit, nasse Substanz; Getr\u00e4nk"
       }
     },
     "ten": {
@@ -3911,9 +3971,9 @@
         "en": "(shortened variant of tenpo)",
         "ru": "(\u0443\u043a\u043e\u0440\u043e\u0447\u0435\u043d\u043d\u044b\u0439 \u0432\u0430\u0440\u0438\u0430\u043d\u0442 tenpo)",
         "eo": "(mallonga varia\u0135o de la vorto tenpo)",
+        "de": "[Verk\u00fcrzung von tenpo]",
         "tok": "nimi \"ten\" li sama nimi \"tenpo.\"",
         "es": "(variante abreviada de la palabra tenpo)",
-        "de": "[Verk\u00fcrzung von tenpo]",
         "hi": "(\u0924\u0947\u0902\u092a\u094b \u0936\u092c\u094d\u0926 \u0915\u093e \u091b\u094b\u091f\u093e \u092a\u094d\u0930\u0915\u093e\u0930)",
         "ur": "(\u0644\u0641\u0638 \u062a\u06cc\u0646\u067e\u0648 \u06a9\u0648 \u0628\u0648\u0644\u0646\u06d2 \u06a9\u0627 \u0645\u062e\u062a\u0635\u0631 \u062a\u0631\u06cc\u0642\u0627)",
         "pa": "(\u0a24\u0a47\u0a02\u0a2a\u0a4b \u0a38\u0a3c\u0a2c\u0a26 \u0a2c\u0a4b\u0a32\u0a28 \u0a26\u0a3e \u0a28\u0a3f\u0a71\u0a15\u0a3e \u0a1c\u0a3f\u0a39\u0a3e \u0a24\u0a30\u0a40\u0a15\u0a3e)",
@@ -3934,7 +3994,8 @@
       "def": {
         "en": "time, duration, moment, occasion, period, situation",
         "ru": "\u0432\u0440\u0435\u043c\u044f, \u043f\u0440\u043e\u0434\u043e\u043b\u0436\u0438\u0442\u0435\u043b\u044c\u043d\u043e\u0441\u0442\u044c, \u043c\u043e\u043c\u0435\u043d\u0442, \u0441\u043b\u0443\u0447\u0430\u0439, \u043f\u0435\u0440\u0438\u043e\u0434, \u0441\u0438\u0442\u0443\u0430\u0446\u0438\u044f",
-        "eo": "tempo, da\u016dro, momento, okazo, fojo, periodo, situacio"
+        "eo": "tempo, da\u016dro, momento, okazo, fojo, periodo, situacio",
+        "de": "Zeit, Dauer, Moment, Gelegenheit, Zeitraum, Situation"
       }
     },
     "to": {
@@ -3950,9 +4011,9 @@
         "en": "(particle closing a quote)",
         "ru": "(\u0447\u0430\u0441\u0442\u0438\u0446\u0430, \u0437\u0430\u043a\u0440\u044b\u0432\u0430\u044e\u0449\u0430\u044f \u0446\u0438\u0442\u0430\u0442\u0443)",
         "eo": "(partiklo kiu fermas cita\u0135on)",
+        "de": "Zitatendzeichen",
         "tok": "sina toki e ni: \"mi pilin suli.\" sina toki te mi pilin suli to. linja nimi tu ni li sama.",
         "es": "(part\u00edcula que cierra una cita)",
-        "de": "Zitatendzeichen",
         "hi": "(\u0915\u093f\u0938\u0940 \u0914\u0930 \u0915\u0947 \u0939\u0935\u093e\u0932\u0947 \u0915\u0947 \u0905\u0902\u0924 \u0915\u093e \u092a\u094d\u0930\u0924\u0940\u0915)",
         "ur": "(\u06a9\u0633\u06cc \u0627\u0648\u0631 \u06a9\u06d2 \u06c1\u0648\u0627\u0644\u06d2 \u06a9\u06d2 \u0622\u062e\u0631 \u06a9\u06cc \u0639\u0644\u0627\u0645\u062a)",
         "pa": "(\u0a26\u0a42\u0a1c\u0a47 \u0a26\u0a3e \u0a39\u0a35\u0a3e\u0a32\u0a47 \u0a28\u0a42\u0a70 \u0a2e\u0a41\u0a15\u0a09\u0a23 \u0a35\u0a3e\u0a32\u0a3e \u0a1a\u0a3f\u0a28\u0a4d\u0a39)",
@@ -3971,9 +4032,9 @@
         "en": "focus, attention, concentrate, resolution, fineness; focus on",
         "ru": "\u0444\u043e\u043a\u0443\u0441, \u0432\u043d\u0438\u043c\u0430\u043d\u0438\u0435, \u043a\u043e\u043d\u0446\u0435\u043d\u0442\u0440\u0430\u0446\u0438\u044f, \u0440\u0435\u0448\u0438\u043c\u043e\u0441\u0442\u044c, \u0441\u043e\u0432\u0435\u0440\u0448\u0435\u043d\u0441\u0442\u0432\u043e; \u0444\u043e\u043a\u0443\u0441\u0438\u0440\u043e\u0432\u0430\u0442\u044c\u0441\u044f \u043d\u0430",
         "eo": "fokuso, atento, koncentri sin, distingivo, fineness; fokusi atenton al, \u0109efe pritrakti",
+        "de": "Fokus, Aufmerksamkeit, Konzentration, Feinheit; auf etw. fokusieren",
         "tok": "sina lukin li kama sona e ijo lon tenpo mute la, sina tokana.",
         "es": "enfoque, concentraci\u00f3n, atenci\u00f3n, concentrar, resoluci\u00f3n, prop\u00f3sito, precisi\u00f3n, finura; centrar",
-        "de": "Fokus, Aufmerksamkeit, Konzentration, Feinheit; auf etw. fokusieren",
         "hi": "\u0927\u094d\u092f\u093e\u0928, \u0938\u094d\u092a\u0937\u094d\u091f\u0924\u093e; \u0927\u094d\u092f\u093e\u0928 \u0932\u0917\u093e\u0928\u093e",
         "ur": "\u062a\u0648\u062c\u06c1 \u060c \u0648\u0636\u0627\u062d\u062a\u061b \u062a\u0648\u062c\u06c1 \u0645\u0631\u06a9\u0648\u0632 \u06a9\u0631\u0646\u0627",
         "pa": "\u0a27\u0a3f\u0a06\u0a28, \u0a27\u0a3f\u0a06\u0a28 \u0a32\u0a17\u0a4c\u0a23\u0a3e",
@@ -3993,7 +4054,8 @@
       "def": {
         "en": "communicate, say, speak, talk, use language, think; hello",
         "ru": "\u043e\u0431\u0449\u0430\u0442\u044c\u0441\u044f, \u0433\u043e\u0432\u043e\u0440\u0438\u0442\u044c, \u0441\u043a\u0430\u0437\u0430\u0442\u044c, \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u044c \u044f\u0437\u044b\u043a, \u0434\u0443\u043c\u0430\u0442\u044c; \u043f\u0440\u0438\u0432\u0435\u0442",
-        "eo": "komuniki, diri, paroli, uzi lingvon, pensi; saluton"
+        "eo": "komuniki, diri, paroli, uzi lingvon, pensi; saluton",
+        "de": "kommunizieren, sagen, sprechen, reden, Sprache benutzen, denken; hallo"
       }
     },
     "tomo": {
@@ -4025,9 +4087,9 @@
         "en": "non-binary, gender-non-conforming | ALT trans, non-cisgender",
         "ru": "\u043d\u0435\u0431\u0438\u043d\u0430\u0440\u043d\u044b\u0439, \u0433\u0435\u043d\u0434\u0435\u0440\u043d\u043e-\u043d\u0435\u043a\u043e\u043d\u0444\u043e\u0440\u043c\u043d\u044b\u0439 | ALT \u0442\u0440\u0430\u043d\u0441\u0433\u0435\u043d\u0434\u0435\u0440\u043d\u044b\u0439, \u043d\u0435\u0446\u0438\u0441\u0433\u0435\u043d\u0434\u0435\u0440\u044b\u0439",
         "eo": "neduuma, genre nekonforma | ALT transseksa, transgenra, necisseksa",
+        "de": "divers (Geschlechter)",
         "tok": "jan li mije ala li meli ala la, ona li tonsi. jan li mije tawa meli anu meli tawa mije la, ona li tonsi.",
         "es": "no binari(o/a); transg\u00e9nero",
-        "de": "divers (Geschlechter)",
         "hi": "\u0915\u093f\u0928\u094d\u0928\u0930, \u0928 \u0938\u094d\u0924\u094d\u0930\u0940 \u0928 \u092a\u0941\u0930\u0941\u0937",
         "ur": "\u0645\u062a\u062c\u0646\u0651\u0633 \u0627\u0641\u0631\u0627\u062f\u060c \u0679\u0631\u0627\u0646\u0633\u062c\u06cc\u0646\u0688\u0631 \u061b \u0646\u06c1 \u0639\u0648\u0631\u062a \u0627\u0648\u0631 \u0646\u06c1 \u06c1\u06cc \u0645\u0631\u062f",
         "pa": "\u0a15\u0a3f\u0a71\u0a28\u0a30; \u0a28\u0a3e \u0a2e\u0a39\u0a3f\u0a32\u0a3e \u0a28\u0a3e \u0a2a\u0a41\u0a30\u0a41\u0a38\u0a3c",
@@ -4066,9 +4128,9 @@
         "en": "three",
         "ru": "\u0442\u0440\u0438",
         "eo": "tri",
+        "de": "3",
         "tok": "ona li pali e ijo tuli. mi pali e ijo tu wan. ona en mi li pali e ijo pi nanpa sama.",
         "es": "tres",
-        "de": "3",
         "hi": "\u0924\u0940\u0928",
         "ur": "\u062a\u06cc\u0646",
         "pa": "\u0a24\u0a3f\u0a71\u0a28",
@@ -4086,7 +4148,8 @@
       "def": {
         "en": "(word reserved for future use by Sonja Lang)",
         "ru": "(\u0441\u043b\u043e\u0432\u043e \u0437\u0430\u0440\u0435\u0437\u0435\u0440\u0432\u0438\u0440\u043e\u0432\u0430\u043d\u043e \u0434\u043b\u044f \u0431\u0443\u0434\u0443\u0449\u0435\u0433\u043e \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u043d\u0438\u044f \u0421\u043e\u043d\u0435\u0439 \u041b\u0430\u043d\u0433)",
-        "eo": "(vorto rezervita por estonteca uzo de Sonja Lang)"
+        "eo": "(vorto rezervita por estonteca uzo de Sonja Lang)",
+        "de": "(f\u00fcr zuk\u00fcnftige Verwendung von Sonja Lang reserviertes Wort)"
       }
     },
     "umesu": {
@@ -4130,9 +4193,9 @@
         "en": "purple",
         "ru": "\u0444\u0438\u043e\u043b\u0435\u0442\u043e\u0432\u044b\u0439",
         "eo": "purpura",
+        "de": "lila, purpur, violett",
         "tok": "unu li laso loje anu loje laso.",
         "es": "morado, p\u00farpura",
-        "de": "lila, purpur, violett",
         "hi": "\u091c\u093e\u092e\u0928\u0940 \u0930\u0902\u0917",
         "ur": "\u062c\u0627\u0645\u0646\u06cc",
         "pa": "\u0a1c\u0a3e\u0a2e\u0a28\u0a40 \u0a30\u0a70\u0a17",
@@ -4152,9 +4215,9 @@
         "en": "magic, sorcery; enchant; magical, supernatural, occult, incomprehensible",
         "ru": "\u043c\u0430\u0433\u0438\u044f, \u043a\u043e\u043b\u0434\u043e\u0432\u0441\u0442\u0432\u043e; \u043e\u0447\u0430\u0440\u043e\u0432\u044b\u0432\u0430\u0442\u044c; \u043c\u0430\u0433\u0438\u0447\u0435\u0441\u043a\u0438\u0439, \u0441\u0432\u0435\u0440\u0445\u044a\u0435\u0441\u0442\u0435\u0441\u0442\u0432\u0435\u043d\u043d\u044b\u0439, \u043e\u043a\u043a\u0443\u043b\u044c\u0442\u043d\u044b\u0439, \u043d\u0435\u043f\u043e\u0441\u0442\u0438\u0436\u0438\u043c\u044b\u0439",
         "eo": "magio, sor\u0109ado; sor\u0109i; magia, supernatura, okulta, nekomprenebla",
+        "de": "Magie, Zauberei, Hexerei; verzaubern; magisch, \u00fcbernat\u00fcrlich, okult, unverst\u00e4ndlich",
         "tok": "usawi li nasin pi jan sewi lili, anu usawi li ijo pi sona jan ala.",
         "es": "magia, brujer\u00eda, hechicer\u00eda; encantar, hechizar; m\u00e1gico, sobrenatural, oculto, incomprensible",
-        "de": "Magie, Zauberei, Hexerei; verzaubern; magisch, \u00fcbernat\u00fcrlich, okult, unverst\u00e4ndlich",
         "hi": "\u091c\u093e\u0926\u0942, \u091f\u094b\u0928\u093e, \u091c\u093e\u0926\u0942\u0917\u0930\u0940",
         "ur": "\u062c\u0627\u062f\u0648 \u060c \u062c\u0627\u062f\u0648\u0626\u06cc\u060c \u0679\u0648\u0646\u06c1 \u060c \u0645\u0627\u0641\u0648\u0642 \u0627\u0644\u0641\u0637\u0631\u062a",
         "pa": "\u0a1c\u0a3e\u0a26\u0a42, \u0a1c\u0a3e\u0a26\u0a42\u0a08, \u0a1f\u0a4b\u0a23\u0a3e",
@@ -4204,9 +4267,9 @@
         "en": "[interjection] indicating awe or amazement",
         "ru": "[\u043c\u0435\u0436\u0434\u043e\u043c\u0435\u0442\u0438\u0435] \u043e\u0431\u043e\u0437\u043d\u0430\u0447\u0430\u0435\u0442 \u0442\u0440\u0435\u043f\u0435\u0442 \u0438\u043b\u0438 \u0438\u0437\u0443\u043c\u043b\u0435\u043d\u0438\u0435",
         "eo": "[interjekcio] indikas admiron a\u016d miron",
+        "de": "(deutet Erstaunen an)",
         "tok": "wa li pilin pi wawa suli.",
         "es": "(indicando asombro)",
-        "de": "(deutet Erstaunen an)",
         "hi": "(\u0906\u0936\u094d\u091a\u0930\u094d\u092f \u0914\u0930 \u091a\u094c\u0902\u0915\u0928\u0947 \u0915\u093e \u092a\u094d\u0930\u0924\u0940\u0915)",
         "ur": "(\u062d\u06cc\u0631\u062a \u0627\u0648\u0631 \u0686\u0648\u06a9\u0646\u06d2 \u06a9\u06cc \u0639\u0644\u0627\u0645\u062a)",
         "pa": "(\u0a39\u0a48\u0a30\u0a24 \u0a05\u0a24\u0a47 \u0a1a\u0a4c\u0a02\u0a15\u0a23 \u0a26\u0a3e \u0a1a\u0a3f\u0a28\u0a4d\u0a39)",
@@ -4227,9 +4290,9 @@
         "en": "context, topic, salience, pertinent, topical, pertain to, be relevant",
         "ru": "\u043a\u043e\u043d\u0442\u0435\u043a\u0441\u0442, \u0442\u0435\u043c\u0430, \u0437\u043d\u0430\u0447\u0438\u043c\u043e\u0441\u0442\u044c, \u0443\u043c\u0435\u0441\u0442\u043d\u043e\u0441\u0442\u044c, \u0430\u043a\u0442\u0443\u0430\u043b\u044c\u043d\u043e\u0441\u0442\u044c, \u0438\u043c\u0435\u0442\u044c \u043e\u0442\u043d\u043e\u0448\u0435\u043d\u0438\u0435, \u0431\u044b\u0442\u044c \u0430\u043a\u0442\u0443\u0430\u043b\u044c\u043d\u044b\u043c",
         "eo": "kunteksto, temo, elstara graveco, rilata al, esti relevanta",
+        "de": "Kontext, Thema, relevante Eigenschaft; thematisch, relevant",
         "tok": "waleja li sona suli lon toki sina.",
         "es": "contexto, tema, saliente, relevancia, prominencia, pertinente, de actualidad, concernir, pertenecer, ser relevante",
-        "de": "Kontext, Thema, relevante Eigenschaft; thematisch, relevant",
         "hi": "\u0938\u0902\u0927\u0930\u094d\u092c, \u092e\u0941\u0916\u094d\u092f \u092c\u093e\u0924, \u092e\u0941\u0926\u094d\u0926\u093e",
         "ur": "\u0633\u06cc\u0627\u0642 \u0648 \u0633\u0628\u0627\u0642 \u060c \u0627\u06c1\u0645 \u0628\u0627\u062a \u060c \u0645\u062f\u0651\u06c1",
         "pa": "\u0a38\u0a70\u0a26\u0a30\u0a2d, \u0a2e\u0a41\u0a71\u0a16 \u0a17\u0a71\u0a32, \u0a2e\u0a41\u0a71\u0a26\u0a3e",
@@ -4324,9 +4387,9 @@
         "en": "something that appears to break the rules but doesn't; faux edginess, provocation",
         "ru": "\u0442\u043e, \u0447\u0442\u043e \u043a\u0430\u0436\u0435\u0442\u0441\u044f \u043d\u0430\u0440\u0443\u0448\u0430\u044e\u0449\u0438\u043c \u043f\u0440\u0430\u0432\u0438\u043b\u0430, \u043d\u043e \u043d\u0430\u0445\u043e\u0434\u0438\u0442\u0441\u044f \u0432 \u0438\u0445 \u0440\u0430\u043c\u043a\u0430\u0445; \u0444\u0430\u043b\u044c\u0448\u0438\u0432\u0430\u044f \u0434\u0435\u0440\u0437\u043e\u0441\u0442\u044c, \u043f\u0440\u043e\u0432\u043e\u043a\u0430\u0446\u0438\u044f",
         "eo": "io, kio \u015dajnas esti kontra\u016dregula, sed ne estas; provokado, \u015dajnigi kontra\u016di normojn por \u015dajni mojosa",
+        "de": "etwas, was nur anscheinend die Regeln bricht; Provokation",
         "tok": "wawajete li ijo ni: ona li lukin ike, taso ona li kute e lawa ali.",
         "es": "algo que parece romper las reglas pero no lo hace; falso nervio, provocaci\u00f3n",
-        "de": "etwas, was nur anscheinend die Regeln bricht; Provokation",
         "hi": "\u091c\u094b \u0917\u093c\u0948\u0930\u0915\u093e\u0928\u0942\u0928\u0940 \u0932\u0917\u0924\u093e \u0939\u0948 \u0932\u0947\u0915\u093f\u0928 \u0939\u0948 \u0928\u0939\u0940\u0902, \u0909\u0902\u0917\u0932\u0940 \u0915\u0930\u0928\u093e",
         "ur": "\u062c\u0648 \u063a\u06cc\u0631\u0642\u0627\u0646\u0648\u0646\u06cc \u0644\u06af\u062a\u0627 \u06c1\u06d2 \u0644\u06cc\u06a9\u0646 \u06c1\u06d2 \u0646\u06c1\u06cc\u06ba\u060c \u0627\u0646\u06af\u0644\u06cc \u06a9\u0631\u0646\u0627",
         "pa": "\u0a1c\u0a4b \u0a17\u0a48\u0a30\u0a15\u0a3e\u0a28\u0a42\u0a28\u0a40 \u0a32\u0a17\u0a26\u0a3e \u0a39\u0a48 \u0a2a\u0a30 \u0a39\u0a48 \u0a28\u0a3e; \u0a09\u0a02\u0a17\u0a32\u0a3c\u0a40 \u0a15\u0a30\u0a28\u0a3e",
@@ -4346,9 +4409,9 @@
         "en": "(acts as a transition from one complete sentence to another)",
         "ru": "(\u0434\u0435\u0439\u0441\u0442\u0432\u0443\u0435\u0442 \u043a\u0430\u043a \u043f\u0435\u0440\u0435\u0445\u043e\u0434 \u043e\u0442 \u043e\u0434\u043d\u043e\u0433\u043e \u043f\u043e\u043b\u043d\u043e\u0433\u043e \u043f\u0440\u0435\u0434\u043b\u043e\u0436\u0435\u043d\u0438\u044f \u043a \u0434\u0440\u0443\u0433\u043e\u043c\u0443)",
         "eo": "(rolas kiel transito de unus completa frazo al alia)",
+        "de": "(\u00dcbergang von einem zum anderen Hauptsatz)",
         "tok": "nimi \"we\" li pini e linja nimi nanpa wan, taso ona li open e linja nimi nanpa tu.",
         "es": "(act\u00faa como una transici\u00f3n de una oraci\u00f3n completa a otra)",
-        "de": "(\u00dcbergang von einem zum anderen Hauptsatz)",
         "hi": "(\u090f\u0915 \u0935\u093e\u0915\u094d\u092f \u0914\u0930 \u0926\u0942\u0938\u0930\u0947 \u0935\u093e\u0915\u094d\u092f \u0915\u0947 \u092c\u0940\u091a)",
         "ur": "(\u0627\u06cc\u06a9 \u0645\u06a9\u0645\u0644 \u062c\u0645\u0644\u06d2 \u0627\u0648\u0631 \u062f\u0648\u0633\u0631\u06d2 \u06a9\u06d2 \u0628\u06cc\u0686)",
         "pa": "(\u0a07\u0a71\u0a15 \u0a35\u0a3e\u0a15 \u0a05\u0a24\u0a47 \u0a26\u0a42\u0a1c\u0a47 \u0a35\u0a3e\u0a15 \u0a26\u0a47 \u0a35\u0a3f\u0a71\u0a1a)",
@@ -4383,9 +4446,9 @@
         "en": "leave and come back, be temporarily absent with the expectation of returning",
         "ru": "\u0443\u0439\u0442\u0438 \u0438 \u0432\u0435\u0440\u043d\u0443\u0442\u044c\u0441\u044f, \u0432\u0440\u0435\u043c\u0435\u043d\u043d\u043e \u043e\u0442\u0441\u0443\u0442\u0441\u0442\u0432\u043e\u0432\u0430\u0442\u044c \u0441 \u043e\u0436\u0438\u0434\u0430\u043d\u0438\u0435\u043c \u0432\u043e\u0437\u0432\u0440\u0430\u0449\u0435\u043d\u0438\u044f",
         "eo": "foriri kaj reveni, esti dum tempe ne\u0109eestanta kaj atendeble revenonta iam poste",
+        "de": "weggehen und zur\u00fcckkommen, wegsein mit der Intention zur\u00fcckzukommen",
         "tok": "nimi \"wekama\" li sama nimi \"weka kama.\"",
         "es": "salir y volver, estar temporalmente ausente con la expectativa de regresar",
-        "de": "weggehen und zur\u00fcckkommen, wegsein mit der Intention zur\u00fcckzukommen",
         "hi": "\u091c\u093e\u0928\u093e \u0914\u0930 \u092b\u093f\u0930 \u0935\u093e\u092a\u0938 \u0906\u0928\u093e, \u091b\u0941\u091f\u094d\u091f\u0940 \u0932\u0947\u0928\u093e",
         "ur": "\u062c\u0627\u0646\u0627 \u0627\u0648\u0631 \u067e\u06be\u0631 \u0648\u0627\u067e\u0633 \u0622\u0646\u0627\u060c \u0686\u06be\u0679\u06cc \u0644\u06cc\u0646\u0627",
         "pa": "\u0a1c\u0a3e\u0a09\u0a23\u0a3e \u0a05\u0a24\u0a47 \u0a2b\u0a3f\u0a30 \u0a06\u0a09\u0a23\u0a3e, \u0a1b\u0a41\u0a71\u0a1f\u0a40 \u0a32\u0a48\u0a23\u0a3e",
@@ -4405,9 +4468,9 @@
         "en": "we (excluding you, i.e. 1st person exclusive)",
         "ru": "\u043c\u044b (\u0437\u0430 \u0438\u0441\u043a\u043b\u044e\u0447\u0435\u043d\u0438\u0435\u043c \u0432\u0430\u0441, \u0442.\u0435. \u043f\u0435\u0440\u0432\u043e\u0435 \u043b\u0438\u0446\u043e, \u044d\u043a\u0441\u043b\u044e\u0437\u0438\u0432)",
         "eo": "ni (ekskludante vin, t.e. ekskluzive de unua persono)",
+        "de": "wir (exklusiv)",
         "tok": "nimi \"mi mute\" li sama nimi \"mi en sina,\" taso nimi \"wi\" li sama nimi \"mi en ona\" taso; sina weka.",
         "es": "nosotros/nosotras (excluyendo a usted; exclusivo en primera persona",
-        "de": "wir (exklusiv)",
         "hi": "\u0939\u092e (\u0932\u0947\u0915\u093f\u0928 \u0924\u0941\u092e, \u092f\u093e\u0928\u093f \u091c\u093f\u0938 \u0938\u0947 \u092c\u093e\u0924 \u0915\u0930\u0940 \u091c\u093e \u0930\u0939\u0940 \u0939\u0948, \u0928\u0939\u0940\u0902)",
         "ur": "\u06c1\u0645 (\u0644\u06cc\u06a9\u0646 \u062a\u0645\u060c \u06cc\u0627\u0646\u06cc \u062c\u0633 \u0633\u06d2 \u0628\u0627\u062a \u06a9\u0631\u06cc \u062c\u0627 \u0631\u06c1\u06cc \u06c1\u06d2\u060c \u0646\u06c1\u06cc\u06ba)",
         "pa": "\u0a05\u0a38\u0a40 (\u0a2a\u0a30 \u0a09\u0a39 \u0a26\u0a47 \u0a35\u0a3f\u0a71\u0a1a \u0a24\u0a41\u0a71\u0a38\u0a40, \u0a1c\u0a3f\u0a39 \u0a26\u0a47 \u0a28\u0a3e\u0a32\u0a3c \u0a17\u0a71\u0a32 \u0a39\u0a4b\u0a02\u0a26\u0a40 \u0a2a\u0a08 \u0a39\u0a48, \u0a28\u0a39\u0a40\u0a02)",
@@ -4442,9 +4505,9 @@
         "en": "to behave like George Lucas and revise your old creative works and actually make them worse",
         "ru": "\u0432\u0435\u0441\u0442\u0438 \u0441\u0435\u0431\u044f \u043a\u0430\u043a \u0414\u0436\u043e\u0440\u0434\u0436 \u041b\u0443\u043a\u0430\u0441 \u0438 \u043f\u0435\u0440\u0435\u0441\u043c\u0430\u0442\u0440\u0438\u0432\u0430\u0442\u044c \u0441\u0432\u043e\u0451 \u0441\u0442\u0430\u0440\u043e\u0435 \u0442\u0432\u043e\u0440\u0447\u0435\u0441\u0442\u0432\u043e \u0438 \u0442\u0435\u043c \u0441\u0430\u043c\u044b\u043c \u0443\u0445\u0443\u0434\u0448\u0430\u0442\u044c \u0435\u0433\u043e",
         "eo": "konduti kiel George Lucas kaj revizii viajn malnovajn kreajn verkojn kaj efektive plimalbonigi ilin",
+        "de": "sich wie George Lucas verhalten und seine alten Arbeiten \u00fcberarbeiten und sie in Wirklichkeit schlechter machen",
         "tok": "mi yupekosi la, mi ante e pali musi mi sama jan Jo Luka. tan ante ni la, mi pakala li pona ala e pali mi.",
         "es": "comportarse como George Lucas y revisar tus viejas obras creativas y realmente empeorarlas",
-        "de": "sich wie George Lucas verhalten und seine alten Arbeiten \u00fcberarbeiten und sie in Wirklichkeit schlechter machen",
         "hi": "\u091c\u094b\u0930\u094d\u091c \u0932\u0942\u0915\u0938 \u091c\u0948\u0938\u093e \u092c\u0928\u0928\u093e: \u0905\u092a\u0928\u0947 \u092a\u0941\u0930\u093e\u0928\u0947 \u0915\u093e\u092e\u094b\u0902 \u0915\u094b \u092c\u093e\u0930 \u092c\u093e\u0930 \u092c\u0926\u0932 \u0915\u0930 \u092c\u0926\u0924\u0930 \u092c\u0928\u093e\u0928\u093e",
         "ur": "\u062c\u0648\u0631\u062c \u0644\u0652\u0648\u06a9\u0633 \u062c\u06cc\u0633\u0627 \u0628\u0646\u0646\u0627: \u0627\u067e\u0646\u06d2 \u067e\u0648\u0631\u0627\u0646\u06d2 \u06a9\u0627\u0645\u0648\u06ba \u06a9\u0648 \u0628\u0627\u0631 \u0628\u0627\u0631 \u0628\u062f\u0644 \u06a9\u0631 \u0628\u062f \u0633\u06d2 \u0628\u062f\u062a\u0631 \u0628\u0646\u0627\u0646\u0627",
         "pa": "\u0a1c\u0a4b\u0a30\u0a1c \u0a32\u0a42\u0a15\u0a38 \u0a35\u0a3e\u0a02\u0a17\u0a42 \u0a06\u0a2a\u0a23\u0a47 \u0a2a\u0a41\u0a30\u0a3e\u0a23\u0a47 \u0a15\u0a71\u0a2e\u0a3e\u0a02 \u0a28\u0a42\u0a70 \u0a2c\u0a26\u0a32\u0a26\u0a47 \u0a30\u0a39\u0a3f\u0a23\u0a3e \u0a05\u0a24\u0a47 \u0a09\u0a39\u0a28\u0a3e \u0a28\u0a42\u0a70 \u0a2c\u0a26 \u0a24\u0a4b\u0a02 \u0a2c\u0a26\u0a24\u0a30 \u0a2c\u0a28\u0a4c\u0a23\u0a3e",
