@@ -97,6 +97,7 @@
       "creator": "jan Sonja",
       "ku_data": "ah\u2075, oh\u2075, ha\u2075, ooh\u2074, uh\u2074, gosh\u2074, whoa\u2074, wow\u2074, um\u00b3, huh\u00b3, uh-huh\u00b2, quite\u00b2, gasp\u00b2, really\u00b2, mm-hmm\u00b2, hmm\u00b2, sigh\u00b2",
       "see_also": "kin",
+      "commentary": "In common usage (both before and after pu), \"a\" and \"kin\" are separate words, each with their own meaning. In pu, they are considered synonyms.",
       "def": {
         "en": "(emphasis, emotion or confirmation)",
         "ru": "(\u043f\u043e\u0434\u0447\u0451\u0440\u043a\u0438\u0432\u0430\u043d\u0438\u0435, \u044d\u043c\u043e\u0446\u0438\u043e\u043d\u0430\u043b\u044c\u043d\u043e\u0441\u0442\u044c \u0438\u043b\u0438 \u0432\u044b\u0440\u0430\u0436\u0435\u043d\u0438\u0435 \u0441\u043e\u0433\u043b\u0430\u0441\u0438\u044f)",
@@ -117,6 +118,7 @@
       "etymology": "hagedis \u2018lizard\u2019",
       "creator": "jan Sonja",
       "ku_data": "reptile\u2075, frog\u00b3",
+      "commentary": "The meaning \"non-cute animal\" is now considered outdated.",
       "def": {
         "en": "non-cute animal; reptile, amphibian",
         "ru": "\u043d\u0435\u043f\u0440\u0438\u044f\u0442\u043d\u043e\u0435 \u0436\u0438\u0432\u043e\u0442\u043d\u043e\u0435; \u0440\u0435\u043f\u0442\u0438\u043b\u0438\u044f, \u0430\u043c\u0444\u0438\u0431\u0438\u044f",
@@ -156,6 +158,7 @@
       "etymology": "\u00e0 la chasse \u2018hunting, (lit.) on the hunt\u2019",
       "creator": "jan Sonja",
       "ku_data": "hunt\u2075, hunting\u2075, search\u2074, pursuit\u2074, pursue\u2074, gather\u2074, finding\u00b3, seek\u00b3, explore\u00b3, chase\u00b2, locate\u00b2, try\u00b2, collect\u00b2, quest\u00b2, catch\u00b2",
+      "commentary": "The usage of \"alasa\" as a preverb meaning \"try to\" is more common than \"lukin\". In pu, only \"lukin\" has this meaning.",
       "def": {
         "en": "to hunt, forage, seek | ALT (pv.) try to, attempt",
         "ru": "\u043e\u0445\u043e\u0442\u0438\u0442\u044c\u0441\u044f, \u0437\u0430\u043d\u0438\u043c\u0430\u0442\u044c\u0441\u044f \u0441\u043e\u0431\u0438\u0440\u0430\u0442\u0435\u043b\u044c\u0441\u0442\u0432\u043e\u043c, \u0438\u0441\u043a\u0430\u0442\u044c | ALT (pv.) \u043f\u044b\u0442\u0430\u0442\u044c\u0441\u044f",
@@ -178,6 +181,7 @@
       "ku_data": "every\u2074, everything\u2074, all\u2074, entire\u2074, universal\u00b3, completely\u00b3, total\u00b3, entirely\u00b3, universe\u00b3, altogether\u00b3, comprehensive\u00b3, full\u00b2, totally\u00b2, each\u00b2, fully\u00b2, any\u00b2, thoroughly\u00b2, absolute\u00b2, general\u00b2, countless\u00b2, complete\u00b2, whole\u00b2, hundred\u00b2",
       "see_also": "ali",
       "tags": "pre-pu ALT",
+      "commentary": "\"ali\" is an alternative to \"ale\", coined in a poll in 2002 in order to avoid confusion with \"ala\". However, the usage of \"ale\" over \"ali\" remains more common.",
       "def": {
         "en": "all; abundant, countless, bountiful, every, plentiful; abundance, everything, life, universe; one hundred | ALT twenty; 100; 120",
         "ru": "\u0432\u0441\u0435; \u0438\u0437\u043e\u0431\u0438\u043b\u044c\u043d\u044b\u0439, \u0431\u0435\u0441\u0447\u0438\u0441\u043b\u0435\u043d\u043d\u044b\u0439, \u043a\u0430\u0436\u0434\u044b\u0439; \u0438\u0437\u043e\u0431\u0438\u043b\u0438\u0435, \u0432\u0441\u0435, \u0436\u0438\u0437\u043d\u044c, \u0432\u0441\u0435\u043b\u0435\u043d\u043d\u0430\u044f; \u0441\u0442\u043e | ALT \u0434\u0432\u0430\u0434\u0446\u0430\u0442\u044c; 100; 120",
@@ -198,6 +202,7 @@
       "creator": "jan Sonja",
       "ku_data": "all\u00b2, entire\u00b2, universe\u00b2",
       "see_also": "ale",
+      "commentary": "\"ali\" is an alternative to \"ale\", coined in a poll in 2002 in order to avoid confusion with \"ala\". However, the usage of \"ale\" over \"ali\" remains more common. Generally not considered a word in its own right.",
       "def": {
         "en": "[alternate form of ale]",
         "ru": "[\u0430\u043b\u044c\u0442\u0435\u0440\u043d\u0430\u0442\u0438\u0432\u043d\u0430\u044f \u0444\u043e\u0440\u043c\u0430 ale]",
@@ -244,6 +249,7 @@
       "creator": "jan Sonja",
       "ku_data": "down\u2075, bottom\u2074, lower\u2074, defeat\u00b3, below\u00b3, beneath\u00b3, under\u00b2, bow\u00b2, underlying\u00b2",
       "tags": "pre-pu ALT",
+      "commentary": "In common usage (both before and after pu), \"anpa\" has the meaning of \"place that is down\". In pu, \"noka\" has that meaning instead.",
       "def": {
         "en": "bowing down, downward, humble, lowly, dependent | ALT bottom, lower part, under, below, floor, beneath; low, lower, bottom, down",
         "ru": "\u0441\u043a\u043b\u043e\u043d\u044f\u044e\u0449\u0438\u0439\u0441\u044f, \u043d\u0438\u0437\u0448\u0438\u0439, \u0441\u043c\u0438\u0440\u0435\u043d\u043d\u044b\u0439, \u0437\u0430\u0432\u0438\u0441\u0438\u043c\u044b\u0439 | ALT \u0441\u043d\u0438\u0437\u0443, \u043d\u0438\u0436\u043d\u044f\u044f \u0447\u0430\u0441\u0442\u044c, \u043f\u043e\u043b, \u043d\u0438\u0437; \u043d\u0438\u0437\u043a\u0438\u0439, \u043d\u0438\u0436\u043d\u0438\u0439",
@@ -282,6 +288,7 @@
       "etymology": "\u10d0\u10dc an \u2018or\u2019",
       "creator": "jan Sonja",
       "ku_data": "or\u2075, whether\u00b3, choice\u00b3, selection\u00b2, decide\u00b2, either\u00b2, select\u00b2",
+      "commentary": "The usage of \"anu\" as a content word meaning \"choose\" remains controversial.",
       "def": {
         "en": "or | ALT choose, decide",
         "ru": "\u0438\u043b\u0438 | ALT \u0432\u044b\u0431\u0438\u0440\u0430\u0442\u044c, \u0440\u0435\u0448\u0430\u0442\u044c",
@@ -360,6 +367,7 @@
       "creator": "jan Sonja",
       "ku_data": "and\u00b3, plus\u00b3",
       "tags": "pre-pu ALT",
+      "commentary": "There are various analyses of the syntactic role of \"en\". Originally intended to be used as \"and\", it was changed (via poll in 2002) to just be used with \"head nouns\". One of the more recent analyses (including 2021's April Fools) treats \"en\" as a subject marker.",
       "def": {
         "en": "(between multiple subjects) | ALT (coordinates modifiers in a pi-phrase or objects of a prepostion)",
         "ru": "(\u043c\u0435\u0436\u0434\u0443 \u043d\u0435\u0441\u043a\u043e\u043b\u044c\u043a\u0438\u043c\u0438 \u043f\u043e\u0434\u043b\u0435\u0436\u0430\u0449\u0438\u043c\u0438) | ALT (\u043a\u043e\u043e\u0440\u0434\u0438\u043d\u0438\u0440\u0443\u0435\u0442 \u043e\u0431\u0441\u0442\u043e\u044f\u0442\u0435\u043b\u044c\u0441\u0442\u0432\u0430 \u0432 pi-\u0444\u0440\u0430\u0437\u0435 \u0438\u043b\u0438 \u0434\u043e\u043f\u043e\u043b\u043d\u0435\u043d\u0438\u044f \u0432 \u043f\u0440\u0435\u0434\u043b\u043e\u0436\u043d\u043e\u0439 \u0444\u0440\u0430\u0437\u0435)",
@@ -767,6 +775,7 @@
       "source_language": "Cantonese",
       "etymology": "\u4eba jan \u2018person\u2019",
       "creator": "jan Sonja",
+      "commentary": "There are two sides to the concept, \"sentient entity\" and \"homo sapiens\", which matters for whether to use the word in edge cases (i.e. aliens, humans turned into werewolves, etc). Which sense is more central to the word remains controversial.",
       "def": {
         "en": "human being, person, somebody",
         "ru": "\u0447\u0435\u043b\u043e\u0432\u0435\u043a, \u043b\u0438\u0447\u043d\u043e\u0441\u0442\u044c, \u043d\u0435\u043a\u0442\u043e",
@@ -845,6 +854,7 @@
       "source_language": "English",
       "etymology": "yellow",
       "creator": "jan Sonja",
+      "commentary": "Some extend \"jelo\" to include lime green, but this usage is uncommon.",
       "def": {
         "en": "yellow, yellowish",
         "ru": "\u0436\u0451\u043b\u0442\u044b\u0439, \u0436\u0435\u043b\u0442\u043e\u0432\u0430\u0442\u044b\u0439",
@@ -1294,6 +1304,7 @@
       "source_language": "Finnish",
       "etymology": "kiven, genitive of kivi \u2018stone\u2019",
       "creator": "jan Sonja",
+      "commentary": "Coined in a poll in 2002.",
       "def": {
         "en": "hard object, metal, rock, stone",
         "ru": "\u0442\u0432\u0435\u0440\u0434\u044b\u0439 \u043f\u0440\u0435\u0434\u043c\u0435\u0442, \u043c\u0435\u0442\u0430\u043b\u043b, \u043a\u0430\u043c\u0435\u043d\u044c, \u0433\u043e\u0440\u043d\u0430\u044f \u043f\u043e\u0440\u043e\u0434\u0430",
@@ -2520,6 +2531,7 @@
       "creator": "jan Sonja",
       "see_also": "jalan",
       "tags": "nimi nanpa",
+      "commentary": "In a poll in 2002, \"jalan\" was proposed as a replacement for \"noka\". However, \"jalan\" failed to get enough votes. In pu, \"noka\" has the meaning of \"place that is down\". In common usage (both before and after pu), \"anpa\" has that meaning instead",
       "def": {
         "en": "foot, leg, organ of locomotion; bottom, lower part | ALT ten; twenty; negative five",
         "ru": "\u0441\u0442\u0443\u043f\u043d\u044f, \u043d\u043e\u0433\u0430, \u043e\u0440\u0433\u0430\u043d \u043f\u0435\u0440\u0435\u0434\u0432\u0438\u0436\u0435\u043d\u0438\u044f; \u043d\u0438\u0437, \u043d\u0438\u0436\u043d\u044f\u044f \u0447\u0430\u0441\u0442\u044c | ALT \u0434\u0435\u0441\u044f\u0442\u044c; \u0434\u0432\u0430\u0434\u0446\u0430\u0442\u044c; \u043c\u0438\u043d\u0443\u0441 \u043f\u044f\u0442\u044c",
@@ -2764,6 +2776,7 @@
       "etymology": "ona \u043e\u043d\u0430 \u2018she\u2019",
       "creator": "jan Sonja",
       "see_also": "i, iki, ipi",
+      "commentary": "Coined in a poll in 2002. Replaced \"iki\", which was deemed too similar to \"ike\". Other options in the poll included \"ipi\", as well as \"i\" in a previous poll.",
       "def": {
         "en": "he, she, it, they",
         "ru": "\u043e\u043d, \u043e\u043d\u0430, \u043e\u043d\u043e, \u043e\u043d\u0438",
