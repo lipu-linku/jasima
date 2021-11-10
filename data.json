@@ -2379,7 +2379,7 @@
         "en": "-th (ordinal number); numbers",
         "ru": "(\u043f\u043e\u0440\u044f\u0434\u043a\u043e\u0432\u043e\u0435 \u0447\u0438\u0441\u043b\u0438\u0442\u0435\u043b\u044c\u043d\u043e\u0435); \u0447\u0438\u0441\u043b\u043e",
         "eo": "-a (kiel en \"unua\", \"dua\", ktp; indikas pozicion en vicordo); ciferoj, nombroj",
-        "de": "-ste (Ordnungszahl); Zahlen"
+        "de": "-te (Ordinalzahl) | Zahl"
       }
     },
     "nasa": {
@@ -2395,7 +2395,7 @@
         "en": "unusual, strange; silly; drunk, intoxicated",
         "ru": "\u043d\u0435\u043e\u0431\u044b\u0447\u043d\u044b\u0439, \u0441\u0442\u0440\u0430\u043d\u043d\u044b\u0439; \u043d\u0435\u043b\u0435\u043f\u044b\u0439; \u043f\u044c\u044f\u043d\u044b\u0439, \u043e\u0434\u0443\u0440\u043c\u0430\u043d\u0435\u043d\u043d\u044b\u0439",
         "eo": "nekutima, stranga; malsa\u011da; ebria",
-        "de": "ungew\u00f6hnlich, merkw\u00fcrdig, seltsam; albern; betrunken, berauscht"
+        "de": "ungew\u00f6hnlich, merkw\u00fcrdig, seltsam, durcheinander; albern; betrunken, berauscht"
       }
     },
     "nasin": {
@@ -2836,7 +2836,7 @@
         "en": "botched, broken, damaged, harmed, messed up | ALT (curse expletive, e.g. fuck!)",
         "ru": "\u0438\u0441\u043f\u043e\u0440\u0447\u0435\u043d\u043d\u044b\u0439, \u0441\u043b\u043e\u043c\u0430\u043d\u043d\u044b\u0439, \u043f\u043e\u0432\u0440\u0435\u0436\u0434\u0451\u043d\u043d\u044b\u0439 | ALT (\u0440\u0443\u0433\u0430\u0442\u0435\u043b\u044c\u0441\u0442\u0432\u043e, \u043d\u0430\u043f\u0440\u0438\u043c\u0435\u0440 \"\u0447\u0451\u0440\u0442!\")",
         "eo": "fu\u015dita, rompita, dama\u011dita, difektita | ALT (sakra\u0135o, ekz. fek!, damne!)",
-        "de": "kaputt, vermasselt, besch\u00e4digt, zerst\u00f6rt, defekt | ALT (Kraftausdruck, z.B. Mist!)"
+        "de": "kaputt, vermasselt, besch\u00e4digt, zerst\u00f6rt, defekt; zerbrechen | ALT (Kraftausdruck, z.B. Mist!)"
       }
     },
     "pake": {
@@ -3479,7 +3479,7 @@
         "en": "area above, highest part, something elevated; awe-inspiring, divine, sacred, supernatural",
         "ru": "\u043e\u0431\u043b\u0430\u0441\u0442\u044c \u0432\u044b\u0448\u0435, \u043d\u0430\u0438\u0432\u044b\u0441\u0448\u0430\u044f \u0447\u0430\u0441\u0442\u044c, \u043d\u0435\u0447\u0442\u043e \u0432\u043e\u0437\u0432\u044b\u0448\u0435\u043d\u043d\u043e\u0435; \u0432\u043d\u0443\u0448\u0430\u044e\u0449\u0438\u0439 \u0442\u0440\u0435\u043f\u0435\u0442, \u0431\u043e\u0436\u0435\u0441\u0442\u0432\u0435\u043d\u043d\u044b\u0439, \u0441\u0432\u044f\u0449\u0435\u043d\u043d\u044b\u0439, \u0441\u0432\u0435\u0440\u0445\u044a\u0435\u0441\u0442\u0435\u0441\u0442\u0432\u0435\u043d\u043d\u044b\u0439",
         "eo": "areo super io, plej alta parto de io, io pli alta; miriga, dia, sankta, supernatura",
-        "de": "h\u00f6hergelegener Bereich, h\u00f6chster Teil, etwas erhobenes; beeindruckend, g\u00f6ttlich, heilig, \u00fcbernat\u00fcrlich"
+        "de": "h\u00f6hergelegener Bereich, h\u00f6chster Teil, etwas erhobenes; hoch, oben, \u00fcber; beeindruckend, g\u00f6ttlich, heilig, \u00fcbernat\u00fcrlich"
       }
     },
     "sijelo": {
@@ -3567,7 +3567,7 @@
         "en": "you",
         "ru": "\u0442\u044b, \u0432\u044b",
         "eo": "vi",
-        "de": "du, Sie, ihr"
+        "de": "du, Sie, ihr; dein, euer"
       }
     },
     "sinpin": {
@@ -3639,7 +3639,7 @@
         "en": "know, be skilled in, be wise about, have information on; (pv.) know how to",
         "ru": "\u0437\u043d\u0430\u0442\u044c, \u0431\u044b\u0442\u044c \u043e\u043f\u044b\u0442\u043d\u044b\u043c, \u0431\u044b\u0442\u044c \u043c\u0443\u0434\u0440\u044b\u043c, \u0440\u0430\u0441\u043f\u043e\u043b\u0430\u0433\u0430\u0442\u044c \u0438\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0438\u0435\u0439; (pv.) \u0443\u043c\u0435\u0442\u044c",
         "eo": "scii, esti lerta pri, esti sa\u011da pri, havi informojn pri; (a.v.) scipovi",
-        "de": "wissen, k\u00f6nnen, erfahren sein in, weise sein \u00fcber, Informationen haben \u00fcber; (HV) wissen wie"
+        "de": "wissen, k\u00f6nnen, erfahren sein in, weise sein \u00fcber, Informationen haben \u00fcber; (pv.) wissen wie"
       }
     },
     "soto": {
@@ -3894,7 +3894,7 @@
         "en": "going to, toward; for; from the perspective of; moving | ALT (pv.) going to",
         "ru": "\u0434\u0432\u0438\u0433\u0430\u044e\u0449\u0438\u0439\u0441\u044f, \u043d\u0430\u0432\u0441\u0442\u0440\u0435\u0447\u0443; \u0434\u043b\u044f; \u0441 \u0442\u043e\u0447\u043a\u0438 \u0437\u0440\u0435\u043d\u0438\u044f; \u043f\u0435\u0440\u0435\u043c\u0435\u0449\u0430\u044e\u0449\u0438\u0439\u0441\u044f | ALT (pv.) \u0441\u043e\u0431\u0438\u0440\u0430\u0435\u0442\u0441\u044f",
         "eo": "al, iranta al, en la direkto al; por, al; la\u016d la vidpunkto de; movanta | ALT (a.v.) iri ...i",
-        "de": "hin, zu, nach; f\u00fcr; nach Ansicht von; bewegen | ALT (HV) zu... hingehen"
+        "de": "hin, zu, nach; f\u00fcr; nach Ansicht von; gehen, bewegen | ALT (HV) zu... hingehen"
       }
     },
     "te": {
