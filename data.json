@@ -386,7 +386,8 @@
       "see_also": "lon, ma",
       "def": {
         "en": "(spatial equivalents of tenpo constructions) space, place, distance, size (length, width, height, depth, area, volume)",
-        "ru": "(\u043f\u0440\u043e\u0441\u0442\u0440\u0430\u043d\u0441\u0442\u0432\u0435\u043d\u043d\u044b\u0435 \u044d\u043a\u0432\u0438\u0432\u0430\u043b\u0435\u043d\u0442\u044b \u043a\u043e\u043d\u0441\u0442\u0440\u0443\u043a\u0446\u0438\u0439 \u0441 tenpo) \u043f\u0440\u043e\u0441\u0442\u0440\u0430\u043d\u0441\u0442\u0432\u043e, \u043c\u0435\u0441\u0442\u043e, \u0440\u0430\u0441\u0441\u0442\u043e\u044f\u043d\u0438\u0435, \u0440\u0430\u0437\u043c\u0435\u0440 (\u0434\u043b\u0438\u043d\u0430, \u0448\u0438\u0440\u0438\u043d\u0430, \u0432\u044b\u0441\u043e\u0442\u0430, \u0433\u043b\u0443\u0431\u0438\u043d\u0430, \u043f\u043b\u043e\u0449\u0430\u0434\u044c, \u043e\u0431\u044a\u0451\u043c)"
+        "ru": "(\u043f\u0440\u043e\u0441\u0442\u0440\u0430\u043d\u0441\u0442\u0432\u0435\u043d\u043d\u044b\u0435 \u044d\u043a\u0432\u0438\u0432\u0430\u043b\u0435\u043d\u0442\u044b \u043a\u043e\u043d\u0441\u0442\u0440\u0443\u043a\u0446\u0438\u0439 \u0441 tenpo) \u043f\u0440\u043e\u0441\u0442\u0440\u0430\u043d\u0441\u0442\u0432\u043e, \u043c\u0435\u0441\u0442\u043e, \u0440\u0430\u0441\u0441\u0442\u043e\u044f\u043d\u0438\u0435, \u0440\u0430\u0437\u043c\u0435\u0440 (\u0434\u043b\u0438\u043d\u0430, \u0448\u0438\u0440\u0438\u043d\u0430, \u0432\u044b\u0441\u043e\u0442\u0430, \u0433\u043b\u0443\u0431\u0438\u043d\u0430, \u043f\u043b\u043e\u0449\u0430\u0434\u044c, \u043e\u0431\u044a\u0451\u043c)",
+        "de": "(r\u00e4umliche Entsprechungen von tenpo-Konstruktionen) Raum, Ort, Entfernung, Gr\u00f6\u00dfe (L\u00e4nge, Breite, H\u00f6he, Tiefe, Fl\u00e4che, Volumen)"
       }
     },
     "epiku": {
@@ -2216,7 +2217,7 @@
         "en": "dead, dying",
         "ru": "\u043c\u0435\u0440\u0442\u0432\u044b\u0439, \u0443\u043c\u0438\u0440\u0430\u044e\u0449\u0438\u0439",
         "eo": "mortinta, mortanta",
-        "de": "tot, sterben"
+        "de": "tot, sterben, t\u00f6ten"
       }
     },
     "monsi": {
@@ -2326,7 +2327,7 @@
         "en": "artistic, entertaining, frivolous, playful, recreation",
         "ru": "\u0445\u0443\u0434\u043e\u0436\u0435\u0441\u0442\u0432\u0435\u043d\u043d\u044b\u0439, \u0440\u0430\u0437\u0432\u043b\u0435\u043a\u0430\u0442\u0435\u043b\u044c\u043d\u044b\u0439, \u0444\u0440\u0438\u0432\u043e\u043b\u044c\u043d\u044b\u0439, \u0438\u0433\u0440\u0438\u0432\u044b\u0439, \u0440\u0430\u0437\u0432\u043b\u0435\u0447\u0435\u043d\u0438\u0435",
         "eo": "arta, amuza, frivola, ludeca, rilata al amuzi\u011do",
-        "de": "k\u00fcnstlerisch, unterhaltsam, frivol, spielerisch, am\u00fcsant"
+        "de": "k\u00fcnstlerisch, unterhaltsam, frivol, spielerisch, am\u00fcsant; Kunst, Spa\u00df, Musik, Spiel; spielen"
       }
     },
     "mute": {
@@ -2343,7 +2344,7 @@
         "en": "many, a lot, more, much, several, very; quantity | ALT three (or more), 20",
         "ru": "\u043c\u043d\u043e\u0433\u043e, \u0435\u0449\u0451, \u043d\u0435\u0441\u043a\u043e\u043b\u044c\u043a\u043e, \u043e\u0447\u0435\u043d\u044c; \u043a\u043e\u043b\u0438\u0447\u0435\u0441\u0442\u0432\u043e | ALT \u0442\u0440\u0438 (\u0438 \u0431\u043e\u043b\u0435\u0435), 20",
         "eo": "multaj, multe, pluraj, tre; kvanto | ALT tri (a\u016d pli); 20",
-        "de": "viel, eine Menge, mehr, mehrere, sehr; Anzahl | ALT drei (oder mehr), 20"
+        "de": "viele, einige, mehrere, sehr, mehr; Quantit\u00e4t, Menge | ALT drei (oder mehr); 20"
       }
     },
     "n": {
@@ -2825,7 +2826,8 @@
       "def": {
         "en": "Orwellian, totalitarian, of or relating to Big Brother (from 1984), antonym of kamalawala",
         "ru": "\u041e\u0440\u0443\u044d\u043b\u043b\u043e\u0432\u0441\u043a\u0438\u0439, \u0442\u043e\u0442\u0430\u043b\u0438\u0442\u0430\u0440\u043d\u044b\u0439, \u043e\u0442\u043d\u043e\u0441\u044f\u0449\u0438\u0439\u0441\u044f \u043a \u0438\u043b\u0438 \u0441\u0432\u044f\u0437\u0430\u043d\u043d\u044b\u0439 \u0441 \u0411\u043e\u043b\u044c\u0448\u0438\u043c \u0411\u0440\u0430\u0442\u043e\u043c (\u0438\u0437 1984), \u0430\u043d\u0442\u043e\u043d\u0438\u043c kamalawala",
-        "eo": "totalisma, rilata al Big Brother (el la libro 1984), antonimo de kamalawala"
+        "eo": "totalisma, rilata al Big Brother (el la libro 1984), antonimo de kamalawala",
+        "de": "Orwellianisch, totalit\u00e4r, von oder im Zusammenhang mit Big Brother (aus 1984), Antonym von kamalawala"
       }
     },
     "pa": {
@@ -3463,7 +3465,7 @@
         "en": "fire; cooking element, chemical reaction, heat source",
         "ru": "\u043e\u0433\u043e\u043d\u044c; \u043d\u0430\u0433\u0440\u0435\u0432\u0430\u0442\u0435\u043b\u044c\u043d\u044b\u0439 \u044d\u043b\u0435\u043c\u0435\u043d\u0442, \u0445\u0438\u043c\u0438\u0447\u0435\u0441\u043a\u0430\u044f \u0440\u0435\u0430\u043a\u0446\u0438\u044f, \u0438\u0441\u0442\u043e\u0447\u043d\u0438\u043a \u0442\u0435\u043f\u043b\u0430",
         "eo": "fajro; varmiga elemento de kuirilo, kemia reago, fonto de varmo",
-        "de": "Feuere; Kochelement, chemische Reaktion, W\u00e4rmequelle"
+        "de": "Feuer; Kochelement, chemische Reaktion, W\u00e4rmequelle; kochen; warm"
       }
     },
     "selo": {
@@ -3617,7 +3619,7 @@
         "en": "face, foremost, front, wall",
         "ru": "\u043b\u0438\u0446\u043e, \u043f\u0435\u0440\u0435\u0434\u043d\u0438\u0439, \u043f\u0435\u0440\u0435\u0434, \u0441\u0442\u0435\u043d\u0430",
         "eo": "viza\u011do, unuaranga, anta\u016do, muro",
-        "de": "Gesicht, vorderst, vorne, Wand"
+        "de": "Gesicht, vorderst, vorne, vor, Wand"
       }
     },
     "sitelen": {
@@ -3633,7 +3635,7 @@
         "en": "image, picture, representation, symbol, mark, writing",
         "ru": "\u043e\u0431\u0440\u0430\u0437, \u043a\u0430\u0440\u0442\u0438\u043d\u0430, \u043f\u0440\u0435\u0434\u0441\u0442\u0430\u0432\u043b\u0435\u043d\u0438\u0435, \u0441\u0438\u043c\u0432\u043e\u043b, \u043e\u0442\u043c\u0435\u0442\u043a\u0430, \u043f\u0438\u0441\u044c\u043c\u0435\u043d\u043d\u043e\u0441\u0442\u044c",
         "eo": "bildo, figuro, simbolo, marka\u0135o, skriba\u0135o",
-        "de": "Bild, Repr\u00e4sentation, Symbol, Markierung, Schrift"
+        "de": "Bild, Darstellung, Symbol, Markierung, Schrift, Text"
       }
     },
     "soko": {
@@ -4105,7 +4107,8 @@
       "def": {
         "en": "indoor space; building, home, house, room",
         "ru": "\u0432\u043d\u0443\u0442\u0440\u0435\u043d\u043d\u0435\u0435 \u043f\u0440\u043e\u0441\u0442\u0440\u0430\u043d\u0441\u0442\u0432\u043e; \u0437\u0434\u0430\u043d\u0438\u0435, \u0434\u043e\u043c, \u0436\u0438\u043b\u0438\u0449\u0435, \u043a\u043e\u043c\u043d\u0430\u0442\u0430",
-        "eo": "endoma spaco; konstrua\u0135o, hejmo, domo, \u0109ambro"
+        "eo": "endoma spaco; konstrua\u0135o, hejmo, domo, \u0109ambro",
+        "de": "Innenraum, Geb\u00e4ude, Haus, Raum, Zuhause"
       }
     },
     "tonsi": {
@@ -4146,7 +4149,8 @@
       "def": {
         "en": "two | ALT separate, cut",
         "ru": "\u0434\u0432\u0430 | ALT \u0434\u0435\u043b\u0438\u0442\u044c, \u0440\u0435\u0437\u0430\u0442\u044c",
-        "eo": "du | ALT disigi, tran\u0109i"
+        "eo": "du | ALT disigi, tran\u0109i",
+        "de": "zwei | ALT teilen, schneiden"
       }
     },
     "tuli": {
@@ -4198,7 +4202,8 @@
       "def": {
         "en": "amaze people by being on the top of the leaderboard of a toki pona game",
         "ru": "\u0438\u0437\u0443\u043c\u043b\u044f\u0442\u044c \u043b\u044e\u0434\u0435\u0439, \u043b\u0438\u0434\u0438\u0440\u0443\u044f \u0432 \u0441\u043f\u0438\u0441\u043a\u0435 \u0438\u0433\u0440\u043e\u043a\u043e\u0432 \u0432 \u0438\u0433\u0440\u0435 \u043d\u0430 \u0442\u043e\u043a\u0438 \u043f\u043e\u043d\u0435",
-        "eo": "mirigi homojn pro tio, ke oni estas en la unua loko en la rangotabulo de tokipona ludo"
+        "eo": "mirigi homojn pro tio, ke oni estas en la unua loko en la rangotabulo de tokipona ludo",
+        "de": "Leute verbl\u00fcffen, indem man an der Spitze der Rangliste eines Toki-Pona-Spiels stehst"
       }
     },
     "unpa": {
@@ -4213,7 +4218,8 @@
       "def": {
         "en": "have sexual relations with",
         "ru": "\u0438\u043c\u0435\u0442\u044c \u0441\u0435\u043a\u0441\u0443\u0430\u043b\u044c\u043d\u044b\u0435 \u043e\u0442\u043d\u043e\u0448\u0435\u043d\u0438\u044f \u0441",
-        "eo": "seksumi, fiki, amori"
+        "eo": "seksumi, fiki, amori",
+        "de": "Sex, Geschlecht, sexuelle Beziehung mit jemandem haben"
       }
     },
     "unu": {
@@ -4272,7 +4278,8 @@
       "def": {
         "en": "mouth, lips, oral cavity, jaw",
         "ru": "\u0440\u043e\u0442, \u0433\u0443\u0431\u044b, \u043f\u043e\u043b\u043e\u0441\u0442\u044c \u0440\u0442\u0430, \u0447\u0435\u043b\u044e\u0441\u0442\u044c",
-        "eo": "bu\u015do, lipoj, bu\u015da kavo, makzelo"
+        "eo": "bu\u015do, lipoj, bu\u015da kavo, makzelo",
+        "de": "Mund, Lippen, Rachen, Kiefer"
       }
     },
     "utala": {
@@ -4287,7 +4294,8 @@
       "def": {
         "en": "battle, challenge, compete against, struggle against",
         "ru": "\u0431\u0438\u0442\u0432\u0430, \u0432\u044b\u0437\u043e\u0432, \u0441\u043e\u0440\u0435\u0432\u043d\u043e\u0432\u0430\u0442\u044c\u0441\u044f, \u0431\u043e\u0440\u043e\u0442\u044c\u0441\u044f \u043f\u0440\u043e\u0442\u0438\u0432",
-        "eo": "batali, defii, konkuri kontra\u016d, lukti kontra\u016d"
+        "eo": "batali, defii, konkuri kontra\u016d, lukti kontra\u016d",
+        "de": "Kampf, Streit, k\u00e4mpfen, Herausforderung, gegen j-n zum Wettkampf antreten"
       }
     },
     "wa": {
@@ -4347,7 +4355,8 @@
       "def": {
         "en": "white, whitish; light-coloured, pale",
         "ru": "\u0431\u0435\u043b\u044b\u0439, \u0431\u0435\u043b\u043e\u0432\u0430\u0442\u044b\u0439; \u0441\u0432\u0435\u0442\u043b\u044b\u0439, \u0431\u043b\u0435\u0434\u043d\u044b\u0439",
-        "eo": "blanka, blankeca; helkolora, pala"
+        "eo": "blanka, blankeca; helkolora, pala",
+        "de": "wei\u00df, hell, bleich, blass"
       }
     },
     "wan": {
@@ -4363,7 +4372,8 @@
       "def": {
         "en": "unique, united; one",
         "ru": "\u0443\u043d\u0438\u043a\u0430\u043b\u044c\u043d\u044b\u0439, \u0435\u0434\u0438\u043d\u044b\u0439; \u043e\u0434\u0438\u043d",
-        "eo": "unika, unuigita, unui\u011dinta; unu"
+        "eo": "unika, unuigita, unui\u011dinta; unu",
+        "de": "eins; eimalig, vereinen"
       }
     },
     "waso": {
@@ -4378,7 +4388,8 @@
       "def": {
         "en": "bird, flying creature, winged animal",
         "ru": "\u043f\u0442\u0438\u0446\u0430, \u043b\u0435\u0442\u0430\u044e\u0449\u0435\u0435 \u0441\u0443\u0449\u0435\u0441\u0442\u0432\u043e, \u043a\u0440\u044b\u043b\u0430\u0442\u043e\u0435 \u0436\u0438\u0432\u043e\u0442\u043d\u043e\u0435",
-        "eo": "birdo, fluganta viva\u0135o, besto havanta flugilojn"
+        "eo": "birdo, fluganta viva\u0135o, besto havanta flugilojn",
+        "de": "Vogel, fliegendes Tier, befl\u00fcgeltes Tier"
       }
     },
     "wasoweli": {
@@ -4407,7 +4418,8 @@
       "def": {
         "en": "strong, powerful; confident, sure; energetic, intense",
         "ru": "\u0441\u0438\u043b\u044c\u043d\u044b\u0439, \u043c\u043e\u0449\u043d\u044b\u0439; \u0443\u0432\u0435\u0440\u0435\u043d\u043d\u044b\u0439; \u044d\u043d\u0435\u0440\u0433\u0438\u0447\u043d\u044b\u0439, \u0438\u043d\u0442\u0435\u043d\u0441\u0438\u0432\u043d\u044b\u0439",
-        "eo": "forta, potenca; memfida, nedubanta; energia, intensa"
+        "eo": "forta, potenca; memfida, nedubanta; energia, intensa",
+        "de": "stark, Kraft, Energie; zuversichtlich, sicher; intensiv"
       }
     },
     "wawajete": {
@@ -4467,7 +4479,8 @@
       "def": {
         "en": "absent, away, ignored",
         "ru": "\u043e\u0442\u0441\u0443\u0442\u0441\u0442\u0432\u0443\u044e\u0449\u0438\u0439, \u043f\u0440\u043e\u0447\u044c, \u0438\u0433\u043d\u043e\u0440\u0438\u0440\u0443\u0435\u043c\u044b\u0439",
-        "eo": "ne\u0109eestanta, fora, ignorata"
+        "eo": "ne\u0109eestanta, fora, ignorata",
+        "de": "weg, abwesend, entfernen, ignorieren"
       }
     },
     "wekama": {
@@ -4526,7 +4539,8 @@
       "def": {
         "en": "must, need, require, should, want, wish",
         "ru": "\u0434\u043e\u043b\u0436\u0435\u043d\u0441\u0442\u0432\u043e\u0432\u0430\u0442\u044c, \u043d\u0443\u0436\u0434\u0430\u0442\u044c\u0441\u044f, \u0442\u0440\u0435\u0431\u043e\u0432\u0430\u0442\u044c, \u0445\u043e\u0442\u0435\u0442\u044c, \u0436\u0435\u043b\u0430\u0442\u044c",
-        "eo": "devi, bezoni, postuli, voli, deziri"
+        "eo": "devi, bezoni, postuli, voli, deziri",
+        "de": "wollen, w\u00fcnschen, sollen, erfordern, brauchen, m\u00fcssen, Wunsch"
       }
     },
     "yupekosi": {
