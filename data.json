@@ -86,6 +86,7 @@
     }
   },
   "data": {
+    "": {},
     "a": {
       "word": "a",
       "sitelen_pona": "aa",
@@ -323,6 +324,19 @@
         "pl": "poczucie winy, wstyd, pi\u0119tno, ha\u0144ba; oskar\u017ca\u0107, wyklucza\u0107, demaskowa\u0107, ha\u0144bi\u0107, zawstydza\u0107",
         "isv_l": "vina, styd, stigma, obez\u010de\u0161\u010denje; obvinjati, obez\u010destiti, zasramjati",
         "isv_c": "\u0432\u0438\u043d\u0430, \u0441\u0442\u044b\u0434, \u0441\u0442\u0438\u0433\u043c\u0430, \u043e\u0431\u0435\u0437\u0447\u0435\u0448\u0447\u0435\u045a\u0435; \u043e\u0431\u0432\u0438\u045a\u0430\u0442\u0438, \u043e\u0431\u0435\u0437\u0447\u0435\u0441\u0442\u0438\u0442\u0438, \u0437\u0430\u0441\u0440\u0430\u043c\u0458\u0430\u0442\u0438"
+      }
+    },
+    "awase": {
+      "word": "awase",
+      "sitelen_pona": "awase",
+      "coined_year": "2021",
+      "coined_era": "post-pu",
+      "book": "none",
+      "source_language": "Armenian",
+      "etymology": "\u0570\u0561\u0580\u057e\u0561\u056e\u0565\u056c harvacel \u2018hit, strike\u2019",
+      "creator": "jan Lenoka",
+      "def": {
+        "en": "bump, knock, jolt"
       }
     },
     "awen": {
@@ -904,6 +918,23 @@
         "de": "haben, tragen, halten, beinhalten"
       }
     },
+    "jonke": {
+      "word": "jonke",
+      "sitelen_pona": "jonke",
+      "coined_year": "2021",
+      "coined_era": "post-pu",
+      "book": "none",
+      "source_language": "onomatopoeia",
+      "etymology": "hj\u00f6nk",
+      "creator": "cyanidesDuality",
+      "see_also": "mu, nja",
+      "commentary": "Coined in reference to the Untitled Goose Game fandom.",
+      "def": {
+        "en": "goose, goose noise",
+        "ru": "\u0433\u0443\u0441\u044c, \u0433\u043e\u0433\u043e\u0442 \u0433\u0443\u0441\u044f",
+        "eo": "ansero, ansera sono"
+      }
+    },
     "ju": {
       "word": "ju",
       "coined_year": "2021",
@@ -1409,6 +1440,33 @@
         "ru": "\u0432\u043e\u0437\u0434\u0443\u0445, \u0434\u044b\u0445\u0430\u043d\u0438\u0435; \u0441\u0443\u0449\u043d\u043e\u0441\u0442\u044c, \u0434\u0443\u0445; \u0441\u043a\u0440\u044b\u0442\u043e\u0435 \u0441\u043e\u0437\u0434\u0430\u043d\u0438\u0435, \u043d\u0435\u0432\u0438\u0434\u0438\u043c\u0430\u044f \u0434\u0435\u0439\u0441\u0442\u0432\u0443\u044e\u0449\u0430\u044f \u0441\u0438\u043b\u0430",
         "eo": "aero, spiro; esenco, spirito; ka\u015dita realeco, io nevidata kio havas ian efikon",
         "de": "Luft, Atem, Essenz, Geist, Seele, Bedeutung"
+      }
+    },
+    "konwe": {
+      "word": "konwe",
+      "coined_year": "2021",
+      "coined_era": "post-ku",
+      "book": "none",
+      "source_language": "multiple",
+      "etymology": "English Conway & toki pona kon wile",
+      "creator": "jan Emalan",
+      "commentary": "Conway refers to John Horton Conway, creator of the cellular automaton Game of Life.",
+      "def": {
+        "en": "animacy, life, autonomy; autonomous being, living thing, organism; alive, animate, dynamic; to animate, to bring to life"
+      }
+    },
+    "kosan": {
+      "word": "kosan",
+      "sitelen_pona": "kosan",
+      "coined_year": "2021",
+      "coined_era": "post-ku",
+      "book": "none",
+      "source_language": "Irish",
+      "etymology": "cosain (ar/\u00f3) \u2018to defend, protect (against)\u2019",
+      "creator": "jan Seni, jan inwin",
+      "def": {
+        "en": "guard, protect, defend, shield, brace, fortify from outside",
+        "eo": "gardi, protekti, defendi, \u015dirmi, fortikigi ekstere"
       }
     },
     "ku": {
@@ -2071,6 +2129,18 @@
         "de": "Geld, Reichtum, gro\u00dfes, domestiziertes Tier"
       }
     },
+    "me": {
+      "word": "me",
+      "coined_era": "post-pu",
+      "book": "none",
+      "source_language": "toki pona",
+      "etymology": "anu seme",
+      "creator": "David B",
+      "see_also": "a, kin, seme",
+      "def": {
+        "en": "question particle modifier"
+      }
+    },
     "meli": {
       "word": "meli",
       "sitelen_pona": "meli meli1",
@@ -2230,7 +2300,7 @@
         "en": "medicine, medical",
         "ru": "\u043c\u0435\u0434\u0438\u0446\u0438\u043d\u0430, \u043c\u0435\u0434\u0438\u0446\u0438\u043d\u0441\u043a\u0438\u0439",
         "eo": "medikamento, medicina",
-        "de": "Medzin; medizinisch, \u00e4rztlich",
+        "de": "Medizin; medizinisch, \u00e4rztlich",
         "tok": "misikeke li ijo pi pona sijelo. jan li moku e ona.",
         "es": "medicina, medicamento, m\u00e9dico, cl\u00ednico",
         "hi": "\u0926\u0935\u093e, \u0938\u0935\u093e\u0938\u094d\u0925, \u091f\u093e\u0915\u094d\u091f\u0930\u0940, \u091a\u093f\u0915\u093f\u0924\u094d\u0938\u093e",
@@ -2270,6 +2340,19 @@
         "ru": "\u043c\u0435\u0440\u0442\u0432\u044b\u0439, \u0443\u043c\u0438\u0440\u0430\u044e\u0449\u0438\u0439",
         "eo": "mortinta, mortanta",
         "de": "tot, sterben, t\u00f6ten"
+      }
+    },
+    "molusa": {
+      "word": "molusa",
+      "coined_year": "2021",
+      "coined_era": "post-ku",
+      "book": "none",
+      "source_language": "multiple",
+      "etymology": "English mollusk & scientific nomenclature Mollusca \u2018mollusks\u2019 (\u2190 Latin mollusca \u2018a soft nut with a thin shell\u2019)",
+      "creator": "jan soweli Apen",
+      "def": {
+        "en": "a squishy animal, such as a snail, slug, or sponge",
+        "eo": "mola spongeca besto, ekzemple heliko, limako, a\u016d spongo"
       }
     },
     "monsi": {
@@ -2592,6 +2675,21 @@
         "de": "Name, Wort"
       }
     },
+    "nja": {
+      "word": "nja",
+      "sitelen_pona": "nja",
+      "coined_year": "2021",
+      "coined_era": "post-pu",
+      "book": "none",
+      "source_language": "Japanese",
+      "etymology": "\u30cb\u30e3\u30fc ny\u0101 \u2018meow\u2019 (onomatopoetic)",
+      "creator": "jan Kita",
+      "see_also": "mu, jonke",
+      "def": {
+        "en": "meow, feline sound",
+        "eo": "mia\u016d, kata sono"
+      }
+    },
     "noka": {
       "word": "noka",
       "sitelen_pona": "noka",
@@ -2865,6 +2963,20 @@
         "ru": "\u043e\u043d, \u043e\u043d\u0430, \u043e\u043d\u043e, \u043e\u043d\u0438",
         "eo": "li, \u015di, ri, \u011di, ili",
         "de": "er, sie, es, sie"
+      }
+    },
+    "oni": {
+      "word": "oni",
+      "sitelen_pona": "oni",
+      "coined_year": "2021",
+      "coined_era": "post-pu",
+      "book": "none",
+      "source_language": "Greek",
+      "etymology": "\u1f44\u03bd\u03b5\u03b9\u03c1\u03bf\u03b9 oneiroi \u2018(personifications of) dreams\u2019",
+      "creator": "kulupu Eki",
+      "commentary": "This word is deprecated by the creator; it is considered part of the \"toki oni\" tokiponido instead.",
+      "def": {
+        "en": "dream, daydream, imaginative play, vision, mystical state; to entrance"
       }
     },
     "open": {
@@ -3161,6 +3273,20 @@
         "de": "(trennt eine zweite Wortgruppe ab, die die erste Wortgruppe beschreibt) | ALT (f\u00fchrt ein Wort im Genetiv ein)"
       }
     },
+    "pika": {
+      "word": "pika",
+      "coined_year": "2021",
+      "coined_era": "post-pu",
+      "book": "none",
+      "source_language": "Japanese",
+      "etymology": "\u30d4\u30ab\u30c1\u30e5\u30a6 Pikach\u016b, an electric Pok\u00e9mon (\u2190 \u30d4\u30ab pika \u2018sparkle\u2019 + \u30c1\u30e5\u30fc ch\u016b \u2018squeak\u2019)",
+      "creator": "Kriskee_",
+      "see_also": "linluwi",
+      "def": {
+        "en": "electric, electronic, conductive, mechanical, online; electricity, lightning, thunder, network",
+        "eo": "elektra, elektronika, konduktiva, me\u0125anika, enreta; elektro, fulmo, tondro, reto"
+      }
+    },
     "pilin": {
       "word": "pilin",
       "sitelen_pona": "pilin",
@@ -3223,7 +3349,7 @@
         "en": "ago, completed, ended, finished, past",
         "ru": "\u0442\u043e\u043c\u0443 \u043d\u0430\u0437\u0430\u0434, \u0437\u0430\u0432\u0435\u0440\u0448\u0435\u043d\u043d\u044b\u0439, \u043e\u043a\u043e\u043d\u0447\u0435\u043d\u043d\u044b\u0439, \u0437\u0430\u0432\u0435\u0440\u0448\u0435\u043d\u043d\u044b\u0439, \u043f\u0440\u043e\u0448\u043b\u044b\u0439",
         "eo": "anta\u016da, finfarita, finita, fini\u011dinta, pasinta",
-        "de": "her, abgeschlossen, beendet, fertig, vergangen"
+        "de": "her, abgeschlossen, beendet, fertig, vergangen; Ende"
       }
     },
     "pipi": {
@@ -4674,6 +4800,19 @@
         "pa": "\u0a1c\u0a4b\u0a30\u0a1c \u0a32\u0a42\u0a15\u0a38 \u0a35\u0a3e\u0a02\u0a17\u0a42 \u0a06\u0a2a\u0a23\u0a47 \u0a2a\u0a41\u0a30\u0a3e\u0a23\u0a47 \u0a15\u0a71\u0a2e\u0a3e\u0a02 \u0a28\u0a42\u0a70 \u0a2c\u0a26\u0a32\u0a26\u0a47 \u0a30\u0a39\u0a3f\u0a23\u0a3e \u0a05\u0a24\u0a47 \u0a09\u0a39\u0a28\u0a3e \u0a28\u0a42\u0a70 \u0a2c\u0a26 \u0a24\u0a4b\u0a02 \u0a2c\u0a26\u0a24\u0a30 \u0a2c\u0a28\u0a4c\u0a23\u0a3e",
         "id": "berkelakuan seperti George Lucas dan merevisi karya kreatif lama dan malah membuatnya lebih buruk",
         "pl": "zachowywa\u0107 si\u0119 jak George Lucas i poprawia\u0107 swoje stare prace tw\u00f3rcze, na wskutek czego je pogarsza\u0107"
+      }
+    },
+    "yutu": {
+      "word": "yutu",
+      "coined_year": "2021",
+      "coined_era": "post-ku",
+      "book": "none",
+      "source_language": "Turkish",
+      "etymology": "y\u0131ld\u0131z \u2018star\u2019",
+      "creator": "inari",
+      "def": {
+        "en": "{on Discord} the star emoji used for the starboard (#pona-kulupu in ma pona)",
+        "eo": "{en Discord} la stela emo\u011dio uzata por la steltabulo (starboard, #pona-kulupu en ma pona)"
       }
     }
   }
