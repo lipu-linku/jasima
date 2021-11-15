@@ -767,9 +767,10 @@
       "source_language": "English",
       "etymology": "yucky",
       "creator": "jan Sonja",
+      "ku_data": "dirty\u2075, trash\u2075, gross\u2075, garbage\u2075, mess\u2075, disgusting\u2074, junk\u2074, bacteria\u2074, nasty\u2074, crap\u00b3, toxic\u00b3, waste\u00b3, infection\u00b3, disease\u00b2, shit\u00b2, virus\u00b2, pollution\u00b2, bullshit\u00b2, illness\u00b9",
       "def": {
         "en": "disgusting, obscene, sickly, toxic, unclean, unsanitary",
-        "ru": "\u043e\u0442\u0432\u0440\u0430\u0442\u0438\u0442\u0435\u043b\u044c\u043d\u044b\u0439, \u043d\u0435\u043f\u0440\u0438\u0441\u0442\u043e\u0439\u043d\u044b\u0439, \u0431\u043e\u043b\u0435\u0437\u043d\u0435\u043d\u043d\u044b\u0439, \u0442\u043e\u043a\u0441\u0438\u0447\u043d\u044b\u0439, \u043d\u0435\u0447\u0438\u0441\u0442\u044b\u0439, \u043d\u0435\u0433\u0438\u0433\u0435\u043d\u0438\u0447\u043d\u044b\u0439",
+        "ru": "\u043e\u0442\u0432\u0440\u0430\u0442\u0438\u0442\u0435\u043b\u044c\u043d\u044b\u0439, \u043d\u0435\u043f\u0440\u0438\u0441\u0442\u043e\u0439\u043d\u044b\u0439, \u0431\u043e\u043b\u0435\u0437\u043d\u0435\u043d\u043d\u044b\u0439, \u0442\u043e\u043a\u0441\u0438\u0447\u043d\u044b\u0439, \u043d\u0435\u0447\u0438\u0441\u0442\u044b\u0439, \u043d\u0435\u0433\u0438\u0433\u0438\u0435\u043d\u0438\u0447\u043d\u044b\u0439",
         "eo": "na\u016dza, obscena, malagrabla, toksa, malpura, malhigiena",
         "de": "ekelhaft, dreckig, giftig, unrein, obsz\u00f6n"
       }
@@ -855,6 +856,7 @@
       "source_language": "Cantonese",
       "etymology": "\u4eba jan \u2018person\u2019",
       "creator": "jan Sonja",
+      "ku_data": "person\u2075, human\u2075, people\u2075, anybody\u2074, dude\u2074, anyone\u00b3, character\u00b3, somebody\u00b3, guy\u00b3, being\u00b3, individual\u00b2, civilian\u00b2, whoever\u00b2, citizen\u00b2, participant\u00b2, Hominidae\u00b2, personal\u00b2",
       "commentary": "There are two sides to the concept, \"sentient entity\" and \"homo sapiens\", which matters for whether to use the word in edge cases (i.e. aliens, humans turned into werewolves, etc). Which sense is more central to the word remains controversial.",
       "def": {
         "en": "human being, person, somebody",
@@ -936,6 +938,7 @@
       "source_language": "English",
       "etymology": "yellow",
       "creator": "jan Sonja",
+      "ku_data": "yellow\u2075, golden\u00b2",
       "commentary": "Some extend \"jelo\" to include lime green, but this usage is uncommon.",
       "def": {
         "en": "yellow, yellowish",
@@ -953,6 +956,7 @@
       "source_language": "Mandarin",
       "etymology": "\u6709 y\u01d2u \u2018have\u2019",
       "creator": "jan Sonja",
+      "ku_data": "have\u2075, possess\u2075, carry\u2075, contain\u2074, own\u2074, hold\u2074, possession\u2074, ownership\u2074, include\u00b3, consist\u00b3, comprise\u00b3, grasp\u00b2, equip\u00b2, bring\u00b2, grip\u00b2",
       "see_also": "lon, poki, lanpan",
       "def": {
         "en": "to have, carry, contain, hold",
@@ -1025,6 +1029,7 @@
       "source_language": "Finnish",
       "etymology": "kala \u2018fish\u2019",
       "creator": "jan Sonja",
+      "ku_data": "fish\u2075, sea creature\u2075, salmon\u2074",
       "def": {
         "en": "fish, marine animal, sea creature",
         "ru": "\u0440\u044b\u0431\u0430, \u043c\u043e\u0440\u0441\u043a\u043e\u0435 \u0436\u0438\u0432\u043e\u0442\u043d\u043e\u0435",
@@ -1041,6 +1046,7 @@
       "source_language": "Serbo-Croatian",
       "etymology": "galama \u0433\u0430\u043b\u0430\u043c\u0430 \u2018noise of many human voices\u2019",
       "creator": "jan Sonja",
+      "ku_data": "sound\u2075, noise\u2074, tone\u00b3, bang\u00b2",
       "def": {
         "en": "to produce a sound; recite, utter aloud",
         "ru": "\u043f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0438\u0442\u044c \u0437\u0432\u0443\u043a; \u0447\u0438\u0442\u0430\u0442\u044c, \u043f\u0440\u043e\u0438\u0437\u043d\u043e\u0441\u0438\u0442\u044c \u0432\u0441\u043b\u0443\u0445",
@@ -1057,6 +1063,7 @@
       "source_language": "Tok Pisin",
       "etymology": "kamap \u2018event, arrive, happen, become, bring about, summon\u2019 \u2190 English come up",
       "creator": "jan Sonja",
+      "ku_data": "coming\u2075, come\u2075, arrival\u2075, arrive\u2075, become\u2074, upcoming\u2074, emerging\u2074, emerge\u2074, happen\u2074, occur\u00b3, next\u00b2, developmental\u00b2, arise\u00b2, visit\u00b2, induce\u00b2, trigger\u00b2, phenomenon\u00b2, event\u00b2",
       "def": {
         "en": "arriving, coming, future, summoned; (pv.) to become, manage to, succeed in",
         "ru": "\u043f\u0440\u0438\u0445\u043e\u0434\u044f\u0449\u0438\u0439, \u0431\u0443\u0434\u0443\u0449\u0438\u0439, \u043f\u0440\u0438\u0437\u0432\u0430\u043d\u043d\u044b\u0439; (pv.) \u0441\u0442\u0430\u043d\u043e\u0432\u0438\u0442\u044c\u0441\u044f, \u0441\u043c\u043e\u0447\u044c, \u043f\u0440\u0435\u0443\u0441\u043f\u0435\u0432\u0430\u0442\u044c \u0432",
@@ -1167,6 +1174,7 @@
       "source_language": "Finnish",
       "etymology": "kasvi \u2018plant\u2019",
       "creator": "jan Sonja",
+      "ku_data": "plant\u2075, bush\u2074, herb\u00b2, tree\u00b2",
       "def": {
         "en": "plant, vegetation; herb, leaf",
         "ru": "\u0440\u0430\u0441\u0442\u0435\u043d\u0438\u0435, \u0440\u0430\u0441\u0442\u0438\u0442\u0435\u043b\u044c\u043d\u043e\u0441\u0442\u044c; \u0442\u0440\u0430\u0432\u0430, \u043b\u0438\u0441\u0442",
@@ -1207,6 +1215,7 @@
       "source_language": "Tok Pisin",
       "etymology": "ken \u2190 English can",
       "creator": "jan Sonja",
+      "ku_data": "able\u2075, potential\u2075, ability\u2075, capability\u2075, capable\u2075, may\u2075, possible\u2075, could\u2075, eligible\u2074, can\u2074, possibility\u2074, permission\u2074, likelihood\u00b3, chance\u00b3, probability\u00b3, available\u00b3, opportunity\u00b3, maybe\u00b3, possibly\u00b3, odds\u00b3, patentially\u00b2, perhaps\u00b2, liberty\u00b2, might\u00b2, option\u00b2, viable\u00b2, enable\u00b2, privilege\u00b2, allow\u00b2, likely\u00b2, prospect\u00b2, freedom\u00b2",
       "def": {
         "en": "to be able to, be allowed to, can, may; possible",
         "ru": "\u0438\u043c\u0435\u0442\u044c \u0432\u043e\u0437\u043c\u043e\u0436\u043d\u043e\u0441\u0442\u044c, \u043c\u043e\u0447\u044c, \u0443\u043c\u0435\u0442\u044c; \u0432\u043e\u0437\u043c\u043e\u0436\u043d\u044b\u0439",
@@ -1223,6 +1232,7 @@
       "source_language": "Dutch",
       "etymology": "gebruiken \u2018to use\u2019",
       "creator": "jan Sonja",
+      "ku_data": "use\u2075, utilize\u2074, via\u00b3, employ\u00b3, used\u00b2, operate\u00b2, interact\u00b2, equip\u00b2",
       "def": {
         "en": "to use, with, by means of",
         "ru": "\u0438\u0441\u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u044c, \u0441 \u043f\u043e\u043c\u043e\u0449\u044c\u044e",
@@ -1328,6 +1338,7 @@
       "source_language": "Georgian",
       "etymology": "\u10ee\u10d8\u10da\u10d8 xili \u2018fruit\u2019",
       "creator": "jan Sonja",
+      "ku_data": "fruit\u2075, vegetable\u2075, apple\u2075, kumquat\u00b3, fungus\u00b2, nut\u00b2, bean\u00b2, onion\u00b2, tomato\u00b2",
       "see_also": "soko",
       "def": {
         "en": "fruit, vegetable, mushroom",
@@ -1420,6 +1431,7 @@
       "source_language": "Finnish",
       "etymology": "kiven, genitive of kivi \u2018stone\u2019",
       "creator": "jan Sonja",
+      "ku_data": "solid\u2075, rock\u2075, stone\u2075, hard object\u2074, concrete\u00b3, metal\u00b3, steel\u00b3, iron\u00b3, firm\u00b3, stiff\u00b3, silver\u00b2, plastic\u00b2",
       "commentary": "Coined in a poll in 2002.",
       "def": {
         "en": "hard object, metal, rock, stone",
@@ -1437,6 +1449,7 @@
       "source_language": "Cantonese",
       "etymology": "\u818f gou \u2018cream, paste\u2019",
       "creator": "jan Sonja",
+      "ku_data": "goo\u2075, semisolid\u2075, paste\u2074, powder\u2074, clay\u00b3, sand\u00b2, dust\u00b2, substance\u00b2, cream\u00b2, dough\u00b2, mud\u00b2",
       "def": {
         "en": "clay, clinging form, dough, semi-solid, paste, powder",
         "ru": "\u0433\u043b\u0438\u043d\u0430, \u0441\u043b\u0435\u043f\u043b\u0435\u043d\u043d\u043e\u0435, \u0442\u0435\u0441\u0442\u043e, \u043f\u043e\u043b\u0443\u0442\u0432\u0435\u0440\u0434\u043e\u0435, \u043f\u0430\u0441\u0442\u0430, \u043f\u043e\u0440\u043e\u0448\u043e\u043a",
@@ -1478,6 +1491,7 @@
       "source_language": "Mandarin",
       "etymology": "\u7a7a\u6c23 k\u014dngq\u00ec \u2018air, atmosphere, ambience, opinion\u2019",
       "creator": "jan Sonja",
+      "ku_data": "soul\u2075, air\u2075, spirit\u2075, gas\u2075, essence\u2074, atmosphere\u2074, oxygen\u00b3, breathe\u00b3, breath\u00b3, meaning\u00b3, intangible\u00b3, breathing\u00b3, invisible entity\u00b3, definition\u00b2, abstract\u00b2, breeze\u00b2, smell\u00b2",
       "def": {
         "en": "air, breath; essence, spirit; hidden reality, unseen agent",
         "ru": "\u0432\u043e\u0437\u0434\u0443\u0445, \u0434\u044b\u0445\u0430\u043d\u0438\u0435; \u0441\u0443\u0449\u043d\u043e\u0441\u0442\u044c, \u0434\u0443\u0445; \u0441\u043a\u0440\u044b\u0442\u043e\u0435 \u0441\u043e\u0437\u0434\u0430\u043d\u0438\u0435, \u043d\u0435\u0432\u0438\u0434\u0438\u043c\u0430\u044f \u0434\u0435\u0439\u0441\u0442\u0432\u0443\u044e\u0449\u0430\u044f \u0441\u0438\u043b\u0430",
@@ -1547,6 +1561,7 @@
       "source_language": "Acadian French",
       "etymology": "couleur \u2018color\u2019",
       "creator": "jan Sonja",
+      "ku_data": "colour\u2075, diverse\u00b2, LGBTQ+\u00b2, paint\u00b2, lesbian\u00b2, gay\u00b2, spectrum\u00b2",
       "def": {
         "en": "colorful, pigmented, painted | ALT of or relating to the LGBT+ community",
         "ru": "\u0440\u0430\u0437\u043d\u043e\u0446\u0432\u0435\u0442\u043d\u044b\u0439, \u043a\u0440\u0430\u0441\u043e\u0447\u043d\u044b\u0439, \u043e\u043a\u0440\u0430\u0448\u0435\u043d\u043d\u044b\u0439 | ALT \u043f\u0440\u0438\u043d\u0430\u0434\u043b\u0435\u0436\u0430\u0449\u0438\u0439 \u0438\u043b\u0438 \u043e\u0442\u043d\u043e\u0441\u044f\u0449\u0438\u0439\u0441\u044f \u043a \u0441\u043e\u043e\u0431\u0449\u0435\u0441\u0442\u0432\u0443 \u041b\u0413\u0411\u0422+",
@@ -1610,6 +1625,7 @@
       "source_language": "Tongan",
       "etymology": "kulupu \u2190 English group",
       "creator": "jan Sonja",
+      "ku_data": "group\u2075, organization\u2075, community\u2075, collective\u2075, tribe\u2075, squad\u2074, tribal\u2074, bunch\u2074, cluster\u2074, league\u2074, collection\u2074, society\u2074, association\u2074, crew\u2074, team\u00b3, club\u00b3, coalition\u00b3, set\u00b3, socially\u00b3, gathering\u00b3, category\u00b3, institution\u00b3, gang\u00b3, assembly\u00b3, meeting\u00b3, pile\u00b3, network\u00b3, crowd\u00b3, ethnic\u00b2, bureau\u00b2, partnership\u00b2, social\u00b2, class\u00b2, array\u00b2, stack\u00b2, committee\u00b2, public\u00b2, affiliation\u00b2, combination\u00b2, sequence\u00b2, pack\u00b2, establishment\u00b2, conference\u00b2, franchise\u00b2, demographic\u00b2, company\u00b2, rally\u00b2",
       "def": {
         "en": "community, company, group, nation, society, tribe",
         "ru": "\u0441\u043e\u043e\u0431\u0449\u0435\u0441\u0442\u0432\u043e, \u043a\u043e\u043c\u043f\u0430\u043d\u0438\u044f, \u0433\u0440\u0443\u043f\u043f\u0430, \u043d\u0430\u0446\u0438\u044f, \u043e\u0431\u0449\u0435\u0441\u0442\u0432\u043e, \u043f\u043b\u0435\u043c\u044f",
@@ -1649,6 +1665,7 @@
       "source_language": "Acadian French",
       "etymology": "\u00e9couter \u2018listen\u2019",
       "creator": "jan Sonja",
+      "ku_data": "hear\u2075, listen\u2075, ear\u2075, hearing\u2075",
       "def": {
         "en": "ear; to hear, listen; pay attention to, obey",
         "ru": "\u0443\u0445\u043e; \u0441\u043b\u044b\u0448\u0430\u0442\u044c, \u0441\u043b\u0443\u0448\u0430\u0442\u044c; \u043e\u0431\u0440\u0430\u0449\u0430\u0442\u044c \u0432\u043d\u0438\u043c\u0430\u043d\u0438\u0435, \u0441\u043b\u0443\u0448\u0430\u0442\u044c\u0441\u044f, \u043f\u043e\u0434\u0447\u0438\u043d\u044f\u0442\u044c\u0441\u044f",
@@ -1665,6 +1682,7 @@
       "source_language": "multiple possibilities",
       "etymology": "Esperanto la \u2018(definite article)\u2019 (\u2190 Romance la \u2018(feminine singular definite article)\u2019) or Acadian French -la \u2018(proximal & topical suffix)\u2019",
       "creator": "jan Sonja",
+      "ku_data": "if\u2075, while\u00b3, depending\u00b3, regarding\u00b2, than\u00b2",
       "def": {
         "en": "(between the context phrase and the main sentence)",
         "ru": "(\u043c\u0435\u0436\u0434\u0443 \u043a\u043e\u043d\u0442\u0435\u043a\u0441\u0442\u043d\u043e\u0439 \u0444\u0440\u0430\u0437\u043e\u0439 \u0438 \u0433\u043b\u0430\u0432\u043d\u044b\u043c \u043f\u0440\u0435\u0434\u043b\u043e\u0436\u0435\u043d\u0438\u0435\u043c)",
@@ -1706,6 +1724,7 @@
       "source_language": "Dutch",
       "etymology": "slapen \u2018sleep\u2019",
       "creator": "jan Sonja",
+      "ku_data": "sleep\u2075, asleep\u2074, rest\u00b3, lay\u00b2, lie (be in flat position)\u00b2",
       "def": {
         "en": "sleeping, resting",
         "ru": "\u0441\u043f\u044f\u0449\u0438\u0439, \u043e\u0442\u0434\u044b\u0445\u0430\u044e\u0449\u0438\u0439",
@@ -1722,6 +1741,7 @@
       "source_language": "Welsh",
       "etymology": "glas \u2018blue, inexperienced\u2019 \u2190 Proto-Brythonic glas \u2018green, blue\u2019",
       "creator": "jan Sonja",
+      "ku_data": "blue\u2075, teal\u2074, green\u00b3",
       "def": {
         "en": "blue, green",
         "ru": "\u0441\u0438\u043d\u0438\u0439, \u0433\u043e\u043b\u0443\u0431\u043e\u0439, \u0437\u0435\u043b\u0451\u043d\u044b\u0439",
@@ -1738,6 +1758,7 @@
       "source_language": "Serbo-Croatian",
       "etymology": "glava \u0433\u043b\u0430\u0432\u0430 \u2018head\u2019",
       "creator": "jan Sonja",
+      "ku_data": "govern\u2075, head\u2075, authority\u2074, control\u2074, ruling\u2074, regulatory\u2074, leading\u2074, manage\u2074, administrative\u2074, leadership\u2074, rule\u00b3, law\u00b3, lead\u00b3, management\u00b3, legal\u00b3, enforce\u00b3, oversee\u00b3, judicial\u00b3, mind\u00b3, conduct\u00b3, official\u00b3, regulate\u00b3, brain\u00b3, policy\u00b3, administer\u00b3, regulation\u00b2, executive\u00b2, cognitive\u00b2, guide\u00b2, drive\u00b2, mandate\u00b2, ownership\u00b2, administration\u00b2, government\u00b2, command\u00b2, dominate\u00b2, psychological\u00b2, institutional\u00b2, legislation\u00b2, jurisdiction\u00b2, main\u00b2, regime\u00b2",
       "def": {
         "en": "head, mind; to control, direct, guide, lead, own, plan, regulate, rule",
         "ru": "\u0433\u043e\u043b\u043e\u0432\u0430, \u0440\u0430\u0437\u0443\u043c; \u0433\u043b\u0430\u0432\u0435\u043d\u0441\u0442\u0432\u043e\u0432\u0430\u0442\u044c, \u043a\u043e\u043d\u0442\u0440\u043e\u043b\u0438\u0440\u043e\u0432\u0430\u0442\u044c, \u043d\u0430\u043f\u0440\u0430\u0432\u043b\u044f\u0442\u044c, \u0432\u0435\u0441\u0442\u0438, \u043f\u043b\u0430\u043d\u0438\u0440\u043e\u0432\u0430\u0442\u044c, \u0440\u0435\u0433\u0443\u043b\u0438\u0440\u043e\u0432\u0430\u0442\u044c, \u0443\u043f\u0440\u0430\u0432\u043b\u044f\u0442\u044c",
@@ -1778,6 +1799,7 @@
       "source_language": "Acadian French",
       "etymology": "linge \u2018clothing\u2019",
       "creator": "jan Sonja",
+      "ku_data": "clothing\u2075, cloth\u2075, clothes\u2075, fabric\u2075, outfit\u2074, privacy\u2074, cover\u2074, dress\u00b3, jacket\u00b3, wear\u00b3, shirt\u00b3, t-shirt\u00b2, hide\u00b2, blanket\u00b2, cotton\u00b2, private\u00b2, wrap\u00b2, costume\u00b2, silk\u00b2, suit (n)\u00b2, hidden\u00b2, underwear\u00b2, canvas\u00b2, coverage\u00b2, flag\u00b2",
       "def": {
         "en": "cloth, clothing, fabric, textile; cover, layer of privacy",
         "ru": "\u043f\u043e\u043b\u043e\u0442\u043d\u043e, \u043e\u0434\u0435\u0436\u0434\u0430, \u0442\u043a\u0430\u043d\u044c, \u0442\u0435\u043a\u0441\u0442\u0438\u043b\u044c; \u043a\u0440\u044b\u0448\u043a\u0430, \u0441\u043b\u043e\u0439 \u043f\u0440\u0438\u0432\u0430\u0442\u043d\u043e\u0441\u0442\u0438",
@@ -1818,6 +1840,7 @@
       "source_language": "Acadian French",
       "etymology": "frette \u2018cold\u2019 \u2190 Old French freit \u2018cold\u2019",
       "creator": "jan Sonja",
+      "ku_data": "cold\u2075, raw\u00b3, frozen\u00b3, freeze\u00b2, cool\u00b2",
       "def": {
         "en": "cold, cool; uncooked, raw",
         "ru": "\u0445\u043e\u043b\u043e\u0434\u043d\u044b\u0439, \u043f\u0440\u043e\u0445\u043b\u0430\u0434\u043d\u044b\u0439; \u0441\u044b\u0440\u043e\u0439, \u043d\u0435\u043f\u0440\u0438\u0433\u043e\u0442\u043e\u0432\u043b\u0435\u043d\u043d\u044b\u0439",
@@ -1876,6 +1899,7 @@
       "source_language": "Tok Pisin",
       "etymology": "liklik \u2018small, little\u2019 \u2190 Ramoaaina liklik",
       "creator": "jan Sonja",
+      "ku_data": "small\u2075, little\u2075, slight\u2075, short\u2075, reduce\u2075, junior\u2075, slightly\u2074, minimize\u2074, narrow\u2074, bit\u2074, minor\u2074, partly\u2074, reduction\u2074, brief\u2074, young\u2074, fewer\u00b3, less\u00b3, diminish\u00b3, tiny\u00b3, barely\u00b3, decrease\u00b3, minimal\u00b3, partially\u00b3, somewhat\u00b3, thin\u00b3, inch\u00b3, shallow\u00b3, subtle\u00b3, lightly\u00b3, kinda\u00b3, hardly\u00b2, partial\u00b2, tight\u00b2, particle\u00b2, mere\u00b2, mild\u00b2, ounce\u00b2, quarter\u00b2, gram\u00b2, shortage\u00b2",
       "def": {
         "en": "little, small, short; few; a bit; young",
         "ru": "\u043c\u0430\u043b\u0435\u043d\u044c\u043a\u0438\u0439, \u043a\u043e\u0440\u043e\u0442\u043a\u0438\u0439; \u043c\u0430\u043b\u043e; \u043d\u0435\u043c\u043d\u043e\u0433\u043e; \u043c\u043e\u043b\u043e\u0434\u043e\u0439",
@@ -1892,6 +1916,7 @@
       "source_language": "Finnish",
       "etymology": "linja \u2018line\u2019 \u2190 Old Swedish linia",
       "creator": "jan Sonja",
+      "ku_data": "line\u2075, string\u2075, cord\u2075, rope\u2075, thread\u2074, fibre\u00b3, cable\u00b3, link\u00b3, connection\u00b2, ray\u00b2, streak\u00b2, row\u00b2, wire\u00b2, hair\u00b2, sequence\u00b2, chain\u00b2, connect\u00b2, straight\u00b2",
       "tags": "pre-pu ALT",
       "def": {
         "en": "long and flexible thing; cord, hair, rope, thread, yarn | ALT line, connection",
@@ -1933,6 +1958,7 @@
       "source_language": "Finnish",
       "etymology": "lippu \u2018flag, banner, ticket\u2019",
       "creator": "jan Sonja",
+      "ku_data": "paper\u2075, book\u2075, ticket\u2075, document\u2075, article\u2075, card\u2075, page\u2075, magazine\u2074, sheet\u2074, file\u2074, website\u00b3, essay\u00b3, novel\u00b3, letter (in mail)\u00b3, sign\u00b3, publication\u00b3, doc\u00b2, certificate\u00b2, literature\u00b2, journal\u00b2, flat\u00b2, blog\u00b2, list\u00b2, pad\u00b2, poster\u00b2, newspaper\u00b2, form\u00b2, tag\u00b2",
       "def": {
         "en": "flat object; book, document, card, paper, record, website",
         "ru": "\u043f\u043b\u043e\u0441\u043a\u0438\u0439 \u043e\u0431\u044a\u0435\u043a\u0442; \u043a\u043d\u0438\u0433\u0430, \u0434\u043e\u043a\u0443\u043c\u0435\u043d\u0442, \u043a\u0430\u0440\u0442\u0430, \u0431\u0443\u043c\u0430\u0433\u0430, \u0437\u0430\u043f\u0438\u0441\u044c, \u0441\u0430\u0439\u0442",
@@ -1949,6 +1975,7 @@
       "source_language": "Dutch",
       "etymology": "rooie, inflected form of rood \u2018red\u2019",
       "creator": "jan Sonja",
+      "ku_data": "red\u2075",
       "def": {
         "en": "red, reddish",
         "ru": "\u043a\u0440\u0430\u0441\u043d\u044b\u0439, \u043a\u0440\u0430\u0441\u043d\u043e\u0432\u0430\u0442\u044b\u0439",
@@ -2029,6 +2056,7 @@
       "source_language": "Tok Pisin",
       "etymology": "long \u2018at, in, on, (spacial particle)\u2019 \u2190 English along",
       "creator": "jan Sonja",
+      "ku_data": "at\u2075, existing\u2075, real\u2075, exist\u2075, located\u2075, presence\u2075, yep\u2075, existence\u2075, actual\u2075, on\u2075, true\u2075, living\u2074, yes\u2074, truth\u2074, reality\u2074, physical\u2074, yeah\u2074, genuine\u00b3, upon\u00b3, truly\u00b3, in\u00b3, alive\u00b3, position\u00b3, accurate\u00b3, exactly\u00b3, occupy\u00b3, live\u00b3, attendance\u00b3, certainly\u00b3, attend\u00b3, indeed\u00b3, right (not wrong)\u00b3, life\u00b2, definitely\u00b2, legitimate\u00b2, honestly\u00b2, onto\u00b2, location\u00b2, correct\u00b2, validity\u00b2, correctly\u00b2, occur\u00b2, precisely\u00b2, certain\u00b2, status\u00b2, physically\u00b2, placement\u00b2, sure\u00b2, mm-hmm\u00b2, fact\u00b2, amid\u00b2, availability\u00b2, frankly\u00b2, of course\u00b2, regarding\u00b2",
       "tags": "pre-pu ALT",
       "def": {
         "en": "located at, present at, real, true, existing | ALT (affirmative response)",
@@ -2061,6 +2089,7 @@
       "source_language": "Serbo-Croatian",
       "etymology": "ruka \u0440\u0443\u043a\u0430 \u2018hand, arm\u2019",
       "creator": "jan Sonja",
+      "ku_data": "hand\u2075, arm\u2074, five\u2074, wrist\u00b3, touch\u00b2, palm\u00b2, handful\u00b2, gesture\u00b2, tap\u00b2, reach\u00b2, elbow\u00b2",
       "tags": "pre-pu ALT",
       "def": {
         "en": "arm, hand, tactile organ; five | ALT touch/feel physically, interact, press",
@@ -2078,6 +2107,7 @@
       "source_language": "Tok Pisin",
       "etymology": "lukim \u2018see, look at\u2019 \u2190 luk \u2018look\u2019 (\u2190 English look) + -im \u2018(transitive suffix)\u2019 (\u2190 English him, \u2019em)",
       "creator": "jan Sonja",
+      "ku_data": "see\u2075, observe\u2075, look at\u2075, sight\u2075, gaze\u2075, observation\u2075, check\u2074, view\u2074, scan\u2074, watch\u2074, visual\u2074, examine\u00b3, inspection\u00b3, vision\u00b3, notice\u00b3, surveillance\u00b3, attention\u00b3, appearance\u00b3, examination\u00b3, detect\u00b3, assess\u00b2, stare\u00b2, perception\u00b2, perceive\u00b2, try\u00b2, glance\u00b2, impression\u00b2, reading\u00b2, regard (v)\u00b2, apparent\u00b2, visible\u00b2, read\u00b2, seek\u00b2, eye\u00b2, investigation\u00b2, monitor\u00b2, encounter\u00b2",
       "see_also": "oko, alasa",
       "commentary": "In common usage (both before and after pu), \"lukin\" and \"oko\" are separate words, each with their own meaning. In pu, they are considered synonyms. Those who consider them synonyms typically don't use \"oko\" at all, preferring \"lukin\" in all circumstances. The usage of \"alasa\" as a preverb meaning \"try to\" is more common than \"lukin\". In pu, only \"lukin\" has this meaning.",
       "def": {
