@@ -1076,6 +1076,20 @@
         "de": "(f\u00fcr zuk\u00fcnftige Verwendung von Sonja Lang reserviertes Wort)"
       }
     },
+    "jume": {
+      "word": "jume",
+      "coined_year": "2021",
+      "coined_era": "post-pu",
+      "book": "none",
+      "source_language": "Japanese",
+      "etymology": "\u5922 yume 'dream'",
+      "creator": "jan Seli",
+      "see_also": "oni, sitelen, lape\u201a insa, powe",
+      "commentary": "Experimental, to see how the meaning could be expanded, but never actually used. No set of meanings was ever settled on before stopping the experiment, but one potential meaning the creator particularly liked was \"fantasy\" or \"unreality\", without a negative connotation.",
+      "def": {
+        "en": "dream"
+      }
+    },
     "kajo": {
       "word": "kajo",
       "coined_year": "2019",
@@ -1909,7 +1923,7 @@
         "en": "blue, green",
         "ru": "\u0441\u0438\u043d\u0438\u0439, \u0433\u043e\u043b\u0443\u0431\u043e\u0439, \u0437\u0435\u043b\u0451\u043d\u044b\u0439",
         "eo": "blua, verda",
-        "de": "blau, gr\u00fcn"
+        "de": "blau, gr\u00fcn, t\u00fcrkis"
       }
     },
     "lawa": {
@@ -3409,6 +3423,7 @@
       "source_language": "Greek",
       "etymology": "\u1f44\u03bd\u03b5\u03b9\u03c1\u03bf\u03b9 oneiroi \u2018(personifications of) dreams\u2019",
       "creator": "kulupu Eki",
+      "see_also": "insa, lape, musi, sitelen, jume",
       "commentary": "This word is deprecated by the creator; it is considered part of the \"toki oni\" tokiponido instead.",
       "def": {
         "en": "dream, daydream, imaginative play, vision, mystical state; to entrance",
@@ -3429,6 +3444,8 @@
       "etymology": "open",
       "creator": "jan Sonja",
       "ku_data": "open\u2075, begin\u2075, start\u2075, beginning\u2075, initiate\u2074, starting\u2074, opening\u00b3, initial\u00b2, access\u00b2, entry\u00b2, engage\u00b2, launch\u00b2, starter\u00b2, introduction\u00b2, origin\u00b2",
+      "see_also": "kama",
+      "commentary": "Some proficient speakers use open as a preverb that means \"to start,\" that goes along with the complimentary pini preverb \"to stop\"",
       "def": {
         "en": "begin, start; open; turn on",
         "ru": "\u043d\u0430\u0447\u0430\u0442\u044c; \u043e\u0442\u043a\u0440\u044b\u0442\u044c; \u0432\u043a\u043b\u044e\u0447\u0438\u0442\u044c, \u0437\u0430\u043f\u0443\u0441\u0442\u0438\u0442\u044c",
@@ -3835,7 +3852,8 @@
       "etymology": "Acadian French fini \u2018finished, completed\u2019 & Tok Pisin pinis \u2018(perfective aspect)\u2019\u2190 English finish",
       "creator": "jan Sonja",
       "ku_data": "end\u2075, finish\u2075, shut\u2075, ending\u2074, cease\u2074, outcome\u2074, conclude\u2074, close (v)\u2074, closed\u2074, quit\u00b3, latter\u00b3, final\u00b3, complete\u00b3, stop\u00b3, off\u00b3, cancel\u00b3, conclusion\u00b2, result\u00b2, previous\u00b2, pause\u00b2, interrupt\u00b2, lock\u00b2, over\u00b2",
-      "see_also": "pake",
+      "see_also": "pake, open, kama",
+      "commentary": "Some proficient speakers use pini as a preverb that means \"to stop,\" that goes along with the complimentary open preverb \"to start\"",
       "def": {
         "en": "ago, completed, ended, finished, past",
         "ru": "\u0442\u043e\u043c\u0443 \u043d\u0430\u0437\u0430\u0434, \u0437\u0430\u0432\u0435\u0440\u0448\u0435\u043d\u043d\u044b\u0439, \u043e\u043a\u043e\u043d\u0447\u0435\u043d\u043d\u044b\u0439, \u0437\u0430\u0432\u0435\u0440\u0448\u0435\u043d\u043d\u044b\u0439, \u043f\u0440\u043e\u0448\u043b\u044b\u0439",
@@ -4198,6 +4216,7 @@
       "etymology": "\u10ea\u10ee\u10d4\u10da\u10d8 cxeli \u2018hot\u2019",
       "creator": "jan Sonja",
       "ku_data": "fire\u2075, heat\u2075, hot\u2075, burning\u2075, flame\u2075, burn\u2074, warm\u2074, warming\u00b3, bake\u00b2, temperature\u00b2, cook\u00b2, boil\u00b2, cooking\u00b2, tropical\u00b9",
+      "commentary": "In pu, definitions of seli are described as adjectives. ku's pu corrections clarify that these refer to nouns instead.",
       "def": {
         "en": "fire; cooking element, chemical reaction, heat source",
         "ru": "\u043e\u0433\u043e\u043d\u044c; \u043d\u0430\u0433\u0440\u0435\u0432\u0430\u0442\u0435\u043b\u044c\u043d\u044b\u0439 \u044d\u043b\u0435\u043c\u0435\u043d\u0442, \u0445\u0438\u043c\u0438\u0447\u0435\u0441\u043a\u0430\u044f \u0440\u0435\u0430\u043a\u0446\u0438\u044f, \u0438\u0441\u0442\u043e\u0447\u043d\u0438\u043a \u0442\u0435\u043f\u043b\u0430",
@@ -4745,6 +4764,7 @@
       "etymology": "tasol \u2018just, only, but, however\u2019 \u2190 English that\u2019s all",
       "creator": "jan Sonja",
       "ku_data": "only\u2075, but\u2075, solely\u2075, however\u2075, exclusively\u2074, although\u2074, though\u2074, just\u2074, exclusive\u2074, despite\u2074, nonetheless\u2074, mere\u2074, merely\u00b3, except\u00b3, yet\u00b3, sole\u00b3, nevertheless\u00b3, whereas\u00b3, regardless\u00b2, exception\u00b2",
+      "commentary": "Many proficient speakers use taso as a connector between sentences (X taso Y), similar to \"X, but Y,\" though others do not use this method.",
       "def": {
         "en": "but, however; only",
         "ru": "\u043d\u043e, \u043e\u0434\u043d\u0430\u043a\u043e; \u0442\u043e\u043b\u044c\u043a\u043e",
