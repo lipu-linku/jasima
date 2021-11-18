@@ -391,6 +391,7 @@
       "source_language": "Armenian",
       "etymology": "\u0570\u0561\u0580\u057e\u0561\u056e\u0565\u056c harvacel \u2018hit, strike\u2019",
       "creator": "jan Lenoka",
+      "see_also": "utala, pakala, tawa",
       "def": {
         "en": "bump, knock, jolt",
         "ru": "\u0443\u0434\u0430\u0440, \u0441\u0442\u0443\u043a, \u0442\u043e\u043b\u0447\u043e\u043a"
@@ -546,6 +547,7 @@
       "etymology": "Turkish \u00f6te \u2018beyond, further, over\u2019 & Quenya ett\u00eb \u2018outside\u2019",
       "creator": "jan inwin",
       "ku_data": "exceed\u00b9, beyond\u00b9",
+      "see_also": "suli, sewi",
       "def": {
         "en": "beyond, exceeding, outside of, more than",
         "ru": "\u0441\u0432\u044b\u0448\u0435, \u043f\u0440\u0435\u0432\u044b\u0448\u0430\u044e\u0449\u0438\u0439, \u0437\u0430 \u043f\u0440\u0435\u0434\u0435\u043b\u0430\u043c\u0438, \u0431\u043e\u043b\u0435\u0435 \u0447\u0435\u043c",
@@ -782,6 +784,7 @@
       "etymology": "isipin \u2018to think\u2019",
       "creator": "jan ko",
       "ku_data": "think\u00b2, consciousness\u00b9, imagination\u00b9, theory\u00b9",
+      "see_also": "pilin, toki, insa",
       "def": {
         "en": "to think, to imagine, to believe, to remember, to recall; a thought, an idea",
         "ru": "\u0434\u0443\u043c\u0430\u0442\u044c, \u0432\u043e\u043e\u0431\u0440\u0430\u0436\u0430\u0442\u044c, \u0432\u0435\u0440\u0438\u0442\u044c, \u043f\u043e\u043c\u043d\u0438\u0442\u044c, \u0432\u0441\u043f\u043e\u043c\u0438\u043d\u0430\u0442\u044c; \u043c\u044b\u0441\u043b\u044c, \u0438\u0434\u0435\u044f",
@@ -897,7 +900,7 @@
       "book": "none",
       "source_language": "English",
       "etymology": "yummy",
-      "creator": "jan inwin",
+      "creator": "unknown",
       "see_also": "suwi",
       "def": {
         "en": "yummy; eliciting or stimulating a positive sensory experience",
@@ -992,7 +995,7 @@
       "source_language": "English",
       "etymology": "yay",
       "creator": "?",
-      "see_also": "a",
+      "see_also": "a; wa",
       "def": {
         "en": "(indicating excitement)",
         "ru": "(\u0443\u043a\u0430\u0437\u044b\u0432\u0430\u0435\u0442 \u043d\u0430 \u0432\u043e\u043b\u043d\u0435\u043d\u0438\u0435, \u0432\u043e\u0437\u0431\u0443\u0436\u0434\u0435\u043d\u0438\u0435)",
@@ -1182,6 +1185,7 @@
       "etymology": "kama pi lawa ala",
       "creator": "jan Wesu",
       "ku_data": "revolution\u2070",
+      "commentary": "The word is from a story called \"jan pi Kamalawala\". A character's name is described as \"nimi Jan pi Kama e Lawa Ala\", and a shortened version given as \"nimi Kamalawala\". jan Kipo is responsible for it becoming a word instead of just a name. ",
       "def": {
         "en": "anarchy, uprising, revolt, rebellion",
         "ru": "\u0430\u043d\u0430\u0440\u0445\u0438\u044f, \u0432\u043e\u0441\u0441\u0442\u0430\u043d\u0438\u0435, \u043c\u044f\u0442\u0435\u0436",
@@ -1522,7 +1526,7 @@
       "etymology": "Cantonese \u5496\u5561\u8272 gaa\u00b3 fe\u00b9 sik\u00b9 or Mandarin \u5496\u5561\u8272 k\u0101f\u0113is\u00e8 \u2018brown, coffee (colour)\u2019",
       "creator": "jan Sonja",
       "ku_data": "split\u2074, division\u2074, slice\u2074, cut\u00b3, divide\u00b3, chop\u00b3, segment\u00b3, section\u00b3, portion\u00b2, piece\u00b2, part\u00b2, half\u00b2, rip\u00b2, clip\u00b2, separation\u00b2, chunk\u00b2, carve\u00b2, separate\u00b2, sector\u00b2, percentage\u00b2",
-      "see_also": "tu",
+      "see_also": "tu, wan, pakala, mute",
       "def": {
         "en": "split, cut, slice, sever; sharp",
         "ru": "\u0440\u0430\u0437\u0434\u0435\u043b\u044f\u0442\u044c, \u043e\u0442\u0440\u0435\u0437\u0430\u0442\u044c, \u0440\u0430\u0437\u0440\u0435\u0437\u0430\u0442\u044c, \u043e\u0442\u0434\u0435\u043b\u044f\u0442\u044c; \u043e\u0441\u0442\u0440\u044b\u0439, \u0437\u0430\u0442\u043e\u0447\u0435\u043d\u043d\u044b\u0439",
@@ -1689,6 +1693,7 @@
       "etymology": "\u00d8",
       "creator": "jan Sonja",
       "see_also": "pu",
+      "commentary": "For ways to buy a copy of the book, visit the official Toki Pona website.",
       "def": {
         "en": "interacting with the Toki Pona Dictionary by Sonja Lang",
         "ru": "\u0432\u0437\u0430\u0438\u043c\u043e\u0434\u0435\u0439\u0441\u0442\u0432\u043e\u0432\u0430\u0442\u044c \u0441\u043e \u0441\u043b\u043e\u0432\u0430\u0440\u0435\u043c Toki Pona \u0421\u043e\u043d\u0438 \u041b\u0430\u043d\u0433",
@@ -2138,7 +2143,7 @@
       "etymology": "rhyngrwyd \u2018internet\u2019 (\u2190 rhwng \u2018between\u2019 + rhwyd \u2018net\u2019)",
       "creator": "jan inwin",
       "ku_data": "network\u00b2, Internet\u00b9, virtual\u00b9, web\u2070, digital\u2070, connection\u2070, net\u2070",
-      "see_also": "len",
+      "see_also": "len, ilo",
       "def": {
         "en": "network, internet, connection; weave, braid, interlace",
         "ru": "\u0441\u0435\u0442\u044c, \u0438\u043d\u0442\u0435\u0440\u043d\u0435\u0442, \u0441\u0432\u044f\u0437\u044c; \u043f\u043b\u0435\u0441\u0442\u0438, \u043f\u0435\u0440\u0435\u043f\u043b\u0435\u0442\u0430\u0442\u044c",
@@ -2394,6 +2399,7 @@
       "etymology": "maljuna \u2018old\u2019 \u2190 mal- \u2018(opposite of)\u2019 (\u2190 Latin malus \u2018bad\u2019) + juna \u2018young\u2019 (\u2190 German jung & French jeune)",
       "creator": "jan Sonja",
       "ku_data": "elderly\u00b2, old\u00b2, senior\u00b2, historical\u00b9, ancient\u00b9, elder\u00b9",
+      "see_also": "suli",
       "def": {
         "en": "old, aged, ancient",
         "ru": "\u0441\u0442\u0430\u0440\u044b\u0439, \u043f\u043e\u0436\u0438\u043b\u043e\u0439, \u0434\u0440\u0435\u0432\u043d\u0438\u0439",
@@ -2615,6 +2621,7 @@
       "etymology": "\u043c\u0438\u0448\u043a\u0430 mishka, diminutive of \u043c\u0438\u0448\u0430 misha 'mouse'",
       "creator": "misa Ewis",
       "ku_data": "Glires or Eulipotyphla\u00b9, capybara\u2070",
+      "see_also": "soweli",
       "def": {
         "en": "Glires or Eulipotyphla; rat, mouse, squirrel, rabbit, rodent; {~ suli} capybara",
         "ru": "\u0433\u0440\u044b\u0437\u0443\u043d\u043e\u043e\u0431\u0440\u0430\u0437\u043d\u044b\u0435 \u0438\u043b\u0438 \u043d\u0430\u0441\u0435\u043a\u043e\u043c\u043e\u044f\u0434\u043d\u044b\u0435; \u043a\u0440\u044b\u0441\u0430, \u043c\u044b\u0448\u044c, \u0431\u0435\u043b\u043a\u0430, \u043a\u0440\u043e\u043b\u0438\u043a, \u0433\u0440\u044b\u0437\u0443\u043d; {~ suli} \u043a\u0430\u043f\u0438\u0431\u0430\u0440\u0430",
@@ -2795,6 +2802,7 @@
       "etymology": "\u00d8",
       "creator": "jan Sonja",
       "ku_data": "pizza\u00b2",
+      "see_also": "pan",
       "def": {
         "en": "pizza",
         "ru": "\u043f\u0438\u0446\u0446\u0430",
@@ -2994,6 +3002,7 @@
       "source_language": "Vietnamese ",
       "etymology": "ng\u00e3 t\u01b0 \u2018crossroads, four-way intersection\u2019",
       "creator": "jan Lakuse",
+      "see_also": "wan",
       "def": {
         "en": "relationship, correlation, commonality; cross, knot, junction, intersection; to overlap, to fold; to overstep, to exceed to a point",
         "ru": "\u0432\u0437\u0430\u0438\u043c\u043e\u0441\u0432\u044f\u0437\u044c, \u043a\u043e\u0440\u0440\u0435\u043b\u044f\u0446\u0438\u044f, \u043e\u0431\u0449\u043d\u043e\u0441\u0442\u044c; \u043a\u0440\u0435\u0441\u0442, \u0443\u0437\u0435\u043b, \u0441\u0442\u044b\u043a, \u043f\u0435\u0440\u0435\u043a\u0440\u0435\u0441\u0442\u043e\u043a; \u043f\u0435\u0440\u0435\u043a\u0440\u044b\u0432\u0430\u0442\u044c, \u0441\u043a\u043b\u0430\u0434\u044b\u0432\u0430\u0442\u044c; \u043f\u0435\u0440\u0435\u0448\u0430\u0433\u043d\u0443\u0442\u044c, \u043f\u0440\u0435\u0432\u0437\u043e\u0439\u0442\u0438 \u0434\u043e \u0443\u0440\u043e\u0432\u043d\u044f",
@@ -3253,7 +3262,7 @@
       "etymology": "okay",
       "creator": "?",
       "ku_data": "OK\u2070, alright\u2070, fine\u2070",
-      "see_also": "ke, n",
+      "see_also": "pona, ke, n",
       "def": {
         "en": "(acknowledgement or acceptance)",
         "ru": "(\u043f\u043e\u0434\u0442\u0432\u0435\u0440\u0436\u0434\u0435\u043d\u0438\u0435 \u0438\u043b\u0438 \u043f\u0440\u0438\u043d\u044f\u0442\u0438\u0435)",
@@ -4007,7 +4016,7 @@
       "etymology": "pomodoro \u2018tomato\u2019",
       "creator": "jan Kawa",
       "ku_data": "tomato\u2070",
-      "commentary": "From the time management method developed by Francesco Cirillo in Berlin in the 1980s, for which people often used tomato-shaped timers.",
+      "commentary": "From the time management method developed by Francesco Cirillo in Berlin in the 1980s, for which people often used tomato-shaped timers. In ku, \"pomotolo\" was given as one of the translations of \"tomato\", presumably due to speakers misusing or misunderstanding the word.",
       "def": {
         "en": "effective, useful, give good results",
         "ru": "\u044d\u0444\u0444\u0435\u043a\u0442\u0438\u0432\u043d\u044b\u0439, \u043f\u043e\u043b\u0435\u0437\u043d\u044b\u0439, \u0434\u0430\u0432\u0430\u0442\u044c \u0445\u043e\u0440\u043e\u0448\u0438\u0439 \u0440\u0435\u0437\u0443\u043b\u044c\u0442\u0430\u0442",
@@ -4053,6 +4062,7 @@
       "etymology": "pas vrai \u2018not true\u2019",
       "creator": "jan Sonja",
       "ku_data": "fake\u00b2, pretend\u00b2, trick\u00b2, false\u00b2, myth\u00b2, lie (saying untruth)\u00b2, fraud\u00b9, trap\u00b9, illusion\u00b9, fantasy\u00b9",
+      "see_also": "ike",
       "def": {
         "en": "unreal, false, untrue; pretend; deceive, trick",
         "ru": "\u043d\u0435\u043d\u0430\u0441\u0442\u043e\u044f\u0449\u0438\u0439, \u043b\u043e\u0436\u043d\u044b\u0439, \u043d\u0435\u0432\u0435\u0440\u043d\u044b\u0439; \u043f\u0440\u0438\u0442\u0432\u043e\u0440\u044f\u0442\u044c\u0441\u044f; \u043e\u0431\u043c\u0430\u043d, \u0443\u043b\u043e\u0432\u043a\u0430",
@@ -4076,6 +4086,7 @@
       "etymology": "Mandarin \u6a38 p\u01d4 \u2018unworked wood; sincere, honest; inherent quality; simple\u2019 or English book",
       "creator": "jan Sonja",
       "ku_data": "interact with Toki Pona: The Language of Good\u2075, officially\u00b2",
+      "commentary": "For ways to buy a copy of the book, visit the official Toki Pona website.",
       "def": {
         "en": "interacting with the official Toki Pona book",
         "ru": "\u0432\u0437\u0430\u0438\u043c\u043e\u0434\u0435\u0439\u0441\u0442\u0432\u0443\u044e\u0449\u0438\u0439 \u0441 \u043e\u0444\u0438\u0446\u0438\u0430\u043b\u044c\u043d\u043e\u0439 \u043a\u043d\u0438\u0433\u043e\u0439 \u0442\u043e\u043a\u0438 \u043f\u043e\u043d\u044b",
@@ -4163,7 +4174,7 @@
       "etymology": "Japanese \u4e09 san \u2018three\u2019 & Cantonese \u4e09/\u53c1 s\u0101am",
       "creator": "jan Lenoka, jan Wesu",
       "ku_data": "three\u2070",
-      "see_also": "tuli",
+      "see_also": "mute, tuli",
       "tags": "nimi nanpa",
       "def": {
         "en": "three",
@@ -4497,7 +4508,7 @@
       "etymology": "shoto \u2018left side\u2019",
       "creator": "jan inwin",
       "ku_data": "left (not right)\u2070",
-      "see_also": "teje",
+      "see_also": "poka. teje",
       "def": {
         "en": "left, left side, port side",
         "ru": "\u043b\u0435\u0432\u044b\u0439, \u0441\u043b\u0435\u0432\u0430",
@@ -4715,6 +4726,7 @@
       "etymology": "\ud0c1 tag \u2018(onomatopoeia) the sound of two magnets hitting each other\u2019",
       "creator": "jan Kapilu, jan Lewiku",
       "ku_data": "bond\u2070, attract\u2070, attach\u2070, clip\u2070",
+      "see_also": "wan, wile",
       "def": {
         "en": "sticky, magnetic; bond, attract, attach, clip",
         "ru": "\u043b\u0438\u043f\u043a\u0438\u0439, \u043c\u0430\u0433\u043d\u0438\u0442\u043d\u044b\u0439; \u0441\u0432\u044f\u0437\u044b\u0432\u0430\u0442\u044c, \u043f\u0440\u0438\u0442\u044f\u0433\u0438\u0432\u0430\u0442\u044c, \u043f\u0440\u0438\u043a\u0440\u0435\u043f\u043b\u044f\u0442\u044c, \u0437\u0430\u0436\u0438\u043c\u0430\u0442\u044c",
@@ -4828,7 +4840,7 @@
       "etymology": "de (/de\u02d0/) \u2018right\u2019",
       "creator": "jan Olipija, jan inwin",
       "ku_data": "right (not left)\u2070",
-      "see_also": "soto",
+      "see_also": "poka, soto",
       "def": {
         "en": "right, right side, starboard",
         "ru": "\u043f\u0440\u0430\u0432\u044b\u0439, \u0441\u043f\u0440\u0430\u0432\u0430",
@@ -5011,6 +5023,7 @@
       "creator": "jan inwin",
       "ku_data": "non-binary person\u00b3, transgender person\u00b3, gender non-conforming person\u00b3, intersex person\u00b2",
       "see_also": "meli, mije, kule",
+      "commentary": "Widely regarded in the community to be a crucial addition to toki pona. Occasionally referred to as an \"honorary pu word\" to highlight its status, or equated to a pu word outright.",
       "def": {
         "en": "non-binary, gender-non-conforming | ALT trans, non-cisgender",
         "ru": "\u043d\u0435\u0431\u0438\u043d\u0430\u0440\u043d\u044b\u0439, \u0433\u0435\u043d\u0434\u0435\u0440\u043d\u043e-\u043d\u0435\u043a\u043e\u043d\u0444\u043e\u0440\u043c\u043d\u044b\u0439 | ALT \u0442\u0440\u0430\u043d\u0441\u0433\u0435\u043d\u0434\u0435\u0440\u043d\u044b\u0439, \u043d\u0435\u0446\u0438\u0441\u0433\u0435\u043d\u0434\u0435\u0440\u044b\u0439",
@@ -5159,6 +5172,7 @@
       "etymology": "uchawi \u2018witchcraft, sorcery\u2019",
       "creator": "jan Tumu",
       "ku_data": "magic\u2070",
+      "commentary": "Originally, usawi also included \"technology so complex it's impossible to tell apart from magic\" in its meaning, but this meaning has been deprecated by the creator.",
       "def": {
         "en": "magic, sorcery; enchant; magical, supernatural, occult, incomprehensible",
         "ru": "\u043c\u0430\u0433\u0438\u044f, \u043a\u043e\u043b\u0434\u043e\u0432\u0441\u0442\u0432\u043e; \u043e\u0447\u0430\u0440\u043e\u0432\u044b\u0432\u0430\u0442\u044c; \u043c\u0430\u0433\u0438\u0447\u0435\u0441\u043a\u0438\u0439, \u0441\u0432\u0435\u0440\u0445\u044a\u0435\u0441\u0442\u0435\u0441\u0442\u0432\u0435\u043d\u043d\u044b\u0439, \u043e\u043a\u043a\u0443\u043b\u044c\u0442\u043d\u044b\u0439, \u043d\u0435\u043f\u043e\u0441\u0442\u0438\u0436\u0438\u043c\u044b\u0439",
@@ -5250,6 +5264,7 @@
       "creator": "jan inwin",
       "ku_data": "context\u00b9, circumstance\u00b9, attention\u2070, theme\u2070, situation\u2070, background\u2070, emphasize\u2070, emphasis\u2070, topic\u2070, case\u2070, subject\u2070, premise\u2070",
       "see_also": "tenpo",
+      "commentary": "May be used as a preposition, e.g. \"lipu waleja toki pona = a book about toki pona\". However, this usage is very rare.",
       "def": {
         "en": "context, topic, salience, pertinent, topical, pertain to, be relevant",
         "ru": "\u043a\u043e\u043d\u0442\u0435\u043a\u0441\u0442, \u0442\u0435\u043c\u0430, \u0437\u043d\u0430\u0447\u0438\u043c\u043e\u0441\u0442\u044c, \u0443\u043c\u0435\u0441\u0442\u043d\u043e\u0441\u0442\u044c, \u0430\u043a\u0442\u0443\u0430\u043b\u044c\u043d\u043e\u0441\u0442\u044c, \u0438\u043c\u0435\u0442\u044c \u043e\u0442\u043d\u043e\u0448\u0435\u043d\u0438\u0435, \u0431\u044b\u0442\u044c \u0430\u043a\u0442\u0443\u0430\u043b\u044c\u043d\u044b\u043c",
@@ -5337,6 +5352,7 @@
       "etymology": "waso + soweli",
       "creator": "akesi kon Nalasuni, jan Atenaja",
       "see_also": "waso, soweli, sutopatikuna",
+      "commentary": "First used as the name for a species in a mod for Caves of Qud created by akesi kon Nalasuni. Later appeared in ku as exclusively part of a translation for \"penguin\".",
       "def": {
         "en": "animal with qualities of both waso & soweli",
         "ru": "\u0436\u0438\u0432\u043e\u0442\u043d\u043e\u0435 \u0441 \u043a\u0430\u0447\u0435\u0441\u0442\u0432\u0430\u043c\u0438 waso \u0438 soweli",
@@ -5510,6 +5526,7 @@
       "etymology": "\u00d8",
       "creator": "jan Sonja",
       "ku_data": "change a creative work and unintentionally make it worse\u00b3",
+      "commentary": "Coined as a random keystroke. It is presumed jan Sonja used \"y\" by mistake, but then make it part of the joke by adding \"nobody knows how to pronounce the y\".",
       "def": {
         "en": "to behave like George Lucas and revise your old creative works and actually make them worse",
         "ru": "\u0432\u0435\u0441\u0442\u0438 \u0441\u0435\u0431\u044f \u043a\u0430\u043a \u0414\u0436\u043e\u0440\u0434\u0436 \u041b\u0443\u043a\u0430\u0441 \u0438 \u043f\u0435\u0440\u0435\u0441\u043c\u0430\u0442\u0440\u0438\u0432\u0430\u0442\u044c \u0441\u0432\u043e\u0451 \u0441\u0442\u0430\u0440\u043e\u0435 \u0442\u0432\u043e\u0440\u0447\u0435\u0441\u0442\u0432\u043e \u0438 \u0442\u0435\u043c \u0441\u0430\u043c\u044b\u043c \u0443\u0445\u0443\u0434\u0448\u0430\u0442\u044c \u0435\u0433\u043e",
@@ -5532,6 +5549,7 @@
       "source_language": "Turkish",
       "etymology": "y\u0131ld\u0131z \u2018star\u2019",
       "creator": "inari",
+      "see_also": "mun",
       "commentary": "The \"y\" was a typo and was meant to be \"j\", but got kept in anyway; compare \"yupekosi\".",
       "def": {
         "en": "{on Discord} the star emoji used for the starboard (#pona-kulupu in ma pona)",
