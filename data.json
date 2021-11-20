@@ -1290,6 +1290,8 @@
     "kalamARR": {
       "word": "kalamARR",
       "sitelen_pona": "kalamARR",
+      "source_language": "multiple",
+      "etymology": "toki pona kalama and English arr \u2018(imitation of pirates)\u2019",
       "recognition": {
         "2020-04": "13"
       },
