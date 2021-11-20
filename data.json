@@ -102,6 +102,9 @@
       "etymology": "\u00d8",
       "creator": "jan Sonja",
       "ku_data": "ah\u2075, oh\u2075, ha\u2075, ooh\u2074, uh\u2074, gosh\u2074, whoa\u2074, wow\u2074, um\u00b3, huh\u00b3, uh-huh\u00b2, quite\u00b2, gasp\u00b2, really\u00b2, mm-hmm\u00b2, hmm\u00b2, sigh\u00b2",
+      "recognition": {
+        "2020-04": "99"
+      },
       "see_also": "kin",
       "commentary": "In common usage (both before and after pu), \"a\" and \"kin\" are separate words, each with their own meaning. In pu, they are considered synonyms.",
       "def": {
@@ -195,6 +198,9 @@
       "etymology": "\u00e0 la chasse \u2018hunting, (lit.) on the hunt\u2019",
       "creator": "jan Sonja",
       "ku_data": "hunt\u2075, hunting\u2075, search\u2074, pursuit\u2074, pursue\u2074, gather\u2074, finding\u00b3, seek\u00b3, explore\u00b3, chase\u00b2, locate\u00b2, try\u00b2, collect\u00b2, quest\u00b2, catch\u00b2",
+      "recognition": {
+        "2020-04": "97"
+      },
       "commentary": "The usage of \"alasa\" as a preverb meaning \"try to\" is more common than \"lukin\". In pu, only \"lukin\" has this meaning.",
       "def": {
         "en": "to hunt, forage, seek | ALT (pv.) try to, attempt",
@@ -266,6 +272,10 @@
       "source_language": "toki pona",
       "etymology": "*al (la reversed)",
       "creator": "jan Ote, \"thelegenderp\"; jan Tolin (separately)",
+      "recognition": {
+        "2021-10": "24",
+        "2020-04": "18"
+      },
       "see_also": "la",
       "def": {
         "en": "(between the main sentence and the context phrase)",
@@ -365,6 +375,10 @@
       "etymology": "h\u00e4pe\u00e4 \u2018shame, disgrace, dishonor\u2019",
       "creator": "jan Sonja",
       "ku_data": "shame\u00b2, embarrassed\u00b2, guilt\u00b9",
+      "recognition": {
+        "2021-10": "59",
+        "2020-04": "44"
+      },
       "commentary": "According to jan Sonja, \"apeja\" never appeared in any pre-pu toki pona dictionary made by her and never promoted by her, instead it may have been \"just an experimental idea in a forum post\".",
       "def": {
         "en": "guilt, shame, shun, stigma, disgrace; to accuse, to single out, to expose, to dishonor, to embarrass",
@@ -483,6 +497,9 @@
       "source_language": "toki pona",
       "etymology": "corruption of tenpo",
       "creator": "jan Seli",
+      "recognition": {
+        "2021-10": "28"
+      },
       "see_also": "lon, ma",
       "def": {
         "en": "(spatial equivalents of tenpo constructions) space, place, distance, size (length, width, height, depth, area, volume)",
@@ -502,6 +519,10 @@
       "etymology": "\u00e9pique \u2018epic\u2019",
       "creator": "jan Jan, jan Peche",
       "ku_data": "epic\u00b3, awesome\u00b2, amazing\u00b2",
+      "recognition": {
+        "2021-10": "58",
+        "2020-04": "29"
+      },
       "see_also": "pona",
       "def": {
         "en": "epic, cool, awesome, amazing",
@@ -531,6 +552,9 @@
       "etymology": "unknown",
       "creator": "jan Sonja",
       "ku_data": "trading\u2075, trade\u2075, shopping\u2075, deal\u2074, commerce\u2074, purchase\u2074, sales\u2074, buy\u2074, transaction\u2074, market\u2074, sale\u00b3, exchange\u00b3, sell\u00b3, retail\u00b3, business\u00b3, shop\u00b3, store\u00b2, commercial\u00b2, financial\u00b2, enterprise\u00b2, economy\u00b2, franchise\u00b2",
+      "recognition": {
+        "2020-04": "97"
+      },
       "commentary": "According to jan Sonja, \"esun was told [to her] by a taxi driver who spoke a language from the Akan family in West Africa\".",
       "def": {
         "en": "market, shop, fair, bazaar, business transaction",
@@ -551,6 +575,10 @@
       "etymology": "Turkish \u00f6te \u2018beyond, further, over\u2019 & Quenya ett\u00eb \u2018outside\u2019",
       "creator": "jan inwin",
       "ku_data": "exceed\u00b9, beyond\u00b9",
+      "recognition": {
+        "2021-10": "33",
+        "2020-04": "17"
+      },
       "see_also": "suli, sewi",
       "def": {
         "en": "beyond, exceeding, outside of, more than",
@@ -576,6 +604,10 @@
       "etymology": "Japanese \u5ca9 iwa \u2018rock, boulder\u2019 & toki pona kiwen",
       "creator": "jan ko",
       "ku_data": "stone\u2070",
+      "recognition": {
+        "2021-10": "28",
+        "2020-04": "11"
+      },
       "see_also": "kiwen",
       "def": {
         "en": "stone, gravel, rock, pebble, lava, magma",
@@ -669,6 +701,10 @@
       "source_language": "unknown",
       "etymology": "?",
       "creator": "jan Sonja",
+      "recognition": {
+        "2021-10": "21",
+        "2020-04": "15"
+      },
       "see_also": "ona",
       "commentary": "In a poll in 2002, \"iki\" was deemed too similar to \"ike\" and replaced by \"ona\".",
       "def": {
@@ -716,6 +752,9 @@
       "source_language": "Cantonese",
       "etymology": "\u4e8c/\u8cb3 (yih)",
       "creator": "jan Lenoka",
+      "recognition": {
+        "2020-04": "11"
+      },
       "see_also": "tu",
       "tags": "nimi nanpa",
       "def": {
@@ -764,6 +803,10 @@
       "source_language": "unknown",
       "etymology": "?",
       "creator": "jan Sonja",
+      "recognition": {
+        "2021-10": "19",
+        "2020-04": "13"
+      },
       "see_also": "ona",
       "commentary": "\"ipi\" was proposed as a replacement for \"iki\" in a poll in 2002. However, \"ipi\" failed to get enough votes. \"iki\" was instead replaced by \"ona\".",
       "def": {
@@ -794,6 +837,9 @@
       "etymology": "isipin \u2018to think\u2019",
       "creator": "jan ko",
       "ku_data": "think\u00b2, consciousness\u00b9, imagination\u00b9, theory\u00b9",
+      "recognition": {
+        "2021-10": "43"
+      },
       "see_also": "pilin, toki, insa",
       "def": {
         "en": "to think, to imagine, to believe, to remember, to recall; a thought, an idea",
@@ -818,6 +864,10 @@
       "source_language": "English",
       "etymology": "hit or miss",
       "creator": "jan Wesu OR jan inwin, jan Lemon",
+      "recognition": {
+        "2021-10": "19",
+        "2020-04": "17"
+      },
       "commentary": "Coined in reference to the song \u2018Mia Khalifa\u2019 by iLOVEFRiDay, where \"hit or miss\" was a prominent lyric. Sources disagree on who coined the word.",
       "def": {
         "en": "Schadenfreude, indirect insult or disrespect, shade",
@@ -865,6 +915,10 @@
       "source_language": "Japanese",
       "etymology": "\u767e hyaku \u2018100\u2019",
       "creator": "jan Wesu",
+      "recognition": {
+        "2021-10": "18",
+        "2020-04": "14"
+      },
       "def": {
         "en": "one hundred",
         "ru": "\u0441\u0442\u043e",
@@ -888,6 +942,10 @@
       "source_language": "Finnish",
       "etymology": " jalan \u2018afoot\u2019 (\u2190 jalka \u2018foot\u2019)",
       "creator": "jan Sonja",
+      "recognition": {
+        "2021-10": "20",
+        "2020-04": "13"
+      },
       "see_also": "noka",
       "commentary": "In a poll in 2002, \"jalan\" was proposed as a replacement for \"noka\". However, \"jalan\" failed to get enough votes. ",
       "def": {
@@ -913,6 +971,9 @@
       "source_language": "English",
       "etymology": "yummy",
       "creator": "unknown",
+      "recognition": {
+        "2021-10": "29"
+      },
       "see_also": "suwi",
       "def": {
         "en": "yummy; eliciting or stimulating a positive sensory experience",
@@ -963,6 +1024,10 @@
       "etymology": "yans\u0131tmak \u2018to reflect, reverberate\u2019",
       "creator": "jan Wesu, jan Maliku, jan Kisinja, jan inwin",
       "ku_data": "reflect\u00b3, opposite\u00b2, reverse\u00b2",
+      "recognition": {
+        "2021-10": "71",
+        "2020-04": "22"
+      },
       "def": {
         "en": "reflect, resound, mirror, be on the opposite/polar end of",
         "ru": "\u043e\u0442\u0440\u0430\u0436\u0430\u0442\u044c, \u043e\u0442\u0434\u0430\u0432\u0430\u0442\u044c\u0441\u044f \u044d\u0445\u043e\u043c, \u0431\u044b\u0442\u044c \u043d\u0430 \u043f\u0440\u043e\u0442\u0438\u0432\u043e\u043f\u043e\u043b\u043e\u0436\u043d\u043e\u043c \u043a\u043e\u043d\u0446\u0435",
@@ -985,6 +1050,9 @@
       "source_language": "Cantonese",
       "etymology": "\u4e00/\u58f9 (y\u0101t)",
       "creator": "jan Lenoka",
+      "recognition": {
+        "2020-04": "11"
+      },
       "see_also": "wan",
       "tags": "nimi nanpa",
       "def": {
@@ -1009,6 +1077,9 @@
       "source_language": "English",
       "etymology": "yay",
       "creator": "?",
+      "recognition": {
+        "2021-10": "20"
+      },
       "see_also": "a; wa",
       "def": {
         "en": "(indicating excitement)",
@@ -1090,6 +1161,9 @@
       "source_language": "a priori",
       "etymology": "\u00d8",
       "creator": "jan Sonja",
+      "recognition": {
+        "2021-10": "28"
+      },
       "def": {
         "en": "(word reserved for future use by Sonja Lang)",
         "ru": "(\u0441\u043b\u043e\u0432\u043e \u0437\u0430\u0440\u0435\u0437\u0435\u0440\u0432\u0438\u0440\u043e\u0432\u0430\u043d\u043e \u0434\u043b\u044f \u0431\u0443\u0434\u0443\u0449\u0435\u0433\u043e \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u043d\u0438\u044f \u0421\u043e\u043d\u0435\u0439 \u041b\u0430\u043d\u0433)",
@@ -1105,6 +1179,9 @@
       "source_language": "Japanese",
       "etymology": "\u5922 yume 'dream'",
       "creator": "jan Seli",
+      "recognition": {
+        "2021-10": "17"
+      },
       "see_also": "oni, sitelen, lape\u201a insa, powe",
       "commentary": "Experimental, to see how the meaning could be expanded, but never actually used. No set of meanings was ever settled on before stopping the experiment, but one potential meaning the creator particularly liked was \"fantasy\" or \"unreality\", without a negative connotation.",
       "def": {
@@ -1119,6 +1196,9 @@
       "source_language": "Cantonese",
       "etymology": "\u4e5d /\u7396 g\u00e1u",
       "creator": "jan Lenoka",
+      "recognition": {
+        "2020-04": "12"
+      },
       "tags": "nimi nanpa",
       "def": {
         "en": "the digit \u20189\u2019",
@@ -1205,6 +1285,10 @@
       "etymology": "kama pi lawa ala",
       "creator": "jan Wesu",
       "ku_data": "revolution\u2070",
+      "recognition": {
+        "2021-10": "29",
+        "2020-04": "21"
+      },
       "commentary": "The word is from a story called \"jan pi Kamalawala\". A character's name is described as \"nimi Jan pi Kama e Lawa Ala\", and a shortened version given as \"nimi Kamalawala\". jan Kipo is responsible for it becoming a word instead of just a name. ",
       "def": {
         "en": "anarchy, uprising, revolt, rebellion",
@@ -1230,6 +1314,10 @@
       "etymology": "Finnish kanssa \u2018with\u2019 or Esperanto kun \u2018with\u2019 (\u2190 Latin cum)",
       "creator": "jan Sonja",
       "ku_data": "alongside\u00b9, together\u00b9, with\u00b9, associated\u2070, involved\u2070, amid\u2070",
+      "recognition": {
+        "2021-10": "34",
+        "2020-04": "22"
+      },
       "see_also": "kepeken, poka",
       "def": {
         "en": "with, among, in the company of",
@@ -1254,6 +1342,10 @@
       "source_language": "multiple possibilities",
       "etymology": "Dutch kop \u2018head, cup\u2019 or Esperanto kapo \u2018head\u2019 (\u2190 Latin caput)",
       "creator": "jan Sonja",
+      "recognition": {
+        "2021-10": "20",
+        "2020-04": "13"
+      },
       "see_also": "nena",
       "def": {
         "en": "extrusion, protrusion, hill, mountain, button",
@@ -1279,6 +1371,10 @@
       "etymology": "Georgian \u10e7\u10d0\u10d5\u10d8\u10e1\u10e4\u10d4\u10e0\u10d8 q\u0307avisperi \u2018brown\u2019 or French/Spanish caf\u00e9 \u2018light brown\u2019 or Greek \u03ba\u03b1\u03c6\u03ad\u03c2 kaf\u00e9s",
       "creator": "jan Sonja",
       "ku_data": "brown\u00b2, grey\u2070",
+      "recognition": {
+        "2021-10": "45",
+        "2020-04": "29"
+      },
       "def": {
         "en": "brown, gray",
         "ru": "\u043a\u043e\u0440\u0438\u0447\u043d\u0435\u0432\u044b\u0439, \u0441\u0435\u0440\u044b\u0439",
@@ -1326,6 +1422,10 @@
       "etymology": "\u2019kay \u2190 okay",
       "creator": "jan Maliku, jan Kisinja",
       "ku_data": "alright\u2070",
+      "recognition": {
+        "2021-10": "23",
+        "2020-04": "18"
+      },
       "see_also": "oke, n",
       "def": {
         "en": "(acknowledgment or acceptance)",
@@ -1395,6 +1495,9 @@
       "etymology": "\u05e7\u05b6\u05e9\u05b6\u05c1\u05ea k\u00e9\u0161et \u2018rainbow, bow, arc\u2018; named for the Jewish LGBT organization Keshet",
       "creator": "jan Jan",
       "ku_data": "LGBTQ+\u2070",
+      "recognition": {
+        "2021-10": "25"
+      },
       "see_also": "kule",
       "def": {
         "en": "queer, LGBT+",
@@ -1412,6 +1515,9 @@
       "source_language": "French",
       "etymology": "qui \u2018who\u2019",
       "creator": "akesi kon Nalasuni, jan Atenaja",
+      "recognition": {
+        "2021-10": "23"
+      },
       "def": {
         "en": "(relative clause marker)",
         "ru": "(\u043f\u043e\u043a\u0430\u0437\u0430\u0442\u0435\u043b\u044c \u043e\u0442\u043d\u043e\u0441\u0438\u0442\u0435\u043b\u044c\u043d\u043e\u0433\u043e \u043f\u0440\u0435\u0434\u043b\u043e\u0436\u0435\u043d\u0438\u044f)",
@@ -1441,6 +1547,10 @@
       "etymology": "kierteish\u00e4nt\u00e4karhu \u2018kinkajou\u2019 \u2190 kierteis- \u2018spiral\u2019 + h\u00e4nt\u00e4 \u2018tail\u2019 + karhu \u2018bear\u2019",
       "creator": "jan Sonja",
       "ku_data": "procyonid\u00b3, Musteloidea\u00b2",
+      "recognition": {
+        "2021-10": "71",
+        "2020-04": "62"
+      },
       "commentary": "Coined as an April Fools joke in 2009.",
       "def": {
         "en": "any animal from the Procyonidae family, such as raccoons, coatis, kinkajous, olingos, ringtails and cacomistles | ALT any animal from the Musteloidea superfamily, including raccoons, weasels, otters, skunks, and red pandas",
@@ -1470,6 +1580,9 @@
       "etymology": "\u00d8",
       "creator": "jan Olipija, akesi kon Nalasuni",
       "ku_data": "spiky\u00b2, sharp\u00b9, angle\u2070, point\u2070",
+      "recognition": {
+        "2021-10": "41"
+      },
       "commentary": "The word is loaned from the 2001 Vilanyur S Ramachandran & Edward Hubbard version of Wolfgang K\u00f6hler's 1912 psycholinguistic experiment. The experiment studied sound symbolism on the words \"bouba\" and \"kiki\".",
       "def": {
         "en": "spiky, sharp, angle, point, triangular",
@@ -1520,6 +1633,10 @@
       "etymology": "-kin \u2018too, also, still\u2019",
       "creator": "jan Sonja",
       "ku_data": "also\u2074, too\u2074, indeed\u00b2, especially\u00b2",
+      "recognition": {
+        "2021-10": "97",
+        "2020-04": "91"
+      },
       "see_also": "a",
       "tags": "pre-pu ALT",
       "commentary": "In common usage (both before and after pu), \"a\" and \"kin\" are separate words, each with their own meaning. In pu, they are considered synonyms.",
@@ -1552,6 +1669,10 @@
       "etymology": "Cantonese \u5496\u5561\u8272 gaa\u00b3 fe\u00b9 sik\u00b9 or Mandarin \u5496\u5561\u8272 k\u0101f\u0113is\u00e8 \u2018brown, coffee (colour)\u2019",
       "creator": "jan Sonja",
       "ku_data": "split\u2074, division\u2074, slice\u2074, cut\u00b3, divide\u00b3, chop\u00b3, segment\u00b3, section\u00b3, portion\u00b2, piece\u00b2, part\u00b2, half\u00b2, rip\u00b2, clip\u00b2, separation\u00b2, chunk\u00b2, carve\u00b2, separate\u00b2, sector\u00b2, percentage\u00b2",
+      "recognition": {
+        "2021-10": "87",
+        "2020-04": "68"
+      },
       "see_also": "tu, wan, pakala, mute",
       "def": {
         "en": "split, cut, slice, sever; sharp",
@@ -1575,6 +1696,9 @@
       "source_language": "Russian",
       "etymology": "\u043a\u0438\u0301\u0441\u0430 k\u00edsa",
       "creator": "kala Asi",
+      "recognition": {
+        "2021-10": "24"
+      },
       "see_also": "soweli",
       "def": {
         "en": "cat",
@@ -1644,6 +1768,9 @@
       "etymology": "krokodilas \u2018[present of krokodili]\u2019 \u2190 krokodilo \u2018crocodile\u2019",
       "creator": "jan Sonja",
       "ku_data": "speak another language in a Toki Pona only environment\u00b3",
+      "recognition": {
+        "2021-10": "54"
+      },
       "commentary": "In Esperanto, \"krokodili\" means to speak among Esperantists in a language besides Esperanto, and is an established bit of Esperanto culture.",
       "def": {
         "en": "to speak a non-Toki Pona language in an environment where Toki Pona is more appropriate",
@@ -1688,6 +1815,9 @@
       "source_language": "multiple",
       "etymology": "English Conway & toki pona kon wile",
       "creator": "jan Emalan",
+      "recognition": {
+        "2021-10": "25"
+      },
       "commentary": "Conway refers to John Horton Conway, creator of the cellular automaton Game of Life.",
       "def": {
         "en": "animacy, life, autonomy; autonomous being, living thing, organism; alive, animate, dynamic; to animate, to bring to life",
@@ -1718,6 +1848,9 @@
       "source_language": "a priori",
       "etymology": "\u00d8",
       "creator": "jan Sonja",
+      "recognition": {
+        "2021-10": "85"
+      },
       "see_also": "pu",
       "commentary": "For ways to buy a copy of the book, visit the official Toki Pona website.",
       "def": {
@@ -1763,6 +1896,9 @@
       "source_language": "English",
       "etymology": "coolio",
       "creator": "jan pakala, kala pona Tonyu",
+      "recognition": {
+        "2021-10": "28"
+      },
       "see_also": "oke",
       "def": {
         "en": "[interjection] casual expression of appreciation or acknowledgement; cool, fine, okay",
@@ -1787,6 +1923,10 @@
       "source_language": "toki pona",
       "etymology": "kulupu",
       "creator": "jan Kiwa, jan inwin",
+      "recognition": {
+        "2021-10": "19",
+        "2020-04": "14"
+      },
       "see_also": "kulupu",
       "def": {
         "en": "(shortened variant of kulupu); six (particularly in senary base)",
@@ -1833,6 +1973,10 @@
       "etymology": "k.m.t.u \u2190 kalama musi tan uta",
       "creator": "jan Wesu, jan Maliku, jan inwin",
       "ku_data": "laughter\u00b9, chuckle\u00b9, laugh\u2070, comedy\u2070",
+      "recognition": {
+        "2021-10": "31",
+        "2020-04": "21"
+      },
       "def": {
         "en": "laughter, chuckle, laugh, comedy, humor",
         "ru": "\u0441\u043c\u0435\u0445, \u0441\u043c\u0435\u0448\u043e\u043a, \u0445\u043e\u0445\u043e\u0442, \u044e\u043c\u043e\u0440",
@@ -1900,6 +2044,10 @@
       "etymology": "\u03bb\u03b1\u03bc\u03b2\u03ac\u03bd\u03c9 lamv\u00e1no \u2018take, seize, grasp, receive\u2019",
       "creator": "jan Wesu, jan Maliku, jan inwin",
       "ku_data": "steal\u00b3, seize\u00b3, grab\u00b2",
+      "recognition": {
+        "2021-10": "71",
+        "2020-04": "28"
+      },
       "see_also": "jo, alasa",
       "def": {
         "en": "take, seize, catch, receive, get",
@@ -1993,6 +2141,10 @@
       "etymology": "English Lego (\u2190 Danish Lego \u2190 \u2018leg godt\u2019 \u2018play well\u2019) or Finnish lohko \u2018block, section\u2019",
       "creator": "jan Sonja",
       "ku_data": "square\u2074, cube\u00b3, block\u00b3, stair\u00b2, brick\u00b2, polyhedron\u00b2",
+      "recognition": {
+        "2021-10": "82",
+        "2020-04": "52"
+      },
       "def": {
         "en": "stairs, square, block, corner, cube",
         "ru": "\u043b\u0435\u0441\u0442\u043d\u0438\u0446\u0430, \u043a\u0432\u0430\u0434\u0440\u0430\u0442, \u0431\u043b\u043e\u043a, \u0443\u0433\u043e\u043b, \u043a\u0443\u0431",
@@ -2036,6 +2188,9 @@
       "source_language": "Cantonese",
       "etymology": "\u3007/\u96f6 (l\u00echng)",
       "creator": "jan Lenoka",
+      "recognition": {
+        "2020-04": "12"
+      },
       "see_also": "ala",
       "tags": "nimi nanpa",
       "def": {
@@ -2100,6 +2255,10 @@
       "etymology": "recueil \u2018collection, ensemble, anthology\u2019",
       "creator": "jan Kawa, jan inwin",
       "ku_data": "seven\u2070, gathering\u2070, collection\u2070",
+      "recognition": {
+        "2021-10": "25",
+        "2020-04": "13"
+      },
       "see_also": "kulupu, alasa",
       "tags": "nimi nanpa",
       "def": {
@@ -2169,6 +2328,10 @@
       "etymology": "rhyngrwyd \u2018internet\u2019 (\u2190 rhwng \u2018between\u2019 + rhwyd \u2018net\u2019)",
       "creator": "jan inwin",
       "ku_data": "network\u00b2, Internet\u00b9, virtual\u00b9, web\u2070, digital\u2070, connection\u2070, net\u2070",
+      "recognition": {
+        "2021-10": "55",
+        "2020-04": "31"
+      },
       "see_also": "len, ilo",
       "def": {
         "en": "network, internet, connection; weave, braid, interlace",
@@ -2235,6 +2398,9 @@
       "etymology": "luka & noka",
       "creator": "?",
       "ku_data": "limb\u00b9",
+      "recognition": {
+        "2021-10": "22"
+      },
       "see_also": "luka, noka",
       "commentary": "Coined in response to jan Sonja's survey, as a portmanteau, presumably as a joke.",
       "def": {
@@ -2253,6 +2419,10 @@
       "source_language": "toki pona",
       "etymology": "lukin & oko",
       "creator": "jan Kamila, soweli Wipa",
+      "recognition": {
+        "2021-10": "20",
+        "2020-04": "15"
+      },
       "see_also": "lukin, oko",
       "def": {
         "en": "{a compromise between lukin & oko}",
@@ -2276,6 +2446,9 @@
       "source_language": "Cantonese",
       "etymology": "\u516d /\u9678 (luhk)",
       "creator": "jan Lenoka",
+      "recognition": {
+        "2020-04": "12"
+      },
       "tags": "nimi nanpa",
       "def": {
         "en": "the digit \u20186\u2019",
@@ -2321,6 +2494,9 @@
       "source_language": "a priori",
       "etymology": "\u00d8",
       "creator": "jan Sonja",
+      "recognition": {
+        "2021-10": "29"
+      },
       "def": {
         "en": "(word reserved for future use by Sonja Lang)",
         "ru": "(\u0441\u043b\u043e\u0432\u043e \u0437\u0430\u0440\u0435\u0437\u0435\u0440\u0432\u0438\u0440\u043e\u0432\u0430\u043d\u043e \u0434\u043b\u044f \u0431\u0443\u0434\u0443\u0449\u0435\u0433\u043e \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u043d\u0438\u044f \u0421\u043e\u043d\u0435\u0439 \u041b\u0430\u043d\u0433)",
@@ -2364,6 +2540,9 @@
       "etymology": "lukim \u2018see, look at\u2019 \u2190 luk \u2018look\u2019 (\u2190 English look) + -im \u2018(transitive suffix)\u2019 (\u2190 English him, \u2019em)",
       "creator": "jan Sonja",
       "ku_data": "see\u2075, observe\u2075, look at\u2075, sight\u2075, gaze\u2075, observation\u2075, check\u2074, view\u2074, scan\u2074, watch\u2074, visual\u2074, examine\u00b3, inspection\u00b3, vision\u00b3, notice\u00b3, surveillance\u00b3, attention\u00b3, appearance\u00b3, examination\u00b3, detect\u00b3, assess\u00b2, stare\u00b2, perception\u00b2, perceive\u00b2, try\u00b2, glance\u00b2, impression\u00b2, reading\u00b2, regard (v)\u00b2, apparent\u00b2, visible\u00b2, read\u00b2, seek\u00b2, eye\u00b2, investigation\u00b2, monitor\u00b2, encounter\u00b2",
+      "recognition": {
+        "2020-04": "99"
+      },
       "see_also": "oko, alasa",
       "commentary": "In common usage (both before and after pu), \"lukin\" and \"oko\" are separate words, each with their own meaning. In pu, they are considered synonyms. Those who consider them synonyms typically don't use \"oko\" at all, preferring \"lukin\" in all circumstances. The usage of \"alasa\" as a preverb meaning \"try to\" is more common than \"lukin\". In pu, only \"lukin\" has this meaning.",
       "def": {
@@ -2425,6 +2604,10 @@
       "etymology": "maljuna \u2018old\u2019 \u2190 mal- \u2018(opposite of)\u2019 (\u2190 Latin malus \u2018bad\u2019) + juna \u2018young\u2019 (\u2190 German jung & French jeune)",
       "creator": "jan Sonja",
       "ku_data": "elderly\u00b2, old\u00b2, senior\u00b2, historical\u00b9, ancient\u00b9, elder\u00b9",
+      "recognition": {
+        "2021-10": "59",
+        "2020-04": "38"
+      },
       "see_also": "suli",
       "def": {
         "en": "old, aged, ancient",
@@ -2526,6 +2709,10 @@
       "source_language": "toki pona",
       "etymology": "meli pi olin meli",
       "creator": "jan inwin",
+      "recognition": {
+        "2021-10": "36",
+        "2020-04": "25"
+      },
       "see_also": "kule, meli",
       "def": {
         "en": "sapphic, lesbian, wlw",
@@ -2556,6 +2743,9 @@
       "etymology": "\u03bc\u03ad\u03c3\u03bf\u03c2 m\u00e9sos \u2018middle\u2019",
       "creator": "jan Olipija",
       "ku_data": "average\u00b3, moderate\u00b3, medium\u00b3, intermediate\u00b2, ordinary\u00b2",
+      "recognition": {
+        "2021-10": "71"
+      },
       "def": {
         "en": "middle, medium, mediocre; neither one not the other, neither fully is nor isn't",
         "ru": "\u0441\u0440\u0435\u0434\u043d\u0438\u0439, \u043f\u043e\u0441\u0440\u0435\u0434\u0441\u0442\u0432\u0435\u043d\u043d\u044b\u0439; \u043d\u0438 \u0442\u043e \u043d\u0438 \u0434\u0440\u0443\u0433\u043e\u0435",
@@ -2622,6 +2812,10 @@
       "source_language": "toki pona",
       "etymology": "mije pi olin mije",
       "creator": "jan inwin",
+      "recognition": {
+        "2021-10": "35",
+        "2020-04": "25"
+      },
       "see_also": "kule, mije",
       "def": {
         "en": "gay, mlm",
@@ -2647,6 +2841,9 @@
       "etymology": "\u043c\u0438\u0448\u043a\u0430 mishka, diminutive of \u043c\u0438\u0448\u0430 misha 'mouse'",
       "creator": "misa Ewis",
       "ku_data": "Glires or Eulipotyphla\u00b9, capybara\u2070",
+      "recognition": {
+        "2021-10": "35"
+      },
       "see_also": "soweli",
       "def": {
         "en": "Glires or Eulipotyphla; rat, mouse, squirrel, rabbit, rodent; {~ suli} capybara",
@@ -2677,6 +2874,10 @@
       "etymology": "mashkiki \u2018medicine, drug\u2019",
       "creator": "jan Sonja",
       "ku_data": "medication\u00b3, medicine\u00b3, cure\u00b2, pill\u00b2, medical\u00b2",
+      "recognition": {
+        "2021-10": "71",
+        "2020-04": "21"
+      },
       "def": {
         "en": "medicine, medical",
         "ru": "\u043c\u0435\u0434\u0438\u0446\u0438\u043d\u0430, \u043c\u0435\u0434\u0438\u0446\u0438\u043d\u0441\u043a\u0438\u0439",
@@ -2741,6 +2942,9 @@
       "source_language": "multiple",
       "etymology": "English mollusk & scientific nomenclature Mollusca \u2018mollusks\u2019 (\u2190 Latin mollusca \u2018a soft nut with a thin shell\u2019)",
       "creator": "jan soweli Apen",
+      "recognition": {
+        "2021-10": "25"
+      },
       "def": {
         "en": "a squishy animal, such as a snail, slug, or sponge",
         "ru": "\u043c\u044f\u0433\u043a\u043e\u0435 \u0436\u0438\u0432\u043e\u0442\u043d\u043e\u0435, \u043d\u0430\u043f\u0440\u0438\u043c\u0435\u0440 \u0443\u043b\u0438\u0442\u043a\u0430, \u0441\u043b\u0438\u0437\u043d\u044f\u043a \u0438\u043b\u0438 \u0433\u0443\u0431\u043a\u0430",
@@ -2783,6 +2987,10 @@
       "etymology": "\u30e2\u30f3\u30b9\u30bf\u30fc monsut\u0101 \u2018monster\u2019 \u2190 English monster",
       "creator": "jan Sonja",
       "ku_data": "scary\u00b3, fear\u00b3, monster\u00b3, horror\u00b3, scare\u00b2, disturbing\u00b2, terror\u00b2, beast\u00b2, afraid\u00b2, demon\u00b2",
+      "recognition": {
+        "2021-10": "88",
+        "2020-04": "74"
+      },
       "def": {
         "en": "fear, dread; monster, predator; threat, danger",
         "ru": "\u0441\u0442\u0440\u0430\u0445, \u0443\u0436\u0430\u0441; \u043c\u043e\u043d\u0441\u0442\u0440, \u0445\u0438\u0449\u043d\u0438\u043a; \u0443\u0433\u0440\u043e\u0437\u0430, \u043e\u043f\u0430\u0441\u043d\u043e\u0441\u0442\u044c",
@@ -2828,6 +3036,10 @@
       "etymology": "\u00d8",
       "creator": "jan Sonja",
       "ku_data": "pizza\u00b2",
+      "recognition": {
+        "2021-10": "39",
+        "2020-04": "32"
+      },
       "see_also": "pan",
       "def": {
         "en": "pizza",
@@ -2919,6 +3131,9 @@
       "etymology": "\u00d8",
       "creator": "kala kala",
       "ku_data": "um\u00b3, mmm\u00b2, hmm\u00b2",
+      "recognition": {
+        "2021-10": "60"
+      },
       "def": {
         "en": "(indicates thinking, pondering, recognition, agreement, or humming)",
         "ru": "(\u0443\u043a\u0430\u0437\u044b\u0432\u0430\u0435\u0442 \u043d\u0430 \u0440\u0430\u0437\u043c\u044b\u0448\u043b\u0435\u043d\u0438\u0435, \u043f\u0440\u0438\u0437\u043d\u0430\u043d\u0438\u0435, \u0441\u043e\u0433\u043b\u0430\u0441\u0438\u0435 \u0438\u043b\u0438 \u0431\u043e\u0440\u043c\u043e\u0442\u0430\u043d\u0438\u0435)",
@@ -2939,6 +3154,10 @@
       "etymology": "Hindi \u0928\u092e\u0915 namak \u2018salt\u2019 (\u2190 Persian \u0646\u0645\u06a9 namak \u2018salt\u2019) or Persian \u0646\u0645\u06a9 namak \u2018salt\u2019",
       "creator": "jan Sonja",
       "ku_data": "spice\u2075, extra\u2074, adornment\u00b3, additional\u00b3, extension\u00b2, bonus\u00b2, salt\u00b2, fancy\u00b2, special\u00b2",
+      "recognition": {
+        "2021-10": "90",
+        "2020-04": "74"
+      },
       "see_also": "sin",
       "tags": "pre-pu ALT",
       "commentary": "In common usage (both before and after pu), \"sin\" and \"namako\" are separate words, each with their own meaning. In pu, they are considered synonyms. Those who consider them synonyms typically don't use \"namako\" at all, preferring \"sin\" in all circumstances.",
@@ -3028,6 +3247,9 @@
       "source_language": "Vietnamese ",
       "etymology": "ng\u00e3 t\u01b0 \u2018crossroads, four-way intersection\u2019",
       "creator": "jan Lakuse",
+      "recognition": {
+        "2021-10": "25"
+      },
       "see_also": "wan",
       "def": {
         "en": "relationship, correlation, commonality; cross, knot, junction, intersection; to overlap, to fold; to overstep, to exceed to a point",
@@ -3052,6 +3274,10 @@
       "source_language": "Finnish",
       "etymology": "nelj\u00e4 \u2018four\u2019",
       "creator": "jan inwin",
+      "recognition": {
+        "2021-10": "23",
+        "2020-04": "13"
+      },
       "tags": "nimi nanpa",
       "def": {
         "en": "four",
@@ -3180,6 +3406,10 @@
       "source_language": "a priori",
       "etymology": "\u00d8",
       "creator": "jan Sonja",
+      "recognition": {
+        "2021-10": "28",
+        "2020-04": "14"
+      },
       "def": {
         "en": "(word reserved for future use by Sonja Lang)",
         "ru": "(\u0441\u043b\u043e\u0432\u043e \u0437\u0430\u0440\u0435\u0437\u0435\u0440\u0432\u0438\u0440\u043e\u0432\u0430\u043d\u043e \u0434\u043b\u044f \u0431\u0443\u0434\u0443\u0449\u0435\u0433\u043e \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u043d\u0438\u044f \u0421\u043e\u043d\u0435\u0439 \u041b\u0430\u043d\u0433)",
@@ -3218,6 +3448,9 @@
       "source_language": "Cantonese",
       "etymology": "\u4e94/\u4f0d (\u0144gh)",
       "creator": "jan Lenoka",
+      "recognition": {
+        "2020-04": "12"
+      },
       "tags": "nimi nanpa",
       "def": {
         "en": "the digit \u20185\u2019",
@@ -3241,6 +3474,9 @@
       "source_language": "English",
       "etymology": "newer",
       "creator": "jan pan",
+      "recognition": {
+        "2020-04": "13"
+      },
       "see_also": "sin",
       "def": {
         "en": "newer",
@@ -3288,6 +3524,10 @@
       "etymology": "okay",
       "creator": "?",
       "ku_data": "OK\u2070, alright\u2070, fine\u2070",
+      "recognition": {
+        "2021-10": "40",
+        "2020-04": "25"
+      },
       "see_also": "pona, ke, n",
       "def": {
         "en": "(acknowledgement or acceptance)",
@@ -3312,6 +3552,10 @@
       "source_language": "English",
       "etymology": "okay boomer",
       "creator": "jan Elijo",
+      "recognition": {
+        "2021-10": "24",
+        "2020-04": "21"
+      },
       "def": {
         "en": "boomer, Baby Boomer, inconsiderate elder; [interjection/insult]",
         "ru": "\u0431\u0443\u043c\u0435\u0440, \u0431\u044d\u0431\u0438-\u0431\u0443\u043c\u0435\u0440, \u043d\u0435\u0431\u043b\u0430\u0433\u043e\u0440\u0430\u0437\u0443\u043c\u043d\u044b\u0439 \u043f\u043e\u0436\u0438\u043b\u043e\u0439 \u0447\u0435\u043b\u043e\u0432\u0435\u043a; [\u043c\u0435\u0436\u0434\u043e\u043c\u0435\u0442\u0438\u0435/\u043e\u0441\u043a\u043e\u0440\u0431\u043b\u0435\u043d\u0438\u0435]",
@@ -3341,6 +3585,10 @@
       "etymology": "\u043eko \u043e\u043a\u043e \u2018eye\u2019",
       "creator": "jan Sonja",
       "ku_data": "eye\u2074, vision\u00b2",
+      "recognition": {
+        "2021-10": "88",
+        "2020-04": "77"
+      },
       "see_also": "lukin",
       "tags": "pre-pu ALT",
       "commentary": "In common usage (both before and after pu), \"lukin\" and \"oko\" are separate words, each with their own meaning. In pu, they are considered synonyms. Those who consider them synonyms typically don't use \"oko\" at all, preferring \"lukin\" in all circumstances.",
@@ -3388,6 +3636,9 @@
       "source_language": "toki pona",
       "etymology": "o.m.e.ka.po. \u2190 o moku e kala pona",
       "creator": "jan Maliku",
+      "recognition": {
+        "2021-10": "38"
+      },
       "commentary": "Coined by jan Maliku in reference to the message \"o moku e kala pona\", which jan Sonja wrote on their copy of Toki Pona: The Language of Good during a Texas meetup.",
       "def": {
         "en": "goodbye, farewell, see you later, eat a good fish",
@@ -3412,6 +3663,10 @@
       "source_language": "toki pona",
       "etymology": "o.m.e.m. \u2190 o moli e mi {cf. English kill me}",
       "creator": "jan inwin",
+      "recognition": {
+        "2021-10": "19",
+        "2020-04": "19"
+      },
       "def": {
         "en": "sarcasm, irony",
         "ru": "\u0441\u0430\u0440\u043a\u0430\u0437\u043c, \u0438\u0440\u043e\u043d\u0438\u044f",
@@ -3458,6 +3713,9 @@
       "source_language": "Greek",
       "etymology": "\u1f44\u03bd\u03b5\u03b9\u03c1\u03bf\u03b9 oneiroi \u2018(personifications of) dreams\u2019",
       "creator": "kulupu Eki",
+      "recognition": {
+        "2021-10": "26"
+      },
       "see_also": "insa, lape, musi, sitelen, jume",
       "commentary": "This word is deprecated by the creator; it is considered part of the \"toki oni\" tokiponido instead.",
       "def": {
@@ -3495,6 +3753,9 @@
       "source_language": "English",
       "etymology": "Orwell, for George Orwell, author of 1984",
       "creator": "kulupu kili",
+      "recognition": {
+        "2021-10": "20"
+      },
       "def": {
         "en": "Orwellian, totalitarian, of or relating to Big Brother (from 1984), antonym of kamalawala",
         "ru": "\u041e\u0440\u0443\u044d\u043b\u043b\u043e\u0432\u0441\u043a\u0438\u0439, \u0442\u043e\u0442\u0430\u043b\u0438\u0442\u0430\u0440\u043d\u044b\u0439, \u043e\u0442\u043d\u043e\u0441\u044f\u0449\u0438\u0439\u0441\u044f \u043a \u0438\u043b\u0438 \u0441\u0432\u044f\u0437\u0430\u043d\u043d\u044b\u0439 \u0441 \u0411\u043e\u043b\u044c\u0448\u0438\u043c \u0411\u0440\u0430\u0442\u043e\u043c (\u0438\u0437 1984), \u0430\u043d\u0442\u043e\u043d\u0438\u043c kamalawala",
@@ -3511,6 +3772,10 @@
       "source_language": "English",
       "etymology": "bruh",
       "creator": "jan Jan, jan Lija",
+      "recognition": {
+        "2021-10": "21",
+        "2020-04": "21"
+      },
       "def": {
         "en": "[interjection] bruh; expression of disbelief, exasperation, or excitement",
         "ru": "[\u043c\u0435\u0436\u0434\u043e\u043c\u0435\u0442\u0438\u0435] bruh; \u0432\u044b\u0440\u0430\u0436\u0435\u043d\u0438\u0435 \u043d\u0435\u0432\u0435\u0440\u0438\u044f, \u0440\u0430\u0437\u0434\u0440\u0430\u0436\u0435\u043d\u0438\u044f \u0438\u043b\u0438 \u0432\u043e\u043b\u043d\u0435\u043d\u0438\u044f",
@@ -3557,6 +3822,10 @@
       "etymology": "block",
       "creator": "jan Sonja",
       "ku_data": "prevent\u00b2, stop\u00b2, lock\u00b9, forbid\u00b9, wall\u00b9, interrupt\u00b9, intervention\u00b9, deny\u00b9, limitation\u00b9, cease\u00b9, restrict\u00b9",
+      "recognition": {
+        "2021-10": "48",
+        "2020-04": "34"
+      },
       "see_also": "pini",
       "def": {
         "en": "stop, cease, halt; to block the way, to interrupt; to prevent",
@@ -3628,6 +3897,9 @@
       "etymology": "Romance pan \u2018bread\u2019 & Japanese \u30d1\u30f3 pan \u2018bread\u2019 (\u2190 Portuguese p\u00e3o)",
       "creator": "jan Sonja",
       "ku_data": "bread\u2075, grain\u2075, wheat\u2074, rice\u00b3, corn\u00b2, carbohydrate\u00b2",
+      "recognition": {
+        "2020-04": "96"
+      },
       "def": {
         "en": "cereal, grain; barley, corn, oat, rice, wheat; bread, pasta",
         "ru": "\u043a\u0440\u0443\u043f\u0430, \u0437\u0435\u0440\u043d\u043e; \u044f\u0447\u043c\u0435\u043d\u044c, \u043a\u0443\u043a\u0443\u0440\u0443\u0437\u0430, \u043e\u0432\u0435\u0441, \u0440\u0438\u0441, \u043f\u0448\u0435\u043d\u0438\u0446\u0430; \u0445\u043b\u0435\u0431, \u043c\u0430\u043a\u0430\u0440\u043e\u043d\u044b",
@@ -3665,6 +3937,10 @@
       "source_language": "multiple possibilities",
       "etymology": "Acadian French facile \u2018easy\u2019 or Esperanto facila \u2018easy\u2019",
       "creator": "jan Sonja",
+      "recognition": {
+        "2021-10": "31",
+        "2020-04": "25"
+      },
       "see_also": "pona",
       "def": {
         "en": "good, easy; simple, relaxed, peaceful, uncomplicated",
@@ -3690,6 +3966,10 @@
       "etymology": "Serbo-Croatian brat \u0431\u0440\u0430\u0442 \u2018brother\u2019 or Tok Pisin brata \u2018sibling or cousin of the same gender\u2019 (\u2190 English brother)",
       "creator": "jan Sonja",
       "ku_data": "sibling\u2070, cousin\u2070",
+      "recognition": {
+        "2021-10": "36",
+        "2020-04": "28"
+      },
       "see_also": "sama",
       "def": {
         "en": "brother, sister, sibling",
@@ -3713,6 +3993,9 @@
       "source_language": "Cantonese",
       "etymology": "\u516b /\u634c (baat)",
       "creator": "jan Lenoka",
+      "recognition": {
+        "2020-04": "12"
+      },
       "tags": "nimi nanpa",
       "def": {
         "en": "the digit \u20188\u2019",
@@ -3736,6 +4019,9 @@
       "source_language": "Esperanto",
       "etymology": "verda",
       "creator": "jan Tesa",
+      "recognition": {
+        "2020-04": "13"
+      },
       "see_also": "laso",
       "def": {
         "en": "green, greenish; verdant, alive; ecofriendly",
@@ -3761,6 +4047,10 @@
       "etymology": "p.e.t.o. \u2190 pana e telo oko",
       "creator": "jan Kiwa, kulupu kasi",
       "ku_data": "cry\u2070",
+      "recognition": {
+        "2021-10": "28",
+        "2020-04": "20"
+      },
       "commentary": "This word is deprecated by the creator.",
       "def": {
         "en": "cry, tears; sad, sadness",
@@ -3866,6 +4156,9 @@
       "etymology": "\u00d8",
       "creator": "jan Likipi",
       "ku_data": "car\u2070",
+      "recognition": {
+        "2021-10": "20"
+      },
       "def": {
         "en": "car",
         "ru": "\u0430\u0432\u0442\u043e\u043c\u043e\u0431\u0438\u043b\u044c",
@@ -3926,6 +4219,10 @@
       "source_language": "toki pona",
       "etymology": "pipi {cf. English bug}",
       "creator": "jan Ejewa, jan inwin",
+      "recognition": {
+        "2021-10": "21",
+        "2020-04": "19"
+      },
       "def": {
         "en": "annoy, annoyance, bothersome, boring",
         "ru": "\u0440\u0430\u0437\u0434\u0440\u0430\u0436\u0430\u0442\u044c, \u0440\u0430\u0437\u0434\u0440\u0430\u0436\u0435\u043d\u0438\u0435, \u043d\u0430\u0434\u043e\u0435\u0434\u043b\u0438\u0432\u044b\u0439, \u0441\u043a\u0443\u0447\u043d\u044b\u0439",
@@ -3950,6 +4247,10 @@
       "etymology": "four",
       "creator": "jan Sonja",
       "ku_data": "four\u2070",
+      "recognition": {
+        "2021-10": "34",
+        "2020-04": "25"
+      },
       "tags": "nimi nanpa",
       "def": {
         "en": "four",
@@ -4018,6 +4319,10 @@
       "source_language": "English",
       "etymology": "bowling pin",
       "creator": "jan Kisinja",
+      "recognition": {
+        "2021-10": "21",
+        "2020-04": "14"
+      },
       "def": {
         "en": "bowling pin",
         "ru": "\u043a\u0435\u0433\u043b\u044f \u0434\u043b\u044f \u0431\u043e\u0443\u043b\u0438\u043d\u0433\u0430",
@@ -4042,6 +4347,10 @@
       "etymology": "pomodoro \u2018tomato\u2019",
       "creator": "jan Kawa",
       "ku_data": "tomato\u2070",
+      "recognition": {
+        "2021-10": "21",
+        "2020-04": "14"
+      },
       "commentary": "From the time management method developed by Francesco Cirillo in Berlin in the 1980s, for which people often used tomato-shaped timers. In ku, \"pomotolo\" was given as one of the translations of \"tomato\", presumably due to speakers misusing or misunderstanding the word.",
       "def": {
         "en": "effective, useful, give good results",
@@ -4088,6 +4397,10 @@
       "etymology": "pas vrai \u2018not true\u2019",
       "creator": "jan Sonja",
       "ku_data": "fake\u00b2, pretend\u00b2, trick\u00b2, false\u00b2, myth\u00b2, lie (saying untruth)\u00b2, fraud\u00b9, trap\u00b9, illusion\u00b9, fantasy\u00b9",
+      "recognition": {
+        "2021-10": "56",
+        "2020-04": "31"
+      },
       "see_also": "ike",
       "def": {
         "en": "unreal, false, untrue; pretend; deceive, trick",
@@ -4112,6 +4425,9 @@
       "etymology": "Mandarin \u6a38 p\u01d4 \u2018unworked wood; sincere, honest; inherent quality; simple\u2019 or English book",
       "creator": "jan Sonja",
       "ku_data": "interact with Toki Pona: The Language of Good\u2075, officially\u00b2",
+      "recognition": {
+        "2020-04": "82"
+      },
       "commentary": "For ways to buy a copy of the book, visit the official Toki Pona website.",
       "def": {
         "en": "interacting with the official Toki Pona book",
@@ -4129,6 +4445,9 @@
       "source_language": "Japanese",
       "etymology": "\u3075\u308f\u3075\u308f fuwafuwa \u2018onomatopoeia for fluffy things\u2019",
       "creator": "jan Seli",
+      "recognition": {
+        "2021-10": "31"
+      },
       "def": {
         "en": "fluffy, soft, squishy (something that can be compressed and will try to go back to its original shape)",
         "ru": "\u043f\u0443\u0448\u0438\u0441\u0442\u044b\u0439, \u043c\u044f\u0433\u043a\u0438\u0439, \u043f\u043b\u044e\u0448\u0435\u0432\u044b\u0439 (\u0442\u043e, \u0447\u0442\u043e \u043c\u043e\u0436\u043d\u043e \u0441\u0436\u0430\u0442\u044c \u0438 \u043a\u043e\u0442\u043e\u0440\u043e\u0435 \u043f\u043e\u043f\u044b\u0442\u0430\u0435\u0442\u0441\u044f \u0432\u0435\u0440\u043d\u0443\u0442\u044c\u0441\u044f \u043a \u0441\u0432\u043e\u0435\u0439 \u043f\u0435\u0440\u0432\u043e\u043d\u0430\u0447\u0430\u043b\u044c\u043d\u043e\u0439 \u0444\u043e\u0440\u043c\u0435)",
@@ -4175,6 +4494,10 @@
       "etymology": "jan Samu",
       "creator": "jan Sonja",
       "ku_data": "wanting to create new words\u00b2",
+      "recognition": {
+        "2021-10": "29",
+        "2020-04": "16"
+      },
       "commentary": "Coined in reference to jan Samu, a Facebook user who attempted to propose a new word.",
       "def": {
         "en": "wanting to create new words",
@@ -4200,6 +4523,10 @@
       "etymology": "Japanese \u4e09 san \u2018three\u2019 & Cantonese \u4e09/\u53c1 s\u0101am",
       "creator": "jan Lenoka, jan Wesu",
       "ku_data": "three\u2070",
+      "recognition": {
+        "2021-10": "33",
+        "2020-04": "15"
+      },
       "see_also": "mute, tuli",
       "tags": "nimi nanpa",
       "def": {
@@ -4224,6 +4551,9 @@
       "source_language": "Cantonese",
       "etymology": "\u56db/\u8086 (sei)",
       "creator": "jan Lenoka",
+      "recognition": {
+        "2020-04": "12"
+      },
       "tags": "nimi nanpa",
       "def": {
         "en": "the digit \u20184\u2019",
@@ -4375,6 +4705,10 @@
       "source_language": "English",
       "etymology": "sicko mode",
       "creator": "jan Lija, jan Wesu",
+      "recognition": {
+        "2021-10": "22",
+        "2020-04": "19"
+      },
       "see_also": "epiku",
       "commentary": "Coined in reference to the Travis Scott song \u2018Sicko Mode\u2019.",
       "def": {
@@ -4488,6 +4822,10 @@
       "etymology": "\u10e1\u10dd\u10d9\u10dd sok\u2019o \u2018mushroom\u2019",
       "creator": "jan inwin, kala kala/jan Salan",
       "ku_data": "mushroom\u00b3, fungus\u00b3",
+      "recognition": {
+        "2021-10": "77",
+        "2020-04": "17"
+      },
       "see_also": "kili",
       "def": {
         "en": "fungus, fungi",
@@ -4534,6 +4872,10 @@
       "etymology": "shoto \u2018left side\u2019",
       "creator": "jan inwin",
       "ku_data": "left (not right)\u2070",
+      "recognition": {
+        "2021-10": "34",
+        "2020-04": "22"
+      },
       "see_also": "poka. teje",
       "def": {
         "en": "left, left side, port side",
@@ -4578,6 +4920,10 @@
       "source_language": "a priori",
       "etymology": "\u00d8",
       "creator": "jan Sonja",
+      "recognition": {
+        "2021-10": "28",
+        "2020-04": "14"
+      },
       "def": {
         "en": "(word reserved for future use by Sonja Lang)",
         "ru": "(\u0441\u043b\u043e\u0432\u043e \u0437\u0430\u0440\u0435\u0437\u0435\u0440\u0432\u0438\u0440\u043e\u0432\u0430\u043d\u043e \u0434\u043b\u044f \u0431\u0443\u0434\u0443\u0449\u0435\u0433\u043e \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u043d\u0438\u044f \u0421\u043e\u043d\u0435\u0439 \u041b\u0430\u043d\u0433)",
@@ -4683,6 +5029,9 @@
       "etymology": "\u010dudnovati kljuna\u0161 \u2018platypus, lit. strange beak\u2019",
       "creator": "Alexandre Baudry",
       "ku_data": "platypus\u00b9",
+      "recognition": {
+        "2021-10": "33"
+      },
       "commentary": "Coined by Alexandre Baudry in 2009 in response to jan Sonja coining \"kijetesantakalu\" as part of 2009's April Fools.",
       "def": {
         "en": "platypus",
@@ -4727,6 +5076,9 @@
       "source_language": "Cantonese",
       "etymology": "\u4e03 /\u67d2 (ch\u0101t)",
       "creator": "jan Lenoka",
+      "recognition": {
+        "2020-04": "11"
+      },
       "tags": "nimi nanpa",
       "def": {
         "en": "the digit \u20187\u2019",
@@ -4752,6 +5104,9 @@
       "etymology": "\ud0c1 tag \u2018(onomatopoeia) the sound of two magnets hitting each other\u2019",
       "creator": "jan Kapilu, jan Lewiku",
       "ku_data": "bond\u2070, attract\u2070, attach\u2070, clip\u2070",
+      "recognition": {
+        "2021-10": "38"
+      },
       "see_also": "wan, wile",
       "def": {
         "en": "sticky, magnetic; bond, attract, attach, clip",
@@ -4841,6 +5196,10 @@
       "etymology": "\u3063\u3066 tte \u2018quotative\u2019",
       "creator": "kala kala/jan Salan, jan Lakuse",
       "ku_data": "(opening quotation particle)\u2070",
+      "recognition": {
+        "2021-10": "40",
+        "2020-04": "22"
+      },
       "see_also": "to",
       "def": {
         "en": "(particle introducing a quote)",
@@ -4866,6 +5225,9 @@
       "etymology": "de (/de\u02d0/) \u2018right\u2019",
       "creator": "jan Olipija, jan inwin",
       "ku_data": "right (not left)\u2070",
+      "recognition": {
+        "2021-10": "34"
+      },
       "see_also": "poka, soto",
       "def": {
         "en": "right, right side, starboard",
@@ -4911,6 +5273,10 @@
       "source_language": "toki pona",
       "etymology": "tenpo",
       "creator": "jan Kisinja",
+      "recognition": {
+        "2021-10": "19",
+        "2020-04": "14"
+      },
       "commentary": "Out of use.",
       "def": {
         "en": "(shortened variant of tenpo)",
@@ -4958,6 +5324,9 @@
       "etymology": "\u3068 to \u2018quotative\u2019",
       "creator": "kala kala/jan Salan, jan Lakuse",
       "ku_data": "(closing quotation particle)\u2070",
+      "recognition": {
+        "2021-10": "38"
+      },
       "see_also": "te",
       "def": {
         "en": "(particle closing a quote)",
@@ -4981,6 +5350,9 @@
       "source_language": "Tongan",
       "etymology": "tokanga \u2018attention, focus\u2019",
       "creator": "jan Wesu, jan inwin",
+      "recognition": {
+        "2021-10": "18"
+      },
       "def": {
         "en": "focus, attention, concentrate, resolution, fineness; focus on",
         "ru": "\u0444\u043e\u043a\u0443\u0441, \u0432\u043d\u0438\u043c\u0430\u043d\u0438\u0435, \u043a\u043e\u043d\u0446\u0435\u043d\u0442\u0440\u0430\u0446\u0438\u044f, \u0440\u0435\u0448\u0438\u043c\u043e\u0441\u0442\u044c, \u0441\u043e\u0432\u0435\u0440\u0448\u0435\u043d\u0441\u0442\u0432\u043e; \u0444\u043e\u043a\u0443\u0441\u0438\u0440\u043e\u0432\u0430\u0442\u044c\u0441\u044f \u043d\u0430",
@@ -5048,6 +5420,10 @@
       "etymology": "\u540c\u5fd7 t\u00f3ngzh\u00ec \u2018comrade (same will/purpose); LGBT+\u2019",
       "creator": "jan inwin",
       "ku_data": "non-binary person\u00b3, transgender person\u00b3, gender non-conforming person\u00b3, intersex person\u00b2",
+      "recognition": {
+        "2021-10": "89",
+        "2020-04": "57"
+      },
       "see_also": "meli, mije, kule",
       "commentary": "Widely regarded in the community to be a crucial addition to toki pona. Occasionally referred to as an \"honorary pu word\" to highlight its status, or equated to a pu word outright.",
       "def": {
@@ -5078,6 +5454,9 @@
       "etymology": "English two & Esperanto du",
       "creator": "jan Sonja",
       "ku_data": "two\u2075, pair\u2075, double\u2074, both\u2074, twice\u00b3, couple\u00b3, cut\u00b2, divide\u00b2",
+      "recognition": {
+        "2020-04": "99"
+      },
       "see_also": "kipisi",
       "tags": "nimi nanpa",
       "def": {
@@ -5096,6 +5475,10 @@
       "source_language": "English",
       "etymology": "three",
       "creator": "jan Sonja",
+      "recognition": {
+        "2021-10": "31",
+        "2020-04": "26"
+      },
       "see_also": "san",
       "tags": "nimi nanpa",
       "def": {
@@ -5120,6 +5503,9 @@
       "source_language": "a priori",
       "etymology": "\u00d8",
       "creator": "jan Sonja",
+      "recognition": {
+        "2021-10": "28"
+      },
       "def": {
         "en": "(word reserved for future use by Sonja Lang)",
         "ru": "(\u0441\u043b\u043e\u0432\u043e \u0437\u0430\u0440\u0435\u0437\u0435\u0440\u0432\u0438\u0440\u043e\u0432\u0430\u043d\u043e \u0434\u043b\u044f \u0431\u0443\u0434\u0443\u0449\u0435\u0433\u043e \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u043d\u0438\u044f \u0421\u043e\u043d\u0435\u0439 \u041b\u0430\u043d\u0433)",
@@ -5136,6 +5522,9 @@
       "source_language": "Iqglic",
       "etymology": "Umeyz \u2018to amaze (someone); surprise; impress\u2019",
       "creator": "jan Wija",
+      "recognition": {
+        "2021-10": "23"
+      },
       "def": {
         "en": "amaze people by being on the top of the leaderboard of a toki pona game",
         "ru": "\u0438\u0437\u0443\u043c\u043b\u044f\u0442\u044c \u043b\u044e\u0434\u0435\u0439, \u043b\u0438\u0434\u0438\u0440\u0443\u044f \u0432 \u0441\u043f\u0438\u0441\u043a\u0435 \u0438\u0433\u0440\u043e\u043a\u043e\u0432 \u0432 \u0438\u0433\u0440\u0435 \u043d\u0430 \u0442\u043e\u043a\u0438 \u043f\u043e\u043d\u0435",
@@ -5174,6 +5563,9 @@
       "etymology": "ungu \u2018purple\u2019",
       "creator": "jan Sonja",
       "ku_data": "purple\u00b2",
+      "recognition": {
+        "2021-10": "43"
+      },
       "def": {
         "en": "purple",
         "ru": "\u0444\u0438\u043e\u043b\u0435\u0442\u043e\u0432\u044b\u0439",
@@ -5198,6 +5590,9 @@
       "etymology": "uchawi \u2018witchcraft, sorcery\u2019",
       "creator": "jan Tumu",
       "ku_data": "magic\u2070",
+      "recognition": {
+        "2021-10": "41"
+      },
       "commentary": "Originally, usawi also included \"technology so complex it's impossible to tell apart from magic\" in its meaning, but this meaning has been deprecated by the creator.",
       "def": {
         "en": "magic, sorcery; enchant; magical, supernatural, occult, incomprehensible",
@@ -5265,6 +5660,9 @@
       "etymology": "\u00d8",
       "creator": "mama mama pi jan Lakuse",
       "ku_data": "whoa\u00b2, wow\u00b9",
+      "recognition": {
+        "2021-10": "39"
+      },
       "def": {
         "en": "[interjection] indicating awe or amazement",
         "ru": "[\u043c\u0435\u0436\u0434\u043e\u043c\u0435\u0442\u0438\u0435] \u043e\u0431\u043e\u0437\u043d\u0430\u0447\u0430\u0435\u0442 \u0442\u0440\u0435\u043f\u0435\u0442 \u0438\u043b\u0438 \u0438\u0437\u0443\u043c\u043b\u0435\u043d\u0438\u0435",
@@ -5289,6 +5687,10 @@
       "etymology": "valdea \u2018of moment, important\u2019 \u2190 valda \u2018worth, worthy, dear\u2019",
       "creator": "jan inwin",
       "ku_data": "context\u00b9, circumstance\u00b9, attention\u2070, theme\u2070, situation\u2070, background\u2070, emphasize\u2070, emphasis\u2070, topic\u2070, case\u2070, subject\u2070, premise\u2070",
+      "recognition": {
+        "2021-10": "34",
+        "2020-04": "19"
+      },
       "see_also": "tenpo",
       "commentary": "May be used as a preposition, e.g. \"lipu waleja toki pona = a book about toki pona\". However, this usage is very rare.",
       "def": {
@@ -5377,6 +5779,9 @@
       "source_language": "toki pona",
       "etymology": "waso + soweli",
       "creator": "akesi kon Nalasuni, jan Atenaja",
+      "recognition": {
+        "2021-10": "22"
+      },
       "see_also": "waso, soweli, sutopatikuna",
       "commentary": "First used as the name for a species in a mod for Caves of Qud created by akesi kon Nalasuni. Later appeared in ku as exclusively part of a translation for \"penguin\".",
       "def": {
@@ -5415,6 +5820,10 @@
       "source_language": "toki pona",
       "etymology": "wuwojiti",
       "creator": "jan Tolin",
+      "recognition": {
+        "2021-10": "24",
+        "2020-04": "18"
+      },
       "commentary": "Coined in reference to wuwojiti, a sequence of all phonotactically unviable CV syllables in toki pona.",
       "def": {
         "en": "something that appears to break the rules but doesn't; faux edginess, provocation",
@@ -5439,6 +5848,9 @@
       "source_language": "Spanish",
       "etymology": "g\u00fcey \u2018man\u2019 {cf. English man (sentence tag)}",
       "creator": "jan inwin",
+      "recognition": {
+        "2021-10": "19"
+      },
       "commentary": "Out of use.",
       "def": {
         "en": "(acts as a transition from one complete sentence to another)",
@@ -5484,6 +5896,9 @@
       "source_language": "toki pona",
       "etymology": "weka kama",
       "creator": "jan ko",
+      "recognition": {
+        "2021-10": "25"
+      },
       "def": {
         "en": "leave and come back, be temporarily absent with the expectation of returning",
         "ru": "\u0443\u0439\u0442\u0438 \u0438 \u0432\u0435\u0440\u043d\u0443\u0442\u044c\u0441\u044f, \u0432\u0440\u0435\u043c\u0435\u043d\u043d\u043e \u043e\u0442\u0441\u0443\u0442\u0441\u0442\u0432\u043e\u0432\u0430\u0442\u044c \u0441 \u043e\u0436\u0438\u0434\u0430\u043d\u0438\u0435\u043c \u0432\u043e\u0437\u0432\u0440\u0430\u0449\u0435\u043d\u0438\u044f",
@@ -5506,6 +5921,9 @@
       "source_language": "English",
       "etymology": "we",
       "creator": "jan inwin",
+      "recognition": {
+        "2020-04": "14"
+      },
       "see_also": "mi",
       "def": {
         "en": "we (excluding you, i.e. 1st person exclusive)",
@@ -5552,6 +5970,10 @@
       "etymology": "\u00d8",
       "creator": "jan Sonja",
       "ku_data": "change a creative work and unintentionally make it worse\u00b3",
+      "recognition": {
+        "2021-10": "40",
+        "2020-04": "27"
+      },
       "commentary": "Coined as a random keystroke. It is presumed jan Sonja used \"y\" by mistake, but then make it part of the joke by adding \"nobody knows how to pronounce the y\".",
       "def": {
         "en": "to behave like George Lucas and revise your old creative works and actually make them worse",
