@@ -1031,6 +1031,8 @@
     },
     "jans": {
       "word": "jans",
+      "coined_era": "post-pu",
+      "book": "none",
       "source_language": "multiple",
       "etymology": "toki pona jan and English -/z/ \u2018[plural]\u2019",
       "recognition": {
@@ -1290,6 +1292,9 @@
     "kalamARR": {
       "word": "kalamARR",
       "sitelen_pona": "kalamARR",
+      "coined_year": "2021",
+      "coined_era": "post-pu",
+      "book": "ku lili",
       "source_language": "multiple",
       "etymology": "toki pona kalama and English arr \u2018(imitation of pirates)\u2019",
       "recognition": {
@@ -1518,6 +1523,7 @@
       "etymology": "gebruiken \u2018to use\u2019",
       "creator": "jan Sonja",
       "ku_data": "use\u2075, utilize\u2074, via\u00b3, employ\u00b3, used\u00b2, operate\u00b2, interact\u00b2, equip\u00b2",
+      "commentary": "Whether \"kepeken\" should be used with or without \"e\" in a predicative position (meaning \"to use\") remains controversial.",
       "def": {
         "en": "to use, with, by means of",
         "ru": "\u0438\u0441\u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u044c, \u0441 \u043f\u043e\u043c\u043e\u0449\u044c\u044e",
@@ -4887,6 +4893,9 @@
     "slape": {
       "word": "slape",
       "sitelen_pona": "slape",
+      "coined_year": "2017",
+      "coined_era": "post-pu",
+      "book": "none",
       "source_language": "multiple",
       "etymology": "toki pona lape and English sleep",
       "recognition": {
