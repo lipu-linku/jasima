@@ -33,7 +33,7 @@
       "name_endonym": "Espa\u00f1ol",
       "name_english": "Spanish",
       "name_toki_pona": "toki Epanja",
-      "completeness_percent": "39"
+      "completeness_percent": "46"
     },
     "hi": {
       "id_long": "hindi",
@@ -274,6 +274,7 @@
         "isv_c": "[\u0430\u043b\u0442\u0435\u0440\u043d\u0430\u0442\u0438\u0432\u043d\u0430 \u0444\u043e\u0440\u043c\u0430 ale]",
         "eo": "[alternativa formo de la vorto ale]",
         "de": "[alternative Form von ale]",
+        "es": "[forma alternativa de ale]",
         "ceb_l": "[pamuli sa ale]",
         "la": "[f\u014drma c\u014dgn\u014dmin\u0101ta verb\u012b \"ale\"]"
       }
@@ -462,7 +463,8 @@
         "isv_l": "(pr\u011bd pr\u011bmym objektom (dopolnjenjem))",
         "isv_c": "(\u043f\u0440\u0454\u0434 \u043f\u0440\u0454\u043c\u044b\u043c \u043e\u0431\u0458\u0435\u043a\u0442\u043e\u043c (\u0434\u043e\u043f\u043e\u043b\u045a\u0435\u045a\u0435\u043c))",
         "eo": "(akuzativa markilo anta\u016d la rekta objekto)",
-        "de": "(vor dem direkten Objekt)"
+        "de": "(vor dem direkten Objekt)",
+        "es": "[antes del objeto directo]"
       }
     },
     "eki": {
@@ -1026,7 +1028,8 @@
         "isv_l": "\u010dlov\u011bk, osoba, n\u011bkto",
         "isv_c": "\u0447\u043b\u043e\u0432\u0454\u043a, \u043e\u0441\u043e\u0431\u0430, \u043d\u0454\u043a\u0442\u043e",
         "eo": "homo, persono, iu",
-        "de": "Mensch, Person, jemand"
+        "de": "Mensch, Person, jemand",
+        "es": "[ser humano, persona, alguien]"
       }
     },
     "jans": {
@@ -1139,7 +1142,8 @@
         "isv_l": "\u017eolty, shodny do \u017eoltogo",
         "isv_c": "\u0436\u043e\u043b\u0442\u044b, \u0441\u0445\u043e\u0434\u043d\u044b \u0434\u043e \u0436\u043e\u043b\u0442\u043e\u0433\u043e",
         "eo": "flava, flaveca",
-        "de": "gelb"
+        "de": "gelb",
+        "es": "amarillo"
       }
     },
     "jo": {
@@ -1216,7 +1220,8 @@
       "commentary": "Experimental, to see how the meaning could be expanded, but never actually used. No set of meanings was ever settled on before stopping the experiment, but one potential meaning the creator particularly liked was \"fantasy\" or \"unreality\", without a negative connotation.",
       "def": {
         "en": "dream",
-        "ru": "\u0441\u043e\u043d"
+        "ru": "\u0441\u043e\u043d",
+        "es": "sue\u00f1o"
       }
     },
     "kajo": {
@@ -1506,7 +1511,8 @@
         "en": "to be able to, be allowed to, can, may; possible",
         "ru": "\u0438\u043c\u0435\u0442\u044c \u0432\u043e\u0437\u043c\u043e\u0436\u043d\u043e\u0441\u0442\u044c, \u043c\u043e\u0447\u044c, \u0443\u043c\u0435\u0442\u044c; \u0432\u043e\u0437\u043c\u043e\u0436\u043d\u044b\u0439",
         "eo": "povi, rajti; ebla",
-        "de": "k\u00f6nnen, zu etw. imstande sein, d\u00fcrfen; m\u00f6glich"
+        "de": "k\u00f6nnen, zu etw. imstande sein, d\u00fcrfen; m\u00f6glich",
+        "es": "ser capaz de, ser permitido, poder, posible"
       }
     },
     "kepeken": {
@@ -2129,7 +2135,8 @@
         "en": "sleeping, resting",
         "ru": "\u0441\u043f\u044f\u0449\u0438\u0439, \u043e\u0442\u0434\u044b\u0445\u0430\u044e\u0449\u0438\u0439",
         "eo": "dormanta, ripozanta",
-        "de": "schlafen, (aus)ruhen"
+        "de": "schlafen, (aus)ruhen",
+        "es": "dormido, descansando"
       }
     },
     "laso": {
@@ -2150,7 +2157,8 @@
         "en": "blue, green",
         "ru": "\u0441\u0438\u043d\u0438\u0439, \u0433\u043e\u043b\u0443\u0431\u043e\u0439, \u0437\u0435\u043b\u0451\u043d\u044b\u0439",
         "eo": "blua, verda",
-        "de": "blau, gr\u00fcn, t\u00fcrkis"
+        "de": "blau, gr\u00fcn, t\u00fcrkis",
+        "es": "azul, verde"
       }
     },
     "lawa": {
@@ -2434,7 +2442,8 @@
         "en": "red, reddish",
         "ru": "\u043a\u0440\u0430\u0441\u043d\u044b\u0439, \u043a\u0440\u0430\u0441\u043d\u043e\u0432\u0430\u0442\u044b\u0439",
         "eo": "ru\u011da, ru\u011deca",
-        "de": "rot"
+        "de": "rot",
+        "es": "rojo"
       }
     },
     "loka": {
@@ -2843,7 +2852,8 @@
         "en": "I, me, we, us",
         "ru": "\u044f, \u043c\u0435\u043d\u044f, \u043c\u044b, \u043d\u0430\u0441",
         "eo": "mi, ni",
-        "de": "ich, mein, wir, unser"
+        "de": "ich, mein, wir, unser",
+        "es": "yo, me, nosotros, nos"
       }
     },
     "mije": {
@@ -3413,7 +3423,8 @@
         "en": "that, this",
         "ru": "\u0442\u043e\u0442, \u044d\u0442\u043e\u0442",
         "eo": "(\u0109i) tio, (\u0109i) tiu",
-        "de": "dies, das, jenes"
+        "de": "dies, das, jenes",
+        "es": "eso, esto, aquel"
       }
     },
     "nimi": {
@@ -3450,7 +3461,8 @@
       "def": {
         "en": "meow, feline sound",
         "ru": "\u043c\u044f\u0443, \u043a\u043e\u0448\u0430\u0447\u0438\u0439 \u0437\u0432\u0443\u043a",
-        "eo": "mia\u016d, kata sono"
+        "eo": "mia\u016d, kata sono",
+        "es": "miau, maullido, sonido felino"
       }
     },
     "noka": {
@@ -3590,7 +3602,8 @@
         "en": "hey! O! (vocative, imperative, or optative)",
         "ru": "\u044d\u0439! (\u0437\u0432\u0430\u0442\u0435\u043b\u044c\u043d\u044b\u0439, \u043f\u043e\u0432\u0435\u043b\u0438\u0442\u0435\u043b\u044c\u043d\u044b\u0439 \u0438\u043b\u0438 \u0436\u0435\u043b\u0430\u0442\u0435\u043b\u044c\u043d\u044b\u0439)",
         "eo": "he! (vokativo, imperativo, a\u016d volitivo)",
-        "de": "He! Hey! O! (Anrede, Befehl oder Wunsch)"
+        "de": "He! Hey! O! (Anrede, Befehl oder Wunsch)",
+        "es": "\u00a1oiga! (vocativo, imperativo u optativo)"
       }
     },
     "oke": {
@@ -4286,7 +4299,8 @@
         "en": "bug, insect, ant, spider",
         "ru": "\u043d\u0430\u0441\u0435\u043a\u043e\u043c\u043e\u0435, \u0436\u0443\u043a, \u043c\u0443\u0440\u0430\u0432\u0435\u0439, \u043f\u0430\u0443\u043a",
         "eo": "artropodo, insekto, formiko, araneo, eta besto",
-        "de": "Krabbeltier, Insekt, Ameise, Spinne"
+        "de": "Krabbeltier, Insekt, Ameise, Spinne",
+        "es": "bicho, insecto, hormiga, ara\u00f1a"
       }
     },
     "pipo": {
@@ -4709,7 +4723,8 @@
         "en": "what? which?",
         "ru": "\u043a\u0430\u043a\u043e\u0439? \u043a\u043e\u0442\u043e\u0440\u044b\u0439?",
         "eo": "kio? kiu?",
-        "de": "was? welche?"
+        "de": "was? welche?",
+        "es": "\u00bfqu\u00e9? \u00bfcu\u00e1l?"
       }
     },
     "sewi": {
@@ -4824,7 +4839,8 @@
         "en": "new, fresh; additional, another, extra",
         "ru": "\u043d\u043e\u0432\u044b\u0439, \u0441\u0432\u0435\u0436\u0438\u0439; \u0434\u043e\u043f\u043e\u043b\u043d\u0438\u0442\u0435\u043b\u044c\u043d\u044b\u0439, \u0434\u043e\u0431\u0430\u0432\u043e\u0447\u043d\u044b\u0439",
         "eo": "nova, fre\u015da; plia, aldona, kroma",
-        "de": "neu, frisch; zus\u00e4tzlich, weitere, extra"
+        "de": "neu, frisch; zus\u00e4tzlich, weitere, extra",
+        "es": "nuevo, fresco; adicional, m\u00e1s, extra"
       }
     },
     "sina": {
@@ -4903,7 +4919,8 @@
       },
       "def": {
         "en": "[humorous synonym of lape]",
-        "ru": "[humorous synonym of lape]"
+        "ru": "[humorous synonym of lape]",
+        "es": "[sin\u00f3nimo humor\u00edstico de lape]"
       }
     },
     "soko": {
@@ -6133,7 +6150,8 @@
       "def": {
         "en": "{on Discord} the star emoji used for the starboard (#pona-kulupu in ma pona)",
         "ru": "{\u0432 \u0414\u0438\u0441\u043a\u043e\u0440\u0434\u0435} \u044d\u043c\u043e\u0434\u0437\u0438 \u0437\u0432\u0451\u0437\u0434\u043e\u0447\u043a\u0438, \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u0443\u0435\u043c\u0430\u044f \u0434\u043b\u044f \u0434\u043e\u0441\u043a\u0438 \u0438\u0437\u0431\u0440\u0430\u043d\u043d\u043e\u0433\u043e (starboard, #pona-kulupu \u0432 ma pona)",
-        "eo": "{en Discord} la stela emo\u011dio uzata por la steltabulo (starboard, #pona-kulupu en ma pona)"
+        "eo": "{en Discord} la stela emo\u011dio uzata por la steltabulo (starboard, #pona-kulupu en ma pona)",
+        "es": "{en Discord} el emoji estrella usado para el tabl\u00f3n de estrellas (starboard, #pona-kulupu en ma pona)"
       }
     }
   }
