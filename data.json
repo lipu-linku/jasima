@@ -33,7 +33,7 @@
       "name_endonym": "Espa\u00f1ol",
       "name_english": "Spanish",
       "name_toki_pona": "toki Epanja",
-      "completeness_percent": "48"
+      "completeness_percent": "50"
     },
     "hi": {
       "id_long": "hindi",
@@ -129,6 +129,7 @@
         "isv_c": "(\u0438\u0437\u0440\u0430\u0437\u043d\u043e\u0441\u0442, \u0435\u043c\u043e\u0446\u0438\u043e\u043d\u0430\u043b\u043d\u043e\u0441\u0442, \u0438\u0437\u0440\u0430\u0436\u0435\u045a\u0435 \u0441\u043e\u0433\u043b\u0430\u0441\u0458\u0430)",
         "eo": "(emfazo, emocio a\u016d konfirmo)",
         "de": "(Betonung, Emotion, Best\u00e4tigung)",
+        "es": "(\u00e9nfasis, emoci\u00f3n o confirmaci\u00f3n)",
         "ceb_l": "(paghatag ug kamahinungdanon, pagbati, pagpamatuod)",
         "la": "quippe, nempe, ita (accenti\u014d, perm\u014dti\u014d, v\u014dx, excl\u0101m\u0101ti\u014d)"
       }
@@ -171,6 +172,7 @@
         "isv_c": "\u043d\u0435\u043c\u0438\u043b\u0430 \u0436\u0438\u0432\u043e\u0442\u0438\u043d\u0430; \u0433\u0430\u0434, \u0430\u043c\u0444\u0438\u0431\u0438\u0458\u0430",
         "eo": "ne\u0109arma besto; reptilio, amfibio",
         "de": "Reptil, Amphibie",
+        "es": "animal no adorable; reptil, anfibio",
         "la": "amphibion, r\u0113ptile, serp\u0113ns"
       }
     },
@@ -195,6 +197,7 @@
         "isv_c": "\u043d\u0435, \u043d\u0443\u043b\u0430; [~ ala ~] (\u043a\u043e\u0440\u0438\u0441\u0442\u0430\u043d\u043e \u0430\u0431\u044b \u0441\u0442\u0432\u0430\u0440\u0458\u0430\u0442\u0438 \u0434\u0430-\u043d\u0435 \u043f\u044b\u0442\u0430\u045a\u0435); \u043d\u0438\u0447\u0442\u043e",
         "eo": "ne, nul; [~ ala ~] (uzata por fari \u0109u-demandon); nenio",
         "de": "nicht, kein, nichts, null; [~ ala ~] (M\u00f6glichkeit der Ja/Nein-Frage)",
+        "es": "no, cero; [~ ala ~] (usado para formar una pregunta de s\u00ed o no); nada",
         "ceb_l": "dili, wala; [~ ala ~] (ginagamit para makahimo ug oo o dili nga pangutana)",
         "la": "n\u014dn, haud, nullus, nihil; [~ ala ~] (facult\u0101s f\u014drm\u0101ti\u014dnis ita/non-rog\u0101ti\u014dn\u0113s)"
       }
@@ -224,6 +227,7 @@
         "isv_c": "\u043b\u043e\u0432\u0438\u0442\u0438, \u0441\u0431\u0438\u0440\u0430\u0442\u0438, \u0438\u0441\u043a\u0430\u0442\u0438 | ALT (pv.) \u043f\u0440\u043e\u0431\u043e\u0432\u0430\u0442\u0438",
         "eo": "\u0109asi, fura\u011di, kolekti, ser\u0109i | ALT (a.v.) provi",
         "de": "jagen, \u00fcberfallen, suchen, erstreben | (pv.) versuchen",
+        "es": "cazar, forrajear, buscar | ALT (pv.) tratar, intentar",
         "ceb_l": "mangita, mangita ug pagkaon | ALT (pv.) sulayan",
         "la": "v\u0113n\u0101r\u012b, petere, c\u014dn\u0101r\u012b, tent\u0101re"
       }
@@ -244,7 +248,7 @@
       "ku_data": "every\u2074, everything\u2074, all\u2074, entire\u2074, universal\u00b3, completely\u00b3, total\u00b3, entirely\u00b3, universe\u00b3, altogether\u00b3, comprehensive\u00b3, full\u00b2, totally\u00b2, each\u00b2, fully\u00b2, any\u00b2, thoroughly\u00b2, absolute\u00b2, general\u00b2, countless\u00b2, complete\u00b2, whole\u00b2, hundred\u00b2",
       "see_also": "ali",
       "tags": "pre-pu ALT",
-      "commentary": "\"ali\" is an alternative to \"ale\", coined in a poll in 2002 in order to avoid confusion with \"ala\". However, the usage of \"ale\" over \"ali\" remains more common.",
+      "commentary": "\"ali\" is an alternative to \"ale\", coined in a poll in 2002 in order to avoid confusion with \"ala\". However, the usage of \"ale\" over \"ali\" remains more common. The majority of speakers report not understanding the \"abundant, bountiful, plentiful\" meaning, at least out of context.",
       "def": {
         "en": "all; abundant, countless, bountiful, every, plentiful; abundance, everything, life, universe; one hundred | ALT twenty; 100; 120",
         "ru": "\u0432\u0441\u0435; \u0438\u0437\u043e\u0431\u0438\u043b\u044c\u043d\u044b\u0439, \u0431\u0435\u0441\u0447\u0438\u0441\u043b\u0435\u043d\u043d\u044b\u0439, \u043a\u0430\u0436\u0434\u044b\u0439; \u0438\u0437\u043e\u0431\u0438\u043b\u0438\u0435, \u0432\u0441\u0435, \u0436\u0438\u0437\u043d\u044c, \u0432\u0441\u0435\u043b\u0435\u043d\u043d\u0430\u044f; \u0441\u0442\u043e | ALT \u0434\u0432\u0430\u0434\u0446\u0430\u0442\u044c; 100; 120",
