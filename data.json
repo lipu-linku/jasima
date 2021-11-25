@@ -54,14 +54,14 @@
       "name_endonym": "\u041c\u0435\u0434\u0436\u0443\u0441\u043b\u043e\u0432\u0458\u0430\u043d\u0441\u043a\u044b (\u043a\u0438\u0440\u0438\u043b\u0438\u0446\u0430)",
       "name_english": "Interslavic (Cyrillic)",
       "name_toki_pona": "toki Mesulojanki (sitelen Kililisa)",
-      "completeness_percent": "10"
+      "completeness_percent": "14"
     },
     "isv_l": {
       "id_long": "interslavic_latin",
       "name_endonym": "Med\u017euslovjansky (latinica)",
       "name_english": "Interslavic (Latin)",
       "name_toki_pona": "toki Mesulojanki (sitelen Lasina)",
-      "completeness_percent": "10"
+      "completeness_percent": "14"
     },
     "la": {
       "id_long": "latin",
@@ -1145,8 +1145,8 @@
       "def": {
         "en": "yellow, yellowish",
         "ru": "\u0436\u0451\u043b\u0442\u044b\u0439, \u0436\u0435\u043b\u0442\u043e\u0432\u0430\u0442\u044b\u0439",
-        "isv_l": "\u017eolty, shodny do \u017eoltogo",
-        "isv_c": "\u0436\u043e\u043b\u0442\u044b, \u0441\u0445\u043e\u0434\u043d\u044b \u0434\u043e \u0436\u043e\u043b\u0442\u043e\u0433\u043e",
+        "isv_l": "\u017eolty, podobny \u017eoltomu",
+        "isv_c": "\u0436\u043e\u043b\u0442\u044b, \u043f\u043e\u0434\u043e\u0431\u043d\u044b \u0436\u043e\u043b\u0442\u043e\u043c\u0443",
         "eo": "flava, flaveca",
         "de": "gelb",
         "es": "amarillo"
@@ -1792,6 +1792,8 @@
       "def": {
         "en": "hard object, metal, rock, stone",
         "ru": "\u0442\u0432\u0435\u0440\u0434\u044b\u0439 \u043f\u0440\u0435\u0434\u043c\u0435\u0442, \u043c\u0435\u0442\u0430\u043b\u043b, \u043a\u0430\u043c\u0435\u043d\u044c, \u0433\u043e\u0440\u043d\u0430\u044f \u043f\u043e\u0440\u043e\u0434\u0430",
+        "isv_l": "tvrdy objekt, metal, kamenj, skala",
+        "isv_c": "\u0442\u0432\u0440\u0434\u044b \u043e\u0431\u0458\u0435\u043a\u0442, \u043c\u0435\u0442\u0430\u043b, \u043a\u0430\u043c\u0435\u045a, \u0441\u043a\u0430\u043b\u0430",
         "eo": "malmola\u0135o, metalo, roko, \u015dtono",
         "de": "hart, Stein, Metall, hartes Ding"
       }
@@ -1813,6 +1815,8 @@
       "def": {
         "en": "clay, clinging form, dough, semi-solid, paste, powder",
         "ru": "\u0433\u043b\u0438\u043d\u0430, \u0441\u043b\u0435\u043f\u043b\u0435\u043d\u043d\u043e\u0435, \u0442\u0435\u0441\u0442\u043e, \u043f\u043e\u043b\u0443\u0442\u0432\u0435\u0440\u0434\u043e\u0435, \u043f\u0430\u0441\u0442\u0430, \u043f\u043e\u0440\u043e\u0448\u043e\u043a",
+        "isv_l": "glina, n\u011b\u010dto l\u011bpjeno, t\u011bsto, n\u011b\u010dto polutvrdo, pasta, pra\u0161ek",
+        "isv_c": "\u0433\u043b\u0438\u043d\u0430, \u043d\u0454\u0447\u0442\u043e \u043b\u0454\u043f\u0458\u0435\u043d\u043e, \u0442\u0454\u0441\u0442\u043e, \u043d\u0454\u0447\u0442\u043e \u043f\u043e\u043b\u0443\u0442\u0432\u0440\u0434\u043e, \u043f\u0430\u0441\u0442\u0430, \u043f\u0440\u0430\u0448\u0435\u043a",
         "eo": "argilo, kunteni\u011danta a\u016d adhera formo, pasto, duonsolida\u0135o, pulvoro",
         "de": "Ton, anhaftende Form, Teig, Paste, Pulver, halbfest"
       }
@@ -2068,6 +2072,8 @@
       "def": {
         "en": "ear; to hear, listen; pay attention to, obey",
         "ru": "\u0443\u0445\u043e; \u0441\u043b\u044b\u0448\u0430\u0442\u044c, \u0441\u043b\u0443\u0448\u0430\u0442\u044c; \u043e\u0431\u0440\u0430\u0449\u0430\u0442\u044c \u0432\u043d\u0438\u043c\u0430\u043d\u0438\u0435, \u0441\u043b\u0443\u0448\u0430\u0442\u044c\u0441\u044f, \u043f\u043e\u0434\u0447\u0438\u043d\u044f\u0442\u044c\u0441\u044f",
+        "isv_l": "uho, slu\u0161ati (n\u011b\u010dto), sly\u0161ati; poslu\u0161ati (n\u011bkogo)",
+        "isv_c": "\u0443\u0445\u043e, \u0441\u043b\u0443\u0448\u0430\u0442\u0438 (\u043d\u0454\u0447\u0442\u043e), \u0441\u043b\u044b\u0448\u0430\u0442\u0438; \u043f\u043e\u0441\u043b\u0443\u0448\u0430\u0442\u0438 (\u043d\u0454\u043a\u043e\u0433\u043e)",
         "eo": "orelo; a\u016ddi, a\u016dskulti; atenti, obei",
         "de": "h\u00f6ren, zuh\u00f6ren, lauschen, aufpassen, gehorchen"
       }
@@ -2140,6 +2146,8 @@
       "def": {
         "en": "sleeping, resting",
         "ru": "\u0441\u043f\u044f\u0449\u0438\u0439, \u043e\u0442\u0434\u044b\u0445\u0430\u044e\u0449\u0438\u0439",
+        "isv_l": "spe\u010di, odpo\u010divaju\u010di",
+        "isv_c": "\u0441\u043f\u0435\u0447\u0438, \u043e\u0434\u043f\u043e\u0447\u0438\u0432\u0430\u0458\u0443\u0447\u0438",
         "eo": "dormanta, ripozanta",
         "de": "schlafen, (aus)ruhen",
         "es": "dormido, descansando"
@@ -2162,6 +2170,8 @@
       "def": {
         "en": "blue, green",
         "ru": "\u0441\u0438\u043d\u0438\u0439, \u0433\u043e\u043b\u0443\u0431\u043e\u0439, \u0437\u0435\u043b\u0451\u043d\u044b\u0439",
+        "isv_l": "sinji, blankytny, modry, zeleny",
+        "isv_c": "\u0441\u0438\u045a\u0438, \u0431\u043b\u0430\u043d\u043a\u044b\u0442\u043d\u044b, \u043c\u043e\u0434\u0440\u044b, \u0437\u0435\u043b\u0435\u043d\u044b",
         "eo": "blua, verda",
         "de": "blau, gr\u00fcn, t\u00fcrkis",
         "es": "azul, verde"
@@ -2286,6 +2296,8 @@
       "def": {
         "en": "cold, cool; uncooked, raw",
         "ru": "\u0445\u043e\u043b\u043e\u0434\u043d\u044b\u0439, \u043f\u0440\u043e\u0445\u043b\u0430\u0434\u043d\u044b\u0439; \u0441\u044b\u0440\u043e\u0439, \u043d\u0435\u043f\u0440\u0438\u0433\u043e\u0442\u043e\u0432\u043b\u0435\u043d\u043d\u044b\u0439",
+        "isv_l": "hladny, prohladny;  nevarjeny, surovy",
+        "isv_c": "\u0445\u043b\u0430\u0434\u043d\u044b, \u043f\u0440\u043e\u0445\u043b\u0430\u0434\u043d\u044b;  \u043d\u0435\u0432\u0430\u0440\u0458\u0435\u043d\u044b, \u0441\u0443\u0440\u043e\u0432\u044b",
         "eo": "malvarma; nekuirita, kruda",
         "de": "kalt, k\u00fchl; ungekocht, roh"
       }
@@ -2354,6 +2366,8 @@
       "def": {
         "en": "little, small, short; few; a bit; young",
         "ru": "\u043c\u0430\u043b\u0435\u043d\u044c\u043a\u0438\u0439, \u043a\u043e\u0440\u043e\u0442\u043a\u0438\u0439; \u043c\u0430\u043b\u043e; \u043d\u0435\u043c\u043d\u043e\u0433\u043e; \u043c\u043e\u043b\u043e\u0434\u043e\u0439",
+        "isv_l": "maly, kratky; malo; nemnogo; mlady",
+        "isv_c": "\u043c\u0430\u043b\u044b, \u043a\u0440\u0430\u0442\u043a\u044b; \u043c\u0430\u043b\u043e; \u043d\u0435\u043c\u043d\u043e\u0433\u043e; \u043c\u043b\u0430\u0434\u044b",
         "eo": "malgranda, malalta; malmulta; iomete; juna",
         "de": "klein, wenig, kurz, bisschen, jung"
       }
@@ -2426,6 +2440,8 @@
       "def": {
         "en": "flat object; book, document, card, paper, record, website",
         "ru": "\u043f\u043b\u043e\u0441\u043a\u0438\u0439 \u043e\u0431\u044a\u0435\u043a\u0442; \u043a\u043d\u0438\u0433\u0430, \u0434\u043e\u043a\u0443\u043c\u0435\u043d\u0442, \u043a\u0430\u0440\u0442\u0430, \u0431\u0443\u043c\u0430\u0433\u0430, \u0437\u0430\u043f\u0438\u0441\u044c, \u0441\u0430\u0439\u0442",
+        "isv_l": "plosky objekt; kniga, dokument, karta, papir, zapis, vebsajt",
+        "isv_c": "\u043f\u043b\u043e\u0441\u043a\u044b \u043e\u0431\u0458\u0435\u043a\u0442; \u043a\u043d\u0438\u0433\u0430, \u0434\u043e\u043a\u0443\u043c\u0435\u043d\u0442, \u043a\u0430\u0440\u0442\u0430, \u043f\u0430\u043f\u0438\u0440, \u0437\u0430\u043f\u0438\u0441, \u0432\u0435\u0431\u0441\u0430\u0458\u0442",
         "eo": "plata objekto; libro, dokumento, karto, papero, registro, retejo",
         "de": "flaches Ding, Buch, Dokument, Karte, Papier, Webseite, Blatt"
       }
@@ -2447,6 +2463,8 @@
       "def": {
         "en": "red, reddish",
         "ru": "\u043a\u0440\u0430\u0441\u043d\u044b\u0439, \u043a\u0440\u0430\u0441\u043d\u043e\u0432\u0430\u0442\u044b\u0439",
+        "isv_l": "\u010drveny, podobny \u010drvenomu",
+        "isv_c": "\u0447\u0440\u0432\u0435\u043d\u044b, \u043f\u043e\u0434\u043e\u0431\u043d\u044b \u0447\u0440\u0432\u0435\u043d\u043e\u043c\u0443",
         "eo": "ru\u011da, ru\u011deca",
         "de": "rot",
         "es": "rojo"
@@ -2649,6 +2667,8 @@
       "def": {
         "en": "door, hole, orifice, window",
         "ru": "\u0434\u0432\u0435\u0440\u044c, \u0434\u044b\u0440\u0430, \u043e\u0442\u0432\u0435\u0440\u0441\u0442\u0438\u0435, \u043e\u043a\u043d\u043e",
+        "isv_l": "dveri, vrata, otvor, dira, okno",
+        "isv_c": "\u0434\u0432\u0435\u0440\u0438, \u0432\u0440\u0430\u0442\u0430, \u043e\u0442\u0432\u043e\u0440, \u0434\u0438\u0440\u0430, \u043e\u043a\u043d\u043e",
         "eo": "pordo, truo, korpa aperturo, fenestro",
         "de": "T\u00fcr, Loch, \u00d6ffnung, Fenster, H\u00f6hle"
       }
