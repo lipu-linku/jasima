@@ -82,7 +82,7 @@
       "name_endonym": "Polski",
       "name_english": "Polish",
       "name_toki_pona": "toki Posuka",
-      "completeness_percent": "43"
+      "completeness_percent": "56"
     },
     "ru": {
       "id_long": "russian",
@@ -96,7 +96,7 @@
       "name_endonym": "toki pona",
       "name_english": "Toki Pona",
       "name_toki_pona": "toki pona",
-      "completeness_percent": "40"
+      "completeness_percent": "41"
     },
     "ur": {
       "id_long": "urdu",
@@ -218,6 +218,7 @@
         "isv_c": "\u043d\u0435\u043c\u0438\u043b\u0430 \u0436\u0438\u0432\u043e\u0442\u0438\u043d\u0430; \u0433\u0430\u0434, \u0430\u043c\u0444\u0438\u0431\u0438\u0458\u0430",
         "eo": "ne\u0109arma besto; reptilio, amfibio",
         "de": "Reptil, Amphibie",
+        "tok": "soweli pi suwi ala; soweli kiwen pi telo sijelo lete",
         "es": "animal no adorable; reptil, anfibio",
         "la": "amphibion, r\u0113ptile, serp\u0113ns"
       }
@@ -504,6 +505,7 @@
       "ku_data": "stay\u2075, await\u2075, wait\u2075, preserve\u2075, remain\u2075, sustain\u2075, retain\u2074, defend\u2074, endure\u2074, continued\u2074, continue\u2074, secure\u2074, continuing\u2074, save\u2074, protect\u2074, keep\u2074, still\u00b3, reserve\u00b3, protection\u00b3, remaining\u00b3, continuous\u00b3, stability\u00b3, maintain\u00b3, safe\u00b3, security\u00b3, stable\u00b3, constant\u00b3, protective\u00b3, defence\u00b3, left (remaining)\u00b3, defensive\u00b2, maintenance\u00b2, rescue\u00b2, stand\u00b2, standing\u00b2, steady\u00b2, pause\u00b2, custody\u00b2, safely\u00b2, saving\u00b2, guard\u00b2, reservation\u00b2, suspend\u00b2, hang\u00b2, ongoing\u00b2, hesitate\u00b2, safety\u00b2, delay\u00b2, conservation\u00b2",
       "def": {
         "en": "enduring, kept, protected, safe, waiting, staying; (pv.) to continue to, to keep",
+        "pl": "trwa\u0142y, trzymany, zabezpieczony, bezpieczny, czekaj\u0105cy, zostaj\u0105cy; (pv.) kontynuowa\u0107, nadal",
         "ru": "\u043d\u0435\u0438\u0437\u043c\u0435\u043d\u043d\u044b\u0439, \u0436\u0434\u0443\u0449\u0438\u0439, \u0432 \u0431\u0435\u0437\u043e\u043f\u0430\u0441\u043d\u043e\u0441\u0442\u0438; (pv.) \u043f\u0440\u043e\u0434\u043e\u043b\u0436\u0430\u0442\u044c",
         "eo": "da\u016dranta, tenata, protektita, sekura, atendanta, restanta; (a.v.) da\u016dre fari",
         "de": "bleiben, harren, warten, behalten, gesch\u00fctzt, sicher; (pv.) weitermachen, weiter(hin)"
@@ -520,6 +522,7 @@
       "creator": "jan Sonja",
       "def": {
         "en": "(before the direct object)",
+        "pl": "(przed dope\u0142nieniem)",
         "ru": "(\u043f\u0435\u0440\u0435\u0434 \u043f\u0440\u044f\u043c\u044b\u043c \u0434\u043e\u043f\u043e\u043b\u043d\u0435\u043d\u0438\u0435\u043c)",
         "isv_l": "(pr\u011bd pr\u011bmym objektom (dopolnjenjem))",
         "isv_c": "(\u043f\u0440\u0454\u0434 \u043f\u0440\u0454\u043c\u044b\u043c \u043e\u0431\u0458\u0435\u043a\u0442\u043e\u043c (\u0434\u043e\u043f\u043e\u043b\u045a\u0435\u045a\u0435\u043c))",
@@ -561,6 +564,7 @@
       "commentary": "There are various analyses of the syntactic role of \"en\". Originally intended to be used as \"and\", it was changed (via poll in 2002) to just be used with \"head nouns\". One of the more recent analyses (including 2021's April Fools) treats \"en\" as a subject marker.",
       "def": {
         "en": "(between multiple subjects) | ALT (coordinates modifiers in a pi-phrase or objects of a prepostion)",
+        "pl": "(pomi\u0119dzy wieloma podmiotami) | ALT (koordynuje modyfikatory w frazie pi lub rzeczowniki przyimk\u00f3w)",
         "ru": "(\u043c\u0435\u0436\u0434\u0443 \u043d\u0435\u0441\u043a\u043e\u043b\u044c\u043a\u0438\u043c\u0438 \u043f\u043e\u0434\u043b\u0435\u0436\u0430\u0449\u0438\u043c\u0438) | ALT (\u043a\u043e\u043e\u0440\u0434\u0438\u043d\u0438\u0440\u0443\u0435\u0442 \u043e\u0431\u0441\u0442\u043e\u044f\u0442\u0435\u043b\u044c\u0441\u0442\u0432\u0430 \u0432 pi-\u0444\u0440\u0430\u0437\u0435 \u0438\u043b\u0438 \u0434\u043e\u043f\u043e\u043b\u043d\u0435\u043d\u0438\u044f \u0432 \u043f\u0440\u0435\u0434\u043b\u043e\u0436\u043d\u043e\u0439 \u0444\u0440\u0430\u0437\u0435)",
         "eo": "(inter pluraj subjektoj) | ALT (konjunkciigas modifilojn en pi-sintagmo a\u016d objektojn de prepozicio)",
         "de": "(zwischen mehreren Subjekten)",
@@ -637,6 +641,7 @@
       "commentary": "According to jan Sonja, \"esun was told [to her] by a taxi driver who spoke a language from the Akan family in West Africa\".",
       "def": {
         "en": "market, shop, fair, bazaar, business transaction",
+        "pl": "market, sklep, targ, bazar, transakcja biznesowa",
         "ru": "\u0440\u044b\u043d\u043e\u043a, \u043c\u0430\u0433\u0430\u0437\u0438\u043d, \u044f\u0440\u043c\u0430\u0440\u043a\u0430, \u0431\u0430\u0437\u0430\u0440, \u0441\u0434\u0435\u043b\u043a\u0430",
         "isv_l": "trg, magazin, bazar, m\u011bna",
         "isv_c": "\u0442\u0440\u0433, \u043c\u0430\u0433\u0430\u0437\u0438\u043d, \u0431\u0430\u0437\u0430\u0440, \u043c\u0454\u043d\u0430",
@@ -743,6 +748,7 @@
       "ku_data": "thing\u2075, stuff\u2075, item\u2075, something\u2075, object\u2075, entity\u2075, phenomenon\u2074, material\u2074, matter (n)\u2074, substance\u00b3, anything\u00b3, element\u00b2, asset\u00b2, being\u00b2, chemical\u00b2, subject\u00b2, product\u00b2, stock\u00b2, example\u00b2",
       "def": {
         "en": "thing, phenomenon, object, matter",
+        "pl": "co\u015b, zjawisko, obiekt, materia",
         "ru": "\u0432\u0435\u0449\u044c, \u044f\u0432\u043b\u0435\u043d\u0438\u0435, \u043e\u0431\u044a\u0435\u043a\u0442, \u043c\u0430\u0442\u0435\u0440\u0438\u044f",
         "isv_l": "pr\u011bdmet, n\u011b\u010dto, objekt, fenomen, materija",
         "isv_c": "\u043f\u0440\u0454\u0434\u043c\u0435\u0442, \u043d\u0454\u0447\u0442\u043e, \u043e\u0431\u0458\u0435\u043a\u0442, \u0444\u0435\u043d\u043e\u043c\u0435\u043d, \u043c\u0430\u0442\u0435\u0440\u0438\u0458\u0430",
@@ -768,6 +774,7 @@
       "tags": "pre-pu ALT",
       "def": {
         "en": "bad, negative; non-essential, irrelevant | ALT complicated, complex",
+        "pl": "z\u0142y, negatywny; zb\u0119dny, nieistotny | ALT skomplikowany, z\u0142o\u017cony",
         "ru": "\u043f\u043b\u043e\u0445\u043e\u0439, \u043e\u0442\u0440\u0438\u0446\u0430\u0442\u0435\u043b\u044c\u043d\u044b\u0439; \u043d\u0435\u0432\u0430\u0436\u043d\u044b\u0439, \u043d\u0435\u0441\u0443\u0449\u0435\u0441\u0442\u0432\u0435\u043d\u043d\u044b\u0439 | ALT \u0441\u043b\u043e\u0436\u043d\u044b\u0439, \u0437\u0430\u043f\u0443\u0442\u0430\u043d\u043d\u044b\u0439",
         "eo": "malbona, negativa; neesenca, malgrava | ALT malsimpla, komplika",
         "de": "schlecht, negative, irrelevant | komplex, schwierig",
@@ -819,6 +826,7 @@
       "ku_data": "tool\u2075, device\u2075, equipment\u2075, machine\u2075, app\u2074, hardware\u2074, robot\u00b3, technological\u00b3, mechanical\u00b3, gear\u00b3, tech\u00b3, mechanism\u00b3, technical\u00b3, software\u00b3, utility\u00b2, instrument\u00b2, application\u00b2, technology\u00b2, computer\u00b2",
       "def": {
         "en": "tool, implement, machine, device",
+        "pl": "narz\u0119dzie, instrument, maszyna, urz\u0105dzenie",
         "ru": "\u0438\u043d\u0441\u0442\u0440\u0443\u043c\u0435\u043d\u0442, \u043e\u0440\u0443\u0434\u0438\u0435, \u043c\u0430\u0448\u0438\u043d\u0430, \u0443\u0441\u0442\u0440\u043e\u0439\u0441\u0442\u0432\u043e",
         "isv_l": "instrument, orudje, ma\u0161ina, aparat",
         "isv_c": "\u0438\u043d\u0441\u0442\u0440\u0443\u043c\u0435\u043d\u0442, \u043e\u0440\u0443\u0434\u0458\u0435, \u043c\u0430\u0448\u0438\u043d\u0430, \u0430\u043f\u0430\u0440\u0430\u0442",
@@ -870,6 +878,7 @@
       "ku_data": "internal\u2075, inner\u2075, interior\u2075, centre\u2075, guts\u2074, core\u2074, central\u00b3, inside\u00b3, middle\u00b3, belly\u00b3, stomach\u00b3, internal organ\u00b2, within\u00b2, insert\u00b2, content\u00b2, amid\u00b2, between\u00b2",
       "def": {
         "en": "centre, content, inside, between; internal organ, stomach",
+        "pl": "\u015brodek, zawarto\u015b\u0107, wewn\u0105trz, pomi\u0119dzy; organ wewn\u0119trzny, \u017co\u0142\u0105dek",
         "ru": "\u0446\u0435\u043d\u0442\u0440, \u0441\u043e\u0434\u0435\u0440\u0436\u0438\u043c\u043e\u0435, \u0432\u043d\u0443\u0442\u0440\u0438, \u043c\u0435\u0436\u0434\u0443; \u0432\u043d\u0443\u0442\u0440\u0435\u043d\u043d\u0438\u0439 \u043e\u0440\u0433\u0430\u043d, \u0436\u0435\u043b\u0443\u0434\u043e\u043a",
         "isv_l": "centr, vnutrnost, vnutri, med\u017eu; vnutri\u0161nji organ, \u017eeludok",
         "isv_c": "\u0446\u0435\u043d\u0442\u0440, \u0432\u043d\u0443\u0442\u0440\u043d\u043e\u0441\u0442, \u0432\u043d\u0443\u0442\u0440\u0438, \u043c\u0435\u0434\u0436\u0443; \u0432\u043d\u0443\u0442\u0440\u0438\u0448\u045a\u0438 \u043e\u0440\u0433\u0430\u043d, \u0436\u0435\u043b\u0443\u0434\u043e\u043a",
@@ -927,7 +936,7 @@
       "see_also": "pilin, toki, insa",
       "def": {
         "en": "to think, to imagine, to believe, to remember, to recall; a thought, an idea",
-        "pl": "my\u015ble\u0107 wyobra\u017ca\u0107 sobie, wierzy\u0107, uwa\u017ca\u0107, pami\u0119ta\u0107, przypomnie\u0107 sobie; my\u015bl, pomys\u0142",
+        "pl": "my\u015ble\u0107, wyobra\u017ca\u0107 sobie, wierzy\u0107, uwa\u017ca\u0107, pami\u0119ta\u0107, przypomnie\u0107 sobie; my\u015bl, pomys\u0142",
         "ru": "\u0434\u0443\u043c\u0430\u0442\u044c, \u0432\u043e\u043e\u0431\u0440\u0430\u0436\u0430\u0442\u044c, \u0432\u0435\u0440\u0438\u0442\u044c, \u043f\u043e\u043c\u043d\u0438\u0442\u044c, \u0432\u0441\u043f\u043e\u043c\u0438\u043d\u0430\u0442\u044c; \u043c\u044b\u0441\u043b\u044c, \u0438\u0434\u0435\u044f",
         "eo": "pensi, imagi, kredi",
         "de": "denken, glauben, vorstellen, erinnern; Gedanke, Idee",
@@ -983,6 +992,7 @@
       "ku_data": "dirty\u2075, trash\u2075, gross\u2075, garbage\u2075, mess\u2075, disgusting\u2074, junk\u2074, bacteria\u2074, nasty\u2074, crap\u00b3, toxic\u00b3, waste\u00b3, infection\u00b3, disease\u00b2, shit\u00b2, virus\u00b2, pollution\u00b2, bullshit\u00b2, illness\u00b9",
       "def": {
         "en": "disgusting, obscene, sickly, toxic, unclean, unsanitary",
+        "pl": "obrzydliwy, nieprzyzwoity, chorowity, toksyczny, nieczysty, niehigieniczny",
         "ru": "\u043e\u0442\u0432\u0440\u0430\u0442\u0438\u0442\u0435\u043b\u044c\u043d\u044b\u0439, \u043d\u0435\u043f\u0440\u0438\u0441\u0442\u043e\u0439\u043d\u044b\u0439, \u0431\u043e\u043b\u0435\u0437\u043d\u0435\u043d\u043d\u044b\u0439, \u0442\u043e\u043a\u0441\u0438\u0447\u043d\u044b\u0439, \u043d\u0435\u0447\u0438\u0441\u0442\u044b\u0439, \u043d\u0435\u0433\u0438\u0433\u0438\u0435\u043d\u0438\u0447\u043d\u044b\u0439",
         "isv_l": "mrzky, odvratny, gnusny, bol\u011bzlivy, jadovity, toksi\u010dny, ne\u010disty, nehigieni\u010dny",
         "isv_c": "\u043c\u0440\u0437\u043a\u044b, \u043e\u0434\u0432\u0440\u0430\u0442\u043d\u044b, \u0433\u043d\u0443\u0441\u043d\u044b, \u0431\u043e\u043b\u0454\u0437\u043b\u0438\u0432\u044b, \u0458\u0430\u0434\u043e\u0432\u0438\u0442\u044b, \u0442\u043e\u043a\u0441\u0438\u0447\u043d\u044b, \u043d\u0435\u0447\u0438\u0441\u0442\u044b, \u043d\u0435\u0445\u0438\u0433\u0438\u0435\u043d\u0438\u0447\u043d\u044b",
@@ -1091,6 +1101,7 @@
       "commentary": "There are two sides to the concept, \"sentient entity\" and \"homo sapiens\", which matters for whether to use the word in edge cases (i.e. aliens, humans turned into werewolves, etc). Which sense is more central to the word remains controversial.",
       "def": {
         "en": "human being, person, somebody",
+        "pl": "cz\u0142owiek, osoba, kto\u015b",
         "ru": "\u0447\u0435\u043b\u043e\u0432\u0435\u043a, \u043b\u0438\u0447\u043d\u043e\u0441\u0442\u044c, \u043d\u0435\u043a\u0442\u043e",
         "isv_l": "\u010dlov\u011bk, osoba, n\u011bkto",
         "isv_c": "\u0447\u043b\u043e\u0432\u0454\u043a, \u043e\u0441\u043e\u0431\u0430, \u043d\u0454\u043a\u0442\u043e",
@@ -1205,6 +1216,7 @@
       "commentary": "Some extend \"jelo\" to include lime green, but this usage is uncommon.",
       "def": {
         "en": "yellow, yellowish",
+        "pl": "\u017c\u00f3\u0142ty, \u017c\u00f3\u0142tawy",
         "ru": "\u0436\u0451\u043b\u0442\u044b\u0439, \u0436\u0435\u043b\u0442\u043e\u0432\u0430\u0442\u044b\u0439",
         "isv_l": "\u017eolty, podobny \u017eoltomu",
         "isv_c": "\u0436\u043e\u043b\u0442\u044b, \u043f\u043e\u0434\u043e\u0431\u043d\u044b \u0436\u043e\u043b\u0442\u043e\u043c\u0443",
@@ -1230,6 +1242,7 @@
       "see_also": "lon, poki, lanpan",
       "def": {
         "en": "to have, carry, contain, hold",
+        "pl": "mie\u0107, nosi\u0107, zawiera\u0107, trzyma\u0107",
         "ru": "\u0438\u043c\u0435\u0442\u044c, \u043d\u043e\u0441\u0438\u0442\u044c, \u0441\u043e\u0434\u0435\u0440\u0436\u0430\u0442\u044c, \u0434\u0435\u0440\u0436\u0430\u0442\u044c",
         "isv_l": "im\u011bti, nositi, sodr\u017eivati, dr\u017eati",
         "isv_c": "\u0438\u043c\u0454\u0442\u0438, \u043d\u043e\u0441\u0438\u0442\u0438, \u0441\u043e\u0434\u0440\u0436\u0438\u0432\u0430\u0442\u0438, \u0434\u0440\u0436\u0430\u0442\u0438",
@@ -1267,6 +1280,7 @@
       },
       "def": {
         "en": "(word reserved for future use by Sonja Lang)",
+        "pl": "(s\u0142owo zarezerwowane do przysz\u0142ego u\u017cytku przez Sonj\u0119 Lang)",
         "ru": "(\u0441\u043b\u043e\u0432\u043e \u0437\u0430\u0440\u0435\u0437\u0435\u0440\u0432\u0438\u0440\u043e\u0432\u0430\u043d\u043e \u0434\u043b\u044f \u0431\u0443\u0434\u0443\u0449\u0435\u0433\u043e \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u043d\u0438\u044f \u0421\u043e\u043d\u0435\u0439 \u041b\u0430\u043d\u0433)",
         "eo": "(vorto rezervita por estonteca uzo de Sonja Lang)",
         "de": "(f\u00fcr zuk\u00fcnftige Verwendung von Sonja Lang reserviertes Wort)"
@@ -1333,6 +1347,7 @@
       "ku_data": "fish\u2075, sea creature\u2075, salmon\u2074",
       "def": {
         "en": "fish, marine animal, sea creature",
+        "pl": "ryba, zwierz\u0119 morskie",
         "ru": "\u0440\u044b\u0431\u0430, \u043c\u043e\u0440\u0441\u043a\u043e\u0435 \u0436\u0438\u0432\u043e\u0442\u043d\u043e\u0435",
         "isv_l": "ryba, morska \u017eivotina",
         "isv_c": "\u0440\u044b\u0431\u0430, \u043c\u043e\u0440\u0441\u043a\u0430 \u0436\u0438\u0432\u043e\u0442\u0438\u043d\u0430",
@@ -1600,6 +1615,7 @@
       "commentary": "Whether \"kepeken\" should be used with or without \"e\" in a predicative position (meaning \"to use\") remains controversial.",
       "def": {
         "en": "to use, with, by means of",
+        "pl": "u\u017cywa\u0107, z, za pomoc\u0105",
         "ru": "\u0438\u0441\u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u044c, \u0441 \u043f\u043e\u043c\u043e\u0449\u044c\u044e",
         "isv_l": "koristati, u\u017eivati, poljzovati, upotr\u011bbjati, s, posr\u011bdstvom",
         "isv_c": "\u043a\u043e\u0440\u0438\u0441\u0442\u0430\u0442\u0438, \u0443\u0436\u0438\u0432\u0430\u0442\u0438, \u043f\u043e\u0459\u0437\u043e\u0432\u0430\u0442\u0438, \u0443\u043f\u043e\u0442\u0440\u0454\u0431\u0458\u0430\u0442\u0438, \u0441, \u043f\u043e\u0441\u0440\u0454\u0434\u0441\u0442\u0432\u043e\u043c",
@@ -1737,6 +1753,7 @@
       "see_also": "soko",
       "def": {
         "en": "fruit, vegetable, mushroom",
+        "pl": "owoc, warzywo, grzyb",
         "ru": "\u0444\u0440\u0443\u043a\u0442, \u043e\u0432\u043e\u0449, \u0433\u0440\u0438\u0431",
         "isv_l": "plod, ovo\u010d, grib",
         "isv_c": "\u043f\u043b\u043e\u0434, \u043e\u0432\u043e\u0447, \u0433\u0440\u0438\u0431",
@@ -2231,6 +2248,7 @@
       "ku_data": "blue\u2075, teal\u2074, green\u00b3",
       "def": {
         "en": "blue, green",
+        "pl": "niebieski, zielony",
         "ru": "\u0441\u0438\u043d\u0438\u0439, \u0433\u043e\u043b\u0443\u0431\u043e\u0439, \u0437\u0435\u043b\u0451\u043d\u044b\u0439",
         "isv_l": "sinji, blankytny, modry, zeleny",
         "isv_c": "\u0441\u0438\u045a\u0438, \u0431\u043b\u0430\u043d\u043a\u044b\u0442\u043d\u044b, \u043c\u043e\u0434\u0440\u044b, \u0437\u0435\u043b\u0435\u043d\u044b",
@@ -2642,6 +2660,7 @@
       },
       "def": {
         "en": "(word reserved for future use by Sonja Lang)",
+        "pl": "(s\u0142owo zarezerwowane do przysz\u0142ego u\u017cytku przez Sonj\u0119 Lang)",
         "ru": "(\u0441\u043b\u043e\u0432\u043e \u0437\u0430\u0440\u0435\u0437\u0435\u0440\u0432\u0438\u0440\u043e\u0432\u0430\u043d\u043e \u0434\u043b\u044f \u0431\u0443\u0434\u0443\u0449\u0435\u0433\u043e \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u043d\u0438\u044f \u0421\u043e\u043d\u0435\u0439 \u041b\u0430\u043d\u0433)",
         "eo": "(vorto rezervita por estonteca uzo de Sonja Lang)",
         "de": "(f\u00fcr zuk\u00fcnftige Verwendung von Sonja Lang reserviertes Wort)"
@@ -2728,6 +2747,7 @@
       "ku_data": "hole\u2075, door\u2075, orifice\u2074, pit\u2074, window\u00b3, gate\u00b3, entrance\u00b2, opening\u00b2, gap\u00b2, dig\u00b2",
       "def": {
         "en": "door, hole, orifice, window",
+        "pl": "drzwi, dziura, otw\u00f3r, okno",
         "ru": "\u0434\u0432\u0435\u0440\u044c, \u0434\u044b\u0440\u0430, \u043e\u0442\u0432\u0435\u0440\u0441\u0442\u0438\u0435, \u043e\u043a\u043d\u043e",
         "isv_l": "dveri, vrata, otvor, dira, okno",
         "isv_c": "\u0434\u0432\u0435\u0440\u0438, \u0432\u0440\u0430\u0442\u0430, \u043e\u0442\u0432\u043e\u0440, \u0434\u0438\u0440\u0430, \u043e\u043a\u043d\u043e",
@@ -2938,6 +2958,7 @@
       "ku_data": "me\u2075, my\u2075, I\u2075, mine\u2074, our\u2074, myself\u00b3, us\u00b3, we\u00b2, self\u00b2, ours\u00b2, ourselves\u00b2",
       "def": {
         "en": "I, me, we, us",
+        "pl": "ja, my",
         "ru": "\u044f, \u043c\u0435\u043d\u044f, \u043c\u044b, \u043d\u0430\u0441",
         "eo": "mi, ni",
         "de": "ich, mein, wir, unser",
@@ -3092,6 +3113,7 @@
       "ku_data": "death\u2075, killing\u2075, dead\u2075, die\u2074, dying\u2074, kill\u2074, deadly\u00b2, execution\u00b2",
       "def": {
         "en": "dead, dying",
+        "pl": "martwy, umieraj\u0105cy",
         "ru": "\u043c\u0435\u0440\u0442\u0432\u044b\u0439, \u0443\u043c\u0438\u0440\u0430\u044e\u0449\u0438\u0439",
         "eo": "mortinta, mortanta",
         "de": "tot, sterben, t\u00f6ten"
@@ -3509,6 +3531,7 @@
       "see_also": "ona",
       "def": {
         "en": "that, this",
+        "pl": "to, tamto",
         "ru": "\u0442\u043e\u0442, \u044d\u0442\u043e\u0442",
         "eo": "(\u0109i) tio, (\u0109i) tiu",
         "de": "dies, das, jenes",
@@ -3591,6 +3614,7 @@
       },
       "def": {
         "en": "(word reserved for future use by Sonja Lang)",
+        "pl": "(s\u0142owo zarezerwowane do przysz\u0142ego u\u017cytku przez Sonj\u0119 Lang)",
         "ru": "(\u0441\u043b\u043e\u0432\u043e \u0437\u0430\u0440\u0435\u0437\u0435\u0440\u0432\u0438\u0440\u043e\u0432\u0430\u043d\u043e \u0434\u043b\u044f \u0431\u0443\u0434\u0443\u0449\u0435\u0433\u043e \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u043d\u0438\u044f \u0421\u043e\u043d\u0435\u0439 \u041b\u0430\u043d\u0433)",
         "eo": "(vorto rezervita por estonteca uzo de Sonja Lang)",
         "de": "(f\u00fcr zuk\u00fcnftige Verwendung von Sonja Lang reserviertes Wort)"
@@ -3879,6 +3903,7 @@
       "commentary": "Coined in a poll in 2002. Replaced \"iki\", which was deemed too similar to \"ike\". Other options in the poll included \"ipi\", as well as \"i\" in a previous poll.",
       "def": {
         "en": "he, she, it, they",
+        "pl": "on, ona, ono, oni, one",
         "ru": "\u043e\u043d, \u043e\u043d\u0430, \u043e\u043d\u043e, \u043e\u043d\u0438",
         "eo": "li, \u015di, ri, \u011di, ili",
         "de": "er, sie, es, sie",
@@ -4951,6 +4976,7 @@
       "ku_data": "you\u2075, your\u2075, yours\u2075, yourself\u2074",
       "def": {
         "en": "you",
+        "pl": "ty, wy",
         "ru": "\u0442\u044b, \u0432\u044b",
         "eo": "vi",
         "de": "du, Sie, ihr; dein, euer"
@@ -5131,6 +5157,7 @@
       },
       "def": {
         "en": "(word reserved for future use by Sonja Lang)",
+        "pl": "(s\u0142owo zarezerwowane do przysz\u0142ego u\u017cytku przez Sonj\u0119 Lang)",
         "ru": "(\u0441\u043b\u043e\u0432\u043e \u0437\u0430\u0440\u0435\u0437\u0435\u0440\u0432\u0438\u0440\u043e\u0432\u0430\u043d\u043e \u0434\u043b\u044f \u0431\u0443\u0434\u0443\u0449\u0435\u0433\u043e \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u043d\u0438\u044f \u0421\u043e\u043d\u0435\u0439 \u041b\u0430\u043d\u0433)",
         "eo": "(vorto rezervita por estonteca uzo de Sonja Lang)",
         "de": "(f\u00fcr zuk\u00fcnftige Verwendung von Sonja Lang reserviertes Wort)"
@@ -5174,6 +5201,7 @@
       "commentary": "The typo was made by jan Sonja while writing ku. The absolute majority of the community does not treat it as a newly coined word.",
       "def": {
         "en": "[typo of sike]",
+        "pl": "[liter\u00f3wka sike]",
         "ru": "[\u043e\u043f\u0435\u0447\u0430\u0442\u043a\u0430 sike]"
       }
     },
@@ -5382,6 +5410,7 @@
       "commentary": "Many proficient speakers use taso as a connector between sentences (X taso Y), similar to \"X, but Y,\" though others do not use this method.",
       "def": {
         "en": "but, however; only",
+        "pl": "ale, jednak\u017ce; tylko, jedyny",
         "ru": "\u043d\u043e, \u043e\u0434\u043d\u0430\u043a\u043e; \u0442\u043e\u043b\u044c\u043a\u043e",
         "eo": "sed, tamen; nur",
         "de": "aber, jedoch; nur"
@@ -5624,6 +5653,7 @@
       "commentary": "The typo was made by jan Sonja while writing ku. The absolute majority of the community does not treat it as a newly coined word.",
       "def": {
         "en": "[typo of tomo]",
+        "pl": "[liter\u00f3wka tomo]",
         "ru": "[\u043e\u043f\u0435\u0447\u0430\u0442\u043a\u0430 tomo]"
       }
     },
@@ -5700,6 +5730,7 @@
       "tags": "nimi nanpa",
       "def": {
         "en": "two | ALT separate, cut",
+        "pl": "dwa | ALT dzieli\u0107, ci\u0105\u0107",
         "ru": "\u0434\u0432\u0430 | ALT \u0434\u0435\u043b\u0438\u0442\u044c, \u0440\u0435\u0437\u0430\u0442\u044c",
         "eo": "du | ALT disigi, tran\u0109i",
         "de": "zwei | ALT teilen, schneiden"
@@ -5747,6 +5778,7 @@
       },
       "def": {
         "en": "(word reserved for future use by Sonja Lang)",
+        "pl": "(s\u0142owo zarezerwowane do przysz\u0142ego u\u017cytku przez Sonj\u0119 Lang)",
         "ru": "(\u0441\u043b\u043e\u0432\u043e \u0437\u0430\u0440\u0435\u0437\u0435\u0440\u0432\u0438\u0440\u043e\u0432\u0430\u043d\u043e \u0434\u043b\u044f \u0431\u0443\u0434\u0443\u0449\u0435\u0433\u043e \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u043d\u0438\u044f \u0421\u043e\u043d\u0435\u0439 \u041b\u0430\u043d\u0433)",
         "eo": "(vorto rezervita por estonteca uzo de Sonja Lang)",
         "de": "(f\u00fcr zuk\u00fcnftige Verwendung von Sonja Lang reserviertes Wort)"
@@ -5785,8 +5817,10 @@
       "etymology": "\u00d8",
       "creator": "jan Sonja",
       "ku_data": "sex\u2075, sexual\u2075, sexually\u2075, fucking\u00b3, fuck\u00b2",
+      "commentary": "Also defined as \"have marital relations with\" in pu; removed due to potential confusion.",
       "def": {
         "en": "have sexual relations with",
+        "pl": "mie\u0107 stosunki seksualne z",
         "ru": "\u0438\u043c\u0435\u0442\u044c \u0441\u0435\u043a\u0441\u0443\u0430\u043b\u044c\u043d\u044b\u0435 \u043e\u0442\u043d\u043e\u0448\u0435\u043d\u0438\u044f \u0441",
         "eo": "seksumi, fiki, amori",
         "de": "Sex, Geschlecht, sexuelle Beziehung mit jemandem haben"
@@ -5986,6 +6020,7 @@
       "tags": "nimi nanpa",
       "def": {
         "en": "unique, united; one",
+        "pl": "jedyny, zjednoczony; jeden",
         "ru": "\u0443\u043d\u0438\u043a\u0430\u043b\u044c\u043d\u044b\u0439, \u0435\u0434\u0438\u043d\u044b\u0439; \u043e\u0434\u0438\u043d",
         "eo": "unika, unuigita, unui\u011dinta; unu",
         "de": "eins; eimalig, vereinen"
@@ -6123,6 +6158,7 @@
       "ku_data": "rid\u2075, removal\u2075, remove\u2075, eliminate\u2074, apart\u2074, omit\u2074, missing\u2074, away\u2074, absence\u2074, loss\u2074, dismiss\u2074, delete\u2074, distant\u2074, leave\u2074, abandon\u2074, vanish\u00b3, far\u00b3, disappear\u00b3, avoid\u00b3, exclude\u00b3, out\u00b3, escape\u00b3, distance\u00b3, drain\u00b2, flee\u00b2, withdraw\u00b2, reject\u00b2, ban\u00b2, sweep\u00b2, exit\u00b2, resign\u00b2, separation\u00b2, skip\u00b2, strip\u00b2, wipe\u00b2, fade\u00b2, lack\u00b2, remote\u00b2, lose\u00b2, separate\u00b2",
       "def": {
         "en": "absent, away, ignored",
+        "pl": "nieobecny, daleki, zignorowany",
         "ru": "\u043e\u0442\u0441\u0443\u0442\u0441\u0442\u0432\u0443\u044e\u0449\u0438\u0439, \u043f\u0440\u043e\u0447\u044c, \u0438\u0433\u043d\u043e\u0440\u0438\u0440\u0443\u0435\u043c\u044b\u0439",
         "eo": "ne\u0109eestanta, fora, ignorata",
         "de": "weg, abwesend, entfernen, ignorieren"
@@ -6196,6 +6232,7 @@
       "ku_data": "want\u2075, wish\u2075, intend\u2075, require\u2075, need\u2075, desire\u2075, intention\u2075, willing\u2075, will\u2075, intent\u2074, preference\u2074, motivation\u2074, necessity\u2074, ought\u2074, yearn\u2074, necessary\u2074, willingness\u2074, ambition\u2074, hope\u2074, prefer\u2074, requirement\u2074, required\u2074, must\u00b3, obligation\u00b3, decision\u00b3, should\u00b3, demand\u00b3, eager\u00b3, request\u00b3, agenda\u00b3, goal\u00b2, would\u00b2, select\u00b2, motive\u00b2, interested\u00b2, criteria\u00b2, dare\u00b2, opt\u00b2, choose\u00b2, consent\u00b2, expectation\u00b2, shall\u00b2, urge\u00b2, determination\u00b2, pick\u00b2, objective\u00b2, depend\u00b2, elect\u00b2, dependent\u00b2, deserve\u00b2, selection\u00b2, incentive\u00b2, strive\u00b2, choice\u00b2, supposed\u00b2, interest\u00b2, enthusiasm\u00b2",
       "def": {
         "en": "must, need, require, should, want, wish",
+        "pl": "musi, potrzebuje, wymaga, powinien, chce, \u017cyczy",
         "ru": "\u0434\u043e\u043b\u0436\u0435\u043d\u0441\u0442\u0432\u043e\u0432\u0430\u0442\u044c, \u043d\u0443\u0436\u0434\u0430\u0442\u044c\u0441\u044f, \u0442\u0440\u0435\u0431\u043e\u0432\u0430\u0442\u044c, \u0445\u043e\u0442\u0435\u0442\u044c, \u0436\u0435\u043b\u0430\u0442\u044c",
         "eo": "devi, bezoni, postuli, voli, deziri",
         "de": "wollen, w\u00fcnschen, sollen, erfordern, brauchen, m\u00fcssen, Wunsch"
