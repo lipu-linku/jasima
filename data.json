@@ -33,7 +33,7 @@
       "name_endonym": "Espa\u00f1ol",
       "name_english": "Spanish",
       "name_toki_pona": "toki Epanja",
-      "completeness_percent": "54"
+      "completeness_percent": "55"
     },
     "hi": {
       "id_long": "hindi",
@@ -103,7 +103,7 @@
       "name_endonym": "toki pona",
       "name_english": "Toki Pona",
       "name_toki_pona": "toki pona",
-      "completeness_percent": "58"
+      "completeness_percent": "60"
     },
     "ur": {
       "id_long": "urdu",
@@ -1427,6 +1427,7 @@
         "eo": "fi\u015do, akva besto, marbesto",
         "de": "Fisch, Meerestier",
         "tok": "ijo ni li tawa lon telo li ken moku e kon tan telo.",
+        "es": "pez, animal marino, criatura del mar",
         "it": "pesce, animale marino, creatura marina"
       }
     },
@@ -5067,6 +5068,7 @@
         "isv_c": "\u0442\u043e\u0458\u0436\u0435, \u043f\u043e\u0434\u043e\u0431\u043d\u044b; \u0458\u0435\u0434\u0438\u043d \u0434\u0440\u0443\u0433\u043e\u0433\u043e; \u0431\u0440\u0430\u0442, \u0441\u0435\u0441\u0442\u0440\u0430, \u0440\u0430\u0432\u0454\u0441\u043d\u0438\u043a; \u043a\u0430\u043a\u043e, \u043f\u043e\u0434\u043e\u0431\u043d\u043e",
         "eo": "sama, simila; unu la alia; frat(in)o, egalulo, kamarado, kunulo; kiel, simile al",
         "de": "gleich, selbig, \u00e4hnlich; einander; Geschwister, Gleichgestellter, Artgenosse; so, wie",
+        "tok": "ijo tu li ante lili anu ante ala la, ijo tu li sama",
         "it": "stesso, simile; l'un l'altro; fratello, pari, compagno; come, uguale"
       }
     },
@@ -5205,6 +5207,7 @@
         "ru": "\u0432\u043d\u0435\u0448\u043d\u044f\u044f \u0444\u043e\u0440\u043c\u0430, \u0432\u043d\u0435\u0448\u043d\u0438\u0439 \u0441\u043b\u043e\u0439; \u043a\u043e\u0440\u0430, \u043a\u043e\u0436\u0443\u0440\u0430, \u0441\u043a\u043e\u0440\u043b\u0443\u043f\u0430, \u043a\u043e\u0436\u0438\u0446\u0430; \u0433\u0440\u0430\u043d\u0438\u0446\u0430",
         "eo": "ekstera formo, ekstera tavolo; \u015delo (de arbo, frukto, molusko), konko, karapaco, ha\u016dto; limo",
         "de": "\u00e4u\u00dfere Form, \u00e4u\u00dfere Schicht; Rinde, Schale, H\u00fclle, Haut; Grenze, Abgrenzung",
+        "tok": "selo li lon insa pi ni tu: insa ona en poka ona.",
         "it": "forma esterna, strato esterno; corteccia, buccia, guscio, pelle; confine"
       }
     },
@@ -5230,6 +5233,7 @@
         "isv_c": "\u0447\u0442\u043e? \u043a\u0442\u043e\u0440\u044b? \u043a\u043e\u0458? \u043a\u0430\u043a\u044b?",
         "eo": "kio? kiu?",
         "de": "was? welche?",
+        "tok": "sina wile sona e ijo la, o pana e nimi ni lon toki sina.",
         "es": "\u00bfqu\u00e9? \u00bfcu\u00e1l?",
         "it": "Cosa? Quale?"
       }
@@ -5356,6 +5360,7 @@
         "isv_c": "\u043d\u043e\u0432\u044b, \u0441\u0432\u0454\u0436\u0438; \u0434\u043e\u0434\u0430\u0442\u043e\u0447\u043d\u044b, \u043f\u043e\u043d\u043e\u0432\u043d\u044b",
         "eo": "nova, fre\u015da; plia, aldona, kroma",
         "de": "neu, frisch; zus\u00e4tzlich, weitere, extra",
+        "tok": "ijo li lon tenpo lili la ijo ni li sin.",
         "es": "nuevo, fresco; adicional, m\u00e1s, extra",
         "it": "nuovo, fresco; aggiuntivo, un altro, extra"
       }
@@ -5673,6 +5678,7 @@
         "ru": "\u0441\u043e\u043b\u043d\u0446\u0435; \u0441\u0432\u0435\u0442, \u044f\u0440\u043a\u043e\u0441\u0442\u044c, \u0441\u0432\u0435\u0447\u0435\u043d\u0438\u0435, \u0441\u0438\u044f\u043d\u0438\u0435; \u0438\u0441\u0442\u043e\u0447\u043d\u0438\u043a \u0441\u0432\u0435\u0442\u0430",
         "eo": "suno; lumo, heleco, lumi, ardi, brilo; lumfonto",
         "de": "Sonne; Licht, Helligkeit, Leuchten, Glanz, Schein; Lichtquelle",
+        "tok": "sina ken lukin e wawa ni. nimi ni li ken toki e ni kin: ijo suno suli lon sewi.",
         "it": "sole; luce, luminosit\u00e0, bagliore, radiosit\u00e0, splendore; fonte di luce"
       }
     },
