@@ -54,14 +54,14 @@
       "name_endonym": "\u041c\u0435\u0434\u0436\u0443\u0441\u043b\u043e\u0432\u0458\u0430\u043d\u0441\u043a\u044b (\u043a\u0438\u0440\u0438\u043b\u0438\u0446\u0430)",
       "name_english": "Interslavic (Cyrillic)",
       "name_toki_pona": "toki Mesulojanki (sitelen Kililisa)",
-      "completeness_percent": "14"
+      "completeness_percent": "20"
     },
     "isv_l": {
       "id_long": "interslavic_latin",
       "name_endonym": "Med\u017euslovjansky (latinica)",
       "name_english": "Interslavic (Latin)",
       "name_toki_pona": "toki Mesulojanki (sitelen Lasina)",
-      "completeness_percent": "14"
+      "completeness_percent": "20"
     },
     "it": {
       "id_long": "italian",
@@ -2977,6 +2977,8 @@
         "en": "I, me, we, us",
         "pl": "ja, my",
         "ru": "\u044f, \u043c\u0435\u043d\u044f, \u043c\u044b, \u043d\u0430\u0441",
+        "isv_l": "ja, mene, my, nas",
+        "isv_c": "\u0458\u0430, \u043c\u0435\u043d\u0435, \u043c\u044b, \u043d\u0430\u0441",
         "eo": "mi, ni",
         "de": "ich, mein, wir, unser",
         "es": "yo, me, nosotros, nos"
@@ -3110,6 +3112,8 @@
       "def": {
         "en": "to eat, drink, consume, swallow, ingest",
         "ru": "\u0435\u0441\u0442\u044c, \u043f\u0438\u0442\u044c, \u0443\u043f\u043e\u0442\u0440\u0435\u0431\u043b\u044f\u0442\u044c, \u0433\u043b\u043e\u0442\u0430\u0442\u044c",
+        "isv_l": "jedati, piti, spotr\u011bbovati, goltati",
+        "isv_c": "\u0458\u0435\u0434\u0430\u0442\u0438, \u043f\u0438\u0442\u0438, \u0441\u043f\u043e\u0442\u0440\u0454\u0431\u043e\u0432\u0430\u0442\u0438, \u0433\u043e\u043b\u0442\u0430\u0442\u0438",
         "eo": "man\u011di, trinki, konsumi, gluti",
         "de": "essen, trinken, konsumieren, schlicken, einverleiben"
       }
@@ -3132,6 +3136,8 @@
         "en": "dead, dying",
         "pl": "martwy, umieraj\u0105cy",
         "ru": "\u043c\u0435\u0440\u0442\u0432\u044b\u0439, \u0443\u043c\u0438\u0440\u0430\u044e\u0449\u0438\u0439",
+        "isv_l": "mrtvy, umiraju\u010di",
+        "isv_c": "\u043c\u0440\u0442\u0432\u044b, \u0443\u043c\u0438\u0440\u0430\u0458\u0443\u0447\u0438",
         "eo": "mortinta, mortanta",
         "de": "tot, sterben, t\u00f6ten"
       }
@@ -3415,6 +3421,8 @@
       "def": {
         "en": "unusual, strange; silly; drunk, intoxicated",
         "ru": "\u043d\u0435\u043e\u0431\u044b\u0447\u043d\u044b\u0439, \u0441\u0442\u0440\u0430\u043d\u043d\u044b\u0439; \u043d\u0435\u043b\u0435\u043f\u044b\u0439; \u043f\u044c\u044f\u043d\u044b\u0439, \u043e\u0434\u0443\u0440\u043c\u0430\u043d\u0435\u043d\u043d\u044b\u0439",
+        "isv_l": "neoby\u010dny, divny, stranny; nemudry; pijany, netr\u011bzvy",
+        "isv_c": "\u043d\u0435\u043e\u0431\u044b\u0447\u043d\u044b, \u0434\u0438\u0432\u043d\u044b, \u0441\u0442\u0440\u0430\u043d\u043d\u044b; \u043d\u0435\u043c\u0443\u0434\u0440\u044b; \u043f\u0438\u0458\u0430\u043d\u044b, \u043d\u0435\u0442\u0440\u0454\u0437\u0432\u044b",
         "eo": "nekutima, stranga; malsa\u011da; ebria",
         "de": "ungew\u00f6hnlich, merkw\u00fcrdig, seltsam, durcheinander; albern; betrunken, berauscht"
       }
@@ -3550,6 +3558,8 @@
         "en": "that, this",
         "pl": "to, tamto",
         "ru": "\u0442\u043e\u0442, \u044d\u0442\u043e\u0442",
+        "isv_l": "toj, tutoj, tamtoj, sej, ov",
+        "isv_c": "\u0442\u043e\u0458, \u0442\u0443\u0442\u043e\u0458, \u0442\u0430\u043c\u0442\u043e\u0458, \u0441\u0435\u0458, \u043e\u0432",
         "eo": "(\u0109i) tio, (\u0109i) tiu",
         "de": "dies, das, jenes",
         "es": "eso, esto, aquel"
@@ -3572,6 +3582,8 @@
       "def": {
         "en": "name, word",
         "ru": "\u0438\u043c\u044f, \u0441\u043b\u043e\u0432\u043e",
+        "isv_l": "ime, slovo",
+        "isv_c": "\u0438\u043c\u0435, \u0441\u043b\u043e\u0432\u043e",
         "eo": "nomo, vorto",
         "de": "Name, Wort"
       }
@@ -3922,6 +3934,8 @@
         "en": "he, she, it, they",
         "pl": "on, ona, ono, oni, one",
         "ru": "\u043e\u043d, \u043e\u043d\u0430, \u043e\u043d\u043e, \u043e\u043d\u0438",
+        "isv_l": "on, ona, ono, oni, one",
+        "isv_c": "\u043e\u043d, \u043e\u043d\u0430, \u043e\u043d\u043e, \u043e\u043d\u0438, \u043e\u043d\u0435",
         "eo": "li, \u015di, ri, \u011di, ili",
         "de": "er, sie, es, sie",
         "es": "\u00e9l, ella, ello, elle, lo, la, le, ellos, ellas"
@@ -3965,6 +3979,8 @@
       "def": {
         "en": "begin, start; open; turn on",
         "ru": "\u043d\u0430\u0447\u0430\u0442\u044c; \u043e\u0442\u043a\u0440\u044b\u0442\u044c; \u0432\u043a\u043b\u044e\u0447\u0438\u0442\u044c, \u0437\u0430\u043f\u0443\u0441\u0442\u0438\u0442\u044c",
+        "isv_l": "po\u010deti, na\u010deti (se); odkryti, otvoriti; vklju\u010diti",
+        "isv_c": "\u043f\u043e\u0447\u0435\u0442\u0438, \u043d\u0430\u0447\u0435\u0442\u0438 (\u0441\u0435); \u043e\u0434\u043a\u0440\u044b\u0442\u0438, \u043e\u0442\u0432\u043e\u0440\u0438\u0442\u0438; \u0432\u043a\u0459\u0443\u0447\u0438\u0442\u0438",
         "eo": "komenci; malfermi; \u015dalti",
         "de": "anfangen, beginnen; \u00f6ffnen; anschalten",
         "es": "empezar, comenzar, iniciar; abrir; encender, prender"
@@ -4082,6 +4098,8 @@
       "def": {
         "en": "do, take action on, work on; build, make, prepare",
         "ru": "\u0434\u0435\u043b\u0430\u0442\u044c, \u0434\u0435\u0439\u0441\u0442\u0432\u043e\u0432\u0430\u0442\u044c, \u0440\u0430\u0431\u043e\u0442\u0430\u0442\u044c; \u0441\u0442\u0440\u043e\u0438\u0442\u044c, \u0441\u043e\u0437\u0434\u0430\u0432\u0430\u0442\u044c, \u0433\u043e\u0442\u043e\u0432\u0438\u0442\u044c",
+        "isv_l": "d\u011blati, rabiti, d\u011bjati; budovati, stvarjati, gotoviti",
+        "isv_c": "\u0434\u0454\u043b\u0430\u0442\u0438, \u0440\u0430\u0431\u0438\u0442\u0438, \u0434\u0454\u0458\u0430\u0442\u0438; \u0431\u0443\u0434\u043e\u0432\u0430\u0442\u0438, \u0441\u0442\u0432\u0430\u0440\u0458\u0430\u0442\u0438, \u0433\u043e\u0442\u043e\u0432\u0438\u0442\u0438",
         "eo": "fari, agi por atingi a\u016d plenumi ion, prilabori; konstrui, fari, prepari",
         "de": "tun, etwas ausf\u00fchren, an etwas arbeiten; bauen, machen, erstellen, vorbereiten"
       }
@@ -4148,6 +4166,8 @@
       "def": {
         "en": "give, send, emit, provide, put, release",
         "ru": "\u0434\u0430\u0442\u044c, \u043e\u0442\u043f\u0440\u0430\u0432\u0438\u0442\u044c, \u0438\u0441\u043f\u0443\u0441\u0442\u0438\u0442\u044c, \u043f\u0440\u0435\u0434\u043e\u0441\u0442\u0430\u0432\u0438\u0442\u044c, \u043f\u043e\u0441\u0442\u0430\u0432\u0438\u0442\u044c, \u043f\u043e\u043b\u043e\u0436\u0438\u0442\u044c, \u0432\u044b\u043f\u0443\u0441\u0442\u0438\u0442\u044c",
+        "isv_l": "dati, poslati, lu\u010diti, dostavjati, klasti, polo\u017eiti, staviti, izpustiti",
+        "isv_c": "\u0434\u0430\u0442\u0438, \u043f\u043e\u0441\u043b\u0430\u0442\u0438, \u043b\u0443\u0447\u0438\u0442\u0438, \u0434\u043e\u0441\u0442\u0430\u0432\u0458\u0430\u0442\u0438, \u043a\u043b\u0430\u0441\u0442\u0438, \u043f\u043e\u043b\u043e\u0436\u0438\u0442\u0438, \u0441\u0442\u0430\u0432\u0438\u0442\u0438, \u0438\u0437\u043f\u0443\u0441\u0442\u0438\u0442\u0438",
         "eo": "doni, sendi, eligi, ellasi, provizi, meti",
         "de": "geben, senden, ausstr\u00f6hmen, bereitstellen, etwas hinstellen, freigeben"
       }
@@ -4367,6 +4387,8 @@
       "def": {
         "en": "black, dark, unlit",
         "ru": "\u0447\u0435\u0440\u043d\u044b\u0439, \u0442\u0435\u043c\u043d\u044b\u0439, \u043d\u0435\u043e\u0441\u0432\u0435\u0449\u0435\u043d\u043d\u044b\u0439",
+        "isv_l": "\u010drny, temny, mra\u010dny, neobsv\u011btljeny",
+        "isv_c": "\u0447\u0440\u043d\u044b, \u0442\u0435\u043c\u043d\u044b, \u043c\u0440\u0430\u0447\u043d\u044b, \u043d\u0435\u043e\u0431\u0441\u0432\u0454\u0442\u0459\u0435\u043d\u044b",
         "eo": "nigra, malhela, malluma",
         "de": "schwarz, dunkel, finster"
       }
@@ -4431,6 +4453,8 @@
       "def": {
         "en": "bug, insect, ant, spider",
         "ru": "\u043d\u0430\u0441\u0435\u043a\u043e\u043c\u043e\u0435, \u0436\u0443\u043a, \u043c\u0443\u0440\u0430\u0432\u0435\u0439, \u043f\u0430\u0443\u043a",
+        "isv_l": "\u017euk, insekt, \u0161estino\u017eka, mravka, pavuk",
+        "isv_c": "\u0436\u0443\u043a, \u0438\u043d\u0441\u0435\u043a\u0442, \u0448\u0435\u0441\u0442\u0438\u043d\u043e\u0436\u043a\u0430, \u043c\u0440\u0430\u0432\u043a\u0430, \u043f\u0430\u0432\u0443\u043a",
         "eo": "artropodo, insekto, formiko, araneo, eta besto",
         "de": "Krabbeltier, Insekt, Ameise, Spinne",
         "es": "bicho, insecto, hormiga, ara\u00f1a"
@@ -4659,6 +4683,8 @@
       "def": {
         "en": "interacting with the official Toki Pona book",
         "ru": "\u0432\u0437\u0430\u0438\u043c\u043e\u0434\u0435\u0439\u0441\u0442\u0432\u0443\u044e\u0449\u0438\u0439 \u0441 \u043e\u0444\u0438\u0446\u0438\u0430\u043b\u044c\u043d\u043e\u0439 \u043a\u043d\u0438\u0433\u043e\u0439 \u0442\u043e\u043a\u0438 \u043f\u043e\u043d\u044b",
+        "isv_l": "vzajemod\u011bjstvuju\u010di, interaguju\u010di s oficialnoju knigoju toki pony",
+        "isv_c": "\u0432\u0437\u0430\u0458\u0435\u043c\u043e\u0434\u0454\u0458\u0441\u0442\u0432\u0443\u0458\u0443\u0447\u0438, \u0438\u043d\u0442\u0435\u0440\u0430\u0433\u0443\u0458\u0443\u0447\u0438 \u0441 \u043e\u0444\u0438\u0446\u0438\u0430\u043b\u043d\u043e\u0458\u0443 \u043a\u043d\u0438\u0433\u043e\u0458\u0443 \u0442\u043e\u043a\u0438 \u043f\u043e\u043d\u044b",
         "eo": "interaganta kun la oficiala libro de Tokipono",
         "de": "mit dem offiziellen Toki-Pona-Buch interagieren"
       }
@@ -4707,6 +4733,8 @@
       "def": {
         "en": "same, similar; each other; sibling, peer, fellow; as, like",
         "ru": "\u0442\u0430\u043a\u043e\u0439 \u0436\u0435, \u043f\u043e\u0445\u043e\u0436\u0438\u0439; \u0434\u0440\u0443\u0433 \u0434\u0440\u0443\u0433\u0430; \u0431\u0440\u0430\u0442, \u0441\u0435\u0441\u0442\u0440\u0430, \u0441\u0432\u0435\u0440\u0441\u0442\u043d\u0438\u043a, \u0442\u043e\u0432\u0430\u0440\u0438\u0449; \u043f\u043e\u0434\u043e\u0431\u043d\u043e",
+        "isv_l": "toj\u017ee, podobny; jedin drugogo; brat, sestra, rav\u011bsnik; kako, podobno",
+        "isv_c": "\u0442\u043e\u0458\u0436\u0435, \u043f\u043e\u0434\u043e\u0431\u043d\u044b; \u0458\u0435\u0434\u0438\u043d \u0434\u0440\u0443\u0433\u043e\u0433\u043e; \u0431\u0440\u0430\u0442, \u0441\u0435\u0441\u0442\u0440\u0430, \u0440\u0430\u0432\u0454\u0441\u043d\u0438\u043a; \u043a\u0430\u043a\u043e, \u043f\u043e\u0434\u043e\u0431\u043d\u043e",
         "eo": "sama, simila; unu la alia; frat(in)o, egalulo, kamarado, kunulo; kiel, simile al",
         "de": "gleich, selbig, \u00e4hnlich; einander; Geschwister, Gleichgestellter, Artgenosse; so, wie"
       }
@@ -4855,7 +4883,9 @@
       "ku_data": "what\u2075, which\u2074, huh\u00b3",
       "def": {
         "en": "what? which?",
-        "ru": "\u043a\u0430\u043a\u043e\u0439? \u043a\u043e\u0442\u043e\u0440\u044b\u0439?",
+        "ru": "\u0447\u0442\u043e? \u043a\u0430\u043a\u043e\u0439? \u043a\u043e\u0442\u043e\u0440\u044b\u0439?",
+        "isv_l": "\u010dto? ktory? koj? kaky?",
+        "isv_c": "\u0447\u0442\u043e? \u043a\u0442\u043e\u0440\u044b? \u043a\u043e\u0458? \u043a\u0430\u043a\u044b?",
         "eo": "kio? kiu?",
         "de": "was? welche?",
         "es": "\u00bfqu\u00e9? \u00bfcu\u00e1l?"
