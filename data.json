@@ -54,21 +54,21 @@
       "name_endonym": "\u041c\u0435\u0434\u0436\u0443\u0441\u043b\u043e\u0432\u0458\u0430\u043d\u0441\u043a\u044b (\u043a\u0438\u0440\u0438\u043b\u0438\u0446\u0430)",
       "name_english": "Interslavic (Cyrillic)",
       "name_toki_pona": "toki Mesulojanki (sitelen Kililisa)",
-      "completeness_percent": "47"
+      "completeness_percent": "48"
     },
     "isv_l": {
       "id_long": "interslavic_latin",
       "name_endonym": "Med\u017euslovjansky (latinica)",
       "name_english": "Interslavic (Latin)",
       "name_toki_pona": "toki Mesulojanki (sitelen Lasina)",
-      "completeness_percent": "47"
+      "completeness_percent": "48"
     },
     "it": {
       "id_long": "italian",
       "name_endonym": "Italiano",
       "name_english": "Italian",
       "name_toki_pona": "toki Italija",
-      "completeness_percent": "21"
+      "completeness_percent": "50"
     },
     "la": {
       "id_long": "latin",
@@ -89,7 +89,7 @@
       "name_endonym": "Polski",
       "name_english": "Polish",
       "name_toki_pona": "toki Posuka",
-      "completeness_percent": "90"
+      "completeness_percent": "100"
     },
     "ru": {
       "id_long": "russian",
@@ -127,7 +127,7 @@
       "description": "definitions (German)"
     },
     "jan Kita": {
-      "description": "definitions (toki pona, Polish)"
+      "description": "definitions (Polish, some toki pona)"
     },
     "jan Lakuwinsu": {
       "description": "definitions (Cebuano)"
@@ -203,6 +203,7 @@
       "commentary": "This word is deprecated by the creator, replaced by \"natu\".",
       "def": {
         "en": "cross-like shape, intersection, overlap [alternative form of natu]",
+        "pl": "kszta\u0142t krzy\u017copodobny, skrzy\u017cowanie, zachodzenie si\u0119 [alternatywna forma natu]",
         "ru": "\u043a\u0440\u0435\u0441\u0442\u043e\u043e\u0431\u0440\u0430\u0437\u043d\u0430\u044f \u0444\u043e\u0440\u043c\u0430, \u043f\u0435\u0440\u0435\u0441\u0435\u0447\u0435\u043d\u0438\u0435, \u043f\u0435\u0440\u0435\u043a\u0440\u044b\u0442\u0438\u0435 [\u0430\u043b\u044c\u0442\u0435\u0440\u043d\u0430\u0442\u0438\u0432\u043d\u0430\u044f \u0444\u043e\u0440\u043c\u0430 natu]",
         "de": "kreuzartige Form, Wegeskreuzung, \u00dcberschneidung [Alternative zu natu]"
       }
@@ -407,7 +408,7 @@
         "isv_c": "\u043a\u043b\u0430\u045a\u0430\u0458\u0443\u0447\u0438 \u0441\u0435, \u043d\u0430 \u0434\u043e\u043b, \u0441\u043a\u0440\u043e\u043c\u043d\u044b, \u043f\u0440\u0438\u0437\u0435\u043c\u0458\u0435\u043d\u044b, \u0437\u0430\u0432\u0438\u0441\u043d\u044b, \u0437\u0430\u043b\u0435\u0436\u043d\u044b | ALT \u0434\u043d\u043e, \u0434\u043e\u043b, \u043f\u043e\u0434\u043b\u043e\u0433\u0430; \u0434\u043e\u043b\u043d\u044b, \u043d\u0438\u0437\u0448\u0438",
         "eo": "klinanta sin, malsupren, humila, modesta, dependa | ALT malsupro, malsupra parto, sub, planko, fundo; malsupra, suba, malalta",
         "de": "herunter, unter, nieder, niedrig, unten, Grund, Boden",
-        "it": "inchinarsi, verso il basso, umile, basso, dipendente | ALT fondo, parte inferiore, sotto, pavimento, al di sotto; basso, inferiore, fondo, gi\u00f9"
+        "it": "inchinarsi, verso il basso, umile, dipendente | ALT fondo, parte inferiore, sotto, pavimento, al di sotto; basso, inferiore, gi\u00f9"
       }
     },
     "ante": {
@@ -459,6 +460,7 @@
         "isv_c": "\u0438\u043b\u0438, \u0430\u0431\u043e | ALT \u0438\u0437\u0431\u0438\u0440\u0430\u0442\u0438, \u0440\u0454\u0448\u0430\u0442\u0438",
         "eo": "a\u016d | ALT elekti, decidi",
         "de": "oder | w\u00e4hlen, sich entscheiden",
+        "tok": "ken la, ijo li nanpa wan. ken la, ijo li nanpa tu. ni la, ijo li nanpa wan anu nanpa tu.",
         "es": "o | ALT escoger, decidir",
         "it": "o | ALT scegliere, decidere"
       }
@@ -506,6 +508,7 @@
       "see_also": "utala, pakala, tawa",
       "def": {
         "en": "bump, knock, jolt",
+        "pl": "uderzenie, stukni\u0119cie, wstrz\u0105s",
         "ru": "\u0443\u0434\u0430\u0440, \u0441\u0442\u0443\u043a, \u0442\u043e\u043b\u0447\u043e\u043a",
         "de": "sto\u00dfen, klopfen, r\u00fctteln"
       }
@@ -568,6 +571,7 @@
       "commentary": "It is recommended to use \"natu\" instead.",
       "def": {
         "en": "cross-like shape, intersection, overlap [alternative form of natu]",
+        "pl": "kszta\u0142t krzy\u017copodobny, skrzy\u017cowanie, zachodzenie si\u0119 [alternatywna forma natu]",
         "ru": "\u043a\u0440\u0435\u0441\u0442\u043e\u043e\u0431\u0440\u0430\u0437\u043d\u0430\u044f \u0444\u043e\u0440\u043c\u0430, \u043f\u0435\u0440\u0435\u0441\u0435\u0447\u0435\u043d\u0438\u0435, \u043f\u0435\u0440\u0435\u043a\u0440\u044b\u0442\u0438\u0435 [\u0430\u043b\u044c\u0442\u0435\u0440\u043d\u0430\u0442\u0438\u0432\u043d\u0430\u044f \u0444\u043e\u0440\u043c\u0430 natu]",
         "de": "kreuzartige Form, Wegeskreuzung, \u00dcberschneidung [Alternative zu natu]"
       }
@@ -615,6 +619,7 @@
       "see_also": "lon, ma",
       "def": {
         "en": "(spatial equivalents of tenpo constructions) space, place, distance, size (length, width, height, depth, area, volume)",
+        "pl": "(przestrzenny odpowiednik tenpo) przestrze\u0144, miejsce, odleg\u0142o\u015b\u0107, rozmiar (d\u0142ugo\u015b\u0107, szeroko\u015b\u0107, wysoko\u015b\u0107, g\u0142\u0119boko\u015b\u0107, powierzchnia, obj\u0119to\u015b\u0107)",
         "ru": "(\u043f\u0440\u043e\u0441\u0442\u0440\u0430\u043d\u0441\u0442\u0432\u0435\u043d\u043d\u044b\u0435 \u044d\u043a\u0432\u0438\u0432\u0430\u043b\u0435\u043d\u0442\u044b \u043a\u043e\u043d\u0441\u0442\u0440\u0443\u043a\u0446\u0438\u0439 \u0441 tenpo) \u043f\u0440\u043e\u0441\u0442\u0440\u0430\u043d\u0441\u0442\u0432\u043e, \u043c\u0435\u0441\u0442\u043e, \u0440\u0430\u0441\u0441\u0442\u043e\u044f\u043d\u0438\u0435, \u0440\u0430\u0437\u043c\u0435\u0440 (\u0434\u043b\u0438\u043d\u0430, \u0448\u0438\u0440\u0438\u043d\u0430, \u0432\u044b\u0441\u043e\u0442\u0430, \u0433\u043b\u0443\u0431\u0438\u043d\u0430, \u043f\u043b\u043e\u0449\u0430\u0434\u044c, \u043e\u0431\u044a\u0451\u043c)",
         "de": "(r\u00e4umliche Entsprechungen von tenpo-Konstruktionen) Raum, Ort, Entfernung, Gr\u00f6\u00dfe (L\u00e4nge, Breite, H\u00f6he, Tiefe, Fl\u00e4che, Volumen)",
         "tok": "enko li ma anu tomo anu mute suli anu mute weka lon insa pi ijo tu."
@@ -647,7 +652,8 @@
         "hi": "\u0917\u093c\u091c\u092c, \u0905\u0926\u094d\u092d\u0941\u0924, \u0936\u093e\u0928\u0926\u093e\u0930, \u0932\u093e\u091c\u0935\u093e\u092c",
         "ur": "\u063a\u062c\u0628\u060c \u0634\u0627\u0646\u062f\u0627\u0631\u060c \u0644\u0627\u062c\u0648\u0627\u0628\u060c \u062d\u06cc\u0631\u062a \u0627\u0646\u06af\u06cc\u0632",
         "pa": "\u0a17\u0a1c\u0a2c, \u0a38\u0a3c\u0a3e\u0a28\u0a26\u0a3e\u0a30, \u0a32\u0a3e\u0a1c\u0a35\u0a3e\u0a2c",
-        "id": "epik, keren, hebat, menakjubkan"
+        "id": "epik, keren, hebat, menakjubkan",
+        "it": "epico, figo, fantastico, sorprendente"
       }
     },
     "esun": {
@@ -776,6 +782,7 @@
       "etymology": "io \u2018something\u2019 \u2190 Romance i- \u2018(relative pronoun root)\u2019",
       "creator": "jan Sonja",
       "ku_data": "thing\u2075, stuff\u2075, item\u2075, something\u2075, object\u2075, entity\u2075, phenomenon\u2074, material\u2074, matter (n)\u2074, substance\u00b3, anything\u00b3, element\u00b2, asset\u00b2, being\u00b2, chemical\u00b2, subject\u00b2, product\u00b2, stock\u00b2, example\u00b2",
+      "commentary": "There is a general tendency to use ijo for inanimate objects.",
       "def": {
         "en": "thing, phenomenon, object, matter",
         "pl": "co\u015b, zjawisko, obiekt, materia",
@@ -1163,6 +1170,7 @@
       },
       "def": {
         "en": "a particular group of early members of the ma pona Discord",
+        "pl": "konkretna grupa wczesnych cz\u0142onk\u00f3w Discorda ma pona",
         "ru": "\u043e\u043f\u0440\u0435\u0434\u0435\u043b\u0451\u043d\u043d\u0430\u044f \u0433\u0440\u0443\u043f\u043f\u0430 \u0440\u0430\u043d\u043d\u0438\u0445 \u0447\u043b\u0435\u043d\u043e\u0432 \u0414\u0438\u0441\u043a\u043e\u0440\u0434-\u0441\u0435\u0440\u0432\u0435\u0440\u0430 ma pona",
         "de": "eine bestimmte Gruppe fr\u00fcher Nutzer des Discord-Servers ma pona"
       }
@@ -1193,7 +1201,8 @@
         "hi": "\u092a\u0930\u091b\u093e\u0908, \u0906\u0908\u0928\u093e, \u0936\u0940\u0936\u093e, \u0909\u0932\u091f\u093e, \u0935\u093f\u092a\u094d\u0930\u0940\u0924",
         "ur": "\u0639\u06a9\u0627\u0633\u06cc\u060c \u067e\u0631\u0686\u06be\u0627\u0626\u06cc\u060c \u0622\u0626\u06cc\u0646\u06c1\u060c \u0634\u06cc\u0634\u06c1\u060c \u0627\u0644\u0679\u0627 \u060c \u0645\u062e\u0627\u0644\u0641",
         "pa": "\u0a2a\u0a30\u0a1b\u0a3e\u0a08, \u0a06\u0a08\u0a28\u0a3e, \u0a38\u0a3c\u0a40\u0a38\u0a3c\u0a3e, \u0a2a\u0a41\u0a71\u0a20\u0a3e",
-        "id": "memantulkan, menggema, cermin, kebalikan"
+        "id": "memantulkan, menggema, cermin, kebalikan",
+        "it": "riflettere, risuonare, rispecchiare, essere all'estremit\u00e0 opposta/polare di"
       }
     },
     "jatu": {
@@ -1239,6 +1248,7 @@
       "see_also": "a; wa",
       "def": {
         "en": "(indicating excitement)",
+        "pl": "(oznacza podekscytowanie)",
         "ru": "(\u0443\u043a\u0430\u0437\u044b\u0432\u0430\u0435\u0442 \u043d\u0430 \u0432\u043e\u043b\u043d\u0435\u043d\u0438\u0435, \u0432\u043e\u0437\u0431\u0443\u0436\u0434\u0435\u043d\u0438\u0435)",
         "eo": "(indikas entuziasmon)",
         "de": "(Aufregung, Begeisterung)"
@@ -1310,6 +1320,7 @@
       "commentary": "Coined in reference to the Untitled Goose Game fandom.",
       "def": {
         "en": "goose, goose noise",
+        "pl": "g\u0119\u015b, odg\u0142os g\u0119si",
         "ru": "\u0433\u0443\u0441\u044c, \u0433\u043e\u0433\u043e\u0442 \u0433\u0443\u0441\u044f",
         "eo": "ansero, ansera sono",
         "de": "Gans, G\u00e4nseger\u00e4usch"
@@ -1351,6 +1362,7 @@
       "commentary": "Experimental, to see how the meaning could be expanded, but never actually used. No set of meanings was ever settled on before stopping the experiment, but one potential meaning the creator particularly liked was \"fantasy\" or \"unreality\", without a negative connotation.",
       "def": {
         "en": "dream",
+        "pl": "sen",
         "ru": "\u0441\u043e\u043d",
         "de": "Traum",
         "es": "sue\u00f1o"
@@ -1447,7 +1459,7 @@
       },
       "def": {
         "en": "pirate noise",
-        "pl": "odg\u0142os piracki",
+        "pl": "odg\u0142os pirata",
         "ru": "\u043a\u0440\u0438\u043a \u043f\u0438\u0440\u0430\u0442\u0430",
         "isv_l": "krik pirata",
         "isv_c": "\u043a\u0440\u0438\u043a \u043f\u0438\u0440\u0430\u0442\u0430",
@@ -1473,7 +1485,7 @@
         "isv_c": "\u043f\u0440\u0438\u0445\u043e\u0434\u0435\u0447\u0438, \u043f\u0440\u0438\u0431\u044b\u0432\u0430\u0458\u0443\u0447\u0438, \u0431\u0443\u0434\u0443\u0447\u0438, \u043f\u0440\u0438\u0437\u0432\u0430\u043d\u044b; (pv.) \u0441\u0442\u0430\u0442\u0438, \u0443\u0441\u043f\u0454\u0442\u0438, \u0443\u0434\u0430\u0432\u0430\u0442\u0438 \u0441\u0435",
         "eo": "alvenanta, venonta, estonteca, vokita; (a.v.) i\u011di, sukcesi, elturni\u011di pri",
         "de": "kommen, ankommen, Zukunft | (pv.) werden, etw. fertigbringen",
-        "it": "arrivare, venire, futuro, convocato; (pv.) diventare, riuscire a, riuscire a"
+        "it": "arrivare, venire, futuro, convocato; (pv.) diventare, riuscire a"
       }
     },
     "kamalawala": {
@@ -1673,7 +1685,7 @@
         "eo": "povi, rajti; ebla",
         "de": "k\u00f6nnen, zu etw. imstande sein, d\u00fcrfen; m\u00f6glich",
         "es": "ser capaz de, ser permitido, poder, posible",
-        "it": "essere in grado di, essere autorizzato a, pu\u00f2, pu\u00f2; possibile"
+        "it": "essere in grado di, essere autorizzato a, pu\u00f2; possibile"
       }
     },
     "kepeken": {
@@ -1783,7 +1795,8 @@
         "hi": "Procyonidae \u0915\u0941\u0932 \u0915\u093e \u0915\u094b\u0908 \u091c\u0940\u0935, \u091c\u0948\u0938\u0947 \u0930\u0915\u0942\u0928, \u0913\u0932\u093f\u0902\u0917\u094b \u0906\u0926\u093f",
         "ur": "\u067e\u0631\u0648\u0633\u06cc\u0648\u0646\u0627\u0626\u0688\u0627\u0626 \u062e\u0627\u0646\u062f\u0627\u0646 \u06a9\u06d2 \u06a9\u0633\u06cc \u0628\u06be\u06cc \u062d\u06cc\u0627\u062a\u06cc\u0627\u062a \u060c \u062c\u06cc\u0633\u06d2 \u0631\u06cc\u06a9\u0648\u0646\u0632 \u060c \u0627\u0648\u0644\u06cc\u0646\u06af\u0648 \u0648\u063a\u06cc\u0631\u06c1\u06d4",
         "pa": "Procyonidae \u0a15\u0a41\u0a32 \u0a26\u0a3e \u0a15\u0a4b\u0a08 \u0a1c\u0a3e\u0a28\u0a35\u0a30: \u0a30\u0a15\u0a42\u0a28, \u0a13\u0a32\u0a3f\u0a70\u0a17\u0a4b, \u0a06\u0a26\u0a3f",
-        "id": "semua hewan dalam famili Procyonidae, seperti rakun, coati, dan kucing ekor cincin"
+        "id": "semua hewan dalam famili Procyonidae, seperti rakun, coati, dan kucing ekor cincin",
+        "it": "qualsiasi animale della famiglia Procyonidae, come procioni, coatis, kinkajous, olingos, ringtail e cacomistles | ALT qualsiasi animale della superfamiglia Musteloidea, compresi procioni, donnole, lontre, puzzole e panda rossi"
       }
     },
     "kiki": {
@@ -1873,7 +1886,8 @@
         "hi": "\u092d\u0940",
         "ur": "\u0628\u06be\u06cc",
         "pa": "\u0a35\u0a40",
-        "id": "memang; juga, pun, pula; bahkan"
+        "id": "memang; juga, pun, pula; bahkan",
+        "it": "{vedi a} | ALT infatti, pure, anche, come pure"
       }
     },
     "kipisi": {
@@ -1907,7 +1921,8 @@
         "hi": "\u092c\u093e\u0902\u091f\u0928\u093e, \u0915\u093e\u091f\u0928\u093e, \u0924\u0940\u0916\u093e",
         "ur": "\u0628\u0627\u06ba\u0679\u0646\u0627\u060c \u06a9\u0627\u0679\u0646\u0627 \u060c \u062a\u06cc\u0632 \u0627\u0648\u0631 \u062a\u06cc\u062e\u0627",
         "pa": "\u0a35\u0a70\u0a21\u0a23\u0a3e, \u0a15\u0a3e\u0a1f\u0a23\u0a3e, \u0a24\u0a3f\u0a71\u0a16\u0a3e",
-        "id": "membagi, memotong, mengiris, memutus; tajam"
+        "id": "membagi, memotong, mengiris, memutus; tajam",
+        "it": "dividere, tagliare, affettare, recidere; affilato"
       }
     },
     "kisa": {
@@ -1953,10 +1968,10 @@
       "commentary": "Coined in a poll in 2002.",
       "def": {
         "en": "hard object, metal, rock, stone",
-        "pl": "twarda rzecz, metal, g\u0142az, ska\u0142a, kamie\u0144",
-        "ru": "\u0442\u0432\u0435\u0440\u0434\u044b\u0439 \u043f\u0440\u0435\u0434\u043c\u0435\u0442, \u043c\u0435\u0442\u0430\u043b\u043b, \u043a\u0430\u043c\u0435\u043d\u044c, \u0433\u043e\u0440\u043d\u0430\u044f \u043f\u043e\u0440\u043e\u0434\u0430",
-        "isv_l": "tvrdy objekt, metal, kamenj, skala",
-        "isv_c": "\u0442\u0432\u0440\u0434\u044b \u043e\u0431\u0458\u0435\u043a\u0442, \u043c\u0435\u0442\u0430\u043b, \u043a\u0430\u043c\u0435\u045a, \u0441\u043a\u0430\u043b\u0430",
+        "pl": "co\u015b twardego, metal, g\u0142az, ska\u0142a, kamie\u0144",
+        "ru": "\u043d\u0435\u0447\u0442\u043e \u0442\u0432\u0451\u0440\u0434\u043e\u0435, \u043c\u0435\u0442\u0430\u043b\u043b, \u043a\u0430\u043c\u0435\u043d\u044c, \u0433\u043e\u0440\u043d\u0430\u044f \u043f\u043e\u0440\u043e\u0434\u0430",
+        "isv_l": "n\u011b\u010dto tvrdo, metal, kamenj, skala",
+        "isv_c": "\u043d\u0454\u0447\u0442\u043e \u0442\u0432\u0440\u0434\u043e, \u043c\u0435\u0442\u0430\u043b, \u043a\u0430\u043c\u0435\u045a, \u0441\u043a\u0430\u043b\u0430",
         "eo": "malmola\u0135o, metalo, roko, \u015dtono",
         "de": "hart, Stein, Metall, hartes Ding",
         "it": "oggetto duro, metallo, roccia, pietra"
@@ -1985,7 +2000,7 @@
         "isv_c": "\u0433\u043b\u0438\u043d\u0430, \u043d\u0454\u0447\u0442\u043e \u043b\u0454\u043f\u0458\u0435\u043d\u043e, \u0442\u0454\u0441\u0442\u043e, \u043d\u0454\u0447\u0442\u043e \u043f\u043e\u043b\u0443\u0442\u0432\u0440\u0434\u043e, \u043f\u0430\u0441\u0442\u0430, \u043f\u0440\u0430\u0448\u0435\u043a",
         "eo": "argilo, kunteni\u011danta a\u016d adhera formo, pasto, duonsolida\u0135o, pulvoro",
         "de": "Ton, anhaftende Form, Teig, Paste, Pulver, halbfest",
-        "it": "argilla, forma aderente, pasta, semisolido, pasta, polvere"
+        "it": "argilla, forma aderente, pasta, semisolido, polvere"
       }
     },
     "kokosila": {
@@ -2056,6 +2071,7 @@
       "commentary": "Conway refers to John Horton Conway, creator of the cellular automaton Game of Life.",
       "def": {
         "en": "animacy, life, autonomy; autonomous being, living thing, organism; alive, animate, dynamic; to animate, to bring to life",
+        "pl": "o\u017cywiono\u015b\u0107, \u017cycie, autonomiczno\u015b\u0107; istota autonomiczna, co\u015b \u017cyj\u0105cego, organizm; \u017cywy, dynamiczny; o\u017cywi\u0107",
         "ru": "\u043e\u0434\u0443\u0448\u0435\u0432\u043b\u0435\u043d\u043d\u043e\u0441\u0442\u044c, \u0436\u0438\u0437\u043d\u044c, \u0430\u0432\u0442\u043e\u043d\u043e\u043c\u043d\u043e\u0441\u0442\u044c; \u0430\u0432\u0442\u043e\u043d\u043e\u043c\u043d\u043e\u0435 \u0441\u0443\u0449\u0435\u0441\u0442\u0432\u043e, \u0436\u0438\u0432\u043e\u0435 \u0441\u0443\u0449\u0435\u0441\u0442\u0432\u043e, \u043e\u0440\u0433\u0430\u043d\u0438\u0437\u043c; \u0436\u0438\u0432\u043e\u0439, \u043e\u0434\u0443\u0448\u0435\u0432\u043b\u0451\u043d\u043d\u044b\u0439, \u0434\u0438\u043d\u0430\u043c\u0438\u0447\u0435\u0441\u043a\u0438\u0439; \u043e\u0436\u0438\u0432\u0438\u0442\u044c",
         "de": "Lebhaftigkeit, Leben, Selbstst\u00e4ndigkeit; selbstst\u00e4ndiges Wesen, Lebewesen, Organismus; lebendig, beseelt, dynamisch, beleben, zum Leben erwacken"
       }
@@ -2071,6 +2087,7 @@
       "creator": "jan Seni, jan inwin",
       "def": {
         "en": "guard, protect, defend, shield, brace, fortify from outside",
+        "pl": "strzec, broni\u0107, os\u0142ania\u0107, wzmacnia\u0107, fortyfikowa\u0107 z zewn\u0105trz",
         "ru": "\u043e\u0445\u0440\u0430\u043d\u044f\u0442\u044c, \u0437\u0430\u0449\u0438\u0449\u0430\u0442\u044c, \u043e\u0431\u043e\u0440\u043e\u043d\u044f\u0442\u044c, \u0437\u0430\u0441\u043b\u043e\u043d\u044f\u0442\u044c, \u0443\u043a\u0440\u0435\u043f\u043b\u044f\u0442\u044c",
         "eo": "gardi, protekti, defendi, \u015dirmi, fortikigi ekstere",
         "de": "bewachen, sch\u00fctzen, verteidigen, abschirmen, abst\u00fctzen, abschanzen, von au\u00dfen sichern"
@@ -2205,7 +2222,7 @@
         "isv_c": "\u0441\u043f\u043e\u043b\u043e\u0447\u043d\u043e\u0441\u0442, \u043a\u043e\u043c\u043f\u0430\u043d\u0438\u0458\u0430, \u0433\u0440\u0443\u043f\u0430, \u043d\u0430\u0446\u0438\u0458\u0430, \u0441\u043f\u043e\u043b\u043e\u0447\u0435\u043d\u0441\u0442\u0432\u043e, \u0434\u0440\u0443\u0436\u0441\u0442\u0432\u043e, \u043f\u043b\u0435\u043c\u0435",
         "eo": "komunumo, kunularo, grupo, nacio, socio, tribo",
         "de": "Gruppe, Gemeinschaft, Gesellschaft, Stamm",
-        "it": "comunit\u00e0, societ\u00e0, gruppo, nazione, societ\u00e0, trib\u00f9"
+        "it": "comunit\u00e0, societ\u00e0, gruppo, nazione, trib\u00f9"
       }
     },
     "kuntu": {
@@ -2448,7 +2465,7 @@
         "isv_c": "\u043f\u043b\u0430\u0442\u043d\u043e, \u043e\u0434\u0454\u0434\u0436\u0430, \u0442\u043a\u0430\u043d\u0438\u043d\u0430, \u0442\u0435\u043a\u0441\u0442\u0438\u0459; \u043f\u043e\u043a\u0440\u044b\u0442\u0458\u0435, \u0441\u043b\u043e\u0458 \u043f\u0440\u0438\u0432\u0430\u0442\u043d\u043e\u0441\u0442\u0438",
         "eo": "\u015dtofo, vesta\u0135o, teksa\u0135o; kovra\u0135o, tavolo da privateco",
         "de": "Stoff, Kleidung, Gewebe, Struktur, bedecken, Abdeckung",
-        "it": "panno, abbigliamento, tessuto, tessuto; copertura, strato di privacy"
+        "it": "panno, abbigliamento, tessuto; copertura, strato di privacy"
       }
     },
     "lenke": {
@@ -2518,7 +2535,9 @@
       "def": {
         "en": "(between any subject except mi alone or sina alone and its verb; also to introduce a new verb for the same subject)",
         "pl": "(pomi\u0119dzy podmiotem innym od samego mi czy samego sina a jego orzeczeniem; tak\u017ce wprowadza nowe orzeczenie dla tego samego podmiotu)",
-        "ru": "(\u043c\u0435\u0436\u0434\u0443 \u043b\u044e\u0431\u044b\u043c \u043f\u043e\u0434\u043b\u0435\u0436\u0430\u0449\u0438\u043c, \u043a\u0440\u043e\u043c\u0435 \u0435\u0434\u0438\u043d\u0441\u0442\u0432\u0435\u043d\u043d\u043e\u0433\u043e mi \u0438\u043b\u0438 \u0435\u0434\u0438\u043d\u0441\u0442\u0432\u0435\u043d\u043d\u043e\u0433\u043e sina, \u0438 \u0435\u0433\u043e \u0441\u043a\u0430\u0437\u0443\u0435\u043c\u044b\u043c; \u0442\u0430\u043a\u0436\u0435 \u0432\u0432\u0435\u0441\u0442\u0438 \u043d\u043e\u0432\u043e\u0435 \u0441\u043a\u0430\u0437\u0443\u0435\u043c\u043e\u0435 \u0434\u043b\u044f \u0442\u043e\u0433\u043e \u0436\u0435 \u043f\u043e\u0434\u043b\u0435\u0436\u0430\u0449\u0435\u0433\u043e) ",
+        "ru": "(\u043c\u0435\u0436\u0434\u0443 \u043b\u044e\u0431\u044b\u043c \u043f\u043e\u0434\u043b\u0435\u0436\u0430\u0449\u0438\u043c, \u043a\u0440\u043e\u043c\u0435 \u0435\u0434\u0438\u043d\u0441\u0442\u0432\u0435\u043d\u043d\u043e\u0433\u043e mi \u0438\u043b\u0438 \u0435\u0434\u0438\u043d\u0441\u0442\u0432\u0435\u043d\u043d\u043e\u0433\u043e sina, \u0438 \u0435\u0433\u043e \u0441\u043a\u0430\u0437\u0443\u0435\u043c\u044b\u043c; \u0442\u0430\u043a\u0436\u0435 \u0434\u043b\u044f \u0432\u0432\u043e\u0434\u0430 \u043d\u043e\u0432\u043e\u0433\u043e \u0441\u043a\u0430\u0437\u0443\u0435\u043c\u043e\u0433\u043e \u0434\u043b\u044f \u0442\u043e\u0433\u043e \u0436\u0435 \u043f\u043e\u0434\u043b\u0435\u0436\u0430\u0449\u0435\u0433\u043e)",
+        "isv_l": "(med\u017eu ktorym-libo subjektom, krom\u011b jedinogo mi abo jedinogo sina, i jego predikatom; tako\u017ee dlja vvod\u017eenja novogo predikata tomu\u017ee subjektu)",
+        "isv_c": "(\u043c\u0435\u0434\u0436\u0443 \u043a\u0442\u043e\u0440\u044b\u043c-\u043b\u0438\u0431\u043e \u0441\u0443\u0431\u0458\u0435\u043a\u0442\u043e\u043c, \u043a\u0440\u043e\u043c\u0454 \u0458\u0435\u0434\u0438\u043d\u043e\u0433\u043e \u043c\u0438 \u0430\u0431\u043e \u0458\u0435\u0434\u0438\u043d\u043e\u0433\u043e \u0441\u0438\u043d\u0430, \u0438 \u0458\u0435\u0433\u043e \u043f\u0440\u0435\u0434\u0438\u043a\u0430\u0442\u043e\u043c; \u0442\u0430\u043a\u043e\u0436\u0435 \u0434\u0459\u0430 \u0432\u0432\u043e\u0434\u0436\u0435\u045a\u0430 \u043d\u043e\u0432\u043e\u0433\u043e \u043f\u0440\u0435\u0434\u0438\u043a\u0430\u0442\u0430 \u0442\u043e\u043c\u0443\u0436\u0435 \u0441\u0443\u0431\u0458\u0435\u043a\u0442\u0443)",
         "eo": "(inter ajna subjekto krom nura \u201cmi\u201d a\u016d nura \u201csina\u201d kaj ties verbo; anka\u016d por enkonduki novan verbon de la sama subjekto)",
         "de": "(zwischen einem beliebigen Subjekt au\u00dfer \"mi\" oder \"sina\" und seinem Verb; auch zur Einf\u00fchrung eines neuen Verbs f\u00fcr dasselbe Subjekt)",
         "it": "(tra qualsiasi soggetto tranne mi da solo o sina da solo e il suo verbo; anche per introdurre un nuovo verbo per lo stesso soggetto)"
@@ -2784,6 +2803,8 @@
         "en": "located at, present at, real, true, existing | ALT (affirmative response)",
         "pl": "obecny w / na, rzeczywisty, prawdziwy, istniej\u0105cy | ALT (odpowied\u017a twierdz\u0105ca)",
         "ru": "\u043d\u0430\u0445\u043e\u0434\u044f\u0449\u0438\u0439\u0441\u044f, \u043d\u0430\u0441\u0442\u043e\u044f\u0449\u0438\u0439, \u0441\u0443\u0449\u0435\u0441\u0442\u0432\u0443\u044e\u0449\u0438\u0439, \u0434\u0435\u0439\u0441\u0442\u0432\u0438\u0442\u0435\u043b\u044c\u043d\u044b\u0439 | ALT (\u043f\u043e\u043b\u043e\u0436\u0438\u0442\u0435\u043b\u044c\u043d\u044b\u0439 \u043e\u0442\u0432\u0435\u0442)",
+        "isv_l": "nahode\u010di se, su\u010di, realny, istinny, pravdivy, egzistuju\u010di | ALT (pozitivna odpov\u011bd)",
+        "isv_c": "\u043d\u0430\u0445\u043e\u0434\u0435\u0447\u0438 \u0441\u0435, \u0441\u0443\u0447\u0438, \u0440\u0435\u0430\u043b\u043d\u044b, \u0438\u0441\u0442\u0438\u043d\u043d\u044b, \u043f\u0440\u0430\u0432\u0434\u0438\u0432\u044b, \u0435\u0433\u0437\u0438\u0441\u0442\u0443\u0458\u0443\u0447\u0438 | ALT (\u043f\u043e\u0437\u0438\u0442\u0438\u0432\u043d\u0430 \u043e\u0434\u043f\u043e\u0432\u0454\u0434)",
         "eo": "estanta en iu loko, estanta \u0109e, reala, vera, ekzistanta | ALT (konfirma respondo)",
         "de": "in, an, bei, auf, existieren, echt, richtig | (Zustimmung)",
         "it": "situato in, presente in, reale, vero, esistente | ALT (risposta affermativa)"
@@ -2824,6 +2845,7 @@
       },
       "def": {
         "en": "(before the prepositional phrase)",
+        "pl": "(przed fraz\u0105 przyimkow\u0105)",
         "ru": "(\u043f\u0435\u0440\u0435\u0434 \u043f\u0440\u0435\u0434\u043b\u043e\u0436\u043d\u043e\u0439 \u0444\u0440\u0430\u0437\u043e\u0439)",
         "de": "(vor ein Satzteil mit Pr\u00e4position)"
       }
@@ -2877,7 +2899,7 @@
         "ru": "\u0433\u043b\u0430\u0437; \u0441\u043c\u043e\u0442\u0440\u0435\u0442\u044c, \u0432\u0437\u0433\u043b\u044f\u043d\u0443\u0442\u044c, \u0432\u0438\u0434\u0435\u0442\u044c, \u043e\u0441\u043c\u0430\u0442\u0440\u0438\u0432\u0430\u0442\u044c, \u043d\u0430\u0431\u043b\u044e\u0434\u0430\u0442\u044c, \u0447\u0438\u0442\u0430\u0442\u044c; \u0438\u0441\u043a\u0430\u0442\u044c; (pv.) \u043f\u0440\u043e\u0431\u043e\u0432\u0430\u0442\u044c, \u043f\u044b\u0442\u0430\u0442\u044c\u0441\u044f",
         "eo": "okulo; rigardi, vidi, ekzameni, observi, legi, spekti; ser\u0109i; (a.v.) provi",
         "de": "sehen, schauen, beobachten, Auge, entdecken, lesen, anschauen, suchen | (pv.) versuchen",
-        "it": "occhio; guardare, vedere, esaminare, osservare, leggere, guardare; cercare, cercare; (pv.) provare a"
+        "it": "occhio; guardare, vedere, esaminare, osservare, leggere, guardare; cercare; (pv.) provare a"
       }
     },
     "lupa": {
@@ -2926,7 +2948,8 @@
         "isv_l": "zemja, krajina; ne vnutri, sv\u011bt, ves sv\u011bt; kraj, dr\u017eava, teritorija; zemja (substancija)",
         "isv_c": "\u0437\u0435\u043c\u0458\u0430, \u043a\u0440\u0430\u0458\u0438\u043d\u0430; \u043d\u0435 \u0432\u043d\u0443\u0442\u0440\u0438, \u0441\u0432\u0454\u0442, \u0432\u0435\u0441 \u0441\u0432\u0454\u0442; \u043a\u0440\u0430\u0458, \u0434\u0440\u0436\u0430\u0432\u0430, \u0442\u0435\u0440\u0438\u0442\u043e\u0440\u0438\u0458\u0430; \u0437\u0435\u043c\u0458\u0430 (\u0441\u0443\u0431\u0441\u0442\u0430\u043d\u0446\u0438\u0458\u0430)",
         "eo": "tero, terpeco; eksterdoma sub\u0109iela loko, mondo; lando, \u015dtato, teritorio; tero (substanco)",
-        "de": "Erde, Land, Welt, Boden, Grund, Gebiet"
+        "de": "Erde, Land, Welt, Boden, Grund, Gebiet",
+        "it": "terra; all'aperto, mondo; paese, territorio; suolo"
       }
     },
     "majuna": {
@@ -2981,7 +3004,8 @@
         "isv_l": "roditelj, pr\u011bdok; tvoritelj, tvorec; dbatelj",
         "isv_c": "\u0440\u043e\u0434\u0438\u0442\u0435\u0459, \u043f\u0440\u0454\u0434\u043e\u043a; \u0442\u0432\u043e\u0440\u0438\u0442\u0435\u0459, \u0442\u0432\u043e\u0440\u0435\u0446; \u0434\u0431\u0430\u0442\u0435\u0459",
         "eo": "patr(in)o, praulo; kreinto, iniciatinto, fondinto; prizorganto, bontenanto",
-        "de": "Elternteil, Ahn; Sch\u00f6pfer, Ursprung"
+        "de": "Elternteil, Ahn; Sch\u00f6pfer, Ursprung",
+        "it": "genitore, antenato; creatore; custode, sostenitore"
       }
     },
     "mani": {
@@ -3017,6 +3041,7 @@
       "see_also": "a, kin, seme",
       "def": {
         "en": "question particle modifier",
+        "pl": "(partyku\u0142a: modyfikator pytaj\u0105cy)",
         "ru": "\u0432\u043e\u043f\u0440\u043e\u0441\u0438\u0442\u0435\u043b\u044c\u043d\u0430\u044f \u0447\u0430\u0441\u0442\u0438\u0446\u0430-\u043c\u043e\u0434\u0438\u0444\u0438\u043a\u0430\u0442\u043e\u0440",
         "de": "modifizierende Fragepartikel"
       }
@@ -3129,7 +3154,8 @@
         "isv_c": "\u0458\u0430, \u043c\u0435\u043d\u0435, \u043c\u044b, \u043d\u0430\u0441",
         "eo": "mi, ni",
         "de": "ich, mein, wir, unser",
-        "es": "yo, me, nosotros, nos"
+        "es": "yo, me, nosotros, nos",
+        "it": "Io, me, noi"
       }
     },
     "mije": {
@@ -3312,6 +3338,7 @@
       },
       "def": {
         "en": "a squishy animal, such as a snail, slug, or sponge",
+        "pl": "zwierz\u0119 g\u0105bczaste, np. \u015blimak czy g\u0105bka",
         "ru": "\u043c\u044f\u0433\u043a\u043e\u0435 \u0436\u0438\u0432\u043e\u0442\u043d\u043e\u0435, \u043d\u0430\u043f\u0440\u0438\u043c\u0435\u0440 \u0443\u043b\u0438\u0442\u043a\u0430, \u0441\u043b\u0438\u0437\u043d\u044f\u043a \u0438\u043b\u0438 \u0433\u0443\u0431\u043a\u0430",
         "eo": "mola spongeca besto, ekzemple heliko, limako, a\u016d spongo",
         "de": "ein weiches Tier, wie Schnecken oder Schw\u00e4mme"
@@ -3338,7 +3365,8 @@
         "isv_l": "hrebet, zad, tyl",
         "isv_c": "\u0445\u0440\u0435\u0431\u0435\u0442, \u0437\u0430\u0434, \u0442\u044b\u043b",
         "eo": "dorso, malanta\u016do",
-        "de": "hinten, Hintern, Hinterteil, R\u00fccken"
+        "de": "hinten, Hintern, Hinterteil, R\u00fccken",
+        "it": "indietro, dietro, posteriore"
       }
     },
     "monsuta": {
@@ -3393,7 +3421,8 @@
         "pl": "(zwierz\u0119cy d\u017awi\u0119k lub komunikacja) | ALT (wokalizacja nieb\u0119d\u0105ca mow\u0105)",
         "ru": "(\u0437\u0432\u0443\u043a, \u0438\u0437\u0434\u0430\u0432\u0430\u0435\u043c\u044b\u0439 \u0436\u0438\u0432\u043e\u0442\u043d\u044b\u043c, \u0438\u043b\u0438 \u043e\u0431\u0449\u0435\u043d\u0438\u0435 \u0436\u0438\u0432\u043e\u0442\u043d\u044b\u0445) | ALT (\u043d\u0435\u0440\u0435\u0447\u0435\u0432\u0430\u044f \u0432\u043e\u043a\u0430\u043b\u0438\u0437\u0430\u0446\u0438\u044f) ",
         "eo": "(besta sono a\u016d komunika\u0135o) | ALT (neparola vo\u0109a sono)",
-        "de": "(Tierger\u00e4usch oder -kommunikation) | ALT (nichtsprachlicher Ausruf)"
+        "de": "(Tierger\u00e4usch oder -kommunikation) | ALT (nichtsprachlicher Ausruf)",
+        "it": "(rumore o comunicazione animale) | ALT (vocalizzazione non verbale)"
       }
     },
     "mulapisu": {
@@ -3447,7 +3476,8 @@
         "pl": "ksi\u0119\u017cyc, obiekt w niebie nocnym, gwiazda | ALT blask, \u015bwiat\u0142o w ciemno\u015bci",
         "ru": "\u043b\u0443\u043d\u0430, \u043e\u0431\u044a\u0435\u043a\u0442 \u043d\u043e\u0447\u043d\u043e\u0433\u043e \u043d\u0435\u0431\u0430, \u0437\u0432\u0435\u0437\u0434\u0430 | ALT \u0441\u0432\u0435\u0447\u0435\u043d\u0438\u0435, \u0441\u0432\u0435\u0442\u044f\u0449\u0438\u0439\u0441\u044f \u043e\u0433\u043e\u043d\u044c, \u0441\u0432\u0435\u0442 \u0432 \u0442\u0435\u043c\u043d\u043e\u0442\u0435",
         "eo": "luno, nokta \u0109iela objekto, stelo | ALT lumi, lumineska lumo, lumo en mallumo",
-        "de": "Mond, Objekt im Nachthimmel, Stern | ALT gl\u00fchen, gl\u00fchendes Licht, Licht im Dunkeln"
+        "de": "Mond, Objekt im Nachthimmel, Stern | ALT gl\u00fchen, gl\u00fchendes Licht, Licht im Dunkeln",
+        "it": "luna, corpo celeste, stella | ALT bagliore, luce incandescente, luce nel buio"
       }
     },
     "musi": {
@@ -3469,7 +3499,8 @@
         "pl": "artystyczny, zabawny, frywolny, figlarny, rozrywka",
         "ru": "\u0445\u0443\u0434\u043e\u0436\u0435\u0441\u0442\u0432\u0435\u043d\u043d\u044b\u0439, \u0440\u0430\u0437\u0432\u043b\u0435\u043a\u0430\u0442\u0435\u043b\u044c\u043d\u044b\u0439, \u0444\u0440\u0438\u0432\u043e\u043b\u044c\u043d\u044b\u0439, \u0438\u0433\u0440\u0438\u0432\u044b\u0439, \u0440\u0430\u0437\u0432\u043b\u0435\u0447\u0435\u043d\u0438\u0435",
         "eo": "arta, amuza, frivola, ludeca, rilata al amuzi\u011do",
-        "de": "k\u00fcnstlerisch, unterhaltsam, frivol, spielerisch, am\u00fcsant; Kunst, Spa\u00df, Musik, Spiel; spielen"
+        "de": "k\u00fcnstlerisch, unterhaltsam, frivol, spielerisch, am\u00fcsant; Kunst, Spa\u00df, Musik, Spiel; spielen",
+        "it": "artistico, divertente, frivolo, giocoso, ricreativo"
       }
     },
     "mute": {
@@ -3492,7 +3523,8 @@
         "pl": "du\u017co, wiele, wi\u0119cej, kilka, bardzo; ilo\u015b\u0107 | ALT trzy (lub wi\u0119cej), 20",
         "ru": "\u043c\u043d\u043e\u0433\u043e, \u0435\u0449\u0451, \u043d\u0435\u0441\u043a\u043e\u043b\u044c\u043a\u043e, \u043e\u0447\u0435\u043d\u044c; \u043a\u043e\u043b\u0438\u0447\u0435\u0441\u0442\u0432\u043e | ALT \u0442\u0440\u0438 (\u0438 \u0431\u043e\u043b\u0435\u0435), 20",
         "eo": "multaj, multe, pluraj, tre; kvanto | ALT tri (a\u016d pli); 20",
-        "de": "viele, einige, mehrere, sehr, mehr; Quantit\u00e4t, Menge | ALT drei (oder mehr); 20"
+        "de": "viele, einige, mehrere, sehr, mehr; Quantit\u00e4t, Menge | ALT drei (oder mehr); 20",
+        "it": "molti, tanto, di pi\u00f9, assai, parecchi, moltissimo; quantit\u00e0 | ALT tre (o pi\u00f9), 20"
       }
     },
     "n": {
@@ -3511,6 +3543,7 @@
       },
       "def": {
         "en": "(indicates thinking, pondering, recognition, agreement, or humming)",
+        "pl": "(oznacza my\u015blenie, rozwa\u017canie, uznanie, zgod\u0119 lub nucenie)",
         "ru": "(\u0443\u043a\u0430\u0437\u044b\u0432\u0430\u0435\u0442 \u043d\u0430 \u0440\u0430\u0437\u043c\u044b\u0448\u043b\u0435\u043d\u0438\u0435, \u043f\u0440\u0438\u0437\u043d\u0430\u043d\u0438\u0435, \u0441\u043e\u0433\u043b\u0430\u0441\u0438\u0435 \u0438\u043b\u0438 \u0431\u043e\u0440\u043c\u043e\u0442\u0430\u043d\u0438\u0435)",
         "eo": "(indikas pensadon, pripensadon, rekonon, interkonsenton, a\u016d zumadon)",
         "de": "(zeigt Nachdenken, Gr\u00fcbeln, Anerkennung, Zustimmung oder Summen an)",
@@ -3571,7 +3604,8 @@
         "isv_l": "(ordinalny \u010dislovnik); nomer, \u010dislo, broj",
         "isv_c": "(\u043e\u0440\u0434\u0438\u043d\u0430\u043b\u043d\u044b \u0447\u0438\u0441\u043b\u043e\u0432\u043d\u0438\u043a); \u043d\u043e\u043c\u0435\u0440, \u0447\u0438\u0441\u043b\u043e, \u0431\u0440\u043e\u0458",
         "eo": "-a (kiel en \"unua\", \"dua\", ktp; indikas pozicion en vicordo); ciferoj, nombroj",
-        "de": "-te (Ordinalzahl) | Zahl"
+        "de": "-te (Ordinalzahl) | Zahl",
+        "it": "(numero ordinale); numeri"
       }
     },
     "nasa": {
@@ -3595,7 +3629,8 @@
         "isv_l": "neoby\u010dny, divny, stranny; nemudry; pijany, netr\u011bzvy",
         "isv_c": "\u043d\u0435\u043e\u0431\u044b\u0447\u043d\u044b, \u0434\u0438\u0432\u043d\u044b, \u0441\u0442\u0440\u0430\u043d\u043d\u044b; \u043d\u0435\u043c\u0443\u0434\u0440\u044b; \u043f\u0438\u0458\u0430\u043d\u044b, \u043d\u0435\u0442\u0440\u0454\u0437\u0432\u044b",
         "eo": "nekutima, stranga; malsa\u011da; ebria",
-        "de": "ungew\u00f6hnlich, merkw\u00fcrdig, seltsam, durcheinander; albern; betrunken, berauscht"
+        "de": "ungew\u00f6hnlich, merkw\u00fcrdig, seltsam, durcheinander; albern; betrunken, berauscht",
+        "it": "insolito, strano; sciocco; ubriaco, intossicato"
       }
     },
     "nasin": {
@@ -3617,7 +3652,8 @@
         "pl": "spos\u00f3b, obyczaj, doktryna, metoda, \u015bcie\u017cka, droga",
         "ru": "\u0441\u043f\u043e\u0441\u043e\u0431, \u043e\u0431\u044b\u0447\u0430\u0439, \u0434\u043e\u043a\u0442\u0440\u0438\u043d\u0430, \u043c\u0435\u0442\u043e\u0434, \u043f\u0443\u0442\u044c, \u0434\u043e\u0440\u043e\u0433\u0430",
         "eo": "maniero, kutimo, doktrino, metodo, vojo, irejo",
-        "de": "Weg, Br\u00e4uche, Lehre, Doktrin, Methode, Pfad, Stra\u00dfe"
+        "de": "Weg, Br\u00e4uche, Lehre, Doktrin, Methode, Pfad, Stra\u00dfe",
+        "it": "modo, abitudine, dottrina, metodo, percorso, strada, via"
       }
     },
     "natu": {
@@ -3635,7 +3671,7 @@
       "see_also": "wan",
       "def": {
         "en": "relationship, correlation, commonality; cross, knot, junction, intersection; to overlap, to fold; to overstep, to exceed to a point",
-        "pl": "zwi\u0105zek, korelacja, cecha wsp\u00f3lna; skrzy\u017cowanie, w\u0119ze\u0142, skrzy\u017cowanie; nak\u0142ada\u0107 si\u0119, sk\u0142ada\u0107; przekroczy\u0107, przewy\u017csza\u0107",
+        "pl": "zwi\u0105zek, korelacja, cecha wsp\u00f3lna; krzy\u017c, w\u0119ze\u0142, skrzy\u017cowanie; nak\u0142ada\u0107 si\u0119, sk\u0142ada\u0107; przekroczy\u0107, przewy\u017csza\u0107",
         "ru": "\u0432\u0437\u0430\u0438\u043c\u043e\u0441\u0432\u044f\u0437\u044c, \u043a\u043e\u0440\u0440\u0435\u043b\u044f\u0446\u0438\u044f, \u043e\u0431\u0449\u043d\u043e\u0441\u0442\u044c; \u043a\u0440\u0435\u0441\u0442, \u0443\u0437\u0435\u043b, \u0441\u0442\u044b\u043a, \u043f\u0435\u0440\u0435\u043a\u0440\u0435\u0441\u0442\u043e\u043a; \u043f\u0435\u0440\u0435\u043a\u0440\u044b\u0432\u0430\u0442\u044c, \u0441\u043a\u043b\u0430\u0434\u044b\u0432\u0430\u0442\u044c; \u043f\u0435\u0440\u0435\u0448\u0430\u0433\u043d\u0443\u0442\u044c, \u043f\u0440\u0435\u0432\u0437\u043e\u0439\u0442\u0438 \u0434\u043e \u0443\u0440\u043e\u0432\u043d\u044f",
         "eo": "rilato, korelacio, simileco; kruco, nodo, krucvojo, intersekci\u011do; interkovri, faldi; preterpasi, superi \u011dis punkto",
         "de": "Beziehung, Korrelation, Gemeinsamkeit; Kreuz, Knoten, Kreuzung; \u00fcberlappen, falten; \u00fcbersteigen, bis zu einem Punkt \u00fcberschreiten",
@@ -3688,6 +3724,7 @@
       "commentary": "Meant to be antonymous to the 'cover, layer of privacy' meanings of 'len'. It can be applied both literally and metaphorically.",
       "def": {
         "en": "transparent material/object, lack of privacy; clear, transparent, unobstructed; to make clear, to make transparent, to remove obstructions",
+        "pl": "przezroczysty materia\u0142/rzecz, brak prywatno\u015bci; przejrzysty, przezroczysty, bez przeszk\u00f3d; uczyni\u0107 przezroczystym, usun\u0105\u0107 przeszkody",
         "ru": "\u043f\u0440\u043e\u0437\u0440\u0430\u0447\u043d\u044b\u0439 \u043c\u0430\u0442\u0435\u0440\u0438\u0430\u043b/\u043f\u0440\u0435\u0434\u043c\u0435\u0442, \u043e\u0442\u0441\u0443\u0442\u0441\u0442\u0432\u0438\u0435 \u043f\u0440\u0438\u0432\u0430\u0442\u043d\u043e\u0441\u0442\u0438; \u044f\u0441\u043d\u044b\u0439, \u043f\u0440\u043e\u0437\u0440\u0430\u0447\u043d\u044b\u0439, \u0431\u0435\u0441\u043f\u0440\u0435\u043f\u044f\u0442\u0441\u0442\u0432\u0435\u043d\u043d\u044b\u0439; \u0441\u0434\u0435\u043b\u0430\u0442\u044c \u044f\u0441\u043d\u044b\u043c, \u0441\u0434\u0435\u043b\u0430\u0442\u044c \u043f\u0440\u043e\u0437\u0440\u0430\u0447\u043d\u044b\u043c, \u0443\u0431\u0440\u0430\u0442\u044c \u043f\u0440\u0435\u043f\u044f\u0442\u0441\u0442\u0432\u0438\u044f",
         "de": "durchsichtiges Material/durchsichtiger Gegenstand, Mangel an Privatsph\u00e4re; klar, durchsichtig, unversperrt; klar machen, durchsichtig machen, Hindernisse beseitigen"
       }
@@ -3714,7 +3751,8 @@
         "isv_l": "izpuklost, knopka, gora, gorka, nos, izsunutje",
         "isv_c": "\u0438\u0437\u043f\u0443\u043a\u043b\u043e\u0441\u0442, \u043a\u043d\u043e\u043f\u043a\u0430, \u0433\u043e\u0440\u0430, \u0433\u043e\u0440\u043a\u0430, \u043d\u043e\u0441, \u0438\u0437\u0441\u0443\u043d\u0443\u0442\u0458\u0435",
         "eo": "elstara malebena\u0135o, tubero, butono, monteto, monto, nazo, elstara\u0135o",
-        "de": "Erhebung, Knopf, H\u00fcgel, Hubbel, Berg, Nase"
+        "de": "Erhebung, Knopf, H\u00fcgel, Hubbel, Berg, Nase",
+        "it": "bozzo, pulsante, collina, montagna, naso, protuberanza"
       }
     },
     "ni": {
@@ -3740,7 +3778,8 @@
         "isv_c": "\u0442\u043e\u0458, \u0442\u0443\u0442\u043e\u0458, \u0442\u0430\u043c\u0442\u043e\u0458, \u0441\u0435\u0458, \u043e\u0432",
         "eo": "(\u0109i) tio, (\u0109i) tiu",
         "de": "dies, das, jenes",
-        "es": "eso, esto, aquel"
+        "es": "eso, esto, aquel",
+        "it": "che, questo"
       }
     },
     "nimi": {
@@ -3764,7 +3803,8 @@
         "isv_l": "ime, slovo",
         "isv_c": "\u0438\u043c\u0435, \u0441\u043b\u043e\u0432\u043e",
         "eo": "nomo, vorto",
-        "de": "Name, Wort"
+        "de": "Name, Wort",
+        "it": "nome, parola"
       }
     },
     "nja": {
@@ -3779,6 +3819,7 @@
       "see_also": "mu, jonke",
       "def": {
         "en": "meow, feline sound",
+        "pl": "miau, d\u017awi\u0119k koci",
         "ru": "\u043c\u044f\u0443, \u043a\u043e\u0448\u0430\u0447\u0438\u0439 \u0437\u0432\u0443\u043a",
         "eo": "mia\u016d, kata sono",
         "de": "Miau, Katzenger\u00e4usch",
@@ -3807,7 +3848,8 @@
         "pl": "noga, stopa, organ lokomocyjny; d\u00f3\u0142, cz\u0119\u015b\u0107 dolna | ALT dziesi\u0119\u0107, dwadzie\u015bcia; minus pi\u0119\u0107",
         "ru": "\u0441\u0442\u0443\u043f\u043d\u044f, \u043d\u043e\u0433\u0430, \u043e\u0440\u0433\u0430\u043d \u043f\u0435\u0440\u0435\u0434\u0432\u0438\u0436\u0435\u043d\u0438\u044f; \u043d\u0438\u0437, \u043d\u0438\u0436\u043d\u044f\u044f \u0447\u0430\u0441\u0442\u044c | ALT \u0434\u0435\u0441\u044f\u0442\u044c; \u0434\u0432\u0430\u0434\u0446\u0430\u0442\u044c; \u043c\u0438\u043d\u0443\u0441 \u043f\u044f\u0442\u044c",
         "eo": "piedo, kruro, movi\u011da organo; malsupro, malsupra parto | ALT dek; dudek; minus kvin",
-        "de": "Fu\u00df, Bein, Fortbewegungsorgan; Unterteil, unten | ALT zehn; zwanzig; minus f\u00fcnf"
+        "de": "Fu\u00df, Bein, Fortbewegungsorgan; Unterteil, unten | ALT zehn; zwanzig; minus f\u00fcnf",
+        "it": "piede, gamba, organo di locomozione; fondo, parte inferiore | ALT dieci; venti; cinque negativo"
       }
     },
     "nu": {
@@ -3934,7 +3976,8 @@
         "ru": "\u044d\u0439! (\u0437\u0432\u0430\u0442\u0435\u043b\u044c\u043d\u044b\u0439, \u043f\u043e\u0432\u0435\u043b\u0438\u0442\u0435\u043b\u044c\u043d\u044b\u0439 \u0438\u043b\u0438 \u0436\u0435\u043b\u0430\u0442\u0435\u043b\u044c\u043d\u044b\u0439)",
         "eo": "he! (vokativo, imperativo, a\u016d volitivo)",
         "de": "He! Hey! O! (Anrede, Befehl oder Wunsch)",
-        "es": "\u00a1oiga! (vocativo, imperativo u optativo)"
+        "es": "\u00a1oiga! (vocativo, imperativo u optativo)",
+        "it": "Ehi! O! (vocativo, imperativo o ottativo)"
       }
     },
     "oke": {
@@ -4052,7 +4095,8 @@
         "isv_l": "ljubiti, milovati, pova\u017eati, so\u010duvstvovati",
         "isv_c": "\u0459\u0443\u0431\u0438\u0442\u0438, \u043c\u0438\u043b\u043e\u0432\u0430\u0442\u0438, \u043f\u043e\u0432\u0430\u0436\u0430\u0442\u0438, \u0441\u043e\u0447\u0443\u0432\u0441\u0442\u0432\u043e\u0432\u0430\u0442\u0438",
         "eo": "ami, simpatii kun, respekti, montri sian korinklinon al",
-        "de": "lieben, Mitgef\u00fchl haben mit, respektieren, Zuneigung haben zu"
+        "de": "lieben, Mitgef\u00fchl haben mit, respektieren, Zuneigung haben zu",
+        "it": "amare, avere compassione per, rispettare, mostrare affetto a"
       }
     },
     "omekapo": {
@@ -4133,7 +4177,8 @@
         "isv_c": "\u043e\u043d, \u043e\u043d\u0430, \u043e\u043d\u043e, \u043e\u043d\u0438, \u043e\u043d\u0435",
         "eo": "li, \u015di, ri, \u011di, ili",
         "de": "er, sie, es, sie",
-        "es": "\u00e9l, ella, ello, elle, lo, la, le, ellos, ellas"
+        "es": "\u00e9l, ella, ello, elle, lo, la, le, ellos, ellas",
+        "it": "lui, lei, esso, loro"
       }
     },
     "oni": {
@@ -4152,6 +4197,7 @@
       "commentary": "This word is deprecated by the creator; it is considered part of the \"toki oni\" tokiponido instead.",
       "def": {
         "en": "dream, daydream, imaginative play, vision, mystical state; to entrance",
+        "pl": "sen, fantazja, zabawa w wyobra\u017ani, wizja, stan mistyczny; wprawia\u0107 w trans",
         "ru": "\u0441\u043e\u043d, \u0433\u0440\u0451\u0437\u0430, \u0432\u043e\u043e\u0431\u0440\u0430\u0436\u0430\u0435\u043c\u0430\u044f \u0438\u0433\u0440\u0430, \u0432\u0438\u0434\u0435\u043d\u0438\u0435, \u043c\u0438\u0441\u0442\u0438\u0447\u0435\u0441\u043a\u043e\u0435 \u0441\u043e\u0441\u0442\u043e\u044f\u043d\u0438\u0435; \u0431\u044b\u0442\u044c \u0432 \u0441\u043e\u0441\u0442\u043e\u044f\u043d\u0438\u0438 \u0442\u0440\u0430\u043d\u0441\u0430",
         "de": "Traum, Tagtraum, phantasievolles Spiel, Vision, mystischer Zustand; etw. bezaubern"
       }
@@ -4180,7 +4226,8 @@
         "isv_c": "\u043f\u043e\u0447\u0435\u0442\u0438, \u043d\u0430\u0447\u0435\u0442\u0438 (\u0441\u0435); \u043e\u0434\u043a\u0440\u044b\u0442\u0438, \u043e\u0442\u0432\u043e\u0440\u0438\u0442\u0438; \u0432\u043a\u0459\u0443\u0447\u0438\u0442\u0438",
         "eo": "komenci; malfermi; \u015dalti",
         "de": "anfangen, beginnen; \u00f6ffnen; anschalten",
-        "es": "empezar, comenzar, iniciar; abrir; encender, prender"
+        "es": "empezar, comenzar, iniciar; abrir; encender, prender",
+        "it": "iniziare, cominciare; aprire; accendere"
       }
     },
     "owe": {
@@ -4195,6 +4242,7 @@
       },
       "def": {
         "en": "Orwellian, totalitarian, of or relating to Big Brother (from 1984), antonym of kamalawala",
+        "pl": "orwellowski, totalitaryjny, zwi\u0105zany z Wielkim Bratem (z \"Roku 1984\"), przeciwie\u0144stwo kamalawala",
         "ru": "\u041e\u0440\u0443\u044d\u043b\u043b\u043e\u0432\u0441\u043a\u0438\u0439, \u0442\u043e\u0442\u0430\u043b\u0438\u0442\u0430\u0440\u043d\u044b\u0439, \u043e\u0442\u043d\u043e\u0441\u044f\u0449\u0438\u0439\u0441\u044f \u043a \u0438\u043b\u0438 \u0441\u0432\u044f\u0437\u0430\u043d\u043d\u044b\u0439 \u0441 \u0411\u043e\u043b\u044c\u0448\u0438\u043c \u0411\u0440\u0430\u0442\u043e\u043c (\u0438\u0437 1984), \u0430\u043d\u0442\u043e\u043d\u0438\u043c kamalawala",
         "eo": "totalisma, rilata al Big Brother (el la libro 1984), antonimo de kamalawala",
         "de": "Orwellianisch, totalit\u00e4r, von oder im Zusammenhang mit Big Brother (aus 1984), Antonym von kamalawala"
@@ -4247,7 +4295,8 @@
         "pl": "spartaczone, zepsute, uszkodzone, skaleczone, popsute | ALT (przekle\u0144stwo, np. kurwa!)",
         "ru": "\u0438\u0441\u043f\u043e\u0440\u0447\u0435\u043d\u043d\u044b\u0439, \u0441\u043b\u043e\u043c\u0430\u043d\u043d\u044b\u0439, \u043f\u043e\u0432\u0440\u0435\u0436\u0434\u0451\u043d\u043d\u044b\u0439 | ALT (\u0440\u0443\u0433\u0430\u0442\u0435\u043b\u044c\u0441\u0442\u0432\u043e, \u043d\u0430\u043f\u0440\u0438\u043c\u0435\u0440 \"\u0447\u0451\u0440\u0442!\")",
         "eo": "fu\u015dita, rompita, dama\u011dita, difektita | ALT (sakra\u0135o, ekz. fek!, damne!)",
-        "de": "kaputt, vermasselt, besch\u00e4digt, zerst\u00f6rt, defekt; zerbrechen | ALT (Kraftausdruck, z.B. Mist!)"
+        "de": "kaputt, vermasselt, besch\u00e4digt, zerst\u00f6rt, defekt; zerbrechen | ALT (Kraftausdruck, z.B. Mist!)",
+        "it": "rovinato, rotto, danneggiato, leso, incasinato | ALT (imprecazione, ad esempio, cazzo!)"
       }
     },
     "pake": {
@@ -4300,7 +4349,8 @@
         "isv_l": "d\u011blati, rabiti, d\u011bjati; budovati, stvarjati, gotoviti",
         "isv_c": "\u0434\u0454\u043b\u0430\u0442\u0438, \u0440\u0430\u0431\u0438\u0442\u0438, \u0434\u0454\u0458\u0430\u0442\u0438; \u0431\u0443\u0434\u043e\u0432\u0430\u0442\u0438, \u0441\u0442\u0432\u0430\u0440\u0458\u0430\u0442\u0438, \u0433\u043e\u0442\u043e\u0432\u0438\u0442\u0438",
         "eo": "fari, agi por atingi a\u016d plenumi ion, prilabori; konstrui, fari, prepari",
-        "de": "tun, etwas ausf\u00fchren, an etwas arbeiten; bauen, machen, erstellen, vorbereiten"
+        "de": "tun, etwas ausf\u00fchren, an etwas arbeiten; bauen, machen, erstellen, vorbereiten",
+        "it": "fare, agire, lavorare; costruire, creare, preparare"
       }
     },
     "palisa": {
@@ -4324,7 +4374,8 @@
         "isv_l": "n\u011b\u010dto dolgo i tvrdo; v\u011btva, galuz, prut, pala",
         "isv_c": "\u043d\u0454\u0447\u0442\u043e \u0434\u043e\u043b\u0433\u043e \u0438 \u0442\u0432\u0440\u0434\u043e; \u0432\u0454\u0442\u0432\u0430, \u0433\u0430\u043b\u0443\u0437, \u043f\u0440\u0443\u0442, \u043f\u0430\u043b\u0430",
         "eo": "io longa kaj malmola; bran\u0109o, stango, bastono",
-        "de": "langes hartes Ding; Stock, Ast, Stab"
+        "de": "langes hartes Ding; Stock, Ast, Stab",
+        "it": "cosa lunga e dura; ramo, asta, bastone"
       }
     },
     "pan": {
@@ -4349,7 +4400,8 @@
         "pl": "zbo\u017ce; j\u0119czmie\u0144, kukurydza, owies, ry\u017c, pszenica; chleb, makaron",
         "ru": "\u043a\u0440\u0443\u043f\u0430, \u0437\u0435\u0440\u043d\u043e; \u044f\u0447\u043c\u0435\u043d\u044c, \u043a\u0443\u043a\u0443\u0440\u0443\u0437\u0430, \u043e\u0432\u0435\u0441, \u0440\u0438\u0441, \u043f\u0448\u0435\u043d\u0438\u0446\u0430; \u0445\u043b\u0435\u0431, \u043c\u0430\u043a\u0430\u0440\u043e\u043d\u044b",
         "eo": "greno, cerealo; aveno, hordeo, maizo, rizo, tritiko; pano, pasta\u0135o",
-        "de": "Getreide; Gerste, Hafer, Mais, Reis, Weizen; Brot, Nudeln"
+        "de": "Getreide; Gerste, Hafer, Mais, Reis, Weizen; Brot, Nudeln",
+        "it": "cereale, grano; orzo, mais, avena, riso, frumento; pane, pasta"
       }
     },
     "pana": {
@@ -4373,7 +4425,8 @@
         "isv_l": "dati, poslati, dostavjati, klasti, polo\u017eiti, staviti, izpustiti",
         "isv_c": "\u0434\u0430\u0442\u0438, \u043f\u043e\u0441\u043b\u0430\u0442\u0438, \u0434\u043e\u0441\u0442\u0430\u0432\u0458\u0430\u0442\u0438, \u043a\u043b\u0430\u0441\u0442\u0438, \u043f\u043e\u043b\u043e\u0436\u0438\u0442\u0438, \u0441\u0442\u0430\u0432\u0438\u0442\u0438, \u0438\u0437\u043f\u0443\u0441\u0442\u0438\u0442\u0438",
         "eo": "doni, sendi, eligi, ellasi, provizi, meti",
-        "de": "geben, senden, ausstr\u00f6hmen, bereitstellen, etwas hinstellen, freigeben"
+        "de": "geben, senden, ausstr\u00f6hmen, bereitstellen, etwas hinstellen, freigeben",
+        "it": "dare, inviare, emettere, fornire, mettere, rilasciare"
       }
     },
     "pasila": {
@@ -4539,7 +4592,8 @@
         "pl": "(oddziela drug\u0105 grup\u0119 rzeczownik\u00f3w, kt\u00f3ra opisuje pierwsz\u0105 grup\u0119 rzeczownik\u00f3w) | ALT (wprowadza dope\u0142niacz)",
         "ru": "(\u0438\u0441\u043f\u043e\u043b\u044c\u0437\u0443\u0435\u0442\u0441\u044f \u0434\u043b\u044f \u043e\u0442\u0434\u0435\u043b\u0435\u043d\u0438\u044f \u0432\u0442\u043e\u0440\u043e\u0439 \u0433\u0440\u0443\u043f\u043f\u044b \u0441\u0443\u0449\u0435\u0441\u0442\u0432\u0438\u0442\u0435\u043b\u044c\u043d\u044b\u0445, \u043e\u043f\u0438\u0441\u044b\u0432\u0430\u044e\u0449\u0435\u0439 \u043f\u0435\u0440\u0432\u0443\u044e \u0433\u0440\u0443\u043f\u043f\u0443 \u0441\u0443\u0449\u0435\u0441\u0442\u0432\u0438\u0442\u0435\u043b\u044c\u043d\u044b\u0445) | ALT (\u0432\u0432\u043e\u0434\u0438\u0442 \u0440\u043e\u0434\u0438\u0442\u0435\u043b\u044c\u043d\u043e\u0435 \u0441\u0443\u0449\u0435\u0441\u0442\u0432\u0438\u0442\u0435\u043b\u044c\u043d\u043e\u0435)",
         "eo": "de (uzata por dividi duan substantivan grupon, kiu priskribas la duan substantivan grupon) | ALT (enkondukas genitivan substantivon)",
-        "de": "(trennt eine zweite Wortgruppe ab, die die erste Wortgruppe beschreibt) | ALT (f\u00fchrt ein Wort im Genetiv ein)"
+        "de": "(trennt eine zweite Wortgruppe ab, die die erste Wortgruppe beschreibt) | ALT (f\u00fchrt ein Wort im Genetiv ein)",
+        "it": "di (usato per dividere un secondo gruppo di sostantivi che descrive un primo gruppo di sostantivi) | ALT (introduce un genitivo sostantivato)"
       }
     },
     "pika": {
@@ -4553,6 +4607,7 @@
       "see_also": "linluwi",
       "def": {
         "en": "electric, electronic, conductive, mechanical, online; electricity, lightning, thunder, network",
+        "pl": "elektryczny, elektroniczny, przewodz\u0105cy, mechaniczny, online; elektryczno\u015b\u0107, b\u0142yskawica, grzmot, sie\u0107",
         "ru": "\u044d\u043b\u0435\u043a\u0442\u0440\u0438\u0447\u0435\u0441\u043a\u0438\u0439, \u044d\u043b\u0435\u043a\u0442\u0440\u043e\u043d\u043d\u044b\u0439, \u0442\u043e\u043a\u043e\u043f\u0440\u043e\u0432\u043e\u0434\u044f\u0449\u0438\u0439, \u043c\u0435\u0445\u0430\u043d\u0438\u0447\u0435\u0441\u043a\u0438\u0439, \u043e\u043d\u043b\u0430\u0439\u043d; \u044d\u043b\u0435\u043a\u0442\u0440\u0438\u0447\u0435\u0441\u0442\u0432\u043e, \u043c\u043e\u043b\u043d\u0438\u044f, \u0433\u0440\u043e\u043c, \u0441\u0435\u0442\u044c",
         "eo": "elektra, elektronika, konduktiva, me\u0125anika, enreta; elektro, fulmo, tondro, reto",
         "de": "elektrisch, elektronisch, leitend, mechanisch, online; Elektrizit\u00e4t, Blitz, Donner, Netzwerk"
@@ -4578,7 +4633,8 @@
         "ru": "\u0441\u0435\u0440\u0434\u0446\u0435 (\u0444\u0438\u0437\u0438\u0447\u0435\u0441\u043a\u043e\u0435 \u0438\u043b\u0438 \u044d\u043c\u043e\u0446\u0438\u043e\u043d\u0430\u043b\u044c\u043d\u043e\u0435); \u0447\u0443\u0432\u0441\u0442\u0432\u043e (\u044d\u043c\u043e\u0446\u0438\u044f, \u043f\u0440\u044f\u043c\u043e\u0439 \u043e\u043f\u044b\u0442)",
         "eo": "koro (fizika a\u016d emocia); senti (emocion, rektan sperton)",
         "de": "Herz (k\u00f6rperlich oder emotional); Gef\u00fchl (eine Emotion oder eine direkte Erfahrung), f\u00fchlen",
-        "es": "coraz\u00f3n (f\u00edsico o emocional); sentimiento (una emoci\u00f3n, una experiencia directa)"
+        "es": "coraz\u00f3n (f\u00edsico o emocional); sentimiento (una emoci\u00f3n, una experiencia directa)",
+        "it": "cuore (fisico o emotivo); sentimento (un'emozione, un'esperienza diretta)"
       }
     },
     "pimeja": {
@@ -4602,7 +4658,8 @@
         "isv_l": "\u010drny, temny, mra\u010dny, neobsv\u011btljeny",
         "isv_c": "\u0447\u0440\u043d\u044b, \u0442\u0435\u043c\u043d\u044b, \u043c\u0440\u0430\u0447\u043d\u044b, \u043d\u0435\u043e\u0431\u0441\u0432\u0454\u0442\u0459\u0435\u043d\u044b",
         "eo": "nigra, malhela, malluma",
-        "de": "schwarz, dunkel, finster"
+        "de": "schwarz, dunkel, finster",
+        "it": "nero, scuro, non illuminato"
       }
     },
     "Pingo": {
@@ -4620,6 +4677,7 @@
       },
       "def": {
         "en": "car",
+        "pl": "auto",
         "ru": "\u0430\u0432\u0442\u043e\u043c\u043e\u0431\u0438\u043b\u044c",
         "isv_l": "avto",
         "isv_c": "\u0430\u0432\u0442\u043e",
@@ -4648,7 +4706,8 @@
         "pl": "(jaki\u015b czas) temu, zako\u0144czony, sko\u0144czony, przesz\u0142y",
         "ru": "\u0442\u043e\u043c\u0443 \u043d\u0430\u0437\u0430\u0434, \u0437\u0430\u0432\u0435\u0440\u0448\u0435\u043d\u043d\u044b\u0439, \u043e\u043a\u043e\u043d\u0447\u0435\u043d\u043d\u044b\u0439, \u0437\u0430\u0432\u0435\u0440\u0448\u0435\u043d\u043d\u044b\u0439, \u043f\u0440\u043e\u0448\u043b\u044b\u0439",
         "eo": "anta\u016da, finfarita, finita, fini\u011dinta, pasinta",
-        "de": "her, abgeschlossen, beendet, fertig, vergangen; Ende"
+        "de": "her, abgeschlossen, beendet, fertig, vergangen; Ende",
+        "it": "tempo fa, completato, finito, terminato, passato"
       }
     },
     "pipi": {
@@ -4673,7 +4732,8 @@
         "isv_c": "\u0436\u0443\u043a, \u0438\u043d\u0441\u0435\u043a\u0442, \u0448\u0435\u0441\u0442\u0438\u043d\u043e\u0436\u043a\u0430, \u043c\u0440\u0430\u0432\u043a\u0430, \u043f\u0430\u0432\u0443\u043a",
         "eo": "artropodo, insekto, formiko, araneo, eta besto",
         "de": "Krabbeltier, Insekt, Ameise, Spinne",
-        "es": "bicho, insecto, hormiga, ara\u00f1a"
+        "es": "bicho, insecto, hormiga, ara\u00f1a",
+        "it": "cimice, insetto, formica, ragno"
       }
     },
     "pipo": {
@@ -4755,7 +4815,8 @@
         "pl": "biodro, bok; obok, blisko, pobli\u017ce | ALT razem z (Comitativus)",
         "ru": "\u0431\u043e\u043a, \u0441\u0442\u043e\u0440\u043e\u043d\u0430; \u0440\u044f\u0434\u043e\u043c, \u043f\u043e\u0431\u043b\u0438\u0437\u043e\u0441\u0442\u0438, \u043e\u043a\u0440\u0435\u0441\u0442\u043d\u043e\u0441\u0442\u044c | ALT \u0432\u043c\u0435\u0441\u0442\u0435 \u0441 (\u043a\u043e\u043c\u0438\u0442\u0430\u0442\u0438\u0432\u043d\u043e\u0435), \u0440\u044f\u0434\u043e\u043c \u0441",
         "eo": "kokso, flanko; apud, proksime de, proksima\u0135o | ALT kune kun, krom",
-        "de": "H\u00fcfte, Seite; neben, nah, Umgebung | ALT zusammen mit (Komitativ), n\u00e4chst"
+        "de": "H\u00fcfte, Seite; neben, nah, Umgebung | ALT zusammen mit (Komitativ), n\u00e4chst",
+        "it": "fianco, lato; vicino a, accanto a, nelle vicinanze | ALT insieme a (comitativo), di fianco a"
       }
     },
     "poki": {
@@ -4777,7 +4838,8 @@
         "pl": "pojemnik, torba, miska, pude\u0142ko, kubek, szafka, szuflada, naczynie",
         "ru": "\u043a\u043e\u043d\u0442\u0435\u0439\u043d\u0435\u0440, \u0441\u0443\u043c\u043a\u0430, \u0447\u0430\u0448\u0430, \u044f\u0449\u0438\u043a, \u0447\u0430\u0448\u043a\u0430, \u0448\u043a\u0430\u0444, \u0441\u043e\u0441\u0443\u0434",
         "eo": "ujo, sako, bovlo, skatolo, taso, \u015dranko, tirkesto",
-        "de": "Beh\u00e4lter, Tasche, Sch\u00fcssel, Box, Tasse, Schublade, Schrank, Gef\u00e4\u00df"
+        "de": "Beh\u00e4lter, Tasche, Sch\u00fcssel, Box, Tasse, Schublade, Schrank, Gef\u00e4\u00df",
+        "it": "contenitore, borsa, ciotola, scatola, tazza, armadio, cassetto, recipiente"
       }
     },
     "polinpin": {
@@ -4858,7 +4920,8 @@
         "ru": "\u0445\u043e\u0440\u043e\u0448\u0438\u0439, \u043f\u043e\u043b\u043e\u0436\u0438\u0442\u0435\u043b\u044c\u043d\u044b\u0439, \u043f\u043e\u043b\u0435\u0437\u043d\u044b\u0439; \u0434\u0440\u0443\u0436\u0435\u043b\u044e\u0431\u043d\u044b\u0439, \u043c\u0438\u0440\u043e\u043b\u044e\u0431\u0438\u0432\u044b\u0439; \u043f\u0440\u043e\u0441\u0442\u043e\u0439",
         "eo": "bona, pozitiva, utila; amika, paca; simpla",
         "de": "gut, positiv, n\u00fctzlich; freundlich, friedlich; einfach",
-        "es": "bueno, positivo, \u00fatil; amable, pac\u00edfico; bien; simple, f\u00e1cil"
+        "es": "bueno, positivo, \u00fatil; amable, pac\u00edfico; bien; simple, f\u00e1cil",
+        "it": "buono, positivo, utile; amichevole, pacifico; semplice"
       }
     },
     "powe": {
@@ -4910,7 +4973,8 @@
         "isv_l": "vzajemod\u011bjstvuju\u010di, interaguju\u010di s oficialnoju knigoju toki pony",
         "isv_c": "\u0432\u0437\u0430\u0458\u0435\u043c\u043e\u0434\u0454\u0458\u0441\u0442\u0432\u0443\u0458\u0443\u0447\u0438, \u0438\u043d\u0442\u0435\u0440\u0430\u0433\u0443\u0458\u0443\u0447\u0438 \u0441 \u043e\u0444\u0438\u0446\u0438\u0430\u043b\u043d\u043e\u0458\u0443 \u043a\u043d\u0438\u0433\u043e\u0458\u0443 \u0442\u043e\u043a\u0438 \u043f\u043e\u043d\u044b",
         "eo": "interaganta kun la oficiala libro de Tokipono",
-        "de": "mit dem offiziellen Toki-Pona-Buch interagieren"
+        "de": "mit dem offiziellen Toki-Pona-Buch interagieren",
+        "it": "interagire con il libro ufficiale di Toki Pona"
       }
     },
     "puwa": {
@@ -4961,7 +5025,8 @@
         "isv_l": "toj\u017ee, podobny; jedin drugogo; brat, sestra, rav\u011bsnik; kako, podobno",
         "isv_c": "\u0442\u043e\u0458\u0436\u0435, \u043f\u043e\u0434\u043e\u0431\u043d\u044b; \u0458\u0435\u0434\u0438\u043d \u0434\u0440\u0443\u0433\u043e\u0433\u043e; \u0431\u0440\u0430\u0442, \u0441\u0435\u0441\u0442\u0440\u0430, \u0440\u0430\u0432\u0454\u0441\u043d\u0438\u043a; \u043a\u0430\u043a\u043e, \u043f\u043e\u0434\u043e\u0431\u043d\u043e",
         "eo": "sama, simila; unu la alia; frat(in)o, egalulo, kamarado, kunulo; kiel, simile al",
-        "de": "gleich, selbig, \u00e4hnlich; einander; Geschwister, Gleichgestellter, Artgenosse; so, wie"
+        "de": "gleich, selbig, \u00e4hnlich; einander; Geschwister, Gleichgestellter, Artgenosse; so, wie",
+        "it": "stesso, simile; l'un l'altro; fratello, pari, compagno; come, uguale"
       }
     },
     "samu": {
@@ -5075,7 +5140,8 @@
         "pl": "ogie\u0144; element grzejny, reakcja chemiczna, \u017ar\u00f3d\u0142o ciep\u0142a",
         "ru": "\u043e\u0433\u043e\u043d\u044c; \u043d\u0430\u0433\u0440\u0435\u0432\u0430\u0442\u0435\u043b\u044c\u043d\u044b\u0439 \u044d\u043b\u0435\u043c\u0435\u043d\u0442, \u0445\u0438\u043c\u0438\u0447\u0435\u0441\u043a\u0430\u044f \u0440\u0435\u0430\u043a\u0446\u0438\u044f, \u0438\u0441\u0442\u043e\u0447\u043d\u0438\u043a \u0442\u0435\u043f\u043b\u0430",
         "eo": "fajro; varmiga elemento de kuirilo, kemia reago, fonto de varmo",
-        "de": "Feuer; Kochelement, chemische Reaktion, W\u00e4rmequelle; kochen; warm"
+        "de": "Feuer; Kochelement, chemische Reaktion, W\u00e4rmequelle; kochen; warm",
+        "it": "fuoco; elemento di combustione, reazione chimica, fonte di calore"
       }
     },
     "selo": {
@@ -5097,7 +5163,8 @@
         "pl": "forma zewn\u0119trzna, warstwa zewn\u0119trzna; kora, sk\u00f3ra, pow\u0142oka, skorupa; granica",
         "ru": "\u0432\u043d\u0435\u0448\u043d\u044f\u044f \u0444\u043e\u0440\u043c\u0430, \u0432\u043d\u0435\u0448\u043d\u0438\u0439 \u0441\u043b\u043e\u0439; \u043a\u043e\u0440\u0430, \u043a\u043e\u0436\u0443\u0440\u0430, \u0441\u043a\u043e\u0440\u043b\u0443\u043f\u0430, \u043a\u043e\u0436\u0438\u0446\u0430; \u0433\u0440\u0430\u043d\u0438\u0446\u0430",
         "eo": "ekstera formo, ekstera tavolo; \u015delo (de arbo, frukto, molusko), konko, karapaco, ha\u016dto; limo",
-        "de": "\u00e4u\u00dfere Form, \u00e4u\u00dfere Schicht; Rinde, Schale, H\u00fclle, Haut; Grenze, Abgrenzung"
+        "de": "\u00e4u\u00dfere Form, \u00e4u\u00dfere Schicht; Rinde, Schale, H\u00fclle, Haut; Grenze, Abgrenzung",
+        "it": "forma esterna, strato esterno; corteccia, buccia, guscio, pelle; confine"
       }
     },
     "seme": {
@@ -5122,7 +5189,8 @@
         "isv_c": "\u0447\u0442\u043e? \u043a\u0442\u043e\u0440\u044b? \u043a\u043e\u0458? \u043a\u0430\u043a\u044b?",
         "eo": "kio? kiu?",
         "de": "was? welche?",
-        "es": "\u00bfqu\u00e9? \u00bfcu\u00e1l?"
+        "es": "\u00bfqu\u00e9? \u00bfcu\u00e1l?",
+        "it": "Cosa? Quale?"
       }
     },
     "sewi": {
@@ -5141,9 +5209,11 @@
       "ku_data": "divine\u2075, upper\u2075, sacred\u2074, top\u2074, holy\u2074, sky\u2074, elevated\u2074, high\u00b3, spiritual\u00b3, raise\u00b3, supreme\u00b3, highly\u00b3, peak\u00b3, God\u00b2, rise\u00b2, above\u00b2, superior\u00b2, magical\u00b2, summit\u00b2, weather\u00b2, upstairs\u00b2, religious\u00b2, arise\u00b2",
       "def": {
         "en": "area above, highest part, something elevated; awe-inspiring, divine, sacred, supernatural",
+        "pl": "obszar wzwy\u017c, najwy\u017csza cz\u0119\u015b\u0107, co\u015b wzniesionego; budz\u0105cy podziw, boski, \u015bwi\u0119ty, nadnaturalny",
         "ru": "\u043e\u0431\u043b\u0430\u0441\u0442\u044c \u0432\u044b\u0448\u0435, \u043d\u0430\u0438\u0432\u044b\u0441\u0448\u0430\u044f \u0447\u0430\u0441\u0442\u044c, \u043d\u0435\u0447\u0442\u043e \u0432\u043e\u0437\u0432\u044b\u0448\u0435\u043d\u043d\u043e\u0435; \u0432\u043d\u0443\u0448\u0430\u044e\u0449\u0438\u0439 \u0442\u0440\u0435\u043f\u0435\u0442, \u0431\u043e\u0436\u0435\u0441\u0442\u0432\u0435\u043d\u043d\u044b\u0439, \u0441\u0432\u044f\u0449\u0435\u043d\u043d\u044b\u0439, \u0441\u0432\u0435\u0440\u0445\u044a\u0435\u0441\u0442\u0435\u0441\u0442\u0432\u0435\u043d\u043d\u044b\u0439",
         "eo": "areo super io, plej alta parto de io, io pli alta; miriga, dia, sankta, supernatura",
-        "de": "h\u00f6hergelegener Bereich, h\u00f6chster Teil, etwas erhobenes; hoch, oben, \u00fcber; beeindruckend, g\u00f6ttlich, heilig, \u00fcbernat\u00fcrlich"
+        "de": "h\u00f6hergelegener Bereich, h\u00f6chster Teil, etwas erhobenes; hoch, oben, \u00fcber; beeindruckend, g\u00f6ttlich, heilig, \u00fcbernat\u00fcrlich",
+        "it": "area al di sopra, parte pi\u00f9 alta, qualcosa di elevato; soggezione, divino, sacro, soprannaturale"
       }
     },
     "sijelo": {
@@ -5162,9 +5232,11 @@
       "ku_data": "body\u2075, torso\u2074, flesh\u00b3, physically\u00b2, form\u00b2, figure\u00b2, self\u00b2, physical\u00b2",
       "def": {
         "en": "body (of person or animal), physical state, torso",
+        "pl": "cia\u0142o (cz\u0142owieka lub zwierz\u0119cia), stan fizyczny, tu\u0142\u00f3w",
         "ru": "\u0442\u0435\u043b\u043e (\u0447\u0435\u043b\u043e\u0432\u0435\u043a\u0430 \u0438\u043b\u0438 \u0436\u0438\u0432\u043e\u0442\u043d\u043e\u0433\u043e), \u0444\u0438\u0437\u0438\u0447\u0435\u0441\u043a\u043e\u0435 \u0441\u043e\u0441\u0442\u043e\u044f\u043d\u0438\u0435, \u0442\u043e\u0440\u0441",
         "eo": "korpo (de homo a\u016d besto), fizika stato, torso",
-        "de": "K\u00f6rper (einer Person oder eines Tieres), k\u00f6rperlicher Zustand, Torso, Oberk\u00f6rper"
+        "de": "K\u00f6rper (einer Person oder eines Tieres), k\u00f6rperlicher Zustand, Torso, Oberk\u00f6rper",
+        "it": "corpo (di persona o animale), stato fisico, torso"
       }
     },
     "sike": {
@@ -5186,7 +5258,8 @@
         "pl": "co\u015b okr\u0105g\u0142ego; pi\u0142ka, okr\u0105g, cykl, kula, ko\u0142o; jednoroczny",
         "ru": "\u043a\u0440\u0443\u0433\u043b\u044b\u0439 \u043f\u0440\u0435\u0434\u043c\u0435\u0442; \u0448\u0430\u0440, \u043a\u0440\u0443\u0433, \u0446\u0438\u043a\u043b, \u0441\u0444\u0435\u0440\u0430, \u043a\u043e\u043b\u0435\u0441\u043e; \u043e\u0442\u043d\u043e\u0441\u044f\u0449\u0438\u0439\u0441\u044f \u043a \u043e\u0434\u043d\u043e\u043c\u0443 \u0433\u043e\u0434\u0443",
         "eo": "io ronda a\u016d cirkla; pilko, cirklo, ciklo, globo, sfero, rado; de unu jaro",
-        "de": "rundes oder kreisf\u00f6rmiges Ding; Ball, Kreis, Zyklus, Kugel, Rad; ein Jahr betreffend"
+        "de": "rundes oder kreisf\u00f6rmiges Ding; Ball, Kreis, Zyklus, Kugel, Rad; ein Jahr betreffend",
+        "it": "cosa rotonda o circolare; palla, cerchio, ciclo, sfera, ruota; di un anno"
       }
     },
     "sikomo": {
@@ -5242,7 +5315,8 @@
         "isv_c": "\u043d\u043e\u0432\u044b, \u0441\u0432\u0454\u0436\u0438; \u0434\u043e\u0434\u0430\u0442\u043e\u0447\u043d\u044b, \u043f\u043e\u043d\u043e\u0432\u043d\u044b",
         "eo": "nova, fre\u015da; plia, aldona, kroma",
         "de": "neu, frisch; zus\u00e4tzlich, weitere, extra",
-        "es": "nuevo, fresco; adicional, m\u00e1s, extra"
+        "es": "nuevo, fresco; adicional, m\u00e1s, extra",
+        "it": "nuovo, fresco; aggiuntivo, un altro, extra"
       }
     },
     "sina": {
@@ -5264,7 +5338,8 @@
         "pl": "ty, wy",
         "ru": "\u0442\u044b, \u0432\u044b",
         "eo": "vi",
-        "de": "du, Sie, ihr; dein, euer"
+        "de": "du, Sie, ihr; dein, euer",
+        "it": "tu, voi"
       }
     },
     "sinpin": {
@@ -5286,7 +5361,8 @@
         "pl": "twarz, czo\u0142owy, prz\u00f3d, \u015bciana",
         "ru": "\u043b\u0438\u0446\u043e, \u043f\u0435\u0440\u0435\u0434\u043d\u0438\u0439, \u043f\u0435\u0440\u0435\u0434, \u0441\u0442\u0435\u043d\u0430",
         "eo": "viza\u011do, unuaranga, anta\u016do, muro",
-        "de": "Gesicht, vorderst, vorne, vor, Wand"
+        "de": "Gesicht, vorderst, vorne, vor, Wand",
+        "it": "faccia, davanti, anteriore, muro"
       }
     },
     "sitelen": {
@@ -5308,7 +5384,8 @@
         "pl": "obraz, zdj\u0119cie, podobizna, symbol, znak, pismo",
         "ru": "\u043e\u0431\u0440\u0430\u0437, \u043a\u0430\u0440\u0442\u0438\u043d\u0430, \u043f\u0440\u0435\u0434\u0441\u0442\u0430\u0432\u043b\u0435\u043d\u0438\u0435, \u0441\u0438\u043c\u0432\u043e\u043b, \u043e\u0442\u043c\u0435\u0442\u043a\u0430, \u043f\u0438\u0441\u044c\u043c\u0435\u043d\u043d\u043e\u0441\u0442\u044c",
         "eo": "bildo, figuro, simbolo, marka\u0135o, skriba\u0135o",
-        "de": "Bild, Darstellung, Symbol, Markierung, Schrift, Text"
+        "de": "Bild, Darstellung, Symbol, Markierung, Schrift, Text",
+        "it": "immagine, figura, rappresentazione, simbolo, marchio, scrittura"
       }
     },
     "slape": {
@@ -5324,6 +5401,7 @@
       },
       "def": {
         "en": "[humorous synonym of lape]",
+        "pl": "[dowcipny synonim lape]",
         "ru": "[humorous synonym of lape]",
         "de": "[humorvolles Synonym von lape]",
         "es": "[sin\u00f3nimo humor\u00edstico de lape]"
@@ -5380,7 +5458,8 @@
         "pl": "wiedzie\u0107, by\u0107 wprawnym w, by\u0107 m\u0105drym na temat, mie\u0107 wiedz\u0119 o; (pv.) wiedzie\u0107 jak",
         "ru": "\u0437\u043d\u0430\u0442\u044c, \u0431\u044b\u0442\u044c \u043e\u043f\u044b\u0442\u043d\u044b\u043c, \u0431\u044b\u0442\u044c \u043c\u0443\u0434\u0440\u044b\u043c, \u0440\u0430\u0441\u043f\u043e\u043b\u0430\u0433\u0430\u0442\u044c \u0438\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0438\u0435\u0439; (pv.) \u0443\u043c\u0435\u0442\u044c",
         "eo": "scii, esti lerta pri, esti sa\u011da pri, havi informojn pri; (a.v.) scipovi",
-        "de": "wissen, k\u00f6nnen, erfahren sein in, weise sein \u00fcber, Informationen haben \u00fcber; (pv.) wissen wie"
+        "de": "wissen, k\u00f6nnen, erfahren sein in, weise sein \u00fcber, Informationen haben \u00fcber; (pv.) wissen wie",
+        "it": "conoscere, essere esperto, essere saggio, avere informazioni su; (pv.) sapere come"
       }
     },
     "soto": {
@@ -5434,7 +5513,8 @@
         "ru": "\u0436\u0438\u0432\u043e\u0442\u043d\u043e\u0435, \u0437\u0432\u0435\u0440\u044c, \u043d\u0430\u0437\u0435\u043c\u043d\u043e\u0435 \u043c\u043b\u0435\u043a\u043e\u043f\u0438\u0442\u0430\u044e\u0449\u0435\u0435",
         "eo": "besto, surtera mamulo",
         "de": "Tier, Biest, Lands\u00e4ugetier",
-        "es": "animal, bestia, mam\u00edfero terrestre"
+        "es": "animal, bestia, mam\u00edfero terrestre",
+        "it": "animale, bestia, mammifero terrestre"
       }
     },
     "su": {
@@ -5523,7 +5603,8 @@
         "pl": "du\u017cy, ci\u0119\u017cki, d\u0142ugi, wysoki; wa\u017cny; doros\u0142y",
         "ru": "\u0431\u043e\u043b\u044c\u0448\u043e\u0439, \u0442\u044f\u0436\u0435\u043b\u044b\u0439, \u0434\u043b\u0438\u043d\u043d\u044b\u0439, \u0432\u044b\u0441\u043e\u043a\u0438\u0439; \u0432\u0430\u0436\u043d\u044b\u0439; \u0432\u0437\u0440\u043e\u0441\u043b\u044b\u0439",
         "eo": "granda, peza, longa, alta; grava; plenkreska",
-        "de": "gro\u00df, schwer, lang, breit, hoch; wichtig; erwachsen"
+        "de": "gro\u00df, schwer, lang, breit, hoch; wichtig; erwachsen",
+        "it": "grande, pesante, grosso, lungo, alto; importante; adulto"
       }
     },
     "suno": {
@@ -5546,7 +5627,8 @@
         "pl": "s\u0142o\u0144ce; \u015bwiat\u0142o, jasno\u015b\u0107, po\u015bwiata, blask, po\u0142ysk; \u017ar\u00f3d\u0142o \u015bwiat\u0142a",
         "ru": "\u0441\u043e\u043b\u043d\u0446\u0435; \u0441\u0432\u0435\u0442, \u044f\u0440\u043a\u043e\u0441\u0442\u044c, \u0441\u0432\u0435\u0447\u0435\u043d\u0438\u0435, \u0441\u0438\u044f\u043d\u0438\u0435; \u0438\u0441\u0442\u043e\u0447\u043d\u0438\u043a \u0441\u0432\u0435\u0442\u0430",
         "eo": "suno; lumo, heleco, lumi, ardi, brilo; lumfonto",
-        "de": "Sonne; Licht, Helligkeit, Leuchten, Glanz, Schein; Lichtquelle"
+        "de": "Sonne; Licht, Helligkeit, Leuchten, Glanz, Schein; Lichtquelle",
+        "it": "sole; luce, luminosit\u00e0, bagliore, radiosit\u00e0, splendore; fonte di luce"
       }
     },
     "supa": {
@@ -5568,7 +5650,8 @@
         "pl": "pozioma powierzchnia, mo\u017cna na tym co\u015b po\u0142o\u017cy\u0107 czy umie\u015bci\u0107",
         "ru": "\u0433\u043e\u0440\u0438\u0437\u043e\u043d\u0442\u0430\u043b\u044c\u043d\u0430\u044f \u043f\u043e\u0432\u0435\u0440\u0445\u043d\u043e\u0441\u0442\u044c, \u043f\u0440\u0435\u0434\u043c\u0435\u0442, \u043d\u0430 \u043a\u043e\u0442\u043e\u0440\u044b\u0439 \u043c\u043e\u0436\u043d\u043e \u0447\u0442\u043e-\u0442\u043e \u043f\u043e\u0441\u0442\u0430\u0432\u0438\u0442\u044c \u0438\u043b\u0438 \u043e\u043f\u0435\u0440\u0435\u0442\u044c\u0441\u044f",
         "eo": " horizontala surfaco, io sur kio oni metas ion alian",
-        "de": "waagerechte Oberfl\u00e4che, Ding f\u00fcr das Abstellen von anderen Dingen"
+        "de": "waagerechte Oberfl\u00e4che, Ding f\u00fcr das Abstellen von anderen Dingen",
+        "it": "superficie orizzontale, cosa su cui mettere o appoggiare qualcosa"
       }
     },
     "sutopatikuna": {
@@ -5618,7 +5701,8 @@
         "pl": "s\u0142odki (smak), aromatyczny; s\u0142odki (\u015bliczny), niewinny, uroczy",
         "ru": "\u0441\u043b\u0430\u0434\u043a\u0438\u0439, \u0430\u0440\u043e\u043c\u0430\u0442\u043d\u044b\u0439; \u043c\u0438\u043b\u044b\u0439, \u043d\u0435\u0432\u0438\u043d\u043d\u044b\u0439, \u043e\u0447\u0430\u0440\u043e\u0432\u0430\u0442\u0435\u043b\u044c\u043d\u044b\u0439",
         "eo": "dol\u0109a, bonodora; \u0109arma, senkulpa, aminda",
-        "de": "s\u00fc\u00df, wohlriechend; niedlich, unschuldig, liebenswert"
+        "de": "s\u00fc\u00df, wohlriechend; niedlich, unschuldig, liebenswert",
+        "it": "dolce, fragrante; carino, innocente, adorabile"
       }
     },
     "take": {
@@ -5696,7 +5780,8 @@
         "pl": "od, z powodu; \u017ar\u00f3d\u0142o, pow\u00f3d",
         "ru": "\u043e\u0442, \u0438\u0437, \u0438\u0437-\u0437\u0430; \u043f\u0440\u043e\u0438\u0441\u0445\u043e\u0436\u0434\u0435\u043d\u0438\u0435, \u043f\u0440\u0438\u0447\u0438\u043d\u0430",
         "eo": "pro, el, fare de; origino, ka\u016dzo",
-        "de": "von, durch, wegen; Grund, Ursache"
+        "de": "von, durch, wegen; Grund, Ursache",
+        "it": "da, a causa di; origine, causa"
       }
     },
     "taso": {
@@ -5719,7 +5804,8 @@
         "pl": "ale, jednak\u017ce; tylko, jedyny",
         "ru": "\u043d\u043e, \u043e\u0434\u043d\u0430\u043a\u043e; \u0442\u043e\u043b\u044c\u043a\u043e",
         "eo": "sed, tamen; nur",
-        "de": "aber, jedoch; nur"
+        "de": "aber, jedoch; nur",
+        "it": "ma, tuttavia, solo"
       }
     },
     "tawa": {
@@ -5741,7 +5827,8 @@
         "pl": "i\u015b\u0107 do, w kierunku; dla; z perspektywy; ruchomy | ALT (pv.) zamierza\u0107",
         "ru": "\u0434\u0432\u0438\u0433\u0430\u044e\u0449\u0438\u0439\u0441\u044f, \u043d\u0430\u0432\u0441\u0442\u0440\u0435\u0447\u0443; \u0434\u043b\u044f; \u0441 \u0442\u043e\u0447\u043a\u0438 \u0437\u0440\u0435\u043d\u0438\u044f; \u043f\u0435\u0440\u0435\u043c\u0435\u0449\u0430\u044e\u0449\u0438\u0439\u0441\u044f | ALT (pv.) \u0441\u043e\u0431\u0438\u0440\u0430\u0435\u0442\u0441\u044f",
         "eo": "al, iranta al, en la direkto al; por, al; la\u016d la vidpunkto de; movanta | ALT (a.v.) iri ...i",
-        "de": "hin, zu, nach; f\u00fcr; nach Ansicht von; gehen, bewegen | ALT (HV) zu... hingehen"
+        "de": "hin, zu, nach; f\u00fcr; nach Ansicht von; gehen, bewegen | ALT (HV) zu... hingehen",
+        "it": "andare a, verso; per; dalla prospettiva di; muoversi | ALT (pv.) stando"
       }
     },
     "te": {
@@ -5759,6 +5846,7 @@
         "2020-04": "22"
       },
       "see_also": "to",
+      "commentary": "May be paired with \"to\", or used on its own. It is unclear how accepted either approach is among te / to users.",
       "def": {
         "en": "(particle introducing a quote)",
         "pl": "(partyku\u0142a wprowadzaj\u0105ca cytat)",
@@ -5824,7 +5912,8 @@
         "pl": "woda, p\u0142yn, ciecz, mokra substancja; nap\u00f3j",
         "ru": "\u0432\u043e\u0434\u0430, \u0436\u0438\u0434\u043a\u043e\u0441\u0442\u044c, \u0432\u043b\u0430\u0436\u043d\u043e\u0435 \u0432\u0435\u0449\u0435\u0441\u0442\u0432\u043e; \u043d\u0430\u043f\u0438\u0442\u043e\u043a",
         "eo": "akvo, likvo, flua\u0135o, malseka substanco; trinka\u0135o",
-        "de": "Wasser, Fl\u00fcssigkeit, nasse Substanz; Getr\u00e4nk"
+        "de": "Wasser, Fl\u00fcssigkeit, nasse Substanz; Getr\u00e4nk",
+        "it": "acqua, liquido, fluido, sostanza umida; bevande"
       }
     },
     "ten": {
@@ -5875,7 +5964,8 @@
         "pl": "czas, czas trwania, moment, okazja, okres, sytuacja",
         "ru": "\u0432\u0440\u0435\u043c\u044f, \u043f\u0440\u043e\u0434\u043e\u043b\u0436\u0438\u0442\u0435\u043b\u044c\u043d\u043e\u0441\u0442\u044c, \u043c\u043e\u043c\u0435\u043d\u0442, \u0441\u043b\u0443\u0447\u0430\u0439, \u043f\u0435\u0440\u0438\u043e\u0434, \u0441\u0438\u0442\u0443\u0430\u0446\u0438\u044f",
         "eo": "tempo, da\u016dro, momento, okazo, fojo, periodo, situacio",
-        "de": "Zeit, Dauer, Moment, Gelegenheit, Zeitraum, Situation"
+        "de": "Zeit, Dauer, Moment, Gelegenheit, Zeitraum, Situation",
+        "it": "tempo, durata, momento, occasione, periodo, situazione"
       }
     },
     "to": {
@@ -5892,6 +5982,7 @@
         "2021-10": "38"
       },
       "see_also": "te",
+      "commentary": "May be paired with \"te\", or used on its own. It is unclear how accepted either approach is among te / to users.",
       "def": {
         "en": "(particle closing a quote)",
         "pl": "(partyku\u0142a ko\u0144cz\u0105ca cytat)",
@@ -5952,7 +6043,8 @@
         "pl": "komunikowa\u0107 si\u0119, m\u00f3wi\u0107, rozmawia\u0107, u\u017cywa\u0107 j\u0119zyka, my\u015ble\u0107; cze\u015b\u0107",
         "ru": "\u043e\u0431\u0449\u0430\u0442\u044c\u0441\u044f, \u0433\u043e\u0432\u043e\u0440\u0438\u0442\u044c, \u0441\u043a\u0430\u0437\u0430\u0442\u044c, \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u044c \u044f\u0437\u044b\u043a, \u0434\u0443\u043c\u0430\u0442\u044c; \u043f\u0440\u0438\u0432\u0435\u0442",
         "eo": "komuniki, diri, paroli, uzi lingvon, pensi; saluton",
-        "de": "kommunizieren, sagen, sprechen, reden, Sprache benutzen, denken; hallo"
+        "de": "kommunizieren, sagen, sprechen, reden, Sprache benutzen, denken; hallo",
+        "it": "comunicare, dire, parlare, conversare, usare il linguaggio, pensare; ciao"
       }
     },
     "toma": {
@@ -5995,7 +6087,8 @@
         "pl": "przestrze\u0144 wewn\u0119trzna; budynek, dom, pok\u00f3j",
         "ru": "\u0432\u043d\u0443\u0442\u0440\u0435\u043d\u043d\u0435\u0435 \u043f\u0440\u043e\u0441\u0442\u0440\u0430\u043d\u0441\u0442\u0432\u043e; \u0437\u0434\u0430\u043d\u0438\u0435, \u0434\u043e\u043c, \u0436\u0438\u043b\u0438\u0449\u0435, \u043a\u043e\u043c\u043d\u0430\u0442\u0430",
         "eo": "endoma spaco; konstrua\u0135o, hejmo, domo, \u0109ambro",
-        "de": "Innenraum, Geb\u00e4ude, Haus, Raum, Zuhause"
+        "de": "Innenraum, Geb\u00e4ude, Haus, Raum, Zuhause",
+        "it": "spazio interno; edificio, casa, abitazione, stanza"
       }
     },
     "tonsi": {
@@ -6055,7 +6148,8 @@
         "isv_l": "dva | ALT d\u011bliti, s\u011bkti",
         "isv_c": "\u0434\u0432\u0430 | ALT \u0434\u0454\u043b\u0438\u0442\u0438, \u0441\u0454\u043a\u0442\u0438",
         "eo": "du | ALT disigi, tran\u0109i",
-        "de": "zwei | ALT teilen, schneiden"
+        "de": "zwei | ALT teilen, schneiden",
+        "it": "due | ALT separare, tagliare"
       }
     },
     "tuli": {
@@ -6150,7 +6244,8 @@
         "pl": "mie\u0107 stosunki seksualne z",
         "ru": "\u0438\u043c\u0435\u0442\u044c \u0441\u0435\u043a\u0441\u0443\u0430\u043b\u044c\u043d\u044b\u0435 \u043e\u0442\u043d\u043e\u0448\u0435\u043d\u0438\u044f \u0441",
         "eo": "seksumi, fiki, amori",
-        "de": "Sex, Geschlecht, sexuelle Beziehung mit jemandem haben"
+        "de": "Sex, Geschlecht, sexuelle Beziehung mit jemandem haben",
+        "it": "avere rapporti sessuali con"
       }
     },
     "unu": {
@@ -6231,7 +6326,8 @@
         "isv_l": "usta, guba, ustna jama, \u010deljust",
         "isv_c": "\u0443\u0441\u0442\u0430, \u0433\u0443\u0431\u0430, \u0443\u0441\u0442\u043d\u0430 \u0458\u0430\u043c\u0430, \u0447\u0435\u0459\u0443\u0441\u0442",
         "eo": "bu\u015do, lipoj, bu\u015da kavo, makzelo",
-        "de": "Mund, Lippen, Rachen, Kiefer"
+        "de": "Mund, Lippen, Rachen, Kiefer",
+        "it": "bocca, labbra, cavit\u00e0 orale, mascella"
       }
     },
     "utala": {
@@ -6253,7 +6349,8 @@
         "pl": "walka, wyzwanie, konkurowa\u0107 z, zmaga\u0107 si\u0119 z",
         "ru": "\u0431\u0438\u0442\u0432\u0430, \u0432\u044b\u0437\u043e\u0432, \u0441\u043e\u0440\u0435\u0432\u043d\u043e\u0432\u0430\u0442\u044c\u0441\u044f, \u0431\u043e\u0440\u043e\u0442\u044c\u0441\u044f \u043f\u0440\u043e\u0442\u0438\u0432",
         "eo": "batali, defii, konkuri kontra\u016d, lukti kontra\u016d",
-        "de": "Kampf, Streit, k\u00e4mpfen, Herausforderung, gegen j-n zum Wettkampf antreten"
+        "de": "Kampf, Streit, k\u00e4mpfen, Herausforderung, gegen j-n zum Wettkampf antreten",
+        "it": "combattere, sfidare, competere contro, lottare contro"
       }
     },
     "wa": {
@@ -6336,7 +6433,8 @@
         "isv_l": "b\u011bly, podobny b\u011blomu; sv\u011btly, bl\u011bdy",
         "isv_c": "\u0431\u0454\u043b\u044b, \u043f\u043e\u0434\u043e\u0431\u043d\u044b \u0431\u0454\u043b\u043e\u043c\u0443; \u0441\u0432\u0454\u0442\u043b\u044b, \u0431\u043b\u0454\u0434\u044b",
         "eo": "blanka, blankeca; helkolora, pala",
-        "de": "wei\u00df, hell, bleich, blass"
+        "de": "wei\u00df, hell, bleich, blass",
+        "it": "bianco, biancastro; chiaro, pallido"
       }
     },
     "wan": {
@@ -6361,7 +6459,8 @@
         "isv_l": "unikalny, objedinjeny, sjedinjeny; jedin",
         "isv_c": "\u0443\u043d\u0438\u043a\u0430\u043b\u043d\u044b, \u043e\u0431\u0458\u0435\u0434\u0438\u045a\u0435\u043d\u044b, \u0441\u0458\u0435\u0434\u0438\u045a\u0435\u043d\u044b; \u0458\u0435\u0434\u0438\u043d",
         "eo": "unika, unuigita, unui\u011dinta; unu",
-        "de": "eins; eimalig, vereinen"
+        "de": "eins; eimalig, vereinen",
+        "it": "unico, unito; uno"
       }
     },
     "waso": {
@@ -6385,7 +6484,8 @@
         "isv_l": "ptica, ptak, l\u011btaju\u010da \u017eivotina, krilata \u017eivotina",
         "isv_c": "\u043f\u0442\u0438\u0446\u0430, \u043f\u0442\u0430\u043a, \u043b\u0454\u0442\u0430\u0458\u0443\u0447\u0430 \u0436\u0438\u0432\u043e\u0442\u0438\u043d\u0430, \u043a\u0440\u0438\u043b\u0430\u0442\u0430 \u0436\u0438\u0432\u043e\u0442\u0438\u043d\u0430",
         "eo": "birdo, fluganta viva\u0135o, besto havanta flugilojn",
-        "de": "Vogel, fliegendes Tier, befl\u00fcgeltes Tier"
+        "de": "Vogel, fliegendes Tier, befl\u00fcgeltes Tier",
+        "it": "uccello, creatura volante, animale alato"
       }
     },
     "wasoweli": {
@@ -6428,7 +6528,8 @@
         "pl": "silny, pot\u0119\u017cny; pewny (siebie); energiczny, intensywny",
         "ru": "\u0441\u0438\u043b\u044c\u043d\u044b\u0439, \u043c\u043e\u0449\u043d\u044b\u0439; \u0443\u0432\u0435\u0440\u0435\u043d\u043d\u044b\u0439; \u044d\u043d\u0435\u0440\u0433\u0438\u0447\u043d\u044b\u0439, \u0438\u043d\u0442\u0435\u043d\u0441\u0438\u0432\u043d\u044b\u0439",
         "eo": "forta, potenca; memfida, nedubanta; energia, intensa",
-        "de": "stark, Kraft, Energie; zuversichtlich, sicher; intensiv"
+        "de": "stark, Kraft, Energie; zuversichtlich, sicher; intensiv",
+        "it": "forte, potente; fiducioso, sicuro; energico, intenso"
       }
     },
     "wawajete": {
@@ -6505,7 +6606,8 @@
         "pl": "nieobecny, daleki, zignorowany",
         "ru": "\u043e\u0442\u0441\u0443\u0442\u0441\u0442\u0432\u0443\u044e\u0449\u0438\u0439, \u043f\u0440\u043e\u0447\u044c, \u0438\u0433\u043d\u043e\u0440\u0438\u0440\u0443\u0435\u043c\u044b\u0439",
         "eo": "ne\u0109eestanta, fora, ignorata",
-        "de": "weg, abwesend, entfernen, ignorieren"
+        "de": "weg, abwesend, entfernen, ignorieren",
+        "it": "assente, lontano, ignorato"
       }
     },
     "wekama": {
@@ -6579,7 +6681,8 @@
         "pl": "musi, potrzebuje, wymaga, powinien, chce, \u017cyczy",
         "ru": "\u0434\u043e\u043b\u0436\u0435\u043d\u0441\u0442\u0432\u043e\u0432\u0430\u0442\u044c, \u043d\u0443\u0436\u0434\u0430\u0442\u044c\u0441\u044f, \u0442\u0440\u0435\u0431\u043e\u0432\u0430\u0442\u044c, \u0445\u043e\u0442\u0435\u0442\u044c, \u0436\u0435\u043b\u0430\u0442\u044c",
         "eo": "devi, bezoni, postuli, voli, deziri",
-        "de": "wollen, w\u00fcnschen, sollen, erfordern, brauchen, m\u00fcssen, Wunsch"
+        "de": "wollen, w\u00fcnschen, sollen, erfordern, brauchen, m\u00fcssen, Wunsch",
+        "it": "deve, bisogno, richiedere, dovrebbe, vuole, desidera"
       }
     },
     "yupekosi": {
@@ -6623,6 +6726,7 @@
       "commentary": "The \"y\" was a typo and was meant to be \"j\", but got kept in anyway; compare \"yupekosi\".",
       "def": {
         "en": "{on Discord} the star emoji used for the starboard (#pona-kulupu in ma pona)",
+        "pl": "{na Discordzie} emoji gwiazdy u\u017cywane dla tablicy ulubionych (starboard, #pona-kulupu w ma ponie)",
         "ru": "{\u0432 \u0414\u0438\u0441\u043a\u043e\u0440\u0434\u0435} \u044d\u043c\u043e\u0434\u0437\u0438 \u0437\u0432\u0451\u0437\u0434\u043e\u0447\u043a\u0438, \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u0443\u0435\u043c\u0430\u044f \u0434\u043b\u044f \u0434\u043e\u0441\u043a\u0438 \u0438\u0437\u0431\u0440\u0430\u043d\u043d\u043e\u0433\u043e (starboard, #pona-kulupu \u0432 ma pona)",
         "eo": "{en Discord} la stela emo\u011dio uzata por la steltabulo (starboard, #pona-kulupu en ma pona)",
         "de": "{auf Discord} das Stern-Emoji, das f\u00fcr das Starboard verwended wird (#pona-kulupu in ma pona)",
