@@ -54,14 +54,14 @@
       "name_endonym": "\u041c\u0435\u0434\u0436\u0443\u0441\u043b\u043e\u0432\u0458\u0430\u043d\u0441\u043a\u044b (\u043a\u0438\u0440\u0438\u043b\u0438\u0446\u0430)",
       "name_english": "Interslavic (Cyrillic)",
       "name_toki_pona": "toki Mesulojanki (sitelen Kililisa)",
-      "completeness_percent": "35"
+      "completeness_percent": "42"
     },
     "isv_l": {
       "id_long": "interslavic_latin",
       "name_endonym": "Med\u017euslovjansky (latinica)",
       "name_english": "Interslavic (Latin)",
       "name_toki_pona": "toki Mesulojanki (sitelen Lasina)",
-      "completeness_percent": "35"
+      "completeness_percent": "42"
     },
     "it": {
       "id_long": "italian",
@@ -1460,6 +1460,8 @@
         "en": "anarchy, uprising, revolt, rebellion",
         "pl": "anarchia, powstanie, bunt, rebelia",
         "ru": "\u0430\u043d\u0430\u0440\u0445\u0438\u044f, \u0432\u043e\u0441\u0441\u0442\u0430\u043d\u0438\u0435, \u043c\u044f\u0442\u0435\u0436",
+        "isv_l": "anarhija, povstanje, bunt, mete\u017e",
+        "isv_c": "\u0430\u043d\u0430\u0440\u0445\u0438\u0458\u0430, \u043f\u043e\u0432\u0441\u0442\u0430\u045a\u0435, \u0431\u0443\u043d\u0442, \u043c\u0435\u0442\u0435\u0436",
         "eo": "anarkio, rebelo",
         "de": "Anarchie, Aufstand, Rebellion",
         "tok": "tenpo kama pi lawa ala li tenpo kamalawala.",
@@ -1596,7 +1598,7 @@
       },
       "see_also": "oke, n",
       "def": {
-        "en": "(acknowledgment or acceptance)",
+        "en": "(acknowledgement or acceptance)",
         "pl": "(uznanie lub akceptacja) ",
         "ru": "(\u043f\u043e\u0434\u0442\u0432\u0435\u0440\u0436\u0434\u0435\u043d\u0438\u0435 \u0438\u043b\u0438 \u043f\u0440\u0438\u043d\u044f\u0442\u0438\u0435)",
         "isv_l": "(priznanje abo prijetje)",
@@ -2606,6 +2608,8 @@
       "def": {
         "en": "limb",
         "ru": "\u043a\u043e\u043d\u0435\u0447\u043d\u043e\u0441\u0442\u044c",
+        "isv_l": "ruka abo noga",
+        "isv_c": "\u0440\u0443\u043a\u0430 \u0430\u0431\u043e \u043d\u043e\u0433\u0430",
         "eo": "brako a\u016d kruro, membro",
         "de": "Glied"
       }
@@ -2838,6 +2842,8 @@
         "en": "old, aged, ancient",
         "pl": "stary, staro\u017cytny, pradawny",
         "ru": "\u0441\u0442\u0430\u0440\u044b\u0439, \u043f\u043e\u0436\u0438\u043b\u043e\u0439, \u0434\u0440\u0435\u0432\u043d\u0438\u0439",
+        "isv_l": "stary, starinny, starodavny, dr\u011bvny",
+        "isv_c": "\u0441\u0442\u0430\u0440\u044b, \u0441\u0442\u0430\u0440\u0438\u043d\u043d\u044b, \u0441\u0442\u0430\u0440\u043e\u0434\u0430\u0432\u043d\u044b, \u0434\u0440\u0454\u0432\u043d\u044b",
         "eo": "maljuna, a\u011da, antikva",
         "de": "alt, betagt, antik",
         "tok": "tenpo mute la, sina li lon. ni la, sina jan majuna. ",
@@ -2865,6 +2871,8 @@
       "def": {
         "en": "parent, ancestor; creator, originator; caretaker, sustainer",
         "ru": "\u0440\u043e\u0434\u0438\u0442\u0435\u043b\u044c, \u043f\u0440\u0435\u0434\u043e\u043a; \u0441\u043e\u0437\u0434\u0430\u0442\u0435\u043b\u044c; \u0441\u043c\u043e\u0442\u0440\u0438\u0442\u0435\u043b\u044c",
+        "isv_l": "roditelj, pr\u011bdok; tvoritelj, tvorec; dbatelj",
+        "isv_c": "\u0440\u043e\u0434\u0438\u0442\u0435\u0459, \u043f\u0440\u0454\u0434\u043e\u043a; \u0442\u0432\u043e\u0440\u0438\u0442\u0435\u0459, \u0442\u0432\u043e\u0440\u0435\u0446; \u0434\u0431\u0430\u0442\u0435\u0459",
         "eo": "patr(in)o, praulo; kreinto, iniciatinto, fondinto; prizorganto, bontenanto",
         "de": "Elternteil, Ahn; Sch\u00f6pfer, Ursprung"
       }
@@ -2921,6 +2929,8 @@
       "def": {
         "en": "woman, female, feminine person; wife",
         "ru": "\u0436\u0435\u043d\u0449\u0438\u043d\u0430, \u0444\u0435\u043c\u0438\u043d\u043d\u0430\u044f \u043b\u0438\u0447\u043d\u043e\u0441\u0442\u044c; \u0436\u0435\u043d\u0430",
+        "isv_l": "\u017eena, \u017eenska osoba; \u017eena (supruga)",
+        "isv_c": "\u0436\u0435\u043d\u0430, \u0436\u0435\u043d\u0441\u043a\u0430 \u043e\u0441\u043e\u0431\u0430; \u0436\u0435\u043d\u0430 (\u0441\u0443\u043f\u0440\u0443\u0433\u0430)",
         "eo": "virino, inseksulo, ino; edzino",
         "de": "Frau, weiblich, feminine Person; Ehefrau"
       }
@@ -3028,6 +3038,8 @@
       "def": {
         "en": "man, male, masculine person; husband",
         "ru": "\u043c\u0443\u0436\u0447\u0438\u043d\u0430, \u043c\u0430\u0441\u043a\u0443\u043b\u0438\u043d\u043d\u0430\u044f \u043b\u0438\u0447\u043d\u043e\u0441\u0442\u044c; \u043c\u0443\u0436",
+        "isv_l": "mu\u017e, mu\u017eska osoba; mu\u017e (suprug)",
+        "isv_c": "\u043c\u0443\u0436, \u043c\u0443\u0436\u0441\u043a\u0430 \u043e\u0441\u043e\u0431\u0430; \u043c\u0443\u0436 (\u0441\u0443\u043f\u0440\u0443\u0433)",
         "eo": "viro, virseksulo, i\u0109o; edzo",
         "de": "Mann, m\u00e4nnlich, maskuline Person; Ehemann"
       }
@@ -3111,6 +3123,8 @@
         "en": "medicine, medical",
         "pl": "lekarstwo, lek; medyczny; leczy\u0107",
         "ru": "\u043c\u0435\u0434\u0438\u0446\u0438\u043d\u0430, \u043c\u0435\u0434\u0438\u0446\u0438\u043d\u0441\u043a\u0438\u0439",
+        "isv_l": "medicina, l\u011bk, l\u011bkarstvo, l\u011b\u010debny",
+        "isv_c": "\u043c\u0435\u0434\u0438\u0446\u0438\u043d\u0430, \u043b\u0454\u043a, \u043b\u0454\u043a\u0430\u0440\u0441\u0442\u0432\u043e, \u043b\u0454\u0447\u0435\u0431\u043d\u044b",
         "eo": "medikamento, medicina",
         "de": "Medizin; medizinisch, \u00e4rztlich",
         "tok": "misikeke li ijo pi pona sijelo. jan li moku e ona.",
@@ -3202,6 +3216,8 @@
       "def": {
         "en": "back, behind, rear",
         "ru": "\u0437\u0430\u0434\u043d\u044f\u044f \u0447\u0430\u0441\u0442\u044c, \u0441\u043f\u0438\u043d\u0430, \u0442\u044b\u043b",
+        "isv_l": "hrebet, zad, tyl",
+        "isv_c": "\u0445\u0440\u0435\u0431\u0435\u0442, \u0437\u0430\u0434, \u0442\u044b\u043b",
         "eo": "dorso, malanta\u016do",
         "de": "hinten, Hintern, Hinterteil, R\u00fccken"
       }
@@ -3428,6 +3444,8 @@
       "def": {
         "en": "-th (ordinal number); numbers",
         "ru": "(\u043f\u043e\u0440\u044f\u0434\u043a\u043e\u0432\u043e\u0435 \u0447\u0438\u0441\u043b\u0438\u0442\u0435\u043b\u044c\u043d\u043e\u0435); \u0447\u0438\u0441\u043b\u043e",
+        "isv_l": "(ordinalny \u010dislovnik); nomer, \u010dislo, broj",
+        "isv_c": "(\u043e\u0440\u0434\u0438\u043d\u0430\u043b\u043d\u044b \u0447\u0438\u0441\u043b\u043e\u0432\u043d\u0438\u043a); \u043d\u043e\u043c\u0435\u0440, \u0447\u0438\u0441\u043b\u043e, \u0431\u0440\u043e\u0458",
         "eo": "-a (kiel en \"unua\", \"dua\", ktp; indikas pozicion en vicordo); ciferoj, nombroj",
         "de": "-te (Ordinalzahl) | Zahl"
       }
@@ -3565,6 +3583,8 @@
       "def": {
         "en": "bump, button, hill, mountain, nose, protuberance",
         "ru": "\u0432\u044b\u043f\u0443\u043a\u043b\u043e\u0441\u0442\u044c, \u043a\u043d\u043e\u043f\u043a\u0430, \u0445\u043e\u043b\u043c, \u0433\u043e\u0440\u0430, \u043d\u043e\u0441, \u0432\u044b\u0441\u0442\u0443\u043f",
+        "isv_l": "izpuklost, knopka, gora, gorka, nos, izsunutje",
+        "isv_c": "\u0438\u0437\u043f\u0443\u043a\u043b\u043e\u0441\u0442, \u043a\u043d\u043e\u043f\u043a\u0430, \u0433\u043e\u0440\u0430, \u0433\u043e\u0440\u043a\u0430, \u043d\u043e\u0441, \u0438\u0437\u0441\u0443\u043d\u0443\u0442\u0458\u0435",
         "eo": "elstara malebena\u0135o, tubero, butono, monteto, monto, nazo, elstara\u0135o",
         "de": "Erhebung, Knopf, H\u00fcgel, Hubbel, Berg, Nase"
       }
@@ -3804,6 +3824,8 @@
         "en": "(acknowledgement or acceptance)",
         "pl": "(uznanie lub akceptacja) ",
         "ru": "(\u043f\u043e\u0434\u0442\u0432\u0435\u0440\u0436\u0434\u0435\u043d\u0438\u0435 \u0438\u043b\u0438 \u043f\u0440\u0438\u043d\u044f\u0442\u0438\u0435)",
+        "isv_l": "(priznanje abo prijetje)",
+        "isv_c": "(\u043f\u0440\u0438\u0437\u043d\u0430\u045a\u0435 \u0430\u0431\u043e \u043f\u0440\u0438\u0458\u0435\u0442\u0458\u0435)",
         "eo": "(agnosko a\u016d akcepto)",
         "de": "(Anerkennung oder Akzeptanz)",
         "tok": "sina pilin pona la, sina pilin oke. ijo li pona tawa sina la, o toki e ni: \"oke!\" sina wile e ijo? sina wile la, o toki e ni: \"oke.\"",
@@ -3894,6 +3916,8 @@
       "def": {
         "en": "love, have compassion for, respect, show affection to",
         "ru": "\u043b\u044e\u0431\u0438\u0442\u044c, \u0441\u043e\u0441\u0442\u0440\u0430\u0434\u0430\u0442\u044c, \u0443\u0432\u0430\u0436\u0430\u0442\u044c, \u043f\u0440\u043e\u044f\u0432\u043b\u044f\u0442\u044c \u043f\u0440\u0438\u0432\u044f\u0437\u0430\u043d\u043d\u043e\u0441\u0442\u044c \u043a",
+        "isv_l": "ljubiti, milovati, pova\u017eati, so\u010duvstvovati",
+        "isv_c": "\u0459\u0443\u0431\u0438\u0442\u0438, \u043c\u0438\u043b\u043e\u0432\u0430\u0442\u0438, \u043f\u043e\u0432\u0430\u0436\u0430\u0442\u0438, \u0441\u043e\u0447\u0443\u0432\u0441\u0442\u0432\u043e\u0432\u0430\u0442\u0438",
         "eo": "ami, simpatii kun, respekti, montri sian korinklinon al",
         "de": "lieben, Mitgef\u00fchl haben mit, respektieren, Zuneigung haben zu"
       }
@@ -4204,8 +4228,8 @@
       "def": {
         "en": "give, send, emit, provide, put, release",
         "ru": "\u0434\u0430\u0442\u044c, \u043e\u0442\u043f\u0440\u0430\u0432\u0438\u0442\u044c, \u0438\u0441\u043f\u0443\u0441\u0442\u0438\u0442\u044c, \u043f\u0440\u0435\u0434\u043e\u0441\u0442\u0430\u0432\u0438\u0442\u044c, \u043f\u043e\u0441\u0442\u0430\u0432\u0438\u0442\u044c, \u043f\u043e\u043b\u043e\u0436\u0438\u0442\u044c, \u0432\u044b\u043f\u0443\u0441\u0442\u0438\u0442\u044c",
-        "isv_l": "dati, poslati, lu\u010diti, dostavjati, klasti, polo\u017eiti, staviti, izpustiti",
-        "isv_c": "\u0434\u0430\u0442\u0438, \u043f\u043e\u0441\u043b\u0430\u0442\u0438, \u043b\u0443\u0447\u0438\u0442\u0438, \u0434\u043e\u0441\u0442\u0430\u0432\u0458\u0430\u0442\u0438, \u043a\u043b\u0430\u0441\u0442\u0438, \u043f\u043e\u043b\u043e\u0436\u0438\u0442\u0438, \u0441\u0442\u0430\u0432\u0438\u0442\u0438, \u0438\u0437\u043f\u0443\u0441\u0442\u0438\u0442\u0438",
+        "isv_l": "dati, poslati, dostavjati, klasti, polo\u017eiti, staviti, izpustiti",
+        "isv_c": "\u0434\u0430\u0442\u0438, \u043f\u043e\u0441\u043b\u0430\u0442\u0438, \u0434\u043e\u0441\u0442\u0430\u0432\u0458\u0430\u0442\u0438, \u043a\u043b\u0430\u0441\u0442\u0438, \u043f\u043e\u043b\u043e\u0436\u0438\u0442\u0438, \u0441\u0442\u0430\u0432\u0438\u0442\u0438, \u0438\u0437\u043f\u0443\u0441\u0442\u0438\u0442\u0438",
         "eo": "doni, sendi, eligi, ellasi, provizi, meti",
         "de": "geben, senden, ausstr\u00f6hmen, bereitstellen, etwas hinstellen, freigeben"
       }
@@ -4623,6 +4647,8 @@
         "en": "bowling pin",
         "pl": "kr\u0119giel",
         "ru": "\u043a\u0435\u0433\u043b\u044f \u0434\u043b\u044f \u0431\u043e\u0443\u043b\u0438\u043d\u0433\u0430",
+        "isv_l": "boulingova kegla",
+        "isv_c": "\u0431\u043e\u0443\u043b\u0438\u043d\u0433\u043e\u0432\u0430 \u043a\u0435\u0433\u043b\u0430",
         "eo": "bovlinga keglo",
         "de": "Bowlingkegel",
         "tok": "polinpin li palisa sike tawa musi Polin. jan li anpa e polinpin kepeken sike pimeja kiwen.",
@@ -4804,6 +4830,8 @@
         "en": "wanting to create new words",
         "pl": "chcie\u0107 tworzy\u0107 nowe s\u0142owa",
         "ru": "\u0436\u0435\u043b\u0430\u0442\u044c \u0441\u043e\u0437\u0434\u0430\u0432\u0430\u0442\u044c \u043d\u043e\u0432\u044b\u0435 \u0441\u043b\u043e\u0432\u0430",
+        "isv_l": "ht\u011bti stvarjati nove slova",
+        "isv_c": "\u0445\u0442\u0454\u0442\u0438 \u0441\u0442\u0432\u0430\u0440\u0458\u0430\u0442\u0438 \u043d\u043e\u0432\u0435 \u0441\u043b\u043e\u0432\u0430",
         "eo": "voli krei novajn vortojn",
         "de": "mehr W\u00f6rter machen wollen",
         "tok": "sina samu la, sina wile e nimi sin tawa pona! tan ni la, o lukin e lipu \"nimi ali epiku!\"",
@@ -5158,6 +5186,8 @@
         "en": "fungus, fungi",
         "pl": "grzyb",
         "ru": "\u0433\u0440\u0438\u0431, \u0433\u0440\u0438\u0431\u043e\u043a",
+        "isv_l": "grib, pl\u011bsnj",
+        "isv_c": "\u0433\u0440\u0438\u0431, \u043f\u043b\u0454\u0441\u045a",
         "eo": "fungo, fungoj",
         "de": "Pliz, Fungus",
         "tok": "soko li kili, taso soko en kili mute li sama ala. soko li jo e sijelo ante e linja suli mute lon ma anpa. selo soko li sama ala selo kasi.",
@@ -5561,6 +5591,8 @@
         "en": "(particle introducing a quote)",
         "pl": "(partyku\u0142a wprowadzaj\u0105ca cytat)",
         "ru": "(\u0447\u0430\u0441\u0442\u0438\u0446\u0430, \u043e\u0442\u043a\u0440\u044b\u0432\u0430\u044e\u0449\u0430\u044f \u0446\u0438\u0442\u0430\u0442\u0443)",
+        "isv_l": "(\u010destica, ktora po\u010dinaje citata)",
+        "isv_c": "(\u0447\u0435\u0441\u0442\u0438\u0446\u0430, \u043a\u0442\u043e\u0440\u0430 \u043f\u043e\u0447\u0438\u043d\u0430\u0458\u0435 \u0446\u0438\u0442\u0430\u0442\u0430)",
         "eo": "(partiklo kiu enkondukas cita\u0135on)",
         "de": "Zitatanfangszeichen",
         "tok": "sina toki e ni: \"mi pilin suli.\" sina toki te mi pilin suli to. linja nimi tu ni li sama.",
@@ -5690,6 +5722,8 @@
         "en": "(particle closing a quote)",
         "pl": "(partyku\u0142a ko\u0144cz\u0105ca cytat)",
         "ru": "(\u0447\u0430\u0441\u0442\u0438\u0446\u0430, \u0437\u0430\u043a\u0440\u044b\u0432\u0430\u044e\u0449\u0430\u044f \u0446\u0438\u0442\u0430\u0442\u0443)",
+        "isv_l": "(\u010destica, ktora kon\u010daje citata)",
+        "isv_c": "(\u0447\u0435\u0441\u0442\u0438\u0446\u0430, \u043a\u0442\u043e\u0440\u0430 \u043a\u043e\u043d\u0447\u0430\u0458\u0435 \u0446\u0438\u0442\u0430\u0442\u0430)",
         "eo": "(partiklo kiu fermas cita\u0135on)",
         "de": "Zitatendzeichen",
         "tok": "sina toki e ni: \"mi pilin suli.\" sina toki te mi pilin suli to. linja nimi tu ni li sama.",
@@ -6166,6 +6200,8 @@
       "def": {
         "en": "bird, flying creature, winged animal",
         "ru": "\u043f\u0442\u0438\u0446\u0430, \u043b\u0435\u0442\u0430\u044e\u0449\u0435\u0435 \u0441\u0443\u0449\u0435\u0441\u0442\u0432\u043e, \u043a\u0440\u044b\u043b\u0430\u0442\u043e\u0435 \u0436\u0438\u0432\u043e\u0442\u043d\u043e\u0435",
+        "isv_l": "ptica, ptak, l\u011btaju\u010da \u017eivotina, krilata \u017eivotina",
+        "isv_c": "\u043f\u0442\u0438\u0446\u0430, \u043f\u0442\u0430\u043a, \u043b\u0454\u0442\u0430\u0458\u0443\u0447\u0430 \u0436\u0438\u0432\u043e\u0442\u0438\u043d\u0430, \u043a\u0440\u0438\u043b\u0430\u0442\u0430 \u0436\u0438\u0432\u043e\u0442\u0438\u043d\u0430",
         "eo": "birdo, fluganta viva\u0135o, besto havanta flugilojn",
         "de": "Vogel, fliegendes Tier, befl\u00fcgeltes Tier"
       }
