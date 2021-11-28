@@ -54,14 +54,14 @@
       "name_endonym": "\u041c\u0435\u0434\u0436\u0443\u0441\u043b\u043e\u0432\u0458\u0430\u043d\u0441\u043a\u044b (\u043a\u0438\u0440\u0438\u043b\u0438\u0446\u0430)",
       "name_english": "Interslavic (Cyrillic)",
       "name_toki_pona": "toki Mesulojanki (sitelen Kililisa)",
-      "completeness_percent": "46"
+      "completeness_percent": "47"
     },
     "isv_l": {
       "id_long": "interslavic_latin",
       "name_endonym": "Med\u017euslovjansky (latinica)",
       "name_english": "Interslavic (Latin)",
       "name_toki_pona": "toki Mesulojanki (sitelen Lasina)",
-      "completeness_percent": "46"
+      "completeness_percent": "47"
     },
     "it": {
       "id_long": "italian",
@@ -89,7 +89,7 @@
       "name_endonym": "Polski",
       "name_english": "Polish",
       "name_toki_pona": "toki Posuka",
-      "completeness_percent": "81"
+      "completeness_percent": "90"
     },
     "ru": {
       "id_long": "russian",
@@ -2596,7 +2596,7 @@
       "tags": "pre-pu ALT",
       "def": {
         "en": "long and flexible thing; cord, hair, rope, thread, yarn | ALT line, connection",
-        "pl": "rzecz d\u0142uga i elastyczna; sznur, w\u0142osy, lina, ni\u0107, prz\u0119dza | ALT linia, po\u0142\u0105czenie",
+        "pl": "co\u015b d\u0142ugiego i elastycznego; sznur, w\u0142osy, lina, ni\u0107, prz\u0119dza | ALT linia, po\u0142\u0105czenie",
         "ru": "\u043d\u0435\u0447\u0442\u043e \u0434\u043b\u0438\u043d\u043d\u043e\u0435 \u0438 \u0433\u0438\u0431\u043a\u043e\u0435; \u0448\u043d\u0443\u0440, \u0432\u043e\u043b\u043e\u0441, \u0432\u0435\u0440\u0435\u0432\u043a\u0430, \u043d\u0438\u0442\u044c, \u043f\u0440\u044f\u0436\u0430 | ALT \u043b\u0438\u043d\u0438\u044f, \u0441\u0432\u044f\u0437\u044c",
         "isv_l": "n\u011b\u010dto dolgo i fleksibilno; motvuz, vrvka, \u0161nur, vlas, nit, pred\u017ea | ALT linija, svez",
         "isv_c": "\u043d\u0454\u0447\u0442\u043e \u0434\u043e\u043b\u0433\u043e \u0438 \u0444\u043b\u0435\u043a\u0441\u0438\u0431\u0438\u043b\u043d\u043e; \u043c\u043e\u0442\u0432\u0443\u0437, \u0432\u0440\u0432\u043a\u0430, \u0448\u043d\u0443\u0440, \u0432\u043b\u0430\u0441, \u043d\u0438\u0442, \u043f\u0440\u0435\u0434\u0436\u0430 | ALT \u043b\u0438\u043d\u0438\u0458\u0430, \u0441\u0432\u0435\u0437",
@@ -2650,10 +2650,10 @@
       "ku_data": "paper\u2075, book\u2075, ticket\u2075, document\u2075, article\u2075, card\u2075, page\u2075, magazine\u2074, sheet\u2074, file\u2074, website\u00b3, essay\u00b3, novel\u00b3, letter (in mail)\u00b3, sign\u00b3, publication\u00b3, doc\u00b2, certificate\u00b2, literature\u00b2, journal\u00b2, flat\u00b2, blog\u00b2, list\u00b2, pad\u00b2, poster\u00b2, newspaper\u00b2, form\u00b2, tag\u00b2",
       "def": {
         "en": "flat object; book, document, card, paper, record, website",
-        "pl": "rzecz p\u0142aska; ksi\u0105\u017cka, dokument, karta, papier, zapis, strona internetowa",
-        "ru": "\u043f\u043b\u043e\u0441\u043a\u0438\u0439 \u043e\u0431\u044a\u0435\u043a\u0442; \u043a\u043d\u0438\u0433\u0430, \u0434\u043e\u043a\u0443\u043c\u0435\u043d\u0442, \u043a\u0430\u0440\u0442\u0430, \u0431\u0443\u043c\u0430\u0433\u0430, \u0437\u0430\u043f\u0438\u0441\u044c, \u0441\u0430\u0439\u0442",
-        "isv_l": "plosky objekt; kniga, dokument, karta, papir, zapis, vebsajt",
-        "isv_c": "\u043f\u043b\u043e\u0441\u043a\u044b \u043e\u0431\u0458\u0435\u043a\u0442; \u043a\u043d\u0438\u0433\u0430, \u0434\u043e\u043a\u0443\u043c\u0435\u043d\u0442, \u043a\u0430\u0440\u0442\u0430, \u043f\u0430\u043f\u0438\u0440, \u0437\u0430\u043f\u0438\u0441, \u0432\u0435\u0431\u0441\u0430\u0458\u0442",
+        "pl": "co\u015b p\u0142askiego; ksi\u0105\u017cka, dokument, karta, papier, zapis, strona internetowa",
+        "ru": "\u043d\u0435\u0447\u0442\u043e \u043f\u043b\u043e\u0441\u043a\u043e\u0435; \u043a\u043d\u0438\u0433\u0430, \u0434\u043e\u043a\u0443\u043c\u0435\u043d\u0442, \u043a\u0430\u0440\u0442\u0430, \u0431\u0443\u043c\u0430\u0433\u0430, \u0437\u0430\u043f\u0438\u0441\u044c, \u0441\u0430\u0439\u0442",
+        "isv_l": "n\u011b\u010dto plosko; kniga, dokument, karta, papir, zapis, vebsajt",
+        "isv_c": "\u043d\u0454\u0447\u0442\u043e \u043f\u043b\u043e\u0441\u043a\u043e; \u043a\u043d\u0438\u0433\u0430, \u0434\u043e\u043a\u0443\u043c\u0435\u043d\u0442, \u043a\u0430\u0440\u0442\u0430, \u043f\u0430\u043f\u0438\u0440, \u0437\u0430\u043f\u0438\u0441, \u0432\u0435\u0431\u0441\u0430\u0458\u0442",
         "eo": "plata objekto; libro, dokumento, karto, papero, registro, retejo",
         "de": "flaches Ding, Buch, Dokument, Karte, Papier, Webseite, Blatt",
         "it": "oggetto piatto; libro, documento, carta, carta, record, sito web"
@@ -2923,6 +2923,8 @@
         "en": "earth, land; outdoors, world; country, territory; soil",
         "pl": "ziemia, l\u0105d; plener, \u015bwiat; pa\u0144stwo, terytorium; gleba",
         "ru": "\u0437\u0435\u043c\u043b\u044f; \u043d\u0430\u0445\u043e\u0434\u044f\u0449\u0438\u0439\u0441\u044f \u043d\u0430 \u043e\u0442\u043a\u0440\u044b\u0442\u043e\u043c \u0432\u043e\u0437\u0434\u0443\u0445\u0435, \u043c\u0438\u0440\u043e\u0432\u043e\u0439; \u0441\u0442\u0440\u0430\u043d\u0430, \u0442\u0435\u0440\u0440\u0438\u0442\u043e\u0440\u0438\u044f; \u0433\u0440\u0443\u043d\u0442, \u043f\u043e\u0447\u0432\u0430",
+        "isv_l": "zemja, krajina; ne vnutri, sv\u011bt, ves sv\u011bt; kraj, dr\u017eava, teritorija; zemja (substancija)",
+        "isv_c": "\u0437\u0435\u043c\u0458\u0430, \u043a\u0440\u0430\u0458\u0438\u043d\u0430; \u043d\u0435 \u0432\u043d\u0443\u0442\u0440\u0438, \u0441\u0432\u0454\u0442, \u0432\u0435\u0441 \u0441\u0432\u0454\u0442; \u043a\u0440\u0430\u0458, \u0434\u0440\u0436\u0430\u0432\u0430, \u0442\u0435\u0440\u0438\u0442\u043e\u0440\u0438\u0458\u0430; \u0437\u0435\u043c\u0458\u0430 (\u0441\u0443\u0431\u0441\u0442\u0430\u043d\u0446\u0438\u0458\u0430)",
         "eo": "tero, terpeco; eksterdoma sub\u0109iela loko, mondo; lando, \u015dtato, teritorio; tero (substanco)",
         "de": "Erde, Land, Welt, Boden, Grund, Gebiet"
       }
@@ -4317,8 +4319,10 @@
       "ku_data": "stick\u2075, rod\u2075, stake\u2074, pole\u2074, branch\u00b3, staff\u00b3, straight\u00b2, bar\u00b2, stem\u00b9, beam\u00b9",
       "def": {
         "en": "long hard thing; branch, rod, stick",
-        "pl": "rzecz d\u0142uga i twarda; ga\u0142\u0105\u017a, kijek, patyk",
+        "pl": "co\u015b d\u0142ugiego i twardego; ga\u0142\u0105\u017a, kij, patyk",
         "ru": "\u0434\u043b\u0438\u043d\u043d\u044b\u0439 \u0436\u0451\u0441\u0442\u043a\u0438\u0439 \u043f\u0440\u0435\u0434\u043c\u0435\u0442; \u0432\u0435\u0442\u043a\u0430, \u0441\u0442\u0435\u0440\u0436\u0435\u043d\u044c, \u043f\u0430\u043b\u043a\u0430",
+        "isv_l": "n\u011b\u010dto dolgo i tvrdo; v\u011btva, galuz, prut, pala",
+        "isv_c": "\u043d\u0454\u0447\u0442\u043e \u0434\u043e\u043b\u0433\u043e \u0438 \u0442\u0432\u0440\u0434\u043e; \u0432\u0454\u0442\u0432\u0430, \u0433\u0430\u043b\u0443\u0437, \u043f\u0440\u0443\u0442, \u043f\u0430\u043b\u0430",
         "eo": "io longa kaj malmola; bran\u0109o, stango, bastono",
         "de": "langes hartes Ding; Stock, Ast, Stab"
       }
@@ -4748,6 +4752,7 @@
       "tags": "pre-pu ALT",
       "def": {
         "en": "hip, side; next to, nearby, vicinity | ALT along with (comitative), beside",
+        "pl": "biodro, bok; obok, blisko, pobli\u017ce | ALT razem z (Comitativus)",
         "ru": "\u0431\u043e\u043a, \u0441\u0442\u043e\u0440\u043e\u043d\u0430; \u0440\u044f\u0434\u043e\u043c, \u043f\u043e\u0431\u043b\u0438\u0437\u043e\u0441\u0442\u0438, \u043e\u043a\u0440\u0435\u0441\u0442\u043d\u043e\u0441\u0442\u044c | ALT \u0432\u043c\u0435\u0441\u0442\u0435 \u0441 (\u043a\u043e\u043c\u0438\u0442\u0430\u0442\u0438\u0432\u043d\u043e\u0435), \u0440\u044f\u0434\u043e\u043c \u0441",
         "eo": "kokso, flanko; apud, proksime de, proksima\u0135o | ALT kune kun, krom",
         "de": "H\u00fcfte, Seite; neben, nah, Umgebung | ALT zusammen mit (Komitativ), n\u00e4chst"
@@ -4769,6 +4774,7 @@
       "ku_data": "container\u2075, jar\u2075, box\u2075, package\u2075, bag\u2075, basket\u2074, bucket\u2074, bottle\u2074, pot\u2074, cabinet\u2074, classify\u00b3, drawer\u00b3, locker\u00b3, storage\u00b3, case\u00b3, bowl\u00b3, sack\u00b2, cup\u00b2, pack\u00b2, cage\u00b2, purse\u00b2, trunk\u00b2, pitcher\u00b2, cell\u00b2",
       "def": {
         "en": "container, bag, bowl, box, cup, cupboard, drawer, vessel",
+        "pl": "pojemnik, torba, miska, pude\u0142ko, kubek, szafka, szuflada, naczynie",
         "ru": "\u043a\u043e\u043d\u0442\u0435\u0439\u043d\u0435\u0440, \u0441\u0443\u043c\u043a\u0430, \u0447\u0430\u0448\u0430, \u044f\u0449\u0438\u043a, \u0447\u0430\u0448\u043a\u0430, \u0448\u043a\u0430\u0444, \u0441\u043e\u0441\u0443\u0434",
         "eo": "ujo, sako, bovlo, skatolo, taso, \u015dranko, tirkesto",
         "de": "Beh\u00e4lter, Tasche, Sch\u00fcssel, Box, Tasse, Schublade, Schrank, Gef\u00e4\u00df"
@@ -4848,6 +4854,7 @@
       "ku_data": "good\u2075, appropriate\u2075, nice\u2075, acceptable\u2075, simply\u2074, OK\u2074, fine\u2074, proper\u2074, quality\u2074, valid\u2074, pleasant\u2074, friendly\u2074, positive\u2074, well\u2074, simple\u2074, benefit\u2074, virtue\u2074, alright\u2074, correct\u00b3, fix\u00b3, repair\u00b3, cool\u00b3, advantage\u00b3, right (not wrong)\u00b3, okay\u00b3, fixed\u00b3, validity\u00b3, helpful\u00b3, kind\u00b3, merit\u00b3, successfully\u00b3, ethical\u00b3, peaceful\u00b3, ideal\u00b3, improve\u00b3, improvement\u00b3, correction\u00b3, fair\u00b3, grace\u00b3, heal\u00b3, ease\u00b3, successful\u00b3, supportive\u00b3, awesome\u00b3, approval\u00b3, correctly\u00b2, adequate\u00b2, effectiveness\u00b2, reasonable\u00b2, decent\u00b2, thanks\u00b2, welfare\u00b2, peace\u00b2, wonderful\u00b2, plain\u00b2, properly\u00b2, fairly\u00b2, civil\u00b2, terrific\u00b2, improved\u00b2, worthy\u00b2, well-being\u00b2, lovely\u00b2, natural\u00b2, resolve\u00b2, easy\u00b2, elementary\u00b2, enhance\u00b2, efficiency\u00b2, mercy\u00b2, useful\u00b2, justice\u00b2, elegant\u00b2, beautiful\u00b2, courtesy\u00b2, effective\u00b2, comfortable\u00b2, reliability\u00b2, perfect\u00b2, please\u00b2, relieve\u00b2, basic\u00b2, better\u00b2, honest\u00b2, solve\u00b2, free\u00b2, success\u00b2, fascinating\u00b2, qualify\u00b2, morality\u00b2, easily\u00b2, excellent\u00b2, sufficient\u00b2",
       "def": {
         "en": "good, positive, useful; friendly, peaceful; simple",
+        "pl": "dobry, pozytywny, u\u017cyteczny; mi\u0142y, pokojny; prosty",
         "ru": "\u0445\u043e\u0440\u043e\u0448\u0438\u0439, \u043f\u043e\u043b\u043e\u0436\u0438\u0442\u0435\u043b\u044c\u043d\u044b\u0439, \u043f\u043e\u043b\u0435\u0437\u043d\u044b\u0439; \u0434\u0440\u0443\u0436\u0435\u043b\u044e\u0431\u043d\u044b\u0439, \u043c\u0438\u0440\u043e\u043b\u044e\u0431\u0438\u0432\u044b\u0439; \u043f\u0440\u043e\u0441\u0442\u043e\u0439",
         "eo": "bona, pozitiva, utila; amika, paca; simpla",
         "de": "gut, positiv, n\u00fctzlich; freundlich, friedlich; einfach",
@@ -4898,6 +4905,7 @@
       "commentary": "For ways to buy a copy of the book, visit the official Toki Pona website.",
       "def": {
         "en": "interacting with the official Toki Pona book",
+        "pl": "wchodzi\u0107 w interakcj\u0119 z oficjaln\u0105 ksi\u0105\u017ck\u0105 toki pony",
         "ru": "\u0432\u0437\u0430\u0438\u043c\u043e\u0434\u0435\u0439\u0441\u0442\u0432\u0443\u044e\u0449\u0438\u0439 \u0441 \u043e\u0444\u0438\u0446\u0438\u0430\u043b\u044c\u043d\u043e\u0439 \u043a\u043d\u0438\u0433\u043e\u0439 \u0442\u043e\u043a\u0438 \u043f\u043e\u043d\u044b",
         "isv_l": "vzajemod\u011bjstvuju\u010di, interaguju\u010di s oficialnoju knigoju toki pony",
         "isv_c": "\u0432\u0437\u0430\u0458\u0435\u043c\u043e\u0434\u0454\u0458\u0441\u0442\u0432\u0443\u0458\u0443\u0447\u0438, \u0438\u043d\u0442\u0435\u0440\u0430\u0433\u0443\u0458\u0443\u0447\u0438 \u0441 \u043e\u0444\u0438\u0446\u0438\u0430\u043b\u043d\u043e\u0458\u0443 \u043a\u043d\u0438\u0433\u043e\u0458\u0443 \u0442\u043e\u043a\u0438 \u043f\u043e\u043d\u044b",
@@ -4948,6 +4956,7 @@
       "see_also": "pata",
       "def": {
         "en": "same, similar; each other; sibling, peer, fellow; as, like",
+        "pl": "ten sam, taki sam, podobny; nawzajem; rodze\u0144stwo, r\u00f3wie\u015bnik, towarzysz; jak (\"r\u00f3b to jak...\")",
         "ru": "\u0442\u0430\u043a\u043e\u0439 \u0436\u0435, \u043f\u043e\u0445\u043e\u0436\u0438\u0439; \u0434\u0440\u0443\u0433 \u0434\u0440\u0443\u0433\u0430; \u0431\u0440\u0430\u0442, \u0441\u0435\u0441\u0442\u0440\u0430, \u0441\u0432\u0435\u0440\u0441\u0442\u043d\u0438\u043a, \u0442\u043e\u0432\u0430\u0440\u0438\u0449; \u043f\u043e\u0434\u043e\u0431\u043d\u043e",
         "isv_l": "toj\u017ee, podobny; jedin drugogo; brat, sestra, rav\u011bsnik; kako, podobno",
         "isv_c": "\u0442\u043e\u0458\u0436\u0435, \u043f\u043e\u0434\u043e\u0431\u043d\u044b; \u0458\u0435\u0434\u0438\u043d \u0434\u0440\u0443\u0433\u043e\u0433\u043e; \u0431\u0440\u0430\u0442, \u0441\u0435\u0441\u0442\u0440\u0430, \u0440\u0430\u0432\u0454\u0441\u043d\u0438\u043a; \u043a\u0430\u043a\u043e, \u043f\u043e\u0434\u043e\u0431\u043d\u043e",
@@ -5063,6 +5072,7 @@
       "commentary": "In pu, definitions of seli are described as adjectives. ku's pu corrections clarify that these refer to nouns instead.",
       "def": {
         "en": "fire; cooking element, chemical reaction, heat source",
+        "pl": "ogie\u0144; element grzejny, reakcja chemiczna, \u017ar\u00f3d\u0142o ciep\u0142a",
         "ru": "\u043e\u0433\u043e\u043d\u044c; \u043d\u0430\u0433\u0440\u0435\u0432\u0430\u0442\u0435\u043b\u044c\u043d\u044b\u0439 \u044d\u043b\u0435\u043c\u0435\u043d\u0442, \u0445\u0438\u043c\u0438\u0447\u0435\u0441\u043a\u0430\u044f \u0440\u0435\u0430\u043a\u0446\u0438\u044f, \u0438\u0441\u0442\u043e\u0447\u043d\u0438\u043a \u0442\u0435\u043f\u043b\u0430",
         "eo": "fajro; varmiga elemento de kuirilo, kemia reago, fonto de varmo",
         "de": "Feuer; Kochelement, chemische Reaktion, W\u00e4rmequelle; kochen; warm"
@@ -5084,6 +5094,7 @@
       "ku_data": "skin\u2075, boundary\u2074, surface\u00b3, peel\u00b3, outer\u00b3, shape\u00b3, layer\u00b3, outline\u00b2, edge\u00b2, external\u00b2, border\u00b2, frame\u00b2, margin\u00b2, shell\u00b2, barrier\u00b2, cover\u00b2, appearance\u00b9",
       "def": {
         "en": "outer form, outer layer; bark, peel, shell, skin; boundary",
+        "pl": "forma zewn\u0119trzna, warstwa zewn\u0119trzna; kora, sk\u00f3ra, pow\u0142oka, skorupa; granica",
         "ru": "\u0432\u043d\u0435\u0448\u043d\u044f\u044f \u0444\u043e\u0440\u043c\u0430, \u0432\u043d\u0435\u0448\u043d\u0438\u0439 \u0441\u043b\u043e\u0439; \u043a\u043e\u0440\u0430, \u043a\u043e\u0436\u0443\u0440\u0430, \u0441\u043a\u043e\u0440\u043b\u0443\u043f\u0430, \u043a\u043e\u0436\u0438\u0446\u0430; \u0433\u0440\u0430\u043d\u0438\u0446\u0430",
         "eo": "ekstera formo, ekstera tavolo; \u015delo (de arbo, frukto, molusko), konko, karapaco, ha\u016dto; limo",
         "de": "\u00e4u\u00dfere Form, \u00e4u\u00dfere Schicht; Rinde, Schale, H\u00fclle, Haut; Grenze, Abgrenzung"
@@ -5105,6 +5116,7 @@
       "ku_data": "what\u2075, which\u2074, huh\u00b3",
       "def": {
         "en": "what? which?",
+        "pl": "co? kt\u00f3ry? jaki?",
         "ru": "\u0447\u0442\u043e? \u043a\u0430\u043a\u043e\u0439? \u043a\u043e\u0442\u043e\u0440\u044b\u0439?",
         "isv_l": "\u010dto? ktory? koj? kaky?",
         "isv_c": "\u0447\u0442\u043e? \u043a\u0442\u043e\u0440\u044b? \u043a\u043e\u0458? \u043a\u0430\u043a\u044b?",
@@ -5171,6 +5183,7 @@
       "ku_data": "round\u2075, circle\u2075, sphere\u2075, ball\u2074, loop\u2074, cycle\u2074, wheel\u2074, disc\u00b3, globe\u00b3, circuit\u00b3, spin\u00b2, ring\u00b2, surround\u00b2, curve\u00b2, rolling\u00b2, spot\u00b2, orbit\u00b2, twist\u00b2, roll\u00b9",
       "def": {
         "en": "round or circular thing; ball, circle, cycle, sphere, wheel; of one year",
+        "pl": "co\u015b okr\u0105g\u0142ego; pi\u0142ka, okr\u0105g, cykl, kula, ko\u0142o; jednoroczny",
         "ru": "\u043a\u0440\u0443\u0433\u043b\u044b\u0439 \u043f\u0440\u0435\u0434\u043c\u0435\u0442; \u0448\u0430\u0440, \u043a\u0440\u0443\u0433, \u0446\u0438\u043a\u043b, \u0441\u0444\u0435\u0440\u0430, \u043a\u043e\u043b\u0435\u0441\u043e; \u043e\u0442\u043d\u043e\u0441\u044f\u0449\u0438\u0439\u0441\u044f \u043a \u043e\u0434\u043d\u043e\u043c\u0443 \u0433\u043e\u0434\u0443",
         "eo": "io ronda a\u016d cirkla; pilko, cirklo, ciklo, globo, sfero, rado; de unu jaro",
         "de": "rundes oder kreisf\u00f6rmiges Ding; Ball, Kreis, Zyklus, Kugel, Rad; ein Jahr betreffend"
@@ -5223,7 +5236,10 @@
       "commentary": "In common usage (both before and after pu), \"sin\" and \"namako\" are separate words, each with their own meaning. In pu, they are considered synonyms. Those who consider them synonyms typically don't use \"namako\" at all, preferring \"sin\" in all circumstances.",
       "def": {
         "en": "new, fresh; additional, another, extra",
+        "pl": "nowy, \u015bwie\u017cy; dodatkowy, kolejny",
         "ru": "\u043d\u043e\u0432\u044b\u0439, \u0441\u0432\u0435\u0436\u0438\u0439; \u0434\u043e\u043f\u043e\u043b\u043d\u0438\u0442\u0435\u043b\u044c\u043d\u044b\u0439, \u0434\u043e\u0431\u0430\u0432\u043e\u0447\u043d\u044b\u0439",
+        "isv_l": "novy, sv\u011b\u017ei; dodato\u010dny, ponovny",
+        "isv_c": "\u043d\u043e\u0432\u044b, \u0441\u0432\u0454\u0436\u0438; \u0434\u043e\u0434\u0430\u0442\u043e\u0447\u043d\u044b, \u043f\u043e\u043d\u043e\u0432\u043d\u044b",
         "eo": "nova, fre\u015da; plia, aldona, kroma",
         "de": "neu, frisch; zus\u00e4tzlich, weitere, extra",
         "es": "nuevo, fresco; adicional, m\u00e1s, extra"
@@ -5267,6 +5283,7 @@
       "ku_data": "front\u2075, face (n)\u2074, wall\u00b3, chest (anatomy)\u00b2, ahead\u00b2, barrier\u00b2",
       "def": {
         "en": "face, foremost, front, wall",
+        "pl": "twarz, czo\u0142owy, prz\u00f3d, \u015bciana",
         "ru": "\u043b\u0438\u0446\u043e, \u043f\u0435\u0440\u0435\u0434\u043d\u0438\u0439, \u043f\u0435\u0440\u0435\u0434, \u0441\u0442\u0435\u043d\u0430",
         "eo": "viza\u011do, unuaranga, anta\u016do, muro",
         "de": "Gesicht, vorderst, vorne, vor, Wand"
@@ -5288,6 +5305,7 @@
       "ku_data": "picture\u2075, image\u2075, graphic\u2075, symbol\u2075, drawing\u2075, illustration\u2075, photo\u2075, write\u2074, painting\u2074, illustrate\u2074, writing\u2074, written\u2074, depict\u2074, draw\u2074, photograph\u2074, portrait\u00b3, icon\u00b3, representation\u00b3, mark\u00b3, portray\u00b3, record\u00b2, render\u00b2, text\u00b2, note\u00b2, sign\u00b2, pattern\u00b2, graph\u00b2, poster\u00b2, compose\u00b2, letter (of alphabet)\u00b2",
       "def": {
         "en": "image, picture, representation, symbol, mark, writing",
+        "pl": "obraz, zdj\u0119cie, podobizna, symbol, znak, pismo",
         "ru": "\u043e\u0431\u0440\u0430\u0437, \u043a\u0430\u0440\u0442\u0438\u043d\u0430, \u043f\u0440\u0435\u0434\u0441\u0442\u0430\u0432\u043b\u0435\u043d\u0438\u0435, \u0441\u0438\u043c\u0432\u043e\u043b, \u043e\u0442\u043c\u0435\u0442\u043a\u0430, \u043f\u0438\u0441\u044c\u043c\u0435\u043d\u043d\u043e\u0441\u0442\u044c",
         "eo": "bildo, figuro, simbolo, marka\u0135o, skriba\u0135o",
         "de": "Bild, Darstellung, Symbol, Markierung, Schrift, Text"
@@ -5359,6 +5377,7 @@
       "ku_data": "information\u2075, know\u2075, knowledge\u2075, understand\u2075, understanding\u2075, aware\u2075, info\u2074, wisdom\u2074, awareness\u2074, known\u2074, data\u00b3, wise\u00b3, recognition\u00b3, recognize\u00b3, expertise\u00b3, intelligence\u00b2, smart\u00b2, sure\u00b2, experienced\u00b2, insight\u00b2, educational\u00b2, identify\u00b2, remember\u00b2, conscious\u00b2, clever\u00b2, cognitive\u00b2, logical\u00b2, familiar\u00b2, logic\u00b2, acknowledge\u00b2, skill\u00b2",
       "def": {
         "en": "know, be skilled in, be wise about, have information on; (pv.) know how to",
+        "pl": "wiedzie\u0107, by\u0107 wprawnym w, by\u0107 m\u0105drym na temat, mie\u0107 wiedz\u0119 o; (pv.) wiedzie\u0107 jak",
         "ru": "\u0437\u043d\u0430\u0442\u044c, \u0431\u044b\u0442\u044c \u043e\u043f\u044b\u0442\u043d\u044b\u043c, \u0431\u044b\u0442\u044c \u043c\u0443\u0434\u0440\u044b\u043c, \u0440\u0430\u0441\u043f\u043e\u043b\u0430\u0433\u0430\u0442\u044c \u0438\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0438\u0435\u0439; (pv.) \u0443\u043c\u0435\u0442\u044c",
         "eo": "scii, esti lerta pri, esti sa\u011da pri, havi informojn pri; (a.v.) scipovi",
         "de": "wissen, k\u00f6nnen, erfahren sein in, weise sein \u00fcber, Informationen haben \u00fcber; (pv.) wissen wie"
@@ -5411,6 +5430,7 @@
       "ku_data": "animal\u2075, deer\u2075, creature\u2074, dog\u2074, cat\u2074, llama\u00b3, goat\u00b3, Musteloidea\u00b3, beast\u00b3, lion\u00b3, pig\u00b2, capybara\u00b2, wolf\u00b2, horse\u00b2, mouse (2020)\u00b2, tiger\u00b2, large domesticated animal\u00b2, Hominidae\u00b2, procyonid\u00b2, monkey\u00b2, rabbit\u00b2",
       "def": {
         "en": "animal, beast, land mammal",
+        "pl": "zwierz\u0119, bestia, ssak l\u0105dowy",
         "ru": "\u0436\u0438\u0432\u043e\u0442\u043d\u043e\u0435, \u0437\u0432\u0435\u0440\u044c, \u043d\u0430\u0437\u0435\u043c\u043d\u043e\u0435 \u043c\u043b\u0435\u043a\u043e\u043f\u0438\u0442\u0430\u044e\u0449\u0435\u0435",
         "eo": "besto, surtera mamulo",
         "de": "Tier, Biest, Lands\u00e4ugetier",
@@ -5500,6 +5520,7 @@
       "ku_data": "large\u2075, importance\u2075, big\u2075, important\u2075, significant\u2075, matter (v)\u2075, significantly\u2074, grand\u2074, huge\u2074, tall\u2074, weight\u2074, vast\u2074, crucial\u2074, extensive\u2074, prominent\u2074, broad\u2074, fat\u2074, substantial\u2074, long\u2074, size\u2074, significance\u2074, heavy\u2074, giant\u2074, extended\u2074, wide\u2074, considerable\u2074, thick\u2074, major\u00b3, tremendous\u00b3, extent\u00b3, magnitude\u00b3, great\u00b3, vital\u00b3, length\u00b3, height\u00b3, greatly\u00b3, importantly\u00b3, severe\u00b3, dramatically\u00b3, mass\u00b3, essential\u00b2, largely\u00b2, relevant\u00b2, massive\u00b2, fundamental\u00b2, emphasize\u00b2, stretch\u00b2, enormous\u00b2, extend\u00b2, heavily\u00b2, critical\u00b2, expansion\u00b2, expand\u00b2, depth\u00b2, volume\u00b2, extension\u00b2, age\u00b2, profound\u00b2, deeply\u00b2, density\u00b2, widely\u00b2, influential\u00b2, dominant\u00b2, grow\u00b2, growth\u00b2, dramatic\u00b2, super\u00b2, emphasis\u00b2, remarkable\u00b2, mainly\u00b2",
       "def": {
         "en": "big, heavy, large, long, tall; important; adult",
+        "pl": "du\u017cy, ci\u0119\u017cki, d\u0142ugi, wysoki; wa\u017cny; doros\u0142y",
         "ru": "\u0431\u043e\u043b\u044c\u0448\u043e\u0439, \u0442\u044f\u0436\u0435\u043b\u044b\u0439, \u0434\u043b\u0438\u043d\u043d\u044b\u0439, \u0432\u044b\u0441\u043e\u043a\u0438\u0439; \u0432\u0430\u0436\u043d\u044b\u0439; \u0432\u0437\u0440\u043e\u0441\u043b\u044b\u0439",
         "eo": "granda, peza, longa, alta; grava; plenkreska",
         "de": "gro\u00df, schwer, lang, breit, hoch; wichtig; erwachsen"
@@ -5522,6 +5543,7 @@
       "see_also": "mun",
       "def": {
         "en": "sun; light, brightness, glow, radiance, shine; light source",
+        "pl": "s\u0142o\u0144ce; \u015bwiat\u0142o, jasno\u015b\u0107, po\u015bwiata, blask, po\u0142ysk; \u017ar\u00f3d\u0142o \u015bwiat\u0142a",
         "ru": "\u0441\u043e\u043b\u043d\u0446\u0435; \u0441\u0432\u0435\u0442, \u044f\u0440\u043a\u043e\u0441\u0442\u044c, \u0441\u0432\u0435\u0447\u0435\u043d\u0438\u0435, \u0441\u0438\u044f\u043d\u0438\u0435; \u0438\u0441\u0442\u043e\u0447\u043d\u0438\u043a \u0441\u0432\u0435\u0442\u0430",
         "eo": "suno; lumo, heleco, lumi, ardi, brilo; lumfonto",
         "de": "Sonne; Licht, Helligkeit, Leuchten, Glanz, Schein; Lichtquelle"
@@ -5543,6 +5565,7 @@
       "ku_data": "platform\u2075, table\u2075, shelf\u2074, board\u2074, furniture\u00b3, flat\u00b3, lie (be in flat position)\u00b3, level\u00b3, desk\u00b3, deck\u00b2, couch\u00b2, stage\u00b2, seat\u00b2, bench\u00b2, tablet\u00b2, surface\u00b2, chair\u00b2, counter\u00b2, pad\u00b2",
       "def": {
         "en": "horizontal surface, thing to put or rest something on",
+        "pl": "pozioma powierzchnia, mo\u017cna na tym co\u015b po\u0142o\u017cy\u0107 czy umie\u015bci\u0107",
         "ru": "\u0433\u043e\u0440\u0438\u0437\u043e\u043d\u0442\u0430\u043b\u044c\u043d\u0430\u044f \u043f\u043e\u0432\u0435\u0440\u0445\u043d\u043e\u0441\u0442\u044c, \u043f\u0440\u0435\u0434\u043c\u0435\u0442, \u043d\u0430 \u043a\u043e\u0442\u043e\u0440\u044b\u0439 \u043c\u043e\u0436\u043d\u043e \u0447\u0442\u043e-\u0442\u043e \u043f\u043e\u0441\u0442\u0430\u0432\u0438\u0442\u044c \u0438\u043b\u0438 \u043e\u043f\u0435\u0440\u0435\u0442\u044c\u0441\u044f",
         "eo": " horizontala surfaco, io sur kio oni metas ion alian",
         "de": "waagerechte Oberfl\u00e4che, Ding f\u00fcr das Abstellen von anderen Dingen"
@@ -5592,6 +5615,7 @@
       "ku_data": "sweet\u2075, cute\u2075, candy\u2074, sugar\u00b3, gentle\u00b2, dessert\u00b2, tender\u00b2, soft\u00b2, darling\u00b2, treat\u00b2",
       "def": {
         "en": "sweet, fragrant; cute, innocent, adorable",
+        "pl": "s\u0142odki (smak), aromatyczny; s\u0142odki (\u015bliczny), niewinny, uroczy",
         "ru": "\u0441\u043b\u0430\u0434\u043a\u0438\u0439, \u0430\u0440\u043e\u043c\u0430\u0442\u043d\u044b\u0439; \u043c\u0438\u043b\u044b\u0439, \u043d\u0435\u0432\u0438\u043d\u043d\u044b\u0439, \u043e\u0447\u0430\u0440\u043e\u0432\u0430\u0442\u0435\u043b\u044c\u043d\u044b\u0439",
         "eo": "dol\u0109a, bonodora; \u0109arma, senkulpa, aminda",
         "de": "s\u00fc\u00df, wohlriechend; niedlich, unschuldig, liebenswert"
@@ -5669,6 +5693,7 @@
       "ku_data": "from\u2075, reason\u2075, because of\u2074, by\u2074, source\u2074, behalf of\u00b2, basis\u00b2, origin\u00b2, motive\u00b2, cause\u00b2, purpose\u00b2, per\u00b2, since\u00b2, factor\u00b2, incentive\u00b2",
       "def": {
         "en": "by, from, because of; origin, cause",
+        "pl": "od, z powodu; \u017ar\u00f3d\u0142o, pow\u00f3d",
         "ru": "\u043e\u0442, \u0438\u0437, \u0438\u0437-\u0437\u0430; \u043f\u0440\u043e\u0438\u0441\u0445\u043e\u0436\u0434\u0435\u043d\u0438\u0435, \u043f\u0440\u0438\u0447\u0438\u043d\u0430",
         "eo": "pro, el, fare de; origino, ka\u016dzo",
         "de": "von, durch, wegen; Grund, Ursache"
@@ -5713,6 +5738,7 @@
       "ku_data": "move\u2075, go\u2075, toward\u2075, motion\u2075, movement\u2075, towards\u2075, to\u2075, for\u2075, transit\u2074, travel\u2074, transportation\u00b3, trip\u00b3, walk\u00b3, advance\u00b3, onto\u00b3, transport\u00b3, pass\u00b3, walking\u00b3, migration\u00b3, departure\u00b3, from the perspective of\u00b3, push\u00b3, march\u00b2, slide\u00b2, proceed\u00b2, forth\u00b2, drift\u00b2, according to\u00b2, mobile\u00b2, until\u00b2, transfer\u00b2, cross\u00b2, till\u00b2, approach\u00b2, forward\u00b2, momentum\u00b2, attend\u00b2, progress\u00b2",
       "def": {
         "en": "going to, toward; for; from the perspective of; moving | ALT (pv.) going to",
+        "pl": "i\u015b\u0107 do, w kierunku; dla; z perspektywy; ruchomy | ALT (pv.) zamierza\u0107",
         "ru": "\u0434\u0432\u0438\u0433\u0430\u044e\u0449\u0438\u0439\u0441\u044f, \u043d\u0430\u0432\u0441\u0442\u0440\u0435\u0447\u0443; \u0434\u043b\u044f; \u0441 \u0442\u043e\u0447\u043a\u0438 \u0437\u0440\u0435\u043d\u0438\u044f; \u043f\u0435\u0440\u0435\u043c\u0435\u0449\u0430\u044e\u0449\u0438\u0439\u0441\u044f | ALT (pv.) \u0441\u043e\u0431\u0438\u0440\u0430\u0435\u0442\u0441\u044f",
         "eo": "al, iranta al, en la direkto al; por, al; la\u016d la vidpunkto de; movanta | ALT (a.v.) iri ...i",
         "de": "hin, zu, nach; f\u00fcr; nach Ansicht von; gehen, bewegen | ALT (HV) zu... hingehen"
@@ -5795,6 +5821,7 @@
       "ku_data": "fluid\u2075, water\u2075, wet\u2074, wash\u00b3, pond\u00b3, pool\u00b3, drink\u00b2, shower\u00b2, lake\u00b2",
       "def": {
         "en": "water, liquid, fluid, wet substance; beverages",
+        "pl": "woda, p\u0142yn, ciecz, mokra substancja; nap\u00f3j",
         "ru": "\u0432\u043e\u0434\u0430, \u0436\u0438\u0434\u043a\u043e\u0441\u0442\u044c, \u0432\u043b\u0430\u0436\u043d\u043e\u0435 \u0432\u0435\u0449\u0435\u0441\u0442\u0432\u043e; \u043d\u0430\u043f\u0438\u0442\u043e\u043a",
         "eo": "akvo, likvo, flua\u0135o, malseka substanco; trinka\u0135o",
         "de": "Wasser, Fl\u00fcssigkeit, nasse Substanz; Getr\u00e4nk"
@@ -5845,6 +5872,7 @@
       "see_also": "waleja",
       "def": {
         "en": "time, duration, moment, occasion, period, situation",
+        "pl": "czas, czas trwania, moment, okazja, okres, sytuacja",
         "ru": "\u0432\u0440\u0435\u043c\u044f, \u043f\u0440\u043e\u0434\u043e\u043b\u0436\u0438\u0442\u0435\u043b\u044c\u043d\u043e\u0441\u0442\u044c, \u043c\u043e\u043c\u0435\u043d\u0442, \u0441\u043b\u0443\u0447\u0430\u0439, \u043f\u0435\u0440\u0438\u043e\u0434, \u0441\u0438\u0442\u0443\u0430\u0446\u0438\u044f",
         "eo": "tempo, da\u016dro, momento, okazo, fojo, periodo, situacio",
         "de": "Zeit, Dauer, Moment, Gelegenheit, Zeitraum, Situation"
@@ -5921,6 +5949,7 @@
       "ku_data": "communicate\u2075, speak\u2075, say\u2075, conversation\u2075, communication\u2075, hello\u2075, speech\u2075, talk\u2075, language\u2075, tell\u2075, statement\u2075, hi\u2075, discuss\u2075, discussion\u2075, discourse\u2074, mention\u2074, comment\u2074, refer\u2074, message\u2074, express\u00b3, remark\u00b3, dialogue\u00b3, reporting\u00b3, call\u00b3, narrative\u00b3, contact\u00b3, respond\u00b3, commentary\u00b3, disclose\u00b3, proposal\u00b3, admit\u00b3, verbal\u00b3, tale\u00b3, story\u00b3, declare\u00b3, interview\u00b3, testify\u00b3, answer\u00b3, report\u00b3, expression\u00b3, phrase\u00b3, excuse\u00b2, hey\u00b2, response\u00b2, reply\u00b2, greet\u00b2, confess\u00b2, declaration\u00b2, interaction\u00b2, suggest\u00b2, quote\u00b2, state\u00b2, preach\u00b2, describe\u00b2, negotiate\u00b2, specify\u00b2, claim\u00b2, feedback\u00b2, counsel\u00b2, coverage\u00b2, proposition\u00b2, suggestion\u00b2, accuse\u00b2, consult\u00b2",
       "def": {
         "en": "communicate, say, speak, talk, use language, think; hello",
+        "pl": "komunikowa\u0107 si\u0119, m\u00f3wi\u0107, rozmawia\u0107, u\u017cywa\u0107 j\u0119zyka, my\u015ble\u0107; cze\u015b\u0107",
         "ru": "\u043e\u0431\u0449\u0430\u0442\u044c\u0441\u044f, \u0433\u043e\u0432\u043e\u0440\u0438\u0442\u044c, \u0441\u043a\u0430\u0437\u0430\u0442\u044c, \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u044c \u044f\u0437\u044b\u043a, \u0434\u0443\u043c\u0430\u0442\u044c; \u043f\u0440\u0438\u0432\u0435\u0442",
         "eo": "komuniki, diri, paroli, uzi lingvon, pensi; saluton",
         "de": "kommunizieren, sagen, sprechen, reden, Sprache benutzen, denken; hallo"
@@ -5963,6 +5992,7 @@
       "ku_data": "building\u2075, house\u2075, housing\u2075, chamber\u2075, home\u2075, room\u2075, shelter\u2074, residence\u2074, suite\u00b3, domestic\u00b3, structural\u00b3, structure\u00b3, facility\u00b3, residential\u00b3, establishment\u00b3, household\u00b3, cabin\u00b3, apartment\u00b3, station\u00b2, hall\u00b2, venue\u00b2, institute\u00b2, construction\u00b2",
       "def": {
         "en": "indoor space; building, home, house, room",
+        "pl": "przestrze\u0144 wewn\u0119trzna; budynek, dom, pok\u00f3j",
         "ru": "\u0432\u043d\u0443\u0442\u0440\u0435\u043d\u043d\u0435\u0435 \u043f\u0440\u043e\u0441\u0442\u0440\u0430\u043d\u0441\u0442\u0432\u043e; \u0437\u0434\u0430\u043d\u0438\u0435, \u0434\u043e\u043c, \u0436\u0438\u043b\u0438\u0449\u0435, \u043a\u043e\u043c\u043d\u0430\u0442\u0430",
         "eo": "endoma spaco; konstrua\u0135o, hejmo, domo, \u0109ambro",
         "de": "Innenraum, Geb\u00e4ude, Haus, Raum, Zuhause"
