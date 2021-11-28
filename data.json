@@ -33,63 +33,63 @@
       "name_endonym": "Espa\u00f1ol",
       "name_english": "Spanish",
       "name_toki_pona": "toki Epanja",
-      "completeness_percent": "54"
+      "completeness_percent": "53"
     },
     "hi": {
       "id_long": "hindi",
       "name_endonym": "\u0939\u093f\u0902\u0926\u0940",
       "name_english": "Hindi",
       "name_toki_pona": "toki Insi",
-      "completeness_percent": "39"
+      "completeness_percent": "38"
     },
     "id": {
       "id_long": "indonesian",
       "name_endonym": "Bahasa Indonesia",
       "name_english": "Indonesian",
       "name_toki_pona": "toki Intonesija",
-      "completeness_percent": "39"
+      "completeness_percent": "38"
     },
     "isv_c": {
       "id_long": "interslavic_cyrillic",
       "name_endonym": "\u041c\u0435\u0434\u0436\u0443\u0441\u043b\u043e\u0432\u0458\u0430\u043d\u0441\u043a\u044b (\u043a\u0438\u0440\u0438\u043b\u0438\u0446\u0430)",
       "name_english": "Interslavic (Cyrillic)",
       "name_toki_pona": "toki Mesulojanki (sitelen Kililisa)",
-      "completeness_percent": "44"
+      "completeness_percent": "43"
     },
     "isv_l": {
       "id_long": "interslavic_latin",
       "name_endonym": "Med\u017euslovjansky (latinica)",
       "name_english": "Interslavic (Latin)",
       "name_toki_pona": "toki Mesulojanki (sitelen Lasina)",
-      "completeness_percent": "44"
+      "completeness_percent": "43"
     },
     "it": {
       "id_long": "italian",
       "name_endonym": "Italiano",
       "name_english": "Italian",
       "name_toki_pona": "toki Italija",
-      "completeness_percent": "20"
+      "completeness_percent": "21"
     },
     "la": {
       "id_long": "latin",
       "name_endonym": "Latina",
       "name_english": "Latin",
       "name_toki_pona": "toki Lasina",
-      "completeness_percent": "3"
+      "completeness_percent": "2"
     },
     "pa": {
       "id_long": "punjabi",
       "name_endonym": "\u0a2a\u0a70\u0a1c\u0a3e\u0a2c\u0a40",
       "name_english": "Punjabi",
       "name_toki_pona": "toki Pansapi",
-      "completeness_percent": "39"
+      "completeness_percent": "38"
     },
     "pl": {
       "id_long": "polish",
       "name_endonym": "Polski",
       "name_english": "Polish",
       "name_toki_pona": "toki Posuka",
-      "completeness_percent": "56"
+      "completeness_percent": "63"
     },
     "ru": {
       "id_long": "russian",
@@ -103,14 +103,14 @@
       "name_endonym": "toki pona",
       "name_english": "Toki Pona",
       "name_toki_pona": "toki pona",
-      "completeness_percent": "41"
+      "completeness_percent": "40"
     },
     "ur": {
       "id_long": "urdu",
       "name_endonym": "\u0627\u0631\u062f\u0648",
       "name_english": "Urdu",
       "name_toki_pona": "toki Utu",
-      "completeness_percent": "39"
+      "completeness_percent": "38"
     }
   },
   "credits": {
@@ -1425,6 +1425,7 @@
       "ku_data": "sound\u2075, noise\u2074, tone\u00b3, bang\u00b2",
       "def": {
         "en": "to produce a sound; recite, utter aloud",
+        "pl": "wydawa\u0107 d\u017awi\u0119k; recytowa\u0107, m\u00f3wi\u0107 na g\u0142os",
         "ru": "\u043f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0438\u0442\u044c \u0437\u0432\u0443\u043a; \u0447\u0438\u0442\u0430\u0442\u044c, \u043f\u0440\u043e\u0438\u0437\u043d\u043e\u0441\u0438\u0442\u044c \u0432\u0441\u043b\u0443\u0445",
         "isv_l": "iztvoriti zvuk; \u010ditati, glasno izgovarjati",
         "isv_c": "\u0438\u0437\u0442\u0432\u043e\u0440\u0438\u0442\u0438 \u0437\u0432\u0443\u043a; \u0447\u0438\u0442\u0430\u0442\u0438, \u0433\u043b\u0430\u0441\u043d\u043e \u0438\u0437\u0433\u043e\u0432\u0430\u0440\u0458\u0430\u0442\u0438",
@@ -1465,6 +1466,7 @@
       "ku_data": "coming\u2075, come\u2075, arrival\u2075, arrive\u2075, become\u2074, upcoming\u2074, emerging\u2074, emerge\u2074, happen\u2074, occur\u00b3, next\u00b2, developmental\u00b2, arise\u00b2, visit\u00b2, induce\u00b2, trigger\u00b2, phenomenon\u00b2, event\u00b2",
       "def": {
         "en": "arriving, coming, future, summoned; (pv.) to become, manage to, succeed in",
+        "pl": "nadchodz\u0105cy, przysz\u0142y, wezwany; (pv.) sta\u0107 si\u0119, zdo\u0142a\u0107",
         "ru": "\u043f\u0440\u0438\u0445\u043e\u0434\u044f\u0449\u0438\u0439, \u0431\u0443\u0434\u0443\u0449\u0438\u0439, \u043f\u0440\u0438\u0437\u0432\u0430\u043d\u043d\u044b\u0439; (pv.) \u0441\u0442\u0430\u043d\u043e\u0432\u0438\u0442\u044c\u0441\u044f, \u0441\u043c\u043e\u0447\u044c, \u043f\u0440\u0435\u0443\u0441\u043f\u0435\u0432\u0430\u0442\u044c \u0432",
         "isv_l": "prihode\u010di, pribyvaju\u010di, budu\u010di, prizvany; (pv.) stati, usp\u011bti, udavati se",
         "isv_c": "\u043f\u0440\u0438\u0445\u043e\u0434\u0435\u0447\u0438, \u043f\u0440\u0438\u0431\u044b\u0432\u0430\u0458\u0443\u0447\u0438, \u0431\u0443\u0434\u0443\u0447\u0438, \u043f\u0440\u0438\u0437\u0432\u0430\u043d\u044b; (pv.) \u0441\u0442\u0430\u0442\u0438, \u0443\u0441\u043f\u0454\u0442\u0438, \u0443\u0434\u0430\u0432\u0430\u0442\u0438 \u0441\u0435",
@@ -1607,6 +1609,7 @@
       "ku_data": "plant\u2075, bush\u2074, herb\u00b2, tree\u00b2",
       "def": {
         "en": "plant, vegetation; herb, leaf",
+        "pl": "ro\u015blina, ro\u015blinno\u015b\u0107; zio\u0142o, li\u015b\u0107",
         "ru": "\u0440\u0430\u0441\u0442\u0435\u043d\u0438\u0435, \u0440\u0430\u0441\u0442\u0438\u0442\u0435\u043b\u044c\u043d\u043e\u0441\u0442\u044c; \u0442\u0440\u0430\u0432\u0430, \u043b\u0438\u0441\u0442",
         "isv_l": "rastlina, bylina, vegetacija; trava, list",
         "isv_c": "\u0440\u0430\u0441\u0442\u043b\u0438\u043d\u0430, \u0431\u044b\u043b\u0438\u043d\u0430, \u0432\u0435\u0433\u0435\u0442\u0430\u0446\u0438\u0458\u0430; \u0442\u0440\u0430\u0432\u0430, \u043b\u0438\u0441\u0442",
@@ -1662,6 +1665,7 @@
       "ku_data": "able\u2075, potential\u2075, ability\u2075, capability\u2075, capable\u2075, may\u2075, possible\u2075, could\u2075, eligible\u2074, can\u2074, possibility\u2074, permission\u2074, likelihood\u00b3, chance\u00b3, probability\u00b3, available\u00b3, opportunity\u00b3, maybe\u00b3, possibly\u00b3, odds\u00b3, patentially\u00b2, perhaps\u00b2, liberty\u00b2, might\u00b2, option\u00b2, viable\u00b2, enable\u00b2, privilege\u00b2, allow\u00b2, likely\u00b2, prospect\u00b2, freedom\u00b2",
       "def": {
         "en": "to be able to, be allowed to, can, may; possible",
+        "pl": "m\u00f3c, mie\u0107 pozwolenie; mo\u017cliwy",
         "ru": "\u0438\u043c\u0435\u0442\u044c \u0432\u043e\u0437\u043c\u043e\u0436\u043d\u043e\u0441\u0442\u044c, \u043c\u043e\u0447\u044c, \u0443\u043c\u0435\u0442\u044c; \u0432\u043e\u0437\u043c\u043e\u0436\u043d\u044b\u0439",
         "isv_l": "mogti, um\u011bti, im\u011bti dozvoljenje; mo\u017elivy",
         "isv_c": "\u043c\u043e\u0433\u0442\u0438, \u0443\u043c\u0454\u0442\u0438, \u0438\u043c\u0454\u0442\u0438 \u0434\u043e\u0437\u0432\u043e\u0459\u0435\u045a\u0435; \u043c\u043e\u0436\u043b\u0438\u0432\u044b",
@@ -1947,6 +1951,7 @@
       "commentary": "Coined in a poll in 2002.",
       "def": {
         "en": "hard object, metal, rock, stone",
+        "pl": "twarda rzecz, metal, g\u0142az, ska\u0142a, kamie\u0144",
         "ru": "\u0442\u0432\u0435\u0440\u0434\u044b\u0439 \u043f\u0440\u0435\u0434\u043c\u0435\u0442, \u043c\u0435\u0442\u0430\u043b\u043b, \u043a\u0430\u043c\u0435\u043d\u044c, \u0433\u043e\u0440\u043d\u0430\u044f \u043f\u043e\u0440\u043e\u0434\u0430",
         "isv_l": "tvrdy objekt, metal, kamenj, skala",
         "isv_c": "\u0442\u0432\u0440\u0434\u044b \u043e\u0431\u0458\u0435\u043a\u0442, \u043c\u0435\u0442\u0430\u043b, \u043a\u0430\u043c\u0435\u045a, \u0441\u043a\u0430\u043b\u0430",
@@ -1969,6 +1974,7 @@
       "etymology": "\u818f gou \u2018cream, paste\u2019",
       "creator": "jan Sonja",
       "ku_data": "goo\u2075, semisolid\u2075, paste\u2074, powder\u2074, clay\u00b3, sand\u00b2, dust\u00b2, substance\u00b2, cream\u00b2, dough\u00b2, mud\u00b2",
+      "commentary": "The \"clinging form\" definition was elaborated to mean \"a shape or mass that sticks or clings; a clot, a thick or viscous lump, a clump that can be reshaped\".",
       "def": {
         "en": "clay, clinging form, dough, semi-solid, paste, powder",
         "ru": "\u0433\u043b\u0438\u043d\u0430, \u0441\u043b\u0435\u043f\u043b\u0435\u043d\u043d\u043e\u0435, \u0442\u0435\u0441\u0442\u043e, \u043f\u043e\u043b\u0443\u0442\u0432\u0435\u0440\u0434\u043e\u0435, \u043f\u0430\u0441\u0442\u0430, \u043f\u043e\u0440\u043e\u0448\u043e\u043a",
@@ -2024,6 +2030,7 @@
       "ku_data": "soul\u2075, air\u2075, spirit\u2075, gas\u2075, essence\u2074, atmosphere\u2074, oxygen\u00b3, breathe\u00b3, breath\u00b3, meaning\u00b3, intangible\u00b3, breathing\u00b3, invisible entity\u00b3, definition\u00b2, abstract\u00b2, breeze\u00b2, smell\u00b2",
       "def": {
         "en": "air, breath; essence, spirit; hidden reality, unseen agent",
+        "pl": "powietrze, oddech; esencja, dusza; ukryta rzeczywisto\u015b\u0107, niewidoczny czynnik",
         "ru": "\u0432\u043e\u0437\u0434\u0443\u0445, \u0434\u044b\u0445\u0430\u043d\u0438\u0435; \u0441\u0443\u0449\u043d\u043e\u0441\u0442\u044c, \u0434\u0443\u0445; \u0441\u043a\u0440\u044b\u0442\u043e\u0435 \u0441\u043e\u0437\u0434\u0430\u043d\u0438\u0435, \u043d\u0435\u0432\u0438\u0434\u0438\u043c\u0430\u044f \u0434\u0435\u0439\u0441\u0442\u0432\u0443\u044e\u0449\u0430\u044f \u0441\u0438\u043b\u0430",
         "eo": "aero, spiro; esenco, spirito; ka\u015dita realeco, io nevidata kio havas ian efikon",
         "de": "Luft, Atem, Essenz, Geist, Seele, Bedeutung",
@@ -2108,6 +2115,7 @@
       "ku_data": "colour\u2075, diverse\u00b2, LGBTQ+\u00b2, paint\u00b2, lesbian\u00b2, gay\u00b2, spectrum\u00b2",
       "def": {
         "en": "colorful, pigmented, painted | ALT of or relating to the LGBT+ community",
+        "pl": "barwny, pigmentowany, malowany | ALT zwi\u0105zane ze spo\u0142eczno\u015bci\u0105 LGBT+",
         "ru": "\u0440\u0430\u0437\u043d\u043e\u0446\u0432\u0435\u0442\u043d\u044b\u0439, \u043a\u0440\u0430\u0441\u043e\u0447\u043d\u044b\u0439, \u043e\u043a\u0440\u0430\u0448\u0435\u043d\u043d\u044b\u0439 | ALT \u043f\u0440\u0438\u043d\u0430\u0434\u043b\u0435\u0436\u0430\u0449\u0438\u0439 \u0438\u043b\u0438 \u043e\u0442\u043d\u043e\u0441\u044f\u0449\u0438\u0439\u0441\u044f \u043a \u0441\u043e\u043e\u0431\u0449\u0435\u0441\u0442\u0432\u0443 \u041b\u0413\u0411\u0422+",
         "eo": "kolora, pigmenta, pentrita | ALT rilata al la GLAT-komunumo, GLAT-a",
         "de": "Farbe, farbig, Variante | LGBT+",
@@ -2184,6 +2192,7 @@
       "ku_data": "group\u2075, organization\u2075, community\u2075, collective\u2075, tribe\u2075, squad\u2074, tribal\u2074, bunch\u2074, cluster\u2074, league\u2074, collection\u2074, society\u2074, association\u2074, crew\u2074, team\u00b3, club\u00b3, coalition\u00b3, set\u00b3, socially\u00b3, gathering\u00b3, category\u00b3, institution\u00b3, gang\u00b3, assembly\u00b3, meeting\u00b3, pile\u00b3, network\u00b3, crowd\u00b3, ethnic\u00b2, bureau\u00b2, partnership\u00b2, social\u00b2, class\u00b2, array\u00b2, stack\u00b2, committee\u00b2, public\u00b2, affiliation\u00b2, combination\u00b2, sequence\u00b2, pack\u00b2, establishment\u00b2, conference\u00b2, franchise\u00b2, demographic\u00b2, company\u00b2, rally\u00b2",
       "def": {
         "en": "community, company, group, nation, society, tribe",
+        "pl": "spo\u0142eczno\u015b\u0107, towarzystwo, grupa, pa\u0144stwo, spo\u0142ecze\u0144stwo, plemi\u0119",
         "ru": "\u0441\u043e\u043e\u0431\u0449\u0435\u0441\u0442\u0432\u043e, \u043a\u043e\u043c\u043f\u0430\u043d\u0438\u044f, \u0433\u0440\u0443\u043f\u043f\u0430, \u043d\u0430\u0446\u0438\u044f, \u043e\u0431\u0449\u0435\u0441\u0442\u0432\u043e, \u043f\u043b\u0435\u043c\u044f",
         "eo": "komunumo, kunularo, grupo, nacio, socio, tribo",
         "de": "Gruppe, Gemeinschaft, Gesellschaft, Stamm",
@@ -2234,9 +2243,10 @@
       "ku_data": "hear\u2075, listen\u2075, ear\u2075, hearing\u2075",
       "def": {
         "en": "ear; to hear, listen; pay attention to, obey",
+        "pl": "ucho; s\u0142ysze\u0107, s\u0142ucha\u0107; zwraca\u0107 uwag\u0119 na, by\u0107 pos\u0142usznym",
         "ru": "\u0443\u0445\u043e; \u0441\u043b\u044b\u0448\u0430\u0442\u044c, \u0441\u043b\u0443\u0448\u0430\u0442\u044c; \u043e\u0431\u0440\u0430\u0449\u0430\u0442\u044c \u0432\u043d\u0438\u043c\u0430\u043d\u0438\u0435, \u0441\u043b\u0443\u0448\u0430\u0442\u044c\u0441\u044f, \u043f\u043e\u0434\u0447\u0438\u043d\u044f\u0442\u044c\u0441\u044f",
-        "isv_l": "uho, slu\u0161ati (n\u011b\u010dto), sly\u0161ati; poslu\u0161ati (n\u011bkogo)",
-        "isv_c": "\u0443\u0445\u043e, \u0441\u043b\u0443\u0448\u0430\u0442\u0438 (\u043d\u0454\u0447\u0442\u043e), \u0441\u043b\u044b\u0448\u0430\u0442\u0438; \u043f\u043e\u0441\u043b\u0443\u0448\u0430\u0442\u0438 (\u043d\u0454\u043a\u043e\u0433\u043e)",
+        "isv_l": "uho, slu\u0161ati, sly\u0161ati; byti poslu\u0161nym",
+        "isv_c": "\u0443\u0445\u043e, \u0441\u043b\u0443\u0448\u0430\u0442\u0438, \u0441\u043b\u044b\u0448\u0430\u0442\u0438; \u0431\u044b\u0442\u0438 \u043f\u043e\u0441\u043b\u0443\u0448\u043d\u044b\u043c",
         "eo": "orelo; a\u016ddi, a\u016dskulti; atenti, obei",
         "de": "h\u00f6ren, zuh\u00f6ren, lauschen, aufpassen, gehorchen",
         "it": "orecchio; sentire, ascoltare; prestare attenzione, obbedire"
@@ -2258,6 +2268,7 @@
       "ku_data": "if\u2075, while\u00b3, depending\u00b3, regarding\u00b2, than\u00b2",
       "def": {
         "en": "(between the context phrase and the main sentence)",
+        "pl": "(mi\u0119dzy fraz\u0105 kontekstow\u0105 a g\u0142\u00f3wnym zdaniem)",
         "ru": "(\u043c\u0435\u0436\u0434\u0443 \u043a\u043e\u043d\u0442\u0435\u043a\u0441\u0442\u043d\u043e\u0439 \u0444\u0440\u0430\u0437\u043e\u0439 \u0438 \u0433\u043b\u0430\u0432\u043d\u044b\u043c \u043f\u0440\u0435\u0434\u043b\u043e\u0436\u0435\u043d\u0438\u0435\u043c)",
         "eo": "(inter la kunteksta frazparto kaj la \u0109effrazo)",
         "de": "(zwischen Kontext- und Hauptsatz)",
@@ -2310,6 +2321,7 @@
       "ku_data": "sleep\u2075, asleep\u2074, rest\u00b3, lay\u00b2, lie (be in flat position)\u00b2",
       "def": {
         "en": "sleeping, resting",
+        "pl": "\u015bpi\u0105cy, odpoczywaj\u0105cy",
         "ru": "\u0441\u043f\u044f\u0449\u0438\u0439, \u043e\u0442\u0434\u044b\u0445\u0430\u044e\u0449\u0438\u0439",
         "isv_l": "spe\u010di, odpo\u010divaju\u010di",
         "isv_c": "\u0441\u043f\u0435\u0447\u0438, \u043e\u0434\u043f\u043e\u0447\u0438\u0432\u0430\u0458\u0443\u0447\u0438",
@@ -2361,6 +2373,7 @@
       "ku_data": "govern\u2075, head\u2075, authority\u2074, control\u2074, ruling\u2074, regulatory\u2074, leading\u2074, manage\u2074, administrative\u2074, leadership\u2074, rule\u00b3, law\u00b3, lead\u00b3, management\u00b3, legal\u00b3, enforce\u00b3, oversee\u00b3, judicial\u00b3, mind\u00b3, conduct\u00b3, official\u00b3, regulate\u00b3, brain\u00b3, policy\u00b3, administer\u00b3, regulation\u00b2, executive\u00b2, cognitive\u00b2, guide\u00b2, drive\u00b2, mandate\u00b2, ownership\u00b2, administration\u00b2, government\u00b2, command\u00b2, dominate\u00b2, psychological\u00b2, institutional\u00b2, legislation\u00b2, jurisdiction\u00b2, main\u00b2, regime\u00b2",
       "def": {
         "en": "head, mind; to control, direct, guide, lead, own, plan, regulate, rule",
+        "pl": "g\u0142owa, umys\u0142; kontrolowa\u0107, kierowa\u0107, przewodzi\u0107, posiada\u0107, planowa\u0107, regulowa\u0107, rz\u0105dzi\u0107",
         "ru": "\u0433\u043e\u043b\u043e\u0432\u0430, \u0440\u0430\u0437\u0443\u043c; \u0433\u043b\u0430\u0432\u0435\u043d\u0441\u0442\u0432\u043e\u0432\u0430\u0442\u044c, \u043a\u043e\u043d\u0442\u0440\u043e\u043b\u0438\u0440\u043e\u0432\u0430\u0442\u044c, \u043d\u0430\u043f\u0440\u0430\u0432\u043b\u044f\u0442\u044c, \u0432\u0435\u0441\u0442\u0438, \u043f\u043b\u0430\u043d\u0438\u0440\u043e\u0432\u0430\u0442\u044c, \u0440\u0435\u0433\u0443\u043b\u0438\u0440\u043e\u0432\u0430\u0442\u044c, \u0443\u043f\u0440\u0430\u0432\u043b\u044f\u0442\u044c",
         "eo": "kapo, menso; gvidi, direkti, estri, konduki, posedi, plani, reguligi, regi",
         "de": "Kopf, Verstand, leiten, steuern, planen, besitzen, herrschen, regeln",
@@ -2416,6 +2429,7 @@
       "ku_data": "clothing\u2075, cloth\u2075, clothes\u2075, fabric\u2075, outfit\u2074, privacy\u2074, cover\u2074, dress\u00b3, jacket\u00b3, wear\u00b3, shirt\u00b3, t-shirt\u00b2, hide\u00b2, blanket\u00b2, cotton\u00b2, private\u00b2, wrap\u00b2, costume\u00b2, silk\u00b2, suit (n)\u00b2, hidden\u00b2, underwear\u00b2, canvas\u00b2, coverage\u00b2, flag\u00b2",
       "def": {
         "en": "cloth, clothing, fabric, textile; cover, layer of privacy",
+        "pl": "p\u0142\u00f3tno, ubranie, tkanina, materia\u0142; pokrywa, warstwa prywatno\u015bci",
         "ru": "\u043f\u043e\u043b\u043e\u0442\u043d\u043e, \u043e\u0434\u0435\u0436\u0434\u0430, \u0442\u043a\u0430\u043d\u044c, \u0442\u0435\u043a\u0441\u0442\u0438\u043b\u044c; \u043a\u0440\u044b\u0448\u043a\u0430, \u0441\u043b\u043e\u0439 \u043f\u0440\u0438\u0432\u0430\u0442\u043d\u043e\u0441\u0442\u0438",
         "eo": "\u015dtofo, vesta\u0135o, teksa\u0135o; kovra\u0135o, tavolo da privateco",
         "de": "Stoff, Kleidung, Gewebe, Struktur, bedecken, Abdeckung",
@@ -2467,6 +2481,7 @@
       "ku_data": "cold\u2075, raw\u00b3, frozen\u00b3, freeze\u00b2, cool\u00b2",
       "def": {
         "en": "cold, cool; uncooked, raw",
+        "pl": "zimny, ch\u0142odny; nieugotowany, surowy",
         "ru": "\u0445\u043e\u043b\u043e\u0434\u043d\u044b\u0439, \u043f\u0440\u043e\u0445\u043b\u0430\u0434\u043d\u044b\u0439; \u0441\u044b\u0440\u043e\u0439, \u043d\u0435\u043f\u0440\u0438\u0433\u043e\u0442\u043e\u0432\u043b\u0435\u043d\u043d\u044b\u0439",
         "isv_l": "hladny, prohladny;  nevarjeny, surovy",
         "isv_c": "\u0445\u043b\u0430\u0434\u043d\u044b, \u043f\u0440\u043e\u0445\u043b\u0430\u0434\u043d\u044b;  \u043d\u0435\u0432\u0430\u0440\u0458\u0435\u043d\u044b, \u0441\u0443\u0440\u043e\u0432\u044b",
@@ -2487,6 +2502,7 @@
       "see_also": "o",
       "def": {
         "en": "(between any subject except mi alone or sina alone and its verb; also to introduce a new verb for the same subject)",
+        "pl": "(pomi\u0119dzy podmiotem innym od samego mi czy samego sina a jego orzeczeniem; tak\u017ce wprowadza nowe orzeczenie dla tego samego podmiotu)",
         "ru": "(\u043c\u0435\u0436\u0434\u0443 \u043b\u044e\u0431\u044b\u043c \u043f\u043e\u0434\u043b\u0435\u0436\u0430\u0449\u0438\u043c, \u043a\u0440\u043e\u043c\u0435 \u0435\u0434\u0438\u043d\u0441\u0442\u0432\u0435\u043d\u043d\u043e\u0433\u043e mi \u0438\u043b\u0438 \u0435\u0434\u0438\u043d\u0441\u0442\u0432\u0435\u043d\u043d\u043e\u0433\u043e sina, \u0438 \u0435\u0433\u043e \u0441\u043a\u0430\u0437\u0443\u0435\u043c\u044b\u043c; \u0442\u0430\u043a\u0436\u0435 \u0432\u0432\u0435\u0441\u0442\u0438 \u043d\u043e\u0432\u043e\u0435 \u0441\u043a\u0430\u0437\u0443\u0435\u043c\u043e\u0435 \u0434\u043b\u044f \u0442\u043e\u0433\u043e \u0436\u0435 \u043f\u043e\u0434\u043b\u0435\u0436\u0430\u0449\u0435\u0433\u043e) ",
         "eo": "(inter ajna subjekto krom nura \u201cmi\u201d a\u016d nura \u201csina\u201d kaj ties verbo; anka\u016d por enkonduki novan verbon de la sama subjekto)",
         "de": "(zwischen einem beliebigen Subjekt au\u00dfer \"mi\" oder \"sina\" und seinem Verb; auch zur Einf\u00fchrung eines neuen Verbs f\u00fcr dasselbe Subjekt)",
@@ -2539,6 +2555,7 @@
       "ku_data": "small\u2075, little\u2075, slight\u2075, short\u2075, reduce\u2075, junior\u2075, slightly\u2074, minimize\u2074, narrow\u2074, bit\u2074, minor\u2074, partly\u2074, reduction\u2074, brief\u2074, young\u2074, fewer\u00b3, less\u00b3, diminish\u00b3, tiny\u00b3, barely\u00b3, decrease\u00b3, minimal\u00b3, partially\u00b3, somewhat\u00b3, thin\u00b3, inch\u00b3, shallow\u00b3, subtle\u00b3, lightly\u00b3, kinda\u00b3, hardly\u00b2, partial\u00b2, tight\u00b2, particle\u00b2, mere\u00b2, mild\u00b2, ounce\u00b2, quarter\u00b2, gram\u00b2, shortage\u00b2",
       "def": {
         "en": "little, small, short; few; a bit; young",
+        "pl": "ma\u0142y, niski, kr\u00f3tki; kilka; troch\u0119; m\u0142ody",
         "ru": "\u043c\u0430\u043b\u0435\u043d\u044c\u043a\u0438\u0439, \u043a\u043e\u0440\u043e\u0442\u043a\u0438\u0439; \u043c\u0430\u043b\u043e; \u043d\u0435\u043c\u043d\u043e\u0433\u043e; \u043c\u043e\u043b\u043e\u0434\u043e\u0439",
         "isv_l": "maly, kratky; malo; nemnogo; mlady",
         "isv_c": "\u043c\u0430\u043b\u044b, \u043a\u0440\u0430\u0442\u043a\u044b; \u043c\u0430\u043b\u043e; \u043d\u0435\u043c\u043d\u043e\u0433\u043e; \u043c\u043b\u0430\u0434\u044b",
@@ -2564,6 +2581,7 @@
       "tags": "pre-pu ALT",
       "def": {
         "en": "long and flexible thing; cord, hair, rope, thread, yarn | ALT line, connection",
+        "pl": "rzecz d\u0142uga i elastyczna; sznur, w\u0142osy, lina, ni\u0107, prz\u0119dza | ALT linia, po\u0142\u0105czenie",
         "ru": "\u043d\u0435\u0447\u0442\u043e \u0434\u043b\u0438\u043d\u043d\u043e\u0435 \u0438 \u0433\u0438\u0431\u043a\u043e\u0435; \u0448\u043d\u0443\u0440, \u0432\u043e\u043b\u043e\u0441, \u0432\u0435\u0440\u0435\u0432\u043a\u0430, \u043d\u0438\u0442\u044c, \u043f\u0440\u044f\u0436\u0430 | ALT \u043b\u0438\u043d\u0438\u044f, \u0441\u0432\u044f\u0437\u044c",
         "eo": "io longa kaj fleksebla; kordo, haro, \u015dnuro, fadeno | ALT linio, konekto",
         "de": "langes, bewegliches Ding; Schnur, Seil, Haar, Faden, Band; Linie, Verbindung",
@@ -2615,6 +2633,7 @@
       "ku_data": "paper\u2075, book\u2075, ticket\u2075, document\u2075, article\u2075, card\u2075, page\u2075, magazine\u2074, sheet\u2074, file\u2074, website\u00b3, essay\u00b3, novel\u00b3, letter (in mail)\u00b3, sign\u00b3, publication\u00b3, doc\u00b2, certificate\u00b2, literature\u00b2, journal\u00b2, flat\u00b2, blog\u00b2, list\u00b2, pad\u00b2, poster\u00b2, newspaper\u00b2, form\u00b2, tag\u00b2",
       "def": {
         "en": "flat object; book, document, card, paper, record, website",
+        "pl": "rzecz p\u0142aska; ksi\u0105\u017cka, dokument, karta, papier, zapis, strona internetowa",
         "ru": "\u043f\u043b\u043e\u0441\u043a\u0438\u0439 \u043e\u0431\u044a\u0435\u043a\u0442; \u043a\u043d\u0438\u0433\u0430, \u0434\u043e\u043a\u0443\u043c\u0435\u043d\u0442, \u043a\u0430\u0440\u0442\u0430, \u0431\u0443\u043c\u0430\u0433\u0430, \u0437\u0430\u043f\u0438\u0441\u044c, \u0441\u0430\u0439\u0442",
         "isv_l": "plosky objekt; kniga, dokument, karta, papir, zapis, vebsajt",
         "isv_c": "\u043f\u043b\u043e\u0441\u043a\u044b \u043e\u0431\u0458\u0435\u043a\u0442; \u043a\u043d\u0438\u0433\u0430, \u0434\u043e\u043a\u0443\u043c\u0435\u043d\u0442, \u043a\u0430\u0440\u0442\u0430, \u043f\u0430\u043f\u0438\u0440, \u0437\u0430\u043f\u0438\u0441, \u0432\u0435\u0431\u0441\u0430\u0458\u0442",
@@ -2639,6 +2658,7 @@
       "ku_data": "red\u2075",
       "def": {
         "en": "red, reddish",
+        "pl": "czerwony, czerwonawy",
         "ru": "\u043a\u0440\u0430\u0441\u043d\u044b\u0439, \u043a\u0440\u0430\u0441\u043d\u043e\u0432\u0430\u0442\u044b\u0439",
         "isv_l": "\u010drveny, podobny \u010drvenomu",
         "isv_c": "\u0447\u0440\u0432\u0435\u043d\u044b, \u043f\u043e\u0434\u043e\u0431\u043d\u044b \u0447\u0440\u0432\u0435\u043d\u043e\u043c\u0443",
@@ -2957,7 +2977,8 @@
         "en": "money, cash, savings, wealth; large domesticated animal",
         "ru": "\u0434\u0435\u043d\u044c\u0433\u0438, \u043d\u0430\u043b\u0438\u0447\u043d\u044b\u0435, \u0441\u0431\u0435\u0440\u0435\u0436\u0435\u043d\u0438\u044f, \u0431\u043e\u0433\u0430\u0442\u0441\u0442\u0432\u043e; \u043a\u0440\u0443\u043f\u043d\u043e\u0435 \u0434\u043e\u043c\u0430\u0448\u043d\u0435\u0435 \u0436\u0438\u0432\u043e\u0442\u043d\u043e\u0435",
         "eo": "mono, ri\u0109a\u0135oj, \u015dpara\u0135o, kontanta mono; bruto, granda dombesto",
-        "de": "Geld, Reichtum, gro\u00dfes, domestiziertes Tier"
+        "de": "Geld, Reichtum, gro\u00dfes, domestiziertes Tier",
+        "it": "denaro, contanti, risparmi, ricchezza; grande animale domestico"
       }
     },
     "me": {
@@ -2995,7 +3016,8 @@
         "isv_l": "\u017eena, \u017eenska osoba; \u017eena (supruga)",
         "isv_c": "\u0436\u0435\u043d\u0430, \u0436\u0435\u043d\u0441\u043a\u0430 \u043e\u0441\u043e\u0431\u0430; \u0436\u0435\u043d\u0430 (\u0441\u0443\u043f\u0440\u0443\u0433\u0430)",
         "eo": "virino, inseksulo, ino; edzino",
-        "de": "Frau, weiblich, feminine Person; Ehefrau"
+        "de": "Frau, weiblich, feminine Person; Ehefrau",
+        "it": "donna, femmina, persona femminile; moglie"
       }
     },
     "melome": {
@@ -3104,7 +3126,8 @@
         "isv_l": "mu\u017e, mu\u017eska osoba; mu\u017e (suprug)",
         "isv_c": "\u043c\u0443\u0436, \u043c\u0443\u0436\u0441\u043a\u0430 \u043e\u0441\u043e\u0431\u0430; \u043c\u0443\u0436 (\u0441\u0443\u043f\u0440\u0443\u0433)",
         "eo": "viro, virseksulo, i\u0109o; edzo",
-        "de": "Mann, m\u00e4nnlich, maskuline Person; Ehemann"
+        "de": "Mann, m\u00e4nnlich, maskuline Person; Ehemann",
+        "it": "uomo, maschio, persona maschile; marito"
       }
     },
     "mijomi": {
@@ -3218,7 +3241,8 @@
         "isv_l": "jedati, piti, spotr\u011bbovati, goltati",
         "isv_c": "\u0458\u0435\u0434\u0430\u0442\u0438, \u043f\u0438\u0442\u0438, \u0441\u043f\u043e\u0442\u0440\u0454\u0431\u043e\u0432\u0430\u0442\u0438, \u0433\u043e\u043b\u0442\u0430\u0442\u0438",
         "eo": "man\u011di, trinki, konsumi, gluti",
-        "de": "essen, trinken, konsumieren, schlicken, einverleiben"
+        "de": "essen, trinken, konsumieren, schlicken, einverleiben",
+        "it": "mangiare, bere, consumare, ingoiare, ingerire"
       }
     },
     "moli": {
@@ -3242,7 +3266,8 @@
         "isv_l": "mrtvy, umiraju\u010di",
         "isv_c": "\u043c\u0440\u0442\u0432\u044b, \u0443\u043c\u0438\u0440\u0430\u0458\u0443\u0447\u0438",
         "eo": "mortinta, mortanta",
-        "de": "tot, sterben, t\u00f6ten"
+        "de": "tot, sterben, t\u00f6ten",
+        "it": "morto, morente"
       }
     },
     "molusa": {
