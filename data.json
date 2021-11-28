@@ -33,7 +33,7 @@
       "name_endonym": "Espa\u00f1ol",
       "name_english": "Spanish",
       "name_toki_pona": "toki Epanja",
-      "completeness_percent": "53"
+      "completeness_percent": "54"
     },
     "hi": {
       "id_long": "hindi",
@@ -103,7 +103,7 @@
       "name_endonym": "toki pona",
       "name_english": "Toki Pona",
       "name_toki_pona": "toki pona",
-      "completeness_percent": "40"
+      "completeness_percent": "58"
     },
     "ur": {
       "id_long": "urdu",
@@ -121,7 +121,7 @@
       "description": "nele entry"
     },
     "jan Jonatan": {
-      "description": "definitions (German)"
+      "description": "definitions (German, Latin)"
     },
     "jan Ke Tami": {
       "description": "definitions (German)"
@@ -136,7 +136,7 @@
       "description": "definitions (Italian)"
     },
     "jan Seli": {
-      "description": "some definitions"
+      "description": "some definitions, some toki pona definitions"
     },
     "jan Tepo": {
       "description": "commentary, see_also"
@@ -205,7 +205,8 @@
         "en": "cross-like shape, intersection, overlap [alternative form of natu]",
         "pl": "kszta\u0142t krzy\u017copodobny, skrzy\u017cowanie, zachodzenie si\u0119 [alternatywna forma natu]",
         "ru": "\u043a\u0440\u0435\u0441\u0442\u043e\u043e\u0431\u0440\u0430\u0437\u043d\u0430\u044f \u0444\u043e\u0440\u043c\u0430, \u043f\u0435\u0440\u0435\u0441\u0435\u0447\u0435\u043d\u0438\u0435, \u043f\u0435\u0440\u0435\u043a\u0440\u044b\u0442\u0438\u0435 [\u0430\u043b\u044c\u0442\u0435\u0440\u043d\u0430\u0442\u0438\u0432\u043d\u0430\u044f \u0444\u043e\u0440\u043c\u0430 natu]",
-        "de": "kreuzartige Form, Wegeskreuzung, \u00dcberschneidung [Alternative zu natu]"
+        "de": "kreuzartige Form, Wegeskreuzung, \u00dcberschneidung [Alternative zu natu]",
+        "tok": "natu li nasin pilin pi jan tu, anu ni: palisa tu li lon la, ona li kama wan lon ma lili wan. ni li sama sitelen pi nimi \"ala.\""
       }
     },
     "akesi": {
@@ -231,7 +232,7 @@
         "isv_c": "\u043d\u0435\u043c\u0438\u043b\u0430 \u0436\u0438\u0432\u043e\u0442\u0438\u043d\u0430; \u0433\u0430\u0434, \u0430\u043c\u0444\u0438\u0431\u0438\u0458\u0430",
         "eo": "ne\u0109arma besto; reptilio, amfibio",
         "de": "Reptil, Amphibie",
-        "tok": "soweli pi suwi ala; soweli kiwen pi telo sijelo lete",
+        "tok": "soweli pi suwi ala; soweli kiwen pi telo sijelo lete.",
         "es": "animal no adorable; reptil, anfibio",
         "la": "amphibion, r\u0113ptile, serp\u0113ns",
         "it": "animale non carino, rettile, anfibio"
@@ -573,7 +574,8 @@
         "en": "cross-like shape, intersection, overlap [alternative form of natu]",
         "pl": "kszta\u0142t krzy\u017copodobny, skrzy\u017cowanie, zachodzenie si\u0119 [alternatywna forma natu]",
         "ru": "\u043a\u0440\u0435\u0441\u0442\u043e\u043e\u0431\u0440\u0430\u0437\u043d\u0430\u044f \u0444\u043e\u0440\u043c\u0430, \u043f\u0435\u0440\u0435\u0441\u0435\u0447\u0435\u043d\u0438\u0435, \u043f\u0435\u0440\u0435\u043a\u0440\u044b\u0442\u0438\u0435 [\u0430\u043b\u044c\u0442\u0435\u0440\u043d\u0430\u0442\u0438\u0432\u043d\u0430\u044f \u0444\u043e\u0440\u043c\u0430 natu]",
-        "de": "kreuzartige Form, Wegeskreuzung, \u00dcberschneidung [Alternative zu natu]"
+        "de": "kreuzartige Form, Wegeskreuzung, \u00dcberschneidung [Alternative zu natu]",
+        "tok": "natu li nasin pilin pi jan tu, anu ni: palisa tu li lon la, ona li kama wan lon ma lili wan. ni li sama sitelen pi nimi \"ala.\""
       }
     },
     "en": {
@@ -873,6 +875,7 @@
         "isv_c": "\u0438\u043d\u0441\u0442\u0440\u0443\u043c\u0435\u043d\u0442, \u043e\u0440\u0443\u0434\u0458\u0435, \u043c\u0430\u0448\u0438\u043d\u0430, \u0430\u043f\u0430\u0440\u0430\u0442",
         "eo": "ilo, ma\u015dino, aparato",
         "de": "Werkzeug, Ger\u00e4t, Maschine, Mittel",
+        "tok": "jan li pali kepeken ni; ijo ni li jo e kipisi mute li pali kepeken wawa.",
         "es": "herramienta, instrumento, m\u00e1quina, aparato",
         "it": "strumento, attrezzo, macchina, dispositivo"
       }
@@ -1043,6 +1046,7 @@
         "isv_c": "\u043c\u0440\u0437\u043a\u044b, \u043e\u0434\u0432\u0440\u0430\u0442\u043d\u044b, \u0433\u043d\u0443\u0441\u043d\u044b, \u0431\u043e\u043b\u0454\u0437\u043b\u0438\u0432\u044b, \u0458\u0430\u0434\u043e\u0432\u0438\u0442\u044b, \u0442\u043e\u043a\u0441\u0438\u0447\u043d\u044b, \u043d\u0435\u0447\u0438\u0441\u0442\u044b, \u043d\u0435\u0445\u0438\u0433\u0438\u0435\u043d\u0438\u0447\u043d\u044b",
         "eo": "na\u016dza, obscena, malagrabla, toksa, malpura, malhigiena",
         "de": "ekelhaft, dreckig, giftig, unrein, obsz\u00f6n",
+        "tok": "jan anu soweli la ni li kama e pilin ike e pakala sijelo.",
         "it": "disgustoso, osceno, nauseabondo, tossico, sporco, insalubre"
       }
     },
@@ -1155,6 +1159,7 @@
         "isv_c": "\u0447\u043b\u043e\u0432\u0454\u043a, \u043e\u0441\u043e\u0431\u0430, \u043d\u0454\u043a\u0442\u043e",
         "eo": "homo, persono, iu",
         "de": "Mensch, Person, jemand",
+        "tok": "ijo ni li wile li tawa kepeken ona sama li pilin. ona li jo e noka tu e luka tu. ona li ken toki li ken sona e ijo suli.",
         "es": "ser humano, persona, alguien",
         "it": "essere umano, persona, qualcuno"
       }
@@ -1251,7 +1256,8 @@
         "pl": "(oznacza podekscytowanie)",
         "ru": "(\u0443\u043a\u0430\u0437\u044b\u0432\u0430\u0435\u0442 \u043d\u0430 \u0432\u043e\u043b\u043d\u0435\u043d\u0438\u0435, \u0432\u043e\u0437\u0431\u0443\u0436\u0434\u0435\u043d\u0438\u0435)",
         "eo": "(indikas entuziasmon)",
-        "de": "(Aufregung, Begeisterung)"
+        "de": "(Aufregung, Begeisterung)",
+        "tok": "jan li pona pilin li wawa pilin la ona li toki e \"je\""
       }
     },
     "jelo": {
@@ -1344,7 +1350,8 @@
         "isv_l": "(slovo jest rezervovano dlja budu\u010dego koristanja Sonjeju Lang)",
         "isv_c": "(\u0441\u043b\u043e\u0432\u043e \u0458\u0435\u0441\u0442 \u0440\u0435\u0437\u0435\u0440\u0432\u043e\u0432\u0430\u043d\u043e \u0434\u0459\u0430 \u0431\u0443\u0434\u0443\u0447\u0435\u0433\u043e \u043a\u043e\u0440\u0438\u0441\u0442\u0430\u045a\u0430 S\u043e\u045a\u0435\u0458\u0443 L\u0430\u043d\u0433)",
         "eo": "(vorto rezervita por estonteca uzo de Sonja Lang)",
-        "de": "(f\u00fcr zuk\u00fcnftige Verwendung von Sonja Lang reserviertes Wort)"
+        "de": "(f\u00fcr zuk\u00fcnftige Verwendung von Sonja Lang reserviertes Wort)",
+        "tok": "(jan Sonja li wile e nimi ni tan ni: ona li pali e lipu sin la ona li kepeken nimi ni)"
       }
     },
     "jume": {
@@ -1365,6 +1372,7 @@
         "pl": "sen",
         "ru": "\u0441\u043e\u043d",
         "de": "Traum",
+        "tok": "jan li lukin e ni lon lape.",
         "es": "sue\u00f1o"
       }
     },
@@ -1418,6 +1426,7 @@
         "isv_c": "\u0440\u044b\u0431\u0430, \u043c\u043e\u0440\u0441\u043a\u0430 \u0436\u0438\u0432\u043e\u0442\u0438\u043d\u0430",
         "eo": "fi\u015do, akva besto, marbesto",
         "de": "Fisch, Meerestier",
+        "tok": "ijo ni li tawa lon telo li ken moku e kon tan telo.",
         "it": "pesce, animale marino, creatura marina"
       }
     },
@@ -1464,6 +1473,7 @@
         "isv_l": "krik pirata",
         "isv_c": "\u043a\u0440\u0438\u043a \u043f\u0438\u0440\u0430\u0442\u0430",
         "de": "Piratenger\u00e4usch",
+        "tok": "kalama pi jan ni: ona li jo utala e ijo tan jan ante li tawa kepeken tomo lon telo suli",
         "es": "ruido pirata"
       }
     },
@@ -1735,7 +1745,8 @@
         "isv_l": "kvir, LGBT+",
         "isv_c": "\u043a\u0432\u0438\u0440, LGBT+",
         "eo": "kvira, GLAT-a",
-        "de": "queer, LGBT+"
+        "de": "queer, LGBT+",
+        "tok": "tonsi anu mije pi olin mije anu meli pi olin meli"
       }
     },
     "ki": {
@@ -1854,6 +1865,7 @@
         "isv_c": "\u043f\u043b\u043e\u0434, \u043e\u0432\u043e\u0447, \u0433\u0440\u0438\u0431",
         "eo": "frukto, legomo, man\u011debla fungo",
         "de": "Frucht, Gem\u00fcse, Pilz",
+        "tok": "ni li tan kasi.",
         "it": "frutta, verdura, funghi"
       }
     },
@@ -1974,6 +1986,7 @@
         "isv_c": "\u043d\u0454\u0447\u0442\u043e \u0442\u0432\u0440\u0434\u043e, \u043c\u0435\u0442\u0430\u043b, \u043a\u0430\u043c\u0435\u045a, \u0441\u043a\u0430\u043b\u0430",
         "eo": "malmola\u0135o, metalo, roko, \u015dtono",
         "de": "hart, Stein, Metall, hartes Ding",
+        "tok": "sina luka wawa e ijo ko la ijo ni li kama ante.",
         "it": "oggetto duro, metallo, roccia, pietra"
       }
     },
@@ -2074,7 +2087,8 @@
         "en": "animacy, life, autonomy; autonomous being, living thing, organism; alive, animate, dynamic; to animate, to bring to life",
         "pl": "o\u017cywiono\u015b\u0107, \u017cycie, autonomiczno\u015b\u0107; istota autonomiczna, co\u015b \u017cyj\u0105cego, organizm; \u017cywy, dynamiczny; o\u017cywi\u0107",
         "ru": "\u043e\u0434\u0443\u0448\u0435\u0432\u043b\u0435\u043d\u043d\u043e\u0441\u0442\u044c, \u0436\u0438\u0437\u043d\u044c, \u0430\u0432\u0442\u043e\u043d\u043e\u043c\u043d\u043e\u0441\u0442\u044c; \u0430\u0432\u0442\u043e\u043d\u043e\u043c\u043d\u043e\u0435 \u0441\u0443\u0449\u0435\u0441\u0442\u0432\u043e, \u0436\u0438\u0432\u043e\u0435 \u0441\u0443\u0449\u0435\u0441\u0442\u0432\u043e, \u043e\u0440\u0433\u0430\u043d\u0438\u0437\u043c; \u0436\u0438\u0432\u043e\u0439, \u043e\u0434\u0443\u0448\u0435\u0432\u043b\u0451\u043d\u043d\u044b\u0439, \u0434\u0438\u043d\u0430\u043c\u0438\u0447\u0435\u0441\u043a\u0438\u0439; \u043e\u0436\u0438\u0432\u0438\u0442\u044c",
-        "de": "Lebhaftigkeit, Leben, Selbstst\u00e4ndigkeit; selbstst\u00e4ndiges Wesen, Lebewesen, Organismus; lebendig, beseelt, dynamisch, beleben, zum Leben erwacken"
+        "de": "Lebhaftigkeit, Leben, Selbstst\u00e4ndigkeit; selbstst\u00e4ndiges Wesen, Lebewesen, Organismus; lebendig, beseelt, dynamisch, beleben, zum Leben erwacken",
+        "tok": "ijo li ken tawa kepeken ona sama la ona li konwe. jan en soweli li konwe."
       }
     },
     "kosan": {
@@ -2091,7 +2105,8 @@
         "pl": "strzec, broni\u0107, os\u0142ania\u0107, wzmacnia\u0107, fortyfikowa\u0107 z zewn\u0105trz",
         "ru": "\u043e\u0445\u0440\u0430\u043d\u044f\u0442\u044c, \u0437\u0430\u0449\u0438\u0449\u0430\u0442\u044c, \u043e\u0431\u043e\u0440\u043e\u043d\u044f\u0442\u044c, \u0437\u0430\u0441\u043b\u043e\u043d\u044f\u0442\u044c, \u0443\u043a\u0440\u0435\u043f\u043b\u044f\u0442\u044c",
         "eo": "gardi, protekti, defendi, \u015dirmi, fortikigi ekstere",
-        "de": "bewachen, sch\u00fctzen, verteidigen, abschirmen, abst\u00fctzen, abschanzen, von au\u00dfen sichern"
+        "de": "bewachen, sch\u00fctzen, verteidigen, abschirmen, abst\u00fctzen, abschanzen, von au\u00dfen sichern",
+        "tok": "sina kosan e ijo la sina awen e ni tan ijo ike tan ijo utala."
       }
     },
     "ku": {
@@ -2224,6 +2239,7 @@
         "isv_c": "\u0441\u043f\u043e\u043b\u043e\u0447\u043d\u043e\u0441\u0442, \u043a\u043e\u043c\u043f\u0430\u043d\u0438\u0458\u0430, \u0433\u0440\u0443\u043f\u0430, \u043d\u0430\u0446\u0438\u0458\u0430, \u0441\u043f\u043e\u043b\u043e\u0447\u0435\u043d\u0441\u0442\u0432\u043e, \u0434\u0440\u0443\u0436\u0441\u0442\u0432\u043e, \u043f\u043b\u0435\u043c\u0435",
         "eo": "komunumo, kunularo, grupo, nacio, socio, tribo",
         "de": "Gruppe, Gemeinschaft, Gesellschaft, Stamm",
+        "tok": "ijo mute li lon poka anu jan li toki e ijo mute sama wan la ijo mute li kulupu.",
         "it": "comunit\u00e0, societ\u00e0, gruppo, nazione, trib\u00f9"
       }
     },
@@ -2410,6 +2426,7 @@
         "isv_c": "\u0433\u043b\u0430\u0432\u0430, \u0440\u0430\u0437\u0443\u043c; \u043a\u043e\u043d\u0442\u0440\u043e\u043b\u043e\u0432\u0430\u0442\u0438, \u043d\u0430\u043f\u0440\u0430\u0432\u0458\u0430\u0442\u0438, \u0440\u0443\u043a\u043e\u0432\u043e\u0434\u0438\u0442\u0438, \u0432\u0435\u0441\u0442\u0438, \u043f\u043b\u0430\u043d\u043e\u0432\u0430\u0442\u0438, \u0440\u0435\u0433\u0443\u043b\u043e\u0432\u0430\u0442\u0438, \u0443\u043f\u0440\u0430\u0432\u0458\u0430\u0442\u0438",
         "eo": "kapo, menso; gvidi, direkti, estri, konduki, posedi, plani, reguligi, regi",
         "de": "Kopf, Verstand, leiten, steuern, planen, besitzen, herrschen, regeln",
+        "tok": "kulupu la lawa li ijo ni: ona li wawa tawa ijo ante li ken tawa e ijo ni.",
         "it": "testa, mente; controllare, dirigere, guidare, condurre, possedere, pianificare, regolare, governare"
       }
     },
@@ -2704,6 +2721,7 @@
         "isv_c": "\u0447\u0440\u0432\u0435\u043d\u044b, \u043f\u043e\u0434\u043e\u0431\u043d\u044b \u0447\u0440\u0432\u0435\u043d\u043e\u043c\u0443",
         "eo": "ru\u011da, ru\u011deca",
         "de": "rot",
+        "tok": "kule uta, kule pi telo soweli.",
         "es": "rojo",
         "it": "rosso, rossastro"
       }
@@ -2729,7 +2747,8 @@
         "isv_l": "ruka abo noga",
         "isv_c": "\u0440\u0443\u043a\u0430 \u0430\u0431\u043e \u043d\u043e\u0433\u0430",
         "eo": "brako a\u016d kruro, membro",
-        "de": "Glied"
+        "de": "Glied",
+        "tok": "luka anu noka"
       }
     },
     "lokon": {
@@ -2811,6 +2830,7 @@
         "isv_c": "\u043d\u0430\u0445\u043e\u0434\u0435\u0447\u0438 \u0441\u0435, \u0441\u0443\u0447\u0438, \u0440\u0435\u0430\u043b\u043d\u044b, \u0438\u0441\u0442\u0438\u043d\u043d\u044b, \u043f\u0440\u0430\u0432\u0434\u0438\u0432\u044b, \u0435\u0433\u0437\u0438\u0441\u0442\u0443\u0458\u0443\u0447\u0438 | ALT (\u043f\u043e\u0437\u0438\u0442\u0438\u0432\u043d\u0430 \u043e\u0434\u043f\u043e\u0432\u0454\u0434)",
         "eo": "estanta en iu loko, estanta \u0109e, reala, vera, ekzistanta | ALT (konfirma respondo)",
         "de": "in, an, bei, auf, existieren, echt, richtig | (Zustimmung)",
+        "es": "alocado en, presente en, real, verdad, existente| ALT (respuesta afirmativa)",
         "it": "situato in, presente in, reale, vero, esistente | ALT (risposta affermativa)"
       }
     },
@@ -2851,7 +2871,8 @@
         "en": "(before the prepositional phrase)",
         "pl": "(przed fraz\u0105 przyimkow\u0105)",
         "ru": "(\u043f\u0435\u0440\u0435\u0434 \u043f\u0440\u0435\u0434\u043b\u043e\u0436\u043d\u043e\u0439 \u0444\u0440\u0430\u0437\u043e\u0439)",
-        "de": "(vor ein Satzteil mit Pr\u00e4position)"
+        "de": "(vor ein Satzteil mit Pr\u00e4position)",
+        "tok": "sina wile kepeken e nimi sama lon anu tawa anu tan anu kepeken anu sama la sina ken toki e \"lu\" lon monsi pi nimi ni."
       }
     },
     "luka": {
@@ -2875,6 +2896,7 @@
         "ru": "\u0440\u0443\u043a\u0430, \u043a\u0438\u0441\u0442\u044c, \u0442\u0430\u043a\u0442\u0438\u043b\u044c\u043d\u044b\u0439 \u043e\u0440\u0433\u0430\u043d; \u043f\u044f\u0442\u044c | ALT \u043a\u043e\u0441\u043d\u0443\u0442\u044c\u0441\u044f / \u043f\u043e\u0447\u0443\u0432\u0441\u0442\u0432\u043e\u0432\u0430\u0442\u044c \u0444\u0438\u0437\u0438\u0447\u0435\u0441\u043a\u0438, \u0432\u0437\u0430\u0438\u043c\u043e\u0434\u0435\u0439\u0441\u0442\u0432\u043e\u0432\u0430\u0442\u044c, \u043d\u0430\u0436\u0430\u0442\u044c",
         "eo": "brako, mano, tu\u015dorgano; kvin | ALT tu\u015di, fizike senti, interagi, premi",
         "de": "Arm, Hand, Tastorgan | f\u00fcnf",
+        "es": "brazo, mano, \u00f3rgano t\u00e1ctil; cinco| ALT tocar/sentir f\u00edsicamente, interactuar, presionar",
         "it": "braccio, mano, organo tattile; cinque | ALT toccare/sentire fisicamente, interagire, premere"
       }
     },
@@ -2928,6 +2950,7 @@
         "isv_c": "\u0434\u0432\u0435\u0440\u0438, \u0432\u0440\u0430\u0442\u0430, \u043e\u0442\u0432\u043e\u0440, \u0434\u0438\u0440\u0430, \u043e\u043a\u043d\u043e",
         "eo": "pordo, truo, korpa aperturo, fenestro",
         "de": "T\u00fcr, Loch, \u00d6ffnung, Fenster, H\u00f6hle",
+        "tok": "kipisi ijo li weka la, kipisi ni li lupa.",
         "it": "porta, foro, orifizio, finestra"
       }
     },
@@ -3047,7 +3070,8 @@
         "en": "question particle modifier",
         "pl": "(partyku\u0142a: modyfikator pytaj\u0105cy)",
         "ru": "\u0432\u043e\u043f\u0440\u043e\u0441\u0438\u0442\u0435\u043b\u044c\u043d\u0430\u044f \u0447\u0430\u0441\u0442\u0438\u0446\u0430-\u043c\u043e\u0434\u0438\u0444\u0438\u043a\u0430\u0442\u043e\u0440",
-        "de": "modifizierende Fragepartikel"
+        "de": "modifizierende Fragepartikel",
+        "tok": "\"me\" li lili pi toki ni: \"anu seme?\""
       }
     },
     "meli": {
@@ -3159,6 +3183,7 @@
         "isv_c": "\u0458\u0430, \u043c\u0435\u043d\u0435, \u043c\u044b, \u043d\u0430\u0441",
         "eo": "mi, ni",
         "de": "ich, mein, wir, unser",
+        "tok": "toki la, nimi \"mi\" li jan toki.",
         "es": "yo, me, nosotros, nos",
         "it": "Io, me, noi"
       }
@@ -3347,7 +3372,8 @@
         "pl": "zwierz\u0119 g\u0105bczaste, np. \u015blimak czy g\u0105bka",
         "ru": "\u043c\u044f\u0433\u043a\u043e\u0435 \u0436\u0438\u0432\u043e\u0442\u043d\u043e\u0435, \u043d\u0430\u043f\u0440\u0438\u043c\u0435\u0440 \u0443\u043b\u0438\u0442\u043a\u0430, \u0441\u043b\u0438\u0437\u043d\u044f\u043a \u0438\u043b\u0438 \u0433\u0443\u0431\u043a\u0430",
         "eo": "mola spongeca besto, ekzemple heliko, limako, a\u016d spongo",
-        "de": "ein weiches Tier, wie Schnecken oder Schw\u00e4mme"
+        "de": "ein weiches Tier, wie Schnecken oder Schw\u00e4mme",
+        "tok": "soweli anu kala anu pipi anu akesi anu waso la ona li sama ko la ona li molusa"
       }
     },
     "monsi": {
@@ -3735,7 +3761,8 @@
         "en": "transparent material/object, lack of privacy; clear, transparent, unobstructed; to make clear, to make transparent, to remove obstructions",
         "pl": "przezroczysty materia\u0142/rzecz, brak prywatno\u015bci; przejrzysty, przezroczysty, bez przeszk\u00f3d; uczyni\u0107 przezroczystym, usun\u0105\u0107 przeszkody",
         "ru": "\u043f\u0440\u043e\u0437\u0440\u0430\u0447\u043d\u044b\u0439 \u043c\u0430\u0442\u0435\u0440\u0438\u0430\u043b/\u043f\u0440\u0435\u0434\u043c\u0435\u0442, \u043e\u0442\u0441\u0443\u0442\u0441\u0442\u0432\u0438\u0435 \u043f\u0440\u0438\u0432\u0430\u0442\u043d\u043e\u0441\u0442\u0438; \u044f\u0441\u043d\u044b\u0439, \u043f\u0440\u043e\u0437\u0440\u0430\u0447\u043d\u044b\u0439, \u0431\u0435\u0441\u043f\u0440\u0435\u043f\u044f\u0442\u0441\u0442\u0432\u0435\u043d\u043d\u044b\u0439; \u0441\u0434\u0435\u043b\u0430\u0442\u044c \u044f\u0441\u043d\u044b\u043c, \u0441\u0434\u0435\u043b\u0430\u0442\u044c \u043f\u0440\u043e\u0437\u0440\u0430\u0447\u043d\u044b\u043c, \u0443\u0431\u0440\u0430\u0442\u044c \u043f\u0440\u0435\u043f\u044f\u0442\u0441\u0442\u0432\u0438\u044f",
-        "de": "durchsichtiges Material/durchsichtiger Gegenstand, Mangel an Privatsph\u00e4re; klar, durchsichtig, unversperrt; klar machen, durchsichtig machen, Hindernisse beseitigen"
+        "de": "durchsichtiges Material/durchsichtiger Gegenstand, Mangel an Privatsph\u00e4re; klar, durchsichtig, unversperrt; klar machen, durchsichtig machen, Hindernisse beseitigen",
+        "tok": "sina ken sona e ijo kepeken pali lili anu sina ken lukin e ijo pi monsi ona la ijo ni li nele"
       }
     },
     "nena": {
@@ -3832,6 +3859,7 @@
         "ru": "\u043c\u044f\u0443, \u043a\u043e\u0448\u0430\u0447\u0438\u0439 \u0437\u0432\u0443\u043a",
         "eo": "mia\u016d, kata sono",
         "de": "Miau, Katzenger\u00e4usch",
+        "tok": "mu pi soweli ni: ona li ko li lon tomo jan li jo e linja wan lon monsi e linja lili mute lon sinpin.",
         "es": "miau, maullido, sonido felino"
       }
     },
@@ -4255,7 +4283,8 @@
         "pl": "orwellowski, totalitaryjny, zwi\u0105zany z Wielkim Bratem (z \"Roku 1984\"), przeciwie\u0144stwo kamalawala",
         "ru": "\u041e\u0440\u0443\u044d\u043b\u043b\u043e\u0432\u0441\u043a\u0438\u0439, \u0442\u043e\u0442\u0430\u043b\u0438\u0442\u0430\u0440\u043d\u044b\u0439, \u043e\u0442\u043d\u043e\u0441\u044f\u0449\u0438\u0439\u0441\u044f \u043a \u0438\u043b\u0438 \u0441\u0432\u044f\u0437\u0430\u043d\u043d\u044b\u0439 \u0441 \u0411\u043e\u043b\u044c\u0448\u0438\u043c \u0411\u0440\u0430\u0442\u043e\u043c (\u0438\u0437 1984), \u0430\u043d\u0442\u043e\u043d\u0438\u043c kamalawala",
         "eo": "totalisma, rilata al Big Brother (el la libro 1984), antonimo de kamalawala",
-        "de": "Orwellianisch, totalit\u00e4r, von oder im Zusammenhang mit Big Brother (aus 1984), Antonym von kamalawala"
+        "de": "Orwellianisch, totalit\u00e4r, von oder im Zusammenhang mit Big Brother (aus 1984), Antonym von kamalawala",
+        "tok": "lipu \"1984\" pi jan So Owe (George Orwell), nanpa pi lipu ni, ijo sama lipu ni."
       }
     },
     "pa": {
@@ -4620,7 +4649,8 @@
         "pl": "elektryczny, elektroniczny, przewodz\u0105cy, mechaniczny, online; elektryczno\u015b\u0107, b\u0142yskawica, grzmot, sie\u0107",
         "ru": "\u044d\u043b\u0435\u043a\u0442\u0440\u0438\u0447\u0435\u0441\u043a\u0438\u0439, \u044d\u043b\u0435\u043a\u0442\u0440\u043e\u043d\u043d\u044b\u0439, \u0442\u043e\u043a\u043e\u043f\u0440\u043e\u0432\u043e\u0434\u044f\u0449\u0438\u0439, \u043c\u0435\u0445\u0430\u043d\u0438\u0447\u0435\u0441\u043a\u0438\u0439, \u043e\u043d\u043b\u0430\u0439\u043d; \u044d\u043b\u0435\u043a\u0442\u0440\u0438\u0447\u0435\u0441\u0442\u0432\u043e, \u043c\u043e\u043b\u043d\u0438\u044f, \u0433\u0440\u043e\u043c, \u0441\u0435\u0442\u044c",
         "eo": "elektra, elektronika, konduktiva, me\u0125anika, enreta; elektro, fulmo, tondro, reto",
-        "de": "elektrisch, elektronisch, leitend, mechanisch, online; Elektrizit\u00e4t, Blitz, Donner, Netzwerk"
+        "de": "elektrisch, elektronisch, leitend, mechanisch, online; Elektrizit\u00e4t, Blitz, Donner, Netzwerk",
+        "tok": "ilo li kepeken wawa ni. telo li kama tan sewi la wawa ni li kama li kalama suli a li suno suli a."
       }
     },
     "pilin": {
@@ -4692,7 +4722,8 @@
         "isv_l": "avto",
         "isv_c": "\u0430\u0432\u0442\u043e",
         "eo": "a\u016dto",
-        "de": "Auto"
+        "de": "Auto",
+        "tok": "ni li nimi musi. kon ona li tomo tawa."
       }
     },
     "pini": {
@@ -5349,6 +5380,7 @@
         "ru": "\u0442\u044b, \u0432\u044b",
         "eo": "vi",
         "de": "du, Sie, ihr; dein, euer",
+        "tok": "toki la, nimi \"sina\" li ijo kute.",
         "it": "tu, voi"
       }
     },
@@ -5414,6 +5446,7 @@
         "pl": "[dowcipny synonim lape]",
         "ru": "[humorous synonym of lape]",
         "de": "[humorvolles Synonym von lape]",
+        "tok": "nimi musi tan \"lape\"",
         "es": "[sin\u00f3nimo humor\u00edstico de lape]"
       }
     },
@@ -5592,7 +5625,8 @@
         "ru": "[\u043e\u043f\u0435\u0447\u0430\u0442\u043a\u0430 sike]",
         "isv_l": "[gr\u011b\u0161ka napisanja sike]",
         "isv_c": "[\u0433\u0440\u0454\u0448\u043a\u0430 \u043d\u0430\u043f\u0438\u0441\u0430\u045a\u0430 \u0441\u0438\u043a\u0435]",
-        "de": "[Tippfehler von sike]"
+        "de": "[Tippfehler von sike]",
+        "tok": "(jan Sonja li sitelen pakala e \"sike\")"
       }
     },
     "suli": {
@@ -5713,6 +5747,7 @@
         "ru": "\u0441\u043b\u0430\u0434\u043a\u0438\u0439, \u0430\u0440\u043e\u043c\u0430\u0442\u043d\u044b\u0439; \u043c\u0438\u043b\u044b\u0439, \u043d\u0435\u0432\u0438\u043d\u043d\u044b\u0439, \u043e\u0447\u0430\u0440\u043e\u0432\u0430\u0442\u0435\u043b\u044c\u043d\u044b\u0439",
         "eo": "dol\u0109a, bonodora; \u0109arma, senkulpa, aminda",
         "de": "s\u00fc\u00df, wohlriechend; niedlich, unschuldig, liebenswert",
+        "tok": "ona li pona tawa uta, ona li pona tawa lukin, ona li pali ike ala.",
         "it": "dolce, fragrante; carino, innocente, adorabile"
       }
     },
@@ -5976,6 +6011,7 @@
         "ru": "\u0432\u0440\u0435\u043c\u044f, \u043f\u0440\u043e\u0434\u043e\u043b\u0436\u0438\u0442\u0435\u043b\u044c\u043d\u043e\u0441\u0442\u044c, \u043c\u043e\u043c\u0435\u043d\u0442, \u0441\u043b\u0443\u0447\u0430\u0439, \u043f\u0435\u0440\u0438\u043e\u0434, \u0441\u0438\u0442\u0443\u0430\u0446\u0438\u044f",
         "eo": "tempo, da\u016dro, momento, okazo, fojo, periodo, situacio",
         "de": "Zeit, Dauer, Moment, Gelegenheit, Zeitraum, Situation",
+        "tok": "tenpo la ale li kama ante li kama moli li kama weka.",
         "it": "tempo, durata, momento, occasione, periodo, situazione"
       }
     },
@@ -6055,6 +6091,7 @@
         "ru": "\u043e\u0431\u0449\u0430\u0442\u044c\u0441\u044f, \u0433\u043e\u0432\u043e\u0440\u0438\u0442\u044c, \u0441\u043a\u0430\u0437\u0430\u0442\u044c, \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u044c \u044f\u0437\u044b\u043a, \u0434\u0443\u043c\u0430\u0442\u044c; \u043f\u0440\u0438\u0432\u0435\u0442",
         "eo": "komuniki, diri, paroli, uzi lingvon, pensi; saluton",
         "de": "kommunizieren, sagen, sprechen, reden, Sprache benutzen, denken; hallo",
+        "tok": "toki la, jan li ken pana e sona kepeken kalama anu sitelen anu luka.",
         "it": "comunicare, dire, parlare, conversare, usare il linguaggio, pensare; ciao"
       }
     },
@@ -6076,7 +6113,8 @@
         "ru": "[\u043e\u043f\u0435\u0447\u0430\u0442\u043a\u0430 tomo]",
         "isv_l": "[gr\u011b\u0161ka napisanja tomo]",
         "isv_c": "[\u0433\u0440\u0454\u0448\u043a\u0430 \u043d\u0430\u043f\u0438\u0441\u0430\u045a\u0430 \u0442\u043e\u043c\u043e]",
-        "de": "[Tippfehler von tomo]"
+        "de": "[Tippfehler von tomo]",
+        "tok": "(jan Sonja li sitelen pakala e \"tomo\")"
       }
     },
     "tomo": {
@@ -6099,6 +6137,7 @@
         "ru": "\u0432\u043d\u0443\u0442\u0440\u0435\u043d\u043d\u0435\u0435 \u043f\u0440\u043e\u0441\u0442\u0440\u0430\u043d\u0441\u0442\u0432\u043e; \u0437\u0434\u0430\u043d\u0438\u0435, \u0434\u043e\u043c, \u0436\u0438\u043b\u0438\u0449\u0435, \u043a\u043e\u043c\u043d\u0430\u0442\u0430",
         "eo": "endoma spaco; konstrua\u0135o, hejmo, domo, \u0109ambro",
         "de": "Innenraum, Geb\u00e4ude, Haus, Raum, Zuhause",
+        "tok": "lon tomo la, ijo li awen li lon nasin pona tawa ona.",
         "it": "spazio interno; edificio, casa, abitazione, stanza"
       }
     },
@@ -6161,6 +6200,7 @@
         "isv_c": "\u0434\u0432\u0430 | ALT \u0434\u0454\u043b\u0438\u0442\u0438, \u0441\u0454\u043a\u0442\u0438",
         "eo": "du | ALT disigi, tran\u0109i",
         "de": "zwei | ALT teilen, schneiden",
+        "tok": "ijo wan lon poka ijo wan li ijo tu.",
         "it": "due | ALT separare, tagliare"
       }
     },
@@ -6233,7 +6273,8 @@
         "pl": "zadziwi\u0107 ludzi przez znajdowanie si\u0119 na szczycie tabeli wynik\u00f3w gry tokipo\u0144skiej",
         "ru": "\u0438\u0437\u0443\u043c\u043b\u044f\u0442\u044c \u043b\u044e\u0434\u0435\u0439, \u043b\u0438\u0434\u0438\u0440\u0443\u044f \u0432 \u0441\u043f\u0438\u0441\u043a\u0435 \u0438\u0433\u0440\u043e\u043a\u043e\u0432 \u0432 \u0438\u0433\u0440\u0435 \u043d\u0430 \u0442\u043e\u043a\u0438 \u043f\u043e\u043d\u0435",
         "eo": "mirigi homojn pro tio, ke oni estas en la unua loko en la rangotabulo de tokipona ludo",
-        "de": "Leute verbl\u00fcffen, indem man an der Spitze der Rangliste eines Toki-Pona-Spiels stehst"
+        "de": "Leute verbl\u00fcffen, indem man an der Spitze der Rangliste eines Toki-Pona-Spiels stehst",
+        "tok": "sina umesu la sina kama e pilin pona lon jan ante tan ni: sina pali pona lon musi pi toki pona."
       }
     },
     "unpa": {
@@ -6339,6 +6380,7 @@
         "isv_c": "\u0443\u0441\u0442\u0430, \u0433\u0443\u0431\u0430, \u0443\u0441\u0442\u043d\u0430 \u0458\u0430\u043c\u0430, \u0447\u0435\u0459\u0443\u0441\u0442",
         "eo": "bu\u015do, lipoj, bu\u015da kavo, makzelo",
         "de": "Mund, Lippen, Rachen, Kiefer",
+        "tok": "uta li lupa sinpin li ken jo e ijo li ken kama insa e ijo.",
         "it": "bocca, labbra, cavit\u00e0 orale, mascella"
       }
     },
@@ -6362,6 +6404,7 @@
         "ru": "\u0431\u0438\u0442\u0432\u0430, \u0432\u044b\u0437\u043e\u0432, \u0441\u043e\u0440\u0435\u0432\u043d\u043e\u0432\u0430\u0442\u044c\u0441\u044f, \u0431\u043e\u0440\u043e\u0442\u044c\u0441\u044f \u043f\u0440\u043e\u0442\u0438\u0432",
         "eo": "batali, defii, konkuri kontra\u016d, lukti kontra\u016d",
         "de": "Kampf, Streit, k\u00e4mpfen, Herausforderung, gegen j-n zum Wettkampf antreten",
+        "tok": "ijo li pali e ike tawa ijo ante. ni la, ona tu li utala.",
         "it": "combattere, sfidare, competere contro, lottare contro"
       }
     },
@@ -6497,6 +6540,7 @@
         "isv_c": "\u043f\u0442\u0438\u0446\u0430, \u043f\u0442\u0430\u043a, \u043b\u0454\u0442\u0430\u0458\u0443\u0447\u0430 \u0436\u0438\u0432\u043e\u0442\u0438\u043d\u0430, \u043a\u0440\u0438\u043b\u0430\u0442\u0430 \u0436\u0438\u0432\u043e\u0442\u0438\u043d\u0430",
         "eo": "birdo, fluganta viva\u0135o, besto havanta flugilojn",
         "de": "Vogel, fliegendes Tier, befl\u00fcgeltes Tier",
+        "tok": "ijo ni li jo e luka sama lipu. luka ni la ona li ken wawa e kon. mute la ijo ni li ken tawa kon tan ni.",
         "it": "uccello, creatura volante, animale alato"
       }
     },
@@ -6518,7 +6562,8 @@
         "pl": "zwierz\u0119 miej\u0105ce cechy zar\u00f3wno waso, jak i soweli",
         "ru": "\u0436\u0438\u0432\u043e\u0442\u043d\u043e\u0435 \u0441 \u043a\u0430\u0447\u0435\u0441\u0442\u0432\u0430\u043c\u0438 waso \u0438 soweli",
         "eo": "besto kun kvalitoj de amba\u016d waso & soweli",
-        "de": "Tier mit Eigenschaften von waso & soweli"
+        "de": "Tier mit Eigenschaften von waso & soweli",
+        "tok": "waso anu soweli"
       }
     },
     "wawa": {
@@ -6619,6 +6664,7 @@
         "ru": "\u043e\u0442\u0441\u0443\u0442\u0441\u0442\u0432\u0443\u044e\u0449\u0438\u0439, \u043f\u0440\u043e\u0447\u044c, \u0438\u0433\u043d\u043e\u0440\u0438\u0440\u0443\u0435\u043c\u044b\u0439",
         "eo": "ne\u0109eestanta, fora, ignorata",
         "de": "weg, abwesend, entfernen, ignorieren",
+        "tok": "lon poka ala",
         "it": "assente, lontano, ignorato"
       }
     },
@@ -6742,6 +6788,7 @@
         "ru": "{\u0432 \u0414\u0438\u0441\u043a\u043e\u0440\u0434\u0435} \u044d\u043c\u043e\u0434\u0437\u0438 \u0437\u0432\u0451\u0437\u0434\u043e\u0447\u043a\u0438, \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u0443\u0435\u043c\u0430\u044f \u0434\u043b\u044f \u0434\u043e\u0441\u043a\u0438 \u0438\u0437\u0431\u0440\u0430\u043d\u043d\u043e\u0433\u043e (starboard, #pona-kulupu \u0432 ma pona)",
         "eo": "{en Discord} la stela emo\u011dio uzata por la steltabulo (starboard, #pona-kulupu en ma pona)",
         "de": "{auf Discord} das Stern-Emoji, das f\u00fcr das Starboard verwended wird (#pona-kulupu in ma pona)",
+        "tok": "sitelen jelo pi luka tu tu wan lon ilo Siko. toki pi ilo Siko li kama jo e ni luka wan la ona li lon tomo pi pona kulupu.",
         "es": "{en Discord} el emoji estrella usado para el tabl\u00f3n de estrellas (starboard, #pona-kulupu en ma pona)"
       }
     }
