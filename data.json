@@ -54,14 +54,14 @@
       "name_endonym": "\u041c\u0435\u0434\u0436\u0443\u0441\u043b\u043e\u0432\u0458\u0430\u043d\u0441\u043a\u044b (\u043a\u0438\u0440\u0438\u043b\u0438\u0446\u0430)",
       "name_english": "Interslavic (Cyrillic)",
       "name_toki_pona": "toki Mesulojanki (sitelen Kililisa)",
-      "completeness_percent": "43"
+      "completeness_percent": "46"
     },
     "isv_l": {
       "id_long": "interslavic_latin",
       "name_endonym": "Med\u017euslovjansky (latinica)",
       "name_english": "Interslavic (Latin)",
       "name_toki_pona": "toki Mesulojanki (sitelen Lasina)",
-      "completeness_percent": "43"
+      "completeness_percent": "46"
     },
     "it": {
       "id_long": "italian",
@@ -89,7 +89,7 @@
       "name_endonym": "Polski",
       "name_english": "Polish",
       "name_toki_pona": "toki Posuka",
-      "completeness_percent": "63"
+      "completeness_percent": "81"
     },
     "ru": {
       "id_long": "russian",
@@ -1447,6 +1447,7 @@
       },
       "def": {
         "en": "pirate noise",
+        "pl": "odg\u0142os piracki",
         "ru": "\u043a\u0440\u0438\u043a \u043f\u0438\u0440\u0430\u0442\u0430",
         "isv_l": "krik pirata",
         "isv_c": "\u043a\u0440\u0438\u043a \u043f\u0438\u0440\u0430\u0442\u0430",
@@ -1717,6 +1718,7 @@
       "see_also": "kule",
       "def": {
         "en": "queer, LGBT+",
+        "pl": "k\u0142ir, LGBT+",
         "ru": "\u043a\u0432\u0438\u0440, \u041b\u0413\u0411\u0422+",
         "isv_l": "kvir, LGBT+",
         "isv_c": "\u043a\u0432\u0438\u0440, LGBT+",
@@ -1977,6 +1979,7 @@
       "commentary": "The \"clinging form\" definition was elaborated to mean \"a shape or mass that sticks or clings; a clot, a thick or viscous lump, a clump that can be reshaped\".",
       "def": {
         "en": "clay, clinging form, dough, semi-solid, paste, powder",
+        "pl": "glina, lepka forma, ciasto, materia\u0142 p\u00f3\u0142sta\u0142y, pasta, proszek",
         "ru": "\u0433\u043b\u0438\u043d\u0430, \u0441\u043b\u0435\u043f\u043b\u0435\u043d\u043d\u043e\u0435, \u0442\u0435\u0441\u0442\u043e, \u043f\u043e\u043b\u0443\u0442\u0432\u0435\u0440\u0434\u043e\u0435, \u043f\u0430\u0441\u0442\u0430, \u043f\u043e\u0440\u043e\u0448\u043e\u043a",
         "isv_l": "glina, n\u011b\u010dto l\u011bpjeno, t\u011bsto, n\u011b\u010dto polutvrdo, pasta, pra\u0161ek",
         "isv_c": "\u0433\u043b\u0438\u043d\u0430, \u043d\u0454\u0447\u0442\u043e \u043b\u0454\u043f\u0458\u0435\u043d\u043e, \u0442\u0454\u0441\u0442\u043e, \u043d\u0454\u0447\u0442\u043e \u043f\u043e\u043b\u0443\u0442\u0432\u0440\u0434\u043e, \u043f\u0430\u0441\u0442\u0430, \u043f\u0440\u0430\u0448\u0435\u043a",
@@ -2032,6 +2035,8 @@
         "en": "air, breath; essence, spirit; hidden reality, unseen agent",
         "pl": "powietrze, oddech; esencja, dusza; ukryta rzeczywisto\u015b\u0107, niewidoczny czynnik",
         "ru": "\u0432\u043e\u0437\u0434\u0443\u0445, \u0434\u044b\u0445\u0430\u043d\u0438\u0435; \u0441\u0443\u0449\u043d\u043e\u0441\u0442\u044c, \u0434\u0443\u0445; \u0441\u043a\u0440\u044b\u0442\u043e\u0435 \u0441\u043e\u0437\u0434\u0430\u043d\u0438\u0435, \u043d\u0435\u0432\u0438\u0434\u0438\u043c\u0430\u044f \u0434\u0435\u0439\u0441\u0442\u0432\u0443\u044e\u0449\u0430\u044f \u0441\u0438\u043b\u0430",
+        "isv_l": "vozduh, dyh; jestestvo, su\u010dnost, duh, du\u0161a; ukryta realnost, nevidimy \u010dinitelj",
+        "isv_c": "\u0432\u043e\u0437\u0434\u0443\u0445, \u0434\u044b\u0445; \u0458\u0435\u0441\u0442\u0435\u0441\u0442\u0432\u043e, \u0441\u0443\u0447\u043d\u043e\u0441\u0442, \u0434\u0443\u0445, \u0434\u0443\u0448\u0430; \u0443\u043a\u0440\u044b\u0442\u0430 \u0440\u0435\u0430\u043b\u043d\u043e\u0441\u0442, \u043d\u0435\u0432\u0438\u0434\u0438\u043c\u044b \u0447\u0438\u043d\u0438\u0442\u0435\u0459",
         "eo": "aero, spiro; esenco, spirito; ka\u015dita realeco, io nevidata kio havas ian efikon",
         "de": "Luft, Atem, Essenz, Geist, Seele, Bedeutung",
         "it": "aria, respiro; essenza, spirito; realt\u00e0 nascosta, agente invisibile"
@@ -2117,6 +2122,8 @@
         "en": "colorful, pigmented, painted | ALT of or relating to the LGBT+ community",
         "pl": "barwny, pigmentowany, malowany | ALT zwi\u0105zane ze spo\u0142eczno\u015bci\u0105 LGBT+",
         "ru": "\u0440\u0430\u0437\u043d\u043e\u0446\u0432\u0435\u0442\u043d\u044b\u0439, \u043a\u0440\u0430\u0441\u043e\u0447\u043d\u044b\u0439, \u043e\u043a\u0440\u0430\u0448\u0435\u043d\u043d\u044b\u0439 | ALT \u043f\u0440\u0438\u043d\u0430\u0434\u043b\u0435\u0436\u0430\u0449\u0438\u0439 \u0438\u043b\u0438 \u043e\u0442\u043d\u043e\u0441\u044f\u0449\u0438\u0439\u0441\u044f \u043a \u0441\u043e\u043e\u0431\u0449\u0435\u0441\u0442\u0432\u0443 \u041b\u0413\u0411\u0422+",
+        "isv_l": "mnogobarvny, pigmentovany, farbovany | ALT svezany s spolo\u010dnostju LGBT+",
+        "isv_c": "\u043c\u043d\u043e\u0433\u043e\u0431\u0430\u0440\u0432\u043d\u044b, \u043f\u0438\u0433\u043c\u0435\u043d\u0442\u043e\u0432\u0430\u043d\u044b, \u0444\u0430\u0440\u0431\u043e\u0432\u0430\u043d\u044b | ALT \u0441\u0432\u0435\u0437\u0430\u043d\u044b \u0441 \u0441\u043f\u043e\u043b\u043e\u0447\u043d\u043e\u0441\u0442\u0458\u0443 LGBT+",
         "eo": "kolora, pigmenta, pentrita | ALT rilata al la GLAT-komunumo, GLAT-a",
         "de": "Farbe, farbig, Variante | LGBT+",
         "it": "colorato, pigmentato, dipinto | ALT di o relativo alla comunit\u00e0 LGBT+"
@@ -2194,6 +2201,8 @@
         "en": "community, company, group, nation, society, tribe",
         "pl": "spo\u0142eczno\u015b\u0107, towarzystwo, grupa, pa\u0144stwo, spo\u0142ecze\u0144stwo, plemi\u0119",
         "ru": "\u0441\u043e\u043e\u0431\u0449\u0435\u0441\u0442\u0432\u043e, \u043a\u043e\u043c\u043f\u0430\u043d\u0438\u044f, \u0433\u0440\u0443\u043f\u043f\u0430, \u043d\u0430\u0446\u0438\u044f, \u043e\u0431\u0449\u0435\u0441\u0442\u0432\u043e, \u043f\u043b\u0435\u043c\u044f",
+        "isv_l": "spolo\u010dnost, kompanija, grupa, nacija, spolo\u010denstvo, dru\u017estvo, pleme",
+        "isv_c": "\u0441\u043f\u043e\u043b\u043e\u0447\u043d\u043e\u0441\u0442, \u043a\u043e\u043c\u043f\u0430\u043d\u0438\u0458\u0430, \u0433\u0440\u0443\u043f\u0430, \u043d\u0430\u0446\u0438\u0458\u0430, \u0441\u043f\u043e\u043b\u043e\u0447\u0435\u043d\u0441\u0442\u0432\u043e, \u0434\u0440\u0443\u0436\u0441\u0442\u0432\u043e, \u043f\u043b\u0435\u043c\u0435",
         "eo": "komunumo, kunularo, grupo, nacio, socio, tribo",
         "de": "Gruppe, Gemeinschaft, Gesellschaft, Stamm",
         "it": "comunit\u00e0, societ\u00e0, gruppo, nazione, societ\u00e0, trib\u00f9"
@@ -2270,6 +2279,8 @@
         "en": "(between the context phrase and the main sentence)",
         "pl": "(mi\u0119dzy fraz\u0105 kontekstow\u0105 a g\u0142\u00f3wnym zdaniem)",
         "ru": "(\u043c\u0435\u0436\u0434\u0443 \u043a\u043e\u043d\u0442\u0435\u043a\u0441\u0442\u043d\u043e\u0439 \u0444\u0440\u0430\u0437\u043e\u0439 \u0438 \u0433\u043b\u0430\u0432\u043d\u044b\u043c \u043f\u0440\u0435\u0434\u043b\u043e\u0436\u0435\u043d\u0438\u0435\u043c)",
+        "isv_l": "(med\u017eu kontekstovoju frazoju i glavnym r\u011b\u010denjem)",
+        "isv_c": "(\u043c\u0435\u0434\u0436\u0443 \u043a\u043e\u043d\u0442\u0435\u043a\u0441\u0442\u043e\u0432\u043e\u0458\u0443 \u0444\u0440\u0430\u0437\u043e\u0458\u0443 \u0438 \u0433\u043b\u0430\u0432\u043d\u044b\u043c \u0440\u0454\u0447\u0435\u045a\u0435\u043c)",
         "eo": "(inter la kunteksta frazparto kaj la \u0109effrazo)",
         "de": "(zwischen Kontext- und Hauptsatz)",
         "it": "(tra la frase di contesto e la frase principale)"
@@ -2375,6 +2386,8 @@
         "en": "head, mind; to control, direct, guide, lead, own, plan, regulate, rule",
         "pl": "g\u0142owa, umys\u0142; kontrolowa\u0107, kierowa\u0107, przewodzi\u0107, posiada\u0107, planowa\u0107, regulowa\u0107, rz\u0105dzi\u0107",
         "ru": "\u0433\u043e\u043b\u043e\u0432\u0430, \u0440\u0430\u0437\u0443\u043c; \u0433\u043b\u0430\u0432\u0435\u043d\u0441\u0442\u0432\u043e\u0432\u0430\u0442\u044c, \u043a\u043e\u043d\u0442\u0440\u043e\u043b\u0438\u0440\u043e\u0432\u0430\u0442\u044c, \u043d\u0430\u043f\u0440\u0430\u0432\u043b\u044f\u0442\u044c, \u0432\u0435\u0441\u0442\u0438, \u043f\u043b\u0430\u043d\u0438\u0440\u043e\u0432\u0430\u0442\u044c, \u0440\u0435\u0433\u0443\u043b\u0438\u0440\u043e\u0432\u0430\u0442\u044c, \u0443\u043f\u0440\u0430\u0432\u043b\u044f\u0442\u044c",
+        "isv_l": "glava, razum; kontrolovati, napravjati, rukovoditi, vesti, planovati, regulovati, upravjati",
+        "isv_c": "\u0433\u043b\u0430\u0432\u0430, \u0440\u0430\u0437\u0443\u043c; \u043a\u043e\u043d\u0442\u0440\u043e\u043b\u043e\u0432\u0430\u0442\u0438, \u043d\u0430\u043f\u0440\u0430\u0432\u0458\u0430\u0442\u0438, \u0440\u0443\u043a\u043e\u0432\u043e\u0434\u0438\u0442\u0438, \u0432\u0435\u0441\u0442\u0438, \u043f\u043b\u0430\u043d\u043e\u0432\u0430\u0442\u0438, \u0440\u0435\u0433\u0443\u043b\u043e\u0432\u0430\u0442\u0438, \u0443\u043f\u0440\u0430\u0432\u0458\u0430\u0442\u0438",
         "eo": "kapo, menso; gvidi, direkti, estri, konduki, posedi, plani, reguligi, regi",
         "de": "Kopf, Verstand, leiten, steuern, planen, besitzen, herrschen, regeln",
         "it": "testa, mente; controllare, dirigere, guidare, condurre, possedere, pianificare, regolare, governare"
@@ -2431,6 +2444,8 @@
         "en": "cloth, clothing, fabric, textile; cover, layer of privacy",
         "pl": "p\u0142\u00f3tno, ubranie, tkanina, materia\u0142; pokrywa, warstwa prywatno\u015bci",
         "ru": "\u043f\u043e\u043b\u043e\u0442\u043d\u043e, \u043e\u0434\u0435\u0436\u0434\u0430, \u0442\u043a\u0430\u043d\u044c, \u0442\u0435\u043a\u0441\u0442\u0438\u043b\u044c; \u043a\u0440\u044b\u0448\u043a\u0430, \u0441\u043b\u043e\u0439 \u043f\u0440\u0438\u0432\u0430\u0442\u043d\u043e\u0441\u0442\u0438",
+        "isv_l": "platno, od\u011bd\u017ea, tkanina, tekstilj; pokrytje, sloj privatnosti",
+        "isv_c": "\u043f\u043b\u0430\u0442\u043d\u043e, \u043e\u0434\u0454\u0434\u0436\u0430, \u0442\u043a\u0430\u043d\u0438\u043d\u0430, \u0442\u0435\u043a\u0441\u0442\u0438\u0459; \u043f\u043e\u043a\u0440\u044b\u0442\u0458\u0435, \u0441\u043b\u043e\u0458 \u043f\u0440\u0438\u0432\u0430\u0442\u043d\u043e\u0441\u0442\u0438",
         "eo": "\u015dtofo, vesta\u0135o, teksa\u0135o; kovra\u0135o, tavolo da privateco",
         "de": "Stoff, Kleidung, Gewebe, Struktur, bedecken, Abdeckung",
         "it": "panno, abbigliamento, tessuto, tessuto; copertura, strato di privacy"
@@ -2583,6 +2598,8 @@
         "en": "long and flexible thing; cord, hair, rope, thread, yarn | ALT line, connection",
         "pl": "rzecz d\u0142uga i elastyczna; sznur, w\u0142osy, lina, ni\u0107, prz\u0119dza | ALT linia, po\u0142\u0105czenie",
         "ru": "\u043d\u0435\u0447\u0442\u043e \u0434\u043b\u0438\u043d\u043d\u043e\u0435 \u0438 \u0433\u0438\u0431\u043a\u043e\u0435; \u0448\u043d\u0443\u0440, \u0432\u043e\u043b\u043e\u0441, \u0432\u0435\u0440\u0435\u0432\u043a\u0430, \u043d\u0438\u0442\u044c, \u043f\u0440\u044f\u0436\u0430 | ALT \u043b\u0438\u043d\u0438\u044f, \u0441\u0432\u044f\u0437\u044c",
+        "isv_l": "n\u011b\u010dto dolgo i fleksibilno; motvuz, vrvka, \u0161nur, vlas, nit, pred\u017ea | ALT linija, svez",
+        "isv_c": "\u043d\u0454\u0447\u0442\u043e \u0434\u043e\u043b\u0433\u043e \u0438 \u0444\u043b\u0435\u043a\u0441\u0438\u0431\u0438\u043b\u043d\u043e; \u043c\u043e\u0442\u0432\u0443\u0437, \u0432\u0440\u0432\u043a\u0430, \u0448\u043d\u0443\u0440, \u0432\u043b\u0430\u0441, \u043d\u0438\u0442, \u043f\u0440\u0435\u0434\u0436\u0430 | ALT \u043b\u0438\u043d\u0438\u0458\u0430, \u0441\u0432\u0435\u0437",
         "eo": "io longa kaj fleksebla; kordo, haro, \u015dnuro, fadeno | ALT linio, konekto",
         "de": "langes, bewegliches Ding; Schnur, Seil, Haar, Faden, Band; Linie, Verbindung",
         "it": "cosa lunga e flessibile; corda, capelli, corda, filo, filato | ALT linea, connessione"
@@ -2684,6 +2701,7 @@
       "commentary": "Coined in response to jan Sonja's survey, as a portmanteau, presumably as a joke.",
       "def": {
         "en": "limb",
+        "pl": "ko\u0144czyna",
         "ru": "\u043a\u043e\u043d\u0435\u0447\u043d\u043e\u0441\u0442\u044c",
         "isv_l": "ruka abo noga",
         "isv_c": "\u0440\u0443\u043a\u0430 \u0430\u0431\u043e \u043d\u043e\u0433\u0430",
@@ -2764,6 +2782,7 @@
       "tags": "pre-pu ALT",
       "def": {
         "en": "located at, present at, real, true, existing | ALT (affirmative response)",
+        "pl": "obecny w / na, rzeczywisty, prawdziwy, istniej\u0105cy | ALT (odpowied\u017a twierdz\u0105ca)",
         "ru": "\u043d\u0430\u0445\u043e\u0434\u044f\u0449\u0438\u0439\u0441\u044f, \u043d\u0430\u0441\u0442\u043e\u044f\u0449\u0438\u0439, \u0441\u0443\u0449\u0435\u0441\u0442\u0432\u0443\u044e\u0449\u0438\u0439, \u0434\u0435\u0439\u0441\u0442\u0432\u0438\u0442\u0435\u043b\u044c\u043d\u044b\u0439 | ALT (\u043f\u043e\u043b\u043e\u0436\u0438\u0442\u0435\u043b\u044c\u043d\u044b\u0439 \u043e\u0442\u0432\u0435\u0442)",
         "eo": "estanta en iu loko, estanta \u0109e, reala, vera, ekzistanta | ALT (konfirma respondo)",
         "de": "in, an, bei, auf, existieren, echt, richtig | (Zustimmung)",
@@ -2826,6 +2845,7 @@
       "tags": "pre-pu ALT",
       "def": {
         "en": "arm, hand, tactile organ; five | ALT touch/feel physically, interact, press",
+        "pl": "r\u0119ka, d\u0142o\u0144, organ dotykowy; pi\u0119\u0107 | ALT dotkn\u0105\u0107/czu\u0107 fizycznie, wej\u015b\u0107 w interakcj\u0119 z(?), nacisn\u0105\u0107",
         "ru": "\u0440\u0443\u043a\u0430, \u043a\u0438\u0441\u0442\u044c, \u0442\u0430\u043a\u0442\u0438\u043b\u044c\u043d\u044b\u0439 \u043e\u0440\u0433\u0430\u043d; \u043f\u044f\u0442\u044c | ALT \u043a\u043e\u0441\u043d\u0443\u0442\u044c\u0441\u044f / \u043f\u043e\u0447\u0443\u0432\u0441\u0442\u0432\u043e\u0432\u0430\u0442\u044c \u0444\u0438\u0437\u0438\u0447\u0435\u0441\u043a\u0438, \u0432\u0437\u0430\u0438\u043c\u043e\u0434\u0435\u0439\u0441\u0442\u0432\u043e\u0432\u0430\u0442\u044c, \u043d\u0430\u0436\u0430\u0442\u044c",
         "eo": "brako, mano, tu\u015dorgano; kvin | ALT tu\u015di, fizike senti, interagi, premi",
         "de": "Arm, Hand, Tastorgan | f\u00fcnf",
@@ -2853,6 +2873,7 @@
       "commentary": "In common usage (both before and after pu), \"lukin\" and \"oko\" are separate words, each with their own meaning. In pu, they are considered synonyms. Those who consider them synonyms typically don't use \"oko\" at all, preferring \"lukin\" in all circumstances. The usage of \"alasa\" as a preverb meaning \"try to\" is more common than \"lukin\". In pu, only \"lukin\" has this meaning.",
       "def": {
         "en": "eye; look at, see, examine, observe, read, watch; look for, seek; (pv.) try to",
+        "pl": "oko; patrze\u0107 na, widzie\u0107, bada\u0107, obserwowa\u0107, czyta\u0107, ogl\u0105da\u0107; szuka\u0107; (pv.) pr\u00f3bowa\u0107",
         "ru": "\u0433\u043b\u0430\u0437; \u0441\u043c\u043e\u0442\u0440\u0435\u0442\u044c, \u0432\u0437\u0433\u043b\u044f\u043d\u0443\u0442\u044c, \u0432\u0438\u0434\u0435\u0442\u044c, \u043e\u0441\u043c\u0430\u0442\u0440\u0438\u0432\u0430\u0442\u044c, \u043d\u0430\u0431\u043b\u044e\u0434\u0430\u0442\u044c, \u0447\u0438\u0442\u0430\u0442\u044c; \u0438\u0441\u043a\u0430\u0442\u044c; (pv.) \u043f\u0440\u043e\u0431\u043e\u0432\u0430\u0442\u044c, \u043f\u044b\u0442\u0430\u0442\u044c\u0441\u044f",
         "eo": "okulo; rigardi, vidi, ekzameni, observi, legi, spekti; ser\u0109i; (a.v.) provi",
         "de": "sehen, schauen, beobachten, Auge, entdecken, lesen, anschauen, suchen | (pv.) versuchen",
@@ -2900,6 +2921,7 @@
       "ku_data": "territory\u2075, country\u2075, land\u2075, realm\u2075, area\u2075, field\u2074, region\u2074, place\u2074, soil\u2074, earth\u2074, province\u2074, zone\u2074, ground\u2074, nation\u2074, environmental\u00b3, environment\u00b3, site\u00b3, location\u00b3, domain\u00b3, world\u00b3, national\u00b3, nature\u00b3, setting\u00b2, landscape\u00b2, continent\u00b2, outdoors\u00b2, habitat\u00b2, dirt\u00b2, sector\u00b2, yard\u00b2, kingdom\u00b2, venue\u00b2, outside\u00b2, acre\u00b2",
       "def": {
         "en": "earth, land; outdoors, world; country, territory; soil",
+        "pl": "ziemia, l\u0105d; plener, \u015bwiat; pa\u0144stwo, terytorium; gleba",
         "ru": "\u0437\u0435\u043c\u043b\u044f; \u043d\u0430\u0445\u043e\u0434\u044f\u0449\u0438\u0439\u0441\u044f \u043d\u0430 \u043e\u0442\u043a\u0440\u044b\u0442\u043e\u043c \u0432\u043e\u0437\u0434\u0443\u0445\u0435, \u043c\u0438\u0440\u043e\u0432\u043e\u0439; \u0441\u0442\u0440\u0430\u043d\u0430, \u0442\u0435\u0440\u0440\u0438\u0442\u043e\u0440\u0438\u044f; \u0433\u0440\u0443\u043d\u0442, \u043f\u043e\u0447\u0432\u0430",
         "eo": "tero, terpeco; eksterdoma sub\u0109iela loko, mondo; lando, \u015dtato, teritorio; tero (substanco)",
         "de": "Erde, Land, Welt, Boden, Grund, Gebiet"
@@ -2952,6 +2974,7 @@
       "ku_data": "parent\u2075, parental\u2075, mama\u2075, mommy\u2074, mom\u2074, creator\u00b3, mother\u00b3, foster\u00b3, originator\u00b3, father\u00b2, daddy\u00b2, founder\u00b2, dad\u00b2",
       "def": {
         "en": "parent, ancestor; creator, originator; caretaker, sustainer",
+        "pl": "rodzic, przodek; tw\u00f3rca, inicjator; opiekun, podtrzymuj\u0105cy",
         "ru": "\u0440\u043e\u0434\u0438\u0442\u0435\u043b\u044c, \u043f\u0440\u0435\u0434\u043e\u043a; \u0441\u043e\u0437\u0434\u0430\u0442\u0435\u043b\u044c; \u0441\u043c\u043e\u0442\u0440\u0438\u0442\u0435\u043b\u044c",
         "isv_l": "roditelj, pr\u011bdok; tvoritelj, tvorec; dbatelj",
         "isv_c": "\u0440\u043e\u0434\u0438\u0442\u0435\u0459, \u043f\u0440\u0454\u0434\u043e\u043a; \u0442\u0432\u043e\u0440\u0438\u0442\u0435\u0459, \u0442\u0432\u043e\u0440\u0435\u0446; \u0434\u0431\u0430\u0442\u0435\u0459",
@@ -2975,6 +2998,7 @@
       "ku_data": "money\u2075, cash\u2075, monetary\u2075, currency\u2075, treasure\u2074, wealth\u2074, worth\u2074, cattle\u2074, dollar\u2074, financial\u2074, funding\u00b3, fiscal\u00b3, wage\u00b3, fee\u00b3, cost\u00b3, valuable\u00b3, pension\u00b2, expense\u00b2, economic\u00b2, fund\u00b2, revenue\u00b2, budget\u00b2, salary\u00b2, credit\u00b2, compensation\u00b2, earnings\u00b2, price\u00b2, value\u00b2, income\u00b2, subsidy\u00b2, profit\u00b2, cow\u00b2, toll\u00b2, payment\u00b2, large domesticated animal\u00b2, wealthy\u00b2",
       "def": {
         "en": "money, cash, savings, wealth; large domesticated animal",
+        "pl": "pieni\u0105dze, kasa, oszcz\u0119dno\u015bci, maj\u0105tek; du\u017ce zwierz\u0119 udomowione",
         "ru": "\u0434\u0435\u043d\u044c\u0433\u0438, \u043d\u0430\u043b\u0438\u0447\u043d\u044b\u0435, \u0441\u0431\u0435\u0440\u0435\u0436\u0435\u043d\u0438\u044f, \u0431\u043e\u0433\u0430\u0442\u0441\u0442\u0432\u043e; \u043a\u0440\u0443\u043f\u043d\u043e\u0435 \u0434\u043e\u043c\u0430\u0448\u043d\u0435\u0435 \u0436\u0438\u0432\u043e\u0442\u043d\u043e\u0435",
         "eo": "mono, ri\u0109a\u0135oj, \u015dpara\u0135o, kontanta mono; bruto, granda dombesto",
         "de": "Geld, Reichtum, gro\u00dfes, domestiziertes Tier",
@@ -3012,9 +3036,10 @@
       "see_also": "mije, tonsi",
       "def": {
         "en": "woman, female, feminine person; wife",
-        "ru": "\u0436\u0435\u043d\u0449\u0438\u043d\u0430, \u0444\u0435\u043c\u0438\u043d\u043d\u0430\u044f \u043b\u0438\u0447\u043d\u043e\u0441\u0442\u044c; \u0436\u0435\u043d\u0430",
-        "isv_l": "\u017eena, \u017eenska osoba; \u017eena (supruga)",
-        "isv_c": "\u0436\u0435\u043d\u0430, \u0436\u0435\u043d\u0441\u043a\u0430 \u043e\u0441\u043e\u0431\u0430; \u0436\u0435\u043d\u0430 (\u0441\u0443\u043f\u0440\u0443\u0433\u0430)",
+        "pl": "kobieta, \u017ce\u0144ska, osoba kobieca; \u017cona",
+        "ru": "\u0436\u0435\u043d\u0449\u0438\u043d\u0430, \u0436\u0435\u043d\u0441\u043a\u0438\u0439, \u0444\u0435\u043c\u0438\u043d\u043d\u0430\u044f \u043b\u0438\u0447\u043d\u043e\u0441\u0442\u044c; \u0436\u0435\u043d\u0430",
+        "isv_l": "\u017eena, \u017eensky, \u017eenska osoba; \u017eena (supruga)",
+        "isv_c": "\u0436\u0435\u043d\u0430, \u0436\u0435\u043d\u0441\u043a\u044b, \u0436\u0435\u043d\u0441\u043a\u0430 \u043e\u0441\u043e\u0431\u0430; \u0436\u0435\u043d\u0430 (\u0441\u0443\u043f\u0440\u0443\u0433\u0430)",
         "eo": "virino, inseksulo, ino; edzino",
         "de": "Frau, weiblich, feminine Person; Ehefrau",
         "it": "donna, femmina, persona femminile; moglie"
@@ -3122,9 +3147,10 @@
       "see_also": "meli, tonsi",
       "def": {
         "en": "man, male, masculine person; husband",
-        "ru": "\u043c\u0443\u0436\u0447\u0438\u043d\u0430, \u043c\u0430\u0441\u043a\u0443\u043b\u0438\u043d\u043d\u0430\u044f \u043b\u0438\u0447\u043d\u043e\u0441\u0442\u044c; \u043c\u0443\u0436",
-        "isv_l": "mu\u017e, mu\u017eska osoba; mu\u017e (suprug)",
-        "isv_c": "\u043c\u0443\u0436, \u043c\u0443\u0436\u0441\u043a\u0430 \u043e\u0441\u043e\u0431\u0430; \u043c\u0443\u0436 (\u0441\u0443\u043f\u0440\u0443\u0433)",
+        "pl": "m\u0119\u017cczyzna, m\u0119ski, osoba m\u0119ska; m\u0105\u017c",
+        "ru": "\u043c\u0443\u0436\u0447\u0438\u043d\u0430, \u043c\u0443\u0436\u0441\u043a\u043e\u0439, \u043c\u0430\u0441\u043a\u0443\u043b\u0438\u043d\u043d\u0430\u044f \u043b\u0438\u0447\u043d\u043e\u0441\u0442\u044c; \u043c\u0443\u0436",
+        "isv_l": "mu\u017e, mu\u017esky, mu\u017eska osoba; mu\u017e (suprug)",
+        "isv_c": "\u043c\u0443\u0436, \u043c\u0443\u0436\u0441\u043a\u044b, \u043c\u0443\u0436\u0441\u043a\u0430 \u043e\u0441\u043e\u0431\u0430; \u043c\u0443\u0436 (\u0441\u0443\u043f\u0440\u0443\u0433)",
         "eo": "viro, virseksulo, i\u0109o; edzo",
         "de": "Mann, m\u00e4nnlich, maskuline Person; Ehemann",
         "it": "uomo, maschio, persona maschile; marito"
@@ -3237,6 +3263,7 @@
       "ku_data": "food\u2075, eat\u2075, eating\u2075, consume\u2075, dining\u2075, meal\u2075, consumption\u2075, swallow\u2074, dinner\u00b3, nutrition\u00b3, drinking\u00b3, chew\u00b3, groceries\u00b3, absorb\u00b2, drink\u00b2, lunch\u00b2",
       "def": {
         "en": "to eat, drink, consume, swallow, ingest",
+        "pl": "je\u015b\u0107, pi\u0107, spo\u017cywa\u0107, po\u0142yka\u0107",
         "ru": "\u0435\u0441\u0442\u044c, \u043f\u0438\u0442\u044c, \u0443\u043f\u043e\u0442\u0440\u0435\u0431\u043b\u044f\u0442\u044c, \u0433\u043b\u043e\u0442\u0430\u0442\u044c",
         "isv_l": "jedati, piti, spotr\u011bbovati, goltati",
         "isv_c": "\u0458\u0435\u0434\u0430\u0442\u0438, \u043f\u0438\u0442\u0438, \u0441\u043f\u043e\u0442\u0440\u0454\u0431\u043e\u0432\u0430\u0442\u0438, \u0433\u043e\u043b\u0442\u0430\u0442\u0438",
@@ -3304,6 +3331,7 @@
       "ku_data": "butt\u2075, back (anatomy)\u2074, ass\u2074, behind\u00b2",
       "def": {
         "en": "back, behind, rear",
+        "pl": "plecy, ty\u0142",
         "ru": "\u0437\u0430\u0434\u043d\u044f\u044f \u0447\u0430\u0441\u0442\u044c, \u0441\u043f\u0438\u043d\u0430, \u0442\u044b\u043b",
         "isv_l": "hrebet, zad, tyl",
         "isv_c": "\u0445\u0440\u0435\u0431\u0435\u0442, \u0437\u0430\u0434, \u0442\u044b\u043b",
@@ -3360,6 +3388,7 @@
       "ku_data": "woof\u2075, meow\u2075, animal vocalization\u2075, ribbit\u2075, purr\u2075, neigh\u2075, cock-a-doodle-doo\u00b3",
       "def": {
         "en": "(animal noise or communication) | ALT (non-speech vocalization)",
+        "pl": "(zwierz\u0119cy d\u017awi\u0119k lub komunikacja) | ALT (wokalizacja nieb\u0119d\u0105ca mow\u0105)",
         "ru": "(\u0437\u0432\u0443\u043a, \u0438\u0437\u0434\u0430\u0432\u0430\u0435\u043c\u044b\u0439 \u0436\u0438\u0432\u043e\u0442\u043d\u044b\u043c, \u0438\u043b\u0438 \u043e\u0431\u0449\u0435\u043d\u0438\u0435 \u0436\u0438\u0432\u043e\u0442\u043d\u044b\u0445) | ALT (\u043d\u0435\u0440\u0435\u0447\u0435\u0432\u0430\u044f \u0432\u043e\u043a\u0430\u043b\u0438\u0437\u0430\u0446\u0438\u044f) ",
         "eo": "(besta sono a\u016d komunika\u0135o) | ALT (neparola vo\u0109a sono)",
         "de": "(Tierger\u00e4usch oder -kommunikation) | ALT (nichtsprachlicher Ausruf)"
@@ -3413,6 +3442,7 @@
       "see_also": "suno",
       "def": {
         "en": "moon, night sky object, star | ALT glow, glowing light, light in the dark",
+        "pl": "ksi\u0119\u017cyc, obiekt w niebie nocnym, gwiazda | ALT blask, \u015bwiat\u0142o w ciemno\u015bci",
         "ru": "\u043b\u0443\u043d\u0430, \u043e\u0431\u044a\u0435\u043a\u0442 \u043d\u043e\u0447\u043d\u043e\u0433\u043e \u043d\u0435\u0431\u0430, \u0437\u0432\u0435\u0437\u0434\u0430 | ALT \u0441\u0432\u0435\u0447\u0435\u043d\u0438\u0435, \u0441\u0432\u0435\u0442\u044f\u0449\u0438\u0439\u0441\u044f \u043e\u0433\u043e\u043d\u044c, \u0441\u0432\u0435\u0442 \u0432 \u0442\u0435\u043c\u043d\u043e\u0442\u0435",
         "eo": "luno, nokta \u0109iela objekto, stelo | ALT lumi, lumineska lumo, lumo en mallumo",
         "de": "Mond, Objekt im Nachthimmel, Stern | ALT gl\u00fchen, gl\u00fchendes Licht, Licht im Dunkeln"
@@ -3434,6 +3464,7 @@
       "ku_data": "entertainment\u2075, fun\u2075, funny\u2075, play\u2075, game\u2075, comedy\u2075, art\u00b3, artistic\u00b3, fascinating\u00b2, humour\u00b2, interesting\u00b2, irony\u00b2, sport\u00b2, enjoy\u00b2, creative\u00b2, playoffs\u00b2",
       "def": {
         "en": "artistic, entertaining, frivolous, playful, recreation",
+        "pl": "artystyczny, zabawny, frywolny, figlarny, rozrywka",
         "ru": "\u0445\u0443\u0434\u043e\u0436\u0435\u0441\u0442\u0432\u0435\u043d\u043d\u044b\u0439, \u0440\u0430\u0437\u0432\u043b\u0435\u043a\u0430\u0442\u0435\u043b\u044c\u043d\u044b\u0439, \u0444\u0440\u0438\u0432\u043e\u043b\u044c\u043d\u044b\u0439, \u0438\u0433\u0440\u0438\u0432\u044b\u0439, \u0440\u0430\u0437\u0432\u043b\u0435\u0447\u0435\u043d\u0438\u0435",
         "eo": "arta, amuza, frivola, ludeca, rilata al amuzi\u011do",
         "de": "k\u00fcnstlerisch, unterhaltsam, frivol, spielerisch, am\u00fcsant; Kunst, Spa\u00df, Musik, Spiel; spielen"
@@ -3456,6 +3487,7 @@
       "tags": "nimi nanpa",
       "def": {
         "en": "many, a lot, more, much, several, very; quantity | ALT three (or more), 20",
+        "pl": "du\u017co, wiele, wi\u0119cej, kilka, bardzo; ilo\u015b\u0107 | ALT trzy (lub wi\u0119cej), 20",
         "ru": "\u043c\u043d\u043e\u0433\u043e, \u0435\u0449\u0451, \u043d\u0435\u0441\u043a\u043e\u043b\u044c\u043a\u043e, \u043e\u0447\u0435\u043d\u044c; \u043a\u043e\u043b\u0438\u0447\u0435\u0441\u0442\u0432\u043e | ALT \u0442\u0440\u0438 (\u0438 \u0431\u043e\u043b\u0435\u0435), 20",
         "eo": "multaj, multe, pluraj, tre; kvanto | ALT tri (a\u016d pli); 20",
         "de": "viele, einige, mehrere, sehr, mehr; Quantit\u00e4t, Menge | ALT drei (oder mehr); 20"
@@ -3532,6 +3564,7 @@
       "ku_data": "number\u2075, count\u2074, score\u00b3, rating\u00b3, rank\u00b3, measurement\u00b3, ranking\u00b3, statistical\u00b3, quantity\u00b2, calculate\u00b2, grade\u00b2, percentage\u00b2, edition\u00b2, percent\u00b2, statistics\u00b2, version\u00b2",
       "def": {
         "en": "-th (ordinal number); numbers",
+        "pl": "-ty (liczba porz\u0105dkowa); liczby",
         "ru": "(\u043f\u043e\u0440\u044f\u0434\u043a\u043e\u0432\u043e\u0435 \u0447\u0438\u0441\u043b\u0438\u0442\u0435\u043b\u044c\u043d\u043e\u0435); \u0447\u0438\u0441\u043b\u043e",
         "isv_l": "(ordinalny \u010dislovnik); nomer, \u010dislo, broj",
         "isv_c": "(\u043e\u0440\u0434\u0438\u043d\u0430\u043b\u043d\u044b \u0447\u0438\u0441\u043b\u043e\u0432\u043d\u0438\u043a); \u043d\u043e\u043c\u0435\u0440, \u0447\u0438\u0441\u043b\u043e, \u0431\u0440\u043e\u0458",
@@ -3555,6 +3588,7 @@
       "ku_data": "weird\u2075, unusual\u2075, strange\u2075, odd\u2075, drunk\u2074, silly\u00b3, wild\u00b3, ridiculous\u00b2, psychoactive\u00b2, nonsense\u00b2, confuse\u00b2, suspicious\u00b2",
       "def": {
         "en": "unusual, strange; silly; drunk, intoxicated",
+        "pl": "niezwyk\u0142y, dziwny; g\u0142upkowaty; pijany, odurzony",
         "ru": "\u043d\u0435\u043e\u0431\u044b\u0447\u043d\u044b\u0439, \u0441\u0442\u0440\u0430\u043d\u043d\u044b\u0439; \u043d\u0435\u043b\u0435\u043f\u044b\u0439; \u043f\u044c\u044f\u043d\u044b\u0439, \u043e\u0434\u0443\u0440\u043c\u0430\u043d\u0435\u043d\u043d\u044b\u0439",
         "isv_l": "neoby\u010dny, divny, stranny; nemudry; pijany, netr\u011bzvy",
         "isv_c": "\u043d\u0435\u043e\u0431\u044b\u0447\u043d\u044b, \u0434\u0438\u0432\u043d\u044b, \u0441\u0442\u0440\u0430\u043d\u043d\u044b; \u043d\u0435\u043c\u0443\u0434\u0440\u044b; \u043f\u0438\u0458\u0430\u043d\u044b, \u043d\u0435\u0442\u0440\u0454\u0437\u0432\u044b",
@@ -3578,6 +3612,7 @@
       "ku_data": "road\u2075, way\u2075, doctrine\u2075, method\u2075, path\u2075, avenue\u2074, manner\u2074, route\u2074, direction\u2074, street\u2074, trail\u2074, orientation\u2074, mode\u2074, technique\u2074, system\u00b3, layout\u00b3, course\u00b3, passage\u00b3, process\u00b3, track\u00b3, format\u00b3, ideology\u00b3, tactic\u00b3, custom\u00b3, aisle\u00b3, journey\u00b3, lane\u00b3, norm\u00b2, guideline\u00b2, style\u00b2, regular\u00b2, procedure\u00b2, protocol\u00b2, order\u00b2, plan\u00b2, channel\u00b2, routine\u00b2, strategy\u00b2, pattern\u00b2, theme\u00b2, composition\u00b2, policy\u00b2, angle\u00b2, tendency\u00b2",
       "def": {
         "en": "way, custom, doctrine, method, path, road",
+        "pl": "spos\u00f3b, obyczaj, doktryna, metoda, \u015bcie\u017cka, droga",
         "ru": "\u0441\u043f\u043e\u0441\u043e\u0431, \u043e\u0431\u044b\u0447\u0430\u0439, \u0434\u043e\u043a\u0442\u0440\u0438\u043d\u0430, \u043c\u0435\u0442\u043e\u0434, \u043f\u0443\u0442\u044c, \u0434\u043e\u0440\u043e\u0433\u0430",
         "eo": "maniero, kutimo, doktrino, metodo, vojo, irejo",
         "de": "Weg, Br\u00e4uche, Lehre, Doktrin, Methode, Pfad, Stra\u00dfe"
@@ -3672,6 +3707,7 @@
       "see_also": "kapa",
       "def": {
         "en": "bump, button, hill, mountain, nose, protuberance",
+        "pl": "wybrzuszenie, przycisk, pag\u00f3rek, g\u00f3ra, nos, wypuk\u0142o\u015b\u0107",
         "ru": "\u0432\u044b\u043f\u0443\u043a\u043b\u043e\u0441\u0442\u044c, \u043a\u043d\u043e\u043f\u043a\u0430, \u0445\u043e\u043b\u043c, \u0433\u043e\u0440\u0430, \u043d\u043e\u0441, \u0432\u044b\u0441\u0442\u0443\u043f",
         "isv_l": "izpuklost, knopka, gora, gorka, nos, izsunutje",
         "isv_c": "\u0438\u0437\u043f\u0443\u043a\u043b\u043e\u0441\u0442, \u043a\u043d\u043e\u043f\u043a\u0430, \u0433\u043e\u0440\u0430, \u0433\u043e\u0440\u043a\u0430, \u043d\u043e\u0441, \u0438\u0437\u0441\u0443\u043d\u0443\u0442\u0458\u0435",
@@ -3721,6 +3757,7 @@
       "ku_data": "word\u2075, name\u2075, term\u00b3, title\u00b3, lyrics\u00b2, label\u00b2, brand\u00b2, so-called\u00b2",
       "def": {
         "en": "name, word",
+        "pl": "imi\u0119, s\u0142owo",
         "ru": "\u0438\u043c\u044f, \u0441\u043b\u043e\u0432\u043e",
         "isv_l": "ime, slovo",
         "isv_c": "\u0438\u043c\u0435, \u0441\u043b\u043e\u0432\u043e",
@@ -3765,6 +3802,7 @@
       "commentary": "In a poll in 2002, \"jalan\" was proposed as a replacement for \"noka\". However, \"jalan\" failed to get enough votes. In pu, \"noka\" has the meaning of \"place that is down\". In common usage (both before and after pu), \"anpa\" has that meaning instead.",
       "def": {
         "en": "foot, leg, organ of locomotion; bottom, lower part | ALT ten; twenty; negative five",
+        "pl": "noga, stopa, organ lokomocyjny; d\u00f3\u0142, cz\u0119\u015b\u0107 dolna | ALT dziesi\u0119\u0107, dwadzie\u015bcia; minus pi\u0119\u0107",
         "ru": "\u0441\u0442\u0443\u043f\u043d\u044f, \u043d\u043e\u0433\u0430, \u043e\u0440\u0433\u0430\u043d \u043f\u0435\u0440\u0435\u0434\u0432\u0438\u0436\u0435\u043d\u0438\u044f; \u043d\u0438\u0437, \u043d\u0438\u0436\u043d\u044f\u044f \u0447\u0430\u0441\u0442\u044c | ALT \u0434\u0435\u0441\u044f\u0442\u044c; \u0434\u0432\u0430\u0434\u0446\u0430\u0442\u044c; \u043c\u0438\u043d\u0443\u0441 \u043f\u044f\u0442\u044c",
         "eo": "piedo, kruro, movi\u011da organo; malsupro, malsupra parto | ALT dek; dudek; minus kvin",
         "de": "Fu\u00df, Bein, Fortbewegungsorgan; Unterteil, unten | ALT zehn; zwanzig; minus f\u00fcnf"
@@ -3890,6 +3928,7 @@
       "see_also": "li",
       "def": {
         "en": "hey! O! (vocative, imperative, or optative)",
+        "pl": "hej! o! (wo\u0142acz, tryb rozkazuj\u0105cy lub \u017cycz\u0105cy)",
         "ru": "\u044d\u0439! (\u0437\u0432\u0430\u0442\u0435\u043b\u044c\u043d\u044b\u0439, \u043f\u043e\u0432\u0435\u043b\u0438\u0442\u0435\u043b\u044c\u043d\u044b\u0439 \u0438\u043b\u0438 \u0436\u0435\u043b\u0430\u0442\u0435\u043b\u044c\u043d\u044b\u0439)",
         "eo": "he! (vokativo, imperativo, a\u016d volitivo)",
         "de": "He! Hey! O! (Anrede, Befehl oder Wunsch)",
@@ -4006,6 +4045,7 @@
       "ku_data": "loving\u2075, love\u2075, romance\u2074, romantic\u00b3, compassion\u00b3, attraction\u00b2, intimate\u00b2, passion\u00b2, beloved\u00b2, loyalty\u00b2, loyal\u00b9, faithful\u00b9, dear\u00b9, mercy\u00b9, darling\u00b9, passionate\u00b9, care\u00b9, appreciation\u00b9, crush\u00b9, respect\u00b9",
       "def": {
         "en": "love, have compassion for, respect, show affection to",
+        "pl": "kocha\u0107, mie\u0107 wsp\u00f3\u0142czucie, szanowa\u0107, ukazywa\u0107 uczucie",
         "ru": "\u043b\u044e\u0431\u0438\u0442\u044c, \u0441\u043e\u0441\u0442\u0440\u0430\u0434\u0430\u0442\u044c, \u0443\u0432\u0430\u0436\u0430\u0442\u044c, \u043f\u0440\u043e\u044f\u0432\u043b\u044f\u0442\u044c \u043f\u0440\u0438\u0432\u044f\u0437\u0430\u043d\u043d\u043e\u0441\u0442\u044c \u043a",
         "isv_l": "ljubiti, milovati, pova\u017eati, so\u010duvstvovati",
         "isv_c": "\u0459\u0443\u0431\u0438\u0442\u0438, \u043c\u0438\u043b\u043e\u0432\u0430\u0442\u0438, \u043f\u043e\u0432\u0430\u0436\u0430\u0442\u0438, \u0441\u043e\u0447\u0443\u0432\u0441\u0442\u0432\u043e\u0432\u0430\u0442\u0438",
@@ -4132,6 +4172,7 @@
       "commentary": "Some proficient speakers use open as a preverb that means \"to start,\" that goes along with the complimentary pini preverb \"to stop\"",
       "def": {
         "en": "begin, start; open; turn on",
+        "pl": "rozpocz\u0105\u0107, zacz\u0105\u0107; otworzy\u0107; w\u0142\u0105czy\u0107",
         "ru": "\u043d\u0430\u0447\u0430\u0442\u044c; \u043e\u0442\u043a\u0440\u044b\u0442\u044c; \u0432\u043a\u043b\u044e\u0447\u0438\u0442\u044c, \u0437\u0430\u043f\u0443\u0441\u0442\u0438\u0442\u044c",
         "isv_l": "po\u010deti, na\u010deti (se); odkryti, otvoriti; vklju\u010diti",
         "isv_c": "\u043f\u043e\u0447\u0435\u0442\u0438, \u043d\u0430\u0447\u0435\u0442\u0438 (\u0441\u0435); \u043e\u0434\u043a\u0440\u044b\u0442\u0438, \u043e\u0442\u0432\u043e\u0440\u0438\u0442\u0438; \u0432\u043a\u0459\u0443\u0447\u0438\u0442\u0438",
@@ -4201,6 +4242,7 @@
       "tags": "pre-pu ALT",
       "def": {
         "en": "botched, broken, damaged, harmed, messed up | ALT (curse expletive, e.g. fuck!)",
+        "pl": "spartaczone, zepsute, uszkodzone, skaleczone, popsute | ALT (przekle\u0144stwo, np. kurwa!)",
         "ru": "\u0438\u0441\u043f\u043e\u0440\u0447\u0435\u043d\u043d\u044b\u0439, \u0441\u043b\u043e\u043c\u0430\u043d\u043d\u044b\u0439, \u043f\u043e\u0432\u0440\u0435\u0436\u0434\u0451\u043d\u043d\u044b\u0439 | ALT (\u0440\u0443\u0433\u0430\u0442\u0435\u043b\u044c\u0441\u0442\u0432\u043e, \u043d\u0430\u043f\u0440\u0438\u043c\u0435\u0440 \"\u0447\u0451\u0440\u0442!\")",
         "eo": "fu\u015dita, rompita, dama\u011dita, difektita | ALT (sakra\u0135o, ekz. fek!, damne!)",
         "de": "kaputt, vermasselt, besch\u00e4digt, zerst\u00f6rt, defekt; zerbrechen | ALT (Kraftausdruck, z.B. Mist!)"
@@ -4251,6 +4293,7 @@
       "ku_data": "work\u2075, do\u2075, construct\u2075, make\u2075, produce\u2075, activity\u2075, job\u2075, build\u2075, production\u2075, labour\u2075, working\u2075, action\u2075, task\u2075, create\u2075, function\u2075, occupation\u2075, operating\u2074, project\u2074, execute\u2074, craft\u2074, manufacturing\u2074, develop\u00b3, generate\u00b3, compose\u00b3, assemble\u00b3, act\u00b3, profession\u00b3, assignment\u00b3, commit\u00b3, perform\u00b3, enact\u00b3, operation\u00b3, creation\u00b3, effort\u00b3, service\u00b3, accomplish\u00b3, implement\u00b3, operate\u00b3, implementation\u00b3, behaviour\u00b3, processing\u00b3, behave\u00b3, career\u00b3, actively\u00b2, employment\u00b2, practice\u00b2, development\u00b2, execution\u00b2, invent\u00b2, industry\u00b2, role\u00b2, procedure\u00b2, functional\u00b2, construction\u00b2, achieve\u00b2, prepare\u00b2, interact\u00b2, undergo\u00b2, accomplishment\u00b2, undertake\u00b2, busy\u00b2, behavioural\u00b2, productive\u00b2, industrial\u00b2, plan\u00b2, participation\u00b2, manipulate\u00b2",
       "def": {
         "en": "do, take action on, work on; build, make, prepare",
+        "pl": "robi\u0107, podejmowa\u0107 dzia\u0142ania, pracowa\u0107 nad; budowa\u0107, tworzy\u0107, przygotowywa\u0107",
         "ru": "\u0434\u0435\u043b\u0430\u0442\u044c, \u0434\u0435\u0439\u0441\u0442\u0432\u043e\u0432\u0430\u0442\u044c, \u0440\u0430\u0431\u043e\u0442\u0430\u0442\u044c; \u0441\u0442\u0440\u043e\u0438\u0442\u044c, \u0441\u043e\u0437\u0434\u0430\u0432\u0430\u0442\u044c, \u0433\u043e\u0442\u043e\u0432\u0438\u0442\u044c",
         "isv_l": "d\u011blati, rabiti, d\u011bjati; budovati, stvarjati, gotoviti",
         "isv_c": "\u0434\u0454\u043b\u0430\u0442\u0438, \u0440\u0430\u0431\u0438\u0442\u0438, \u0434\u0454\u0458\u0430\u0442\u0438; \u0431\u0443\u0434\u043e\u0432\u0430\u0442\u0438, \u0441\u0442\u0432\u0430\u0440\u0458\u0430\u0442\u0438, \u0433\u043e\u0442\u043e\u0432\u0438\u0442\u0438",
@@ -4274,6 +4317,7 @@
       "ku_data": "stick\u2075, rod\u2075, stake\u2074, pole\u2074, branch\u00b3, staff\u00b3, straight\u00b2, bar\u00b2, stem\u00b9, beam\u00b9",
       "def": {
         "en": "long hard thing; branch, rod, stick",
+        "pl": "rzecz d\u0142uga i twarda; ga\u0142\u0105\u017a, kijek, patyk",
         "ru": "\u0434\u043b\u0438\u043d\u043d\u044b\u0439 \u0436\u0451\u0441\u0442\u043a\u0438\u0439 \u043f\u0440\u0435\u0434\u043c\u0435\u0442; \u0432\u0435\u0442\u043a\u0430, \u0441\u0442\u0435\u0440\u0436\u0435\u043d\u044c, \u043f\u0430\u043b\u043a\u0430",
         "eo": "io longa kaj malmola; bran\u0109o, stango, bastono",
         "de": "langes hartes Ding; Stock, Ast, Stab"
@@ -4298,6 +4342,7 @@
       },
       "def": {
         "en": "cereal, grain; barley, corn, oat, rice, wheat; bread, pasta",
+        "pl": "zbo\u017ce; j\u0119czmie\u0144, kukurydza, owies, ry\u017c, pszenica; chleb, makaron",
         "ru": "\u043a\u0440\u0443\u043f\u0430, \u0437\u0435\u0440\u043d\u043e; \u044f\u0447\u043c\u0435\u043d\u044c, \u043a\u0443\u043a\u0443\u0440\u0443\u0437\u0430, \u043e\u0432\u0435\u0441, \u0440\u0438\u0441, \u043f\u0448\u0435\u043d\u0438\u0446\u0430; \u0445\u043b\u0435\u0431, \u043c\u0430\u043a\u0430\u0440\u043e\u043d\u044b",
         "eo": "greno, cerealo; aveno, hordeo, maizo, rizo, tritiko; pano, pasta\u0135o",
         "de": "Getreide; Gerste, Hafer, Mais, Reis, Weizen; Brot, Nudeln"
@@ -4319,6 +4364,7 @@
       "ku_data": "give\u2075, put\u2075, deliver\u2075, grant\u2075, delivery\u2075, send\u2074, submit\u2074, provide\u2074, transfer\u2074, distribute\u2074, distribution\u00b3, donate\u00b3, appoint\u00b3, contribute\u00b3, output\u00b3, given\u00b3, publishing\u00b3, yield\u00b3, share\u00b3, offering\u00b3, assign\u00b3, deploy\u00b3, deposit\u00b3, convey\u00b3, offer\u00b2, input\u00b2, emission\u00b2, lend\u00b2, supply\u00b2, release\u00b2, pour\u00b2, publish\u00b2, provision\u00b2, gift\u00b2, export\u00b2, shared\u00b2, serve\u00b2, spend\u00b2, spread\u00b2, attach\u00b2, administer\u00b2, devote\u00b2, serving\u00b2, donation\u00b2, contribution\u00b2, added\u00b2, post\u00b2, toss\u00b2, apply\u00b2, transmission\u00b2, present\u00b2, bring\u00b2, add\u00b2, install\u00b2, show\u00b2, introduce\u00b2, dedicate\u00b2, exhibit\u00b2, insert\u00b2",
       "def": {
         "en": "give, send, emit, provide, put, release",
+        "pl": "da\u0107, wys\u0142a\u0107, wydzieli\u0107, dostarczy\u0107, po\u0142o\u017cy\u0107, uwolni\u0107",
         "ru": "\u0434\u0430\u0442\u044c, \u043e\u0442\u043f\u0440\u0430\u0432\u0438\u0442\u044c, \u0438\u0441\u043f\u0443\u0441\u0442\u0438\u0442\u044c, \u043f\u0440\u0435\u0434\u043e\u0441\u0442\u0430\u0432\u0438\u0442\u044c, \u043f\u043e\u0441\u0442\u0430\u0432\u0438\u0442\u044c, \u043f\u043e\u043b\u043e\u0436\u0438\u0442\u044c, \u0432\u044b\u043f\u0443\u0441\u0442\u0438\u0442\u044c",
         "isv_l": "dati, poslati, dostavjati, klasti, polo\u017eiti, staviti, izpustiti",
         "isv_c": "\u0434\u0430\u0442\u0438, \u043f\u043e\u0441\u043b\u0430\u0442\u0438, \u0434\u043e\u0441\u0442\u0430\u0432\u0458\u0430\u0442\u0438, \u043a\u043b\u0430\u0441\u0442\u0438, \u043f\u043e\u043b\u043e\u0436\u0438\u0442\u0438, \u0441\u0442\u0430\u0432\u0438\u0442\u0438, \u0438\u0437\u043f\u0443\u0441\u0442\u0438\u0442\u0438",
@@ -4486,6 +4532,7 @@
       "commentary": "The usage of \"pi\" to mean \"of\" (marking a possessor) is heavily discouraged nowadays, preferring it to only be used for regrouping within phrases.",
       "def": {
         "en": "of (used to divide a second noun group that describes a first noun group) | ALT (introduces a genitive noun)",
+        "pl": "(oddziela drug\u0105 grup\u0119 rzeczownik\u00f3w, kt\u00f3ra opisuje pierwsz\u0105 grup\u0119 rzeczownik\u00f3w) | ALT (wprowadza dope\u0142niacz)",
         "ru": "(\u0438\u0441\u043f\u043e\u043b\u044c\u0437\u0443\u0435\u0442\u0441\u044f \u0434\u043b\u044f \u043e\u0442\u0434\u0435\u043b\u0435\u043d\u0438\u044f \u0432\u0442\u043e\u0440\u043e\u0439 \u0433\u0440\u0443\u043f\u043f\u044b \u0441\u0443\u0449\u0435\u0441\u0442\u0432\u0438\u0442\u0435\u043b\u044c\u043d\u044b\u0445, \u043e\u043f\u0438\u0441\u044b\u0432\u0430\u044e\u0449\u0435\u0439 \u043f\u0435\u0440\u0432\u0443\u044e \u0433\u0440\u0443\u043f\u043f\u0443 \u0441\u0443\u0449\u0435\u0441\u0442\u0432\u0438\u0442\u0435\u043b\u044c\u043d\u044b\u0445) | ALT (\u0432\u0432\u043e\u0434\u0438\u0442 \u0440\u043e\u0434\u0438\u0442\u0435\u043b\u044c\u043d\u043e\u0435 \u0441\u0443\u0449\u0435\u0441\u0442\u0432\u0438\u0442\u0435\u043b\u044c\u043d\u043e\u0435)",
         "eo": "de (uzata por dividi duan substantivan grupon, kiu priskribas la duan substantivan grupon) | ALT (enkondukas genitivan substantivon)",
         "de": "(trennt eine zweite Wortgruppe ab, die die erste Wortgruppe beschreibt) | ALT (f\u00fchrt ein Wort im Genetiv ein)"
@@ -4523,6 +4570,7 @@
       "ku_data": "feeling\u2075, emotion\u2075, feel\u2075, sentiment\u2075, mood\u2074, emotionally\u2074, heart\u2074, sense\u2074, attitude\u2074, emotional\u2074, opinion\u00b3, notion\u00b3, assume\u00b3, impression\u00b3, hypothesis\u00b3, perceive\u00b3, deem\u00b3, thinking\u00b2, believe\u00b2, assumption\u00b2, thought\u00b2, speculation\u00b2, conscience\u00b2, suppose\u00b2, experience\u00b2, stimulus\u00b2, reaction\u00b2, suspicion\u00b2, belief\u00b2, perception\u00b2, touch\u00b2, idea\u00b2, estimated\u00b2, consider\u00b2, outlook\u00b2, think\u00b2, mentally\u00b2",
       "def": {
         "en": "heart (physical or emotional); feeling (an emotion, a direct experience)",
+        "pl": "serce (fizycznie lub emocjonalnie); uczucie, wra\u017cenie, doznanie",
         "ru": "\u0441\u0435\u0440\u0434\u0446\u0435 (\u0444\u0438\u0437\u0438\u0447\u0435\u0441\u043a\u043e\u0435 \u0438\u043b\u0438 \u044d\u043c\u043e\u0446\u0438\u043e\u043d\u0430\u043b\u044c\u043d\u043e\u0435); \u0447\u0443\u0432\u0441\u0442\u0432\u043e (\u044d\u043c\u043e\u0446\u0438\u044f, \u043f\u0440\u044f\u043c\u043e\u0439 \u043e\u043f\u044b\u0442)",
         "eo": "koro (fizika a\u016d emocia); senti (emocion, rektan sperton)",
         "de": "Herz (k\u00f6rperlich oder emotional); Gef\u00fchl (eine Emotion oder eine direkte Erfahrung), f\u00fchlen",
@@ -4545,6 +4593,7 @@
       "ku_data": "dark\u2075, black\u2075, darkness\u2075, shadow\u00b3, shade\u00b3",
       "def": {
         "en": "black, dark, unlit",
+        "pl": "czarny, ciemny, nieo\u015bwietlony",
         "ru": "\u0447\u0435\u0440\u043d\u044b\u0439, \u0442\u0435\u043c\u043d\u044b\u0439, \u043d\u0435\u043e\u0441\u0432\u0435\u0449\u0435\u043d\u043d\u044b\u0439",
         "isv_l": "\u010drny, temny, mra\u010dny, neobsv\u011btljeny",
         "isv_c": "\u0447\u0440\u043d\u044b, \u0442\u0435\u043c\u043d\u044b, \u043c\u0440\u0430\u0447\u043d\u044b, \u043d\u0435\u043e\u0431\u0441\u0432\u0454\u0442\u0459\u0435\u043d\u044b",
@@ -4592,6 +4641,7 @@
       "commentary": "Some proficient speakers use pini as a preverb that means \"to stop,\" that goes along with the complimentary open preverb \"to start\"",
       "def": {
         "en": "ago, completed, ended, finished, past",
+        "pl": "(jaki\u015b czas) temu, zako\u0144czony, sko\u0144czony, przesz\u0142y",
         "ru": "\u0442\u043e\u043c\u0443 \u043d\u0430\u0437\u0430\u0434, \u0437\u0430\u0432\u0435\u0440\u0448\u0435\u043d\u043d\u044b\u0439, \u043e\u043a\u043e\u043d\u0447\u0435\u043d\u043d\u044b\u0439, \u0437\u0430\u0432\u0435\u0440\u0448\u0435\u043d\u043d\u044b\u0439, \u043f\u0440\u043e\u0448\u043b\u044b\u0439",
         "eo": "anta\u016da, finfarita, finita, fini\u011dinta, pasinta",
         "de": "her, abgeschlossen, beendet, fertig, vergangen; Ende"
@@ -4613,6 +4663,7 @@
       "ku_data": "bug\u2075, insect\u2075, spider\u00b3",
       "def": {
         "en": "bug, insect, ant, spider",
+        "pl": "robak, insekt, mr\u00f3wka, paj\u0105k",
         "ru": "\u043d\u0430\u0441\u0435\u043a\u043e\u043c\u043e\u0435, \u0436\u0443\u043a, \u043c\u0443\u0440\u0430\u0432\u0435\u0439, \u043f\u0430\u0443\u043a",
         "isv_l": "\u017euk, insekt, \u0161estino\u017eka, mravka, pavuk",
         "isv_c": "\u0436\u0443\u043a, \u0438\u043d\u0441\u0435\u043a\u0442, \u0448\u0435\u0441\u0442\u0438\u043d\u043e\u0436\u043a\u0430, \u043c\u0440\u0430\u0432\u043a\u0430, \u043f\u0430\u0432\u0443\u043a",
@@ -6043,6 +6094,7 @@
       },
       "def": {
         "en": "amaze people by being on the top of the leaderboard of a toki pona game",
+        "pl": "zadziwi\u0107 ludzi przez znajdowanie si\u0119 na szczycie tabeli wynik\u00f3w gry tokipo\u0144skiej",
         "ru": "\u0438\u0437\u0443\u043c\u043b\u044f\u0442\u044c \u043b\u044e\u0434\u0435\u0439, \u043b\u0438\u0434\u0438\u0440\u0443\u044f \u0432 \u0441\u043f\u0438\u0441\u043a\u0435 \u0438\u0433\u0440\u043e\u043a\u043e\u0432 \u0432 \u0438\u0433\u0440\u0435 \u043d\u0430 \u0442\u043e\u043a\u0438 \u043f\u043e\u043d\u0435",
         "eo": "mirigi homojn pro tio, ke oni estas en la unua loko en la rangotabulo de tokipona ludo",
         "de": "Leute verbl\u00fcffen, indem man an der Spitze der Rangliste eines Toki-Pona-Spiels stehst"
@@ -6144,6 +6196,7 @@
       "ku_data": "mouth\u2075, lip\u00b3, kiss\u00b3, jaw\u00b3, bite\u00b2, chew\u00b2",
       "def": {
         "en": "mouth, lips, oral cavity, jaw",
+        "pl": "usta, jama ustna, szcz\u0119ka",
         "ru": "\u0440\u043e\u0442, \u0433\u0443\u0431\u044b, \u043f\u043e\u043b\u043e\u0441\u0442\u044c \u0440\u0442\u0430, \u0447\u0435\u043b\u044e\u0441\u0442\u044c",
         "isv_l": "usta, guba, ustna jama, \u010deljust",
         "isv_c": "\u0443\u0441\u0442\u0430, \u0433\u0443\u0431\u0430, \u0443\u0441\u0442\u043d\u0430 \u0458\u0430\u043c\u0430, \u0447\u0435\u0459\u0443\u0441\u0442",
@@ -6167,6 +6220,7 @@
       "ku_data": "battle\u2075, fight\u2075, fighting\u2075, combat\u2075, conflict\u2075, contend\u2075, assault\u2075, attack\u2075, versus\u2074, compete\u2074, violent\u2074, challenge\u2074, hit\u2074, violence\u2074, struggle\u00b3, war\u00b3, contest\u00b3, oppose\u00b3, dispute\u00b3, competitive\u00b2, tackle\u00b2, competition\u00b2, aggressive\u00b2, resist\u00b2, beat\u00b2, opposed\u00b2, punch\u00b2, hostile\u00b2, confront\u00b2, riot\u00b2, opposition\u00b2, against\u00b2, strike\u00b2",
       "def": {
         "en": "battle, challenge, compete against, struggle against",
+        "pl": "walka, wyzwanie, konkurowa\u0107 z, zmaga\u0107 si\u0119 z",
         "ru": "\u0431\u0438\u0442\u0432\u0430, \u0432\u044b\u0437\u043e\u0432, \u0441\u043e\u0440\u0435\u0432\u043d\u043e\u0432\u0430\u0442\u044c\u0441\u044f, \u0431\u043e\u0440\u043e\u0442\u044c\u0441\u044f \u043f\u0440\u043e\u0442\u0438\u0432",
         "eo": "batali, defii, konkuri kontra\u016d, lukti kontra\u016d",
         "de": "Kampf, Streit, k\u00e4mpfen, Herausforderung, gegen j-n zum Wettkampf antreten"
@@ -6247,6 +6301,7 @@
       "ku_data": "white\u2075, pale\u2074",
       "def": {
         "en": "white, whitish; light-coloured, pale",
+        "pl": "bia\u0142y, bia\u0142awy; jasno ubarwiony, blady",
         "ru": "\u0431\u0435\u043b\u044b\u0439, \u0431\u0435\u043b\u043e\u0432\u0430\u0442\u044b\u0439; \u0441\u0432\u0435\u0442\u043b\u044b\u0439, \u0431\u043b\u0435\u0434\u043d\u044b\u0439",
         "isv_l": "b\u011bly, podobny b\u011blomu; sv\u011btly, bl\u011bdy",
         "isv_c": "\u0431\u0454\u043b\u044b, \u043f\u043e\u0434\u043e\u0431\u043d\u044b \u0431\u0454\u043b\u043e\u043c\u0443; \u0441\u0432\u0454\u0442\u043b\u044b, \u0431\u043b\u0454\u0434\u044b",
@@ -6295,6 +6350,7 @@
       "ku_data": "bird\u2075, chicken\u00b3, duck\u00b2, turkey\u00b2, eagle\u00b2, bat\u00b2",
       "def": {
         "en": "bird, flying creature, winged animal",
+        "pl": "ptak, stworzenie lataj\u0105ce, skrzydlate zwierz\u0119",
         "ru": "\u043f\u0442\u0438\u0446\u0430, \u043b\u0435\u0442\u0430\u044e\u0449\u0435\u0435 \u0441\u0443\u0449\u0435\u0441\u0442\u0432\u043e, \u043a\u0440\u044b\u043b\u0430\u0442\u043e\u0435 \u0436\u0438\u0432\u043e\u0442\u043d\u043e\u0435",
         "isv_l": "ptica, ptak, l\u011btaju\u010da \u017eivotina, krilata \u017eivotina",
         "isv_c": "\u043f\u0442\u0438\u0446\u0430, \u043f\u0442\u0430\u043a, \u043b\u0454\u0442\u0430\u0458\u0443\u0447\u0430 \u0436\u0438\u0432\u043e\u0442\u0438\u043d\u0430, \u043a\u0440\u0438\u043b\u0430\u0442\u0430 \u0436\u0438\u0432\u043e\u0442\u0438\u043d\u0430",
@@ -6317,6 +6373,7 @@
       "commentary": "First used as the name for a species in a mod for Caves of Qud created by akesi kon Nalasuni. Later appeared in ku as exclusively part of a translation for \"penguin\".",
       "def": {
         "en": "animal with qualities of both waso & soweli",
+        "pl": "zwierz\u0119 miej\u0105ce cechy zar\u00f3wno waso, jak i soweli",
         "ru": "\u0436\u0438\u0432\u043e\u0442\u043d\u043e\u0435 \u0441 \u043a\u0430\u0447\u0435\u0441\u0442\u0432\u0430\u043c\u0438 waso \u0438 soweli",
         "eo": "besto kun kvalitoj de amba\u016d waso & soweli",
         "de": "Tier mit Eigenschaften von waso & soweli"
@@ -6338,6 +6395,7 @@
       "ku_data": "strength\u2075, power\u2075, powerful\u2075, strong\u2075, energy\u2075, strongly\u2075, force\u2074, intense\u2074, bold\u2074, intensity\u2074, reinforce\u2074, firmly\u2074, strengthen\u2074, charge\u00b3, brave\u00b3, rapid\u00b3, electrical\u00b3, might\u00b2, tough\u00b2, electricity\u00b2, fast\u00b2, rapidly\u00b2, compelling\u00b2, confident\u00b2, quickly\u00b2, glory\u00b2, boost\u00b2, severe\u00b2",
       "def": {
         "en": "strong, powerful; confident, sure; energetic, intense",
+        "pl": "silny, pot\u0119\u017cny; pewny (siebie); energiczny, intensywny",
         "ru": "\u0441\u0438\u043b\u044c\u043d\u044b\u0439, \u043c\u043e\u0449\u043d\u044b\u0439; \u0443\u0432\u0435\u0440\u0435\u043d\u043d\u044b\u0439; \u044d\u043d\u0435\u0440\u0433\u0438\u0447\u043d\u044b\u0439, \u0438\u043d\u0442\u0435\u043d\u0441\u0438\u0432\u043d\u044b\u0439",
         "eo": "forta, potenca; memfida, nedubanta; energia, intensa",
         "de": "stark, Kraft, Energie; zuversichtlich, sicher; intensiv"
