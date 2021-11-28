@@ -54,14 +54,14 @@
       "name_endonym": "\u041c\u0435\u0434\u0436\u0443\u0441\u043b\u043e\u0432\u0458\u0430\u043d\u0441\u043a\u044b (\u043a\u0438\u0440\u0438\u043b\u0438\u0446\u0430)",
       "name_english": "Interslavic (Cyrillic)",
       "name_toki_pona": "toki Mesulojanki (sitelen Kililisa)",
-      "completeness_percent": "42"
+      "completeness_percent": "44"
     },
     "isv_l": {
       "id_long": "interslavic_latin",
       "name_endonym": "Med\u017euslovjansky (latinica)",
       "name_english": "Interslavic (Latin)",
       "name_toki_pona": "toki Mesulojanki (sitelen Lasina)",
-      "completeness_percent": "42"
+      "completeness_percent": "44"
     },
     "it": {
       "id_long": "italian",
@@ -145,7 +145,7 @@
       "description": "sitelen sitelen"
     },
     "kala Asi": {
-      "description": "Russian, Interslavic definitions"
+      "description": "definitions (Russian, Interslavic)"
     },
     "kijete Ampo": {
       "description": "definitions (Spanish), enko entry"
@@ -592,6 +592,8 @@
         "en": "(between multiple subjects) | ALT (coordinates modifiers in a pi-phrase or objects of a prepostion)",
         "pl": "(pomi\u0119dzy wieloma podmiotami) | ALT (koordynuje modyfikatory w frazie pi lub rzeczowniki przyimk\u00f3w)",
         "ru": "(\u043c\u0435\u0436\u0434\u0443 \u043d\u0435\u0441\u043a\u043e\u043b\u044c\u043a\u0438\u043c\u0438 \u043f\u043e\u0434\u043b\u0435\u0436\u0430\u0449\u0438\u043c\u0438) | ALT (\u043a\u043e\u043e\u0440\u0434\u0438\u043d\u0438\u0440\u0443\u0435\u0442 \u043e\u0431\u0441\u0442\u043e\u044f\u0442\u0435\u043b\u044c\u0441\u0442\u0432\u0430 \u0432 pi-\u0444\u0440\u0430\u0437\u0435 \u0438\u043b\u0438 \u0434\u043e\u043f\u043e\u043b\u043d\u0435\u043d\u0438\u044f \u0432 \u043f\u0440\u0435\u0434\u043b\u043e\u0436\u043d\u043e\u0439 \u0444\u0440\u0430\u0437\u0435)",
+        "isv_l": "(med\u017eu mnogokratnymi subjektami (podm\u011btami)) | ALT (koordinuje modifikatory v pi-fraz\u011b abo dopolnjenja v pr\u011bdlo\u017enoj fraz\u011b)",
+        "isv_c": "(\u043c\u0435\u0434\u0436\u0443 \u043c\u043d\u043e\u0433\u043e\u043a\u0440\u0430\u0442\u043d\u044b\u043c\u0438 \u0441\u0443\u0431\u0458\u0435\u043a\u0442\u0430\u043c\u0438 (\u043f\u043e\u0434\u043c\u0454\u0442\u0430\u043c\u0438)) | ALT (\u043a\u043e\u043e\u0440\u0434\u0438\u043d\u0443\u0458\u0435 \u043c\u043e\u0434\u0438\u0444\u0438\u043a\u0430\u0442\u043e\u0440\u044b \u0432 pi-\u0444\u0440\u0430\u0437\u0454 \u0430\u0431\u043e \u0434\u043e\u043f\u043e\u043b\u045a\u0435\u045a\u0430 \u0432 \u043f\u0440\u0454\u0434\u043b\u043e\u0436\u043d\u043e\u0458 \u0444\u0440\u0430\u0437\u0454)",
         "eo": "(inter pluraj subjektoj) | ALT (konjunkciigas modifilojn en pi-sintagmo a\u016d objektojn de prepozicio)",
         "de": "(zwischen mehreren Subjekten)",
         "es": "(entre m\u00faltiples sujetos) | ALT (coordina modificadores en una frase con pi u objetos en una preposici\u00f3n)",
@@ -805,6 +807,8 @@
         "en": "bad, negative; non-essential, irrelevant | ALT complicated, complex",
         "pl": "z\u0142y, negatywny; zb\u0119dny, nieistotny | ALT skomplikowany, z\u0142o\u017cony",
         "ru": "\u043f\u043b\u043e\u0445\u043e\u0439, \u043e\u0442\u0440\u0438\u0446\u0430\u0442\u0435\u043b\u044c\u043d\u044b\u0439; \u043d\u0435\u0432\u0430\u0436\u043d\u044b\u0439, \u043d\u0435\u0441\u0443\u0449\u0435\u0441\u0442\u0432\u0435\u043d\u043d\u044b\u0439 | ALT \u0441\u043b\u043e\u0436\u043d\u044b\u0439, \u0437\u0430\u043f\u0443\u0442\u0430\u043d\u043d\u044b\u0439",
+        "isv_l": "zly, lo\u0161i, nedobry, negativny; nenasu\u010dny, nesu\u010dstveny | ALT neprosty, komplikovany, slo\u017eeny",
+        "isv_c": "\u0437\u043b\u044b, \u043b\u043e\u0448\u0438, \u043d\u0435\u0434\u043e\u0431\u0440\u044b, \u043d\u0435\u0433\u0430\u0442\u0438\u0432\u043d\u044b; \u043d\u0435\u043d\u0430\u0441\u0443\u0447\u043d\u044b, \u043d\u0435\u0441\u0443\u0447\u0441\u0442\u0432\u0435\u043d\u044b | ALT \u043d\u0435\u043f\u0440\u043e\u0441\u0442\u044b, \u043a\u043e\u043c\u043f\u043b\u0438\u043a\u043e\u0432\u0430\u043d\u044b, \u0441\u043b\u043e\u0436\u0435\u043d\u044b",
         "eo": "malbona, negativa; neesenca, malgrava | ALT malsimpla, komplika",
         "de": "schlecht, negative, irrelevant | komplex, schwierig",
         "es": "mal, malo, negativo; no esencial, irrelevante | ALT complicado, complejo",
@@ -1422,6 +1426,8 @@
       "def": {
         "en": "to produce a sound; recite, utter aloud",
         "ru": "\u043f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0438\u0442\u044c \u0437\u0432\u0443\u043a; \u0447\u0438\u0442\u0430\u0442\u044c, \u043f\u0440\u043e\u0438\u0437\u043d\u043e\u0441\u0438\u0442\u044c \u0432\u0441\u043b\u0443\u0445",
+        "isv_l": "iztvoriti zvuk; \u010ditati, glasno izgovarjati",
+        "isv_c": "\u0438\u0437\u0442\u0432\u043e\u0440\u0438\u0442\u0438 \u0437\u0432\u0443\u043a; \u0447\u0438\u0442\u0430\u0442\u0438, \u0433\u043b\u0430\u0441\u043d\u043e \u0438\u0437\u0433\u043e\u0432\u0430\u0440\u0458\u0430\u0442\u0438",
         "eo": "fari sonon; reciti, diri la\u016dte/vo\u0109e",
         "de": "Laut, Ger\u00e4usch, Ger\u00e4usche produzieren, \u00e4u\u00dfern",
         "it": "produrre un suono; recitare, pronunciare ad alta voce"
@@ -1460,6 +1466,8 @@
       "def": {
         "en": "arriving, coming, future, summoned; (pv.) to become, manage to, succeed in",
         "ru": "\u043f\u0440\u0438\u0445\u043e\u0434\u044f\u0449\u0438\u0439, \u0431\u0443\u0434\u0443\u0449\u0438\u0439, \u043f\u0440\u0438\u0437\u0432\u0430\u043d\u043d\u044b\u0439; (pv.) \u0441\u0442\u0430\u043d\u043e\u0432\u0438\u0442\u044c\u0441\u044f, \u0441\u043c\u043e\u0447\u044c, \u043f\u0440\u0435\u0443\u0441\u043f\u0435\u0432\u0430\u0442\u044c \u0432",
+        "isv_l": "prihode\u010di, pribyvaju\u010di, budu\u010di, prizvany; (pv.) stati, usp\u011bti, udavati se",
+        "isv_c": "\u043f\u0440\u0438\u0445\u043e\u0434\u0435\u0447\u0438, \u043f\u0440\u0438\u0431\u044b\u0432\u0430\u0458\u0443\u0447\u0438, \u0431\u0443\u0434\u0443\u0447\u0438, \u043f\u0440\u0438\u0437\u0432\u0430\u043d\u044b; (pv.) \u0441\u0442\u0430\u0442\u0438, \u0443\u0441\u043f\u0454\u0442\u0438, \u0443\u0434\u0430\u0432\u0430\u0442\u0438 \u0441\u0435",
         "eo": "alvenanta, venonta, estonteca, vokita; (a.v.) i\u011di, sukcesi, elturni\u011di pri",
         "de": "kommen, ankommen, Zukunft | (pv.) werden, etw. fertigbringen",
         "it": "arrivare, venire, futuro, convocato; (pv.) diventare, riuscire a, riuscire a"
@@ -1655,6 +1663,8 @@
       "def": {
         "en": "to be able to, be allowed to, can, may; possible",
         "ru": "\u0438\u043c\u0435\u0442\u044c \u0432\u043e\u0437\u043c\u043e\u0436\u043d\u043e\u0441\u0442\u044c, \u043c\u043e\u0447\u044c, \u0443\u043c\u0435\u0442\u044c; \u0432\u043e\u0437\u043c\u043e\u0436\u043d\u044b\u0439",
+        "isv_l": "mogti, um\u011bti, im\u011bti dozvoljenje; mo\u017elivy",
+        "isv_c": "\u043c\u043e\u0433\u0442\u0438, \u0443\u043c\u0454\u0442\u0438, \u0438\u043c\u0454\u0442\u0438 \u0434\u043e\u0437\u0432\u043e\u0459\u0435\u045a\u0435; \u043c\u043e\u0436\u043b\u0438\u0432\u044b",
         "eo": "povi, rajti; ebla",
         "de": "k\u00f6nnen, zu etw. imstande sein, d\u00fcrfen; m\u00f6glich",
         "es": "ser capaz de, ser permitido, poder, posible",
@@ -3349,7 +3359,7 @@
         "en": "pizza",
         "pl": "pizza",
         "ru": "\u043f\u0438\u0446\u0446\u0430",
-        "isv_l": "pica",
+        "isv_l": "pizza",
         "isv_c": "\u043f\u0438\u0446\u0430",
         "eo": "pico",
         "de": "Pizza",
