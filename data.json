@@ -54,14 +54,14 @@
       "name_endonym": "\u041c\u0435\u0434\u0436\u0443\u0441\u043b\u043e\u0432\u0458\u0430\u043d\u0441\u043a\u044b (\u043a\u0438\u0440\u0438\u043b\u0438\u0446\u0430)",
       "name_english": "Interslavic (Cyrillic)",
       "name_toki_pona": "toki Mesulojanki (sitelen Kililisa)",
-      "completeness_percent": "20"
+      "completeness_percent": "35"
     },
     "isv_l": {
       "id_long": "interslavic_latin",
       "name_endonym": "Med\u017euslovjansky (latinica)",
       "name_english": "Interslavic (Latin)",
       "name_toki_pona": "toki Mesulojanki (sitelen Lasina)",
-      "completeness_percent": "20"
+      "completeness_percent": "35"
     },
     "it": {
       "id_long": "italian",
@@ -524,6 +524,8 @@
         "en": "enduring, kept, protected, safe, waiting, staying; (pv.) to continue to, to keep",
         "pl": "trwa\u0142y, trzymany, zabezpieczony, bezpieczny, czekaj\u0105cy, zostaj\u0105cy; (pv.) kontynuowa\u0107, nadal",
         "ru": "\u043d\u0435\u0438\u0437\u043c\u0435\u043d\u043d\u044b\u0439, \u0436\u0434\u0443\u0449\u0438\u0439, \u0432 \u0431\u0435\u0437\u043e\u043f\u0430\u0441\u043d\u043e\u0441\u0442\u0438; (pv.) \u043f\u0440\u043e\u0434\u043e\u043b\u0436\u0430\u0442\u044c",
+        "isv_l": "prodol\u017eaju\u010di, trvaju\u010di, ohranjany, bezopasny, bezpe\u010dny, \u010dekaju\u010di, ostanu\u010di; (pv.) prodol\u017eati",
+        "isv_c": "\u043f\u0440\u043e\u0434\u043e\u043b\u0436\u0430\u0458\u0443\u0447\u0438, \u0442\u0440\u0432\u0430\u0458\u0443\u0447\u0438, \u043e\u0445\u0440\u0430\u045a\u0430\u043d\u044b, \u0431\u0435\u0437\u043e\u043f\u0430\u0441\u043d\u044b, \u0431\u0435\u0437\u043f\u0435\u0447\u043d\u044b, \u0447\u0435\u043a\u0430\u0458\u0443\u0447\u0438, \u043e\u0441\u0442\u0430\u043d\u0443\u0447\u0438; (pv.) \u043f\u0440\u043e\u0434\u043e\u043b\u0436\u0430\u0442\u0438",
         "eo": "da\u016dranta, tenata, protektita, sekura, atendanta, restanta; (a.v.) da\u016dre fari",
         "de": "bleiben, harren, warten, behalten, gesch\u00fctzt, sicher; (pv.) weitermachen, weiter(hin)"
       }
@@ -869,6 +871,8 @@
         "en": "the digit \u20182\u2019",
         "pl": "cyfra 2",
         "ru": "\u0446\u0438\u0444\u0440\u0430 2",
+        "isv_l": "cifra 2",
+        "isv_c": "\u0446\u0438\u0444\u0440\u0430 2",
         "eo": "cifero du",
         "de": "Ziffer \u201e2\u201c",
         "tok": "ini li sitelen nanpa pi nanpa tu.",
@@ -1034,6 +1038,8 @@
         "en": "one hundred",
         "pl": "sto",
         "ru": "\u0441\u0442\u043e",
+        "isv_l": "sto",
+        "isv_c": "\u0441\u0442\u043e",
         "eo": "cent",
         "de": "einhundert",
         "tok": "nasin nanpa pi lipu pu la, nimi \"jaku\" li sama nimi \"ali\" anu nimi \"mute mute mute mute mute.\"",
@@ -1187,6 +1193,8 @@
         "en": "the digit \u20181\u2019",
         "pl": "cyfra 1",
         "ru": "\u0446\u0438\u0444\u0440\u0430 1",
+        "isv_l": "cifra 1",
+        "isv_c": "\u0446\u0438\u0444\u0440\u0430 1",
         "eo": "cifero unu",
         "de": "Ziffer \u201e1\u201c",
         "tok": "jatu li sitelen nanpa pi nanpa wan.",
@@ -1299,6 +1307,8 @@
         "en": "(word reserved for future use by Sonja Lang)",
         "pl": "(s\u0142owo zarezerwowane do przysz\u0142ego u\u017cytku przez Sonj\u0119 Lang)",
         "ru": "(\u0441\u043b\u043e\u0432\u043e \u0437\u0430\u0440\u0435\u0437\u0435\u0440\u0432\u0438\u0440\u043e\u0432\u0430\u043d\u043e \u0434\u043b\u044f \u0431\u0443\u0434\u0443\u0449\u0435\u0433\u043e \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u043d\u0438\u044f \u0421\u043e\u043d\u0435\u0439 \u041b\u0430\u043d\u0433)",
+        "isv_l": "(slovo jest rezervovano dlja budu\u010dego koristanja Sonjeju Lang)",
+        "isv_c": "(\u0441\u043b\u043e\u0432\u043e \u0458\u0435\u0441\u0442 \u0440\u0435\u0437\u0435\u0440\u0432\u043e\u0432\u0430\u043d\u043e \u0434\u0459\u0430 \u0431\u0443\u0434\u0443\u0447\u0435\u0433\u043e \u043a\u043e\u0440\u0438\u0441\u0442\u0430\u045a\u0430 S\u043e\u045a\u0435\u0458\u0443 L\u0430\u043d\u0433)",
         "eo": "(vorto rezervita por estonteca uzo de Sonja Lang)",
         "de": "(f\u00fcr zuk\u00fcnftige Verwendung von Sonja Lang reserviertes Wort)"
       }
@@ -1338,6 +1348,8 @@
         "en": "the digit \u20189\u2019",
         "pl": "cyfra 9",
         "ru": "\u0446\u0438\u0444\u0440\u0430 9",
+        "isv_l": "cifra 9",
+        "isv_c": "\u0446\u0438\u0444\u0440\u0430 9",
         "eo": "cifero na\u016d",
         "de": "Ziffer \u201e9\u201c",
         "tok": "kajo li sitelen nanpa pi nanpa luka tu tu.",
@@ -1407,6 +1419,8 @@
       "def": {
         "en": "pirate noise",
         "ru": "\u043a\u0440\u0438\u043a \u043f\u0438\u0440\u0430\u0442\u0430",
+        "isv_l": "krik pirata",
+        "isv_c": "\u043a\u0440\u0438\u043a \u043f\u0438\u0440\u0430\u0442\u0430",
         "es": "ruido pirata"
       }
     },
@@ -1531,6 +1545,8 @@
         "en": "brown, gray",
         "pl": "br\u0105zowy, szary",
         "ru": "\u043a\u043e\u0440\u0438\u0447\u043d\u0435\u0432\u044b\u0439, \u0441\u0435\u0440\u044b\u0439",
+        "isv_l": "kori\u010dnevy, ka\u0161tanovy, s\u011bry, s\u011bdy",
+        "isv_c": "\u043a\u043e\u0440\u0438\u0447\u043d\u0435\u0432\u044b, \u043a\u0430\u0448\u0442\u0430\u043d\u043e\u0432\u044b, \u0441\u0454\u0440\u044b, \u0441\u0454\u0434\u044b",
         "eo": "bruna, griza",
         "de": "braun, grau",
         "tok": "kapesi li nimi kule. ona li sama nimi \"pimeja jelo\" anu \"pimeja walo.\"",
@@ -1583,6 +1599,8 @@
         "en": "(acknowledgment or acceptance)",
         "pl": "(uznanie lub akceptacja) ",
         "ru": "(\u043f\u043e\u0434\u0442\u0432\u0435\u0440\u0436\u0434\u0435\u043d\u0438\u0435 \u0438\u043b\u0438 \u043f\u0440\u0438\u043d\u044f\u0442\u0438\u0435)",
+        "isv_l": "(priznanje abo prijetje)",
+        "isv_c": "(\u043f\u0440\u0438\u0437\u043d\u0430\u045a\u0435 \u0430\u0431\u043e \u043f\u0440\u0438\u0458\u0435\u0442\u0458\u0435)",
         "eo": "(agnosko a\u016d akcepto)",
         "de": "(Anerkennung oder Akzeptanz)",
         "tok": "sina pilin pona la, sina pilin oke. ijo li pona tawa sina la, o toki e ni: \"ke!\" sina wile e ijo? sina wile la, o toki e ni: \"ke.\"",
@@ -1657,6 +1675,8 @@
       "def": {
         "en": "queer, LGBT+",
         "ru": "\u043a\u0432\u0438\u0440, \u041b\u0413\u0411\u0422+",
+        "isv_l": "kvir, LGBT+",
+        "isv_c": "\u043a\u0432\u0438\u0440, LGBT+",
         "eo": "kvira, GLAT-a",
         "de": "queer, LGBT+"
       }
@@ -2366,6 +2386,8 @@
         "en": "the digit \u20180\u2019",
         "pl": "cyfra 0",
         "ru": "\u0446\u0438\u0444\u0440\u0430 0",
+        "isv_l": "cifra 0",
+        "isv_c": "\u0446\u0438\u0444\u0440\u0430 0",
         "eo": "cifero nulo",
         "de": "Ziffer \u201e0\u201c",
         "tok": "lenke li sitelen nanpa pi nanpa ala.",
@@ -2632,6 +2654,8 @@
         "en": "the digit \u20186\u2019",
         "pl": "cyfra 6",
         "ru": "\u0446\u0438\u0444\u0440\u0430 6",
+        "isv_l": "cifra 6",
+        "isv_c": "\u0446\u0438\u0444\u0440\u0430 6",
         "eo": "cifero ses",
         "de": "Ziffer \u201e6\u201c",
         "tok": "loku li sitelen nanpa pi nanpa luka wan.",
@@ -2679,6 +2703,8 @@
         "en": "(word reserved for future use by Sonja Lang)",
         "pl": "(s\u0142owo zarezerwowane do przysz\u0142ego u\u017cytku przez Sonj\u0119 Lang)",
         "ru": "(\u0441\u043b\u043e\u0432\u043e \u0437\u0430\u0440\u0435\u0437\u0435\u0440\u0432\u0438\u0440\u043e\u0432\u0430\u043d\u043e \u0434\u043b\u044f \u0431\u0443\u0434\u0443\u0449\u0435\u0433\u043e \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u043d\u0438\u044f \u0421\u043e\u043d\u0435\u0439 \u041b\u0430\u043d\u0433)",
+        "isv_l": "(slovo jest rezervovano dlja budu\u010dego koristanja Sonjeju Lang)",
+        "isv_c": "(\u0441\u043b\u043e\u0432\u043e \u0458\u0435\u0441\u0442 \u0440\u0435\u0437\u0435\u0440\u0432\u043e\u0432\u0430\u043d\u043e \u0434\u0459\u0430 \u0431\u0443\u0434\u0443\u0447\u0435\u0433\u043e \u043a\u043e\u0440\u0438\u0441\u0442\u0430\u045a\u0430 S\u043e\u045a\u0435\u0458\u0443 L\u0430\u043d\u0433)",
         "eo": "(vorto rezervita por estonteca uzo de Sonja Lang)",
         "de": "(f\u00fcr zuk\u00fcnftige Verwendung von Sonja Lang reserviertes Wort)"
       }
@@ -3253,6 +3279,8 @@
         "en": "pizza",
         "pl": "pizza",
         "ru": "\u043f\u0438\u0446\u0446\u0430",
+        "isv_l": "pica",
+        "isv_c": "\u043f\u0438\u0446\u0430",
         "eo": "pico",
         "de": "Pizza",
         "tok": "mulapisu li pan sike loje tan ma Italija. ",
@@ -3493,6 +3521,8 @@
         "en": "four",
         "pl": "cztery",
         "ru": "\u0447\u0435\u0442\u044b\u0440\u0435",
+        "isv_l": "\u010detyri",
+        "isv_c": "\u0447\u0435\u0442\u044b\u0440\u0438",
         "eo": "kvar",
         "de": "4",
         "tok": "ona li pali e ijo neja. mi pali e ijo tu tu. ona en mi li pali e ijo pi nanpa sama.",
@@ -3645,6 +3675,8 @@
         "en": "(word reserved for future use by Sonja Lang)",
         "pl": "(s\u0142owo zarezerwowane do przysz\u0142ego u\u017cytku przez Sonj\u0119 Lang)",
         "ru": "(\u0441\u043b\u043e\u0432\u043e \u0437\u0430\u0440\u0435\u0437\u0435\u0440\u0432\u0438\u0440\u043e\u0432\u0430\u043d\u043e \u0434\u043b\u044f \u0431\u0443\u0434\u0443\u0449\u0435\u0433\u043e \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u043d\u0438\u044f \u0421\u043e\u043d\u0435\u0439 \u041b\u0430\u043d\u0433)",
+        "isv_l": "(slovo jest rezervovano dlja budu\u010dego koristanja Sonjeju Lang)",
+        "isv_c": "(\u0441\u043b\u043e\u0432\u043e \u0458\u0435\u0441\u0442 \u0440\u0435\u0437\u0435\u0440\u0432\u043e\u0432\u0430\u043d\u043e \u0434\u0459\u0430 \u0431\u0443\u0434\u0443\u0447\u0435\u0433\u043e \u043a\u043e\u0440\u0438\u0441\u0442\u0430\u045a\u0430 S\u043e\u045a\u0435\u0458\u0443 L\u0430\u043d\u0433)",
         "eo": "(vorto rezervita por estonteca uzo de Sonja Lang)",
         "de": "(f\u00fcr zuk\u00fcnftige Verwendung von Sonja Lang reserviertes Wort)"
       }
@@ -3662,6 +3694,8 @@
         "en": "new",
         "pl": "nowy",
         "ru": "\u043d\u043e\u0432\u044b\u0439",
+        "isv_l": "novy",
+        "isv_c": "\u043d\u043e\u0432\u044b",
         "eo": "nova",
         "de": "neu",
         "tok": "ijo li nu la, ijo li sin. ",
@@ -3688,6 +3722,8 @@
         "en": "the digit \u20185\u2019",
         "pl": "cyfra 5",
         "ru": "\u0446\u0438\u0444\u0440\u0430 5",
+        "isv_l": "cifra 5",
+        "isv_c": "\u0446\u0438\u0444\u0440\u0430 5",
         "eo": "cifero kvin",
         "de": "5",
         "tok": "nun li sitelen nanpa pi nanpa luka.",
@@ -3714,6 +3750,8 @@
         "en": "newer",
         "pl": "nowszy",
         "ru": "\u043d\u043e\u0432\u0435\u0435",
+        "isv_l": "nov\u011bj\u0161i",
+        "isv_c": "\u043d\u043e\u0432\u0454\u0458\u0448\u0438",
         "eo": "pli nova",
         "de": "neuer",
         "tok": "ijo nuwa li ijo pi sin mute.",
@@ -4219,6 +4257,8 @@
         "en": "brother, sister, sibling",
         "pl": "brat, siostra, rodze\u0144stwo",
         "ru": "\u0431\u0440\u0430\u0442, \u0441\u0435\u0441\u0442\u0440\u0430, \u0441\u0438\u0431\u043b\u0438\u043d\u0433",
+        "isv_l": "brat, sestra, sibling",
+        "isv_c": "\u0431\u0440\u0430\u0442, \u0441\u0435\u0441\u0442\u0440\u0430, \u0441\u0438\u0431\u043b\u0438\u043d\u0433",
         "eo": "frato, fratino, gefrato",
         "de": "Bruder, Schwester, Geschwister",
         "tok": "mi jo e pata tu. ona li jan sama mi.",
@@ -4245,6 +4285,8 @@
         "en": "the digit \u20188\u2019",
         "pl": "cyfra 8",
         "ru": "\u0446\u0438\u0444\u0440\u0430 8",
+        "isv_l": "cifra 8",
+        "isv_c": "\u0446\u0438\u0444\u0440\u0430 8",
         "eo": "cifero ok",
         "de": "8",
         "tok": "patu li sitelen nanpa pi nanpa luka tu wan.",
@@ -4409,6 +4451,8 @@
       "def": {
         "en": "car",
         "ru": "\u0430\u0432\u0442\u043e\u043c\u043e\u0431\u0438\u043b\u044c",
+        "isv_l": "avto",
+        "isv_c": "\u0430\u0432\u0442\u043e",
         "eo": "a\u016dto",
         "de": "Auto"
       }
@@ -4506,6 +4550,8 @@
         "en": "four",
         "pl": "cztery",
         "ru": "\u0447\u0435\u0442\u044b\u0440\u0435",
+        "isv_l": "\u010detyri",
+        "isv_c": "\u0447\u0435\u0442\u044b\u0440\u0438",
         "eo": "kvar",
         "de": "4",
         "tok": "ona li pali e ijo po. mi pali e ijo tu tu. ona en mi li pali e ijo pi nanpa sama.",
@@ -4788,6 +4834,8 @@
         "en": "three",
         "pl": "trzy",
         "ru": "\u0442\u0440\u0438",
+        "isv_l": "tri",
+        "isv_c": "\u0442\u0440\u0438",
         "eo": "tri",
         "de": "3",
         "tok": "ona li pali e ijo san. mi pali e ijo tu wan. ona en mi li pali e ijo pi nanpa sama.",
@@ -4814,6 +4862,8 @@
         "en": "the digit \u20184\u2019",
         "pl": "cztery",
         "ru": "\u0446\u0438\u0444\u0440\u0430 4",
+        "isv_l": "cifra 4",
+        "isv_c": "\u0446\u0438\u0444\u0440\u0430 4",
         "eo": "cifero kvar",
         "de": "4",
         "tok": "se li sitelen nanpa pi nanpa tu tu.",
@@ -5158,6 +5208,8 @@
         "en": "left, left side, port side",
         "pl": "lewa, lewa strona",
         "ru": "\u043b\u0435\u0432\u044b\u0439, \u0441\u043b\u0435\u0432\u0430",
+        "isv_l": "l\u011bvy, l\u011bvy bok, l\u011bva strana",
+        "isv_c": "\u043b\u0454\u0432\u044b, \u043b\u0454\u0432\u044b \u0431\u043e\u043a, \u043b\u0454\u0432\u0430 \u0441\u0442\u0440\u0430\u043d\u0430",
         "eo": "maldekstra, maldekstra flanko, babordo",
         "de": "links, linke Seite, Backbord",
         "tok": "nimi \"teje\" en nimi \"soto\" li jo e kon sama nimi ni: nimi \"sinpin\" en nimi \"monsi.\" linja nimi la, soto li lon poka open.",
@@ -5206,6 +5258,8 @@
         "en": "(word reserved for future use by Sonja Lang)",
         "pl": "(s\u0142owo zarezerwowane do przysz\u0142ego u\u017cytku przez Sonj\u0119 Lang)",
         "ru": "(\u0441\u043b\u043e\u0432\u043e \u0437\u0430\u0440\u0435\u0437\u0435\u0440\u0432\u0438\u0440\u043e\u0432\u0430\u043d\u043e \u0434\u043b\u044f \u0431\u0443\u0434\u0443\u0449\u0435\u0433\u043e \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u043d\u0438\u044f \u0421\u043e\u043d\u0435\u0439 \u041b\u0430\u043d\u0433)",
+        "isv_l": "(slovo jest rezervovano dlja budu\u010dego koristanja Sonjeju Lang)",
+        "isv_c": "(\u0441\u043b\u043e\u0432\u043e \u0458\u0435\u0441\u0442 \u0440\u0435\u0437\u0435\u0440\u0432\u043e\u0432\u0430\u043d\u043e \u0434\u0459\u0430 \u0431\u0443\u0434\u0443\u0447\u0435\u0433\u043e \u043a\u043e\u0440\u0438\u0441\u0442\u0430\u045a\u0430 S\u043e\u045a\u0435\u0458\u0443 L\u0430\u043d\u0433)",
         "eo": "(vorto rezervita por estonteca uzo de Sonja Lang)",
         "de": "(f\u00fcr zuk\u00fcnftige Verwendung von Sonja Lang reserviertes Wort)"
       }
@@ -5249,7 +5303,9 @@
       "def": {
         "en": "[typo of sike]",
         "pl": "[liter\u00f3wka sike]",
-        "ru": "[\u043e\u043f\u0435\u0447\u0430\u0442\u043a\u0430 sike]"
+        "ru": "[\u043e\u043f\u0435\u0447\u0430\u0442\u043a\u0430 sike]",
+        "isv_l": "[gr\u011b\u0161ka napisanja sike]",
+        "isv_c": "[\u0433\u0440\u0454\u0448\u043a\u0430 \u043d\u0430\u043f\u0438\u0441\u0430\u045a\u0430 \u0441\u0438\u043a\u0435]"
       }
     },
     "suli": {
@@ -5381,6 +5437,8 @@
         "en": "the digit \u20187\u2019",
         "pl": "siedem",
         "ru": "\u0446\u0438\u0444\u0440\u0430 7",
+        "isv_l": "cifra 7",
+        "isv_c": "\u0446\u0438\u0444\u0440\u0430 7",
         "eo": "cifero sep",
         "de": "7",
         "tok": "take li sitelen nanpa pi nanpa luka tu.",
@@ -5531,6 +5589,8 @@
         "en": "right, right side, starboard",
         "pl": "prawo, prawa strona",
         "ru": "\u043f\u0440\u0430\u0432\u044b\u0439, \u0441\u043f\u0440\u0430\u0432\u0430",
+        "isv_l": "pravy, desny, pravy bok, prava strana",
+        "isv_c": "\u043f\u0440\u0430\u0432\u044b, \u0434\u0435\u0441\u043d\u044b, \u043f\u0440\u0430\u0432\u044b \u0431\u043e\u043a, \u043f\u0440\u0430\u0432\u0430 \u0441\u0442\u0440\u0430\u043d\u0430",
         "eo": "dekstra, dekstra flanko, tribordo",
         "de": "rechts, rechte Seite, Steuerbord",
         "tok": "nimi \"teje\" en nimi \"soto\" li jo e kon sama nimi ni: nimi \"sinpin\" en nimi \"monsi.\" linja nimi la, teje li lon poka pini.",
@@ -5701,7 +5761,9 @@
       "def": {
         "en": "[typo of tomo]",
         "pl": "[liter\u00f3wka tomo]",
-        "ru": "[\u043e\u043f\u0435\u0447\u0430\u0442\u043a\u0430 tomo]"
+        "ru": "[\u043e\u043f\u0435\u0447\u0430\u0442\u043a\u0430 tomo]",
+        "isv_l": "[gr\u011b\u0161ka napisanja tomo]",
+        "isv_c": "[\u0433\u0440\u0454\u0448\u043a\u0430 \u043d\u0430\u043f\u0438\u0441\u0430\u045a\u0430 \u0442\u043e\u043c\u043e]"
       }
     },
     "tomo": {
@@ -5779,6 +5841,8 @@
         "en": "two | ALT separate, cut",
         "pl": "dwa | ALT dzieli\u0107, ci\u0105\u0107",
         "ru": "\u0434\u0432\u0430 | ALT \u0434\u0435\u043b\u0438\u0442\u044c, \u0440\u0435\u0437\u0430\u0442\u044c",
+        "isv_l": "dva | ALT d\u011bliti, s\u011bkti",
+        "isv_c": "\u0434\u0432\u0430 | ALT \u0434\u0454\u043b\u0438\u0442\u0438, \u0441\u0454\u043a\u0442\u0438",
         "eo": "du | ALT disigi, tran\u0109i",
         "de": "zwei | ALT teilen, schneiden"
       }
@@ -5802,6 +5866,8 @@
         "en": "three",
         "pl": "trzy",
         "ru": "\u0442\u0440\u0438",
+        "isv_l": "tri",
+        "isv_c": "\u0442\u0440\u0438",
         "eo": "tri",
         "de": "3",
         "tok": "ona li pali e ijo tuli. mi pali e ijo tu wan. ona en mi li pali e ijo pi nanpa sama.",
@@ -5827,6 +5893,8 @@
         "en": "(word reserved for future use by Sonja Lang)",
         "pl": "(s\u0142owo zarezerwowane do przysz\u0142ego u\u017cytku przez Sonj\u0119 Lang)",
         "ru": "(\u0441\u043b\u043e\u0432\u043e \u0437\u0430\u0440\u0435\u0437\u0435\u0440\u0432\u0438\u0440\u043e\u0432\u0430\u043d\u043e \u0434\u043b\u044f \u0431\u0443\u0434\u0443\u0449\u0435\u0433\u043e \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u043d\u0438\u044f \u0421\u043e\u043d\u0435\u0439 \u041b\u0430\u043d\u0433)",
+        "isv_l": "(slovo jest rezervovano dlja budu\u010dego koristanja Sonjeju Lang)",
+        "isv_c": "(\u0441\u043b\u043e\u0432\u043e \u0458\u0435\u0441\u0442 \u0440\u0435\u0437\u0435\u0440\u0432\u043e\u0432\u0430\u043d\u043e \u0434\u0459\u0430 \u0431\u0443\u0434\u0443\u0447\u0435\u0433\u043e \u043a\u043e\u0440\u0438\u0441\u0442\u0430\u045a\u0430 S\u043e\u045a\u0435\u0458\u0443 L\u0430\u043d\u0433)",
         "eo": "(vorto rezervita por estonteca uzo de Sonja Lang)",
         "de": "(f\u00fcr zuk\u00fcnftige Verwendung von Sonja Lang reserviertes Wort)"
       }
@@ -5890,6 +5958,8 @@
         "en": "purple",
         "pl": "fioletowy",
         "ru": "\u0444\u0438\u043e\u043b\u0435\u0442\u043e\u0432\u044b\u0439",
+        "isv_l": "fioletovy, purpurny",
+        "isv_c": "\u0444\u0438\u043e\u043b\u0435\u0442\u043e\u0432\u044b, \u043f\u0443\u0440\u043f\u0443\u0440\u043d\u044b",
         "eo": "purpura",
         "de": "lila, purpur, violett",
         "tok": "unu li laso loje anu loje laso.",
@@ -5945,6 +6015,8 @@
       "def": {
         "en": "mouth, lips, oral cavity, jaw",
         "ru": "\u0440\u043e\u0442, \u0433\u0443\u0431\u044b, \u043f\u043e\u043b\u043e\u0441\u0442\u044c \u0440\u0442\u0430, \u0447\u0435\u043b\u044e\u0441\u0442\u044c",
+        "isv_l": "usta, guba, ustna jama, \u010deljust",
+        "isv_c": "\u0443\u0441\u0442\u0430, \u0433\u0443\u0431\u0430, \u0443\u0441\u0442\u043d\u0430 \u0458\u0430\u043c\u0430, \u0447\u0435\u0459\u0443\u0441\u0442",
         "eo": "bu\u015do, lipoj, bu\u015da kavo, makzelo",
         "de": "Mund, Lippen, Rachen, Kiefer"
       }
@@ -6046,6 +6118,8 @@
       "def": {
         "en": "white, whitish; light-coloured, pale",
         "ru": "\u0431\u0435\u043b\u044b\u0439, \u0431\u0435\u043b\u043e\u0432\u0430\u0442\u044b\u0439; \u0441\u0432\u0435\u0442\u043b\u044b\u0439, \u0431\u043b\u0435\u0434\u043d\u044b\u0439",
+        "isv_l": "b\u011bly, podobny b\u011blomu; sv\u011btly, bl\u011bdy",
+        "isv_c": "\u0431\u0454\u043b\u044b, \u043f\u043e\u0434\u043e\u0431\u043d\u044b \u0431\u0454\u043b\u043e\u043c\u0443; \u0441\u0432\u0454\u0442\u043b\u044b, \u0431\u043b\u0454\u0434\u044b",
         "eo": "blanka, blankeca; helkolora, pala",
         "de": "wei\u00df, hell, bleich, blass"
       }
@@ -6069,6 +6143,8 @@
         "en": "unique, united; one",
         "pl": "jedyny, zjednoczony; jeden",
         "ru": "\u0443\u043d\u0438\u043a\u0430\u043b\u044c\u043d\u044b\u0439, \u0435\u0434\u0438\u043d\u044b\u0439; \u043e\u0434\u0438\u043d",
+        "isv_l": "unikalny, objedinjeny, sjedinjeny; jedin",
+        "isv_c": "\u0443\u043d\u0438\u043a\u0430\u043b\u043d\u044b, \u043e\u0431\u0458\u0435\u0434\u0438\u045a\u0435\u043d\u044b, \u0441\u0458\u0435\u0434\u0438\u045a\u0435\u043d\u044b; \u0458\u0435\u0434\u0438\u043d",
         "eo": "unika, unuigita, unui\u011dinta; unu",
         "de": "eins; eimalig, vereinen"
       }
