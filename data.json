@@ -44,7 +44,7 @@
     },
     "id": {
       "id_long": "indonesian",
-      "name_endonym": "bahasa Indonesia",
+      "name_endonym": "Bahasa Indonesia",
       "name_english": "Indonesian",
       "name_toki_pona": "toki Intonesija",
       "completeness_percent": "39"
@@ -63,9 +63,16 @@
       "name_toki_pona": "toki Mesulojanki (sitelen Lasina)",
       "completeness_percent": "14"
     },
+    "it": {
+      "id_long": "italian",
+      "name_endonym": "Italiano",
+      "name_english": "Italian",
+      "name_toki_pona": "toki Italija",
+      "completeness_percent": "3"
+    },
     "la": {
       "id_long": "latin",
-      "name_endonym": "lingua Latina",
+      "name_endonym": "Latina",
       "name_english": "Latin",
       "name_toki_pona": "toki Lasina",
       "completeness_percent": "3"
@@ -108,25 +115,28 @@
   },
   "credits": {
     "akesi kasi Panime": {
-      "description": "some Spanish definitions"
+      "description": "definitions (Spanish)"
     },
     "jan Emalan": {
       "description": "nele entry"
     },
     "jan Jonatan": {
-      "description": "German definitions (pu)"
+      "description": "pu definitions (German)"
     },
     "jan Ke Tami": {
-      "description": "German definitions (pu)"
+      "description": "pu definitions (German)"
     },
     "jan Kita": {
-      "description": "some toki pona, Polish definitions"
+      "description": "definitions (toki pona, Polish)"
     },
     "jan Lakuwinsu": {
-      "description": "Cebuano definitions"
+      "description": "definitions (Cebuano)"
+    },
+    "jan Lopeto": {
+      "description": "definitions (Italian)"
     },
     "jan Seli": {
-      "description": "a few translations"
+      "description": "some definitions"
     },
     "jan Tepo": {
       "description": "commentary, see_also"
@@ -138,16 +148,16 @@
       "description": "Russian, Interslavic definitions"
     },
     "kijete Ampo": {
-      "description": "enko entry, some Spanish definitions"
+      "description": "definitions (Spanish), enko entry"
     },
     "lipamanka": {
       "description": "linja sike, commentary"
     },
     "nimi ale pona": {
-      "description": "English and Esperanto definitions, most of the metadata (creators, etymology, see also)"
+      "description": "definitions (English, Esperanto), most of the metadata (creators, etymology, see also)"
     },
     "nimi ali epiku": {
-      "description": "coinage dates; toki pona, Spanish, Hindi, Urdu, Punjabi, Indonesian, Polish and some Esperanto definitions"
+      "description": "coinage dates; toki pona, definitions (Spanish, Hindi, Urdu, Punjabi, Indonesian, Polish, Esperanto)"
     }
   },
   "data": {
@@ -176,7 +186,8 @@
         "de": "(Betonung, Emotion, Best\u00e4tigung)",
         "es": "(\u00e9nfasis, emoci\u00f3n o confirmaci\u00f3n)",
         "ceb_l": "(paghatag ug kamahinungdanon, pagbati, pagpamatuod)",
-        "la": "quippe, nempe, ita (accenti\u014d, perm\u014dti\u014d, v\u014dx, excl\u0101m\u0101ti\u014d)"
+        "la": "quippe, nempe, ita (accenti\u014d, perm\u014dti\u014d, v\u014dx, excl\u0101m\u0101ti\u014d)",
+        "it": "(enfasi, emozione o conferma)"
       }
     },
     "aka": {
@@ -220,7 +231,8 @@
         "de": "Reptil, Amphibie",
         "tok": "soweli pi suwi ala; soweli kiwen pi telo sijelo lete",
         "es": "animal no adorable; reptil, anfibio",
-        "la": "amphibion, r\u0113ptile, serp\u0113ns"
+        "la": "amphibion, r\u0113ptile, serp\u0113ns",
+        "it": "animale non carino, rettile, anfibio"
       }
     },
     "ala": {
@@ -247,7 +259,8 @@
         "de": "nicht, kein, nichts, null; [~ ala ~] (M\u00f6glichkeit der Ja/Nein-Frage)",
         "es": "no, cero; [~ ala ~] (usado para formar una pregunta de s\u00ed o no); nada",
         "ceb_l": "dili, wala; [~ ala ~] (ginagamit para makahimo ug oo o dili nga pangutana)",
-        "la": "n\u014dn, haud, nullus, nihil; [~ ala ~] (facult\u0101s f\u014drm\u0101ti\u014dnis ita/non-rog\u0101ti\u014dn\u0113s)"
+        "la": "n\u014dn, haud, nullus, nihil; [~ ala ~] (facult\u0101s f\u014drm\u0101ti\u014dnis ita/non-rog\u0101ti\u014dn\u0113s)",
+        "it": "no, non, zero; [~ ala ~] (usato per domande si-no); nulla"
       }
     },
     "alasa": {
@@ -278,7 +291,8 @@
         "de": "jagen, \u00fcberfallen, suchen, erstreben | (pv.) versuchen",
         "es": "cazar, forrajear, buscar | ALT (pv.) tratar, intentar",
         "ceb_l": "mangita, mangita ug pagkaon | ALT (pv.) sulayan",
-        "la": "v\u0113n\u0101r\u012b, petere, c\u014dn\u0101r\u012b, tent\u0101re"
+        "la": "v\u0113n\u0101r\u012b, petere, c\u014dn\u0101r\u012b, tent\u0101re",
+        "it": "cacciare, procacciare, cercare | ALT (pv.) provare a, tentare"
       }
     },
     "ale": {
@@ -308,7 +322,8 @@
         "de": "alle(s), jede(r/s), F\u00fclle, \u00dcberfluss, zahllos, Leben, Universum, einhundert",
         "es": "todo; abundante, incontable, cada uno; abundancia, vida, universo; cien | ALT veinte; 100; 120",
         "ceb_l": "tanan, daghan, dili maihap, kinabuhi; usa ka gatos | baynte; 100; 120",
-        "la": "cunct\u012b, omnis, t\u014dtus, abundantia, innumerus, \u016bniversum, v\u012bta; centum"
+        "la": "cunct\u012b, omnis, t\u014dtus, abundantia, innumerus, \u016bniversum, v\u012bta; centum",
+        "it": "tutto; abbondante, innumerevoli, generoso, ogni, abbondante; abbondanza, ogni cosa, vita, universo; cento | ALT venti; 100; 120"
       }
     },
     "ali": {
@@ -333,7 +348,8 @@
         "tok": "[sama nimi \"ale\"]",
         "es": "[forma alternativa de ale]",
         "ceb_l": "[pamuli sa ale]",
-        "la": "[f\u014drma c\u014dgn\u014dmin\u0101ta verb\u012b \"ale\"]"
+        "la": "[f\u014drma c\u014dgn\u014dmin\u0101ta verb\u012b \"ale\"]",
+        "it": "[forma alternativa di ale]"
       }
     },
     "alu": {
@@ -389,7 +405,8 @@
         "isv_l": "klanjaju\u010di se, na dol, skromny, prizemjeny, zavisny, zale\u017eny | ALT dno, dol, podloga; dolny, niz\u0161i",
         "isv_c": "\u043a\u043b\u0430\u045a\u0430\u0458\u0443\u0447\u0438 \u0441\u0435, \u043d\u0430 \u0434\u043e\u043b, \u0441\u043a\u0440\u043e\u043c\u043d\u044b, \u043f\u0440\u0438\u0437\u0435\u043c\u0458\u0435\u043d\u044b, \u0437\u0430\u0432\u0438\u0441\u043d\u044b, \u0437\u0430\u043b\u0435\u0436\u043d\u044b | ALT \u0434\u043d\u043e, \u0434\u043e\u043b, \u043f\u043e\u0434\u043b\u043e\u0433\u0430; \u0434\u043e\u043b\u043d\u044b, \u043d\u0438\u0437\u0448\u0438",
         "eo": "klinanta sin, malsupren, humila, modesta, dependa | ALT malsupro, malsupra parto, sub, planko, fundo; malsupra, suba, malalta",
-        "de": "herunter, unter, nieder, niedrig, unten, Grund, Boden"
+        "de": "herunter, unter, nieder, niedrig, unten, Grund, Boden",
+        "it": "inchinarsi, verso il basso, umile, basso, dipendente | ALT fondo, parte inferiore, sotto, pavimento, al di sotto; basso, inferiore, fondo, gi\u00f9"
       }
     },
     "ante": {
