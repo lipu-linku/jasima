@@ -117,6 +117,9 @@
     "akesi kasi Panime": {
       "description": "definitions (Spanish)"
     },
+    "ilo Eko": {
+      "description": "sitelen pona etymologies"
+    },
     "jan Emalan": {
       "description": "nele entry"
     },
@@ -167,6 +170,7 @@
     "a": {
       "word": "a",
       "sitelen_pona": "aa",
+      "sitelen_pona_etymology": "exclamation radical + Latin lowercase letter A; radical from exclamation point (!), without the full stop at the bottom. compare o",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_a.jpg",
       "audio": {
         "kala_asi": "http://antetokipona.infinityfreeapp.com/kalama/kalaasi/a.mp3",
@@ -221,6 +225,7 @@
     "akesi": {
       "word": "akesi",
       "sitelen_pona": "akesi",
+      "sitelen_pona_etymology": "animal radical; pictogram of a lizard. radical represents eyes",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_akesi.jpg",
       "luka_pona": {
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/akesi.mp4",
@@ -254,6 +259,7 @@
     "ala": {
       "word": "ala",
       "sitelen_pona": "ala",
+      "sitelen_pona_etymology": "X mark, a crosslinguistic symbol for negation",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_ala.jpg",
       "luka_pona": {
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/ala.mp4",
@@ -286,6 +292,7 @@
     "alasa": {
       "word": "alasa",
       "sitelen_pona": "alasa",
+      "sitelen_pona_etymology": "pictogram of a bow and an arrow",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_alasa.jpg",
       "luka_pona": {
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/alasa.mp4",
@@ -322,6 +329,7 @@
     "ale": {
       "word": "ale",
       "sitelen_pona": "ale",
+      "sitelen_pona_etymology": "infinity symbol (\u221e)",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_ale.jpg",
       "luka_pona": {
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/ale.mp4",
@@ -357,6 +365,7 @@
     "ali": {
       "word": "ali",
       "sitelen_pona": "ali",
+      "sitelen_pona_etymology": "infinity symbol (\u221e)",
       "audio": {
         "kala_asi": "http://antetokipona.infinityfreeapp.com/kalama/kalaasi/ali.mp3",
         "jan_lakuse": "http://antetokipona.infinityfreeapp.com/kalama/jlakuse/ali.mp3"
@@ -418,6 +427,7 @@
     "anpa": {
       "word": "anpa",
       "sitelen_pona": "anpa",
+      "sitelen_pona_etymology": "location radical + \"container\"; the latter perhaps from a truncated square for a general object (compare sinpin) or a container (compare poki). for the radical, see also how dots are used in blissymbols; compare blissymbol \"below\"",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_anpa.jpg",
       "luka_pona": {
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/anpa.mp4",
@@ -450,6 +460,7 @@
     "ante": {
       "word": "ante",
       "sitelen_pona": "ante",
+      "sitelen_pona_etymology": "perhaps alteration from sama, or a combination of sama and ala. perhaps an ideogram representing a diversion of two lines",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_ante.jpg",
       "luka_pona": {
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/ante.mp4",
@@ -481,6 +492,7 @@
     "anu": {
       "word": "anu",
       "sitelen_pona": "anu",
+      "sitelen_pona_etymology": "perhaps from mathematical symbol \"or\" (\u2228)",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_anu.jpg",
       "luka_pona": {
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/anu.mp4",
@@ -565,6 +577,7 @@
     "awen": {
       "word": "awen",
       "sitelen_pona": "awen",
+      "sitelen_pona_etymology": "motion radical; legs facing against each other, implying standing",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_awen.jpg",
       "luka_pona": {
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/awen.mp4",
@@ -641,6 +654,7 @@
     "en": {
       "word": "en",
       "sitelen_pona": "en",
+      "sitelen_pona_etymology": "from plus sign (+); compare blissymbol \u201cand\u201d.",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_en.jpg",
       "luka_pona": {
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/en.mp4",
@@ -731,6 +745,7 @@
     "esun": {
       "word": "esun",
       "sitelen_pona": "esun",
+      "sitelen_pona_etymology": "not from a currency symbol (sonja confirmed; said \u201ci think that one is from Mikmaq\u201d but couldn't find a mikmaq symbol similar to it).",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_esun.jpg",
       "luka_pona": {
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/esun.mp4",
@@ -851,6 +866,7 @@
     "ijo": {
       "word": "ijo",
       "sitelen_pona": "ijo",
+      "sitelen_pona_etymology": "a circle, for a general object",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_ijo.jpg",
       "luka_pona": {
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/ijo.mp4",
@@ -882,6 +898,7 @@
     "ike": {
       "word": "ike",
       "sitelen_pona": "ike",
+      "sitelen_pona_etymology": "pictogram of a frowning mouth. compare pona",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_ike.jpg",
       "luka_pona": {
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/ike.mp4",
@@ -943,6 +960,7 @@
     "ilo": {
       "word": "ilo",
       "sitelen_pona": "ilo",
+      "sitelen_pona_etymology": "perhaps a pictogram of a hammer",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_ilo.jpg",
       "luka_pona": {
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/ilo.mp4",
@@ -1004,6 +1022,7 @@
     "insa": {
       "word": "insa",
       "sitelen_pona": "insa",
+      "sitelen_pona_etymology": "location radical + \u201ccontainer\u201d; compare blissymbol \u201cin\u201d",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_insa.jpg",
       "luka_pona": {
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/insa.mp4",
@@ -1126,6 +1145,7 @@
     "jaki": {
       "word": "jaki",
       "sitelen_pona": "jaki",
+      "sitelen_pona_etymology": "a scribble",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_jaki.jpg",
       "luka_pona": {
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/jaki.mp4",
@@ -1245,6 +1265,7 @@
     "jan": {
       "word": "jan",
       "sitelen_pona": "jan",
+      "sitelen_pona_etymology": "head radical; pictogram of a person showing the shoulders",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_jan.jpg",
       "luka_pona": {
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/jan.mp4",
@@ -1380,6 +1401,7 @@
     "jelo": {
       "word": "jelo",
       "sitelen_pona": "jelo",
+      "sitelen_pona_etymology": "color radical + suno",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_jelo.jpg",
       "luka_pona": {
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/jelo.mp4",
@@ -1411,6 +1433,7 @@
     "jo": {
       "word": "jo",
       "sitelen_pona": "jo",
+      "sitelen_pona_etymology": "perhaps a pictogram of a person pointing at themself or holding something",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_jo.jpg",
       "luka_pona": {
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/jo.mp4",
@@ -1537,6 +1560,7 @@
     "kala": {
       "word": "kala",
       "sitelen_pona": "kala kala1",
+      "sitelen_pona_etymology": "pictogram of a fish",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_kala.jpg",
       "luka_pona": {
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/kala.mp4",
@@ -1568,6 +1592,7 @@
     "kalama": {
       "word": "kalama",
       "sitelen_pona": "kalama",
+      "sitelen_pona_etymology": "emission modifier + \u201cmouth\u201d",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_kalama.jpg",
       "luka_pona": {
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/kalama.mp4",
@@ -1622,6 +1647,7 @@
     "kama": {
       "word": "kama",
       "sitelen_pona": "kama",
+      "sitelen_pona_etymology": "motion radical; legs facing to the left. compare tawa and blissymbol \u201cwalk\u201d",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_kama.jpg",
       "audio": {
         "kala_asi": "http://antetokipona.infinityfreeapp.com/kalama/kalaasi/kama.mp3",
@@ -1770,6 +1796,7 @@
     "kasi": {
       "word": "kasi",
       "sitelen_pona": "kasi",
+      "sitelen_pona_etymology": "pictogram of a sprout",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_kasi.jpg",
       "luka_pona": {
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/kasi.mp4",
@@ -1831,6 +1858,7 @@
     "ken": {
       "word": "ken",
       "sitelen_pona": "ken",
+      "sitelen_pona_etymology": "perhaps from Latin letter K",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_ken.jpg",
       "luka_pona": {
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/ken.mp4",
@@ -1861,6 +1889,7 @@
     "kepeken": {
       "word": "kepeken",
       "sitelen_pona": "kepeken",
+      "sitelen_pona_etymology": "hand modifier + ilo",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_kepeken.jpg",
       "luka_pona": {
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/kepeken.mp4",
@@ -2016,6 +2045,7 @@
     "kili": {
       "word": "kili",
       "sitelen_pona": "kili",
+      "sitelen_pona_etymology": "pictogram of a fruit, perhaps an apple",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_kili.jpg",
       "luka_pona": {
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/kili.mp4",
@@ -2150,6 +2180,7 @@
     "kiwen": {
       "word": "kiwen",
       "sitelen_pona": "kiwen",
+      "sitelen_pona_etymology": "pictogram of a rock or a gem",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_kiwen.jpg",
       "luka_pona": {
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/kiwen.mp4",
@@ -2180,6 +2211,7 @@
     "ko": {
       "word": "ko",
       "sitelen_pona": "ko",
+      "sitelen_pona_etymology": "pictogram of splashed goo",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_ko.jpg",
       "luka_pona": {
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/ko.mp4",
@@ -2244,6 +2276,7 @@
     "kon": {
       "word": "kon",
       "sitelen_pona": "kon",
+      "sitelen_pona_etymology": "ideogram; wavy lines to indicate the fluidity of gas. compare telo",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_kon.jpg",
       "luka_pona": {
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/kon.mp4",
@@ -2346,6 +2379,7 @@
     "kule": {
       "word": "kule",
       "sitelen_pona": "kule",
+      "sitelen_pona_etymology": "color radical; perhaps the horizontal line indicates the sense of \u201cthe concept itself\u201d. or perhaps a pictogram of light passing through a prism (color radical)",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_kule.jpg",
       "luka_pona": {
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/kule.mp4",
@@ -2431,6 +2465,7 @@
     "kulupu": {
       "word": "kulupu",
       "sitelen_pona": "kulupu",
+      "sitelen_pona_etymology": "pictogram of a group consisting of three members represented by circles",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_kulupu.jpg",
       "luka_pona": {
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/kulupu.mp4",
@@ -2490,6 +2525,7 @@
     "kute": {
       "word": "kute",
       "sitelen_pona": "kute",
+      "sitelen_pona_etymology": "pictogram of an ear. compare blissymbol \u201cear\u201d",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_kute.jpg",
       "luka_pona": {
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/kute.mp4",
@@ -2519,6 +2555,7 @@
     "la": {
       "word": "la",
       "sitelen_pona": "la",
+      "sitelen_pona_etymology": "perhaps related to blissymbol \u201clater\u201d and \u201cago\u201d, or perhaps a parenthesis",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_la.jpg",
       "luka_pona": {
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/la.mp4",
@@ -2582,6 +2619,7 @@
     "lape": {
       "word": "lape",
       "sitelen_pona": "lape",
+      "sitelen_pona_etymology": "pictogram of a lying person",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_lape.jpg",
       "luka_pona": {
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/lape.mp4",
@@ -2612,6 +2650,7 @@
     "laso": {
       "word": "laso",
       "sitelen_pona": "laso",
+      "sitelen_pona_etymology": "color radical + kasi",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_laso.jpg",
       "luka_pona": {
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/laso.mp4",
@@ -2642,6 +2681,7 @@
     "lawa": {
       "word": "lawa",
       "sitelen_pona": "lawa",
+      "sitelen_pona_etymology": "head radical; perhaps the horizontal line for the same reason as in kule. alternatively, perhaps a pictogram of a person wearing a cap",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_lawa.jpg",
       "luka_pona": {
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/lawa.mp4",
@@ -2709,6 +2749,7 @@
     "len": {
       "word": "len",
       "sitelen_pona": "len",
+      "sitelen_pona_etymology": "perhaps a pictogram of a piece of fabric",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_len.jpg",
       "luka_pona": {
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/len.mp4",
@@ -2768,6 +2809,7 @@
     "lete": {
       "word": "lete",
       "sitelen_pona": "lete",
+      "sitelen_pona_etymology": "pictogram of a snowflake",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_lete.jpg",
       "luka_pona": {
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/lete.mp4",
@@ -2853,6 +2895,7 @@
     "lili": {
       "word": "lili",
       "sitelen_pona": "lili",
+      "sitelen_pona_etymology": "ideogram showing smaller size compared to suli",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_lili.jpg",
       "luka_pona": {
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/lili.mp4",
@@ -2882,6 +2925,7 @@
     "linja": {
       "word": "linja",
       "sitelen_pona": "linja",
+      "sitelen_pona_etymology": "pictogram of a string",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_linja.jpg",
       "luka_pona": {
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/linja.mp4",
@@ -2942,6 +2986,7 @@
     "lipu": {
       "word": "lipu",
       "sitelen_pona": "lipu",
+      "sitelen_pona_etymology": "pictogram of a sheet of paper. compare blissymbol \u201cpaper\u201d",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_lipu.jpg",
       "luka_pona": {
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/lipu.mp4",
@@ -2971,6 +3016,7 @@
     "loje": {
       "word": "loje",
       "sitelen_pona": "loje",
+      "sitelen_pona_etymology": "color radical + \u201cmouth\u201d",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_loje.jpg",
       "luka_pona": {
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/loje.mp4",
@@ -3086,6 +3132,7 @@
     "lon": {
       "word": "lon",
       "sitelen_pona": "lon",
+      "sitelen_pona_etymology": "location radical above a line. compare blissymbol \u201cover\u201d",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_lon.jpg",
       "luka_pona": {
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/lon.mp4",
@@ -3161,6 +3208,7 @@
     "luka": {
       "word": "luka",
       "sitelen_pona": "luka",
+      "sitelen_pona_etymology": "pictogram of a hand",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_luka.jpg",
       "luka_pona": {
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/luka.mp4",
@@ -3190,6 +3238,7 @@
     "lukin": {
       "word": "lukin",
       "sitelen_pona": "lukin",
+      "sitelen_pona_etymology": "pictogram of an eye. compare blissymbol \u201ceye\u201d",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_lukin.jpg",
       "luka_pona": {
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/lukin.mp4",
@@ -3222,6 +3271,7 @@
     "lupa": {
       "word": "lupa",
       "sitelen_pona": "lupa",
+      "sitelen_pona_etymology": "pictogram of a concave surface. compare nena",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_lupa.jpg",
       "luka_pona": {
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/lupa.mp4",
@@ -3252,6 +3302,7 @@
     "ma": {
       "word": "ma",
       "sitelen_pona": "ma",
+      "sitelen_pona_etymology": "perhaps from modern astronomical symbol \u201cearth\u201d (\u2295)",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_ma.jpg",
       "luka_pona": {
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/ma.mp4",
@@ -3316,6 +3367,7 @@
     "mama": {
       "word": "mama",
       "sitelen_pona": "mama",
+      "sitelen_pona_etymology": "head radical; perhaps the smaller circle representing the child",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_mama.jpg",
       "luka_pona": {
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/mama.mp4",
@@ -3345,6 +3397,7 @@
     "mani": {
       "word": "mani",
       "sitelen_pona": "mani",
+      "sitelen_pona_etymology": "a pictogram of a large domestic animal, such as a cow (sonja confirmed)",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_mani.jpg",
       "luka_pona": {
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/mani.mp4",
@@ -3390,6 +3443,7 @@
     "meli": {
       "word": "meli",
       "sitelen_pona": "meli meli1",
+      "sitelen_pona_etymology": "head radical with long hair",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_meli.jpg",
       "luka_pona": {
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/meli.mp4",
@@ -3485,6 +3539,7 @@
     "mi": {
       "word": "mi",
       "sitelen_pona": "mi",
+      "sitelen_pona_etymology": "perhaps a hand pointing towards the speaker. compare sina and ona",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_mi.jpg",
       "luka_pona": {
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/mi.mp4",
@@ -3516,6 +3571,7 @@
     "mije": {
       "word": "mije",
       "sitelen_pona": "mije mije1",
+      "sitelen_pona_etymology": "head radical with perhaps wide shoulders. compare jan",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_mije.jpg",
       "luka_pona": {
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/mije.mp4",
@@ -3643,6 +3699,7 @@
     "moku": {
       "word": "moku",
       "sitelen_pona": "moku",
+      "sitelen_pona_etymology": "hand modifier + \u201cmouth\u201d",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_moku.jpg",
       "luka_pona": {
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/moku.mp4",
@@ -3672,6 +3729,7 @@
     "moli": {
       "word": "moli",
       "sitelen_pona": "moli",
+      "sitelen_pona_etymology": "head radical; a dead person, represented by the crossed eyes",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_moli.jpg",
       "luka_pona": {
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/moli.mp4",
@@ -3723,6 +3781,7 @@
     "monsi": {
       "word": "monsi",
       "sitelen_pona": "monsi",
+      "sitelen_pona_etymology": "location radical + rotate \u201ccontainer\u201d. compare sinpin",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_monsi.jpg",
       "luka_pona": {
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/monsi.mp4",
@@ -3790,6 +3849,7 @@
     "mu": {
       "word": "mu",
       "sitelen_pona": "mu",
+      "sitelen_pona_etymology": "pictogram of a mammal",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_mu.jpg",
       "luka_pona": {
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/mu.mp4",
@@ -3852,6 +3912,7 @@
     "mun": {
       "word": "mun",
       "sitelen_pona": "mun",
+      "sitelen_pona_etymology": "pictogram of a crescent moon. compare blissymbol \u201cmoon\u201d",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_mun.jpg",
       "luka_pona": {
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/mun.mp4",
@@ -3880,6 +3941,7 @@
     "musi": {
       "word": "musi",
       "sitelen_pona": "musi",
+      "sitelen_pona_etymology": "perhaps a pictogram of a smile with rosy cheeks or a lyre",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_musi.jpg",
       "luka_pona": {
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/musi.mp4",
@@ -3907,6 +3969,7 @@
     "mute": {
       "word": "mute",
       "sitelen_pona": "mute",
+      "sitelen_pona_etymology": "ideogram consisting of three tally marks. compare wan and tu",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_mute.jpg",
       "luka_pona": {
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/mute.mp4",
@@ -4000,6 +4063,7 @@
     "nanpa": {
       "word": "nanpa",
       "sitelen_pona": "nanpa",
+      "sitelen_pona_etymology": "from number sign (#). compare blissymbol \u201cnumber\u201d",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_nanpa.jpg",
       "luka_pona": {
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/nanpa.mp4",
@@ -4029,6 +4093,7 @@
     "nasa": {
       "word": "nasa",
       "sitelen_pona": "nasa",
+      "sitelen_pona_etymology": "perhaps spiral representing \u201cdizziness\u201d, as can be commonly seen in Japanese manga and anime",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_nasa.jpg",
       "luka_pona": {
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/nasa.mp4",
@@ -4058,6 +4123,7 @@
     "nasin": {
       "word": "nasin",
       "sitelen_pona": "nasin",
+      "sitelen_pona_etymology": "ideogram consisting of an arrow along a vertical line",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_nasin.jpg",
       "luka_pona": {
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/nasin.mp4",
@@ -4163,6 +4229,7 @@
     "nena": {
       "word": "nena",
       "sitelen_pona": "nena",
+      "sitelen_pona_etymology": "pictogram of a convex surface. compare lupa",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_nena.jpg",
       "luka_pona": {
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/nena.mp4",
@@ -4193,6 +4260,7 @@
     "ni": {
       "word": "ni",
       "sitelen_pona": "ni",
+      "sitelen_pona_etymology": "an arrow",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_ni.jpg",
       "luka_pona": {
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/ni.mp4",
@@ -4224,6 +4292,7 @@
     "nimi": {
       "word": "nimi",
       "sitelen_pona": "nimi",
+      "sitelen_pona_etymology": "perhaps a pictogram of a nametag or sitelen pona cartouche",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_nimi.jpg",
       "luka_pona": {
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/nimi.mp4",
@@ -4274,6 +4343,7 @@
     "noka": {
       "word": "noka",
       "sitelen_pona": "noka",
+      "sitelen_pona_etymology": "pictogram of a foot with an ankle",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_noka.jpg",
       "luka_pona": {
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/noka.mp4",
@@ -4411,6 +4481,7 @@
     "o": {
       "word": "o",
       "sitelen_pona": "oo",
+      "sitelen_pona_etymology": "exclamation radical + Latin lowercase letter O. compare a",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_o.jpg",
       "luka_pona": {
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/o.mp4",
@@ -4541,6 +4612,7 @@
     "olin": {
       "word": "olin",
       "sitelen_pona": "olin olin1",
+      "sitelen_pona_etymology": "two heart symbols (\u2661), perhaps to distinguish from pilin",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_olin.jpg",
       "luka_pona": {
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/olin.mp4",
@@ -4627,6 +4699,7 @@
     "ona": {
       "word": "ona",
       "sitelen_pona": "ona",
+      "sitelen_pona_etymology": "perhaps a hand pointing sideways. compare mi and sina",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_ona.jpg",
       "luka_pona": {
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/ona.mp4",
@@ -4682,6 +4755,7 @@
     "open": {
       "word": "open",
       "sitelen_pona": "open",
+      "sitelen_pona_etymology": "perhaps a pictogram of an opened container",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_open.jpg",
       "luka_pona": {
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/open.mp4",
@@ -4762,6 +4836,7 @@
     "pakala": {
       "word": "pakala",
       "sitelen_pona": "pakala",
+      "sitelen_pona_etymology": "pictogram of a cracked object",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_pakala.jpg",
       "luka_pona": {
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/pakala.mp4",
@@ -4823,6 +4898,7 @@
     "pali": {
       "word": "pali",
       "sitelen_pona": "pali",
+      "sitelen_pona_etymology": "hand modifier + ijo",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_pali.jpg",
       "luka_pona": {
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/pali.mp4",
@@ -4852,6 +4928,7 @@
     "palisa": {
       "word": "palisa",
       "sitelen_pona": "palisa",
+      "sitelen_pona_etymology": "pictogram of a stick",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_palisa.jpg",
       "luka_pona": {
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/palisa.mp4",
@@ -4881,6 +4958,7 @@
     "pan": {
       "word": "pan",
       "sitelen_pona": "pan",
+      "sitelen_pona_etymology": "perhaps a pictogram of a grain crop",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_pan.jpg",
       "luka_pona": {
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/pan.mp4",
@@ -4912,6 +4990,7 @@
     "pana": {
       "word": "pana",
       "sitelen_pona": "pana",
+      "sitelen_pona_etymology": "emission modifier + luka",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_pana.jpg",
       "luka_pona": {
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/pana.mp4",
@@ -5089,6 +5168,7 @@
     "pi": {
       "word": "pi",
       "sitelen_pona": "pi",
+      "sitelen_pona_etymology": "perhaps from tilted blissymbol \u201cby\u201d",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_pi.jpg",
       "luka_pona": {
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/pi.mp4",
@@ -5138,6 +5218,7 @@
     "pilin": {
       "word": "pilin",
       "sitelen_pona": "pilin",
+      "sitelen_pona_etymology": "from heart symbol (\u2661). compare blissymbol \u201cfeeling\u201d",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_pilin.jpg",
       "luka_pona": {
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/pilin.mp4",
@@ -5166,6 +5247,7 @@
     "pimeja": {
       "word": "pimeja",
       "sitelen_pona": "pimeja",
+      "sitelen_pona_etymology": "color radical; perhaps the cross representing the absence of light",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_pimeja.jpg",
       "luka_pona": {
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/pimeja.mp4",
@@ -5220,6 +5302,7 @@
     "pini": {
       "word": "pini",
       "sitelen_pona": "pini",
+      "sitelen_pona_etymology": "perhaps a blocking wall",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_pini.jpg",
       "luka_pona": {
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/pini.mp4",
@@ -5249,6 +5332,7 @@
     "pipi": {
       "word": "pipi",
       "sitelen_pona": "pipi",
+      "sitelen_pona_etymology": "animal radical; pictogram of a bug",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_pipi.jpg",
       "luka_pona": {
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/pipi.mp4",
@@ -5339,6 +5423,7 @@
     "poka": {
       "word": "poka",
       "sitelen_pona": "poka",
+      "sitelen_pona_etymology": "location radical + \u201ccontainer\u201d",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_poka.jpg",
       "luka_pona": {
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/poka.mp4",
@@ -5369,6 +5454,7 @@
     "poki": {
       "word": "poki",
       "sitelen_pona": "poki",
+      "sitelen_pona_etymology": "pictogram of a container",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_poki.jpg",
       "luka_pona": {
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/poki.mp4",
@@ -5457,6 +5543,7 @@
     "pona": {
       "word": "pona",
       "sitelen_pona": "pona",
+      "sitelen_pona_etymology": "pictogram of a smiling mouth. compare ike",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_pona.jpg",
       "luka_pona": {
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/pona.mp4",
@@ -5518,6 +5605,7 @@
     "pu": {
       "word": "pu",
       "sitelen_pona": "pu",
+      "sitelen_pona_etymology": "pictogram of the cover of the book \u201cToki Pona: The Language of Good\u201d. Alternatively a semantic compound glyph of lipu and toki pona",
       "audio": {
         "kala_asi": "http://antetokipona.infinityfreeapp.com/kalama/kalaasi/pu.mp3",
         "jan_lakuse": "http://antetokipona.infinityfreeapp.com/kalama/jlakuse/pu.mp3"
@@ -5574,6 +5662,7 @@
     "sama": {
       "word": "sama",
       "sitelen_pona": "sama",
+      "sitelen_pona_etymology": "from equal sign (=). compare blissymbol \u201csame\u201d",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_sama.jpg",
       "luka_pona": {
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/sama.mp4",
@@ -5702,6 +5791,7 @@
     "seli": {
       "word": "seli",
       "sitelen_pona": "seli",
+      "sitelen_pona_etymology": "perhaps a pictogram of a lit campfire or a simplified pictogram of a fire",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_seli.jpg",
       "luka_pona": {
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/seli.mp4",
@@ -5758,6 +5848,7 @@
     "seme": {
       "word": "seme",
       "sitelen_pona": "seme",
+      "sitelen_pona_etymology": "from question mark (?). compare blissymbol \u201cwhat\u201d",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_seme.jpg",
       "luka_pona": {
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/seme.mp4",
@@ -5789,6 +5880,7 @@
     "sewi": {
       "word": "sewi",
       "sitelen_pona": "sewi sewi1",
+      "sitelen_pona_etymology": "from arabic \u0661\u0651\u0644\u0644\u064e\u0647\u200e \u201callah\u201d",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_sewi.jpg",
       "luka_pona": {
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/sewi.mp4",
@@ -5816,6 +5908,7 @@
     "sijelo": {
       "word": "sijelo",
       "sitelen_pona": "sijelo",
+      "sitelen_pona_etymology": "perhaps a pictogram of a torso",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_sijelo.jpg",
       "luka_pona": {
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/sijelo.mp4",
@@ -5843,6 +5936,7 @@
     "sike": {
       "word": "sike",
       "sitelen_pona": "sike",
+      "sitelen_pona_etymology": "two circles, perhaps to distinguish from ijo. alternatively outline of a thick empty circle",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_sike.jpg",
       "luka_pona": {
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/sike.mp4",
@@ -5933,6 +6027,7 @@
     "sina": {
       "word": "sina",
       "sitelen_pona": "sina",
+      "sitelen_pona_etymology": "perhaps a hand pointing towards the listener. compare mi and ona",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_sina.jpg",
       "luka_pona": {
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/sina.mp4",
@@ -5961,6 +6056,7 @@
     "sinpin": {
       "word": "sinpin",
       "sitelen_pona": "sinpin",
+      "sitelen_pona_etymology": "location radical + rotate \u201ccontainer\u201d. compare monsi",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_sinpin.jpg",
       "luka_pona": {
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/sinpin.mp4",
@@ -5988,6 +6084,7 @@
     "sitelen": {
       "word": "sitelen",
       "sitelen_pona": "sitelen",
+      "sitelen_pona_etymology": "perhaps a representation of symbols on a piece of paper (lipu)",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_sitelen.jpg",
       "luka_pona": {
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/sitelen.mp4",
@@ -6073,6 +6170,7 @@
     "sona": {
       "word": "sona",
       "sitelen_pona": "sona",
+      "sitelen_pona_etymology": "emission modifier + lipu",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_sona.jpg",
       "luka_pona": {
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/sona.mp4",
@@ -6132,6 +6230,7 @@
     "soweli": {
       "word": "soweli",
       "sitelen_pona": "soweli",
+      "sitelen_pona_etymology": "animal radical; pictogram of a mammal",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_soweli.jpg",
       "luka_pona": {
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/soweli.mp4",
@@ -6232,6 +6331,7 @@
     "suli": {
       "word": "suli",
       "sitelen_pona": "suli",
+      "sitelen_pona_etymology": "ideogram showing bigger size compared to lili",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_suli.jpg",
       "luka_pona": {
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/suli.mp4",
@@ -6259,6 +6359,7 @@
     "suno": {
       "word": "suno",
       "sitelen_pona": "suno",
+      "sitelen_pona_etymology": "pictogram of the sun",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_suno.jpg",
       "luka_pona": {
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/suno.mp4",
@@ -6288,6 +6389,7 @@
     "supa": {
       "word": "supa",
       "sitelen_pona": "supa",
+      "sitelen_pona_etymology": "pictogram of a table. compare blissymbol \u201ctable\u201d",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_supa.jpg",
       "luka_pona": {
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/supa.mp4",
@@ -6344,6 +6446,7 @@
     "suwi": {
       "word": "suwi",
       "sitelen_pona": "suwi",
+      "sitelen_pona_etymology": "perhaps a pictogram of a smiling face",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_suwi.jpg",
       "luka_pona": {
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/suwi.mp4",
@@ -6430,6 +6533,7 @@
     "tan": {
       "word": "tan",
       "sitelen_pona": "tan",
+      "sitelen_pona_etymology": "a leaping arrow pointing from right to left, implying derivation or cause",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_tan.jpg",
       "luka_pona": {
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/tan.mp4",
@@ -6457,6 +6561,7 @@
     "taso": {
       "word": "taso",
       "sitelen_pona": "taso",
+      "sitelen_pona_etymology": "from blissymbol \u201cbut\u201d",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_taso.jpg",
       "luka_pona": {
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/taso.mp4",
@@ -6485,6 +6590,7 @@
     "tawa": {
       "word": "tawa",
       "sitelen_pona": "tawa",
+      "sitelen_pona_etymology": "motion radical; legs facing to the right. compare kama and blissymbol \u201cwalk\u201d",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_tawa.jpg",
       "luka_pona": {
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/tawa.mp4",
@@ -6577,6 +6683,7 @@
     "telo": {
       "word": "telo",
       "sitelen_pona": "telo",
+      "sitelen_pona_etymology": "pictogram of wave. compare blissymbol \u201cwater\u201d",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_telo.jpg",
       "luka_pona": {
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/telo.mp4",
@@ -6633,6 +6740,7 @@
     "tenpo": {
       "word": "tenpo",
       "sitelen_pona": "tenpo",
+      "sitelen_pona_etymology": "pictogram of a clock. compare blissymbol \u201ctime\u201d",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_tenpo.jpg",
       "luka_pona": {
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/tenpo.mp4",
@@ -6720,6 +6828,7 @@
     "toki": {
       "word": "toki",
       "sitelen_pona": "toki",
+      "sitelen_pona_etymology": "emission modifier + ijo or a general circle",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_toki.jpg",
       "luka_pona": {
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/toki.mp4",
@@ -6772,6 +6881,7 @@
     "tomo": {
       "word": "tomo",
       "sitelen_pona": "tomo",
+      "sitelen_pona_etymology": "pictogram of a house. compare blissymbol \u201chouse\u201d",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_tomo.jpg",
       "luka_pona": {
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/tomo.mp4",
@@ -6836,6 +6946,7 @@
     "tu": {
       "word": "tu",
       "sitelen_pona": "tu",
+      "sitelen_pona_etymology": "two tally marks. compare mute and wan",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_tu.jpg",
       "luka_pona": {
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/tu.mp4",
@@ -6947,6 +7058,7 @@
     "unpa": {
       "word": "unpa",
       "sitelen_pona": "unpa",
+      "sitelen_pona_etymology": "perhaps a derivation of heart symbol (especially visible from the original drawing of the character), or a knot pattern implying intercourse, or perhaps a pictogram of a genitalia",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_unpa.jpg",
       "luka_pona": {
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/unpa.mp4",
@@ -7034,6 +7146,7 @@
     "uta": {
       "word": "uta",
       "sitelen_pona": "uta uta1",
+      "sitelen_pona_etymology": "\u201cmouth\u201d with a dot below",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_uta.jpg",
       "luka_pona": {
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/uta.mp4",
@@ -7064,6 +7177,7 @@
     "utala": {
       "word": "utala",
       "sitelen_pona": "utala",
+      "sitelen_pona_etymology": "perhaps from crossed swords symbol (\u2694\ufe0f)",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_utala.jpg",
       "luka_pona": {
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/utala.mp4",
@@ -7153,6 +7267,7 @@
     "walo": {
       "word": "walo",
       "sitelen_pona": "walo",
+      "sitelen_pona_etymology": "color radical; perhaps the reverse of pimeja, the color radical cutting of the cross instead of vice versa",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_walo.jpg",
       "luka_pona": {
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/walo.mp4",
@@ -7182,6 +7297,7 @@
     "wan": {
       "word": "wan",
       "sitelen_pona": "wan",
+      "sitelen_pona_etymology": "one tally mark or Indo-Arabic numeral 1, perhaps to make it more distinct",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_wan.jpg",
       "luka_pona": {
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/wan.mp4",
@@ -7212,6 +7328,7 @@
     "waso": {
       "word": "waso",
       "sitelen_pona": "waso",
+      "sitelen_pona_etymology": "animal radical; pictogram of a bird",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_waso.jpg",
       "luka_pona": {
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/waso.mp4",
@@ -7265,6 +7382,7 @@
     "wawa": {
       "word": "wawa",
       "sitelen_pona": "wawa",
+      "sitelen_pona_etymology": "perhaps a pictogram of a person with raised arms, to signify strength",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_wawa.jpg",
       "luka_pona": {
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/wawa.mp4",
@@ -7349,6 +7467,7 @@
     "weka": {
       "word": "weka",
       "sitelen_pona": "weka",
+      "sitelen_pona_etymology": "\u201cpoof lines\u201d; indicating the movement of something disappearing",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_weka.jpg",
       "luka_pona": {
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/weka.mp4",
@@ -7431,6 +7550,7 @@
     "wile": {
       "word": "wile",
       "sitelen_pona": "wile wile1",
+      "sitelen_pona_etymology": "perhaps from Latin letter W",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_wile.jpg",
       "luka_pona": {
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/wile.mp4",
