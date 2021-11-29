@@ -5,7 +5,7 @@
       "name_endonym": "Sugboanon (Sulat Latin)",
       "name_english": "Cebuano (Latin)",
       "name_toki_pona": "toki Supowanon (sitelen Lasina)",
-      "completeness_percent": "2"
+      "completeness_percent": "5"
     },
     "de": {
       "id_long": "german",
@@ -412,6 +412,7 @@
         "isv_c": "\u043a\u043b\u0430\u045a\u0430\u0458\u0443\u0447\u0438 \u0441\u0435, \u043d\u0430 \u0434\u043e\u043b, \u0441\u043a\u0440\u043e\u043c\u043d\u044b, \u043f\u0440\u0438\u0437\u0435\u043c\u0458\u0435\u043d\u044b, \u0437\u0430\u0432\u0438\u0441\u043d\u044b, \u0437\u0430\u043b\u0435\u0436\u043d\u044b | ALT \u0434\u043d\u043e, \u0434\u043e\u043b, \u043f\u043e\u0434\u043b\u043e\u0433\u0430; \u0434\u043e\u043b\u043d\u044b, \u043d\u0438\u0437\u0448\u0438",
         "eo": "klinanta sin, malsupren, humila, modesta, dependa | ALT malsupro, malsupra parto, sub, planko, fundo; malsupra, suba, malalta",
         "de": "herunter, unter, nieder, niedrig, unten, Grund, Boden",
+        "ceb_l": "duko, paubos, mapaubsanon, ubos, nagasalig | ALT ubos nga bahin, ilalum, salog, sa ubos",
         "it": "inchinarsi, verso il basso, umile, dipendente | ALT fondo, parte inferiore, sotto, pavimento, al di sotto; basso, inferiore, gi\u00f9"
       }
     },
@@ -438,6 +439,7 @@
         "eo": "malsama, \u015dan\u011dita, alia",
         "de": "anders, andere(r), unterschiedlich, ver\u00e4ndert",
         "es": "diferente, alterado, cambiado, otro",
+        "ceb_l": "lain, giusab, nausab, uban",
         "it": "differente, alterato, modificato, altro"
       }
     },
@@ -466,6 +468,7 @@
         "de": "oder | w\u00e4hlen, sich entscheiden",
         "tok": "ken la, ijo li nanpa wan. ken la, ijo li nanpa tu. ni la, ijo li nanpa wan anu nanpa tu.",
         "es": "o | ALT escoger, decidir",
+        "ceb_l": "o | ALT pagpili",
         "it": "o | ALT scegliere, decidere"
       }
     },
@@ -542,6 +545,7 @@
         "isv_c": "\u043f\u0440\u043e\u0434\u043e\u043b\u0436\u0430\u0458\u0443\u0447\u0438, \u0442\u0440\u0432\u0430\u0458\u0443\u0447\u0438, \u043e\u0445\u0440\u0430\u045a\u0430\u043d\u044b, \u0431\u0435\u0437\u043e\u043f\u0430\u0441\u043d\u044b, \u0431\u0435\u0437\u043f\u0435\u0447\u043d\u044b, \u0447\u0435\u043a\u0430\u0458\u0443\u0447\u0438, \u043e\u0441\u0442\u0430\u043d\u0443\u0447\u0438; (pv.) \u043f\u0440\u043e\u0434\u043e\u043b\u0436\u0430\u0442\u0438",
         "eo": "da\u016dranta, tenata, protektita, sekura, atendanta, restanta; (a.v.) da\u016dre fari",
         "de": "bleiben, harren, warten, behalten, gesch\u00fctzt, sicher; (pv.) weitermachen, weiter(hin)",
+        "ceb_l": "paglahutay, gitipigan, gipanalipdan, luwas, paghulat, pagpabilin, (pv.) pagpadayon, taguan",
         "it": "duraturo, mantenuto, protetto, sicuro, che aspetta, che resta; (pv.) continuare a, mantenere"
       }
     },
@@ -563,6 +567,7 @@
         "eo": "(akuzativa markilo anta\u016d la rekta objekto)",
         "de": "(vor dem direkten Objekt)",
         "es": "(antes del objeto directo)",
+        "ceb_l": "(bag-o sa butang nga tigdawat)",
         "it": "(davanti all'oggetto diretto)"
       }
     },
@@ -611,6 +616,7 @@
         "eo": "(inter pluraj subjektoj) | ALT (konjunkciigas modifilojn en pi-sintagmo a\u016d objektojn de prepozicio)",
         "de": "(zwischen mehreren Subjekten)",
         "es": "(entre m\u00faltiples sujetos) | ALT (coordina modificadores en una frase con pi u objetos en una preposici\u00f3n)",
+        "ceb_l": "(tunga sa lainlain nga hilisgutan) | ALT (tigtabang sa mga pulong nga tigbag-o sa mga pi nga bahin o butang sa mga pulong nga naghulagway sa mga dapit)",
         "it": "(tra pi\u00f9 soggetti) | ALT (coordina i modificatori in una frase con pi o gli oggetti di una preposizione)"
       }
     },
@@ -695,6 +701,7 @@
         "eo": "bazaro, vendejo, foiro, komerca transakcio",
         "de": "handeln, kaufen, verkaufen, austauschen, Laden, Markt, Handel, Tausch, gerecht, Wirtschaft",
         "es": "mercado, tienda, feria, bazar, transacci\u00f3n de negocios",
+        "ceb_l": "merkado, tindahan, perya, negosyo",
         "it": "mercato, negozio, fiera, bazar, transazione commerciale"
       }
     },
