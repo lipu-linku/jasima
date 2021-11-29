@@ -165,6 +165,10 @@
       "word": "a",
       "sitelen_pona": "aa",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_a.jpg",
+      "audio": {
+        "kala_asi": "http://antetokipona.infinityfreeapp.com/kalama/kalaasi/a.mp3",
+        "jan_lakuse": "http://antetokipona.infinityfreeapp.com/kalama/jlakuse/a.mp3"
+      },
       "coined_era": "pre-pu",
       "book": "pu",
       "source_language": "onomatopoeia",
@@ -219,6 +223,10 @@
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/akesi.mp4",
         "gif": "http://antetokipona.infinityfreeapp.com/lukapona/gif/akesi.gif"
       },
+      "audio": {
+        "kala_asi": "http://antetokipona.infinityfreeapp.com/kalama/kalaasi/akesi.mp3",
+        "jan_lakuse": "http://antetokipona.infinityfreeapp.com/kalama/jlakuse/akesi.mp3"
+      },
       "coined_era": "pre-pu",
       "book": "pu",
       "source_language": "Dutch",
@@ -248,6 +256,10 @@
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/ala.mp4",
         "gif": "http://antetokipona.infinityfreeapp.com/lukapona/gif/ala.gif"
       },
+      "audio": {
+        "kala_asi": "http://antetokipona.infinityfreeapp.com/kalama/kalaasi/ala.mp3",
+        "jan_lakuse": "http://antetokipona.infinityfreeapp.com/kalama/jlakuse/ala.mp3"
+      },
       "coined_era": "pre-pu",
       "book": "pu",
       "source_language": "Georgian",
@@ -275,6 +287,10 @@
       "luka_pona": {
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/alasa.mp4",
         "gif": "http://antetokipona.infinityfreeapp.com/lukapona/gif/alasa.gif"
+      },
+      "audio": {
+        "kala_asi": "http://antetokipona.infinityfreeapp.com/kalama/kalaasi/alasa.mp3",
+        "jan_lakuse": "http://antetokipona.infinityfreeapp.com/kalama/jlakuse/alasa.mp3"
       },
       "coined_era": "pre-pu",
       "book": "pu",
@@ -308,6 +324,10 @@
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/ale.mp4",
         "gif": "http://antetokipona.infinityfreeapp.com/lukapona/gif/ale.gif"
       },
+      "audio": {
+        "kala_asi": "http://antetokipona.infinityfreeapp.com/kalama/kalaasi/ale.mp3",
+        "jan_lakuse": "http://antetokipona.infinityfreeapp.com/kalama/jlakuse/ale.mp3"
+      },
       "coined_era": "pre-pu",
       "book": "pu",
       "source_language": "Dutch",
@@ -334,6 +354,10 @@
     "ali": {
       "word": "ali",
       "sitelen_pona": "ali",
+      "audio": {
+        "kala_asi": "http://antetokipona.infinityfreeapp.com/kalama/kalaasi/ali.mp3",
+        "jan_lakuse": "http://antetokipona.infinityfreeapp.com/kalama/jlakuse/ali.mp3"
+      },
       "coined_era": "pre-pu",
       "book": "pu",
       "source_language": "Dutch",
@@ -396,6 +420,10 @@
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/anpa.mp4",
         "gif": "http://antetokipona.infinityfreeapp.com/lukapona/gif/anpa.gif"
       },
+      "audio": {
+        "kala_asi": "http://antetokipona.infinityfreeapp.com/kalama/kalaasi/anpa.mp3",
+        "jan_lakuse": "http://antetokipona.infinityfreeapp.com/kalama/jlakuse/anpa.mp3"
+      },
       "coined_era": "pre-pu",
       "book": "pu",
       "source_language": "Acadian French",
@@ -424,6 +452,10 @@
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/ante.mp4",
         "gif": "http://antetokipona.infinityfreeapp.com/lukapona/gif/ante.gif"
       },
+      "audio": {
+        "kala_asi": "http://antetokipona.infinityfreeapp.com/kalama/kalaasi/ante.mp3",
+        "jan_lakuse": "http://antetokipona.infinityfreeapp.com/kalama/jlakuse/ante.mp3"
+      },
       "coined_era": "pre-pu",
       "book": "pu",
       "source_language": "Dutch",
@@ -450,6 +482,10 @@
       "luka_pona": {
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/anu.mp4",
         "gif": "http://antetokipona.infinityfreeapp.com/lukapona/gif/anu.gif"
+      },
+      "audio": {
+        "kala_asi": "http://antetokipona.infinityfreeapp.com/kalama/kalaasi/anu.mp3",
+        "jan_lakuse": "http://antetokipona.infinityfreeapp.com/kalama/jlakuse/anu.mp3"
       },
       "coined_era": "pre-pu",
       "book": "pu",
@@ -531,6 +567,10 @@
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/awen.mp4",
         "gif": "http://antetokipona.infinityfreeapp.com/lukapona/gif/awen.gif"
       },
+      "audio": {
+        "kala_asi": "http://antetokipona.infinityfreeapp.com/kalama/kalaasi/awen.mp3",
+        "jan_lakuse": "http://antetokipona.infinityfreeapp.com/kalama/jlakuse/awen.mp3"
+      },
       "coined_era": "pre-pu",
       "book": "pu",
       "source_language": "Dutch",
@@ -553,6 +593,10 @@
       "word": "e",
       "sitelen_pona": "ee",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_e.jpg",
+      "audio": {
+        "kala_asi": "http://antetokipona.infinityfreeapp.com/kalama/kalaasi/e.mp3",
+        "jan_lakuse": "http://antetokipona.infinityfreeapp.com/kalama/jlakuse/e.mp3"
+      },
       "coined_era": "pre-pu",
       "book": "pu",
       "source_language": "a priori",
@@ -598,6 +642,10 @@
       "luka_pona": {
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/en.mp4",
         "gif": "http://antetokipona.infinityfreeapp.com/lukapona/gif/en.gif"
+      },
+      "audio": {
+        "kala_asi": "http://antetokipona.infinityfreeapp.com/kalama/kalaasi/en.mp3",
+        "jan_lakuse": "http://antetokipona.infinityfreeapp.com/kalama/jlakuse/en.mp3"
       },
       "coined_era": "pre-pu",
       "book": "pu",
@@ -647,6 +695,9 @@
       "word": "epiku",
       "sitelen_pona": "epiku",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_epiku.jpg",
+      "audio": {
+        "jan_lakuse": "http://antetokipona.infinityfreeapp.com/kalama/jlakuse/epiku.mp3"
+      },
       "coined_year": "2019",
       "coined_era": "post-pu",
       "book": "ku suli",
@@ -681,6 +732,10 @@
       "luka_pona": {
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/esun.mp4",
         "gif": "http://antetokipona.infinityfreeapp.com/lukapona/gif/esun.gif"
+      },
+      "audio": {
+        "kala_asi": "http://antetokipona.infinityfreeapp.com/kalama/kalaasi/esun.mp3",
+        "jan_lakuse": "http://antetokipona.infinityfreeapp.com/kalama/jlakuse/esun.mp3"
       },
       "coined_era": "pre-pu",
       "book": "pu",
@@ -798,6 +853,10 @@
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/ijo.mp4",
         "gif": "http://antetokipona.infinityfreeapp.com/lukapona/gif/ijo.gif"
       },
+      "audio": {
+        "kala_asi": "http://antetokipona.infinityfreeapp.com/kalama/kalaasi/ijo.mp3",
+        "jan_lakuse": "http://antetokipona.infinityfreeapp.com/kalama/jlakuse/ijo.mp3"
+      },
       "coined_era": "pre-pu",
       "book": "pu",
       "source_language": "Esperanto",
@@ -824,6 +883,10 @@
       "luka_pona": {
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/ike.mp4",
         "gif": "http://antetokipona.infinityfreeapp.com/lukapona/gif/ike.gif"
+      },
+      "audio": {
+        "kala_asi": "http://antetokipona.infinityfreeapp.com/kalama/kalaasi/ike.mp3",
+        "jan_lakuse": "http://antetokipona.infinityfreeapp.com/kalama/jlakuse/ike.mp3"
       },
       "coined_era": "pre-pu",
       "book": "pu",
@@ -882,6 +945,10 @@
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/ilo.mp4",
         "gif": "http://antetokipona.infinityfreeapp.com/lukapona/gif/ilo.gif"
       },
+      "audio": {
+        "kala_asi": "http://antetokipona.infinityfreeapp.com/kalama/kalaasi/ilo.mp3",
+        "jan_lakuse": "http://antetokipona.infinityfreeapp.com/kalama/jlakuse/ilo.mp3"
+      },
       "coined_era": "pre-pu",
       "book": "pu",
       "source_language": "Esperanto",
@@ -938,6 +1005,10 @@
       "luka_pona": {
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/insa.mp4",
         "gif": "http://antetokipona.infinityfreeapp.com/lukapona/gif/insa.gif"
+      },
+      "audio": {
+        "kala_asi": "http://antetokipona.infinityfreeapp.com/kalama/kalaasi/insa.mp3",
+        "jan_lakuse": "http://antetokipona.infinityfreeapp.com/kalama/jlakuse/insa.mp3"
       },
       "coined_era": "pre-pu",
       "book": "pu",
@@ -1057,6 +1128,10 @@
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/jaki.mp4",
         "gif": "http://antetokipona.infinityfreeapp.com/lukapona/gif/jaki.gif"
       },
+      "audio": {
+        "kala_asi": "http://antetokipona.infinityfreeapp.com/kalama/kalaasi/jaki.mp3",
+        "jan_lakuse": "http://antetokipona.infinityfreeapp.com/kalama/jlakuse/jaki.mp3"
+      },
       "coined_era": "pre-pu",
       "book": "pu",
       "source_language": "English",
@@ -1172,6 +1247,10 @@
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/jan.mp4",
         "gif": "http://antetokipona.infinityfreeapp.com/lukapona/gif/jan.gif"
       },
+      "audio": {
+        "kala_asi": "http://antetokipona.infinityfreeapp.com/kalama/kalaasi/jan.mp3",
+        "jan_lakuse": "http://antetokipona.infinityfreeapp.com/kalama/jlakuse/jan.mp3"
+      },
       "coined_era": "pre-pu",
       "book": "pu",
       "source_language": "Cantonese",
@@ -1214,6 +1293,9 @@
       "word": "jasima",
       "sitelen_pona": "jasima",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_jasima.jpg",
+      "audio": {
+        "jan_lakuse": "http://antetokipona.infinityfreeapp.com/kalama/jlakuse/jasima.mp3"
+      },
       "coined_year": "2018",
       "coined_era": "post-pu",
       "book": "ku suli",
@@ -1300,6 +1382,10 @@
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/jelo.mp4",
         "gif": "http://antetokipona.infinityfreeapp.com/lukapona/gif/jelo.gif"
       },
+      "audio": {
+        "kala_asi": "http://antetokipona.infinityfreeapp.com/kalama/kalaasi/jelo.mp3",
+        "jan_lakuse": "http://antetokipona.infinityfreeapp.com/kalama/jlakuse/jelo.mp3"
+      },
       "coined_era": "pre-pu",
       "book": "pu",
       "source_language": "English",
@@ -1326,6 +1412,10 @@
       "luka_pona": {
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/jo.mp4",
         "gif": "http://antetokipona.infinityfreeapp.com/lukapona/gif/jo.gif"
+      },
+      "audio": {
+        "kala_asi": "http://antetokipona.infinityfreeapp.com/kalama/kalaasi/jo.mp3",
+        "jan_lakuse": "http://antetokipona.infinityfreeapp.com/kalama/jlakuse/jo.mp3"
       },
       "coined_era": "pre-pu",
       "book": "pu",
@@ -1449,6 +1539,10 @@
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/kala.mp4",
         "gif": "http://antetokipona.infinityfreeapp.com/lukapona/gif/kala.gif"
       },
+      "audio": {
+        "kala_asi": "http://antetokipona.infinityfreeapp.com/kalama/kalaasi/kala.mp3",
+        "jan_lakuse": "http://antetokipona.infinityfreeapp.com/kalama/jlakuse/kala.mp3"
+      },
       "coined_era": "pre-pu",
       "book": "pu",
       "source_language": "Finnish",
@@ -1476,6 +1570,10 @@
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/kalama.mp4",
         "gif": "http://antetokipona.infinityfreeapp.com/lukapona/gif/kalama.gif"
       },
+      "audio": {
+        "kala_asi": "http://antetokipona.infinityfreeapp.com/kalama/kalaasi/kalama.mp3",
+        "jan_lakuse": "http://antetokipona.infinityfreeapp.com/kalama/jlakuse/kalama.mp3"
+      },
       "coined_era": "pre-pu",
       "book": "pu",
       "source_language": "Serbo-Croatian",
@@ -1490,6 +1588,7 @@
         "isv_c": "\u0438\u0437\u0442\u0432\u043e\u0440\u0438\u0442\u0438 \u0437\u0432\u0443\u043a; \u0447\u0438\u0442\u0430\u0442\u0438, \u0433\u043b\u0430\u0441\u043d\u043e \u0438\u0437\u0433\u043e\u0432\u0430\u0440\u0458\u0430\u0442\u0438",
         "eo": "fari sonon; reciti, diri la\u016dte/vo\u0109e",
         "de": "Laut, Ger\u00e4usch, Ger\u00e4usche produzieren, \u00e4u\u00dfern",
+        "es": "producir un sonido, recitar, pronunciar en voz alta",
         "it": "produrre un suono; recitare, pronunciare ad alta voce"
       }
     },
@@ -1521,6 +1620,10 @@
       "word": "kama",
       "sitelen_pona": "kama",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_kama.jpg",
+      "audio": {
+        "kala_asi": "http://antetokipona.infinityfreeapp.com/kalama/kalaasi/kama.mp3",
+        "jan_lakuse": "http://antetokipona.infinityfreeapp.com/kalama/jlakuse/kama.mp3"
+      },
       "coined_era": "pre-pu",
       "book": "pu",
       "source_language": "Tok Pisin",
@@ -1535,6 +1638,7 @@
         "isv_c": "\u043f\u0440\u0438\u0445\u043e\u0434\u0435\u0447\u0438, \u043f\u0440\u0438\u0431\u044b\u0432\u0430\u0458\u0443\u0447\u0438, \u0431\u0443\u0434\u0443\u0447\u0438, \u043f\u0440\u0438\u0437\u0432\u0430\u043d\u044b; (pv.) \u0441\u0442\u0430\u0442\u0438, \u0443\u0441\u043f\u0454\u0442\u0438, \u0443\u0434\u0430\u0432\u0430\u0442\u0438 \u0441\u0435",
         "eo": "alvenanta, venonta, estonteca, vokita; (a.v.) i\u011di, sukcesi, elturni\u011di pri",
         "de": "kommen, ankommen, Zukunft | (pv.) werden, etw. fertigbringen",
+        "es": "llegar, pr\u00f3ximo, futuro, convocar; (pv.) convertirse, lograr, suceder a",
         "it": "arrivare, venire, futuro, convocato; (pv.) diventare, riuscire a"
       }
     },
@@ -1668,6 +1772,10 @@
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/kasi.mp4",
         "gif": "http://antetokipona.infinityfreeapp.com/lukapona/gif/kasi.gif"
       },
+      "audio": {
+        "kala_asi": "http://antetokipona.infinityfreeapp.com/kalama/kalaasi/kasi.mp3",
+        "jan_lakuse": "http://antetokipona.infinityfreeapp.com/kalama/jlakuse/kasi.mp3"
+      },
       "coined_era": "pre-pu",
       "book": "pu",
       "source_language": "Finnish",
@@ -1725,6 +1833,10 @@
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/ken.mp4",
         "gif": "http://antetokipona.infinityfreeapp.com/lukapona/gif/ken.gif"
       },
+      "audio": {
+        "kala_asi": "http://antetokipona.infinityfreeapp.com/kalama/kalaasi/ken.mp3",
+        "jan_lakuse": "http://antetokipona.infinityfreeapp.com/kalama/jlakuse/ken.mp3"
+      },
       "coined_era": "pre-pu",
       "book": "pu",
       "source_language": "Tok Pisin",
@@ -1750,6 +1862,10 @@
       "luka_pona": {
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/kepeken.mp4",
         "gif": "http://antetokipona.infinityfreeapp.com/lukapona/gif/kepeken.gif"
+      },
+      "audio": {
+        "kala_asi": "http://antetokipona.infinityfreeapp.com/kalama/kalaasi/kepeken.mp3",
+        "jan_lakuse": "http://antetokipona.infinityfreeapp.com/kalama/jlakuse/kepeken.mp3"
       },
       "coined_era": "pre-pu",
       "book": "pu",
@@ -1830,6 +1946,10 @@
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/kijetesantakalu.mp4",
         "gif": "http://antetokipona.infinityfreeapp.com/lukapona/gif/kijetesantakalu.gif"
       },
+      "audio": {
+        "kala_asi": "http://antetokipona.infinityfreeapp.com/kalama/kalaasi/kijetesantakalu.mp3",
+        "jan_lakuse": "http://antetokipona.infinityfreeapp.com/kalama/jlakuse/kijetesantakalu.mp3"
+      },
       "coined_year": "2009",
       "coined_era": "pre-pu",
       "book": "ku suli",
@@ -1898,6 +2018,10 @@
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/kili.mp4",
         "gif": "http://antetokipona.infinityfreeapp.com/lukapona/gif/kili.gif"
       },
+      "audio": {
+        "kala_asi": "http://antetokipona.infinityfreeapp.com/kalama/kalaasi/kili.mp3",
+        "jan_lakuse": "http://antetokipona.infinityfreeapp.com/kalama/jlakuse/kili.mp3"
+      },
       "coined_era": "pre-pu",
       "book": "pu",
       "source_language": "Georgian",
@@ -1921,6 +2045,10 @@
       "word": "kin",
       "sitelen_pona": "kin",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_kin.jpg",
+      "audio": {
+        "kala_asi": "http://antetokipona.infinityfreeapp.com/kalama/kalaasi/kin.mp3",
+        "jan_lakuse": "http://antetokipona.infinityfreeapp.com/kalama/jlakuse/kin.mp3"
+      },
       "coined_year": "2001",
       "coined_era": "pre-pu",
       "book": "ku suli",
@@ -1957,6 +2085,10 @@
       "luka_pona": {
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/kipisi.mp4",
         "gif": "http://antetokipona.infinityfreeapp.com/lukapona/gif/kipisi.gif"
+      },
+      "audio": {
+        "kala_asi": "http://antetokipona.infinityfreeapp.com/kalama/kalaasi/kipisi.mp3",
+        "jan_lakuse": "http://antetokipona.infinityfreeapp.com/kalama/jlakuse/kipisi.mp3"
       },
       "coined_year": "2009",
       "coined_era": "pre-pu",
@@ -2020,6 +2152,10 @@
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/kiwen.mp4",
         "gif": "http://antetokipona.infinityfreeapp.com/lukapona/gif/kiwen.gif"
       },
+      "audio": {
+        "kala_asi": "http://antetokipona.infinityfreeapp.com/kalama/kalaasi/kiwen.mp3",
+        "jan_lakuse": "http://antetokipona.infinityfreeapp.com/kalama/jlakuse/kiwen.mp3"
+      },
       "coined_era": "pre-pu",
       "book": "pu",
       "source_language": "Finnish",
@@ -2046,6 +2182,10 @@
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/ko.mp4",
         "gif": "http://antetokipona.infinityfreeapp.com/lukapona/gif/ko.gif"
       },
+      "audio": {
+        "kala_asi": "http://antetokipona.infinityfreeapp.com/kalama/kalaasi/ko.mp3",
+        "jan_lakuse": "http://antetokipona.infinityfreeapp.com/kalama/jlakuse/ko.mp3"
+      },
       "coined_era": "pre-pu",
       "book": "pu",
       "source_language": "Cantonese",
@@ -2069,6 +2209,9 @@
       "word": "kokosila",
       "sitelen_pona": "kokosila kokosila1",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_kokosila.jpg",
+      "audio": {
+        "jan_lakuse": "http://antetokipona.infinityfreeapp.com/kalama/jlakuse/kokosila.mp3"
+      },
       "coined_year": "2020",
       "coined_era": "post-pu",
       "book": "ku suli",
@@ -2102,6 +2245,10 @@
       "luka_pona": {
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/kon.mp4",
         "gif": "http://antetokipona.infinityfreeapp.com/lukapona/gif/kon.gif"
+      },
+      "audio": {
+        "kala_asi": "http://antetokipona.infinityfreeapp.com/kalama/kalaasi/kon.mp3",
+        "jan_lakuse": "http://antetokipona.infinityfreeapp.com/kalama/jlakuse/kon.mp3"
       },
       "coined_era": "pre-pu",
       "book": "pu",
@@ -2164,6 +2311,9 @@
     "ku": {
       "word": "ku",
       "sitelen_pona": "ku ku3",
+      "audio": {
+        "jan_lakuse": "http://antetokipona.infinityfreeapp.com/kalama/jlakuse/ku.mp3"
+      },
       "coined_year": "2021",
       "coined_era": "post-pu",
       "book": "ku suli",
@@ -2181,7 +2331,7 @@
         "ru": "\u0432\u0437\u0430\u0438\u043c\u043e\u0434\u0435\u0439\u0441\u0442\u0432\u043e\u0432\u0430\u0442\u044c \u0441\u043e \u0441\u043b\u043e\u0432\u0430\u0440\u0435\u043c Toki Pona \u0421\u043e\u043d\u0438 \u041b\u0430\u043d\u0433",
         "eo": "interagante kun la Tokipona Vortaro de Sonja Lang",
         "de": "interagieren mit dem Toki Pona W\u00f6rterbuch von Sonja Lang",
-        "tok": "lipu ku li lipu sin tan jan Sonja. ijo anu jan li lon poka lipu ku la, ona li ku.",
+        "tok": "lipu nanpa tu pi jan Sonja la, sina lukin e ona la sina ku. sina kepeken ona la sina ku.",
         "es": "interactuando con el Diccionario Toki Pona por Sonja Lang",
         "hi": "\u0938\u094b\u0928\u094d\u092f\u093e \u0932\u093e\u0902\u0917 \u0915\u0947 \u0924\u0947\u0915\u0940 \u092a\u094b\u0928\u093e \u0936\u092c\u094d\u0926\u0915\u094b\u0936 \u0915\u0947 \u0938\u093e\u0925 \u0915\u0941\u091b \u0915\u0930\u0928\u0947 \u0935\u093e\u0932\u093e",
         "ur": "\u0633\u0648\u0646\u06cc\u06c1 \u0644\u0627\u0646\u06af \u06a9\u06d2 \u062a\u0648\u06a9\u06cc \u067e\u0648\u0646\u06c1 \u0644\u063a\u062a \u06a9\u06d2 \u0633\u0627\u062a\u06be \u06a9\u0686\u06be \u06a9\u0631\u0646\u06d2 \u0648\u0627\u0644\u0627",
@@ -2197,6 +2347,10 @@
       "luka_pona": {
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/kule.mp4",
         "gif": "http://antetokipona.infinityfreeapp.com/lukapona/gif/kule.gif"
+      },
+      "audio": {
+        "kala_asi": "http://antetokipona.infinityfreeapp.com/kalama/kalaasi/kule.mp3",
+        "jan_lakuse": "http://antetokipona.infinityfreeapp.com/kalama/jlakuse/kule.mp3"
       },
       "coined_era": "pre-pu",
       "book": "pu",
@@ -2279,6 +2433,10 @@
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/kulupu.mp4",
         "gif": "http://antetokipona.infinityfreeapp.com/lukapona/gif/kulupu.gif"
       },
+      "audio": {
+        "kala_asi": "http://antetokipona.infinityfreeapp.com/kalama/kalaasi/kulupu.mp3",
+        "jan_lakuse": "http://antetokipona.infinityfreeapp.com/kalama/jlakuse/kulupu.mp3"
+      },
       "coined_era": "pre-pu",
       "book": "pu",
       "source_language": "Tongan",
@@ -2334,6 +2492,10 @@
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/kute.mp4",
         "gif": "http://antetokipona.infinityfreeapp.com/lukapona/gif/kute.gif"
       },
+      "audio": {
+        "kala_asi": "http://antetokipona.infinityfreeapp.com/kalama/kalaasi/kute.mp3",
+        "jan_lakuse": "http://antetokipona.infinityfreeapp.com/kalama/jlakuse/kute.mp3"
+      },
       "coined_era": "pre-pu",
       "book": "pu",
       "source_language": "Acadian French",
@@ -2359,6 +2521,10 @@
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/la.mp4",
         "gif": "http://antetokipona.infinityfreeapp.com/lukapona/gif/la.gif"
       },
+      "audio": {
+        "kala_asi": "http://antetokipona.infinityfreeapp.com/kalama/kalaasi/la.mp3",
+        "jan_lakuse": "http://antetokipona.infinityfreeapp.com/kalama/jlakuse/la.mp3"
+      },
       "coined_era": "pre-pu",
       "book": "pu",
       "source_language": "multiple possibilities",
@@ -2380,6 +2546,9 @@
       "word": "lanpan",
       "sitelen_pona": "lanpan lanpan1",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_lanpan.jpg",
+      "audio": {
+        "jan_lakuse": "http://antetokipona.infinityfreeapp.com/kalama/jlakuse/lanpan.mp3"
+      },
       "coined_year": "2017",
       "coined_era": "post-pu",
       "book": "ku suli",
@@ -2415,6 +2584,10 @@
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/lape.mp4",
         "gif": "http://antetokipona.infinityfreeapp.com/lukapona/gif/lape.gif"
       },
+      "audio": {
+        "kala_asi": "http://antetokipona.infinityfreeapp.com/kalama/kalaasi/lape.mp3",
+        "jan_lakuse": "http://antetokipona.infinityfreeapp.com/kalama/jlakuse/lape.mp3"
+      },
       "coined_era": "pre-pu",
       "book": "pu",
       "source_language": "Dutch",
@@ -2440,6 +2613,10 @@
       "luka_pona": {
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/laso.mp4",
         "gif": "http://antetokipona.infinityfreeapp.com/lukapona/gif/laso.gif"
+      },
+      "audio": {
+        "kala_asi": "http://antetokipona.infinityfreeapp.com/kalama/kalaasi/laso.mp3",
+        "jan_lakuse": "http://antetokipona.infinityfreeapp.com/kalama/jlakuse/laso.mp3"
       },
       "coined_era": "pre-pu",
       "book": "pu",
@@ -2467,6 +2644,10 @@
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/lawa.mp4",
         "gif": "http://antetokipona.infinityfreeapp.com/lukapona/gif/lawa.gif"
       },
+      "audio": {
+        "kala_asi": "http://antetokipona.infinityfreeapp.com/kalama/kalaasi/lawa.mp3",
+        "jan_lakuse": "http://antetokipona.infinityfreeapp.com/kalama/jlakuse/lawa.mp3"
+      },
       "coined_era": "pre-pu",
       "book": "pu",
       "source_language": "Serbo-Croatian",
@@ -2492,6 +2673,9 @@
       "luka_pona": {
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/leko.mp4",
         "gif": "http://antetokipona.infinityfreeapp.com/lukapona/gif/leko.gif"
+      },
+      "audio": {
+        "jan_lakuse": "http://antetokipona.infinityfreeapp.com/kalama/jlakuse/leko.mp3"
       },
       "coined_year": "2001",
       "coined_era": "pre-pu",
@@ -2526,6 +2710,10 @@
       "luka_pona": {
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/len.mp4",
         "gif": "http://antetokipona.infinityfreeapp.com/lukapona/gif/len.gif"
+      },
+      "audio": {
+        "kala_asi": "http://antetokipona.infinityfreeapp.com/kalama/kalaasi/len.mp3",
+        "jan_lakuse": "http://antetokipona.infinityfreeapp.com/kalama/jlakuse/len.mp3"
       },
       "coined_era": "pre-pu",
       "book": "pu",
@@ -2582,6 +2770,10 @@
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/lete.mp4",
         "gif": "http://antetokipona.infinityfreeapp.com/lukapona/gif/lete.gif"
       },
+      "audio": {
+        "kala_asi": "http://antetokipona.infinityfreeapp.com/kalama/kalaasi/lete.mp3",
+        "jan_lakuse": "http://antetokipona.infinityfreeapp.com/kalama/jlakuse/lete.mp3"
+      },
       "coined_era": "pre-pu",
       "book": "pu",
       "source_language": "Acadian French",
@@ -2603,6 +2795,10 @@
       "word": "li",
       "sitelen_pona": "li",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_li.jpg",
+      "audio": {
+        "kala_asi": "http://antetokipona.infinityfreeapp.com/kalama/kalaasi/li.mp3",
+        "jan_lakuse": "http://antetokipona.infinityfreeapp.com/kalama/jlakuse/li.mp3"
+      },
       "coined_era": "pre-pu",
       "book": "pu",
       "source_language": "Esperanto",
@@ -2659,6 +2855,10 @@
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/lili.mp4",
         "gif": "http://antetokipona.infinityfreeapp.com/lukapona/gif/lili.gif"
       },
+      "audio": {
+        "kala_asi": "http://antetokipona.infinityfreeapp.com/kalama/kalaasi/lili.mp3",
+        "jan_lakuse": "http://antetokipona.infinityfreeapp.com/kalama/jlakuse/lili.mp3"
+      },
       "coined_era": "pre-pu",
       "book": "pu",
       "source_language": "Tok Pisin",
@@ -2683,6 +2883,10 @@
       "luka_pona": {
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/linja.mp4",
         "gif": "http://antetokipona.infinityfreeapp.com/lukapona/gif/linja.gif"
+      },
+      "audio": {
+        "kala_asi": "http://antetokipona.infinityfreeapp.com/kalama/kalaasi/linja.mp3",
+        "jan_lakuse": "http://antetokipona.infinityfreeapp.com/kalama/jlakuse/linja.mp3"
       },
       "coined_era": "pre-pu",
       "book": "pu",
@@ -2740,6 +2944,10 @@
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/lipu.mp4",
         "gif": "http://antetokipona.infinityfreeapp.com/lukapona/gif/lipu.gif"
       },
+      "audio": {
+        "kala_asi": "http://antetokipona.infinityfreeapp.com/kalama/kalaasi/lipu.mp3",
+        "jan_lakuse": "http://antetokipona.infinityfreeapp.com/kalama/jlakuse/lipu.mp3"
+      },
       "coined_era": "pre-pu",
       "book": "pu",
       "source_language": "Finnish",
@@ -2764,6 +2972,10 @@
       "luka_pona": {
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/loje.mp4",
         "gif": "http://antetokipona.infinityfreeapp.com/lukapona/gif/loje.gif"
+      },
+      "audio": {
+        "kala_asi": "http://antetokipona.infinityfreeapp.com/kalama/kalaasi/loje.mp3",
+        "jan_lakuse": "http://antetokipona.infinityfreeapp.com/kalama/jlakuse/loje.mp3"
       },
       "coined_era": "pre-pu",
       "book": "pu",
@@ -2876,6 +3088,10 @@
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/lon.mp4",
         "gif": "http://antetokipona.infinityfreeapp.com/lukapona/gif/lon.gif"
       },
+      "audio": {
+        "kala_asi": "http://antetokipona.infinityfreeapp.com/kalama/kalaasi/lon.mp3",
+        "jan_lakuse": "http://antetokipona.infinityfreeapp.com/kalama/jlakuse/lon.mp3"
+      },
       "coined_era": "pre-pu",
       "book": "pu",
       "source_language": "Tok Pisin",
@@ -2947,6 +3163,10 @@
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/luka.mp4",
         "gif": "http://antetokipona.infinityfreeapp.com/lukapona/gif/luka.gif"
       },
+      "audio": {
+        "kala_asi": "http://antetokipona.infinityfreeapp.com/kalama/kalaasi/luka.mp3",
+        "jan_lakuse": "http://antetokipona.infinityfreeapp.com/kalama/jlakuse/luka.mp3"
+      },
       "coined_era": "pre-pu",
       "book": "pu",
       "source_language": "Serbo-Croatian",
@@ -2971,6 +3191,10 @@
       "luka_pona": {
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/lukin.mp4",
         "gif": "http://antetokipona.infinityfreeapp.com/lukapona/gif/lukin.gif"
+      },
+      "audio": {
+        "kala_asi": "http://antetokipona.infinityfreeapp.com/kalama/kalaasi/lukin.mp3",
+        "jan_lakuse": "http://antetokipona.infinityfreeapp.com/kalama/jlakuse/lukin.mp3"
       },
       "coined_era": "pre-pu",
       "book": "pu",
@@ -3000,6 +3224,10 @@
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/lupa.mp4",
         "gif": "http://antetokipona.infinityfreeapp.com/lukapona/gif/lupa.gif"
       },
+      "audio": {
+        "kala_asi": "http://antetokipona.infinityfreeapp.com/kalama/kalaasi/lupa.mp3",
+        "jan_lakuse": "http://antetokipona.infinityfreeapp.com/kalama/jlakuse/lupa.mp3"
+      },
       "coined_era": "pre-pu",
       "book": "pu",
       "source_language": "Lojban",
@@ -3026,6 +3254,10 @@
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/ma.mp4",
         "gif": "http://antetokipona.infinityfreeapp.com/lukapona/gif/ma.gif"
       },
+      "audio": {
+        "kala_asi": "http://antetokipona.infinityfreeapp.com/kalama/kalaasi/ma.mp3",
+        "jan_lakuse": "http://antetokipona.infinityfreeapp.com/kalama/jlakuse/ma.mp3"
+      },
       "coined_era": "pre-pu",
       "book": "pu",
       "source_language": "Finnish",
@@ -3046,6 +3278,9 @@
     "majuna": {
       "word": "majuna",
       "sitelen_pona": "majuna",
+      "audio": {
+        "jan_lakuse": "http://antetokipona.infinityfreeapp.com/kalama/jlakuse/majuna.mp3"
+      },
       "coined_year": "<2001",
       "coined_era": "pre-pu",
       "book": "ku lili",
@@ -3083,6 +3318,10 @@
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/mama.mp4",
         "gif": "http://antetokipona.infinityfreeapp.com/lukapona/gif/mama.gif"
       },
+      "audio": {
+        "kala_asi": "http://antetokipona.infinityfreeapp.com/kalama/kalaasi/mama.mp3",
+        "jan_lakuse": "http://antetokipona.infinityfreeapp.com/kalama/jlakuse/mama.mp3"
+      },
       "coined_era": "pre-pu",
       "book": "pu",
       "source_language": "Georgian",
@@ -3107,6 +3346,10 @@
       "luka_pona": {
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/mani.mp4",
         "gif": "http://antetokipona.infinityfreeapp.com/lukapona/gif/mani.gif"
+      },
+      "audio": {
+        "kala_asi": "http://antetokipona.infinityfreeapp.com/kalama/kalaasi/mani.mp3",
+        "jan_lakuse": "http://antetokipona.infinityfreeapp.com/kalama/jlakuse/mani.mp3"
       },
       "coined_era": "pre-pu",
       "book": "pu",
@@ -3148,6 +3391,10 @@
       "luka_pona": {
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/meli.mp4",
         "gif": "http://antetokipona.infinityfreeapp.com/lukapona/gif/meli.gif"
+      },
+      "audio": {
+        "kala_asi": "http://antetokipona.infinityfreeapp.com/kalama/kalaasi/meli.mp3",
+        "jan_lakuse": "http://antetokipona.infinityfreeapp.com/kalama/jlakuse/meli.mp3"
       },
       "coined_era": "pre-pu",
       "book": "pu",
@@ -3204,6 +3451,9 @@
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/meso.mp4",
         "gif": "http://antetokipona.infinityfreeapp.com/lukapona/gif/meso.gif"
       },
+      "audio": {
+        "jan_lakuse": "http://antetokipona.infinityfreeapp.com/kalama/jlakuse/meso.mp3"
+      },
       "coined_year": "2020",
       "coined_era": "post-pu",
       "book": "ku suli",
@@ -3237,6 +3487,10 @@
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/mi.mp4",
         "gif": "http://antetokipona.infinityfreeapp.com/lukapona/gif/mi.gif"
       },
+      "audio": {
+        "kala_asi": "http://antetokipona.infinityfreeapp.com/kalama/kalaasi/mi.mp3",
+        "jan_lakuse": "http://antetokipona.infinityfreeapp.com/kalama/jlakuse/mi.mp3"
+      },
       "coined_era": "pre-pu",
       "book": "pu",
       "source_language": "Esperanto",
@@ -3263,6 +3517,10 @@
       "luka_pona": {
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/mije.mp4",
         "gif": "http://antetokipona.infinityfreeapp.com/lukapona/gif/mije.gif"
+      },
+      "audio": {
+        "kala_asi": "http://antetokipona.infinityfreeapp.com/kalama/kalaasi/mije.mp3",
+        "jan_lakuse": "http://antetokipona.infinityfreeapp.com/kalama/jlakuse/mije.mp3"
       },
       "coined_era": "pre-pu",
       "book": "pu",
@@ -3348,6 +3606,9 @@
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/misikeke.mp4",
         "gif": "http://antetokipona.infinityfreeapp.com/lukapona/gif/misikeke.gif"
       },
+      "audio": {
+        "jan_lakuse": "http://antetokipona.infinityfreeapp.com/kalama/jlakuse/misikeke.mp3"
+      },
       "coined_year": "2001-2009",
       "coined_era": "pre-pu",
       "book": "ku suli",
@@ -3384,6 +3645,10 @@
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/moku.mp4",
         "gif": "http://antetokipona.infinityfreeapp.com/lukapona/gif/moku.gif"
       },
+      "audio": {
+        "kala_asi": "http://antetokipona.infinityfreeapp.com/kalama/kalaasi/moku.mp3",
+        "jan_lakuse": "http://antetokipona.infinityfreeapp.com/kalama/jlakuse/moku.mp3"
+      },
       "coined_era": "pre-pu",
       "book": "pu",
       "source_language": "Japanese",
@@ -3408,6 +3673,10 @@
       "luka_pona": {
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/moli.mp4",
         "gif": "http://antetokipona.infinityfreeapp.com/lukapona/gif/moli.gif"
+      },
+      "audio": {
+        "kala_asi": "http://antetokipona.infinityfreeapp.com/kalama/kalaasi/moli.mp3",
+        "jan_lakuse": "http://antetokipona.infinityfreeapp.com/kalama/jlakuse/moli.mp3"
       },
       "coined_era": "pre-pu",
       "book": "pu",
@@ -3456,6 +3725,10 @@
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/monsi.mp4",
         "gif": "http://antetokipona.infinityfreeapp.com/lukapona/gif/monsi.gif"
       },
+      "audio": {
+        "kala_asi": "http://antetokipona.infinityfreeapp.com/kalama/kalaasi/monsi.mp3",
+        "jan_lakuse": "http://antetokipona.infinityfreeapp.com/kalama/jlakuse/monsi.mp3"
+      },
       "coined_era": "pre-pu",
       "book": "pu",
       "source_language": "Acadian French",
@@ -3480,6 +3753,10 @@
       "luka_pona": {
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/monsuta.mp4",
         "gif": "http://antetokipona.infinityfreeapp.com/lukapona/gif/monsuta.gif"
+      },
+      "audio": {
+        "kala_asi": "http://antetokipona.infinityfreeapp.com/kalama/kalaasi/monsuta.mp3",
+        "jan_lakuse": "http://antetokipona.infinityfreeapp.com/kalama/jlakuse/monsuta.mp3"
       },
       "coined_year": "2009",
       "coined_era": "pre-pu",
@@ -3515,6 +3792,10 @@
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/mu.mp4",
         "gif": "http://antetokipona.infinityfreeapp.com/lukapona/gif/mu.gif"
       },
+      "audio": {
+        "kala_asi": "http://antetokipona.infinityfreeapp.com/kalama/kalaasi/mu.mp3",
+        "jan_lakuse": "http://antetokipona.infinityfreeapp.com/kalama/jlakuse/mu.mp3"
+      },
       "coined_era": "pre-pu",
       "book": "pu",
       "source_language": "onomatopoeia",
@@ -3533,6 +3814,9 @@
     "mulapisu": {
       "word": "mulapisu",
       "sitelen_pona": "mulapisu",
+      "audio": {
+        "jan_lakuse": "http://antetokipona.infinityfreeapp.com/kalama/jlakuse/mulapisu.mp3"
+      },
       "coined_year": "2019",
       "coined_era": "post-pu",
       "book": "ku lili",
@@ -3570,6 +3854,10 @@
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/mun.mp4",
         "gif": "http://antetokipona.infinityfreeapp.com/lukapona/gif/mun.gif"
       },
+      "audio": {
+        "kala_asi": "http://antetokipona.infinityfreeapp.com/kalama/kalaasi/mun.mp3",
+        "jan_lakuse": "http://antetokipona.infinityfreeapp.com/kalama/jlakuse/mun.mp3"
+      },
       "coined_era": "pre-pu",
       "book": "pu",
       "source_language": "English",
@@ -3594,6 +3882,10 @@
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/musi.mp4",
         "gif": "http://antetokipona.infinityfreeapp.com/lukapona/gif/musi.gif"
       },
+      "audio": {
+        "kala_asi": "http://antetokipona.infinityfreeapp.com/kalama/kalaasi/musi.mp3",
+        "jan_lakuse": "http://antetokipona.infinityfreeapp.com/kalama/jlakuse/musi.mp3"
+      },
       "coined_era": "pre-pu",
       "book": "pu",
       "source_language": "Esperanto",
@@ -3617,6 +3909,10 @@
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/mute.mp4",
         "gif": "http://antetokipona.infinityfreeapp.com/lukapona/gif/mute.gif"
       },
+      "audio": {
+        "kala_asi": "http://antetokipona.infinityfreeapp.com/kalama/kalaasi/mute.mp3",
+        "jan_lakuse": "http://antetokipona.infinityfreeapp.com/kalama/jlakuse/mute.mp3"
+      },
       "coined_era": "pre-pu",
       "book": "pu",
       "source_language": "Esperanto",
@@ -3637,6 +3933,9 @@
       "word": "n",
       "sitelen_pona": "\ue561",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_n.jpg",
+      "audio": {
+        "jan_lakuse": "http://antetokipona.infinityfreeapp.com/kalama/jlakuse/n.mp3"
+      },
       "coined_year": "2021",
       "coined_era": "post-pu",
       "book": "ku suli",
@@ -3662,6 +3961,10 @@
       "word": "namako",
       "sitelen_pona": "namako",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_namako.jpg",
+      "audio": {
+        "kala_asi": "http://antetokipona.infinityfreeapp.com/kalama/kalaasi/namako.mp3",
+        "jan_lakuse": "http://antetokipona.infinityfreeapp.com/kalama/jlakuse/namako.mp3"
+      },
       "coined_year": "2009",
       "coined_era": "pre-pu",
       "book": "ku suli",
@@ -3699,6 +4002,10 @@
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/nanpa.mp4",
         "gif": "http://antetokipona.infinityfreeapp.com/lukapona/gif/nanpa.gif"
       },
+      "audio": {
+        "kala_asi": "http://antetokipona.infinityfreeapp.com/kalama/kalaasi/nanpa.mp3",
+        "jan_lakuse": "http://antetokipona.infinityfreeapp.com/kalama/jlakuse/nanpa.mp3"
+      },
       "coined_era": "pre-pu",
       "book": "pu",
       "source_language": "Tok Pisin",
@@ -3724,6 +4031,10 @@
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/nasa.mp4",
         "gif": "http://antetokipona.infinityfreeapp.com/lukapona/gif/nasa.gif"
       },
+      "audio": {
+        "kala_asi": "http://antetokipona.infinityfreeapp.com/kalama/kalaasi/nasa.mp3",
+        "jan_lakuse": "http://antetokipona.infinityfreeapp.com/kalama/jlakuse/nasa.mp3"
+      },
       "coined_era": "pre-pu",
       "book": "pu",
       "source_language": "Tok Pisin",
@@ -3748,6 +4059,10 @@
       "luka_pona": {
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/nasin.mp4",
         "gif": "http://antetokipona.infinityfreeapp.com/lukapona/gif/nasin.gif"
+      },
+      "audio": {
+        "kala_asi": "http://antetokipona.infinityfreeapp.com/kalama/kalaasi/nasin.mp3",
+        "jan_lakuse": "http://antetokipona.infinityfreeapp.com/kalama/jlakuse/nasin.mp3"
       },
       "coined_era": "pre-pu",
       "book": "pu",
@@ -3850,6 +4165,10 @@
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/nena.mp4",
         "gif": "http://antetokipona.infinityfreeapp.com/lukapona/gif/nena.gif"
       },
+      "audio": {
+        "kala_asi": "http://antetokipona.infinityfreeapp.com/kalama/kalaasi/nena.mp3",
+        "jan_lakuse": "http://antetokipona.infinityfreeapp.com/kalama/jlakuse/nena.mp3"
+      },
       "coined_era": "pre-pu",
       "book": "pu",
       "source_language": "Finnish",
@@ -3875,6 +4194,10 @@
       "luka_pona": {
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/ni.mp4",
         "gif": "http://antetokipona.infinityfreeapp.com/lukapona/gif/ni.gif"
+      },
+      "audio": {
+        "kala_asi": "http://antetokipona.infinityfreeapp.com/kalama/kalaasi/ni.mp3",
+        "jan_lakuse": "http://antetokipona.infinityfreeapp.com/kalama/jlakuse/ni.mp3"
       },
       "coined_era": "pre-pu",
       "book": "pu",
@@ -3902,6 +4225,10 @@
       "luka_pona": {
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/nimi.mp4",
         "gif": "http://antetokipona.infinityfreeapp.com/lukapona/gif/nimi.gif"
+      },
+      "audio": {
+        "kala_asi": "http://antetokipona.infinityfreeapp.com/kalama/kalaasi/nimi.mp3",
+        "jan_lakuse": "http://antetokipona.infinityfreeapp.com/kalama/jlakuse/nimi.mp3"
       },
       "coined_era": "pre-pu",
       "book": "pu",
@@ -3948,6 +4275,10 @@
       "luka_pona": {
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/noka.mp4",
         "gif": "http://antetokipona.infinityfreeapp.com/lukapona/gif/noka.gif"
+      },
+      "audio": {
+        "kala_asi": "http://antetokipona.infinityfreeapp.com/kalama/kalaasi/noka.mp3",
+        "jan_lakuse": "http://antetokipona.infinityfreeapp.com/kalama/jlakuse/noka.mp3"
       },
       "coined_era": "pre-pu",
       "book": "pu",
@@ -4082,6 +4413,10 @@
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/o.mp4",
         "gif": "http://antetokipona.infinityfreeapp.com/lukapona/gif/o.gif"
       },
+      "audio": {
+        "kala_asi": "http://antetokipona.infinityfreeapp.com/kalama/kalaasi/o.mp3",
+        "jan_lakuse": "http://antetokipona.infinityfreeapp.com/kalama/jlakuse/o.mp3"
+      },
       "coined_era": "pre-pu",
       "book": "pu",
       "source_language": "Georgian",
@@ -4167,6 +4502,10 @@
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/oko.mp4",
         "gif": "http://antetokipona.infinityfreeapp.com/lukapona/gif/oko.gif"
       },
+      "audio": {
+        "kala_asi": "http://antetokipona.infinityfreeapp.com/kalama/kalaasi/oko.mp3",
+        "jan_lakuse": "http://antetokipona.infinityfreeapp.com/kalama/jlakuse/oko.mp3"
+      },
       "coined_year": "2001",
       "coined_era": "pre-pu",
       "book": "ku suli",
@@ -4203,6 +4542,10 @@
       "luka_pona": {
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/olin.mp4",
         "gif": "http://antetokipona.infinityfreeapp.com/lukapona/gif/olin.gif"
+      },
+      "audio": {
+        "kala_asi": "http://antetokipona.infinityfreeapp.com/kalama/kalaasi/olin.mp3",
+        "jan_lakuse": "http://antetokipona.infinityfreeapp.com/kalama/jlakuse/olin.mp3"
       },
       "coined_era": "pre-pu",
       "book": "pu",
@@ -4286,6 +4629,10 @@
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/ona.mp4",
         "gif": "http://antetokipona.infinityfreeapp.com/lukapona/gif/ona.gif"
       },
+      "audio": {
+        "kala_asi": "http://antetokipona.infinityfreeapp.com/kalama/kalaasi/ona.mp3",
+        "jan_lakuse": "http://antetokipona.infinityfreeapp.com/kalama/jlakuse/ona.mp3"
+      },
       "coined_era": "pre-pu",
       "book": "pu",
       "source_language": "Serbo-Croatian",
@@ -4336,6 +4683,10 @@
       "luka_pona": {
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/open.mp4",
         "gif": "http://antetokipona.infinityfreeapp.com/lukapona/gif/open.gif"
+      },
+      "audio": {
+        "kala_asi": "http://antetokipona.infinityfreeapp.com/kalama/kalaasi/open.mp3",
+        "jan_lakuse": "http://antetokipona.infinityfreeapp.com/kalama/jlakuse/open.mp3"
       },
       "coined_era": "pre-pu",
       "book": "pu",
@@ -4413,6 +4764,10 @@
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/pakala.mp4",
         "gif": "http://antetokipona.infinityfreeapp.com/lukapona/gif/pakala.gif"
       },
+      "audio": {
+        "kala_asi": "http://antetokipona.infinityfreeapp.com/kalama/kalaasi/pakala.mp3",
+        "jan_lakuse": "http://antetokipona.infinityfreeapp.com/kalama/jlakuse/pakala.mp3"
+      },
       "coined_era": "pre-pu",
       "book": "pu",
       "source_language": "Tok Pisin",
@@ -4432,6 +4787,9 @@
     "pake": {
       "word": "pake",
       "sitelen_pona": "pake",
+      "audio": {
+        "jan_lakuse": "http://antetokipona.infinityfreeapp.com/kalama/jlakuse/pake.mp3"
+      },
       "coined_year": "2009",
       "coined_era": "pre-pu",
       "book": "ku lili",
@@ -4467,6 +4825,10 @@
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/pali.mp4",
         "gif": "http://antetokipona.infinityfreeapp.com/lukapona/gif/pali.gif"
       },
+      "audio": {
+        "kala_asi": "http://antetokipona.infinityfreeapp.com/kalama/kalaasi/pali.mp3",
+        "jan_lakuse": "http://antetokipona.infinityfreeapp.com/kalama/jlakuse/pali.mp3"
+      },
       "coined_era": "pre-pu",
       "book": "pu",
       "source_language": "Esperanto",
@@ -4492,6 +4854,10 @@
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/palisa.mp4",
         "gif": "http://antetokipona.infinityfreeapp.com/lukapona/gif/palisa.gif"
       },
+      "audio": {
+        "kala_asi": "http://antetokipona.infinityfreeapp.com/kalama/kalaasi/palisa.mp3",
+        "jan_lakuse": "http://antetokipona.infinityfreeapp.com/kalama/jlakuse/palisa.mp3"
+      },
       "coined_era": "pre-pu",
       "book": "pu",
       "source_language": "Serbo-Croatian",
@@ -4516,6 +4882,10 @@
       "luka_pona": {
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/pan.mp4",
         "gif": "http://antetokipona.infinityfreeapp.com/lukapona/gif/pan.gif"
+      },
+      "audio": {
+        "kala_asi": "http://antetokipona.infinityfreeapp.com/kalama/kalaasi/pan.mp3",
+        "jan_lakuse": "http://antetokipona.infinityfreeapp.com/kalama/jlakuse/pan.mp3"
       },
       "coined_era": "pre-pu",
       "book": "pu",
@@ -4543,6 +4913,10 @@
       "luka_pona": {
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/pana.mp4",
         "gif": "http://antetokipona.infinityfreeapp.com/lukapona/gif/pana.gif"
+      },
+      "audio": {
+        "kala_asi": "http://antetokipona.infinityfreeapp.com/kalama/kalaasi/pana.mp3",
+        "jan_lakuse": "http://antetokipona.infinityfreeapp.com/kalama/jlakuse/pana.mp3"
       },
       "coined_era": "pre-pu",
       "book": "pu",
@@ -4717,6 +5091,10 @@
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/pi.mp4",
         "gif": "http://antetokipona.infinityfreeapp.com/lukapona/gif/pi.gif"
       },
+      "audio": {
+        "kala_asi": "http://antetokipona.infinityfreeapp.com/kalama/kalaasi/pi.mp3",
+        "jan_lakuse": "http://antetokipona.infinityfreeapp.com/kalama/jlakuse/pi.mp3"
+      },
       "coined_era": "pre-pu",
       "book": "pu",
       "source_language": "Tok Pisin",
@@ -4762,6 +5140,10 @@
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/pilin.mp4",
         "gif": "http://antetokipona.infinityfreeapp.com/lukapona/gif/pilin.gif"
       },
+      "audio": {
+        "kala_asi": "http://antetokipona.infinityfreeapp.com/kalama/kalaasi/pilin.mp3",
+        "jan_lakuse": "http://antetokipona.infinityfreeapp.com/kalama/jlakuse/pilin.mp3"
+      },
       "coined_era": "pre-pu",
       "book": "pu",
       "source_language": "Tok Pisin",
@@ -4785,6 +5167,9 @@
       "luka_pona": {
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/pimeja.mp4",
         "gif": "http://antetokipona.infinityfreeapp.com/lukapona/gif/pimeja.gif"
+      },
+      "audio": {
+        "jan_lakuse": "http://antetokipona.infinityfreeapp.com/kalama/jlakuse/pimeja.mp3"
       },
       "coined_era": "pre-pu",
       "book": "pu",
@@ -4837,6 +5222,10 @@
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/pini.mp4",
         "gif": "http://antetokipona.infinityfreeapp.com/lukapona/gif/pini.gif"
       },
+      "audio": {
+        "kala_asi": "http://antetokipona.infinityfreeapp.com/kalama/kalaasi/pini.mp3",
+        "jan_lakuse": "http://antetokipona.infinityfreeapp.com/kalama/jlakuse/pini.mp3"
+      },
       "coined_era": "pre-pu",
       "book": "pu",
       "source_language": "multiple possibilities",
@@ -4861,6 +5250,10 @@
       "luka_pona": {
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/pipi.mp4",
         "gif": "http://antetokipona.infinityfreeapp.com/lukapona/gif/pipi.gif"
+      },
+      "audio": {
+        "kala_asi": "http://antetokipona.infinityfreeapp.com/kalama/kalaasi/pipi.mp3",
+        "jan_lakuse": "http://antetokipona.infinityfreeapp.com/kalama/jlakuse/pipi.mp3"
       },
       "coined_era": "pre-pu",
       "book": "pu",
@@ -4948,6 +5341,10 @@
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/poka.mp4",
         "gif": "http://antetokipona.infinityfreeapp.com/lukapona/gif/poka.gif"
       },
+      "audio": {
+        "kala_asi": "http://antetokipona.infinityfreeapp.com/kalama/kalaasi/poka.mp3",
+        "jan_lakuse": "http://antetokipona.infinityfreeapp.com/kalama/jlakuse/poka.mp3"
+      },
       "coined_era": "pre-pu",
       "book": "pu",
       "source_language": "Serbo-Croatian",
@@ -4973,6 +5370,10 @@
       "luka_pona": {
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/poki.mp4",
         "gif": "http://antetokipona.infinityfreeapp.com/lukapona/gif/poki.gif"
+      },
+      "audio": {
+        "kala_asi": "http://antetokipona.infinityfreeapp.com/kalama/kalaasi/poki.mp3",
+        "jan_lakuse": "http://antetokipona.infinityfreeapp.com/kalama/jlakuse/poki.mp3"
       },
       "coined_era": "pre-pu",
       "book": "pu",
@@ -5058,6 +5459,10 @@
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/pona.mp4",
         "gif": "http://antetokipona.infinityfreeapp.com/lukapona/gif/pona.gif"
       },
+      "audio": {
+        "kala_asi": "http://antetokipona.infinityfreeapp.com/kalama/kalaasi/pona.mp3",
+        "jan_lakuse": "http://antetokipona.infinityfreeapp.com/kalama/jlakuse/pona.mp3"
+      },
       "coined_era": "pre-pu",
       "book": "pu",
       "source_language": "Esperanto",
@@ -5077,6 +5482,9 @@
     "powe": {
       "word": "powe",
       "sitelen_pona": "powe",
+      "audio": {
+        "jan_lakuse": "http://antetokipona.infinityfreeapp.com/kalama/jlakuse/powe.mp3"
+      },
       "coined_year": "<2001",
       "coined_era": "pre-pu",
       "book": "ku lili",
@@ -5107,6 +5515,10 @@
     "pu": {
       "word": "pu",
       "sitelen_pona": "pu",
+      "audio": {
+        "kala_asi": "http://antetokipona.infinityfreeapp.com/kalama/kalaasi/pu.mp3",
+        "jan_lakuse": "http://antetokipona.infinityfreeapp.com/kalama/jlakuse/pu.mp3"
+      },
       "coined_era": "pre-pu",
       "book": "pu",
       "source_language": "multiple possibilities",
@@ -5125,7 +5537,7 @@
         "isv_c": "\u0432\u0437\u0430\u0458\u0435\u043c\u043e\u0434\u0454\u0458\u0441\u0442\u0432\u0443\u0458\u0443\u0447\u0438, \u0438\u043d\u0442\u0435\u0440\u0430\u0433\u0443\u0458\u0443\u0447\u0438 \u0441 \u043e\u0444\u0438\u0446\u0438\u0430\u043b\u043d\u043e\u0458\u0443 \u043a\u043d\u0438\u0433\u043e\u0458\u0443 \u0442\u043e\u043a\u0438 \u043f\u043e\u043d\u044b",
         "eo": "interaganta kun la oficiala libro de Tokipono",
         "de": "mit dem offiziellen Toki-Pona-Buch interagieren",
-        "tok": "lipu nanpa wan pi jan Sonja la, sina lukin e ona la sina pu. sina kepeken lipu tawa ijo la sina pu.",
+        "tok": "lipu nanpa wan pi jan Sonja la, sina lukin e ona la sina pu. sina kepeken ona la sina pu.",
         "it": "interagire con il libro ufficiale di Toki Pona"
       }
     },
@@ -5164,6 +5576,10 @@
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/sama.mp4",
         "gif": "http://antetokipona.infinityfreeapp.com/lukapona/gif/sama.gif"
       },
+      "audio": {
+        "kala_asi": "http://antetokipona.infinityfreeapp.com/kalama/kalaasi/sama.mp3",
+        "jan_lakuse": "http://antetokipona.infinityfreeapp.com/kalama/jlakuse/sama.mp3"
+      },
       "coined_era": "pre-pu",
       "book": "pu",
       "source_language": "multiple",
@@ -5186,6 +5602,9 @@
     "samu": {
       "word": "samu",
       "sitelen_pona": "samu",
+      "audio": {
+        "jan_lakuse": "http://antetokipona.infinityfreeapp.com/kalama/jlakuse/samu.mp3"
+      },
       "coined_year": "2018",
       "coined_era": "post-pu",
       "book": "ku lili",
@@ -5285,6 +5704,10 @@
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/seli.mp4",
         "gif": "http://antetokipona.infinityfreeapp.com/lukapona/gif/seli.gif"
       },
+      "audio": {
+        "kala_asi": "http://antetokipona.infinityfreeapp.com/kalama/kalaasi/seli.mp3",
+        "jan_lakuse": "http://antetokipona.infinityfreeapp.com/kalama/jlakuse/seli.mp3"
+      },
       "coined_era": "pre-pu",
       "book": "pu",
       "source_language": "Georgian",
@@ -5309,6 +5732,10 @@
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/selo.mp4",
         "gif": "http://antetokipona.infinityfreeapp.com/lukapona/gif/selo.gif"
       },
+      "audio": {
+        "kala_asi": "http://antetokipona.infinityfreeapp.com/kalama/kalaasi/selo.mp3",
+        "jan_lakuse": "http://antetokipona.infinityfreeapp.com/kalama/jlakuse/selo.mp3"
+      },
       "coined_era": "pre-pu",
       "book": "pu",
       "source_language": "Esperanto",
@@ -5332,6 +5759,10 @@
       "luka_pona": {
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/seme.mp4",
         "gif": "http://antetokipona.infinityfreeapp.com/lukapona/gif/seme.gif"
+      },
+      "audio": {
+        "kala_asi": "http://antetokipona.infinityfreeapp.com/kalama/kalaasi/seme.mp3",
+        "jan_lakuse": "http://antetokipona.infinityfreeapp.com/kalama/jlakuse/seme.mp3"
       },
       "coined_era": "pre-pu",
       "book": "pu",
@@ -5360,6 +5791,10 @@
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/sewi.mp4",
         "gif": "http://antetokipona.infinityfreeapp.com/lukapona/gif/sewi.gif"
       },
+      "audio": {
+        "kala_asi": "http://antetokipona.infinityfreeapp.com/kalama/kalaasi/sewi.mp3",
+        "jan_lakuse": "http://antetokipona.infinityfreeapp.com/kalama/jlakuse/sewi.mp3"
+      },
       "coined_era": "pre-pu",
       "book": "pu",
       "source_language": "Georgian",
@@ -5383,6 +5818,10 @@
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/sijelo.mp4",
         "gif": "http://antetokipona.infinityfreeapp.com/lukapona/gif/sijelo.gif"
       },
+      "audio": {
+        "kala_asi": "http://antetokipona.infinityfreeapp.com/kalama/kalaasi/sijelo.mp3",
+        "jan_lakuse": "http://antetokipona.infinityfreeapp.com/kalama/jlakuse/sijelo.mp3"
+      },
       "coined_era": "pre-pu",
       "book": "pu",
       "source_language": "Serbo-Croatian",
@@ -5405,6 +5844,10 @@
       "luka_pona": {
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/sike.mp4",
         "gif": "http://antetokipona.infinityfreeapp.com/lukapona/gif/sike.gif"
+      },
+      "audio": {
+        "kala_asi": "http://antetokipona.infinityfreeapp.com/kalama/kalaasi/sike.mp3",
+        "jan_lakuse": "http://antetokipona.infinityfreeapp.com/kalama/jlakuse/sike.mp3"
       },
       "coined_era": "pre-pu",
       "book": "pu",
@@ -5459,6 +5902,10 @@
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/sin.mp4",
         "gif": "http://antetokipona.infinityfreeapp.com/lukapona/gif/sin.gif"
       },
+      "audio": {
+        "kala_asi": "http://antetokipona.infinityfreeapp.com/kalama/kalaasi/sin.mp3",
+        "jan_lakuse": "http://antetokipona.infinityfreeapp.com/kalama/jlakuse/sin.mp3"
+      },
       "coined_era": "pre-pu",
       "book": "pu",
       "source_language": "Mandarin",
@@ -5488,6 +5935,10 @@
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/sina.mp4",
         "gif": "http://antetokipona.infinityfreeapp.com/lukapona/gif/sina.gif"
       },
+      "audio": {
+        "kala_asi": "http://antetokipona.infinityfreeapp.com/kalama/kalaasi/sina.mp3",
+        "jan_lakuse": "http://antetokipona.infinityfreeapp.com/kalama/jlakuse/sina.mp3"
+      },
       "coined_era": "pre-pu",
       "book": "pu",
       "source_language": "Finnish",
@@ -5512,6 +5963,10 @@
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/sinpin.mp4",
         "gif": "http://antetokipona.infinityfreeapp.com/lukapona/gif/sinpin.gif"
       },
+      "audio": {
+        "kala_asi": "http://antetokipona.infinityfreeapp.com/kalama/kalaasi/sinpin.mp3",
+        "jan_lakuse": "http://antetokipona.infinityfreeapp.com/kalama/jlakuse/sinpin.mp3"
+      },
       "coined_era": "pre-pu",
       "book": "pu",
       "source_language": "Cantonese",
@@ -5534,6 +5989,10 @@
       "luka_pona": {
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/sitelen.mp4",
         "gif": "http://antetokipona.infinityfreeapp.com/lukapona/gif/sitelen.gif"
+      },
+      "audio": {
+        "kala_asi": "http://antetokipona.infinityfreeapp.com/kalama/kalaasi/sitelen.mp3",
+        "jan_lakuse": "http://antetokipona.infinityfreeapp.com/kalama/jlakuse/sitelen.mp3"
       },
       "coined_era": "pre-pu",
       "book": "pu",
@@ -5576,6 +6035,9 @@
       "word": "soko",
       "sitelen_pona": "soko",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_soko.jpg",
+      "audio": {
+        "jan_lakuse": "http://antetokipona.infinityfreeapp.com/kalama/jlakuse/soko.mp3"
+      },
       "coined_year": "2019",
       "coined_era": "post-pu",
       "book": "ku suli",
@@ -5612,6 +6074,10 @@
       "luka_pona": {
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/sona.mp4",
         "gif": "http://antetokipona.infinityfreeapp.com/lukapona/gif/sona.gif"
+      },
+      "audio": {
+        "kala_asi": "http://antetokipona.infinityfreeapp.com/kalama/kalaasi/sona.mp3",
+        "jan_lakuse": "http://antetokipona.infinityfreeapp.com/kalama/jlakuse/sona.mp3"
       },
       "coined_era": "pre-pu",
       "book": "pu",
@@ -5667,6 +6133,10 @@
       "luka_pona": {
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/soweli.mp4",
         "gif": "http://antetokipona.infinityfreeapp.com/lukapona/gif/soweli.gif"
+      },
+      "audio": {
+        "kala_asi": "http://antetokipona.infinityfreeapp.com/kalama/kalaasi/soweli.mp3",
+        "jan_lakuse": "http://antetokipona.infinityfreeapp.com/kalama/jlakuse/soweli.mp3"
       },
       "coined_era": "pre-pu",
       "book": "pu",
@@ -5764,6 +6234,10 @@
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/suli.mp4",
         "gif": "http://antetokipona.infinityfreeapp.com/lukapona/gif/suli.gif"
       },
+      "audio": {
+        "kala_asi": "http://antetokipona.infinityfreeapp.com/kalama/kalaasi/suli.mp3",
+        "jan_lakuse": "http://antetokipona.infinityfreeapp.com/kalama/jlakuse/suli.mp3"
+      },
       "coined_era": "pre-pu",
       "book": "pu",
       "source_language": "Finnish",
@@ -5786,6 +6260,10 @@
       "luka_pona": {
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/suno.mp4",
         "gif": "http://antetokipona.infinityfreeapp.com/lukapona/gif/suno.gif"
+      },
+      "audio": {
+        "kala_asi": "http://antetokipona.infinityfreeapp.com/kalama/kalaasi/suno.mp3",
+        "jan_lakuse": "http://antetokipona.infinityfreeapp.com/kalama/jlakuse/suno.mp3"
       },
       "coined_era": "pre-pu",
       "book": "pu",
@@ -5811,6 +6289,10 @@
       "luka_pona": {
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/supa.mp4",
         "gif": "http://antetokipona.infinityfreeapp.com/lukapona/gif/supa.gif"
+      },
+      "audio": {
+        "kala_asi": "http://antetokipona.infinityfreeapp.com/kalama/kalaasi/supa.mp3",
+        "jan_lakuse": "http://antetokipona.infinityfreeapp.com/kalama/jlakuse/supa.mp3"
       },
       "coined_era": "pre-pu",
       "book": "pu",
@@ -5863,6 +6345,10 @@
       "luka_pona": {
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/suwi.mp4",
         "gif": "http://antetokipona.infinityfreeapp.com/lukapona/gif/suwi.gif"
+      },
+      "audio": {
+        "kala_asi": "http://antetokipona.infinityfreeapp.com/kalama/kalaasi/suwi.mp3",
+        "jan_lakuse": "http://antetokipona.infinityfreeapp.com/kalama/jlakuse/suwi.mp3"
       },
       "coined_era": "pre-pu",
       "book": "pu",
@@ -5946,6 +6432,10 @@
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/tan.mp4",
         "gif": "http://antetokipona.infinityfreeapp.com/lukapona/gif/tan.gif"
       },
+      "audio": {
+        "kala_asi": "http://antetokipona.infinityfreeapp.com/kalama/kalaasi/tan.mp3",
+        "jan_lakuse": "http://antetokipona.infinityfreeapp.com/kalama/jlakuse/tan.mp3"
+      },
       "coined_era": "pre-pu",
       "book": "pu",
       "source_language": "Cantonese",
@@ -5968,6 +6458,10 @@
       "luka_pona": {
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/taso.mp4",
         "gif": "http://antetokipona.infinityfreeapp.com/lukapona/gif/taso.gif"
+      },
+      "audio": {
+        "kala_asi": "http://antetokipona.infinityfreeapp.com/kalama/kalaasi/taso.mp3",
+        "jan_lakuse": "http://antetokipona.infinityfreeapp.com/kalama/jlakuse/taso.mp3"
       },
       "coined_era": "pre-pu",
       "book": "pu",
@@ -5992,6 +6486,10 @@
       "luka_pona": {
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/tawa.mp4",
         "gif": "http://antetokipona.infinityfreeapp.com/lukapona/gif/tawa.gif"
+      },
+      "audio": {
+        "kala_asi": "http://antetokipona.infinityfreeapp.com/kalama/kalaasi/tawa.mp3",
+        "jan_lakuse": "http://antetokipona.infinityfreeapp.com/kalama/jlakuse/tawa.mp3"
       },
       "coined_era": "pre-pu",
       "book": "pu",
@@ -6081,6 +6579,10 @@
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/telo.mp4",
         "gif": "http://antetokipona.infinityfreeapp.com/lukapona/gif/telo.gif"
       },
+      "audio": {
+        "kala_asi": "http://antetokipona.infinityfreeapp.com/kalama/kalaasi/telo.mp3",
+        "jan_lakuse": "http://antetokipona.infinityfreeapp.com/kalama/jlakuse/telo.mp3"
+      },
       "coined_era": "pre-pu",
       "book": "pu",
       "source_language": "Acadian French",
@@ -6132,6 +6634,10 @@
       "luka_pona": {
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/tenpo.mp4",
         "gif": "http://antetokipona.infinityfreeapp.com/lukapona/gif/tenpo.gif"
+      },
+      "audio": {
+        "kala_asi": "http://antetokipona.infinityfreeapp.com/kalama/kalaasi/tenpo.mp3",
+        "jan_lakuse": "http://antetokipona.infinityfreeapp.com/kalama/jlakuse/tenpo.mp3"
       },
       "coined_era": "pre-pu",
       "book": "pu",
@@ -6216,6 +6722,10 @@
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/toki.mp4",
         "gif": "http://antetokipona.infinityfreeapp.com/lukapona/gif/toki.gif"
       },
+      "audio": {
+        "kala_asi": "http://antetokipona.infinityfreeapp.com/kalama/kalaasi/toki.mp3",
+        "jan_lakuse": "http://antetokipona.infinityfreeapp.com/kalama/jlakuse/toki.mp3"
+      },
       "coined_era": "pre-pu",
       "book": "pu",
       "source_language": "Tok Pisin",
@@ -6264,6 +6774,10 @@
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/tomo.mp4",
         "gif": "http://antetokipona.infinityfreeapp.com/lukapona/gif/tomo.gif"
       },
+      "audio": {
+        "kala_asi": "http://antetokipona.infinityfreeapp.com/kalama/kalaasi/tomo.mp3",
+        "jan_lakuse": "http://antetokipona.infinityfreeapp.com/kalama/jlakuse/tomo.mp3"
+      },
       "coined_era": "pre-pu",
       "book": "pu",
       "source_language": "Esperanto",
@@ -6284,6 +6798,10 @@
       "word": "tonsi",
       "sitelen_pona": "tonsi",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_tonsi.jpg",
+      "audio": {
+        "kala_asi": "http://antetokipona.infinityfreeapp.com/kalama/kalaasi/tonsi.mp3",
+        "jan_lakuse": "http://antetokipona.infinityfreeapp.com/kalama/jlakuse/tonsi.mp3"
+      },
       "coined_year": "2019",
       "coined_era": "post-pu",
       "book": "ku suli",
@@ -6319,6 +6837,10 @@
       "luka_pona": {
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/tu.mp4",
         "gif": "http://antetokipona.infinityfreeapp.com/lukapona/gif/tu.gif"
+      },
+      "audio": {
+        "kala_asi": "http://antetokipona.infinityfreeapp.com/kalama/kalaasi/tu.mp3",
+        "jan_lakuse": "http://antetokipona.infinityfreeapp.com/kalama/jlakuse/tu.mp3"
       },
       "coined_era": "pre-pu",
       "book": "pu",
@@ -6427,6 +6949,10 @@
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/unpa.mp4",
         "gif": "http://antetokipona.infinityfreeapp.com/lukapona/gif/unpa.gif"
       },
+      "audio": {
+        "kala_asi": "http://antetokipona.infinityfreeapp.com/kalama/kalaasi/unpa.mp3",
+        "jan_lakuse": "http://antetokipona.infinityfreeapp.com/kalama/jlakuse/unpa.mp3"
+      },
       "coined_era": "pre-pu",
       "book": "pu",
       "source_language": "onomatopoeia",
@@ -6510,6 +7036,10 @@
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/uta.mp4",
         "gif": "http://antetokipona.infinityfreeapp.com/lukapona/gif/uta.gif"
       },
+      "audio": {
+        "kala_asi": "http://antetokipona.infinityfreeapp.com/kalama/kalaasi/uta.mp3",
+        "jan_lakuse": "http://antetokipona.infinityfreeapp.com/kalama/jlakuse/uta.mp3"
+      },
       "coined_era": "pre-pu",
       "book": "pu",
       "source_language": "Serbo-Croatian",
@@ -6535,6 +7065,10 @@
       "luka_pona": {
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/utala.mp4",
         "gif": "http://antetokipona.infinityfreeapp.com/lukapona/gif/utala.gif"
+      },
+      "audio": {
+        "kala_asi": "http://antetokipona.infinityfreeapp.com/kalama/kalaasi/utala.mp3",
+        "jan_lakuse": "http://antetokipona.infinityfreeapp.com/kalama/jlakuse/utala.mp3"
       },
       "coined_era": "pre-pu",
       "book": "pu",
@@ -6621,6 +7155,10 @@
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/walo.mp4",
         "gif": "http://antetokipona.infinityfreeapp.com/lukapona/gif/walo.gif"
       },
+      "audio": {
+        "kala_asi": "http://antetokipona.infinityfreeapp.com/kalama/kalaasi/walo.mp3",
+        "jan_lakuse": "http://antetokipona.infinityfreeapp.com/kalama/jlakuse/walo.mp3"
+      },
       "coined_era": "pre-pu",
       "book": "pu",
       "source_language": "Finnish",
@@ -6645,6 +7183,10 @@
       "luka_pona": {
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/wan.mp4",
         "gif": "http://antetokipona.infinityfreeapp.com/lukapona/gif/wan.gif"
+      },
+      "audio": {
+        "kala_asi": "http://antetokipona.infinityfreeapp.com/kalama/kalaasi/wan.mp3",
+        "jan_lakuse": "http://antetokipona.infinityfreeapp.com/kalama/jlakuse/wan.mp3"
       },
       "coined_era": "pre-pu",
       "book": "pu",
@@ -6671,6 +7213,10 @@
       "luka_pona": {
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/waso.mp4",
         "gif": "http://antetokipona.infinityfreeapp.com/lukapona/gif/waso.gif"
+      },
+      "audio": {
+        "kala_asi": "http://antetokipona.infinityfreeapp.com/kalama/kalaasi/waso.mp3",
+        "jan_lakuse": "http://antetokipona.infinityfreeapp.com/kalama/jlakuse/waso.mp3"
       },
       "coined_era": "pre-pu",
       "book": "pu",
@@ -6720,6 +7266,10 @@
       "luka_pona": {
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/wawa.mp4",
         "gif": "http://antetokipona.infinityfreeapp.com/lukapona/gif/wawa.gif"
+      },
+      "audio": {
+        "kala_asi": "http://antetokipona.infinityfreeapp.com/kalama/kalaasi/wawa.mp3",
+        "jan_lakuse": "http://antetokipona.infinityfreeapp.com/kalama/jlakuse/wawa.mp3"
       },
       "coined_era": "pre-pu",
       "book": "pu",
@@ -6801,6 +7351,10 @@
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/weka.mp4",
         "gif": "http://antetokipona.infinityfreeapp.com/lukapona/gif/weka.gif"
       },
+      "audio": {
+        "kala_asi": "http://antetokipona.infinityfreeapp.com/kalama/kalaasi/weka.mp3",
+        "jan_lakuse": "http://antetokipona.infinityfreeapp.com/kalama/jlakuse/weka.mp3"
+      },
       "coined_era": "pre-pu",
       "book": "pu",
       "source_language": "Dutch",
@@ -6878,6 +7432,10 @@
       "luka_pona": {
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/wile.mp4",
         "gif": "http://antetokipona.infinityfreeapp.com/lukapona/gif/wile.gif"
+      },
+      "audio": {
+        "kala_asi": "http://antetokipona.infinityfreeapp.com/kalama/kalaasi/wile.mp3",
+        "jan_lakuse": "http://antetokipona.infinityfreeapp.com/kalama/jlakuse/wile.mp3"
       },
       "coined_era": "pre-pu",
       "book": "pu",
