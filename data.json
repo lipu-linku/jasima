@@ -144,6 +144,9 @@
     "jan Seli": {
       "description": "some definitions, some toki pona definitions"
     },
+    "jan Sonja": {
+      "description": "free ku data"
+    },
     "jan Tepo": {
       "description": "commentary, see_also"
     },
@@ -882,7 +885,6 @@
       "etymology": "io \u2018something\u2019 \u2190 Romance i- \u2018(relative pronoun root)\u2019",
       "creator": "jan Sonja",
       "ku_data": "thing\u2075, stuff\u2075, item\u2075, something\u2075, object\u2075, entity\u2075, phenomenon\u2074, material\u2074, matter (n)\u2074, substance\u00b3, anything\u00b3, element\u00b2, asset\u00b2, being\u00b2, chemical\u00b2, subject\u00b2, product\u00b2, stock\u00b2, example\u00b2",
-      "commentary": "There is a general tendency to use ijo for inanimate objects.",
       "def": {
         "en": "thing, phenomenon, object, matter",
         "pl": "co\u015b, zjawisko, obiekt, materia",
@@ -7162,6 +7164,7 @@
       "etymology": "usta \u0443\u0441\u0442\u0430 \u2018mouth\u2019",
       "creator": "jan Sonja",
       "ku_data": "mouth\u2075, lip\u00b3, kiss\u00b3, jaw\u00b3, bite\u00b2, chew\u00b2",
+      "commentary": "The dot in the \"uta\" sitelen pona is to distinguish luka-uta from moku.",
       "def": {
         "en": "mouth, lips, oral cavity, jaw",
         "pl": "usta, jama ustna, szcz\u0119ka",
