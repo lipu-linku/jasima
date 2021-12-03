@@ -12,7 +12,7 @@
       "name_endonym": "Deutsch",
       "name_english": "German",
       "name_toki_pona": "toki Tosi",
-      "completeness_percent": "100"
+      "completeness_percent": "98"
     },
     "en": {
       "id_long": "english",
@@ -26,7 +26,7 @@
       "name_endonym": "Esperanto",
       "name_english": "Esperanto",
       "name_toki_pona": "toki Epelanto",
-      "completeness_percent": "100"
+      "completeness_percent": "98"
     },
     "es": {
       "id_long": "spanish",
@@ -54,21 +54,21 @@
       "name_endonym": "\u041c\u0435\u0434\u0436\u0443\u0441\u043b\u043e\u0432\u0458\u0430\u043d\u0441\u043a\u044b (\u043a\u0438\u0440\u0438\u043b\u0438\u0446\u0430)",
       "name_english": "Interslavic (Cyrillic)",
       "name_toki_pona": "toki Mesulojanki (sitelen Kililisa)",
-      "completeness_percent": "48"
+      "completeness_percent": "47"
     },
     "isv_l": {
       "id_long": "interslavic_latin",
       "name_endonym": "Med\u017euslovjansky (latinica)",
       "name_english": "Interslavic (Latin)",
       "name_toki_pona": "toki Mesulojanki (sitelen Lasina)",
-      "completeness_percent": "48"
+      "completeness_percent": "47"
     },
     "it": {
       "id_long": "italian",
       "name_endonym": "Italiano",
       "name_english": "Italian",
       "name_toki_pona": "toki Italija",
-      "completeness_percent": "100"
+      "completeness_percent": "98"
     },
     "la": {
       "id_long": "latin",
@@ -89,21 +89,21 @@
       "name_endonym": "Polski",
       "name_english": "Polish",
       "name_toki_pona": "toki Posuka",
-      "completeness_percent": "100"
+      "completeness_percent": "98"
     },
     "ru": {
       "id_long": "russian",
       "name_endonym": "\u0420\u0443\u0441\u0441\u043a\u0438\u0439",
       "name_english": "Russian",
       "name_toki_pona": "toki Losi",
-      "completeness_percent": "100"
+      "completeness_percent": "98"
     },
     "tok": {
       "id_long": "toki_pona",
       "name_endonym": "toki pona",
       "name_english": "Toki Pona",
       "name_toki_pona": "toki pona",
-      "completeness_percent": "64"
+      "completeness_percent": "63"
     },
     "ur": {
       "id_long": "urdu",
@@ -257,6 +257,15 @@
         "es": "animal no adorable; reptil, anfibio",
         "la": "amphibion, r\u0113ptile, serp\u0113ns",
         "it": "animale non carino, rettile, anfibio"
+      }
+    },
+    "ako": {
+      "word": "ako",
+      "sitelen_pona_etymology": "exclamation radical + Hangul syllable \uc544 (a); radical from exclamation point (!), without the full stop at the bottom. compare a, o",
+      "see_also": "a",
+      "commentary": "Virtually unknown outside the Korean toki pona community.",
+      "def": {
+        "en": "general interjection, context-dependent"
       }
     },
     "ala": {
@@ -2306,6 +2315,16 @@
         "it": "aria, respiro; essenza, spirito; realt\u00e0 nascosta, agente invisibile"
       }
     },
+    "konsi": {
+      "word": "konsi",
+      "sitelen_pona_etymology": "hand modifier + sona",
+      "source_language": "Korean",
+      "etymology": "\uacf5\uc9c0 (gongji) 'announcement, notice'",
+      "commentary": "Virtually unknown outside the Korean toki pona community. Apparently used humorously.",
+      "def": {
+        "en": "to notify, to let know"
+      }
+    },
     "konwe": {
       "word": "konwe",
       "coined_year": "2021",
@@ -2553,6 +2572,16 @@
         "eo": "orelo; a\u016ddi, a\u016dskulti; atenti, obei",
         "de": "h\u00f6ren, zuh\u00f6ren, lauschen, aufpassen, gehorchen",
         "it": "orecchio; sentire, ascoltare; prestare attenzione, obbedire"
+      }
+    },
+    "kutopoma": {
+      "word": "kutopoma",
+      "sitelen_pona_etymology": "kulupu, with the bottom-left circle being the composite glyph for toki pona, and the bottom-right circle being a Taegeuk as on the flag of South Korea",
+      "source_language": "toki pona",
+      "etymology": "kulupu pi toki pona pi ma Anku",
+      "commentary": "Virtually unknown outside the Korean toki pona community.",
+      "def": {
+        "en": "the Korean group chat \"kulupu pi toki pona pi ma Anku\""
       }
     },
     "la": {
@@ -2862,6 +2891,13 @@
         "eo": "(inter ajna subjekto krom nura \u201cmi\u201d a\u016d nura \u201csina\u201d kaj ties verbo; anka\u016d por enkonduki novan verbon de la sama subjekto)",
         "de": "(zwischen einem beliebigen Subjekt au\u00dfer \"mi\" oder \"sina\" und seinem Verb; auch zur Einf\u00fchrung eines neuen Verbs f\u00fcr dasselbe Subjekt)",
         "it": "(tra qualsiasi soggetto tranne mi da solo o sina da solo e il suo verbo; anche per introdurre un nuovo verbo per lo stesso soggetto)"
+      }
+    },
+    "lijokuku": {
+      "word": "lijokuku",
+      "commentary": "Virtually unknown outside the Korean toki pona community.",
+      "def": {
+        "en": "to agree (with laughter)"
       }
     },
     "likujo": {
