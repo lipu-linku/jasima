@@ -175,6 +175,7 @@
       "sitelen_pona": "aa",
       "sitelen_pona_etymology": "exclamation radical + Latin lowercase letter A; radical from exclamation point (!), without the full stop at the bottom. compare o",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_a.jpg",
+      "sitelen_emosi": "\u2757",
       "audio": {
         "kala_asi": "http://antetokipona.infinityfreeapp.com/kalama/kalaasi/a.mp3",
         "jan_lakuse": "http://antetokipona.infinityfreeapp.com/kalama/jlakuse/a.mp3"
@@ -230,6 +231,7 @@
       "sitelen_pona": "akesi",
       "sitelen_pona_etymology": "animal radical; pictogram of a lizard. radical represents eyes",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_akesi.jpg",
+      "sitelen_emosi": "\ud83e\udd8e",
       "luka_pona": {
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/akesi.mp4",
         "gif": "http://antetokipona.infinityfreeapp.com/lukapona/gif/akesi.gif"
@@ -274,6 +276,7 @@
       "sitelen_pona": "ala",
       "sitelen_pona_etymology": "X mark, a crosslinguistic symbol for negation",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_ala.jpg",
+      "sitelen_emosi": "\u274c",
       "luka_pona": {
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/ala.mp4",
         "gif": "http://antetokipona.infinityfreeapp.com/lukapona/gif/ala.gif"
@@ -307,6 +310,7 @@
       "sitelen_pona": "alasa",
       "sitelen_pona_etymology": "pictogram of a bow and an arrow",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_alasa.jpg",
+      "sitelen_emosi": "\ud83c\udff9",
       "luka_pona": {
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/alasa.mp4",
         "gif": "http://antetokipona.infinityfreeapp.com/lukapona/gif/alasa.gif"
@@ -344,6 +348,7 @@
       "sitelen_pona": "ale",
       "sitelen_pona_etymology": "infinity symbol (\u221e)",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_ale.jpg",
+      "sitelen_emosi": "\u267e\ufe0f",
       "luka_pona": {
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/ale.mp4",
         "gif": "http://antetokipona.infinityfreeapp.com/lukapona/gif/ale.gif"
@@ -379,6 +384,7 @@
       "word": "ali",
       "sitelen_pona": "ali",
       "sitelen_pona_etymology": "infinity symbol (\u221e)",
+      "sitelen_emosi": "\u267e\ufe0f",
       "audio": {
         "kala_asi": "http://antetokipona.infinityfreeapp.com/kalama/kalaasi/ali.mp3",
         "jan_lakuse": "http://antetokipona.infinityfreeapp.com/kalama/jlakuse/ali.mp3"
@@ -442,6 +448,7 @@
       "sitelen_pona": "anpa",
       "sitelen_pona_etymology": "location radical + \"container\"; the latter perhaps from a truncated square for a general object (compare sinpin) or a container (compare poki). for the radical, see also how dots are used in blissymbols; compare blissymbol \"below\"",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_anpa.jpg",
+      "sitelen_emosi": "\u2b07\ufe0f",
       "luka_pona": {
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/anpa.mp4",
         "gif": "http://antetokipona.infinityfreeapp.com/lukapona/gif/anpa.gif"
@@ -475,6 +482,7 @@
       "sitelen_pona": "ante",
       "sitelen_pona_etymology": "perhaps alteration from sama, or a combination of sama and ala. perhaps an ideogram representing a diversion of two lines",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_ante.jpg",
+      "sitelen_emosi": "\ud83d\udd00",
       "luka_pona": {
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/ante.mp4",
         "gif": "http://antetokipona.infinityfreeapp.com/lukapona/gif/ante.gif"
@@ -507,6 +515,7 @@
       "sitelen_pona": "anu",
       "sitelen_pona_etymology": "perhaps from mathematical symbol \"or\" (\u2228)",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_anu.jpg",
+      "sitelen_emosi": "\u262f\ufe0f",
       "luka_pona": {
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/anu.mp4",
         "gif": "http://antetokipona.infinityfreeapp.com/lukapona/gif/anu.gif"
@@ -539,6 +548,7 @@
     "apeja": {
       "word": "apeja",
       "sitelen_pona": "apeja",
+      "sitelen_emosi": "\ud83d\ude22",
       "coined_year": "2009",
       "coined_era": "pre-pu",
       "book": "ku lili",
@@ -592,6 +602,7 @@
       "sitelen_pona": "awen",
       "sitelen_pona_etymology": "motion radical; legs facing against each other, implying standing",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_awen.jpg",
+      "sitelen_emosi": "\u2693",
       "luka_pona": {
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/awen.mp4",
         "gif": "http://antetokipona.infinityfreeapp.com/lukapona/gif/awen.gif"
@@ -622,6 +633,7 @@
       "word": "e",
       "sitelen_pona": "ee",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_e.jpg",
+      "sitelen_emosi": "\u23e9",
       "audio": {
         "kala_asi": "http://antetokipona.infinityfreeapp.com/kalama/kalaasi/e.mp3",
         "jan_lakuse": "http://antetokipona.infinityfreeapp.com/kalama/jlakuse/e.mp3"
@@ -669,6 +681,7 @@
       "sitelen_pona": "en",
       "sitelen_pona_etymology": "from plus sign (+); compare blissymbol \u201cand\u201d.",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_en.jpg",
+      "sitelen_emosi": "\u2795",
       "luka_pona": {
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/en.mp4",
         "gif": "http://antetokipona.infinityfreeapp.com/lukapona/gif/en.gif"
@@ -725,6 +738,7 @@
       "word": "epiku",
       "sitelen_pona": "epiku",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_epiku.jpg",
+      "sitelen_emosi": "\ud83d\ude0e",
       "audio": {
         "jan_lakuse": "http://antetokipona.infinityfreeapp.com/kalama/jlakuse/epiku.mp3"
       },
@@ -760,6 +774,7 @@
       "sitelen_pona": "esun",
       "sitelen_pona_etymology": "not from a currency symbol (sonja confirmed; said \u201ci think that one is from Mikmaq\u201d but couldn't find a mikmaq symbol similar to it).",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_esun.jpg",
+      "sitelen_emosi": "\ud83d\uded2",
       "luka_pona": {
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/esun.mp4",
         "gif": "http://antetokipona.infinityfreeapp.com/lukapona/gif/esun.gif"
@@ -794,6 +809,7 @@
     "ete": {
       "word": "ete",
       "sitelen_pona": "ete ete1",
+      "sitelen_emosi": "\ud83d\udd03",
       "coined_year": "2019",
       "coined_era": "post-pu",
       "book": "ku lili",
@@ -824,6 +840,7 @@
     "ewe": {
       "word": "ewe",
       "sitelen_pona": "ewe",
+      "sitelen_emosi": "\ud83c\udf0b",
       "coined_year": "2019",
       "coined_era": "post-pu",
       "book": "ku lili",
@@ -881,6 +898,7 @@
       "sitelen_pona": "ijo",
       "sitelen_pona_etymology": "a circle, for a general object",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_ijo.jpg",
+      "sitelen_emosi": "\ud83d\udc1a",
       "luka_pona": {
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/ijo.mp4",
         "gif": "http://antetokipona.infinityfreeapp.com/lukapona/gif/ijo.gif"
@@ -912,6 +930,7 @@
       "sitelen_pona": "ike",
       "sitelen_pona_etymology": "pictogram of a frowning mouth. compare pona",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_ike.jpg",
+      "sitelen_emosi": "\ud83d\udc4e",
       "luka_pona": {
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/ike.mp4",
         "gif": "http://antetokipona.infinityfreeapp.com/lukapona/gif/ike.gif"
@@ -974,6 +993,7 @@
       "sitelen_pona": "ilo",
       "sitelen_pona_etymology": "perhaps a pictogram of a hammer",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_ilo.jpg",
+      "sitelen_emosi": "\u2699\ufe0f",
       "luka_pona": {
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/ilo.mp4",
         "gif": "http://antetokipona.infinityfreeapp.com/lukapona/gif/ilo.gif"
@@ -1036,6 +1056,7 @@
       "sitelen_pona": "insa",
       "sitelen_pona_etymology": "location radical + \u201ccontainer\u201d; compare blissymbol \u201cin\u201d",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_insa.jpg",
+      "sitelen_emosi": "\u23fa\ufe0f",
       "luka_pona": {
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/insa.mp4",
         "gif": "http://antetokipona.infinityfreeapp.com/lukapona/gif/insa.gif"
@@ -1128,6 +1149,7 @@
     "itomi": {
       "word": "itomi",
       "sitelen_pona": "itomi",
+      "sitelen_emosi": "\ud83d\ude08",
       "coined_year": "2019",
       "coined_era": "post-pu",
       "book": "none",
@@ -1159,6 +1181,7 @@
       "sitelen_pona": "jaki",
       "sitelen_pona_etymology": "a scribble",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_jaki.jpg",
+      "sitelen_emosi": "\ud83d\udca9",
       "luka_pona": {
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/jaki.mp4",
         "gif": "http://antetokipona.infinityfreeapp.com/lukapona/gif/jaki.gif"
@@ -1248,6 +1271,7 @@
     "jami": {
       "word": "jami",
       "sitelen_pona": "jami",
+      "sitelen_emosi": "\ud83e\udd24",
       "coined_year": "2017",
       "coined_era": "post-pu",
       "book": "none",
@@ -1279,6 +1303,7 @@
       "sitelen_pona": "jan",
       "sitelen_pona_etymology": "head radical; pictogram of a person showing the shoulders",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_jan.jpg",
+      "sitelen_emosi": "\ud83d\udc64",
       "luka_pona": {
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/jan.mp4",
         "gif": "http://antetokipona.infinityfreeapp.com/lukapona/gif/jan.gif"
@@ -1415,6 +1440,7 @@
       "sitelen_pona": "jelo",
       "sitelen_pona_etymology": "color radical + suno",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_jelo.jpg",
+      "sitelen_emosi": "\ud83d\udc9b",
       "luka_pona": {
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/jelo.mp4",
         "gif": "http://antetokipona.infinityfreeapp.com/lukapona/gif/jelo.gif"
@@ -1447,6 +1473,7 @@
       "sitelen_pona": "jo",
       "sitelen_pona_etymology": "perhaps a pictogram of a person pointing at themself or holding something",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_jo.jpg",
+      "sitelen_emosi": "\ud83d\udc5c",
       "luka_pona": {
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/jo.mp4",
         "gif": "http://antetokipona.infinityfreeapp.com/lukapona/gif/jo.gif"
@@ -1574,6 +1601,7 @@
       "sitelen_pona": "kala kala1",
       "sitelen_pona_etymology": "pictogram of a fish",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_kala.jpg",
+      "sitelen_emosi": "\ud83d\udc1f",
       "luka_pona": {
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/kala.mp4",
         "gif": "http://antetokipona.infinityfreeapp.com/lukapona/gif/kala.gif"
@@ -1606,6 +1634,7 @@
       "sitelen_pona": "kalama",
       "sitelen_pona_etymology": "emission modifier + \u201cmouth\u201d",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_kalama.jpg",
+      "sitelen_emosi": "\ud83d\udd08",
       "luka_pona": {
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/kalama.mp4",
         "gif": "http://antetokipona.infinityfreeapp.com/lukapona/gif/kalama.gif"
@@ -1661,6 +1690,7 @@
       "sitelen_pona": "kama",
       "sitelen_pona_etymology": "motion radical; legs facing to the left. compare tawa and blissymbol \u201cwalk\u201d",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_kama.jpg",
+      "sitelen_emosi": "\ud83d\udeb6",
       "audio": {
         "kala_asi": "http://antetokipona.infinityfreeapp.com/kalama/kalaasi/kama.mp3",
         "jan_lakuse": "http://antetokipona.infinityfreeapp.com/kalama/jlakuse/kama.mp3"
@@ -1686,6 +1716,7 @@
     "kamalawala": {
       "word": "kamalawala",
       "sitelen_pona": "kamalawala",
+      "sitelen_emosi": "\ud83d\udca3",
       "coined_year": "2018",
       "coined_era": "post-pu",
       "book": "ku lili",
@@ -1718,6 +1749,7 @@
     "kan": {
       "word": "kan",
       "sitelen_pona": "kan",
+      "sitelen_emosi": "\ud83d\udd17",
       "coined_year": "2001",
       "coined_era": "pre-pu",
       "book": "ku lili",
@@ -1777,6 +1809,7 @@
     "kapesi": {
       "word": "kapesi",
       "sitelen_pona": "kapesi kapesi1",
+      "sitelen_emosi": "\ud83d\udfe4",
       "coined_year": "2001",
       "coined_era": "pre-pu",
       "book": "ku lili",
@@ -1810,6 +1843,7 @@
       "sitelen_pona": "kasi",
       "sitelen_pona_etymology": "pictogram of a sprout",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_kasi.jpg",
+      "sitelen_emosi": "\ud83c\udf34",
       "luka_pona": {
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/kasi.mp4",
         "gif": "http://antetokipona.infinityfreeapp.com/lukapona/gif/kasi.gif"
@@ -1872,6 +1906,7 @@
       "sitelen_pona": "ken",
       "sitelen_pona_etymology": "perhaps from Latin letter K",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_ken.jpg",
+      "sitelen_emosi": "\ud83d\udcaa",
       "luka_pona": {
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/ken.mp4",
         "gif": "http://antetokipona.infinityfreeapp.com/lukapona/gif/ken.gif"
@@ -1903,6 +1938,7 @@
       "sitelen_pona": "kepeken",
       "sitelen_pona_etymology": "hand modifier + ilo",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_kepeken.jpg",
+      "sitelen_emosi": "\ud83d\udd27",
       "luka_pona": {
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/kepeken.mp4",
         "gif": "http://antetokipona.infinityfreeapp.com/lukapona/gif/kepeken.gif"
@@ -1986,6 +2022,7 @@
       "word": "kijetesantakalu",
       "sitelen_pona": "kijetesantakalu",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_kijetesantakalu.jpg",
+      "sitelen_emosi": "\ud83e\udd9d",
       "luka_pona": {
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/kijetesantakalu.mp4",
         "gif": "http://antetokipona.infinityfreeapp.com/lukapona/gif/kijetesantakalu.gif"
@@ -2059,6 +2096,7 @@
       "sitelen_pona": "kili",
       "sitelen_pona_etymology": "pictogram of a fruit, perhaps an apple",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_kili.jpg",
+      "sitelen_emosi": "\ud83c\udf4e",
       "luka_pona": {
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/kili.mp4",
         "gif": "http://antetokipona.infinityfreeapp.com/lukapona/gif/kili.gif"
@@ -2091,6 +2129,7 @@
       "word": "kin",
       "sitelen_pona": "kin",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_kin.jpg",
+      "sitelen_emosi": "\u2755",
       "audio": {
         "kala_asi": "http://antetokipona.infinityfreeapp.com/kalama/kalaasi/kin.mp3",
         "jan_lakuse": "http://antetokipona.infinityfreeapp.com/kalama/jlakuse/kin.mp3"
@@ -2128,6 +2167,7 @@
       "word": "kipisi",
       "sitelen_pona": "kipisi",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_kipisi.jpg",
+      "sitelen_emosi": "\u2702\ufe0f",
       "luka_pona": {
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/kipisi.mp4",
         "gif": "http://antetokipona.infinityfreeapp.com/lukapona/gif/kipisi.gif"
@@ -2195,6 +2235,7 @@
       "sitelen_pona": "kiwen",
       "sitelen_pona_etymology": "pictogram of a rock or a gem",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_kiwen.jpg",
+      "sitelen_emosi": "\ud83d\udc8e",
       "luka_pona": {
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/kiwen.mp4",
         "gif": "http://antetokipona.infinityfreeapp.com/lukapona/gif/kiwen.gif"
@@ -2226,6 +2267,7 @@
       "sitelen_pona": "ko",
       "sitelen_pona_etymology": "pictogram of splashed goo",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_ko.jpg",
+      "sitelen_emosi": "\ud83c\udf66",
       "luka_pona": {
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/ko.mp4",
         "gif": "http://antetokipona.infinityfreeapp.com/lukapona/gif/ko.gif"
@@ -2291,6 +2333,7 @@
       "sitelen_pona": "kon",
       "sitelen_pona_etymology": "ideogram; wavy lines to indicate the fluidity of gas. compare telo",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_kon.jpg",
+      "sitelen_emosi": "\ud83d\udca8",
       "luka_pona": {
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/kon.mp4",
         "gif": "http://antetokipona.infinityfreeapp.com/lukapona/gif/kon.gif"
@@ -2405,6 +2448,7 @@
       "sitelen_pona": "kule",
       "sitelen_pona_etymology": "color radical; perhaps the horizontal line indicates the sense of \u201cthe concept itself\u201d. or perhaps a pictogram of light passing through a prism (color radical)",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_kule.jpg",
+      "sitelen_emosi": "\ud83c\udf08",
       "luka_pona": {
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/kule.mp4",
         "gif": "http://antetokipona.infinityfreeapp.com/lukapona/gif/kule.gif"
@@ -2491,6 +2535,7 @@
       "sitelen_pona": "kulupu",
       "sitelen_pona_etymology": "pictogram of a group consisting of three members represented by circles",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_kulupu.jpg",
+      "sitelen_emosi": "\ud83d\udc65",
       "luka_pona": {
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/kulupu.mp4",
         "gif": "http://antetokipona.infinityfreeapp.com/lukapona/gif/kulupu.gif"
@@ -2520,6 +2565,7 @@
     "kuntu": {
       "word": "kuntu",
       "sitelen_pona": "kuntu",
+      "sitelen_emosi": "\ud83e\udd23",
       "coined_year": "2018",
       "coined_era": "post-pu",
       "book": "ku lili",
@@ -2551,6 +2597,7 @@
       "sitelen_pona": "kute",
       "sitelen_pona_etymology": "pictogram of an ear. compare blissymbol \u201cear\u201d",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_kute.jpg",
+      "sitelen_emosi": "\ud83d\udc42",
       "luka_pona": {
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/kute.mp4",
         "gif": "http://antetokipona.infinityfreeapp.com/lukapona/gif/kute.gif"
@@ -2594,6 +2641,7 @@
       "sitelen_pona": "la",
       "sitelen_pona_etymology": "perhaps related to blissymbol \u201clater\u201d and \u201cago\u201d, or perhaps a parenthesis",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_la.jpg",
+      "sitelen_emosi": "\ud83d\udd3c",
       "luka_pona": {
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/la.mp4",
         "gif": "http://antetokipona.infinityfreeapp.com/lukapona/gif/la.gif"
@@ -2623,6 +2671,7 @@
       "word": "lanpan",
       "sitelen_pona": "lanpan lanpan1",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_lanpan.jpg",
+      "sitelen_emosi": "\ud83d\udce5",
       "audio": {
         "jan_lakuse": "http://antetokipona.infinityfreeapp.com/kalama/jlakuse/lanpan.mp3"
       },
@@ -2658,6 +2707,7 @@
       "sitelen_pona": "lape",
       "sitelen_pona_etymology": "pictogram of a lying person",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_lape.jpg",
+      "sitelen_emosi": "\ud83d\ude34",
       "luka_pona": {
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/lape.mp4",
         "gif": "http://antetokipona.infinityfreeapp.com/lukapona/gif/lape.gif"
@@ -2689,6 +2739,7 @@
       "sitelen_pona": "laso",
       "sitelen_pona_etymology": "color radical + kasi",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_laso.jpg",
+      "sitelen_emosi": "\ud83d\udd35",
       "luka_pona": {
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/laso.mp4",
         "gif": "http://antetokipona.infinityfreeapp.com/lukapona/gif/laso.gif"
@@ -2720,6 +2771,7 @@
       "sitelen_pona": "lawa",
       "sitelen_pona_etymology": "head radical; perhaps the horizontal line for the same reason as in kule. alternatively, perhaps a pictogram of a person wearing a cap",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_lawa.jpg",
+      "sitelen_emosi": "\ud83d\ude36",
       "luka_pona": {
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/lawa.mp4",
         "gif": "http://antetokipona.infinityfreeapp.com/lukapona/gif/lawa.gif"
@@ -2750,6 +2802,7 @@
       "word": "leko",
       "sitelen_pona": "leko",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_leko.jpg",
+      "sitelen_emosi": "\ud83e\uddf1",
       "luka_pona": {
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/leko.mp4",
         "gif": "http://antetokipona.infinityfreeapp.com/lukapona/gif/leko.gif"
@@ -2788,6 +2841,7 @@
       "sitelen_pona": "len",
       "sitelen_pona_etymology": "perhaps a pictogram of a piece of fabric",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_len.jpg",
+      "sitelen_emosi": "\ud83d\udc55",
       "luka_pona": {
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/len.mp4",
         "gif": "http://antetokipona.infinityfreeapp.com/lukapona/gif/len.gif"
@@ -2848,6 +2902,7 @@
       "sitelen_pona": "lete",
       "sitelen_pona_etymology": "pictogram of a snowflake",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_lete.jpg",
+      "sitelen_emosi": "\u2744\ufe0f",
       "luka_pona": {
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/lete.mp4",
         "gif": "http://antetokipona.infinityfreeapp.com/lukapona/gif/lete.gif"
@@ -2877,6 +2932,7 @@
       "word": "li",
       "sitelen_pona": "li",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_li.jpg",
+      "sitelen_emosi": "\u25b6\ufe0f",
       "audio": {
         "kala_asi": "http://antetokipona.infinityfreeapp.com/kalama/kalaasi/li.mp3",
         "jan_lakuse": "http://antetokipona.infinityfreeapp.com/kalama/jlakuse/li.mp3"
@@ -2909,6 +2965,7 @@
     "likujo": {
       "word": "likujo",
       "sitelen_pona": "likujo",
+      "sitelen_emosi": "\ud83e\uddfa",
       "coined_year": "2018",
       "coined_era": "post-pu",
       "book": "ku lili",
@@ -2942,6 +2999,7 @@
       "sitelen_pona": "lili",
       "sitelen_pona_etymology": "ideogram showing smaller size compared to suli",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_lili.jpg",
+      "sitelen_emosi": "\ud83d\udc2d",
       "luka_pona": {
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/lili.mp4",
         "gif": "http://antetokipona.infinityfreeapp.com/lukapona/gif/lili.gif"
@@ -2972,6 +3030,7 @@
       "sitelen_pona": "linja",
       "sitelen_pona_etymology": "pictogram of a string",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_linja.jpg",
+      "sitelen_emosi": "\u3030\ufe0f",
       "luka_pona": {
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/linja.mp4",
         "gif": "http://antetokipona.infinityfreeapp.com/lukapona/gif/linja.gif"
@@ -3001,6 +3060,7 @@
     "linluwi": {
       "word": "linluwi",
       "sitelen_pona": "linluwi",
+      "sitelen_emosi": "\ud83c\udf10",
       "coined_year": "2017",
       "coined_era": "post-pu",
       "book": "ku lili",
@@ -3033,6 +3093,7 @@
       "sitelen_pona": "lipu",
       "sitelen_pona_etymology": "pictogram of a sheet of paper. compare blissymbol \u201cpaper\u201d",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_lipu.jpg",
+      "sitelen_emosi": "\ud83d\udcc4",
       "luka_pona": {
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/lipu.mp4",
         "gif": "http://antetokipona.infinityfreeapp.com/lukapona/gif/lipu.gif"
@@ -3063,6 +3124,7 @@
       "sitelen_pona": "loje",
       "sitelen_pona_etymology": "color radical + \u201cmouth\u201d",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_loje.jpg",
+      "sitelen_emosi": "\ud83d\udd34",
       "luka_pona": {
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/loje.mp4",
         "gif": "http://antetokipona.infinityfreeapp.com/lukapona/gif/loje.gif"
@@ -3119,6 +3181,7 @@
     "lokon": {
       "word": "lokon",
       "sitelen_pona": "lokon",
+      "sitelen_emosi": "\ud83e\uddff",
       "coined_year": "2018",
       "coined_era": "post-pu",
       "book": "none",
@@ -3179,6 +3242,7 @@
       "sitelen_pona": "lon",
       "sitelen_pona_etymology": "location radical above a line. compare blissymbol \u201cover\u201d",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_lon.jpg",
+      "sitelen_emosi": "\ud83d\udccd",
       "luka_pona": {
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/lon.mp4",
         "gif": "http://antetokipona.infinityfreeapp.com/lukapona/gif/lon.gif"
@@ -3255,6 +3319,7 @@
       "sitelen_pona": "luka",
       "sitelen_pona_etymology": "pictogram of a hand",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_luka.jpg",
+      "sitelen_emosi": "\u270b",
       "luka_pona": {
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/luka.mp4",
         "gif": "http://antetokipona.infinityfreeapp.com/lukapona/gif/luka.gif"
@@ -3285,6 +3350,7 @@
       "sitelen_pona": "lukin",
       "sitelen_pona_etymology": "pictogram of an eye. compare blissymbol \u201ceye\u201d",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_lukin.jpg",
+      "sitelen_emosi": "\ud83d\udc40",
       "luka_pona": {
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/lukin.mp4",
         "gif": "http://antetokipona.infinityfreeapp.com/lukapona/gif/lukin.gif"
@@ -3318,6 +3384,7 @@
       "sitelen_pona": "lupa",
       "sitelen_pona_etymology": "pictogram of a concave surface. compare nena",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_lupa.jpg",
+      "sitelen_emosi": "\ud83d\udd73\ufe0f",
       "luka_pona": {
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/lupa.mp4",
         "gif": "http://antetokipona.infinityfreeapp.com/lukapona/gif/lupa.gif"
@@ -3349,6 +3416,7 @@
       "sitelen_pona": "ma",
       "sitelen_pona_etymology": "perhaps from modern astronomical symbol \u201cearth\u201d (\u2295)",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_ma.jpg",
+      "sitelen_emosi": "\ud83c\udfdd\ufe0f",
       "luka_pona": {
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/ma.mp4",
         "gif": "http://antetokipona.infinityfreeapp.com/lukapona/gif/ma.gif"
@@ -3377,6 +3445,7 @@
     "majuna": {
       "word": "majuna",
       "sitelen_pona": "majuna",
+      "sitelen_emosi": "\ud83d\udc75",
       "audio": {
         "jan_lakuse": "http://antetokipona.infinityfreeapp.com/kalama/jlakuse/majuna.mp3"
       },
@@ -3414,6 +3483,7 @@
       "sitelen_pona": "mama",
       "sitelen_pona_etymology": "head radical; perhaps the smaller circle representing the child",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_mama.jpg",
+      "sitelen_emosi": "\ud83d\udc6a",
       "luka_pona": {
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/mama.mp4",
         "gif": "http://antetokipona.infinityfreeapp.com/lukapona/gif/mama.gif"
@@ -3444,6 +3514,7 @@
       "sitelen_pona": "mani",
       "sitelen_pona_etymology": "a pictogram of a large domestic animal, such as a cow (sonja confirmed)",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_mani.jpg",
+      "sitelen_emosi": "\ud83d\udcb0",
       "luka_pona": {
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/mani.mp4",
         "gif": "http://antetokipona.infinityfreeapp.com/lukapona/gif/mani.gif"
@@ -3490,6 +3561,7 @@
       "sitelen_pona": "meli meli1",
       "sitelen_pona_etymology": "head radical with long hair",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_meli.jpg",
+      "sitelen_emosi": "\ud83d\udc67",
       "luka_pona": {
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/meli.mp4",
         "gif": "http://antetokipona.infinityfreeapp.com/lukapona/gif/meli.gif"
@@ -3519,6 +3591,7 @@
     "melome": {
       "word": "melome",
       "sitelen_pona": "melome",
+      "sitelen_emosi": "\ud83d\udc69\u200d\u2764\ufe0f\u200d\ud83d\udc69",
       "coined_year": "2017",
       "coined_era": "post-pu",
       "book": "none",
@@ -3586,6 +3659,7 @@
       "sitelen_pona": "mi",
       "sitelen_pona_etymology": "perhaps a hand pointing towards the speaker. compare sina and ona",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_mi.jpg",
+      "sitelen_emosi": "\ud83d\udc48",
       "luka_pona": {
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/mi.mp4",
         "gif": "http://antetokipona.infinityfreeapp.com/lukapona/gif/mi.gif"
@@ -3618,6 +3692,7 @@
       "sitelen_pona": "mije mije1",
       "sitelen_pona_etymology": "head radical with perhaps wide shoulders. compare jan",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_mije.jpg",
+      "sitelen_emosi": "\ud83d\udc68",
       "luka_pona": {
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/mije.mp4",
         "gif": "http://antetokipona.infinityfreeapp.com/lukapona/gif/mije.gif"
@@ -3647,6 +3722,7 @@
     "mijomi": {
       "word": "mijomi",
       "sitelen_pona": "mijomi",
+      "sitelen_emosi": "\ud83d\udc68\u200d\u2764\ufe0f\u200d\ud83d\udc68",
       "coined_year": "2017",
       "coined_era": "post-pu",
       "book": "none",
@@ -3706,6 +3782,7 @@
       "word": "misikeke",
       "sitelen_pona": "misikeke",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_misekeke.jpg",
+      "sitelen_emosi": "\ud83d\udc8a",
       "luka_pona": {
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/misikeke.mp4",
         "gif": "http://antetokipona.infinityfreeapp.com/lukapona/gif/misikeke.gif"
@@ -3746,6 +3823,7 @@
       "sitelen_pona": "moku",
       "sitelen_pona_etymology": "hand modifier + \u201cmouth\u201d",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_moku.jpg",
+      "sitelen_emosi": "\ud83c\udf7d\ufe0f",
       "luka_pona": {
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/moku.mp4",
         "gif": "http://antetokipona.infinityfreeapp.com/lukapona/gif/moku.gif"
@@ -3776,6 +3854,7 @@
       "sitelen_pona": "moli",
       "sitelen_pona_etymology": "head radical; a dead person, represented by the crossed eyes",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_moli.jpg",
+      "sitelen_emosi": "\ud83d\udc80",
       "luka_pona": {
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/moli.mp4",
         "gif": "http://antetokipona.infinityfreeapp.com/lukapona/gif/moli.gif"
@@ -3828,6 +3907,7 @@
       "sitelen_pona": "monsi",
       "sitelen_pona_etymology": "location radical + rotate \u201ccontainer\u201d. compare sinpin",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_monsi.jpg",
+      "sitelen_emosi": "\u2b05\ufe0f",
       "luka_pona": {
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/monsi.mp4",
         "gif": "http://antetokipona.infinityfreeapp.com/lukapona/gif/monsi.gif"
@@ -3857,6 +3937,7 @@
       "word": "monsuta",
       "sitelen_pona": "monsuta",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_monsuta.jpg",
+      "sitelen_emosi": "\ud83d\udc79",
       "luka_pona": {
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/monsuta.mp4",
         "gif": "http://antetokipona.infinityfreeapp.com/lukapona/gif/monsuta.gif"
@@ -3896,6 +3977,7 @@
       "sitelen_pona": "mu",
       "sitelen_pona_etymology": "pictogram of a mammal",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_mu.jpg",
+      "sitelen_emosi": "\ud83d\ude39",
       "luka_pona": {
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/mu.mp4",
         "gif": "http://antetokipona.infinityfreeapp.com/lukapona/gif/mu.gif"
@@ -3922,6 +4004,7 @@
     "mulapisu": {
       "word": "mulapisu",
       "sitelen_pona": "mulapisu",
+      "sitelen_emosi": "\ud83c\udf55",
       "audio": {
         "jan_lakuse": "http://antetokipona.infinityfreeapp.com/kalama/jlakuse/mulapisu.mp3"
       },
@@ -3959,6 +4042,7 @@
       "sitelen_pona": "mun",
       "sitelen_pona_etymology": "pictogram of a crescent moon. compare blissymbol \u201cmoon\u201d",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_mun.jpg",
+      "sitelen_emosi": "\ud83c\udf19",
       "luka_pona": {
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/mun.mp4",
         "gif": "http://antetokipona.infinityfreeapp.com/lukapona/gif/mun.gif"
@@ -3988,6 +4072,7 @@
       "sitelen_pona": "musi",
       "sitelen_pona_etymology": "perhaps a pictogram of a smile with rosy cheeks or a lyre",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_musi.jpg",
+      "sitelen_emosi": "\ud83d\ude03",
       "luka_pona": {
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/musi.mp4",
         "gif": "http://antetokipona.infinityfreeapp.com/lukapona/gif/musi.gif"
@@ -4016,6 +4101,7 @@
       "sitelen_pona": "mute",
       "sitelen_pona_etymology": "ideogram consisting of three tally marks. compare wan and tu",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_mute.jpg",
+      "sitelen_emosi": "\ud83d\udc50",
       "luka_pona": {
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/mute.mp4",
         "gif": "http://antetokipona.infinityfreeapp.com/lukapona/gif/mute.gif"
@@ -4072,6 +4158,7 @@
       "word": "namako",
       "sitelen_pona": "namako",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_namako.jpg",
+      "sitelen_emosi": "\ud83e\uddc2",
       "audio": {
         "kala_asi": "http://antetokipona.infinityfreeapp.com/kalama/kalaasi/namako.mp3",
         "jan_lakuse": "http://antetokipona.infinityfreeapp.com/kalama/jlakuse/namako.mp3"
@@ -4110,6 +4197,7 @@
       "sitelen_pona": "nanpa",
       "sitelen_pona_etymology": "from number sign (#). compare blissymbol \u201cnumber\u201d",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_nanpa.jpg",
+      "sitelen_emosi": "#\ufe0f\u20e3",
       "luka_pona": {
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/nanpa.mp4",
         "gif": "http://antetokipona.infinityfreeapp.com/lukapona/gif/nanpa.gif"
@@ -4140,6 +4228,7 @@
       "sitelen_pona": "nasa",
       "sitelen_pona_etymology": "perhaps spiral representing \u201cdizziness\u201d, as can be commonly seen in Japanese manga and anime",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_nasa.jpg",
+      "sitelen_emosi": "\ud83c\udf00",
       "luka_pona": {
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/nasa.mp4",
         "gif": "http://antetokipona.infinityfreeapp.com/lukapona/gif/nasa.gif"
@@ -4170,6 +4259,7 @@
       "sitelen_pona": "nasin",
       "sitelen_pona_etymology": "ideogram consisting of an arrow along a vertical line",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_nasin.jpg",
+      "sitelen_emosi": "\ud83d\udee3\ufe0f",
       "luka_pona": {
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/nasin.mp4",
         "gif": "http://antetokipona.infinityfreeapp.com/lukapona/gif/nasin.gif"
@@ -4276,6 +4366,7 @@
       "sitelen_pona": "nena",
       "sitelen_pona_etymology": "pictogram of a convex surface. compare lupa",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_nena.jpg",
+      "sitelen_emosi": "\ud83d\uddfb",
       "luka_pona": {
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/nena.mp4",
         "gif": "http://antetokipona.infinityfreeapp.com/lukapona/gif/nena.gif"
@@ -4307,6 +4398,7 @@
       "sitelen_pona": "ni",
       "sitelen_pona_etymology": "an arrow",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_ni.jpg",
+      "sitelen_emosi": "\ud83d\udc47",
       "luka_pona": {
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/ni.mp4",
         "gif": "http://antetokipona.infinityfreeapp.com/lukapona/gif/ni.gif"
@@ -4339,6 +4431,7 @@
       "sitelen_pona": "nimi",
       "sitelen_pona_etymology": "perhaps a pictogram of a nametag or sitelen pona cartouche",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_nimi.jpg",
+      "sitelen_emosi": "\ud83d\udcac",
       "luka_pona": {
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/nimi.mp4",
         "gif": "http://antetokipona.infinityfreeapp.com/lukapona/gif/nimi.gif"
@@ -4390,6 +4483,7 @@
       "sitelen_pona": "noka",
       "sitelen_pona_etymology": "pictogram of a foot with an ankle",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_noka.jpg",
+      "sitelen_emosi": "\ud83e\uddb5",
       "luka_pona": {
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/noka.mp4",
         "gif": "http://antetokipona.infinityfreeapp.com/lukapona/gif/noka.gif"
@@ -4528,6 +4622,7 @@
       "sitelen_pona": "oo",
       "sitelen_pona_etymology": "exclamation radical + Latin lowercase letter O. compare a",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_o.jpg",
+      "sitelen_emosi": "\ud83d\udc4b",
       "luka_pona": {
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/o.mp4",
         "gif": "http://antetokipona.infinityfreeapp.com/lukapona/gif/o.gif"
@@ -4556,6 +4651,7 @@
     "oke": {
       "word": "oke",
       "sitelen_pona": "oke",
+      "sitelen_emosi": "\ud83d\udc4c",
       "coined_year": "2019",
       "coined_era": "post-pu",
       "book": "ku lili",
@@ -4588,6 +4684,7 @@
     "okepuma": {
       "word": "okepuma",
       "sitelen_pona": "okepuma",
+      "sitelen_emosi": "\ud83e\udd96",
       "coined_year": "2019",
       "coined_era": "post-pu",
       "book": "none",
@@ -4617,6 +4714,7 @@
       "word": "oko",
       "sitelen_pona": "oko",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_oko.jpg",
+      "sitelen_emosi": "\ud83d\udc41\ufe0f",
       "luka_pona": {
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/oko.mp4",
         "gif": "http://antetokipona.infinityfreeapp.com/lukapona/gif/oko.gif"
@@ -4659,6 +4757,7 @@
       "sitelen_pona": "olin olin1",
       "sitelen_pona_etymology": "two heart symbols (\u2661), perhaps to distinguish from pilin",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_olin.jpg",
+      "sitelen_emosi": "\ud83d\udc95",
       "luka_pona": {
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/olin.mp4",
         "gif": "http://antetokipona.infinityfreeapp.com/lukapona/gif/olin.gif"
@@ -4716,6 +4815,7 @@
     "omen": {
       "word": "omen",
       "sitelen_pona": "omen",
+      "sitelen_emosi": "\ud83d\ude44",
       "coined_year": "2017",
       "coined_era": "post-pu",
       "book": "none",
@@ -4746,6 +4846,7 @@
       "sitelen_pona": "ona",
       "sitelen_pona_etymology": "perhaps a hand pointing sideways. compare mi and sina",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_ona.jpg",
+      "sitelen_emosi": "\ud83d\udc46",
       "luka_pona": {
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/ona.mp4",
         "gif": "http://antetokipona.infinityfreeapp.com/lukapona/gif/ona.gif"
@@ -4802,6 +4903,7 @@
       "sitelen_pona": "open",
       "sitelen_pona_etymology": "perhaps a pictogram of an opened container",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_open.jpg",
+      "sitelen_emosi": "\ud83d\udd13",
       "luka_pona": {
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/open.mp4",
         "gif": "http://antetokipona.infinityfreeapp.com/lukapona/gif/open.gif"
@@ -4853,6 +4955,7 @@
     "pa": {
       "word": "pa",
       "sitelen_pona": "pa",
+      "sitelen_emosi": "\ud83e\udd28",
       "coined_year": "2019",
       "coined_era": "post-pu",
       "book": "none",
@@ -4883,6 +4986,7 @@
       "sitelen_pona": "pakala",
       "sitelen_pona_etymology": "pictogram of a cracked object",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_pakala.jpg",
+      "sitelen_emosi": "\ud83d\udca5",
       "luka_pona": {
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/pakala.mp4",
         "gif": "http://antetokipona.infinityfreeapp.com/lukapona/gif/pakala.gif"
@@ -4910,6 +5014,7 @@
     "pake": {
       "word": "pake",
       "sitelen_pona": "pake",
+      "sitelen_emosi": "\ud83d\udea7",
       "audio": {
         "jan_lakuse": "http://antetokipona.infinityfreeapp.com/kalama/jlakuse/pake.mp3"
       },
@@ -4945,6 +5050,7 @@
       "sitelen_pona": "pali",
       "sitelen_pona_etymology": "hand modifier + ijo",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_pali.jpg",
+      "sitelen_emosi": "\u270a",
       "luka_pona": {
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/pali.mp4",
         "gif": "http://antetokipona.infinityfreeapp.com/lukapona/gif/pali.gif"
@@ -4975,6 +5081,7 @@
       "sitelen_pona": "palisa",
       "sitelen_pona_etymology": "pictogram of a stick",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_palisa.jpg",
+      "sitelen_emosi": "\ud83d\udccf",
       "luka_pona": {
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/palisa.mp4",
         "gif": "http://antetokipona.infinityfreeapp.com/lukapona/gif/palisa.gif"
@@ -5005,6 +5112,7 @@
       "sitelen_pona": "pan",
       "sitelen_pona_etymology": "perhaps a pictogram of a grain crop",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_pan.jpg",
+      "sitelen_emosi": "\ud83c\udf5e",
       "luka_pona": {
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/pan.mp4",
         "gif": "http://antetokipona.infinityfreeapp.com/lukapona/gif/pan.gif"
@@ -5037,6 +5145,7 @@
       "sitelen_pona": "pana",
       "sitelen_pona_etymology": "emission modifier + luka",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_pana.jpg",
+      "sitelen_emosi": "\ud83d\udce4",
       "luka_pona": {
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/pana.mp4",
         "gif": "http://antetokipona.infinityfreeapp.com/lukapona/gif/pana.gif"
@@ -5066,6 +5175,7 @@
     "pasila": {
       "word": "pasila",
       "sitelen_pona": "pasila",
+      "sitelen_emosi": "\ud83e\uddd8",
       "coined_year": "<2001",
       "coined_era": "pre-pu",
       "book": "none",
@@ -5095,6 +5205,7 @@
     "pata": {
       "word": "pata",
       "sitelen_pona": "pata",
+      "sitelen_emosi": "\ud83d\udc6f\u200d\u2640\ufe0f",
       "coined_year": "2002",
       "coined_era": "pre-pu",
       "book": "ku lili",
@@ -5155,6 +5266,7 @@
     },
     "peta": {
       "word": "peta",
+      "sitelen_emosi": "\ud83d\udfe2",
       "coined_year": "2019",
       "coined_era": "post-pu",
       "book": "none",
@@ -5183,6 +5295,7 @@
     "peto": {
       "word": "peto",
       "sitelen_pona": "peto",
+      "sitelen_emosi": "\ud83d\ude2d",
       "coined_year": "2017",
       "coined_era": "post-pu",
       "book": "ku lili",
@@ -5215,6 +5328,7 @@
       "sitelen_pona": "pi",
       "sitelen_pona_etymology": "perhaps from tilted blissymbol \u201cby\u201d",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_pi.jpg",
+      "sitelen_emosi": "\u23f9\ufe0f",
       "luka_pona": {
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/pi.mp4",
         "gif": "http://antetokipona.infinityfreeapp.com/lukapona/gif/pi.gif"
@@ -5265,6 +5379,7 @@
       "sitelen_pona": "pilin",
       "sitelen_pona_etymology": "from heart symbol (\u2661). compare blissymbol \u201cfeeling\u201d",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_pilin.jpg",
+      "sitelen_emosi": "\u2764\ufe0f",
       "luka_pona": {
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/pilin.mp4",
         "gif": "http://antetokipona.infinityfreeapp.com/lukapona/gif/pilin.gif"
@@ -5294,6 +5409,7 @@
       "sitelen_pona": "pimeja",
       "sitelen_pona_etymology": "color radical; perhaps the cross representing the absence of light",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_pimeja.jpg",
+      "sitelen_emosi": "\u26ab",
       "luka_pona": {
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/pimeja.mp4",
         "gif": "http://antetokipona.infinityfreeapp.com/lukapona/gif/pimeja.gif"
@@ -5349,6 +5465,7 @@
       "sitelen_pona": "pini",
       "sitelen_pona_etymology": "perhaps a blocking wall",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_pini.jpg",
+      "sitelen_emosi": "\ud83c\udfc1",
       "luka_pona": {
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/pini.mp4",
         "gif": "http://antetokipona.infinityfreeapp.com/lukapona/gif/pini.gif"
@@ -5379,6 +5496,7 @@
       "sitelen_pona": "pipi",
       "sitelen_pona_etymology": "animal radical; pictogram of a bug",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_pipi.jpg",
+      "sitelen_emosi": "\ud83d\udc1e",
       "luka_pona": {
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/pipi.mp4",
         "gif": "http://antetokipona.infinityfreeapp.com/lukapona/gif/pipi.gif"
@@ -5408,6 +5526,7 @@
     "pipo": {
       "word": "pipo",
       "sitelen_pona": "pipo",
+      "sitelen_emosi": "\ud83d\ude12",
       "coined_year": "2017",
       "coined_era": "post-pu",
       "book": "none",
@@ -5436,6 +5555,7 @@
     "po": {
       "word": "po",
       "sitelen_pona": "po",
+      "sitelen_emosi": "\ud83c\udf40",
       "coined_year": "2001",
       "coined_era": "pre-pu",
       "book": "ku lili",
@@ -5470,6 +5590,7 @@
       "sitelen_pona": "poka",
       "sitelen_pona_etymology": "location radical + \u201ccontainer\u201d",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_poka.jpg",
+      "sitelen_emosi": "\u2194\ufe0f",
       "luka_pona": {
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/poka.mp4",
         "gif": "http://antetokipona.infinityfreeapp.com/lukapona/gif/poka.gif"
@@ -5501,6 +5622,7 @@
       "sitelen_pona": "poki",
       "sitelen_pona_etymology": "pictogram of a container",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_poki.jpg",
+      "sitelen_emosi": "\ud83d\udce6",
       "luka_pona": {
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/poki.mp4",
         "gif": "http://antetokipona.infinityfreeapp.com/lukapona/gif/poki.gif"
@@ -5528,6 +5650,7 @@
     "polinpin": {
       "word": "polinpin",
       "sitelen_pona": "polinpin",
+      "sitelen_emosi": "\ud83c\udfb3",
       "coined_year": "2019",
       "coined_era": "post-pu",
       "book": "ku lili",
@@ -5558,6 +5681,7 @@
     "pomotolo": {
       "word": "pomotolo",
       "sitelen_pona": "pomotolo",
+      "sitelen_emosi": "\ud83d\udcc8",
       "coined_year": "2019",
       "coined_era": "post-pu",
       "book": "ku lili",
@@ -5590,6 +5714,7 @@
       "sitelen_pona": "pona",
       "sitelen_pona_etymology": "pictogram of a smiling mouth. compare ike",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_pona.jpg",
+      "sitelen_emosi": "\ud83d\udc4d",
       "luka_pona": {
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/pona.mp4",
         "gif": "http://antetokipona.infinityfreeapp.com/lukapona/gif/pona.gif"
@@ -5617,6 +5742,7 @@
     "powe": {
       "word": "powe",
       "sitelen_pona": "powe",
+      "sitelen_emosi": "\ud83e\uddde",
       "audio": {
         "jan_lakuse": "http://antetokipona.infinityfreeapp.com/kalama/jlakuse/powe.mp3"
       },
@@ -5651,6 +5777,7 @@
       "word": "pu",
       "sitelen_pona": "pu",
       "sitelen_pona_etymology": "pictogram of the cover of the book \u201cToki Pona: The Language of Good\u201d. Alternatively a semantic compound glyph of lipu and toki pona",
+      "sitelen_emosi": "\ud83d\udcd6",
       "audio": {
         "kala_asi": "http://antetokipona.infinityfreeapp.com/kalama/kalaasi/pu.mp3",
         "jan_lakuse": "http://antetokipona.infinityfreeapp.com/kalama/jlakuse/pu.mp3"
@@ -5709,6 +5836,7 @@
       "sitelen_pona": "sama",
       "sitelen_pona_etymology": "from equal sign (=). compare blissymbol \u201csame\u201d",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_sama.jpg",
+      "sitelen_emosi": "\u2696\ufe0f",
       "luka_pona": {
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/sama.mp4",
         "gif": "http://antetokipona.infinityfreeapp.com/lukapona/gif/sama.gif"
@@ -5739,6 +5867,7 @@
     "samu": {
       "word": "samu",
       "sitelen_pona": "samu",
+      "sitelen_emosi": "\u270d\ufe0f",
       "audio": {
         "jan_lakuse": "http://antetokipona.infinityfreeapp.com/kalama/jlakuse/samu.mp3"
       },
@@ -5838,6 +5967,7 @@
       "sitelen_pona": "seli",
       "sitelen_pona_etymology": "perhaps a pictogram of a lit campfire or a simplified pictogram of a fire",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_seli.jpg",
+      "sitelen_emosi": "\ud83d\udd25",
       "luka_pona": {
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/seli.mp4",
         "gif": "http://antetokipona.infinityfreeapp.com/lukapona/gif/seli.gif"
@@ -5866,6 +5996,7 @@
       "word": "selo",
       "sitelen_pona": "selo",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_selo.jpg",
+      "sitelen_emosi": "\ud83d\udd32",
       "luka_pona": {
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/selo.mp4",
         "gif": "http://antetokipona.infinityfreeapp.com/lukapona/gif/selo.gif"
@@ -5895,6 +6026,7 @@
       "sitelen_pona": "seme",
       "sitelen_pona_etymology": "from question mark (?). compare blissymbol \u201cwhat\u201d",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_seme.jpg",
+      "sitelen_emosi": "\u2753",
       "luka_pona": {
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/seme.mp4",
         "gif": "http://antetokipona.infinityfreeapp.com/lukapona/gif/seme.gif"
@@ -5927,6 +6059,7 @@
       "sitelen_pona": "sewi sewi1",
       "sitelen_pona_etymology": "from arabic \u0661\u0651\u0644\u0644\u064e\u0647\u200e \u201callah\u201d",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_sewi.jpg",
+      "sitelen_emosi": "\u2b06\ufe0f",
       "luka_pona": {
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/sewi.mp4",
         "gif": "http://antetokipona.infinityfreeapp.com/lukapona/gif/sewi.gif"
@@ -5955,6 +6088,7 @@
       "sitelen_pona": "sijelo",
       "sitelen_pona_etymology": "perhaps a pictogram of a torso",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_sijelo.jpg",
+      "sitelen_emosi": "\ud83c\udfcb\ufe0f",
       "luka_pona": {
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/sijelo.mp4",
         "gif": "http://antetokipona.infinityfreeapp.com/lukapona/gif/sijelo.gif"
@@ -5983,6 +6117,7 @@
       "sitelen_pona": "sike",
       "sitelen_pona_etymology": "two circles, perhaps to distinguish from ijo. alternatively outline of a thick empty circle",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_sike.jpg",
+      "sitelen_emosi": "\u2b55",
       "luka_pona": {
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/sike.mp4",
         "gif": "http://antetokipona.infinityfreeapp.com/lukapona/gif/sike.gif"
@@ -6009,6 +6144,7 @@
     "sikomo": {
       "word": "sikomo",
       "sitelen_pona": "sikomo",
+      "sitelen_emosi": "\ud83e\udd29",
       "coined_year": "2019",
       "coined_era": "post-pu",
       "book": "none",
@@ -6040,6 +6176,7 @@
       "word": "sin",
       "sitelen_pona": "sin",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_sin.jpg",
+      "sitelen_emosi": "\ud83c\udf81",
       "luka_pona": {
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/sin.mp4",
         "gif": "http://antetokipona.infinityfreeapp.com/lukapona/gif/sin.gif"
@@ -6074,6 +6211,7 @@
       "sitelen_pona": "sina",
       "sitelen_pona_etymology": "perhaps a hand pointing towards the listener. compare mi and ona",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_sina.jpg",
+      "sitelen_emosi": "\ud83d\udc49",
       "luka_pona": {
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/sina.mp4",
         "gif": "http://antetokipona.infinityfreeapp.com/lukapona/gif/sina.gif"
@@ -6103,6 +6241,7 @@
       "sitelen_pona": "sinpin",
       "sitelen_pona_etymology": "location radical + rotate \u201ccontainer\u201d. compare monsi",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_sinpin.jpg",
+      "sitelen_emosi": "\u27a1\ufe0f",
       "luka_pona": {
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/sinpin.mp4",
         "gif": "http://antetokipona.infinityfreeapp.com/lukapona/gif/sinpin.gif"
@@ -6131,6 +6270,7 @@
       "sitelen_pona": "sitelen",
       "sitelen_pona_etymology": "perhaps a representation of symbols on a piece of paper (lipu)",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_sitelen.jpg",
+      "sitelen_emosi": "\ud83d\uddbc\ufe0f",
       "luka_pona": {
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/sitelen.mp4",
         "gif": "http://antetokipona.infinityfreeapp.com/lukapona/gif/sitelen.gif"
@@ -6180,6 +6320,7 @@
       "word": "soko",
       "sitelen_pona": "soko",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_soko.jpg",
+      "sitelen_emosi": "\ud83c\udf44",
       "audio": {
         "jan_lakuse": "http://antetokipona.infinityfreeapp.com/kalama/jlakuse/soko.mp3"
       },
@@ -6217,6 +6358,7 @@
       "sitelen_pona": "sona",
       "sitelen_pona_etymology": "emission modifier + lipu",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_sona.jpg",
+      "sitelen_emosi": "\ud83e\udde0",
       "luka_pona": {
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/sona.mp4",
         "gif": "http://antetokipona.infinityfreeapp.com/lukapona/gif/sona.gif"
@@ -6243,6 +6385,7 @@
     "soto": {
       "word": "soto",
       "sitelen_pona": "soto",
+      "sitelen_emosi": "\ud83e\udd1b",
       "coined_year": "2019",
       "coined_era": "post-pu",
       "book": "ku lili",
@@ -6277,6 +6420,7 @@
       "sitelen_pona": "soweli",
       "sitelen_pona_etymology": "animal radical; pictogram of a mammal",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_soweli.jpg",
+      "sitelen_emosi": "\ud83d\udc12",
       "luka_pona": {
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/soweli.mp4",
         "gif": "http://antetokipona.infinityfreeapp.com/lukapona/gif/soweli.gif"
@@ -6327,6 +6471,7 @@
     "su1": {
       "word": "su",
       "sitelen_pona": "su",
+      "sitelen_emosi": "\u2754",
       "coined_year": "2019",
       "coined_era": "post-pu",
       "book": "none",
@@ -6378,6 +6523,7 @@
       "sitelen_pona": "suli",
       "sitelen_pona_etymology": "ideogram showing bigger size compared to lili",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_suli.jpg",
+      "sitelen_emosi": "\ud83d\udc18",
       "luka_pona": {
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/suli.mp4",
         "gif": "http://antetokipona.infinityfreeapp.com/lukapona/gif/suli.gif"
@@ -6406,6 +6552,7 @@
       "sitelen_pona": "suno",
       "sitelen_pona_etymology": "pictogram of the sun",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_suno.jpg",
+      "sitelen_emosi": "\u2600\ufe0f",
       "luka_pona": {
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/suno.mp4",
         "gif": "http://antetokipona.infinityfreeapp.com/lukapona/gif/suno.gif"
@@ -6436,6 +6583,7 @@
       "sitelen_pona": "supa",
       "sitelen_pona_etymology": "pictogram of a table. compare blissymbol \u201ctable\u201d",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_supa.jpg",
+      "sitelen_emosi": "\ud83d\udecf\ufe0f",
       "luka_pona": {
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/supa.mp4",
         "gif": "http://antetokipona.infinityfreeapp.com/lukapona/gif/supa.gif"
@@ -6493,6 +6641,7 @@
       "sitelen_pona": "suwi",
       "sitelen_pona_etymology": "perhaps a pictogram of a smiling face",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_suwi.jpg",
+      "sitelen_emosi": "\ud83c\udf6d",
       "luka_pona": {
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/suwi.mp4",
         "gif": "http://antetokipona.infinityfreeapp.com/lukapona/gif/suwi.gif"
@@ -6580,6 +6729,7 @@
       "sitelen_pona": "tan",
       "sitelen_pona_etymology": "a leaping arrow pointing from right to left, implying derivation or cause",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_tan.jpg",
+      "sitelen_emosi": "\u21a9\ufe0f",
       "luka_pona": {
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/tan.mp4",
         "gif": "http://antetokipona.infinityfreeapp.com/lukapona/gif/tan.gif"
@@ -6608,6 +6758,7 @@
       "sitelen_pona": "taso",
       "sitelen_pona_etymology": "from blissymbol \u201cbut\u201d",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_taso.jpg",
+      "sitelen_emosi": "\ud83e\udd14",
       "luka_pona": {
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/taso.mp4",
         "gif": "http://antetokipona.infinityfreeapp.com/lukapona/gif/taso.gif"
@@ -6637,6 +6788,7 @@
       "sitelen_pona": "tawa",
       "sitelen_pona_etymology": "motion radical; legs facing to the right. compare kama and blissymbol \u201cwalk\u201d",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_tawa.jpg",
+      "sitelen_emosi": "\u21aa\ufe0f",
       "luka_pona": {
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/tawa.mp4",
         "gif": "http://antetokipona.infinityfreeapp.com/lukapona/gif/tawa.gif"
@@ -6664,6 +6816,7 @@
     "te": {
       "word": "te",
       "sitelen_pona": "te",
+      "sitelen_emosi": "\ud83e\udd1c",
       "coined_year": "2020",
       "coined_era": "post-pu",
       "book": "ku lili",
@@ -6730,6 +6883,7 @@
       "sitelen_pona": "telo",
       "sitelen_pona_etymology": "pictogram of wave. compare blissymbol \u201cwater\u201d",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_telo.jpg",
+      "sitelen_emosi": "\ud83d\udca7",
       "luka_pona": {
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/telo.mp4",
         "gif": "http://antetokipona.infinityfreeapp.com/lukapona/gif/telo.gif"
@@ -6787,6 +6941,7 @@
       "sitelen_pona": "tenpo",
       "sitelen_pona_etymology": "pictogram of a clock. compare blissymbol \u201ctime\u201d",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_tenpo.jpg",
+      "sitelen_emosi": "\u23f0",
       "luka_pona": {
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/tenpo.mp4",
         "gif": "http://antetokipona.infinityfreeapp.com/lukapona/gif/tenpo.gif"
@@ -6875,6 +7030,7 @@
       "sitelen_pona": "toki",
       "sitelen_pona_etymology": "emission modifier + ijo or a general circle",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_toki.jpg",
+      "sitelen_emosi": "\ud83d\udde3\ufe0f",
       "luka_pona": {
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/toki.mp4",
         "gif": "http://antetokipona.infinityfreeapp.com/lukapona/gif/toki.gif"
@@ -6928,6 +7084,7 @@
       "sitelen_pona": "tomo",
       "sitelen_pona_etymology": "pictogram of a house. compare blissymbol \u201chouse\u201d",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_tomo.jpg",
+      "sitelen_emosi": "\ud83c\udfe0",
       "luka_pona": {
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/tomo.mp4",
         "gif": "http://antetokipona.infinityfreeapp.com/lukapona/gif/tomo.gif"
@@ -6956,6 +7113,7 @@
       "word": "tonsi",
       "sitelen_pona": "tonsi",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_tonsi.jpg",
+      "sitelen_emosi": "\u2650",
       "audio": {
         "kala_asi": "http://antetokipona.infinityfreeapp.com/kalama/kalaasi/tonsi.mp3",
         "jan_lakuse": "http://antetokipona.infinityfreeapp.com/kalama/jlakuse/tonsi.mp3"
@@ -6993,6 +7151,7 @@
       "sitelen_pona": "tu",
       "sitelen_pona_etymology": "two tally marks. compare mute and wan",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_tu.jpg",
+      "sitelen_emosi": "\u270c\ufe0f",
       "luka_pona": {
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/tu.mp4",
         "gif": "http://antetokipona.infinityfreeapp.com/lukapona/gif/tu.gif"
@@ -7027,6 +7186,7 @@
     "tuli": {
       "word": "tuli",
       "sitelen_pona": "tuli",
+      "sitelen_emosi": "\u2618\ufe0f",
       "coined_year": "2001",
       "coined_era": "pre-pu",
       "book": "ku lili",
@@ -7105,6 +7265,7 @@
       "sitelen_pona": "unpa",
       "sitelen_pona_etymology": "perhaps a derivation of heart symbol (especially visible from the original drawing of the character), or a knot pattern implying intercourse, or perhaps a pictogram of a genitalia",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_unpa.jpg",
+      "sitelen_emosi": "\ud83c\udf46",
       "luka_pona": {
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/unpa.mp4",
         "gif": "http://antetokipona.infinityfreeapp.com/lukapona/gif/unpa.gif"
@@ -7193,6 +7354,7 @@
       "sitelen_pona": "uta uta1",
       "sitelen_pona_etymology": "\u201cmouth\u201d with a dot below",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_uta.jpg",
+      "sitelen_emosi": "\ud83d\udc44",
       "luka_pona": {
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/uta.mp4",
         "gif": "http://antetokipona.infinityfreeapp.com/lukapona/gif/uta.gif"
@@ -7225,6 +7387,7 @@
       "sitelen_pona": "utala",
       "sitelen_pona_etymology": "perhaps from crossed swords symbol (\u2694\ufe0f)",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_utala.jpg",
+      "sitelen_emosi": "\u2694\ufe0f",
       "luka_pona": {
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/utala.mp4",
         "gif": "http://antetokipona.infinityfreeapp.com/lukapona/gif/utala.gif"
@@ -7315,6 +7478,7 @@
       "sitelen_pona": "walo",
       "sitelen_pona_etymology": "color radical; perhaps the reverse of pimeja, the color radical cutting of the cross instead of vice versa",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_walo.jpg",
+      "sitelen_emosi": "\u26aa",
       "luka_pona": {
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/walo.mp4",
         "gif": "http://antetokipona.infinityfreeapp.com/lukapona/gif/walo.gif"
@@ -7345,6 +7509,7 @@
       "sitelen_pona": "wan",
       "sitelen_pona_etymology": "one tally mark or Indo-Arabic numeral 1, perhaps to make it more distinct",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_wan.jpg",
+      "sitelen_emosi": "\u261d\ufe0f",
       "luka_pona": {
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/wan.mp4",
         "gif": "http://antetokipona.infinityfreeapp.com/lukapona/gif/wan.gif"
@@ -7376,6 +7541,7 @@
       "sitelen_pona": "waso",
       "sitelen_pona_etymology": "animal radical; pictogram of a bird",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_waso.jpg",
+      "sitelen_emosi": "\ud83e\udd85",
       "luka_pona": {
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/waso.mp4",
         "gif": "http://antetokipona.infinityfreeapp.com/lukapona/gif/waso.gif"
@@ -7404,6 +7570,7 @@
     },
     "wasoweli": {
       "word": "wasoweli",
+      "sitelen_emosi": "\u2139\ufe0f",
       "coined_year": "2020",
       "coined_era": "post-pu",
       "book": "ku lili",
@@ -7430,6 +7597,7 @@
       "sitelen_pona": "wawa",
       "sitelen_pona_etymology": "perhaps a pictogram of a person with raised arms, to signify strength",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_wawa.jpg",
+      "sitelen_emosi": "\u26a1",
       "luka_pona": {
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/wawa.mp4",
         "gif": "http://antetokipona.infinityfreeapp.com/lukapona/gif/wawa.gif"
@@ -7456,6 +7624,7 @@
     "wawajete": {
       "word": "wawajete",
       "sitelen_pona": "wawajete",
+      "sitelen_emosi": "\ud83e\udd21",
       "coined_year": "2019",
       "coined_era": "post-pu",
       "book": "none",
@@ -7485,6 +7654,7 @@
     "we": {
       "word": "we",
       "sitelen_pona": "we",
+      "sitelen_emosi": "\ud83d\udd12",
       "coined_year": "2019",
       "coined_era": "post-pu",
       "book": "none",
@@ -7515,6 +7685,7 @@
       "sitelen_pona": "weka",
       "sitelen_pona_etymology": "\u201cpoof lines\u201d; indicating the movement of something disappearing",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_weka.jpg",
+      "sitelen_emosi": "\ud83d\udeeb",
       "luka_pona": {
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/weka.mp4",
         "gif": "http://antetokipona.infinityfreeapp.com/lukapona/gif/weka.gif"
@@ -7568,6 +7739,7 @@
     },
     "wi": {
       "word": "wi",
+      "sitelen_emosi": "\ud83d\ude4b",
       "coined_year": "2017",
       "coined_era": "post-pu",
       "book": "none",
@@ -7598,6 +7770,7 @@
       "sitelen_pona": "wile wile1",
       "sitelen_pona_etymology": "perhaps from Latin letter W",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_wile.jpg",
+      "sitelen_emosi": "\ud83d\udcad",
       "luka_pona": {
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/wile.mp4",
         "gif": "http://antetokipona.infinityfreeapp.com/lukapona/gif/wile.gif"
@@ -7624,6 +7797,7 @@
     "yupekosi": {
       "word": "yupekosi",
       "sitelen_pona": "yupekosi",
+      "sitelen_emosi": "\ud83d\udcc9",
       "coined_year": "2019",
       "coined_era": "post-pu",
       "book": "ku lili",
