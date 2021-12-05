@@ -91,19 +91,26 @@
       "name_toki_pona": "toki Posuka",
       "completeness_percent": "98"
     },
+    "pt": {
+      "id_long": "portuguese",
+      "name_endonym": "Portugu\u00eas",
+      "name_english": "Portuguese",
+      "name_toki_pona": "toki Potuke",
+      "completeness_percent": "8"
+    },
     "ru": {
       "id_long": "russian",
       "name_endonym": "\u0420\u0443\u0441\u0441\u043a\u0438\u0439",
       "name_english": "Russian",
       "name_toki_pona": "toki Losi",
-      "completeness_percent": "98"
+      "completeness_percent": "99"
     },
     "tok": {
       "id_long": "toki_pona",
       "name_endonym": "toki pona",
       "name_english": "Toki Pona",
       "name_toki_pona": "toki pona",
-      "completeness_percent": "63"
+      "completeness_percent": "65"
     },
     "ur": {
       "id_long": "urdu",
@@ -162,6 +169,9 @@
     "lipamanka": {
       "description": "linja sike, commentary"
     },
+    "MaroonShaded": {
+      "description": "definitions (Portuguese)"
+    },
     "nimi ale pona": {
       "description": "definitions (English, Esperanto), most of the metadata (creators, etymology, see also)"
     },
@@ -202,7 +212,8 @@
         "es": "(\u00e9nfasis, emoci\u00f3n o confirmaci\u00f3n)",
         "ceb_l": "(paghatag ug kamahinungdanon, pagbati, pagpamatuod)",
         "la": "quippe, nempe, ita (accenti\u014d, perm\u014dti\u014d, v\u014dx, excl\u0101m\u0101ti\u014d)",
-        "it": "(enfasi, emozione o conferma)"
+        "it": "(enfasi, emozione o conferma)",
+        "pt": "(\u00eanfase, emo\u00e7\u00e3o ou confirma\u00e7\u00e3o)"
       }
     },
     "aka": {
@@ -302,7 +313,8 @@
         "es": "no, cero; [~ ala ~] (usado para formar una pregunta de s\u00ed o no); nada",
         "ceb_l": "dili, wala; [~ ala ~] (ginagamit para makahimo ug oo o dili nga pangutana)",
         "la": "n\u014dn, haud, nullus, nihil; [~ ala ~] (facult\u0101s f\u014drm\u0101ti\u014dnis ita/non-rog\u0101ti\u014dn\u0113s)",
-        "it": "no, non, zero; [~ ala ~] (usato per domande si-no); nulla"
+        "it": "no, non, zero; [~ ala ~] (usato per domande si-no); nulla",
+        "pt": "n\u00e3o, zero; [~ ala ~] (usado para formar perguntas de sim ou n\u00e3o); nada"
       }
     },
     "alasa": {
@@ -340,7 +352,8 @@
         "es": "cazar, forrajear, buscar | ALT (pv.) tratar, intentar",
         "ceb_l": "mangita, mangita ug pagkaon | ALT (pv.) sulayan",
         "la": "v\u0113n\u0101r\u012b, petere, c\u014dn\u0101r\u012b, tent\u0101re",
-        "it": "cacciare, procacciare, cercare | ALT (pv.) provare a, tentare"
+        "it": "cacciare, procacciare, cercare | ALT (pv.) provare a, tentare",
+        "pt": "ca\u00e7ar, buscar | ALT (pv.) tentar"
       }
     },
     "ale": {
@@ -365,19 +378,19 @@
       "ku_data": "every\u2074, everything\u2074, all\u2074, entire\u2074, universal\u00b3, completely\u00b3, total\u00b3, entirely\u00b3, universe\u00b3, altogether\u00b3, comprehensive\u00b3, full\u00b2, totally\u00b2, each\u00b2, fully\u00b2, any\u00b2, thoroughly\u00b2, absolute\u00b2, general\u00b2, countless\u00b2, complete\u00b2, whole\u00b2, hundred\u00b2",
       "see_also": "ali",
       "tags": "pre-pu ALT",
-      "commentary": "\"ali\" is an alternative to \"ale\", coined in a poll in 2002 in order to avoid confusion with \"ala\". However, the usage of \"ale\" over \"ali\" remains more common. The majority of speakers report not understanding the \"abundant, bountiful, plentiful\" meaning, at least out of context.",
+      "commentary": "\"ali\" is an alternative to \"ale\", coined in a poll in 2002 in order to avoid confusion with \"ala\". However, the usage of \"ale\" over \"ali\" remains more common. The majority of speakers report not understanding the \"abundant, bountiful, plentiful\" meaning, at least out of context. \"20, 120\" were meanings previously listed alongside 100; they are no longer in use.",
       "def": {
-        "en": "all; abundant, countless, bountiful, every, plentiful; abundance, everything, life, universe; one hundred | ALT twenty; 100; 120",
-        "pl": "wszystko; obfity, niezliczalny, ka\u017cdy; obfito\u015b\u0107, multum, \u017cycie, wszech\u015bwiat; sto | ALT dwadzie\u015bcia; 100; 120",
-        "ru": "\u0432\u0441\u0435; \u0438\u0437\u043e\u0431\u0438\u043b\u044c\u043d\u044b\u0439, \u0431\u0435\u0441\u0447\u0438\u0441\u043b\u0435\u043d\u043d\u044b\u0439, \u043a\u0430\u0436\u0434\u044b\u0439; \u0438\u0437\u043e\u0431\u0438\u043b\u0438\u0435, \u0432\u0441\u0435, \u0436\u0438\u0437\u043d\u044c, \u0432\u0441\u0435\u043b\u0435\u043d\u043d\u0430\u044f; \u0441\u0442\u043e | ALT \u0434\u0432\u0430\u0434\u0446\u0430\u0442\u044c; 100; 120",
-        "isv_l": "ves; obilny, nes\u010disljeny, ka\u017edy, vsaky; obilje, vse\u010dto, \u017eitje, vsesv\u011bt, vsemir; sto | ALT dvadeset; 100; 120",
-        "isv_c": "\u0432\u0435\u0441; \u043e\u0431\u0438\u043b\u043d\u044b, \u043d\u0435\u0441\u0447\u0438\u0441\u0459\u0435\u043d\u044b, \u043a\u0430\u0436\u0434\u044b, \u0432\u0441\u0430\u043a\u044b; \u043e\u0431\u0438\u0459\u0435, \u0432\u0441\u0435\u0447\u0442\u043e, \u0436\u0438\u0442\u0458\u0435, \u0432\u0441\u0435\u0441\u0432\u0454\u0442, \u0432\u0441\u0435\u043c\u0438\u0440; \u0441\u0442\u043e | ALT \u0434\u0432\u0430\u0434\u0435\u0441\u0435\u0442; 100; 120",
-        "eo": "\u0109iuj; abunda, nenombrebla, \u0109iu; abundo, \u0109io, vivo, universo; cent | ALT 20; 100; 120",
+        "en": "all; abundant, countless, bountiful, every, plentiful; abundance, everything, life, universe; one hundred | ALT 100",
+        "pl": "wszystko; obfity, niezliczalny, ka\u017cdy; obfito\u015b\u0107, multum, \u017cycie, wszech\u015bwiat; sto | ALT 100",
+        "ru": "\u0432\u0441\u0435; \u0438\u0437\u043e\u0431\u0438\u043b\u044c\u043d\u044b\u0439, \u0431\u0435\u0441\u0447\u0438\u0441\u043b\u0435\u043d\u043d\u044b\u0439, \u043a\u0430\u0436\u0434\u044b\u0439; \u0438\u0437\u043e\u0431\u0438\u043b\u0438\u0435, \u0432\u0441\u0435, \u0436\u0438\u0437\u043d\u044c, \u0432\u0441\u0435\u043b\u0435\u043d\u043d\u0430\u044f; \u0441\u0442\u043e | ALT 100",
+        "isv_l": "ves; obilny, nes\u010disljeny, ka\u017edy, vsaky; obilje, vse\u010dto, \u017eitje, vsesv\u011bt, vsemir; sto | ALT 100",
+        "isv_c": "\u0432\u0435\u0441; \u043e\u0431\u0438\u043b\u043d\u044b, \u043d\u0435\u0441\u0447\u0438\u0441\u0459\u0435\u043d\u044b, \u043a\u0430\u0436\u0434\u044b, \u0432\u0441\u0430\u043a\u044b; \u043e\u0431\u0438\u0459\u0435, \u0432\u0441\u0435\u0447\u0442\u043e, \u0436\u0438\u0442\u0458\u0435, \u0432\u0441\u0435\u0441\u0432\u0454\u0442, \u0432\u0441\u0435\u043c\u0438\u0440; \u0441\u0442\u043e | ALT 100",
+        "eo": "\u0109iuj; abunda, nenombrebla, \u0109iu; abundo, \u0109io, vivo, universo; cent | ALT 100",
         "de": "alle(s), jede(r/s), F\u00fclle, \u00dcberfluss, zahllos, Leben, Universum, einhundert",
-        "es": "todo; abundante, incontable, cada uno; abundancia, vida, universo; cien | ALT veinte; 100; 120",
-        "ceb_l": "tanan, daghan, dili maihap, kinabuhi; usa ka gatos | baynte; 100; 120",
-        "la": "cunct\u012b, omnis, t\u014dtus, abundantia, innumerus, \u016bniversum, v\u012bta; centum",
-        "it": "tutto; abbondante, innumerevoli, generoso, ogni, abbondante; abbondanza, ogni cosa, vita, universo; cento | ALT venti; 100; 120"
+        "es": "todo; abundante, incontable, cada uno; abundancia, vida, universo; cien | ALT 100",
+        "ceb_l": "tanan, daghan, dili maihap, kinabuhi; usa ka gatos | ALT 100",
+        "la": "cunct\u012b, omnis, t\u014dtus, abundantia, innumerus, \u016bniversum, v\u012bta | ALT centum",
+        "it": "tutto; abbondante, innumerevoli, generoso, ogni, abbondante; abbondanza, ogni cosa, vita, universo; cento | ALT 100"
       }
     },
     "ali": {
@@ -507,7 +520,8 @@
         "de": "anders, andere(r), unterschiedlich, ver\u00e4ndert",
         "es": "diferente, alterado, cambiado, otro",
         "ceb_l": "lain, giusab, nausab, uban",
-        "it": "differente, alterato, modificato, altro"
+        "it": "differente, alterato, modificato, altro",
+        "pt": "diferente, alterado, outro"
       }
     },
     "anu": {
@@ -542,7 +556,8 @@
         "tok": "ken la, ijo li nanpa wan. ken la, ijo li nanpa tu. ni la, ijo li nanpa wan anu nanpa tu.",
         "es": "o | ALT escoger, decidir",
         "ceb_l": "o | ALT pagpili",
-        "it": "o | ALT scegliere, decidere"
+        "it": "o | ALT scegliere, decidere",
+        "pt": "ou | ALT escolher, decidir"
       }
     },
     "apeja": {
@@ -625,6 +640,7 @@
         "isv_c": "\u043f\u0440\u043e\u0434\u043e\u043b\u0436\u0430\u0458\u0443\u0447\u0438, \u0442\u0440\u0432\u0430\u0458\u0443\u0447\u0438, \u043e\u0445\u0440\u0430\u045a\u0430\u043d\u044b, \u0431\u0435\u0437\u043e\u043f\u0430\u0441\u043d\u044b, \u0431\u0435\u0437\u043f\u0435\u0447\u043d\u044b, \u0447\u0435\u043a\u0430\u0458\u0443\u0447\u0438, \u043e\u0441\u0442\u0430\u043d\u0443\u0447\u0438; (pv.) \u043f\u0440\u043e\u0434\u043e\u043b\u0436\u0430\u0442\u0438",
         "eo": "da\u016dranta, tenata, protektita, sekura, atendanta, restanta; (a.v.) da\u016dre fari",
         "de": "bleiben, harren, warten, behalten, gesch\u00fctzt, sicher; (pv.) weitermachen, weiter(hin)",
+        "tok": "ijo li tawa ala anu kama ala ante la ijo li awen",
         "ceb_l": "paglahutay, gitipigan, gipanalipdan, luwas, paghulat, pagpabilin, (pv.) pagpadayon, taguan",
         "it": "duraturo, mantenuto, protetto, sicuro, che aspetta, che resta; (pv.) continuare a, mantenere"
       }
@@ -922,7 +938,8 @@
         "eo": "io, afero, fenomeno, a\u0135o, objekto, materio",
         "de": "Ding, Sache, Objekt, Gegenstand, Angelegenheit, Erscheinung",
         "es": "cosa, fen\u00f3meno, objeto, materia",
-        "it": "cosa, fenomeno, oggetto, materia"
+        "it": "cosa, fenomeno, oggetto, materia",
+        "pt": "coisa, fen\u00f3meno, objeto, mat\u00e9ria"
       }
     },
     "ike": {
@@ -1018,7 +1035,8 @@
         "de": "Werkzeug, Ger\u00e4t, Maschine, Mittel",
         "tok": "jan li pali kepeken ni; ijo ni li jo e kipisi mute li pali kepeken wawa.",
         "es": "herramienta, instrumento, m\u00e1quina, aparato",
-        "it": "strumento, attrezzo, macchina, dispositivo"
+        "it": "strumento, attrezzo, macchina, dispositivo",
+        "pt": "ferramenta, instrumento, m\u00e1quina, dispositivo"
       }
     },
     "ini": {
@@ -1080,7 +1098,8 @@
         "eo": "centro, enhavo, eno, inter; ena organo, ventro, stomako",
         "de": "Mitte, Inhalt, innen, drin, zwischen, intern, innerlich",
         "es": "centro, contenido, adentro, entre; \u00f3rgano interno, estomago",
-        "it": "centro, contenuto, dentro, tra; organo interno, stomaco"
+        "it": "centro, contenuto, dentro, tra; organo interno, stomaco",
+        "pt": "centro, conte\u00fado, dentro, entre; \u00f3rg\u00e3o interno, est\u00f4mago"
       }
     },
     "ipi": {
@@ -1329,7 +1348,8 @@
         "de": "Mensch, Person, jemand",
         "tok": "ijo ni li wile li tawa kepeken ona sama li pilin. ona li jo e noka tu e luka tu. ona li ken toki li ken sona e ijo suli.",
         "es": "ser humano, persona, alguien",
-        "it": "essere umano, persona, qualcuno"
+        "it": "essere umano, persona, qualcuno",
+        "pt": "ser humano, pessoa, algu\u00e9m"
       }
     },
     "jans": {
@@ -1465,7 +1485,8 @@
         "eo": "flava, flaveca",
         "de": "gelb",
         "es": "amarillo",
-        "it": "giallo, giallastro"
+        "it": "giallo, giallastro",
+        "pt": "amarelo, amarelado"
       }
     },
     "jo": {
@@ -1626,7 +1647,8 @@
         "de": "Fisch, Meerestier",
         "tok": "ijo ni li tawa lon telo li ken moku e kon tan telo.",
         "es": "pez, animal marino, criatura del mar",
-        "it": "pesce, animale marino, creatura marina"
+        "it": "pesce, animale marino, creatura marina",
+        "pt": "peixe, animal marinho, criatura marinha"
       }
     },
     "kalama": {
@@ -1930,7 +1952,8 @@
         "eo": "povi, rajti; ebla",
         "de": "k\u00f6nnen, zu etw. imstande sein, d\u00fcrfen; m\u00f6glich",
         "es": "ser capaz de, ser permitido, poder, posible",
-        "it": "essere in grado di, essere autorizzato a, pu\u00f2; possibile"
+        "it": "essere in grado di, essere autorizzato a, pu\u00f2; possibile",
+        "pt": "conseguir, poder; poss\u00edvel"
       }
     },
     "kepeken": {
@@ -1962,7 +1985,8 @@
         "isv_c": "\u043a\u043e\u0440\u0438\u0441\u0442\u0430\u0442\u0438, \u0443\u0436\u0438\u0432\u0430\u0442\u0438, \u043f\u043e\u0459\u0437\u043e\u0432\u0430\u0442\u0438, \u0443\u043f\u043e\u0442\u0440\u0454\u0431\u0458\u0430\u0442\u0438, \u0441, \u043f\u043e\u0441\u0440\u0454\u0434\u0441\u0442\u0432\u043e\u043c",
         "eo": "per, uzi",
         "de": "benutzen, gebrauchen, mit, mittels, mithilfe von",
-        "it": "usare, con, per mezzo di"
+        "it": "usare, con, per mezzo di",
+        "pt": "usar; com, atrav\u00e9s de"
       }
     },
     "kese": {
@@ -2259,6 +2283,7 @@
         "isv_c": "\u043d\u0454\u0447\u0442\u043e \u0442\u0432\u0440\u0434\u043e, \u043c\u0435\u0442\u0430\u043b, \u043a\u0430\u043c\u0435\u045a, \u0441\u043a\u0430\u043b\u0430",
         "eo": "malmola\u0135o, metalo, roko, \u015dtono",
         "de": "hart, Stein, Metall, hartes Ding",
+        "tok": "sina pana e wawa mute ala la sina ken ala ante li ken ala pakala e kiwen",
         "it": "oggetto duro, metallo, roccia, pietra"
       }
     },
@@ -2356,6 +2381,7 @@
         "isv_c": "\u0432\u043e\u0437\u0434\u0443\u0445, \u0434\u044b\u0445; \u0458\u0435\u0441\u0442\u0435\u0441\u0442\u0432\u043e, \u0441\u0443\u0447\u043d\u043e\u0441\u0442, \u0434\u0443\u0445, \u0434\u0443\u0448\u0430; \u0443\u043a\u0440\u044b\u0442\u0430 \u0440\u0435\u0430\u043b\u043d\u043e\u0441\u0442, \u043d\u0435\u0432\u0438\u0434\u0438\u043c\u044b \u0447\u0438\u043d\u0438\u0442\u0435\u0459",
         "eo": "aero, spiro; esenco, spirito; ka\u015dita realeco, io nevidata kio havas ian efikon",
         "de": "Luft, Atem, Essenz, Geist, Seele, Bedeutung",
+        "tok": "jan li ken ala lukin e kon. taso kon li ken pali li ken ante e ijo.",
         "it": "aria, respiro; essenza, spirito; realt\u00e0 nascosta, agente invisibile"
       }
     },
@@ -2367,7 +2393,8 @@
       "etymology": "\uacf5\uc9c0 (gongji) 'announcement, notice'",
       "commentary": "Virtually unknown outside the Korean toki pona community. Apparently used humorously.",
       "def": {
-        "en": "to notify, to let know"
+        "en": "to notify, to let know",
+        "ru": "\u0443\u0432\u0435\u0434\u043e\u043c\u0438\u0442\u044c, \u0434\u0430\u0442\u044c \u0437\u043d\u0430\u0442\u044c"
       }
     },
     "konwe": {
@@ -2731,7 +2758,8 @@
         "eo": "dormanta, ripozanta",
         "de": "schlafen, (aus)ruhen",
         "es": "dormido, descansando",
-        "it": "dormire, riposare"
+        "it": "dormire, riposare",
+        "pt": "dormir, descansar"
       }
     },
     "laso": {
@@ -2763,7 +2791,8 @@
         "eo": "blua, verda",
         "de": "blau, gr\u00fcn, t\u00fcrkis",
         "es": "azul, verde",
-        "it": "blu, verde"
+        "it": "blu, verde",
+        "pt": "azul, verde"
       }
     },
     "lawa": {
@@ -2925,7 +2954,8 @@
         "isv_c": "\u0445\u043b\u0430\u0434\u043d\u044b, \u043f\u0440\u043e\u0445\u043b\u0430\u0434\u043d\u044b;  \u043d\u0435\u0432\u0430\u0440\u0458\u0435\u043d\u044b, \u0441\u0443\u0440\u043e\u0432\u044b",
         "eo": "malvarma; nekuirita, kruda",
         "de": "kalt, k\u00fchl; ungekocht, roh",
-        "it": "freddo, fresco; non cotto, crudo"
+        "it": "freddo, fresco; non cotto, crudo",
+        "pt": "frio, fresco; cru"
       }
     },
     "li": {
@@ -2951,7 +2981,8 @@
         "isv_c": "(\u043c\u0435\u0434\u0436\u0443 \u043a\u0442\u043e\u0440\u044b\u043c-\u043b\u0438\u0431\u043e \u0441\u0443\u0431\u0458\u0435\u043a\u0442\u043e\u043c, \u043a\u0440\u043e\u043c\u0454 \u0458\u0435\u0434\u0438\u043d\u043e\u0433\u043e \u043c\u0438 \u0430\u0431\u043e \u0458\u0435\u0434\u0438\u043d\u043e\u0433\u043e \u0441\u0438\u043d\u0430, \u0438 \u0458\u0435\u0433\u043e \u043f\u0440\u0435\u0434\u0438\u043a\u0430\u0442\u043e\u043c; \u0442\u0430\u043a\u043e\u0436\u0435 \u0434\u0459\u0430 \u0432\u0432\u043e\u0434\u0436\u0435\u045a\u0430 \u043d\u043e\u0432\u043e\u0433\u043e \u043f\u0440\u0435\u0434\u0438\u043a\u0430\u0442\u0430 \u0442\u043e\u043c\u0443\u0436\u0435 \u0441\u0443\u0431\u0458\u0435\u043a\u0442\u0443)",
         "eo": "(inter ajna subjekto krom nura \u201cmi\u201d a\u016d nura \u201csina\u201d kaj ties verbo; anka\u016d por enkonduki novan verbon de la sama subjekto)",
         "de": "(zwischen einem beliebigen Subjekt au\u00dfer \"mi\" oder \"sina\" und seinem Verb; auch zur Einf\u00fchrung eines neuen Verbs f\u00fcr dasselbe Subjekt)",
-        "it": "(tra qualsiasi soggetto tranne mi da solo o sina da solo e il suo verbo; anche per introdurre un nuovo verbo per lo stesso soggetto)"
+        "it": "(tra qualsiasi soggetto tranne mi da solo o sina da solo e il suo verbo; anche per introdurre un nuovo verbo per lo stesso soggetto)",
+        "pt": "(entre qualquer sujeito exceto s\u00f3 mi ou s\u00f3 sina e o seu verbo; tamb\u00e9m para introduzir um novo verbo ao mesmo sujeito)"
       }
     },
     "lijokuku": {
@@ -2959,7 +2990,8 @@
       "book": "none",
       "commentary": "Virtually unknown outside the Korean toki pona community.",
       "def": {
-        "en": "to agree (with laughter)"
+        "en": "to agree (with laughter)",
+        "ru": "\u0441\u043e\u0433\u043b\u0430\u0448\u0430\u0442\u044c\u0441\u044f \u0441\u043c\u0435\u044f\u0441\u044c"
       }
     },
     "likujo": {
@@ -3022,7 +3054,8 @@
         "isv_c": "\u043c\u0430\u043b\u044b, \u043a\u0440\u0430\u0442\u043a\u044b; \u043c\u0430\u043b\u043e; \u043d\u0435\u043c\u043d\u043e\u0433\u043e; \u043c\u043b\u0430\u0434\u044b",
         "eo": "malgranda, malalta; malmulta; iomete; juna",
         "de": "klein, wenig, kurz, bisschen, jung",
-        "it": "poco, piccolo, breve; pochi; un po'; giovane"
+        "it": "poco, piccolo, breve; pochi; un po'; giovane",
+        "pt": "pequeno, baixo, curto; poucos; (um) pouco; novo, jovem"
       }
     },
     "linja": {
@@ -3149,7 +3182,8 @@
         "de": "rot",
         "tok": "kule uta, kule pi telo soweli.",
         "es": "rojo",
-        "it": "rosso, rossastro"
+        "it": "rosso, rossastro",
+        "pt": "vermelho, avermelhado, encarnado"
       }
     },
     "loka": {
@@ -4423,7 +4457,8 @@
         "eo": "(\u0109i) tio, (\u0109i) tiu",
         "de": "dies, das, jenes",
         "es": "eso, esto, aquel",
-        "it": "che, questo"
+        "it": "che, questo",
+        "pt": "este, esse, aquele; isto, isso, aquilo"
       }
     },
     "nimi": {
@@ -4881,14 +4916,14 @@
       "coined_year": "2021",
       "coined_era": "post-pu",
       "book": "none",
-      "source_language": "Greek",
+      "source_language": "Ancient Greek",
       "etymology": "\u1f44\u03bd\u03b5\u03b9\u03c1\u03bf\u03b9 oneiroi \u2018(personifications of) dreams\u2019",
       "creator": "kulupu Eki",
       "recognition": {
         "2021-10": "26"
       },
       "see_also": "insa, lape, musi, sitelen, jume",
-      "commentary": "This word is deprecated by the creator; it is considered part of the \"toki oni\" tokiponido instead.",
+      "commentary": "This word is deprecated by the creator; it is considered part of the \"toki oni\" tokiponido instead. The pronunciation of the second syllable was due to personal preferences of the creator, not modern Greek.",
       "def": {
         "en": "dream, daydream, imaginative play, vision, mystical state; to entrance",
         "pl": "sen, fantazja, zabawa w wyobra\u017ani, wizja, stan mistyczny; wprawia\u0107 w trans",
@@ -4929,7 +4964,8 @@
         "eo": "komenci; malfermi; \u015dalti",
         "de": "anfangen, beginnen; \u00f6ffnen; anschalten",
         "es": "empezar, comenzar, iniciar; abrir; encender, prender",
-        "it": "iniziare, cominciare; aprire; accendere"
+        "it": "iniziare, cominciare; aprire; accendere",
+        "pt": "iniciar, come\u00e7ar; abrir; ligar, acender"
       }
     },
     "owe": {
@@ -5104,6 +5140,7 @@
         "isv_c": "\u043d\u0454\u0447\u0442\u043e \u0434\u043e\u043b\u0433\u043e \u0438 \u0442\u0432\u0440\u0434\u043e; \u0432\u0454\u0442\u0432\u0430, \u0433\u0430\u043b\u0443\u0437, \u043f\u0440\u0443\u0442, \u043f\u0430\u043b\u0430",
         "eo": "io longa kaj malmola; bran\u0109o, stango, bastono",
         "de": "langes hartes Ding; Stock, Ast, Stab",
+        "tok": "linja kiwen",
         "it": "cosa lunga e dura; ramo, asta, bastone"
       }
     },
@@ -5137,7 +5174,8 @@
         "eo": "greno, cerealo; aveno, hordeo, maizo, rizo, tritiko; pano, pasta\u0135o",
         "de": "Getreide; Gerste, Hafer, Mais, Reis, Weizen; Brot, Nudeln",
         "tok": "moku tan kasi.",
-        "it": "cereale, grano; orzo, mais, avena, riso, frumento; pane, pasta"
+        "it": "cereale, grano; orzo, mais, avena, riso, frumento; pane, pasta",
+        "pt": "cereal, gr\u00e3o; arroz, aveia, centeio, cevada, milho, trigo"
       }
     },
     "pana": {
