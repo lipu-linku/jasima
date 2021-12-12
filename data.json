@@ -96,7 +96,7 @@
       "name_endonym": "Portugu\u00eas",
       "name_english": "Portuguese",
       "name_toki_pona": "toki Potuke",
-      "completeness_percent": "8"
+      "completeness_percent": "12"
     },
     "ru": {
       "id_long": "russian",
@@ -350,7 +350,7 @@
         "eo": "\u0109asi, fura\u011di, kolekti, ser\u0109i | ALT (a.v.) provi",
         "de": "jagen, \u00fcberfallen, suchen, erstreben | (pv.) versuchen",
         "es": "cazar, forrajear, buscar | ALT (pv.) tratar, intentar",
-        "ceb_l": "mangita, mangita ug pagkaon | ALT (pv.) sulayan",
+        "ceb_l": "mangita, mangita'g pagkaon | ALT (pv.) sulayan",
         "la": "v\u0113n\u0101r\u012b, petere, c\u014dn\u0101r\u012b, tent\u0101re",
         "it": "cacciare, procacciare, cercare | ALT (pv.) provare a, tentare",
         "pt": "ca\u00e7ar, buscar | ALT (pv.) tentar"
@@ -4489,7 +4489,8 @@
         "isv_c": "\u0438\u043c\u0435, \u0441\u043b\u043e\u0432\u043e",
         "eo": "nomo, vorto",
         "de": "Name, Wort",
-        "it": "nome, parola"
+        "it": "nome, parola",
+        "pt": "nome, palavra"
       }
     },
     "nja": {
@@ -5929,7 +5930,7 @@
         "isv_c": "\u0445\u0442\u0454\u0442\u0438 \u0441\u0442\u0432\u0430\u0440\u0458\u0430\u0442\u0438 \u043d\u043e\u0432\u0435 \u0441\u043b\u043e\u0432\u0430",
         "eo": "voli krei novajn vortojn",
         "de": "mehr W\u00f6rter machen wollen",
-        "tok": "sina samu la, sina wile e nimi sin tawa pona! tan ni la, o lukin e lipu \"nimi ali epiku!\"",
+        "tok": "sina samu la, sina wile pana e nimi sin tawa toki pona! tan ni la, o lukin e lipu \"nimi ali epiku!\"",
         "es": "querer crear nuevas palabras",
         "hi": "\u0928\u092f\u0947 \u0936\u092c\u094d\u0926 \u092c\u0928\u093e\u0928\u0947 \u092e\u0947\u0902 \u0926\u093f\u0932\u091a\u0938\u094d\u092a\u0940 \u0930\u0916\u0928\u093e",
         "ur": "\u0646\u0626\u06d2 \u0627\u0644\u0641\u0627\u0638 \u0628\u0646\u0627\u0646\u06d2 \u0645\u06cc\u06ba \u062f\u0644\u0686\u0633\u067e\u06cc \u0631\u06a9\u06be\u0646\u0627",
@@ -6582,7 +6583,8 @@
         "ru": "\u0431\u043e\u043b\u044c\u0448\u043e\u0439, \u0442\u044f\u0436\u0435\u043b\u044b\u0439, \u0434\u043b\u0438\u043d\u043d\u044b\u0439, \u0432\u044b\u0441\u043e\u043a\u0438\u0439; \u0432\u0430\u0436\u043d\u044b\u0439; \u0432\u0437\u0440\u043e\u0441\u043b\u044b\u0439",
         "eo": "granda, peza, longa, alta; grava; plenkreska",
         "de": "gro\u00df, schwer, lang, breit, hoch; wichtig; erwachsen",
-        "it": "grande, pesante, grosso, lungo, alto; importante; adulto"
+        "it": "grande, pesante, grosso, lungo, alto; importante; adulto",
+        "pt": "grande, longo, alto, pesado; importante; adulto"
       }
     },
     "suno": {
@@ -6788,7 +6790,8 @@
         "ru": "\u043e\u0442, \u0438\u0437, \u0438\u0437-\u0437\u0430; \u043f\u0440\u043e\u0438\u0441\u0445\u043e\u0436\u0434\u0435\u043d\u0438\u0435, \u043f\u0440\u0438\u0447\u0438\u043d\u0430",
         "eo": "pro, el, fare de; origino, ka\u016dzo",
         "de": "von, durch, wegen; Grund, Ursache",
-        "it": "da, a causa di; origine, causa"
+        "it": "da, a causa di; origine, causa",
+        "pt": "de, por, a partir de, por causa de; origem, causa"
       }
     },
     "taso": {
@@ -6818,7 +6821,8 @@
         "ru": "\u043d\u043e, \u043e\u0434\u043d\u0430\u043a\u043e; \u0442\u043e\u043b\u044c\u043a\u043e",
         "eo": "sed, tamen; nur",
         "de": "aber, jedoch; nur",
-        "it": "ma, tuttavia, solo"
+        "it": "ma, tuttavia, solo",
+        "pt": "mas, por\u00e9m; s\u00f3, apenas"
       }
     },
     "tawa": {
@@ -6848,7 +6852,8 @@
         "eo": "al, iranta al, en la direkto al; por, al; la\u016d la vidpunkto de; movanta | ALT (a.v.) iri ...i",
         "de": "hin, zu, nach; f\u00fcr; nach Ansicht von; gehen, bewegen | ALT (HV) zu... hingehen",
         "tok": "lon ijo li kama ante kepeken tenpo la ona li tawa. ijo li tawa li kama poka pi ijo ante la, ijo li tawa ijo ante. ijo li pona lon pilin sina la ijo li pona tawa sina.",
-        "it": "andare a, verso; per; dalla prospettiva di; muoversi | ALT (pv.) stando"
+        "it": "andare a, verso; per; dalla prospettiva di; muoversi | ALT (pv.) stando",
+        "pt": "ir a, a; para; no ponto de vista de; em movimento, ambulante | ALT (pv.) ir"
       }
     },
     "te": {
@@ -6942,7 +6947,8 @@
         "ru": "\u0432\u043e\u0434\u0430, \u0436\u0438\u0434\u043a\u043e\u0441\u0442\u044c, \u0432\u043b\u0430\u0436\u043d\u043e\u0435 \u0432\u0435\u0449\u0435\u0441\u0442\u0432\u043e; \u043d\u0430\u043f\u0438\u0442\u043e\u043a",
         "eo": "akvo, likvo, flua\u0135o, malseka substanco; trinka\u0135o",
         "de": "Wasser, Fl\u00fcssigkeit, nasse Substanz; Getr\u00e4nk",
-        "it": "acqua, liquido, fluido, sostanza umida; bevande"
+        "it": "acqua, liquido, fluido, sostanza umida; bevande",
+        "pt": "\u00e1gua, l\u00edquido, fluido, subst\u00e2ncia molhada; bebida"
       }
     },
     "ten": {
@@ -7002,7 +7008,8 @@
         "eo": "tempo, da\u016dro, momento, okazo, fojo, periodo, situacio",
         "de": "Zeit, Dauer, Moment, Gelegenheit, Zeitraum, Situation",
         "tok": "tenpo la ale li kama ante li kama moli li kama weka.",
-        "it": "tempo, durata, momento, occasione, periodo, situazione"
+        "it": "tempo, durata, momento, occasione, periodo, situazione",
+        "pt": "tempo, dura\u00e7\u00e3o, momento, ocasi\u00e3o, per\u00edodo, situa\u00e7\u00e3o"
       }
     },
     "to": {
@@ -7090,7 +7097,8 @@
         "eo": "komuniki, diri, paroli, uzi lingvon, pensi; saluton",
         "de": "kommunizieren, sagen, sprechen, reden, Sprache benutzen, denken; hallo",
         "tok": "toki la, jan li ken pana e sona kepeken kalama anu sitelen anu luka.",
-        "it": "comunicare, dire, parlare, conversare, usare il linguaggio, pensare; ciao"
+        "it": "comunicare, dire, parlare, conversare, usare il linguaggio, pensare; ciao",
+        "pt": "communicar, dizer, falar, conversar, usar linguagem, pensar; ol\u00e1, oi"
       }
     },
     "toma": {
@@ -7218,7 +7226,8 @@
         "eo": "du | ALT disigi, tran\u0109i",
         "de": "zwei | ALT teilen, schneiden",
         "tok": "ijo wan lon poka ijo wan li ijo tu.",
-        "it": "due | ALT separare, tagliare"
+        "it": "due | ALT separare, tagliare",
+        "pt": "dois | ALT separar, cortar, dividir"
       }
     },
     "tuli": {
@@ -7483,6 +7492,7 @@
     "waleja": {
       "word": "waleja",
       "sitelen_pona": "waleja",
+      "sitelen_emosi": "\u2139\ufe0f",
       "coined_year": "2019",
       "coined_era": "post-pu",
       "book": "ku lili",
@@ -7608,7 +7618,6 @@
     },
     "wasoweli": {
       "word": "wasoweli",
-      "sitelen_emosi": "\u2139\ufe0f",
       "coined_year": "2020",
       "coined_era": "post-pu",
       "book": "ku lili",
