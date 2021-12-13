@@ -110,7 +110,7 @@
       "name_endonym": "toki pona",
       "name_english": "Toki Pona",
       "name_toki_pona": "toki pona",
-      "completeness_percent": "65"
+      "completeness_percent": "72"
     },
     "ur": {
       "id_long": "urdu",
@@ -162,6 +162,9 @@
     },
     "kala Asi": {
       "description": "definitions (Russian, Interslavic), audio"
+    },
+    "kapesi Pake": {
+      "description": "definitions (toki pona, Esperanto)"
     },
     "kijete Ampo": {
       "description": "definitions (Spanish), enko entry"
@@ -610,6 +613,7 @@
         "ru": "\u0443\u0434\u0430\u0440, \u0441\u0442\u0443\u043a, \u0442\u043e\u043b\u0447\u043e\u043a",
         "eo": "frapi, skui",
         "de": "sto\u00dfen, klopfen, r\u00fctteln",
+        "tok": "jan li tawa wawa e sina la, ona li awase e sina.",
         "it": "urto, botta, scossa"
       }
     },
@@ -1368,6 +1372,7 @@
         "ru": "\u043e\u043f\u0440\u0435\u0434\u0435\u043b\u0451\u043d\u043d\u0430\u044f \u0433\u0440\u0443\u043f\u043f\u0430 \u0440\u0430\u043d\u043d\u0438\u0445 \u0447\u043b\u0435\u043d\u043e\u0432 \u0414\u0438\u0441\u043a\u043e\u0440\u0434-\u0441\u0435\u0440\u0432\u0435\u0440\u0430 ma pona",
         "eo": "la fruaj membroj de la servilo Discorda ma pona",
         "de": "eine bestimmte Gruppe fr\u00fcher Nutzer des Discord-Servers ma pona",
+        "tok": "jans li kulupu pi jan open lon ilo Siko pi \"ma pona pi toki pona.\"",
         "it": "un particolare gruppo di primi membri del server Discord ma pona"
       }
     },
@@ -1952,6 +1957,7 @@
         "isv_c": "\u043c\u043e\u0433\u0442\u0438, \u0443\u043c\u0454\u0442\u0438, \u0438\u043c\u0454\u0442\u0438 \u0434\u043e\u0437\u0432\u043e\u0459\u0435\u045a\u0435; \u043c\u043e\u0436\u043b\u0438\u0432\u044b",
         "eo": "povi, rajti; ebla",
         "de": "k\u00f6nnen, zu etw. imstande sein, d\u00fcrfen; m\u00f6glich",
+        "tok": "sina sona e nasin pi pali tomo la, mi ken pali e tomo. ken sina li lon.",
         "es": "ser capaz de, ser permitido, poder, posible",
         "it": "essere in grado di, essere autorizzato a, pu\u00f2; possibile",
         "pt": "conseguir, poder; poss\u00edvel"
@@ -2791,6 +2797,7 @@
         "isv_c": "\u0441\u0438\u045a\u0438, \u0431\u043b\u0430\u043d\u043a\u044b\u0442\u043d\u044b, \u043c\u043e\u0434\u0440\u044b, \u0437\u0435\u043b\u0435\u043d\u044b",
         "eo": "blua, verda",
         "de": "blau, gr\u00fcn, t\u00fcrkis",
+        "tok": "laso li kule telo.",
         "es": "azul, verde",
         "it": "blu, verde",
         "pt": "azul, verde"
@@ -3324,6 +3331,7 @@
         "isv_c": "(\u0441\u043b\u043e\u0432\u043e \u0458\u0435\u0441\u0442 \u0440\u0435\u0437\u0435\u0440\u0432\u043e\u0432\u0430\u043d\u043e \u0434\u0459\u0430 \u0431\u0443\u0434\u0443\u0447\u0435\u0433\u043e \u043a\u043e\u0440\u0438\u0441\u0442\u0430\u045a\u0430 S\u043e\u045a\u0435\u0458\u0443 L\u0430\u043d\u0433)",
         "eo": "(vorto rezervita por estonteca uzo de Sonja Lang)",
         "de": "(f\u00fcr zuk\u00fcnftige Verwendung von Sonja Lang reserviertes Wort)",
+        "tok": "jan Sonja li wile e ni: nimi ni li awen open tawa lipu sin lon tenpo kama.",
         "it": "(parola riservata per uso futuro da Sonja Lang)"
       }
     },
@@ -3376,6 +3384,7 @@
         "ru": "\u0440\u0443\u043a\u0430, \u043a\u0438\u0441\u0442\u044c, \u0442\u0430\u043a\u0442\u0438\u043b\u044c\u043d\u044b\u0439 \u043e\u0440\u0433\u0430\u043d; \u043f\u044f\u0442\u044c | ALT \u043a\u043e\u0441\u043d\u0443\u0442\u044c\u0441\u044f / \u043f\u043e\u0447\u0443\u0432\u0441\u0442\u0432\u043e\u0432\u0430\u0442\u044c \u0444\u0438\u0437\u0438\u0447\u0435\u0441\u043a\u0438, \u0432\u0437\u0430\u0438\u043c\u043e\u0434\u0435\u0439\u0441\u0442\u0432\u043e\u0432\u0430\u0442\u044c, \u043d\u0430\u0436\u0430\u0442\u044c",
         "eo": "brako, mano, tu\u015dorgano; kvin | ALT tu\u015di, fizike senti, interagi, premi",
         "de": "Arm, Hand, Tastorgan | f\u00fcnf",
+        "tok": "luka li noka pi sewi sijelo.",
         "es": "brazo, mano, \u00f3rgano t\u00e1ctil; cinco| ALT tocar/sentir f\u00edsicamente, interactuar, presionar",
         "it": "braccio, mano, organo tattile; cinque | ALT toccare/sentire fisicamente, interagire, premere"
       }
@@ -3881,6 +3890,7 @@
         "isv_c": "\u0458\u0435\u0434\u0430\u0442\u0438, \u043f\u0438\u0442\u0438, \u0441\u043f\u043e\u0442\u0440\u0454\u0431\u043e\u0432\u0430\u0442\u0438, \u0433\u043e\u043b\u0442\u0430\u0442\u0438",
         "eo": "man\u011di, trinki, konsumi, gluti",
         "de": "essen, trinken, konsumieren, schlicken, einverleiben",
+        "tok": "pan en kasi en kili en telo li moku. sijelo jan o jo e moku. ante la, jan li moli",
         "it": "mangiare, bere, consumare, ingoiare, ingerire"
       }
     },
@@ -4033,6 +4043,7 @@
         "ru": "(\u0437\u0432\u0443\u043a, \u0438\u0437\u0434\u0430\u0432\u0430\u0435\u043c\u044b\u0439 \u0436\u0438\u0432\u043e\u0442\u043d\u044b\u043c, \u0438\u043b\u0438 \u043e\u0431\u0449\u0435\u043d\u0438\u0435 \u0436\u0438\u0432\u043e\u0442\u043d\u044b\u0445) | ALT (\u043d\u0435\u0440\u0435\u0447\u0435\u0432\u0430\u044f \u0432\u043e\u043a\u0430\u043b\u0438\u0437\u0430\u0446\u0438\u044f) ",
         "eo": "(besta sono a\u016d komunika\u0135o) | ALT (neparola vo\u0109a sono)",
         "de": "(Tierger\u00e4usch oder -kommunikation) | ALT (nichtsprachlicher Ausruf)",
+        "tok": "mu li kalama soweli.",
         "it": "(rumore o comunicazione animale) | ALT (vocalizzazione non verbale)"
       }
     },
@@ -4099,6 +4110,7 @@
         "ru": "\u043b\u0443\u043d\u0430, \u043e\u0431\u044a\u0435\u043a\u0442 \u043d\u043e\u0447\u043d\u043e\u0433\u043e \u043d\u0435\u0431\u0430, \u0437\u0432\u0435\u0437\u0434\u0430 | ALT \u0441\u0432\u0435\u0447\u0435\u043d\u0438\u0435, \u0441\u0432\u0435\u0442\u044f\u0449\u0438\u0439\u0441\u044f \u043e\u0433\u043e\u043d\u044c, \u0441\u0432\u0435\u0442 \u0432 \u0442\u0435\u043c\u043d\u043e\u0442\u0435",
         "eo": "luno, nokta \u0109iela objekto, stelo | ALT lumi, lumineska lumo, lumo en mallumo",
         "de": "Mond, Objekt im Nachthimmel, Stern | ALT gl\u00fchen, gl\u00fchendes Licht, Licht im Dunkeln",
+        "tok": "mun li sama suno, taso ona li lon sewi pimeja.",
         "it": "luna, corpo celeste, stella | ALT bagliore, luce incandescente, luce nel buio"
       }
     },
@@ -4544,6 +4556,7 @@
         "ru": "\u0441\u0442\u0443\u043f\u043d\u044f, \u043d\u043e\u0433\u0430, \u043e\u0440\u0433\u0430\u043d \u043f\u0435\u0440\u0435\u0434\u0432\u0438\u0436\u0435\u043d\u0438\u044f; \u043d\u0438\u0437, \u043d\u0438\u0436\u043d\u044f\u044f \u0447\u0430\u0441\u0442\u044c | ALT \u0434\u0435\u0441\u044f\u0442\u044c; \u0434\u0432\u0430\u0434\u0446\u0430\u0442\u044c; \u043c\u0438\u043d\u0443\u0441 \u043f\u044f\u0442\u044c",
         "eo": "piedo, kruro, movi\u011da organo; malsupro, malsupra parto | ALT dek; dudek; minus kvin",
         "de": "Fu\u00df, Bein, Fortbewegungsorgan; Unterteil, unten | ALT zehn; zwanzig; minus f\u00fcnf",
+        "tok": "noka li luka pi anpa sijelo.",
         "it": "piede, gamba, organo di locomozione; fondo, parte inferiore | ALT dieci; venti; cinque negativo"
       }
     },
@@ -4567,6 +4580,7 @@
         "isv_c": "(\u0441\u043b\u043e\u0432\u043e \u0458\u0435\u0441\u0442 \u0440\u0435\u0437\u0435\u0440\u0432\u043e\u0432\u0430\u043d\u043e \u0434\u0459\u0430 \u0431\u0443\u0434\u0443\u0447\u0435\u0433\u043e \u043a\u043e\u0440\u0438\u0441\u0442\u0430\u045a\u0430 S\u043e\u045a\u0435\u0458\u0443 L\u0430\u043d\u0433)",
         "eo": "(vorto rezervita por estonteca uzo de Sonja Lang)",
         "de": "(f\u00fcr zuk\u00fcnftige Verwendung von Sonja Lang reserviertes Wort)",
+        "tok": "jan Sonja li wile e ni: nimi ni li awen open tawa lipu sin lon tenpo kama.",
         "it": "(parola riservata per uso futuro da Sonja Lang)"
       }
     },
@@ -4932,6 +4946,7 @@
         "ru": "\u0441\u043e\u043d, \u0433\u0440\u0451\u0437\u0430, \u0432\u043e\u043e\u0431\u0440\u0430\u0436\u0430\u0435\u043c\u0430\u044f \u0438\u0433\u0440\u0430, \u0432\u0438\u0434\u0435\u043d\u0438\u0435, \u043c\u0438\u0441\u0442\u0438\u0447\u0435\u0441\u043a\u043e\u0435 \u0441\u043e\u0441\u0442\u043e\u044f\u043d\u0438\u0435; \u0431\u044b\u0442\u044c \u0432 \u0441\u043e\u0441\u0442\u043e\u044f\u043d\u0438\u0438 \u0442\u0440\u0430\u043d\u0441\u0430",
         "eo": "revo, son\u011do, vizio, mistika stato",
         "de": "Traum, Tagtraum, phantasievolles Spiel, Vision, mystischer Zustand; etw. bezaubern",
+        "tok": "oni li lukin nasa pi lawa jan lon tenpo lape.",
         "it": "sogno, sogno ad occhi aperti, gioco immaginativo, visione, stato mistico; cadere in trance"
       }
     },
@@ -5775,6 +5790,7 @@
         "ru": "\u0445\u043e\u0440\u043e\u0448\u0438\u0439, \u043f\u043e\u043b\u043e\u0436\u0438\u0442\u0435\u043b\u044c\u043d\u044b\u0439, \u043f\u043e\u043b\u0435\u0437\u043d\u044b\u0439; \u0434\u0440\u0443\u0436\u0435\u043b\u044e\u0431\u043d\u044b\u0439, \u043c\u0438\u0440\u043e\u043b\u044e\u0431\u0438\u0432\u044b\u0439; \u043f\u0440\u043e\u0441\u0442\u043e\u0439",
         "eo": "bona, pozitiva, utila; amika, paca; simpla",
         "de": "gut, positiv, n\u00fctzlich; freundlich, friedlich; einfach",
+        "tok": "ijo pona li ike ala. ijo pona li pana e pilin suwi e pilin olin tawa jan. ijo pona li wile ala e pali wawa.",
         "es": "bueno, positivo, \u00fatil; amable, pac\u00edfico; bien; simple, f\u00e1cil",
         "it": "buono, positivo, utile; amichevole, pacifico; semplice"
       }
@@ -6505,6 +6521,7 @@
         "isv_c": "(\u0441\u043b\u043e\u0432\u043e \u0458\u0435\u0441\u0442 \u0440\u0435\u0437\u0435\u0440\u0432\u043e\u0432\u0430\u043d\u043e \u0434\u0459\u0430 \u0431\u0443\u0434\u0443\u0447\u0435\u0433\u043e \u043a\u043e\u0440\u0438\u0441\u0442\u0430\u045a\u0430 S\u043e\u045a\u0435\u0458\u0443 L\u0430\u043d\u0433)",
         "eo": "(vorto rezervita por estonteca uzo de Sonja Lang)",
         "de": "(f\u00fcr zuk\u00fcnftige Verwendung von Sonja Lang reserviertes Wort)",
+        "tok": "jan Sonja li wile e ni: nimi ni li awen open tawa lipu sin lon tenpo kama.",
         "it": "(parola riservata per uso futuro da Sonja Lang)"
       }
     },
@@ -6584,6 +6601,7 @@
         "ru": "\u0431\u043e\u043b\u044c\u0448\u043e\u0439, \u0442\u044f\u0436\u0435\u043b\u044b\u0439, \u0434\u043b\u0438\u043d\u043d\u044b\u0439, \u0432\u044b\u0441\u043e\u043a\u0438\u0439; \u0432\u0430\u0436\u043d\u044b\u0439; \u0432\u0437\u0440\u043e\u0441\u043b\u044b\u0439",
         "eo": "granda, peza, longa, alta; grava; plenkreska",
         "de": "gro\u00df, schwer, lang, breit, hoch; wichtig; erwachsen",
+        "tok": "ijo suli li lili ala. tenpo open la, mi jan lili. taso, tenpo ni la, mi jan suli.",
         "it": "grande, pesante, grosso, lungo, alto; importante; adulto",
         "pt": "grande, longo, alto, pesado; importante; adulto"
       }
@@ -6645,6 +6663,7 @@
         "ru": "\u0433\u043e\u0440\u0438\u0437\u043e\u043d\u0442\u0430\u043b\u044c\u043d\u0430\u044f \u043f\u043e\u0432\u0435\u0440\u0445\u043d\u043e\u0441\u0442\u044c, \u043f\u0440\u0435\u0434\u043c\u0435\u0442, \u043d\u0430 \u043a\u043e\u0442\u043e\u0440\u044b\u0439 \u043c\u043e\u0436\u043d\u043e \u0447\u0442\u043e-\u0442\u043e \u043f\u043e\u0441\u0442\u0430\u0432\u0438\u0442\u044c \u0438\u043b\u0438 \u043e\u043f\u0435\u0440\u0435\u0442\u044c\u0441\u044f",
         "eo": " horizontala surfaco, io sur kio oni metas ion alian",
         "de": "waagerechte Oberfl\u00e4che, Ding f\u00fcr das Abstellen von anderen Dingen",
+        "tok": "supa li lon anpa pi tomo mi. kin la, jan li ken lape lon supa.",
         "it": "superficie orizzontale, cosa su cui mettere o appoggiare qualcosa"
       }
     },
@@ -6668,7 +6687,7 @@
         "ru": "\u0443\u0442\u043a\u043e\u043d\u043e\u0441",
         "eo": "ornitorinko, anasbeka platopiedulo",
         "de": "Schnabeltier",
-        "tok": "sutopatikuna li soweli telo pi ma Oselija. ona li mama e soweli lili kepeken sike wala. ona li jo e nena musi suli.",
+        "tok": "sutopatikuna li soweli telo pi ma Oselija. ona li mama e soweli lili kepeken sike walo. ona li jo e nena musi suli.",
         "es": "ornitorrinco",
         "hi": "\u092a\u094d\u0932\u0948\u091f\u093f\u092a\u0938 (\u091c\u093e\u0928\u0935\u0930)",
         "ur": "\u067e\u0644\u0627\u0679\u06cc\u067e\u0633 (\u062c\u0627\u0646\u0648\u0631)",
@@ -7283,6 +7302,7 @@
         "isv_c": "(\u0441\u043b\u043e\u0432\u043e \u0458\u0435\u0441\u0442 \u0440\u0435\u0437\u0435\u0440\u0432\u043e\u0432\u0430\u043d\u043e \u0434\u0459\u0430 \u0431\u0443\u0434\u0443\u0447\u0435\u0433\u043e \u043a\u043e\u0440\u0438\u0441\u0442\u0430\u045a\u0430 S\u043e\u045a\u0435\u0458\u0443 L\u0430\u043d\u0433)",
         "eo": "(vorto rezervita por estonteca uzo de Sonja Lang)",
         "de": "(f\u00fcr zuk\u00fcnftige Verwendung von Sonja Lang reserviertes Wort)",
+        "tok": "jan Sonja li wile e ni: nimi ni li awen open tawa lipu sin lon tenpo kama.",
         "it": "(parola riservata per uso futuro da Sonja Lang)"
       }
     },
@@ -7335,6 +7355,7 @@
         "ru": "\u0438\u043c\u0435\u0442\u044c \u0441\u0435\u043a\u0441\u0443\u0430\u043b\u044c\u043d\u044b\u0435 \u043e\u0442\u043d\u043e\u0448\u0435\u043d\u0438\u044f \u0441",
         "eo": "seksumi, fiki, amori",
         "de": "Sex, Geschlecht, sexuelle Beziehung mit jemandem haben",
+        "tok": "jan li ken unpa kepeken jan ante. unpa ona li pali e jan lili sin.",
         "it": "avere rapporti sessuali con"
       }
     },
@@ -7839,6 +7860,7 @@
         "ru": "\u0434\u043e\u043b\u0436\u0435\u043d\u0441\u0442\u0432\u043e\u0432\u0430\u0442\u044c, \u043d\u0443\u0436\u0434\u0430\u0442\u044c\u0441\u044f, \u0442\u0440\u0435\u0431\u043e\u0432\u0430\u0442\u044c, \u0445\u043e\u0442\u0435\u0442\u044c, \u0436\u0435\u043b\u0430\u0442\u044c",
         "eo": "devi, bezoni, postuli, voli, deziri",
         "de": "wollen, w\u00fcnschen, sollen, erfordern, brauchen, m\u00fcssen, Wunsch",
+        "tok": "mi wile e ijo la, ijo li suli tawa mi. tan ni la, mi pilin e ni: mi o jo e ijo.",
         "it": "deve, bisogno, richiedere, dovrebbe, vuole, desidera"
       }
     },
