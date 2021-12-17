@@ -3160,6 +3160,29 @@
         "it": "oggetto piatto; libro, documento, carta, carta, record, sito web"
       }
     },
+    "lo": {
+      "word": "lo",
+      "sitelen_pona": "lu",
+      "coined_year": "2020",
+      "coined_era": "post-pu",
+      "book": "none",
+      "source_language": "toki pona",
+      "etymology": "alu",
+      "creator": "Theepicosity, akesi kon Nalasuni",
+      "recognition": {
+        "2021-10": "20"
+      },
+      "commentary": "Previously known as lu. Most of those interested in the word have agreed to change it to lo, to avoid interfering with the reserved word.",
+      "def": {
+        "en": "(before the prepositional phrase)",
+        "pl": "(przed fraz\u0105 przyimkow\u0105)",
+        "ru": "(\u043f\u0435\u0440\u0435\u0434 \u043f\u0440\u0435\u0434\u043b\u043e\u0436\u043d\u043e\u0439 \u0444\u0440\u0430\u0437\u043e\u0439)",
+        "eo": "(markas prepozician frazon)",
+        "de": "(vor ein Satzteil mit Pr\u00e4position)",
+        "tok": "sina wile kepeken e nimi sama lon anu tawa anu tan anu kepeken anu sama la sina ken toki e \"lu\" lon monsi pi nimi ni.",
+        "it": "(prima della frase preposizionale)"
+      }
+    },
     "loje": {
       "word": "loje",
       "sitelen_pona": "loje",
@@ -3333,28 +3356,6 @@
         "de": "(f\u00fcr zuk\u00fcnftige Verwendung von Sonja Lang reserviertes Wort)",
         "tok": "jan Sonja li wile e ni: nimi ni li awen open tawa lipu sin lon tenpo kama.",
         "it": "(parola riservata per uso futuro da Sonja Lang)"
-      }
-    },
-    "lu1": {
-      "word": "lu",
-      "sitelen_pona": "lu",
-      "coined_year": "2020",
-      "coined_era": "post-pu",
-      "book": "none",
-      "source_language": "toki pona",
-      "etymology": "alu",
-      "creator": "Theepicosity, akesi kon Nalasuni",
-      "recognition": {
-        "2021-10": "20"
-      },
-      "def": {
-        "en": "(before the prepositional phrase)",
-        "pl": "(przed fraz\u0105 przyimkow\u0105)",
-        "ru": "(\u043f\u0435\u0440\u0435\u0434 \u043f\u0440\u0435\u0434\u043b\u043e\u0436\u043d\u043e\u0439 \u0444\u0440\u0430\u0437\u043e\u0439)",
-        "eo": "(markas prepozician frazon)",
-        "de": "(vor ein Satzteil mit Pr\u00e4position)",
-        "tok": "sina wile kepeken e nimi sama lon anu tawa anu tan anu kepeken anu sama la sina ken toki e \"lu\" lon monsi pi nimi ni.",
-        "it": "(prima della frase preposizionale)"
       }
     },
     "luka": {
