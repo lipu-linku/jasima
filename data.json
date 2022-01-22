@@ -89,7 +89,7 @@
       "name_endonym": "Polski",
       "name_english": "Polish",
       "name_toki_pona": "toki Posuka",
-      "completeness_percent": "98"
+      "completeness_percent": "100"
     },
     "pt": {
       "id_long": "portuguese",
@@ -297,7 +297,8 @@
       "see_also": "a",
       "commentary": "Virtually unknown outside the Korean toki pona community.",
       "def": {
-        "en": "general interjection, context-dependent"
+        "en": "general interjection, context-dependent",
+        "pl": "(og\u00f3lny wykrzyknik, zale\u017cny od kontekstu)"
       }
     },
     "ala": {
@@ -373,7 +374,7 @@
         "la": "v\u0113n\u0101r\u012b, petere, c\u014dn\u0101r\u012b, tent\u0101re",
         "it": "cacciare, procacciare, cercare | ALT (pv.) provare a, tentare",
         "pt": "ca\u00e7ar, buscar | ALT (pv.) tentar",
-        "tl_l": "manghuli, maghanap | ALT (pv.) subukan"
+        "tl_l": "manghuli, magkalap, maghanap | ALT (pv.) subukan"
       }
     },
     "ale": {
@@ -2000,7 +2001,8 @@
         "tok": "sina sona e nasin pi pali tomo la, mi ken pali e tomo. ken sina li lon.",
         "es": "ser capaz de, ser permitido, poder, posible",
         "it": "essere in grado di, essere autorizzato a, pu\u00f2; possibile",
-        "pt": "conseguir, poder; poss\u00edvel"
+        "pt": "conseguir, poder; poss\u00edvel",
+        "tl_l": "magawa, payagan, puwede; maaari, posible"
       }
     },
     "kepeken": {
@@ -2450,6 +2452,7 @@
       "commentary": "Virtually unknown outside the Korean toki pona community. Apparently used humorously.",
       "def": {
         "en": "to notify, to let know",
+        "pl": "powiadomi\u0107, da\u0107 zna\u0107",
         "ru": "\u0443\u0432\u0435\u0434\u043e\u043c\u0438\u0442\u044c, \u0434\u0430\u0442\u044c \u0437\u043d\u0430\u0442\u044c"
       }
     },
@@ -2722,7 +2725,8 @@
       "etymology": "kulupu pi toki pona pi ma Anku (initialism)",
       "commentary": "Virtually unknown outside the Korean toki pona community.",
       "def": {
-        "en": "the Korean group chat \"kulupu pi toki pona pi ma Anku\""
+        "en": "the Korean group chat \"kulupu pi toki pona pi ma Anku\"",
+        "pl": "korea\u0144ski czat grupowy \"kulupu pi toki pona pi ma Anku\""
       }
     },
     "la": {
@@ -3065,6 +3069,7 @@
       "commentary": "Virtually unknown outside the Korean toki pona community.",
       "def": {
         "en": "to agree (with laughter)",
+        "pl": "zgadza\u0107 si\u0119 (ze \u015bmiechem)",
         "ru": "\u0441\u043e\u0433\u043b\u0430\u0448\u0430\u0442\u044c\u0441\u044f \u0441\u043c\u0435\u044f\u0441\u044c"
       }
     },
@@ -7286,7 +7291,7 @@
       "commentary": "Widely regarded in the community to be a crucial addition to toki pona. Occasionally referred to as an \"honorary pu word\" to highlight its status, or equated to a pu word outright.",
       "def": {
         "en": "non-binary, gender-non-conforming | ALT trans, non-cisgender",
-        "pl": "niebinarny; transp\u0142ciowy",
+        "pl": "niebinarny, p\u0142ciowo nonkonformuj\u0105cy (?) | ALT trans, nie cis",
         "ru": "\u043d\u0435\u0431\u0438\u043d\u0430\u0440\u043d\u044b\u0439, \u0433\u0435\u043d\u0434\u0435\u0440\u043d\u043e-\u043d\u0435\u043a\u043e\u043d\u0444\u043e\u0440\u043c\u043d\u044b\u0439 | ALT \u0442\u0440\u0430\u043d\u0441\u0433\u0435\u043d\u0434\u0435\u0440\u043d\u044b\u0439, \u043d\u0435\u0446\u0438\u0441\u0433\u0435\u043d\u0434\u0435\u0440\u044b\u0439",
         "eo": "neduuma, genre nekonforma | ALT transseksa, transgenra, necisseksa",
         "de": "divers (Geschlechter)",
