@@ -50,14 +50,18 @@ def build_dict_from_sheet(link):
 
 
 if __name__ == "__main__":
-    with open("sheets.json") as file:
-        sheets = json.load(file)
-    bundle = {key: build_dict_from_sheet(value) for key, value in sheets.items()}
-    with open("../data.json", 'w') as f:
-        json.dump(bundle, f, indent=2)
-    if os.name == 'nt':
-        subprocess.call("git.bat {} {} {}".format(GITHUB_ACCOUNT, GITHUB_REPO, GITHUB_TOKEN))
-    else:
-        subprocess.call(["./git.sh", GITHUB_ACCOUNT, GITHUB_REPO, GITHUB_TOKEN])
+    #with open("sheets.json") as file:
+    #    sheets = json.load(file)
+    #bundle = {key: build_dict_from_sheet(value) for key, value in sheets.items()}
+    #with open("../data.json", 'w') as f:
+    #    json.dump(bundle, f, indent=2)
+    #if os.name == 'nt':
+    #    subprocess.call("git.bat {} {} {}".format(GITHUB_ACCOUNT, GITHUB_REPO, GITHUB_TOKEN))
+    #else:
+    #    subprocess.call(["./git.sh", GITHUB_ACCOUNT, GITHUB_REPO, GITHUB_TOKEN])
 
-
+    from git import Git
+    git = Git("..")
+    git.add("-A")
+    git.commit("-m", "Updating repo")
+    git.push(f"https://{GITHUB_TOKEN}@github.com/{GITHUB_ACCOUNT}/{GITHUB_REPO}.git")
