@@ -1,4 +1,4 @@
-#! /bin/python3
+#!/bin/python3
 
 import urllib.request
 import re
@@ -16,17 +16,6 @@ GITHUB_TOKEN = os.getenv('GITHUB_TOKEN')
 
 def get_site(link):
     return urllib.request.urlopen(link).read().decode('utf8')
-
-
-def build_json():
-    with open("sheets.json") as file:
-        sheets = json.load(file)
-
-    bundle = {key: build_dict_from_sheet(value) for key, value in sheets.items()}
-
-    with open("../data.json", 'w') as f:
-        json.dump(bundle, f, indent=2)
-    return bundle
 
 
 def build_dict_from_sheet(link):
@@ -60,13 +49,15 @@ def build_dict_from_sheet(link):
     return data
 
 
-def upload_json_to_github():
+if __name__ == "__main__":
+    with open("sheets.json") as file:
+        sheets = json.load(file)
+    bundle = {key: build_dict_from_sheet(value) for key, value in sheets.items()}
+    with open("../data.json", 'w') as f:
+        json.dump(bundle, f, indent=2)
     if os.name == 'nt':
         subprocess.call("git.bat {} {} {}".format(GITHUB_ACCOUNT, GITHUB_REPO, GITHUB_TOKEN))
     else:
         subprocess.call(["./git.sh", GITHUB_ACCOUNT, GITHUB_REPO, GITHUB_TOKEN])
 
 
-if __name__ == "__main__":
-    bundle = build_json()
-    upload_json_to_github()
