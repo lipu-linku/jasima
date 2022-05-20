@@ -125,8 +125,8 @@
       "name_endonym": "Portugu\u00eas",
       "name_english": "Portuguese",
       "name_toki_pona": "toki Potuke",
-      "completeness_percent": "12",
-      "completeness_percent_pu": "27"
+      "completeness_percent": "30",
+      "completeness_percent_pu": "64"
     },
     "ro": {
       "id_long": "romanian",
@@ -349,6 +349,7 @@
         "es": "animal no adorable; reptil, anfibio",
         "la": "amphibion, r\u0113ptile, serp\u0113ns",
         "it": "animale non carino, rettile, anfibio",
+        "pt": "animal n\u00e3o-fofo, r\u00e9ptil, anf\u00edbio",
         "tl_l": "hindi kyut na hayop; reptilya, ampibyan",
         "ro": "un animal care nu e dr\u0103gu\u021b, reptil\u0103, amfibian",
         "fr": "animal non-migron ; reptile, amphibien",
@@ -483,6 +484,7 @@
         "ceb_l": "tanan, daghan, dili maihap, kinabuhi; usa ka gatos | ALT 100",
         "la": "cunct\u012b, omnis, t\u014dtus, abundantia, innumerus, \u016bniversum, v\u012bta | ALT centum",
         "it": "tutto; abbondante, innumerevoli, generoso, ogni, abbondante; abbondanza, ogni cosa, vita, universo; cento | ALT 100",
+        "pt": "todo; abundante, inumer\u00e1vel, cada; abund\u00e2ncia, tudo, vida, universo; cem | ALT 100",
         "tl_l": "lahat; sagana, hindi mabilang, bawat, pun\u00f4; kasaganaan, kalahatan, buhay, uniberso; isang daan | ALT 100",
         "ro": "totul; abundant; orice; via\u021b\u0103, universul, o sut\u0103 | ALT 100",
         "fr": "tous, abondants, innombrables ; tout, abondance, la vie, l'univers | ALT 100",
@@ -519,6 +521,7 @@
         "ceb_l": "[pamuli sa ale]",
         "la": "[f\u014drma c\u014dgn\u014dmin\u0101ta verb\u012b \"ale\"]",
         "it": "[forma alternativa di ale]",
+        "pt": "[forma alternativa de ale]",
         "tl_l": "[alternatibong anyo ng ale]",
         "ro": "[forma alternativ\u0103 a lui ale)",
         "tr": "[ale i\u00e7in alternatif]"
@@ -587,6 +590,7 @@
         "de": "herunter, unter, nieder, niedrig, unten, Grund, Boden",
         "ceb_l": "duko, paubos, mapaubsanon, ubos, nagasalig | ALT ubos nga bahin, ilalum, salog, sa ubos",
         "it": "inchinarsi, verso il basso, umile, dipendente | ALT fondo, parte inferiore, sotto, pavimento, al di sotto; basso, inferiore, gi\u00f9",
+        "pt": "curvando-se,  para baixo, humilde, baixo status, dependente | ALT baixo, parte  inferior, debaixo, abaixo de, piso, embaixo; abaixo, baixo, mais baixo,  para baixo",
         "tl_l": "yumuyuko, pababa, mapagpakumbaba, mababa, umaasa | ALT bab\u00e2, ibabang bahagi, ilalim, ibaba, sahig; mababa, ibaba, pababa",
         "fr": "inclin\u00e9 vers le bas, humble, qui d\u00e9pend",
         "tr": "a\u015fa\u011f\u0131, a\u015fa\u011f\u0131ya, al\u00e7ak | ALT alt, alt\u0131nda, a\u015fa\u011f\u0131 k\u0131s\u0131m, zemin"
@@ -755,6 +759,7 @@
         "tok": "ijo li tawa ala anu kama ala ante la ijo li awen",
         "ceb_l": "paglahutay, gitipigan, gipanalipdan, luwas, paghulat, pagpabilin, (pv.) pagpadayon, taguan",
         "it": "duraturo, mantenuto, protetto, sicuro, che aspetta, che resta; (pv.) continuare a, mantenere",
+        "pt": "duradouro, mantido, protegido, seguro, esperando, permanecendo, ficando; (pv.) continuar a, manter",
         "tl_l": "pagtitiis, iningatan, protektado, ligtas, naghihintay, pananatili; (pv.) magpatuloy, panatilihin",
         "ro": "a endura, \u021binut, protectat, \u00een siguran\u021b\u0103, a\u0219tept\u00e2nd, st\u0103t\u00e2nd; (pv.) a continua s\u0103, a \u021bine",
         "fr": "rest\u00e9, prot\u00e9g\u00e9, gard\u00e9, qui attend, qui persiste, conserv\u00e9 ; (auxiliaire) continuer \u00e0",
@@ -786,6 +791,7 @@
         "es": "(antes del objeto directo)",
         "ceb_l": "(bag-o sa butang nga tigdawat)",
         "it": "(davanti all'oggetto diretto)",
+        "pt": "(antes do objeto direto)",
         "tl_l": "(bago ang tuwirang layon)",
         "ro": "(\u00eenainte de obiectul direct)",
         "fr": "(avant l'objet direct)",
@@ -845,6 +851,7 @@
         "es": "(entre m\u00faltiples sujetos) | ALT (coordina modificadores en una frase con pi u objetos en una preposici\u00f3n)",
         "ceb_l": "(tunga sa lainlain nga hilisgutan) | ALT (tigtabang sa mga pulong nga tigbag-o sa mga pi nga bahin o butang sa mga pulong nga naghulagway sa mga dapit)",
         "it": "(tra pi\u00f9 soggetti) | ALT (coordina i modificatori in una frase con pi o gli oggetti di una preposizione)",
+        "pt": "(entre v\u00e1rios sujeitos) | ALT (modificadores de coordenadas em uma frase-pi ou objetos de uma preposi\u00e7\u00e3o)",
         "ro": "(\u00eentre mai multe subiecte)",
         "fr": "(entre plusieurs sujets)",
         "tr": "(birden fazla \u00f6znenin aras\u0131na gelir) | ALT (bir pi ifadesi i\u00e7indeki niteleyicileri veya bir edat\u0131n nesnelerini koordine eder)"
@@ -943,6 +950,7 @@
         "es": "mercado, tienda, feria, bazar, transacci\u00f3n de negocios",
         "ceb_l": "merkado, tindahan, perya, negosyo",
         "it": "mercato, negozio, fiera, bazar, transazione commerciale",
+        "pt": "mercado, loja, feira, bazar, transa\u00e7\u00e3o de neg\u00f3cios",
         "tl_l": "palengke, tindahan, perya, tiyanggian, transaksyon sa negosyo",
         "ro": "market, magazin, bazar, afaceri, tranzac\u021bii",
         "fr": "march\u00e9, boutique, foire, magasin, commerce",
@@ -1103,6 +1111,7 @@
         "de": "schlecht, negative, irrelevant | komplex, schwierig",
         "es": "mal, malo, negativo; no esencial, irrelevante | ALT complicado, complejo",
         "it": "cattivo, negativo; non essenziale, irrilevante | ALT complicato, complesso",
+        "pt": "ruim, negativo; n\u00e3o essencial, irrelevante | ALT complicado, complexo",
         "tl_l": "masama, negatibo; hindi mahalaga, walang kaugnayan | ALT masalimuot, kumplikado",
         "ro": "r\u0103u, negativ, non-esen\u021bial, irelevant | ALT complicat, complex",
         "tr": "k\u00f6t\u00fc, olumsuz; gereksiz, alakas\u0131z | ALT kar\u0131\u015f\u0131k, zor"
@@ -1365,6 +1374,7 @@
         "tok": "jan anu soweli la ni li kama e pilin ike e pakala sijelo.",
         "es": "asqueroso, obsceno, enfermizo, t\u00f3xico, sucio, antihigi\u00e9nico",
         "it": "disgustoso, osceno, nauseabondo, tossico, sporco, insalubre",
+        "pt": "nojento, obsceno, doentio, t\u00f3xico, imundo, n\u00e3o higi\u00eanico",
         "tl_l": "nakadidiri, kasuklam-suklam, malaswa, may sakit, nakakalason, hindi malinis",
         "ro": "sc\u00e2rbos, obscen, toxic, necurat",
         "tr": "i\u011fren\u00e7, tiksindirici, toksik, kirli"
@@ -1670,6 +1680,7 @@
         "de": "haben, tragen, halten, beinhalten",
         "es": "tener, llevar, contener, sostener",
         "it": "avere, portare, contenere, tenere",
+        "pt": "ter, carregar, conter, segurar",
         "tl_l": "magkaroon, magdala, maglaman, humawak",
         "ro": "a avea, a ob\u021bine, a c\u0103ra",
         "tr": "sahip olmak, tutmak, i\u00e7ermek"
@@ -1893,6 +1904,7 @@
         "de": "kommen, ankommen, Zukunft | (pv.) werden, etw. fertigbringen",
         "es": "llegar, pr\u00f3ximo, futuro, convocar; (pv.) convertirse, lograr, suceder a",
         "it": "arrivare, venire, futuro, convocato; (pv.) diventare, riuscire a",
+        "pt": "chegando, vindo, futuro, convocado; (pv.) tornar-se, conseguir, ter sucesso em",
         "tl_l": "pagdating, kinabukasan, ipinatawag; (pv.) maging, magtagumpay sa",
         "ro": "sosire, venire, viitorul, chemat; (pv.) a deveni, a reu\u0219i",
         "tr": "gelmekte olan, gelen, varan, gelecek, \u00e7a\u011f\u0131r\u0131lan; (pv.) ...'e d\u00f6n\u00fc\u015fmek, becermek, ba\u015farmak"
@@ -2053,6 +2065,7 @@
         "de": "Pflanze, Vegetation, Baum, Kraut, Blatt",
         "es": "planta, vegetaci\u00f3n, hierbas, hoja",
         "it": "pianta, vegetazione; erba, foglia",
+        "pt": "planta, vegeta\u00e7\u00e3o; erva, folha",
         "tl_l": "halaman; damo, dahon",
         "ro": "plant\u0103, vegeta\u021bie, iarb\u0103, frunz\u0103",
         "tr": "bitki, ye\u015fillik; ot, yaprak, \u00e7imen"
@@ -2321,6 +2334,7 @@
         "tok": "ni li tan kasi.",
         "es": "fruta, verdura, seta",
         "it": "frutta, verdura, funghi",
+        "pt": "fruta, vegetal, cogumelo",
         "tl_l": "prutas, gulay, kabute",
         "ro": "fruct, legum\u0103, ciuperci",
         "tr": "meyve, sebze, mantar"
@@ -2463,6 +2477,7 @@
         "tok": "sina pana e wawa mute ala la sina ken ala ante li ken ala pakala e kiwen",
         "es": "objeto duro, metal, roca, piedra",
         "it": "oggetto duro, metallo, roccia, pietra",
+        "pt": "objeto duro, metal, rocha, pedra",
         "tl_l": "matigas na bagay, metal, bato",
         "tr": "sert \u015fey, metal, ta\u015f, kaya"
       }
@@ -2499,6 +2514,7 @@
         "tok": "sina luka wawa e ijo ko la ijo ni li kama ante.",
         "es": "arcilla, pasta pegajosa, masa, semi-solido, pasta, polvo",
         "it": "argilla, forma aderente, pasta, semisolido, polvere",
+        "pt": "argila, forma pegajosa, massa, semi-s\u00f3lida, pasta, p\u00f3",
         "tl_l": "luwad, nakakapit na anyo, masa, semi-solid, dikit, pulbos",
         "tr": "kil, yap\u0131\u015fkan, hamur, yar\u0131kat\u0131, macun, toz"
       }
@@ -2567,6 +2583,7 @@
         "tok": "jan li ken ala lukin e kon. taso kon li ken pali li ken ante e ijo.",
         "es": "aire, respiro; esencia, esp\u00edritu; realidad oculta, agente invisible",
         "it": "aria, respiro; essenza, spirito; realt\u00e0 nascosta, agente invisibile",
+        "pt": "ar, respira\u00e7\u00e3o; ess\u00eancia, esp\u00edrito; realidade oculta, agente invis\u00edvel",
         "tr": "hava, nefes, \u00f6z, anlam, ruh; g\u00f6r\u00fcnmez"
       }
     },
@@ -2686,6 +2703,7 @@
         "de": "Farbe, farbig, Variante | LGBT+",
         "es": "color, colorido, pigmento, pintado | LGTB+ o relacionado con la comunidad LGBT+",
         "it": "colorato, pigmentato, dipinto | ALT di o relativo alla comunit\u00e0 LGBT+",
+        "pt": "cheio de cor, pigmentado, pintado | ALT de ou relacionado \u00e0 comunidade LGBT+",
         "tl_l": "makulay, may kulay, pininturahan | ALT ng o nauugnay sa LGBT+ na komunidad",
         "tr": "rengarenk, pigmentli, boyal\u0131 | ALT LGBT+ toplumunun veya LGBT+ toplumuyla alakal\u0131"
       }
@@ -2777,6 +2795,7 @@
         "tok": "ijo mute li lon poka anu jan li toki e ijo mute sama wan la ijo mute li kulupu.",
         "es": "comunidad, compa\u00f1\u00eda, grupo, naci\u00f3n, sociedad, tribu",
         "it": "comunit\u00e0, societ\u00e0, gruppo, nazione, trib\u00f9",
+        "pt": "comunidade, companhia, grupo, na\u00e7\u00e3o, sociedade, tribo",
         "tl_l": "komunidad, kumpanya, grupo, bansa, lipunan, tribo",
         "ro": "comunitate, grup, na\u021biune, companie, societate, trib",
         "tr": "topluluk, birlik, grup, ulus, toplum"
@@ -2842,6 +2861,7 @@
         "de": "h\u00f6ren, zuh\u00f6ren, lauschen, aufpassen, gehorchen",
         "es": "oreja; o\u00edr, escuchar; poner atenci\u00f3n, obedecer",
         "it": "orecchio; sentire, ascoltare; prestare attenzione, obbedire",
+        "pt": "orelha; ouvir, escutar; prestar aten\u00e7\u00e3o, obedecer",
         "tl_l": "tainga; marinig, makinig; pansinin, sundin",
         "tr": "kulak; dinlemek, i\u015fitmek; dikkat vermek, itaat etmek"
       }
@@ -2890,6 +2910,7 @@
         "de": "(zwischen Kontext- und Hauptsatz)",
         "es": "(entre la frase de contexto y la frase principal)",
         "it": "(tra la frase di contesto e la frase principale)",
+        "pt": "(entre a frase de contexto e a frase principal)",
         "tl_l": "(sa pagitan ng pariralang konteksto at ng pangunahing pangungusap)",
         "tr": "(durum belirtici ve ana c\u00fcmlenin aras\u0131na gelir)"
       }
@@ -3032,6 +3053,7 @@
         "tok": "kulupu la lawa li ijo ni: ona li wawa tawa ijo ante li ken tawa e ijo ni.",
         "es": "cabeza, mente; controlar, dirigir, guiar, poseer (algo), planear, regular, norma, gobernar",
         "it": "testa, mente; controllare, dirigere, guidare, condurre, possedere, pianificare, regolare, governare",
+        "pt": "cabe\u00e7a, mente; controlar, direto, guiar, conduzir, possuir, planejar, regular, governar",
         "tl_l": "ulo, isip; kontrolin, idirekta, gabayan, pamunuan, pagmamay-ari, magplano, umayos, mamuno",
         "tr": "kafa, zihin; kontrol etmek, denetlemek, yol g\u00f6stermek, planlamak, ayarlamak, kural"
       }
@@ -3104,6 +3126,7 @@
         "de": "Stoff, Kleidung, Gewebe, Struktur, bedecken, Abdeckung",
         "es": "tela, ropa, textil; cubrir(se), capa de privacidad",
         "it": "panno, abbigliamento, tessuto; copertura, strato di privacy",
+        "pt": "pano, roupa, tecido, t\u00eaxtil; cobertura, camada de privacidade",
         "tl_l": "tela, damit; takip, patong ng pagsasarinlan",
         "tr": "kuma\u015f, giysi, tekstil; k\u0131l\u0131f, gizlilik katman\u0131"
       }
@@ -3310,6 +3333,7 @@
         "eo": "io longa kaj fleksebla; kordo, haro, \u015dnuro, fadeno | ALT linio, konekto",
         "de": "langes, bewegliches Ding; Schnur, Seil, Haar, Faden, Band; Linie, Verbindung",
         "it": "cosa lunga e flessibile; corda, capelli, corda, filo, filato | ALT linea, connessione",
+        "pt": "coisa longa e flex\u00edvel; cord\u00e3o, cabelo, corda, fio | ALT linha, conex\u00e3o",
         "tl_l": "mahaba at nababaluktot na bagay; kurdon, buhok, lubid, sinulid | ALT linya, koneksyon",
         "ro": "o chestie lung\u0103 si flexibil\u0103, cord, p\u0103r. a\u021b\u0103 | ALT linie, conec\u021bie",
         "tr": "uzun ve esnek \u015fey; tel, sa\u00e7, ip, iplik | ALT \u00e7izgi, do\u011fru, ba\u011flant\u0131"
@@ -3375,6 +3399,7 @@
         "eo": "plata objekto; libro, dokumento, karto, papero, registro, retejo",
         "de": "flaches Ding, Buch, Dokument, Karte, Papier, Webseite, Blatt",
         "it": "oggetto piatto; libro, documento, carta, carta, record, sito web",
+        "pt": "objeto plano; livro, documento, cart\u00e3o, papel, registro, website",
         "tl_l": "patag na bagay; aklat, dokumento, kard, papel, talaan, pahinarya",
         "ro": "obiect plat, carte, document, card, h\u00e2rtie, record, website",
         "tr": "d\u00fcz \u015fey; kitap, belge, kart, ka\u011f\u0131t, sicil, web sitesi"
@@ -3556,6 +3581,7 @@
         "de": "in, an, bei, auf, existieren, echt, richtig | (Zustimmung)",
         "es": "alocado en, presente en, real, verdad, existente| ALT (respuesta afirmativa)",
         "it": "situato in, presente in, reale, vero, esistente | ALT (risposta affermativa)",
+        "pt": "localizado em, presente em, real, verdadeiro, existente | ALT (resposta afirmativa)",
         "tl_l": "matatagpuan sa, kasalukuyan sa, totoo, tunay, umiiral | ALT (nagpapatibay na tugon)",
         "ro": "locat la, prezent la, real, adev\u0103rat, exist\u00e2nd | ALT ( r\u0103spuns afirmativ)",
         "tr": "...'da, ...'de, ger\u00e7ek, do\u011fru, var | ALT (olumlu cevap)"
@@ -3614,6 +3640,7 @@
         "tok": "luka li noka pi sewi sijelo.",
         "es": "brazo, mano, \u00f3rgano t\u00e1ctil; cinco| ALT tocar/sentir f\u00edsicamente, interactuar, presionar",
         "it": "braccio, mano, organo tattile; cinque | ALT toccare/sentire fisicamente, interagire, premere",
+        "pt": "bra\u00e7o, m\u00e3o, \u00f3rg\u00e3o t\u00e1til; cinco | ALT tocar/sentir fisicamente, interagir, pressionar",
         "tl_l": "braso, kamay, pandama; lima | ALT hawakan/pakiramdam pisikal, makipag-ugnayan, pindutin",
         "ro": "bra\u021b, m\u00e2n\u0103, organ tactil, cinci | ALT a atinge/a sim\u021bii fizical, \u00eenteractiune, a ap\u0103sa",
         "tr": "el, kol, dokunmayla ilgili organ; be\u015f | ALT fiziksel olarak ellemek/hissetmek, etkile\u015fmek, basmak"
@@ -3651,6 +3678,7 @@
         "eo": "okulo; rigardi, vidi, ekzameni, observi, legi, spekti; ser\u0109i; (a.v.) provi",
         "de": "sehen, schauen, beobachten, Auge, entdecken, lesen, anschauen, suchen | (pv.) versuchen",
         "it": "occhio; guardare, vedere, esaminare, osservare, leggere, guardare; cercare; (pv.) provare a",
+        "pt": "olho; olhar a, ver, examinar, observar, ler, assistir; procurar, buscar; (pv.) tentar",
         "tl_l": "mata; tingnan, suriin, pagmasdan, basahin, panoorin; hanapin; (pv.) subukan",
         "ro": "ochi, a te uita, a vedea, a examina, a observa, a citi, a te uita pentru, a c\u0103uta, (pv.) a \u00eencerca",
         "tr": "g\u00f6z; ...'e bakmak, g\u00f6rmek, incelemek, g\u00f6zlemlemek, okumak, izlemek; aramak; (pv.) denemek"
@@ -3686,6 +3714,7 @@
         "de": "T\u00fcr, Loch, \u00d6ffnung, Fenster, H\u00f6hle",
         "tok": "kipisi ijo li weka la, kipisi ni li lupa.",
         "it": "porta, foro, orifizio, finestra",
+        "pt": "porta, buraco, orif\u00edcio, janela",
         "tl_l": "pinto, butas, pasuk\u00e1n, durungawan",
         "ro": "u\u0219\u0103, gaur\u0103, orificiu, geam",
         "tr": "kap\u0131, delik, pencere"
@@ -3720,6 +3749,7 @@
         "eo": "tero, terpeco; eksterdoma sub\u0109iela loko, mondo; lando, \u015dtato, teritorio; tero (substanco)",
         "de": "Erde, Land, Welt, Boden, Grund, Gebiet",
         "it": "terra; all'aperto, mondo; paese, territorio; suolo",
+        "pt": "terra, terreno; ar livre, mundo; pa\u00eds, territ\u00f3rio; solo",
         "tl_l": "lupain, lupa; sa labas, daigdig; bansa, teritoryo; lupa, dumi",
         "ro": "p\u0103m\u00e2ntul, teren; afar\u0103, lumea; \u021bar\u0103, teritor; sol",
         "tr": "d\u00fcnya, yer; a\u00e7\u0131k hava; \u00fclke, arazi; toprak"
@@ -3790,6 +3820,7 @@
         "eo": "patr(in)o, praulo; kreinto, iniciatinto, fondinto; prizorganto, bontenanto",
         "de": "Elternteil, Ahn; Sch\u00f6pfer, Ursprung",
         "it": "genitore, antenato; creatore; custode, sostenitore",
+        "pt": "pais, ancestral; criador, originador; cuidador, mantenedor",
         "tl_l": "magulang, ninuno; tagalalang, tagalikha; tagapag-alaga, tagapagtaguyod",
         "ro": "p\u0103rinte, ancestor, creator; \u00eengrijitor, sus\u021bin\u0103tor",
         "tr": "veli, anne/baba, ata; yap\u0131mc\u0131, yaratan kimse; bak\u0131c\u0131"
@@ -3822,6 +3853,7 @@
         "eo": "mono, ri\u0109a\u0135oj, \u015dpara\u0135o, kontanta mono; bruto, granda dombesto",
         "de": "Geld, Reichtum, gro\u00dfes, domestiziertes Tier",
         "it": "denaro, contanti, risparmi, ricchezza; grande animale domestico",
+        "pt": "dinheiro, poupan\u00e7a, riqueza; grande animal domesticado",
         "tl_l": "pera, salapi, ipon, kayamanan; malaking alagang hayop",
         "ro": "bani, cash, economii, avere; un animal domesticat mare",
         "tr": "para, nakit, birikim, varl\u0131k; b\u00fcy\u00fck evcille\u015ftirilmi\u015f hayvan"
@@ -3875,6 +3907,7 @@
         "eo": "virino, inseksulo, ino; edzino",
         "de": "Frau, weiblich, feminine Person; Ehefrau",
         "it": "donna, femmina, persona femminile; moglie",
+        "pt": "mulher, f\u00eamea, pessoa feminina; esposa",
         "tl_l": "babae, pambabaeng tao; maybahay",
         "ro": "femeie, persoan\u0103 feminin\u0103, so\u021bie"
       }
@@ -3976,6 +4009,7 @@
         "tok": "toki la, nimi \"mi\" li jan toki.",
         "es": "yo, me, nosotros, nos",
         "it": "Io, me, noi",
+        "pt": "eu, me, mim, n\u00f3s, a gente",
         "tl_l": "ako, kit\u00e1/kata, kami, tayo",
         "ro": "eu, noi"
       }
@@ -4010,6 +4044,7 @@
         "eo": "viro, virseksulo, i\u0109o; edzo",
         "de": "Mann, m\u00e4nnlich, maskuline Person; Ehemann",
         "it": "uomo, maschio, persona maschile; marito",
+        "pt": "homem, macho, pessoa masculina; marido",
         "tl_l": "lalaki, panlalaking tao; bana",
         "ro": "b\u0103rbat, persoan\u0103 masculin\u0103, so\u021b"
       }
@@ -4143,6 +4178,7 @@
         "de": "essen, trinken, konsumieren, schlicken, einverleiben",
         "tok": "pan en kasi en kili en telo li moku. sijelo jan o jo e moku. ante la, jan li moli",
         "it": "mangiare, bere, consumare, ingoiare, ingerire",
+        "pt": "comer, beber, consumir, engolir, ingerir",
         "tl_l": "kumain, uminom, ubusin, lunukin",
         "ro": "a m\u00e2nca, beia, consuma, \u00eenghi\u021bi, \u00eengesta"
       }
@@ -4177,6 +4213,7 @@
         "de": "tot, sterben, t\u00f6ten",
         "tok": "ijo li ken tawa kepeken ona sama la ona li moli ala. ijo ni li kama ken ala la ijo ni li moli.",
         "it": "morto, morente",
+        "pt": "morto, morrendo",
         "tl_l": "patay, namamatay",
         "ro": "mort, murind"
       }
@@ -4231,6 +4268,7 @@
         "eo": "dorso, malanta\u016do",
         "de": "hinten, Hintern, Hinterteil, R\u00fccken",
         "it": "indietro, dietro, posteriore",
+        "pt": "atr\u00e1s, detr\u00e1s, traseira",
         "tl_l": "likod",
         "ro": "spate, \u00een spate"
       }
@@ -4302,6 +4340,7 @@
         "de": "(Tierger\u00e4usch oder -kommunikation) | ALT (nichtsprachlicher Ausruf)",
         "tok": "mu li kalama soweli.",
         "it": "(rumore o comunicazione animale) | ALT (vocalizzazione non verbale)",
+        "pt": "(ru\u00eddo animal ou comunica\u00e7\u00e3o) | ALT (vocaliza\u00e7\u00e3o sem fala)",
         "ro": "(sunet de animal sau comunica\u021bie) | (vocalizare non verbal\u0103)"
       }
     },
@@ -4370,6 +4409,7 @@
         "de": "Mond, Objekt im Nachthimmel, Stern | ALT gl\u00fchen, gl\u00fchendes Licht, Licht im Dunkeln",
         "tok": "mun li sama suno, taso ona li lon sewi pimeja.",
         "it": "luna, corpo celeste, stella | ALT bagliore, luce incandescente, luce nel buio",
+        "pt": "lua, objeto do c\u00e9u noturno, estrela | ALT brilho, luz brilhante, luz no escuro",
         "tl_l": "buwan, bagay sa gabing kalangitan, bituin | ALT kinang, kumikinang na liwanag, liwanag sa dilim"
       }
     },
@@ -4399,7 +4439,8 @@
         "ru": "\u0445\u0443\u0434\u043e\u0436\u0435\u0441\u0442\u0432\u0435\u043d\u043d\u044b\u0439, \u0440\u0430\u0437\u0432\u043b\u0435\u043a\u0430\u0442\u0435\u043b\u044c\u043d\u044b\u0439, \u0444\u0440\u0438\u0432\u043e\u043b\u044c\u043d\u044b\u0439, \u0438\u0433\u0440\u0438\u0432\u044b\u0439, \u0440\u0430\u0437\u0432\u043b\u0435\u0447\u0435\u043d\u0438\u0435",
         "eo": "arta, amuza, frivola, ludeca, rilata al amuzi\u011do",
         "de": "k\u00fcnstlerisch, unterhaltsam, frivol, spielerisch, am\u00fcsant; Kunst, Spa\u00df, Musik, Spiel; spielen",
-        "it": "artistico, divertente, frivolo, giocoso, ricreativo"
+        "it": "artistico, divertente, frivolo, giocoso, ricreativo",
+        "pt": "art\u00edstico, divertido, fr\u00edvolo, l\u00fadico, lazer"
       }
     },
     "mute": {
@@ -4429,7 +4470,8 @@
         "ru": "\u043c\u043d\u043e\u0433\u043e, \u0435\u0449\u0451, \u043d\u0435\u0441\u043a\u043e\u043b\u044c\u043a\u043e, \u043e\u0447\u0435\u043d\u044c; \u043a\u043e\u043b\u0438\u0447\u0435\u0441\u0442\u0432\u043e | ALT \u0442\u0440\u0438 (\u0438 \u0431\u043e\u043b\u0435\u0435), 20",
         "eo": "multaj, multe, pluraj, tre; kvanto | ALT tri (a\u016d pli); 20",
         "de": "viele, einige, mehrere, sehr, mehr; Quantit\u00e4t, Menge | ALT drei (oder mehr); 20",
-        "it": "molti, tanto, di pi\u00f9, assai, parecchi, moltissimo; quantit\u00e0 | ALT tre (o pi\u00f9), 20"
+        "it": "molti, tanto, di pi\u00f9, assai, parecchi, moltissimo; quantit\u00e0 | ALT tre (o pi\u00f9), 20",
+        "pt": "muitos, bastante, mais, muito de, v\u00e1rios; quantidade | ALT tr\u00eas (ou mais), 20"
       }
     },
     "n": {
@@ -4526,7 +4568,8 @@
         "isv_c": "(\u043e\u0440\u0434\u0438\u043d\u0430\u043b\u043d\u044b \u0447\u0438\u0441\u043b\u043e\u0432\u043d\u0438\u043a); \u043d\u043e\u043c\u0435\u0440, \u0447\u0438\u0441\u043b\u043e, \u0431\u0440\u043e\u0458",
         "eo": "-a (kiel en \"unua\", \"dua\", ktp; indikas pozicion en vicordo); ciferoj, nombroj",
         "de": "-te (Ordinalzahl) | Zahl",
-        "it": "(numero ordinale); numeri"
+        "it": "(numero ordinale); numeri",
+        "pt": "-\u00ba (n\u00famero ordinal); n\u00fameros"
       }
     },
     "nasa": {
@@ -4557,7 +4600,8 @@
         "isv_c": "\u043d\u0435\u043e\u0431\u044b\u0447\u043d\u044b, \u0434\u0438\u0432\u043d\u044b, \u0441\u0442\u0440\u0430\u043d\u043d\u044b; \u043d\u0435\u043c\u0443\u0434\u0440\u044b; \u043f\u0438\u0458\u0430\u043d\u044b, \u043d\u0435\u0442\u0440\u0454\u0437\u0432\u044b",
         "eo": "nekutima, stranga; malsa\u011da; ebria",
         "de": "ungew\u00f6hnlich, merkw\u00fcrdig, seltsam, durcheinander; albern; betrunken, berauscht",
-        "it": "insolito, strano; sciocco; ubriaco, intossicato"
+        "it": "insolito, strano; sciocco; ubriaco, intossicato",
+        "pt": "incomum, estranho; bobo; b\u00eabado, embriagado"
       }
     },
     "nasin": {
@@ -4586,7 +4630,8 @@
         "ru": "\u0441\u043f\u043e\u0441\u043e\u0431, \u043e\u0431\u044b\u0447\u0430\u0439, \u0434\u043e\u043a\u0442\u0440\u0438\u043d\u0430, \u043c\u0435\u0442\u043e\u0434, \u043f\u0443\u0442\u044c, \u0434\u043e\u0440\u043e\u0433\u0430",
         "eo": "maniero, kutimo, doktrino, metodo, vojo, irejo",
         "de": "Weg, Br\u00e4uche, Lehre, Doktrin, Methode, Pfad, Stra\u00dfe",
-        "it": "modo, abitudine, dottrina, metodo, percorso, strada, via"
+        "it": "modo, abitudine, dottrina, metodo, percorso, strada, via",
+        "pt": "caminho, customizado, doutrina, m\u00e9todo, caminho, estrada"
       }
     },
     "natu": {
@@ -4696,7 +4741,8 @@
         "isv_c": "\u0438\u0437\u043f\u0443\u043a\u043b\u043e\u0441\u0442, \u043a\u043d\u043e\u043f\u043a\u0430, \u0433\u043e\u0440\u0430, \u0433\u043e\u0440\u043a\u0430, \u043d\u043e\u0441, \u0438\u0437\u0441\u0443\u043d\u0443\u0442\u0458\u0435",
         "eo": "elstara malebena\u0135o, tubero, butono, monteto, monto, nazo, elstara\u0135o",
         "de": "Erhebung, Knopf, H\u00fcgel, Hubbel, Berg, Nase",
-        "it": "bozzo, pulsante, collina, montagna, naso, protuberanza"
+        "it": "bozzo, pulsante, collina, montagna, naso, protuberanza",
+        "pt": "ressalto, bot\u00e3o, colina, montanha, nariz, protuber\u00e2ncia"
       }
     },
     "ni": {
