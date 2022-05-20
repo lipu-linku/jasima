@@ -3,14 +3,11 @@
 import urllib.request
 import re
 import json
-import subprocess
+from git import Git
 
 import os
 from dotenv import load_dotenv
 load_dotenv()
-
-GITHUB_ACCOUNT = "lipu-linku"
-GITHUB_REPO = "jasima"
 GITHUB_TOKEN = os.getenv('GITHUB_TOKEN')
 
 
@@ -50,18 +47,13 @@ def build_dict_from_sheet(link):
 
 
 if __name__ == "__main__":
-    #with open("sheets.json") as file:
-    #    sheets = json.load(file)
-    #bundle = {key: build_dict_from_sheet(value) for key, value in sheets.items()}
-    #with open("../data.json", 'w') as f:
-    #    json.dump(bundle, f, indent=2)
-    #if os.name == 'nt':
-    #    subprocess.call("git.bat {} {} {}".format(GITHUB_ACCOUNT, GITHUB_REPO, GITHUB_TOKEN))
-    #else:
-    #    subprocess.call(["./git.sh", GITHUB_ACCOUNT, GITHUB_REPO, GITHUB_TOKEN])
+    with open("sheets.json") as file:
+        sheets = json.load(file)
+    bundle = {key: build_dict_from_sheet(value) for key, value in sheets.items()}
+    with open("../data.json", 'w') as f:
+        json.dump(bundle, f, indent=2)
 
-    from git import Git
     git = Git("..")
     git.add("-A")
     git.commit("-m", "Updating repo")
-    git.push(f"https://{GITHUB_TOKEN}@github.com/{GITHUB_ACCOUNT}/{GITHUB_REPO}.git")
+    git.push(f"https://{GITHUB_TOKEN}@github.com/lipu-linku/jasima.git")
