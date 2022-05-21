@@ -25,10 +25,6 @@ jobs:
         cd update-job
         python -m pip install --upgrade pip
         if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
-    - name: Set up environment
-      run: |
-      env:
-        GITHUB_TOKEN: ${{ secrets.TOKEN }}
     - name: Configure git
       run: |
         git config --global user.email "AcipenserSturio@users.noreply.github.com"
@@ -36,4 +32,4 @@ jobs:
     - name: Update jasima
       run: |
         cd update-job
-        python updater.py
+        python updater.py ${{ secrets.TOKEN }}
