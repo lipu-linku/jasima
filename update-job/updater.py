@@ -44,6 +44,7 @@ def build_dict_from_sheet(link):
 
 if __name__ == "__main__":
     GITHUB_TOKEN = sys.argv[1]
+    print(len(GITHUB_TOKEN))
     with open("sheets.json") as file:
         sheets = json.load(file)
     bundle = {key: build_dict_from_sheet(value) for key, value in sheets.items()}
