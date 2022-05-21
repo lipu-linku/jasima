@@ -77,16 +77,16 @@
       "name_endonym": "\u041c\u0435\u0434\u0436\u0443\u0441\u043b\u043e\u0432\u0458\u0430\u043d\u0441\u043a\u044b (\u043a\u0438\u0440\u0438\u043b\u0438\u0446\u0430)",
       "name_english": "Interslavic (Cyrillic)",
       "name_toki_pona": "toki Mesulojanki (sitelen Kililisa)",
-      "completeness_percent": "47",
-      "completeness_percent_pu": "63"
+      "completeness_percent": "48",
+      "completeness_percent_pu": "65"
     },
     "isv_l": {
       "id_long": "interslavic_latin",
       "name_endonym": "Med\u017euslovjansky (latinica)",
       "name_english": "Interslavic (Latin)",
       "name_toki_pona": "toki Mesulojanki (sitelen Lasina)",
-      "completeness_percent": "47",
-      "completeness_percent_pu": "63"
+      "completeness_percent": "48",
+      "completeness_percent_pu": "65"
     },
     "it": {
       "id_long": "italian",
@@ -3635,6 +3635,8 @@
         "en": "arm, hand, tactile organ; five | ALT touch/feel physically, interact, press",
         "pl": "r\u0119ka, d\u0142o\u0144, organ dotykowy; pi\u0119\u0107 | ALT dotkn\u0105\u0107/czu\u0107 fizycznie, wej\u015b\u0107 w interakcj\u0119 z(?), nacisn\u0105\u0107",
         "ru": "\u0440\u0443\u043a\u0430, \u043a\u0438\u0441\u0442\u044c, \u0442\u0430\u043a\u0442\u0438\u043b\u044c\u043d\u044b\u0439 \u043e\u0440\u0433\u0430\u043d; \u043f\u044f\u0442\u044c | ALT \u043a\u043e\u0441\u043d\u0443\u0442\u044c\u0441\u044f / \u043f\u043e\u0447\u0443\u0432\u0441\u0442\u0432\u043e\u0432\u0430\u0442\u044c \u0444\u0438\u0437\u0438\u0447\u0435\u0441\u043a\u0438, \u0432\u0437\u0430\u0438\u043c\u043e\u0434\u0435\u0439\u0441\u0442\u0432\u043e\u0432\u0430\u0442\u044c, \u043d\u0430\u0436\u0430\u0442\u044c",
+        "isv_l": "ruka, dlanj, taktilny organ; pet | ALT dotknuti / fizi\u010dno \u010duti, vzajemod\u011bjati, natisknuti",
+        "isv_c": "\u0440\u0443\u043a\u0430, \u0434\u043b\u0430\u045a, \u0442\u0430\u043a\u0442\u0438\u043b\u043d\u044b \u043e\u0440\u0433\u0430\u043d; \u043f\u0435\u0442 | ALT \u0434\u043e\u0442\u043a\u043d\u0443\u0442\u0438 / \u0444\u0438\u0437\u0438\u0447\u043d\u043e \u0447\u0443\u0442\u0438, \u0432\u0437\u0430\u0458\u0435\u043c\u043e\u0434\u0454\u0458\u0430\u0442\u0438, \u043d\u0430\u0442\u0438\u0441\u043a\u043d\u0443\u0442\u0438",
         "eo": "brako, mano, tu\u015dorgano; kvin | ALT tu\u015di, fizike senti, interagi, premi",
         "de": "Arm, Hand, Tastorgan | f\u00fcnf",
         "tok": "luka li noka pi sewi sijelo.",
@@ -3675,6 +3677,8 @@
         "en": "eye; look at, see, examine, observe, read, watch; look for, seek; (pv.) try to",
         "pl": "oko; patrze\u0107 na, widzie\u0107, bada\u0107, obserwowa\u0107, czyta\u0107, ogl\u0105da\u0107; szuka\u0107; (pv.) pr\u00f3bowa\u0107",
         "ru": "\u0433\u043b\u0430\u0437; \u0441\u043c\u043e\u0442\u0440\u0435\u0442\u044c, \u0432\u0437\u0433\u043b\u044f\u043d\u0443\u0442\u044c, \u0432\u0438\u0434\u0435\u0442\u044c, \u043e\u0441\u043c\u0430\u0442\u0440\u0438\u0432\u0430\u0442\u044c, \u043d\u0430\u0431\u043b\u044e\u0434\u0430\u0442\u044c, \u0447\u0438\u0442\u0430\u0442\u044c; \u0438\u0441\u043a\u0430\u0442\u044c; (pv.) \u043f\u0440\u043e\u0431\u043e\u0432\u0430\u0442\u044c, \u043f\u044b\u0442\u0430\u0442\u044c\u0441\u044f",
+        "isv_l": "oko, gled\u011bti, vid\u011bti, \u010ditati, \u0161ukati; (pv.) probovati, postarati se",
+        "isv_c": "\u043e\u043a\u043e, \u0433\u043b\u0435\u0434\u0454\u0442\u0438, \u0432\u0438\u0434\u0454\u0442\u0438, \u0447\u0438\u0442\u0430\u0442\u0438, \u0448\u0443\u043a\u0430\u0442\u0438; (pv.) \u043f\u0440\u043e\u0431\u043e\u0432\u0430\u0442\u0438, \u043f\u043e\u0441\u0442\u0430\u0440\u0430\u0442\u0438 \u0441\u0435",
         "eo": "okulo; rigardi, vidi, ekzameni, observi, legi, spekti; ser\u0109i; (a.v.) provi",
         "de": "sehen, schauen, beobachten, Auge, entdecken, lesen, anschauen, suchen | (pv.) versuchen",
         "it": "occhio; guardare, vedere, esaminare, osservare, leggere, guardare; cercare; (pv.) provare a",
