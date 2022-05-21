@@ -7,6 +7,12 @@ import sys
 from git import Git
 
 
+import os
+from dotenv import load_dotenv
+load_dotenv()
+TOKEN = os.getenv('GITHUB_TOKEN')
+
+
 def get_site(link):
     return urllib.request.urlopen(link).read().decode('utf8')
 
@@ -43,8 +49,6 @@ def build_dict_from_sheet(link):
 
 
 if __name__ == "__main__":
-    GITHUB_TOKEN = sys.argv[1]
-    print(len(GITHUB_TOKEN))
     with open("sheets.json") as file:
         sheets = json.load(file)
     bundle = {key: build_dict_from_sheet(value) for key, value in sheets.items()}
