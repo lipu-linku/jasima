@@ -8230,5 +8230,381 @@
         "it": "{su Discord} l'emoji della stella usata per la starboard (#pona-kulupu in ma pona)"
       }
     }
+  },
+  "fonts": {
+    "Fairfax": {
+      "writing_system": "sitelen pona",
+      "links": {
+        "fontfile": "https://github.com/kreativekorp/open-relay/raw/master/Fairfax/Fairfax.ttf",
+        "repo": "https://github.com/kreativekorp/open-relay/tree/master/Fairfax",
+        "webpage": "https://www.kreativekorp.com/software/fonts/fairfax.shtml"
+      },
+      "creator": "jan Lepeka",
+      "license": "OFL",
+      "version": "2022.02.14",
+      "last_updated": "2022-02",
+      "features": "codepoints only, UCSUR-compliant"
+    },
+    "Fairfax HD": {
+      "writing_system": "sitelen pona",
+      "links": {
+        "fontfile": "https://github.com/kreativekorp/open-relay/raw/master/FairfaxHD/FairfaxHD.ttf",
+        "repo": "https://github.com/kreativekorp/open-relay/tree/master/FairfaxHD",
+        "webpage": "https://www.kreativekorp.com/software/fonts/fairfaxhd.shtml"
+      },
+      "creator": "jan Lepeka",
+      "license": "OFL",
+      "version": "2022.02.14",
+      "last_updated": "2022-02",
+      "features": "codepoints only, UCSUR-compliant"
+    },
+    "insa pi supa lape": {
+      "writing_system": "sitelen pona",
+      "links": {
+        "fontfile": "https://gitlab.com/dev_urandom/insa-pi-supa-lape/-/jobs/2103910200/artifacts/download",
+        "repo": "https://gitlab.com/dev_urandom/insa-pi-supa-lape/-/releases",
+        "webpage": "https://devurandom.xyz/tokipona/supalape.html"
+      },
+      "creator": "devurandom / jan Lentan",
+      "license": "CC0",
+      "version": "0.6",
+      "last_updated": "2022-02",
+      "features": "supports cartouches and extended pi, UCSUR-compliant"
+    },
+    "leko lili 15x15": {
+      "writing_system": "sitelen pona",
+      "links": {
+        "fontfile": "https://toki.pona.billsmugs.com/lipu-tenpo/2022-05-15-sitelen_pona/lekolili15x15.ttf",
+        "webpage": "https://toki.pona.billsmugs.com/lipu-tenpo/2022-05-15-sitelen_pona/"
+      },
+      "creator": "jan Osi",
+      "license": "CC0",
+      "version": "1.0",
+      "last_updated": "2022-05",
+      "features": "all ku suli, UCSUR-compliant"
+    },
+    "linja ante": {
+      "writing_system": "sitelen pona",
+      "links": {
+        "fontfile": "https://nilakayas.neocities.org/karya/linja-ante.ttf",
+        "webpage": "https://nilakayas.neocities.org/karya/linja-ante.html"
+      },
+      "creator": "jan Melon",
+      "license": "CC0",
+      "version": "2.1",
+      "last_updated": "2021",
+      "features": "-"
+    },
+    "linja luka": {
+      "writing_system": "sitelen pona",
+      "links": {
+        "fontfile": "https://github.com/janMelon/linja-luka/raw/main/font-files/linja-luka-1.0.otf",
+        "repo": "https://github.com/janMelon/linja-luka"
+      },
+      "creator": "jan Pensamin/jan Melon",
+      "license": "OFL",
+      "version": "1.0",
+      "last_updated": "2022-02",
+      "features": "supports all ku suli and some others"
+    },
+    "linja pi pu lukin": {
+      "writing_system": "sitelen pona",
+      "links": {
+        "fontfile": "https://jansa-tp.github.io/linja-pi-pu-lukin/PuLukin.otf",
+        "repo": "https://github.com/greenguy5294/linjapipulukin/",
+        "webpage": "https://greenguy5294.github.io/linjapipulukin/"
+      },
+      "creator": "jan Sa",
+      "license": "?",
+      "version": "2",
+      "last_updated": "2021-08",
+      "features": "supports all ku lili"
+    },
+    "linja pi tomo lipu": {
+      "writing_system": "sitelen pona",
+      "links": {
+        "fontfile": "https://github.com/pguimier/linjapitomolipu/raw/master/linjapitomolipu.0.7.ttf",
+        "repo": "https://github.com/pguimier/linjapitomolipu",
+        "webpage": "https://web.archive.org/web/20190222101854/http://www.tomo-lipu.net:80/"
+      },
+      "creator": "Pascal Guimier",
+      "license": "OFL",
+      "version": "0.7",
+      "last_updated": "2021-12",
+      "features": "supports cartouches"
+    },
+    "linja pimeja": {
+      "writing_system": "sitelen pona",
+      "links": {
+        "fontfile": "https://jcdietrich.github.io/linjapimeja19.ttf",
+        "repo": "https://web.archive.org/web/20200908080324if_/https://github.com/increpare/linja_pimeja"
+      },
+      "creator": "increpare / jan Inkepa",
+      "license": "CC0",
+      "version": "1.9",
+      "last_updated": "2020-04",
+      "features": "-"
+    },
+    "linja pimeja pona": {
+      "writing_system": "sitelen pona",
+      "links": {
+        "fontfile": "https://antetokipona.infinityfreeapp.com/font/linjapimejapona.ttf",
+        "repo": "https://github.com/RetSamys/linja-pimeja-pona",
+        "webpage": "http://antetokipona.infinityfreeapp.com/font/"
+      },
+      "creator": "jan Ke Tami",
+      "license": "OFL",
+      "version": "0.9",
+      "last_updated": "2022-05",
+      "features": "unrecognised words turn into cartouched latin characters"
+    },
+    "linja pona": {
+      "writing_system": "sitelen pona",
+      "links": {
+        "fontfile": "https://github.com/janSame/linja-pona/raw/master/linja-pona-4.9.otf",
+        "repo": "https://github.com/janSame/linja-pona/",
+        "webpage": "http://musilili.net/linja-pona/"
+      },
+      "creator": "David A Roberts / jan Same",
+      "license": "OFL",
+      "version": "4.9",
+      "last_updated": "2021-08",
+      "features": "supports cartouches, combined glyphs, nimi ku suli, extended pi"
+    },
+    "linja sike": {
+      "writing_system": "sitelen pona",
+      "links": {
+        "fontfile": "https://wyub.github.io/tokipona/linja-sike-5.otf",
+        "repo": "https://github.com/Wyub/Wyub.github.io/blob/main/tokipona/linja-sike-5.otf"
+      },
+      "creator": "lipamanka / kulupu poki",
+      "license": "OFL",
+      "version": "5",
+      "last_updated": "2021-09",
+      "features": "supports cartouches, combined glyphs, most or all nimi ku lili, extended pi and more extended lines, diacritic glyphs, ligature combination of glyphs"
+    },
+    "linja suwi": {
+      "writing_system": "sitelen pona",
+      "links": {
+        "fontfile": "https://linjasuwi.ap5.dev/linjasuwi.otf",
+        "repo": "https://github.com/anna328p/linjasuwi/",
+        "webpage": "https://linjasuwi.ap5.dev/"
+      },
+      "creator": "jan Ana",
+      "license": "OFL",
+      "version": "1.301",
+      "last_updated": "2021-08",
+      "features": "supports combined glyphs, nimi ku suli"
+    },
+    "linja wawa": {
+      "writing_system": "sitelen pona",
+      "links": {
+        "fontfile": "https://github.com/janMelon/linjawawa/raw/main/font-files/linjawawa1.21.ttff",
+        "repo": "https://github.com/janMelon/linjawawa/blob/main/font-files/linjawawa1.21.ttf"
+      },
+      "creator": "jan Melon / nimi Elemenopi",
+      "license": "OFL",
+      "version": "1.21",
+      "last_updated": "2021-12",
+      "features": "supports cartouches, nimi ku suli, extended pi and more extended lines"
+    },
+    "nasin nanpa": {
+      "writing_system": "sitelen pona",
+      "links": {
+        "fontfile": "https://github.com/ETBCOR/nasin-nanpa/raw/main/versions/nasin-nanpa-2.5.0.otf",
+        "repo": "https://github.com/ETBCOR/linja-nanpa"
+      },
+      "creator": "jan Itan",
+      "license": "MIT",
+      "version": "2.5.0",
+      "last_updated": "2022-02",
+      "features": "codepoints only, supports nimi ku suli, UCSUR-compliant"
+    },
+    "nasin sitelen pu mono": {
+      "writing_system": "sitelen pona",
+      "links": {
+        "fontfile": "https://cdn.discordapp.com/attachments/952797418381000806/977143643896950814/NasinSitelenPuMono.otf"
+      },
+      "creator": "jan Juli",
+      "license": "OFL",
+      "version": "1.1",
+      "last_updated": "2022-05",
+      "features": "UCSUR-compliant, extended pi, cartouches"
+    },
+    "seta sans": {
+      "links": {
+        "fontfile": "https://jcdietrich.github.io/TokiPonaSetaSans-Regular2.otf",
+        "webpage": "https://codepen.io/NMCcCoy/full/jOMdZYq"
+      },
+      "creator": "Eschar / Nathan McCoy",
+      "license": "?",
+      "version": "0.02"
+    },
+    "sitelen Antowi": {
+      "writing_system": "sitelen pona",
+      "links": {
+        "fontfile": "https://onedrive.live.com/?authkey=%21AL2%2D9vliyCvMvWI&cid=B78178898053A9D0&id=B78178898053A9D0%21748&parId=root&o=OneUp",
+        "webpage": "https://www.reddit.com/r/tokipona/comments/ususnn/sitelen_antowi_material_design_style_sitelen_pona/"
+      },
+      "creator": "jan Jeli / UkiyoMoji Fonts",
+      "license": "custom license",
+      "version": "1",
+      "last_updated": "2022-05",
+      "features": "UCSUR-compliant, extended pi, cartouches, ku suli, autocartouches capitalised latin words "
+    },
+    "sitelen Kotopon": {
+      "writing_system": "sitelen pona",
+      "links": {
+        "fontfile": "https://github.com/AcipenserSturio/sitelen-Kotopon/raw/master/sitelenKotopon.otf",
+        "repo": "https://github.com/AcipenserSturio/sitelen-Kotopon"
+      },
+      "creator": "kala Asi",
+      "license": "OFL",
+      "version": "0.1",
+      "last_updated": "2022-01",
+      "features": "codepoints only, supports cartouches, partially UCSUR-compliant"
+    },
+    "sitelen Latin": {
+      "writing_system": "sitelen sitelen",
+      "links": {
+        "fontfile": "https://github.com/tokipona-today/sitelen-sitelen/raw/main/SitelenLatin_1.3.6.ttf",
+        "repo": "https://github.com/tokipona-today/sitelen-sitelen",
+        "webpage": "https://www.reddit.com/r/tokipona/comments/rau3lr/sitelen_sitelen_font_with_containers/"
+      },
+      "creator": "jan Pitaki",
+      "license": "CC BY 4.0",
+      "version": "1.3.6",
+      "last_updated": "2022-01",
+      "features": "supports all containers and nimi ku suli (misikeke is misspelled as misekeke)"
+    },
+    "sitelen poka / sitelen luka tu tu": {
+      "writing_system": "sitelen pona",
+      "links": {
+        "fontfile": "https://github.com/pguimier/pali-sitelen/raw/master/plugins/sitelenlukatutu/sitelen_luka_tu_tu.ttf",
+        "repo": "https://github.com/pguimier/pali-sitelen/tree/master/plugins/sitelenlukatutu"
+      },
+      "creator": "increpare / jan Inkepa",
+      "license": "CC0",
+      "version": "0.1",
+      "last_updated": "2019-11",
+      "features": "-"
+    },
+    "sitelen pona kiwen": {
+      "writing_system": "sitelen pona",
+      "links": {
+        "fontfile": "https://cdn.discordapp.com/attachments/907173530192461864/918454687294963802/sitelen-pona-kiwen-nanpa-tu.ttf",
+        "webpage": "https://fontstruct.com/fontstructions/show/1936881/sitelen-pona-kiwen-nanpa-tu"
+      },
+      "creator": "jan Sewaka(jan Weko)",
+      "license": "CC BY-SA 3.0",
+      "version": "1",
+      "last_updated": "2021-05",
+      "features": "codepoints only, supports nimi ku suli"
+    },
+    "sitelen pona PMD sky font": {
+      "writing_system": "sitelen pona",
+      "links": {
+        "fontfile": "https://cdn.discordapp.com/attachments/972470770984943658/975157038436986890/sitelen-pona-pmd-sky-font.otf",
+        "webpage": "https://fontstruct.com/fontstructions/show/2117304/sitelen-pona-pmd-sky-font"
+      },
+      "creator": "differentthings",
+      "license": "Fontstruct ND NC",
+      "version": "1.0",
+      "last_updated": "2022-05",
+      "features": "codepoints only"
+    },
+    "sitelen pona pona": {
+      "writing_system": "sitelen pona",
+      "links": {
+        "fontfile": "https://jackhumbert.github.io/sitelen-pona-pona/fonts/sitelen-pona-pona.otf",
+        "repo": "https://github.com/jackhumbert/sitelen-pona-pona",
+        "webpage": "https://jackhumbert.github.io/sitelen-pona-pona/"
+      },
+      "creator": "Jack Humbert",
+      "license": "OFL",
+      "version": "0.2",
+      "last_updated": "2020-06",
+      "features": "unrecognised words turn into cartouched latin characters"
+    },
+    "sitelen Sans": {
+      "writing_system": "sitelen pona",
+      "links": {
+        "fontfile": "https://drive.google.com/file/d/1Kq34udEr2UBd7MpoSEn3G5c-C69ltaKG/view?usp=sharing",
+        "webpage": "https://www.reddit.com/r/tokipona/comments/kjv25w/"
+      },
+      "creator": "u/bluemon_",
+      "license": "all rights reserved",
+      "version": "1",
+      "last_updated": "2020-12",
+      "features": "supports extended pi"
+    },
+    "sitelen suwi ko": {
+      "links": {
+        "fontfile": "https://cdn.discordapp.com/attachments/340307145373253642/834314599759085588/sitelensuwiko20.ttf"
+      },
+      "creator": "janEmelesowelikapesi",
+      "license": "?",
+      "version": "1.0"
+    },
+    "sitelen telo": {
+      "writing_system": "sitelen telo",
+      "links": {
+        "fontfile": "https://drive.google.com/file/d/1Y39JfjAfbthyECdTgcCZaKGR5i0Q7VUr",
+        "repo": "https://drive.google.com/drive/folders/1KDVbtq8_GaC2DqOUrb10IXlVgp7DJIJi",
+        "webpage": "https://www.reddit.com/r/tokipona/comments/jax1x2/sitelen_telo_v101_a_japaneseinspired_logographic/"
+      },
+      "creator": "u/efofecks",
+      "license": "OFL",
+      "version": "1.01",
+      "last_updated": "2020-10"
+    },
+    "sitelen telo Momo": {
+      "writing_system": "sitelen pona",
+      "links": {
+        "fontfile": "https://github.com/janMelon/sitelen-telo-Momo/raw/main/font-files/sitelen-telo-Momo-1.04.ttf",
+        "repo": "https://github.com/janMelon/sitelen-telo-Momo"
+      },
+      "creator": "jan Momo (MachiToons)",
+      "license": "OFL",
+      "version": "1.04",
+      "last_updated": "2022-01",
+      "features": "supports all nimi ku suli and nimi ku lili"
+    },
+    "Toki Pona Bubble": {
+      "writing_system": "sitelen pona",
+      "links": {
+        "webpage": "https://jordanwmartin.gumroad.com/l/flpem"
+      },
+      "creator": "Jordan W Martin",
+      "license": "personal use only",
+      "version": "1.1",
+      "last_updated": "2022-02",
+      "features": "supports all nimi ku suli"
+    },
+    "toki pona OTF": {
+      "writing_system": "sitelen pona",
+      "links": {
+        "fontfile": "https://app.box.com/s/9kdw13m1pp3g3rhged9r",
+        "webpage": "https://imgur.com/a/9B6Xx"
+      },
+      "creator": "jan Wesi",
+      "license": "all rights reserved",
+      "version": "2",
+      "last_updated": "2014-07",
+      "features": "-"
+    },
+    "Unifont CSUR": {
+      "writing_system": "sitelen pona",
+      "links": {
+        "fontfile": "https://unifoundry.com/pub/unifont/unifont-14.0.03/font-builds/unifont_csur-14.0.03.otf",
+        "repo": "https://savannah.gnu.org/projects/unifont",
+        "webpage": "https://unifoundry.com/unifont/"
+      },
+      "creator": "Paul Hardy",
+      "license": "OFL/GPL",
+      "version": "14.0.03",
+      "last_updated": "2022-04",
+      "features": "codepoints only"
+    }
   }
 }
