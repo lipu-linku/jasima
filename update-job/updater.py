@@ -10,7 +10,7 @@ from git import Git
 import os
 from dotenv import load_dotenv
 load_dotenv()
-TOKEN = os.getenv('GITHUB_TOKEN')
+GITHUB_TOKEN = os.getenv('GITHUB_TOKEN')
 
 
 def get_site(link):
