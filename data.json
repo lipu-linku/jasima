@@ -77,16 +77,16 @@
       "name_endonym": "\u041c\u0435\u0434\u0436\u0443\u0441\u043b\u043e\u0432\u0458\u0430\u043d\u0441\u043a\u044b (\u043a\u0438\u0440\u0438\u043b\u0438\u0446\u0430)",
       "name_english": "Interslavic (Cyrillic)",
       "name_toki_pona": "toki Mesulojanki (sitelen Kililisa)",
-      "completeness_percent": "48",
-      "completeness_percent_pu": "66"
+      "completeness_percent": "56",
+      "completeness_percent_pu": "82"
     },
     "isv_l": {
       "id_long": "interslavic_latin",
       "name_endonym": "Med\u017euslovjansky (latinica)",
       "name_english": "Interslavic (Latin)",
       "name_toki_pona": "toki Mesulojanki (sitelen Lasina)",
-      "completeness_percent": "48",
-      "completeness_percent_pu": "66"
+      "completeness_percent": "56",
+      "completeness_percent_pu": "82"
     },
     "it": {
       "id_long": "italian",
@@ -141,7 +141,7 @@
       "name_endonym": "\u0420\u0443\u0441\u0441\u043a\u0438\u0439",
       "name_english": "Russian",
       "name_toki_pona": "toki Losi",
-      "completeness_percent": "99",
+      "completeness_percent": "100",
       "completeness_percent_pu": "100"
     },
     "tl_l": {
@@ -364,7 +364,8 @@
       "commentary": "Virtually unknown outside the Korean toki pona community.",
       "def": {
         "en": "general interjection, context-dependent",
-        "pl": "(og\u00f3lny wykrzyknik, zale\u017cny od kontekstu)"
+        "pl": "(og\u00f3lny wykrzyknik, zale\u017cny od kontekstu)",
+        "ru": "\u0432\u043e\u0441\u043a\u043b\u0438\u0446\u0430\u043d\u0438\u0435 (\u043a\u043e\u043d\u0442\u0435\u043a\u0441\u0442\u043e\u0437\u0430\u0432\u0438\u0441\u0438\u043c\u043e\u0435)"
       }
     },
     "ala": {
@@ -841,7 +842,7 @@
       "tags": "pre-pu ALT",
       "commentary": "There are various analyses of the syntactic role of \"en\". Originally intended to be used as \"and\", it was changed (via poll in 2002) to just be used with \"head nouns\". One of the more recent analyses (including 2021's April Fools) treats \"en\" as a subject marker.",
       "def": {
-        "en": "(between multiple subjects) | ALT (coordinates modifiers in a pi-phrase or objects of a prepostion)",
+        "en": "(between multiple subjects)",
         "pl": "(pomi\u0119dzy wieloma podmiotami) | ALT (koordynuje modyfikatory w frazie pi lub rzeczowniki przyimk\u00f3w)",
         "ru": "(\u043c\u0435\u0436\u0434\u0443 \u043d\u0435\u0441\u043a\u043e\u043b\u044c\u043a\u0438\u043c\u0438 \u043f\u043e\u0434\u043b\u0435\u0436\u0430\u0449\u0438\u043c\u0438) | ALT (\u043a\u043e\u043e\u0440\u0434\u0438\u043d\u0438\u0440\u0443\u0435\u0442 \u043e\u0431\u0441\u0442\u043e\u044f\u0442\u0435\u043b\u044c\u0441\u0442\u0432\u0430 \u0432 pi-\u0444\u0440\u0430\u0437\u0435 \u0438\u043b\u0438 \u0434\u043e\u043f\u043e\u043b\u043d\u0435\u043d\u0438\u044f \u0432 \u043f\u0440\u0435\u0434\u043b\u043e\u0436\u043d\u043e\u0439 \u0444\u0440\u0430\u0437\u0435)",
         "isv_l": "(med\u017eu mnogokratnymi subjektami (podm\u011btami)) | ALT (koordinuje modifikatory v pi-fraz\u011b abo dopolnjenja v pr\u011bdlo\u017enoj fraz\u011b)",
@@ -2877,7 +2878,8 @@
       "commentary": "Virtually unknown outside the Korean toki pona community.",
       "def": {
         "en": "the Korean group chat \"kulupu pi toki pona pi ma Anku\"",
-        "pl": "korea\u0144ski czat grupowy \"kulupu pi toki pona pi ma Anku\""
+        "pl": "korea\u0144ski czat grupowy \"kulupu pi toki pona pi ma Anku\"",
+        "ru": "\u0441\u0430\u043c\u043e\u043d\u0430\u0437\u0432\u0430\u043d\u0438\u0435 \u043a\u043e\u0440\u0435\u0439\u0441\u043a\u043e\u0433\u043e \u0433\u0440\u0443\u043f\u043f\u043e\u0432\u043e\u0433\u043e \u0447\u0430\u0442\u0430 \"kulupu pi toki pona pi ma Anku\""
       }
     },
     "la": {
@@ -4342,6 +4344,8 @@
         "en": "(animal noise or communication) | ALT (non-speech vocalization)",
         "pl": "(zwierz\u0119cy d\u017awi\u0119k lub komunikacja) | ALT (wokalizacja nieb\u0119d\u0105ca mow\u0105)",
         "ru": "(\u0437\u0432\u0443\u043a, \u0438\u0437\u0434\u0430\u0432\u0430\u0435\u043c\u044b\u0439 \u0436\u0438\u0432\u043e\u0442\u043d\u044b\u043c, \u0438\u043b\u0438 \u043e\u0431\u0449\u0435\u043d\u0438\u0435 \u0436\u0438\u0432\u043e\u0442\u043d\u044b\u0445) | ALT (\u043d\u0435\u0440\u0435\u0447\u0435\u0432\u0430\u044f \u0432\u043e\u043a\u0430\u043b\u0438\u0437\u0430\u0446\u0438\u044f) ",
+        "isv_l": "(\u017eivotinsky zvuk ili komunikacija) | ALT (vokalizacija bez govora)",
+        "isv_c": "(\u0436\u0438\u0432\u043e\u0442\u0438\u043d\u0441\u043a\u044b \u0437\u0432\u0443\u043a \u0438\u043b\u0438 \u043a\u043e\u043c\u0443\u043d\u0438\u043a\u0430\u0446\u0438\u0458\u0430) | ALT (\u0432\u043e\u043a\u0430\u043b\u0438\u0437\u0430\u0446\u0438\u0458\u0430 \u0431\u0435\u0437 \u0433\u043e\u0432\u043e\u0440\u0430)",
         "eo": "(besta sono a\u016d komunika\u0135o) | ALT (neparola vo\u0109a sono)",
         "de": "(Tierger\u00e4usch oder -kommunikation) | ALT (nichtsprachlicher Ausruf)",
         "tok": "mu li kalama soweli.",
@@ -4411,6 +4415,8 @@
         "en": "moon, night sky object, star | ALT glow, glowing light, light in the dark",
         "pl": "ksi\u0119\u017cyc, obiekt w niebie nocnym, gwiazda | ALT blask, \u015bwiat\u0142o w ciemno\u015bci",
         "ru": "\u043b\u0443\u043d\u0430, \u043e\u0431\u044a\u0435\u043a\u0442 \u043d\u043e\u0447\u043d\u043e\u0433\u043e \u043d\u0435\u0431\u0430, \u0437\u0432\u0435\u0437\u0434\u0430 | ALT \u0441\u0432\u0435\u0447\u0435\u043d\u0438\u0435, \u0441\u0432\u0435\u0442\u044f\u0449\u0438\u0439\u0441\u044f \u043e\u0433\u043e\u043d\u044c, \u0441\u0432\u0435\u0442 \u0432 \u0442\u0435\u043c\u043d\u043e\u0442\u0435",
+        "isv_l": "luna, m\u011bsec, pr\u011bdmet v no\u010dnom nebu, zv\u011bzda | ALT osv\u011btljenje, sijaju\u010de sv\u011btlo, sv\u011btlo vo mraku",
+        "isv_c": "\u043b\u0443\u043d\u0430, \u043c\u0454\u0441\u0435\u0446, \u043f\u0440\u0454\u0434\u043c\u0435\u0442 \u0432 \u043d\u043e\u0447\u043d\u043e\u043c \u043d\u0435\u0431\u0443, \u0437\u0432\u0454\u0437\u0434\u0430 | \u0410\u041b\u0422 \u043e\u0441\u0432\u0454\u0442\u0459\u0435\u045a\u0435, \u0441\u0438\u0458\u0430\u0458\u0443\u0447\u0435 \u0441\u0432\u0454\u0442\u043b\u043e, \u0441\u0432\u0454\u0442\u043b\u043e \u0432\u043e \u043c\u0440\u0430\u043a\u0443",
         "eo": "luno, nokta \u0109iela objekto, stelo | ALT lumi, lumineska lumo, lumo en mallumo",
         "de": "Mond, Objekt im Nachthimmel, Stern | ALT gl\u00fchen, gl\u00fchendes Licht, Licht im Dunkeln",
         "tok": "mun li sama suno, taso ona li lon sewi pimeja.",
@@ -4443,6 +4449,8 @@
         "en": "artistic, entertaining, frivolous, playful, recreation",
         "pl": "artystyczny, zabawny, frywolny, figlarny, rozrywka",
         "ru": "\u0445\u0443\u0434\u043e\u0436\u0435\u0441\u0442\u0432\u0435\u043d\u043d\u044b\u0439, \u0440\u0430\u0437\u0432\u043b\u0435\u043a\u0430\u0442\u0435\u043b\u044c\u043d\u044b\u0439, \u0444\u0440\u0438\u0432\u043e\u043b\u044c\u043d\u044b\u0439, \u0438\u0433\u0440\u0438\u0432\u044b\u0439, \u0440\u0430\u0437\u0432\u043b\u0435\u0447\u0435\u043d\u0438\u0435",
+        "isv_l": "um\u011btni\u010dsky, artisti\u010dny, zabavny, igrivy, rekreacija",
+        "isv_c": "\u0443\u043c\u0454\u0442\u043d\u0438\u0447\u0441\u043a\u044b, \u0430\u0440\u0442\u0438\u0441\u0442\u0438\u0447\u043d\u044b, \u0437\u0430\u0431\u0430\u0432\u043d\u044b, \u0438\u0433\u0440\u0438\u0432\u044b, \u0440\u0435\u043a\u0440\u0435\u0430\u0446\u0438\u0458\u0430",
         "eo": "arta, amuza, frivola, ludeca, rilata al amuzi\u011do",
         "de": "k\u00fcnstlerisch, unterhaltsam, frivol, spielerisch, am\u00fcsant; Kunst, Spa\u00df, Musik, Spiel; spielen",
         "it": "artistico, divertente, frivolo, giocoso, ricreativo",
@@ -4474,6 +4482,8 @@
         "en": "many, a lot, more, much, several, very; quantity | ALT three (or more), 20",
         "pl": "du\u017co, wiele, wi\u0119cej, kilka, bardzo; ilo\u015b\u0107 | ALT trzy (lub wi\u0119cej), 20",
         "ru": "\u043c\u043d\u043e\u0433\u043e, \u0435\u0449\u0451, \u043d\u0435\u0441\u043a\u043e\u043b\u044c\u043a\u043e, \u043e\u0447\u0435\u043d\u044c; \u043a\u043e\u043b\u0438\u0447\u0435\u0441\u0442\u0432\u043e | ALT \u0442\u0440\u0438 (\u0438 \u0431\u043e\u043b\u0435\u0435), 20",
+        "isv_l": "mnogo, n\u011bkoliko, velmi; kolikost | ALT tri (ili vy\u0161e), 20",
+        "isv_c": "\u043c\u043d\u043e\u0433\u043e, \u043d\u0454\u043a\u043e\u043b\u0438\u043a\u043e, \u0432\u0435\u043b\u043c\u0438; \u043a\u043e\u043b\u0438\u043a\u043e\u0441\u0442 | ALT \u0442\u0440\u0438 (\u0438\u043b\u0438 \u0432\u044b\u0448\u0435), 20",
         "eo": "multaj, multe, pluraj, tre; kvanto | ALT tri (a\u016d pli); 20",
         "de": "viele, einige, mehrere, sehr, mehr; Quantit\u00e4t, Menge | ALT drei (oder mehr); 20",
         "it": "molti, tanto, di pi\u00f9, assai, parecchi, moltissimo; quantit\u00e0 | ALT tre (o pi\u00f9), 20",
@@ -4634,6 +4644,8 @@
         "en": "way, custom, doctrine, method, path, road",
         "pl": "spos\u00f3b, obyczaj, doktryna, metoda, \u015bcie\u017cka, droga",
         "ru": "\u0441\u043f\u043e\u0441\u043e\u0431, \u043e\u0431\u044b\u0447\u0430\u0439, \u0434\u043e\u043a\u0442\u0440\u0438\u043d\u0430, \u043c\u0435\u0442\u043e\u0434, \u043f\u0443\u0442\u044c, \u0434\u043e\u0440\u043e\u0433\u0430",
+        "isv_l": "sposob, oby\u010daj, doktrina, metoda, put, ste\u017eka, draga",
+        "isv_c": "\u0441\u043f\u043e\u0441\u043e\u0431, \u043e\u0431\u044b\u0447\u0430\u0458, \u0434\u043e\u043a\u0442\u0440\u0438\u043d\u0430, \u043c\u0435\u0442\u043e\u0434\u0430, \u043f\u0443\u0442, \u0441\u0442\u0435\u0436\u043a\u0430, \u0434\u0440\u0430\u0433\u0430",
         "eo": "maniero, kutimo, doktrino, metodo, vojo, irejo",
         "de": "Weg, Br\u00e4uche, Lehre, Doktrin, Methode, Pfad, Stra\u00dfe",
         "it": "modo, abitudine, dottrina, metodo, percorso, strada, via",
@@ -4865,6 +4877,8 @@
         "en": "foot, leg, organ of locomotion; bottom, lower part | ALT ten; twenty; negative five",
         "pl": "noga, stopa, organ lokomocyjny; d\u00f3\u0142, cz\u0119\u015b\u0107 dolna | ALT dziesi\u0119\u0107, dwadzie\u015bcia; minus pi\u0119\u0107",
         "ru": "\u0441\u0442\u0443\u043f\u043d\u044f, \u043d\u043e\u0433\u0430, \u043e\u0440\u0433\u0430\u043d \u043f\u0435\u0440\u0435\u0434\u0432\u0438\u0436\u0435\u043d\u0438\u044f; \u043d\u0438\u0437, \u043d\u0438\u0436\u043d\u044f\u044f \u0447\u0430\u0441\u0442\u044c | ALT \u0434\u0435\u0441\u044f\u0442\u044c; \u0434\u0432\u0430\u0434\u0446\u0430\u0442\u044c; \u043c\u0438\u043d\u0443\u0441 \u043f\u044f\u0442\u044c",
+        "isv_l": "noga, stopa, organ dvi\u017eenja; dno, spod, dolna \u010dest | ALT deset; dvadeset; minus pet",
+        "isv_c": "\u043d\u043e\u0433\u0430, \u0441\u0442\u043e\u043f\u0430, \u043e\u0440\u0433\u0430\u043d \u0434\u0432\u0438\u0436\u0435\u045a\u0430; \u0434\u043d\u043e, \u0441\u043f\u043e\u0434, \u0434\u043e\u043b\u043d\u0430 \u0447\u0435\u0441\u0442 | ALT \u0434\u0435\u0441\u0435\u0442; \u0434\u0432\u0430\u0434\u0435\u0441\u0435\u0442; \u043c\u0438\u043d\u0443\u0441 \u043f\u0435\u0442",
         "eo": "piedo, kruro, movi\u011da organo; malsupro, malsupra parto | ALT dek; dudek; minus kvin",
         "de": "Fu\u00df, Bein, Fortbewegungsorgan; Unterteil, unten | ALT zehn; zwanzig; minus f\u00fcnf",
         "tok": "noka li luka pi anpa sijelo.",
@@ -5004,6 +5018,8 @@
         "en": "hey! O! (vocative, imperative, or optative)",
         "pl": "hej! o! (wo\u0142acz, tryb rozkazuj\u0105cy lub \u017cycz\u0105cy)",
         "ru": "\u044d\u0439! (\u0437\u0432\u0430\u0442\u0435\u043b\u044c\u043d\u044b\u0439, \u043f\u043e\u0432\u0435\u043b\u0438\u0442\u0435\u043b\u044c\u043d\u044b\u0439 \u0438\u043b\u0438 \u0436\u0435\u043b\u0430\u0442\u0435\u043b\u044c\u043d\u044b\u0439)",
+        "isv_l": "hej! (dlja prizvanja, nakaza ili \u017eelanja)",
+        "isv_c": "\u0445\u0435\u0458! (\u0434\u0459\u0430 \u043f\u0440\u0438\u0437\u0432\u0430\u045a\u0430, \u043d\u0430\u043a\u0430\u0437\u0430 \u0438\u043b\u0438 \u0436\u0435\u043b\u0430\u045a\u0430)",
         "eo": "he! (vokativo, imperativo, a\u016d volitivo)",
         "de": "He! Hey! O! (Anrede, Befehl oder Wunsch)",
         "es": "\u00a1oiga! (vocativo, imperativo u optativo)",
@@ -5372,6 +5388,8 @@
         "en": "botched, broken, damaged, harmed, messed up | ALT (curse expletive, e.g. fuck!)",
         "pl": "spartaczone, zepsute, uszkodzone, skaleczone, popsute | ALT (przekle\u0144stwo, np. kurwa!)",
         "ru": "\u0438\u0441\u043f\u043e\u0440\u0447\u0435\u043d\u043d\u044b\u0439, \u0441\u043b\u043e\u043c\u0430\u043d\u043d\u044b\u0439, \u043f\u043e\u0432\u0440\u0435\u0436\u0434\u0451\u043d\u043d\u044b\u0439 | ALT (\u0440\u0443\u0433\u0430\u0442\u0435\u043b\u044c\u0441\u0442\u0432\u043e, \u043d\u0430\u043f\u0440\u0438\u043c\u0435\u0440 \"\u0447\u0451\u0440\u0442!\")",
+        "isv_l": "slomjeny, razbity, po\u0161kod\u017eeny | ALT (prokletstvo, napr. kurva!)",
+        "isv_c": "\u0441\u043b\u043e\u043c\u0458\u0435\u043d\u044b, \u0440\u0430\u0437\u0431\u0438\u0442\u044b, \u043f\u043e\u0448\u043a\u043e\u0434\u0436\u0435\u043d\u044b | ALT (\u043f\u0440\u043e\u043a\u043b\u0435\u0442\u0441\u0442\u0432\u043e, \u043d\u0430\u043f\u0440. \u043a\u0443\u0440\u0432\u0430!)",
         "eo": "fu\u015dita, rompita, dama\u011dita, difektita | ALT (sakra\u0135o, ekz. fek!, damne!)",
         "de": "kaputt, vermasselt, besch\u00e4digt, zerst\u00f6rt, defekt; zerbrechen | ALT (Kraftausdruck, z.B. Mist!)",
         "it": "rovinato, rotto, danneggiato, leso, incasinato | ALT (imprecazione, ad esempio, cazzo!)"
@@ -5501,6 +5519,8 @@
         "en": "cereal, grain; barley, corn, oat, rice, wheat; bread, pasta",
         "pl": "zbo\u017ce; j\u0119czmie\u0144, kukurydza, owies, ry\u017c, pszenica; chleb, makaron",
         "ru": "\u043a\u0440\u0443\u043f\u0430, \u0437\u0435\u0440\u043d\u043e; \u044f\u0447\u043c\u0435\u043d\u044c, \u043a\u0443\u043a\u0443\u0440\u0443\u0437\u0430, \u043e\u0432\u0435\u0441, \u0440\u0438\u0441, \u043f\u0448\u0435\u043d\u0438\u0446\u0430; \u0445\u043b\u0435\u0431, \u043c\u0430\u043a\u0430\u0440\u043e\u043d\u044b",
+        "isv_l": "zrno; je\u010dmenj, kukuruza, oves, ry\u017e, p\u0161enica; hl\u011bb, makarony",
+        "isv_c": "\u0437\u0440\u043d\u043e; \u0458\u0435\u0447\u043c\u0435\u045a, \u043a\u0443\u043a\u0443\u0440\u0443\u0437\u0430, \u043e\u0432\u0435\u0441, \u0440\u044b\u0436, \u043f\u0448\u0435\u043d\u0438\u0446\u0430; \u0445\u043b\u0454\u0431, \u043c\u0430\u043a\u0430\u0440\u043e\u043d\u044b",
         "eo": "greno, cerealo; aveno, hordeo, maizo, rizo, tritiko; pano, pasta\u0135o",
         "de": "Getreide; Gerste, Hafer, Mais, Reis, Weizen; Brot, Nudeln",
         "tok": "moku tan kasi.",
@@ -5854,6 +5874,8 @@
         "en": "ago, completed, ended, finished, past",
         "pl": "(jaki\u015b czas) temu, zako\u0144czony, sko\u0144czony, przesz\u0142y",
         "ru": "\u0442\u043e\u043c\u0443 \u043d\u0430\u0437\u0430\u0434, \u0437\u0430\u0432\u0435\u0440\u0448\u0435\u043d\u043d\u044b\u0439, \u043e\u043a\u043e\u043d\u0447\u0435\u043d\u043d\u044b\u0439, \u0437\u0430\u0432\u0435\u0440\u0448\u0435\u043d\u043d\u044b\u0439, \u043f\u0440\u043e\u0448\u043b\u044b\u0439",
+        "isv_l": "tomu, ukon\u010deny, zavr\u0161eny, pro\u0161ly, minuly",
+        "isv_c": "\u0442\u043e\u043c\u0443, \u0443\u043a\u043e\u043d\u0447\u0435\u043d\u044b, \u0437\u0430\u0432\u0440\u0448\u0435\u043d\u044b, \u043f\u0440\u043e\u0448\u043b\u044b, \u043c\u0438\u043d\u0443\u043b\u044b",
         "eo": "anta\u016da, finfarita, finita, fini\u011dinta, pasinta",
         "de": "her, abgeschlossen, beendet, fertig, vergangen; Ende",
         "it": "tempo fa, completato, finito, terminato, passato"
@@ -6101,6 +6123,8 @@
         "en": "good, positive, useful; friendly, peaceful; simple",
         "pl": "dobry, pozytywny, u\u017cyteczny; mi\u0142y, pokojny; prosty",
         "ru": "\u0445\u043e\u0440\u043e\u0448\u0438\u0439, \u043f\u043e\u043b\u043e\u0436\u0438\u0442\u0435\u043b\u044c\u043d\u044b\u0439, \u043f\u043e\u043b\u0435\u0437\u043d\u044b\u0439; \u0434\u0440\u0443\u0436\u0435\u043b\u044e\u0431\u043d\u044b\u0439, \u043c\u0438\u0440\u043e\u043b\u044e\u0431\u0438\u0432\u044b\u0439; \u043f\u0440\u043e\u0441\u0442\u043e\u0439",
+        "isv_l": "dobry, pozitivny, koristny; prijateljsky, spokojny; prosty",
+        "isv_c": "\u0434\u043e\u0431\u0440\u044b, \u043f\u043e\u0437\u0438\u0442\u0438\u0432\u043d\u044b, \u043a\u043e\u0440\u0438\u0441\u0442\u043d\u044b; \u043f\u0440\u0438\u0458\u0430\u0442\u0435\u0459\u0441\u043a\u044b, \u0441\u043f\u043e\u043a\u043e\u0458\u043d\u044b; \u043f\u0440\u043e\u0441\u0442\u044b",
         "eo": "bona, pozitiva, utila; amika, paca; simpla",
         "de": "gut, positiv, n\u00fctzlich; freundlich, friedlich; einfach",
         "tok": "ijo pona li ike ala. ijo pona li pana e pilin suwi e pilin olin tawa jan. ijo pona li wile ala e pali wawa.",
@@ -6599,6 +6623,8 @@
         "en": "you",
         "pl": "ty, wy",
         "ru": "\u0442\u044b, \u0432\u044b",
+        "isv_l": "ty, vy",
+        "isv_c": "\u0442\u044b, \u0432\u044b",
         "eo": "vi",
         "de": "du, Sie, ihr; dein, euer",
         "tok": "toki la, nimi \"sina\" li ijo kute.",
@@ -6630,6 +6656,8 @@
         "en": "face, foremost, front, wall",
         "pl": "twarz, czo\u0142owy, prz\u00f3d, \u015bciana",
         "ru": "\u043b\u0438\u0446\u043e, \u043f\u0435\u0440\u0435\u0434\u043d\u0438\u0439, \u043f\u0435\u0440\u0435\u0434, \u0441\u0442\u0435\u043d\u0430",
+        "isv_l": "lice, pr\u011bdnji, pr\u011bd, st\u011bna",
+        "isv_c": "\u043b\u0438\u0446\u0435, \u043f\u0440\u0454\u0434\u045a\u0438, \u043f\u0440\u0454\u0434, \u0441\u0442\u0454\u043d\u0430",
         "eo": "viza\u011do, unuaranga, anta\u016do, muro",
         "de": "Gesicht, vorderst, vorne, vor, Wand",
         "it": "faccia, davanti, anteriore, muro"
@@ -6659,6 +6687,8 @@
         "en": "image, picture, representation, symbol, mark, writing",
         "pl": "obraz, zdj\u0119cie, podobizna, symbol, znak, pismo",
         "ru": "\u043e\u0431\u0440\u0430\u0437, \u043a\u0430\u0440\u0442\u0438\u043d\u0430, \u043f\u0440\u0435\u0434\u0441\u0442\u0430\u0432\u043b\u0435\u043d\u0438\u0435, \u0441\u0438\u043c\u0432\u043e\u043b, \u043e\u0442\u043c\u0435\u0442\u043a\u0430, \u043f\u0438\u0441\u044c\u043c\u0435\u043d\u043d\u043e\u0441\u0442\u044c",
+        "isv_l": "obraz, kartina, simbol, znak, pismo, pisanje",
+        "isv_c": "\u043e\u0431\u0440\u0430\u0437, \u043a\u0430\u0440\u0442\u0438\u043d\u0430, \u0441\u0438\u043c\u0431\u043e\u043b, \u0437\u043d\u0430\u043a, \u043f\u0438\u0441\u043c\u043e, \u043f\u0438\u0441\u0430\u045a\u0435",
         "eo": "bildo, figuro, simbolo, marka\u0135o, skriba\u0135o",
         "de": "Bild, Darstellung, Symbol, Markierung, Schrift, Text",
         "it": "immagine, figura, rappresentazione, simbolo, marchio, scrittura"
@@ -6809,6 +6839,8 @@
         "en": "animal, beast, land mammal",
         "pl": "zwierz\u0119, bestia, ssak l\u0105dowy",
         "ru": "\u0436\u0438\u0432\u043e\u0442\u043d\u043e\u0435, \u0437\u0432\u0435\u0440\u044c, \u043d\u0430\u0437\u0435\u043c\u043d\u043e\u0435 \u043c\u043b\u0435\u043a\u043e\u043f\u0438\u0442\u0430\u044e\u0449\u0435\u0435",
+        "isv_l": "\u017eivotina, zv\u011br, nazemny sosavec",
+        "isv_c": "\u0436\u0438\u0432\u043e\u0442\u0438\u043d\u0430, \u0437\u0432\u0454\u0440, \u043d\u0430\u0437\u0435\u043c\u043d\u044b \u0441\u043e\u0441\u0430\u0432\u0435\u0446",
         "eo": "besto, surtera mamulo",
         "de": "Tier, Biest, Lands\u00e4ugetier",
         "es": "animal, bestia, mam\u00edfero terrestre",
@@ -6913,6 +6945,8 @@
         "en": "big, heavy, large, long, tall; important; adult",
         "pl": "du\u017cy, ci\u0119\u017cki, d\u0142ugi, wysoki; wa\u017cny; doros\u0142y",
         "ru": "\u0431\u043e\u043b\u044c\u0448\u043e\u0439, \u0442\u044f\u0436\u0435\u043b\u044b\u0439, \u0434\u043b\u0438\u043d\u043d\u044b\u0439, \u0432\u044b\u0441\u043e\u043a\u0438\u0439; \u0432\u0430\u0436\u043d\u044b\u0439; \u0432\u0437\u0440\u043e\u0441\u043b\u044b\u0439",
+        "isv_l": "veliky, te\u017eky, dolgy, vysoky; va\u017eny, dorastly",
+        "isv_c": "\u0432\u0435\u043b\u0438\u043a\u044b, \u0442\u0435\u0436\u043a\u044b, \u0434\u043e\u043b\u0433\u044b, \u0432\u044b\u0441\u043e\u043a\u044b; \u0432\u0430\u0436\u043d\u044b, \u0434\u043e\u0440\u0430\u0441\u0442\u043b\u044b",
         "eo": "granda, peza, longa, alta; grava; plenkreska",
         "de": "gro\u00df, schwer, lang, breit, hoch; wichtig; erwachsen",
         "tok": "ijo suli li lili ala. tenpo open la, mi jan lili. taso, tenpo ni la, mi jan suli.",
@@ -7034,6 +7068,8 @@
         "en": "sweet, fragrant; cute, innocent, adorable",
         "pl": "s\u0142odki (smak), aromatyczny; s\u0142odki (\u015bliczny), niewinny, uroczy",
         "ru": "\u0441\u043b\u0430\u0434\u043a\u0438\u0439, \u0430\u0440\u043e\u043c\u0430\u0442\u043d\u044b\u0439; \u043c\u0438\u043b\u044b\u0439, \u043d\u0435\u0432\u0438\u043d\u043d\u044b\u0439, \u043e\u0447\u0430\u0440\u043e\u0432\u0430\u0442\u0435\u043b\u044c\u043d\u044b\u0439",
+        "isv_l": "sladky, aromatny; mily, nevinny, obo\u017eany, adorovany",
+        "isv_c": "\u0441\u043b\u0430\u0434\u043a\u044b, \u0430\u0440\u043e\u043c\u0430\u0442\u043d\u044b; \u043c\u0438\u043b\u044b, \u043d\u0435\u0432\u0438\u043d\u043d\u044b, \u043e\u0431\u043e\u0436\u0430\u043d\u044b, \u0430\u0434\u043e\u0440\u043e\u0432\u0430\u043d\u044b",
         "eo": "dol\u0109a, bonodora; \u0109arma, senkulpa, aminda",
         "de": "s\u00fc\u00df, wohlriechend; niedlich, unschuldig, liebenswert",
         "tok": "ona li pona tawa uta, ona li pona tawa lukin, ona li pali ike ala.",
@@ -7122,6 +7158,8 @@
         "en": "by, from, because of; origin, cause",
         "pl": "od, z powodu; \u017ar\u00f3d\u0142o, pow\u00f3d",
         "ru": "\u043e\u0442, \u0438\u0437, \u0438\u0437-\u0437\u0430; \u043f\u0440\u043e\u0438\u0441\u0445\u043e\u0436\u0434\u0435\u043d\u0438\u0435, \u043f\u0440\u0438\u0447\u0438\u043d\u0430",
+        "isv_l": "od, iz, vsl\u011bd; pohod\u017eenje, povod, pri\u010dina",
+        "isv_c": "\u043e\u0434, \u0438\u0437, \u0432\u0441\u043b\u0454\u0434; \u043f\u043e\u0445\u043e\u0434\u0436\u0435\u045a\u0435, \u043f\u043e\u0432\u043e\u0434, \u043f\u0440\u0438\u0447\u0438\u043d\u0430",
         "eo": "pro, el, fare de; origino, ka\u016dzo",
         "de": "von, durch, wegen; Grund, Ursache",
         "it": "da, a causa di; origine, causa",
@@ -7153,6 +7191,8 @@
         "en": "but, however; only",
         "pl": "ale, jednak\u017ce; tylko, jedyny",
         "ru": "\u043d\u043e, \u043e\u0434\u043d\u0430\u043a\u043e; \u0442\u043e\u043b\u044c\u043a\u043e",
+        "isv_l": "ale, no, jednako; jedino, toliko, samo",
+        "isv_c": "\u0430\u043b\u0435, \u043d\u043e, \u0458\u0435\u0434\u043d\u0430\u043a\u043e; \u0458\u0435\u0434\u0438\u043d\u043e, \u0442\u043e\u043b\u0438\u043a\u043e, \u0441\u0430\u043c\u043e",
         "eo": "sed, tamen; nur",
         "de": "aber, jedoch; nur",
         "it": "ma, tuttavia, solo",
@@ -7279,6 +7319,8 @@
         "en": "water, liquid, fluid, wet substance; beverages",
         "pl": "woda, p\u0142yn, ciecz, mokra substancja; nap\u00f3j",
         "ru": "\u0432\u043e\u0434\u0430, \u0436\u0438\u0434\u043a\u043e\u0441\u0442\u044c, \u0432\u043b\u0430\u0436\u043d\u043e\u0435 \u0432\u0435\u0449\u0435\u0441\u0442\u0432\u043e; \u043d\u0430\u043f\u0438\u0442\u043e\u043a",
+        "isv_l": "voda, tekutina, mokrota; napoj",
+        "isv_c": "\u0432\u043e\u0434\u0430, \u0442\u0435\u043a\u0443\u0442\u0438\u043d\u0430, \u043c\u043e\u043a\u0440\u043e\u0442\u0430; \u043d\u0430\u043f\u043e\u0458",
         "eo": "akvo, likvo, flua\u0135o, malseka substanco; trinka\u0135o",
         "de": "Wasser, Fl\u00fcssigkeit, nasse Substanz; Getr\u00e4nk",
         "it": "acqua, liquido, fluido, sostanza umida; bevande",
@@ -8443,14 +8485,14 @@
     "sitelen Antowi": {
       "writing_system": "sitelen pona",
       "links": {
-        "fontfile": "https://onedrive.live.com/?authkey=%21AL2%2D9vliyCvMvWI&cid=B78178898053A9D0&id=B78178898053A9D0%21748&parId=root&o=OneUp",
+        "fontfile": "https://1drv.ms/u/s!AtCpU4CJeIG3hW02lAWbUPP8Cr64",
         "webpage": "https://www.reddit.com/r/tokipona/comments/ususnn/sitelen_antowi_material_design_style_sitelen_pona/"
       },
       "creator": "jan Jeli / UkiyoMoji Fonts",
       "license": "custom license",
       "version": "1",
       "last_updated": "2022-05",
-      "features": "UCSUR-compliant, extended pi, cartouches, ku suli, autocartouches capitalised latin words "
+      "features": "UCSUR-compliant, extended pi, cartouches, ku suli, cartouches, autocartouches capitalised latin words "
     },
     "sitelen Kotopon": {
       "writing_system": "sitelen pona",
