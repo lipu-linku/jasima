@@ -40,6 +40,14 @@
       "completeness_percent": "61",
       "completeness_percent_pu": "44"
     },
+    "fi": {
+      "id_long": "finnish",
+      "name_endonym": "Suomi",
+      "name_english": "Finnish",
+      "name_toki_pona": "toki Sumi",
+      "completeness_percent": "47",
+      "completeness_percent_pu": "100"
+    },
     "fr": {
       "id_long": "french",
       "name_endonym": "Fran\u00e7ais",
@@ -176,6 +184,14 @@
       "completeness_percent": "21",
       "completeness_percent_pu": "45"
     },
+    "uk": {
+      "id_long": "ukrainian",
+      "name_endonym": "\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0430",
+      "name_english": "Ukrainian",
+      "name_toki_pona": "toki Ukawina",
+      "completeness_percent": "1",
+      "completeness_percent_pu": "4"
+    },
     "ur": {
       "id_long": "urdu",
       "name_endonym": "\u0627\u0631\u062f\u0648",
@@ -197,8 +213,8 @@
       "name_endonym": "\u4e2d\u6587\uff08\u7e41\u9ad4\uff09",
       "name_english": "Chinese (Traditional)",
       "name_toki_pona": "toki Sonko (sitelen Kansi mute)",
-      "completeness_percent": "5",
-      "completeness_percent_pu": "11"
+      "completeness_percent": "27",
+      "completeness_percent_pu": "57"
     }
   },
   "credits": {
@@ -208,11 +224,20 @@
     "Andrea Dolores": {
       "description": "definitions (Spanish)"
     },
+    "aurora": {
+      "description": "definitions (Finnish)"
+    },
     "ilo Eko": {
       "description": "sitelen pona etymologies"
     },
+    "ItMarki": {
+      "description": "definitions (Chinese)"
+    },
     "jan Emalan": {
       "description": "nele entry"
+    },
+    "jan Iwan": {
+      "description": "definitions (Ukrainian)"
     },
     "jan Jaten": {
       "description": "definitions (Hebrew)"
@@ -324,7 +349,9 @@
         "fr": "(accent, \u00e9motion ou confirmation)",
         "tr": "(vurgu, duygu veya onay)",
         "mi": "(he miramira, he kare \u0101-roto, he whaka\u016b r\u0101nei)",
-        "zh_hant": "\uff08\u7528\u4f86\u5f37\u8abf\u3001\u8868\u9054\u611f\u60c5\u6216\u78ba\u8a8d\uff09"
+        "zh_hant": "\uff08\u7528\u4f86\u5f37\u8abf\u3001\u8868\u9054\u611f\u60c5\u6216\u78ba\u8a8d\uff09",
+        "fi": "(painotus, vahvistus tai tunne)",
+        "uk": "(\u043f\u0456\u0434\u0442\u0432\u0435\u0440\u0434\u0436\u0435\u043d\u043d\u044f \u0430\u0431\u043e \u0435\u043c\u043e\u0446\u0456\u044f)"
       }
     },
     "aka": {
@@ -387,7 +414,9 @@
         "fr": "animal non-migron ; reptile, amphibien",
         "tr": "\u00e7irkin hayvan; s\u00fcr\u00fcngen, amfibi",
         "mi": "he kararehe weriweri; he moko, he ika oneone",
-        "zh_hant": "\u4e0d\u53ef\u611b\u7684\u52d5\u7269\uff1b\u722c\u884c\u52d5\u7269\u3001\u5169\u68f2\u52d5\u7269"
+        "zh_hant": "\u4e0d\u53ef\u611b\u7684\u52d5\u7269\uff1b\u722c\u884c\u52d5\u7269\u3001\u5169\u68f2\u52d5\u7269",
+        "fi": "ei-s\u00f6p\u00f6 el\u00e4in; matelija, sammakkoel\u00e4in",
+        "uk": "\u0431\u0440\u0438\u0434\u043a\u0430 \u0442\u0432\u0430\u0440\u0438\u043d\u0430; \u0440\u0435\u043f\u0442\u0438\u043b\u0456\u044f, \u0430\u043c\u0444\u0456\u0431\u0456\u044f"
       }
     },
     "ako": {
@@ -440,7 +469,9 @@
         "fr": "non, ne, pas, aucun, z\u00e9ro",
         "tr": "hay\u0131r, de\u011fil, s\u0131f\u0131r; [~ ala ~] (evet-hay\u0131r sorusu olu\u015fturmak i\u00e7in kullan\u0131l\u0131r); hi\u00e7",
         "mi": "k\u0101o, k\u0101ore, ehara, kore; [~ ala ~] (e whakamahia ana m\u014d te p\u0101tai kati)",
-        "zh_hant": "\u4e0d\u3001\u6c92\u6709\u3001\u4e0d\u662f\u3001\u96f6\uff1b[~ ala ~]\uff08\u7528\u65bc\u69cb\u6210\u662f\u975e\u554f\u53e5\uff09\uff1b\u7121"
+        "zh_hant": "\u4e0d\u3001\u6c92\u6709\u3001\u4e0d\u662f\u3001\u96f6\uff1b[~ ala ~]\uff08\u7528\u65bc\u69cb\u6210\u662f\u975e\u554f\u53e5\uff09\uff1b\u7121",
+        "fi": "ei, nolla; [~ ala ~] (k\u00e4ytet\u00e4\u00e4n kyll\u00e4-ei -kysymysten muodostuksessa), ei mit\u00e4\u00e4n",
+        "uk": "\u043d\u0456, \u043d\u0456\u0447\u043e\u0433\u043e"
       }
     },
     "alasa": {
@@ -485,7 +516,9 @@
         "fr": "chasser, cueillir",
         "tr": "avlamak, toplamak, aramak | ALT (pv.) denemek, kalk\u0131\u015fmak",
         "mi": "kimi, rapu, whai | ALT (pv.) ngana",
-        "zh_hant": "\u6253\u7375\u3001\u7375\u6bba\u3001\u641c\u5c0b\u3001\u5c0b\u627e | ALT (pv.) \u5617\u8a66\u3001\u8a66\u5716"
+        "zh_hant": "\u6253\u7375\u3001\u7375\u6bba\u3001\u641c\u5c0b\u3001\u5c0b\u627e | ALT (pv.) \u5617\u8a66\u3001\u8a66\u5716",
+        "fi": "mets\u00e4st\u00e4\u00e4, pyydyst\u00e4\u00e4, etsi\u00e4 | ALT (pv.) yritt\u00e4\u00e4",
+        "uk": "\u043f\u043e\u043b\u044e\u0432\u0430\u0442\u0438, \u0437\u0431\u0438\u0440\u0430\u0442\u0438, \u0448\u0443\u043a\u0430\u0442\u0438 | ALT (pv.) \u043f\u0440\u043e\u0431\u0443\u0432\u0430\u0442\u0438"
       }
     },
     "ale": {
@@ -529,7 +562,8 @@
         "fr": "tous, abondants, innombrables ; tout, abondance, la vie, l'univers | ALT 100",
         "tr": "bol, \u00e7ok, dolu, her; bolluk, her \u015fey, ya\u015fam, evren; y\u00fcz | ALT 100",
         "mi": "katoa; he maha; te ora, te ao tukup\u016b; kotahi rau | ALT 100",
-        "zh_hant": "\u6240\u6709\u3001\u4e00\u5207\uff1b\u773e\u591a\u7684\u3001\u7121\u6578\u7684\u3001\u5927\u91cf\u7684\uff1b\u6240\u6709\u4e8b\u7269\u3001\u842c\u7269\u3001\u751f\u547d\u3001\u5b87\u5b99\uff1b\u4e00\u767e | ALT 100"
+        "zh_hant": "\u6240\u6709\u3001\u4e00\u5207\uff1b\u773e\u591a\u7684\u3001\u7121\u6578\u7684\u3001\u5927\u91cf\u7684\uff1b\u6240\u6709\u4e8b\u7269\u3001\u842c\u7269\u3001\u751f\u547d\u3001\u5b87\u5b99\uff1b\u4e00\u767e | ALT 100",
+        "fi": "kaikki, runsas, jokainen | ALT 100"
       }
     },
     "ali": {
@@ -567,7 +601,8 @@
         "ro": "[forma alternativ\u0103 a lui ale)",
         "tr": "[ale i\u00e7in alternatif]",
         "mi": "[he \u0101hua k\u0113 m\u014d te \u201cale\u201d]",
-        "zh_hant": "[\u540c\u201dale\u201c]"
+        "zh_hant": "[\u540c\u201dale\u201c]",
+        "fi": "[vaihtoehtoinen muoto \"ale\":lle]"
       }
     },
     "alu": {
@@ -638,7 +673,8 @@
         "fr": "inclin\u00e9 vers le bas, humble, qui d\u00e9pend",
         "tr": "a\u015fa\u011f\u0131, a\u015fa\u011f\u0131ya, al\u00e7ak | ALT alt, alt\u0131nda, a\u015fa\u011f\u0131 k\u0131s\u0131m, zemin",
         "mi": "tuohu, iho, m\u0101haki, whirinaki | ALT raro, papa, hakahaka",
-        "zh_hant": "\uff08\u5730\u4f4d\uff09\u4f4e\u4e0b\u7684\u3001\u5351\u5fae\u7684\u3001\u4f9d\u9760\u7684 | ALT \u5e95\u90e8\u3001\u4e0b\u9762\u3001\u5730\u9762\uff1b\u4f4e\u7684\u3001\u4e0b\u9762\u7684\u3001\u5e95\u90e8\u7684"
+        "zh_hant": "\uff08\u5730\u4f4d\uff09\u4f4e\u4e0b\u7684\u3001\u5351\u5fae\u7684\u3001\u4f9d\u9760\u7684 | ALT \u5e95\u90e8\u3001\u4e0b\u9762\u3001\u5730\u9762\uff1b\u4f4e\u7684\u3001\u4e0b\u9762\u7684\u3001\u5e95\u90e8\u7684",
+        "fi": "kumartua, alasp\u00e4in, n\u00f6yr\u00e4, alhainen, riippuvainen | ALT pohja, alaosa, lattia, alla, matala, alas"
       }
     },
     "ante": {
@@ -678,7 +714,8 @@
         "fr": "diff\u00e9rent, chang\u00e9, autre",
         "tr": "farkl\u0131, de\u011fi\u015ftirilmi\u015f, d\u00fczenlenmi\u015f, ba\u015fka, ayr\u0131",
         "mi": "k\u0113, rerek\u0113, panoni, huri, whakawhiti",
-        "zh_hant": "\u4e0d\u540c\u7684\u3001\u88ab\u6539\u8b8a\u7684\u3001\u5176\u4ed6\u7684\u3001\u5225\u7684"
+        "zh_hant": "\u4e0d\u540c\u7684\u3001\u88ab\u6539\u8b8a\u7684\u3001\u5176\u4ed6\u7684\u3001\u5225\u7684",
+        "fi": "erilainen, muuttunut, toinen, muu"
       }
     },
     "anu": {
@@ -720,7 +757,8 @@
         "fr": "ou | ALT choisir, d\u00e9cider",
         "tr": "veya | ALT se\u00e7mek, karar vermek",
         "mi": "r\u0101nei | ALT k\u014dwhiri, whiriwhiri",
-        "zh_hant": "\u6216\u3001\u9084\u662f | ALT \u9078\u64c7\u3001\u6c7a\u5b9a"
+        "zh_hant": "\u6216\u3001\u9084\u662f | ALT \u9078\u64c7\u3001\u6c7a\u5b9a",
+        "fi": "tai | ALT valita, valikoida, p\u00e4\u00e4tt\u00e4\u00e4"
       }
     },
     "apeja": {
@@ -814,7 +852,8 @@
         "fr": "rest\u00e9, prot\u00e9g\u00e9, gard\u00e9, qui attend, qui persiste, conserv\u00e9 ; (auxiliaire) continuer \u00e0",
         "tr": "dayanan, dayan\u0131kl\u0131, sakl\u0131, korumal\u0131, g\u00fcvende, bekleyen, kalan; (pv.) yapmaya devam etmek",
         "mi": "matat\u016b, mau, haumaru, tatari, noho tonu; (pv.) mahi tonu",
-        "zh_hant": "\u6301\u4e45\u7684\u3001\u505c\u7559\u7684\u3001\u53d7\u4fdd\u8b77\u7684\u3001\u7b49\u5f85\u7684\u3001\u5b89\u5168\u7684\uff1b(pv.) \u7e7c\u7e8c\u3001\u6301\u7e8c\u3001\u4e00\u76f4"
+        "zh_hant": "\u6301\u4e45\u7684\u3001\u505c\u7559\u7684\u3001\u53d7\u4fdd\u8b77\u7684\u3001\u7b49\u5f85\u7684\u3001\u5b89\u5168\u7684\uff1b(pv.) \u7e7c\u7e8c\u3001\u6301\u7e8c\u3001\u4e00\u76f4",
+        "fi": "kest\u00e4v\u00e4, suojeltu, turvallinen, odottaa, oleskella; (pv.) jatkaa"
       }
     },
     "e": {
@@ -849,7 +888,8 @@
         "tr": "(nesneden \u00f6nce gelir)",
         "he": "(\u05dc\u05e4\u05e0\u05d9 \u05d4\u05de\u05d5\u05e9\u05d0 \u05d4\u05d9\u05e9\u05d9\u05e8 \u05e9\u05dc \u05d4\u05de\u05e9\u05e4\u05d8)",
         "mi": "(ki mua i te aronga torotika)",
-        "zh_hant": "\uff08\u7f6e\u65bc\u76f4\u63a5\u8cd3\u8a9e\u4e4b\u524d\uff09"
+        "zh_hant": "\uff08\u7f6e\u65bc\u76f4\u63a5\u8cd3\u8a9e\u4e4b\u524d\uff09",
+        "fi": "(ennen suoraa objektia)"
       }
     },
     "eki": {
@@ -910,7 +950,8 @@
         "fr": "(entre plusieurs sujets)",
         "tr": "(birden fazla \u00f6znenin aras\u0131na gelir) | ALT (bir pi ifadesi i\u00e7indeki niteleyicileri veya bir edat\u0131n nesnelerini koordine eder)",
         "mi": "(ki waenga i \u0113tahi tumu)",
-        "zh_hant": "\uff08\u7f6e\u65bc\u591a\u65bc\u4e00\u500b\u4e3b\u8a9e\u4e4b\u9593\uff09"
+        "zh_hant": "\uff08\u7f6e\u65bc\u591a\u65bc\u4e00\u500b\u4e3b\u8a9e\u4e4b\u9593\uff09",
+        "fi": "(subjektin v\u00e4liss\u00e4, kun niit\u00e4 on enemm\u00e4n kuin yksi)"
       }
     },
     "enko": {
@@ -1013,7 +1054,8 @@
         "fr": "march\u00e9, boutique, foire, magasin, commerce",
         "tr": "market, fuar, pazar, \u00e7ar\u015f\u0131, bakkal, takas, al\u0131\u015fveri\u015f",
         "mi": "he m\u0101kete, he toa, hoko",
-        "zh_hant": "\u5e02\u5834\u3001\u5546\u5834\u3001\u96c6\u5e02\u3001\u4ea4\u6613\u6703\u3001\u8cb7\u8ce3\u3001\u5546\u696d\u4ea4\u6613"
+        "zh_hant": "\u5e02\u5834\u3001\u5546\u5834\u3001\u96c6\u5e02\u3001\u4ea4\u6613\u6703\u3001\u8cb7\u8ce3\u3001\u5546\u696d\u4ea4\u6613",
+        "fi": "markkinat, kauppa, kaupank\u00e4ynti, messut, basaari, liiketoiminta"
       }
     },
     "ete": {
@@ -1138,7 +1180,9 @@
         "tl_l": "bagay, kaganapan, kababalaghan",
         "ro": "un obiect general, chestie, ceva",
         "tr": "\u015fey, olay, nesne, madde",
-        "mi": "he mea, he taonga, he mat\u016b"
+        "mi": "he mea, he taonga, he mat\u016b",
+        "zh_hant": "\u4e8b\u7269\u3001\u6771\u897f\u3001\u7269\u8cea\u3001\u73fe\u8c61",
+        "fi": "asia, ilmi\u00f6, esine, aine, materia"
       }
     },
     "ike": {
@@ -1177,7 +1221,9 @@
         "tl_l": "masama, negatibo; hindi mahalaga, walang kaugnayan | ALT masalimuot, kumplikado",
         "ro": "r\u0103u, negativ, non-esen\u021bial, irelevant | ALT complicat, complex",
         "tr": "k\u00f6t\u00fc, olumsuz; gereksiz, alakas\u0131z | ALT kar\u0131\u015f\u0131k, zor",
-        "mi": "kino; whai tikanga kore | ALT matatini"
+        "mi": "kino; whai tikanga kore | ALT matatini",
+        "zh_hant": "\u58de\u7684\u3001\u4e0d\u597d\u7684\u3001\u8ca0\u9762\u7684\uff1b\u4e0d\u5fc5\u8981\u7684\u3001\u4e0d\u76f8\u95dc\u7684 | ALT \u8907\u96dc\u7684",
+        "fi": "huono, paha, negatiivinen, ei-olennainen, merkiykset\u00f6n | ALT monimutkainen"
       }
     },
     "iki": {
@@ -1246,7 +1292,9 @@
         "tl_l": "kasangkapan, ipatupad, makina, kagamitan",
         "ro": "ma\u0219ina, aparat, scul\u0103, \u00eenplementare",
         "tr": "ara\u00e7, makine, cihaz",
-        "mi": "he taputapu, he utauta, he m\u012bhini"
+        "mi": "he taputapu, he utauta, he m\u012bhini",
+        "zh_hant": "\u5de5\u5177\u3001\u88dd\u7f6e\u3001\u6a5f\u5668\u3001\u5668\u5177",
+        "fi": "ty\u00f6v\u00e4line, toteuttaa, kone, laite"
       }
     },
     "ini": {
@@ -1314,7 +1362,9 @@
         "tl_l": "sentro, nilalaman, loob, pagitan; laman loob, tiyan",
         "ro": "centru, con\u021binut, \u00een\u0103untru, \u00eentre; organ internal, stomach",
         "tr": "orta, i\u00e7erik, i\u00e7, ara; i\u00e7 organ, mide",
-        "mi": "roto, waenganui; ng\u0101kau, puku"
+        "mi": "roto, waenganui; ng\u0101kau, puku",
+        "zh_hant": "\u4e2d\u9593\u3001\u4e2d\u5fc3\u3001\u88e1\u9762\u3001\u5167\u90e8\uff1b\u5167\u81df\u3001\u80c3",
+        "fi": "keskus, sis\u00e4lt\u00f6, sis\u00e4ll\u00e4, v\u00e4liss\u00e4; sis\u00e4elin, vatsa"
       }
     },
     "ipi": {
@@ -1446,7 +1496,9 @@
         "tl_l": "nakadidiri, kasuklam-suklam, malaswa, may sakit, nakakalason, hindi malinis",
         "ro": "sc\u00e2rbos, obscen, toxic, necurat",
         "tr": "i\u011fren\u00e7, tiksindirici, toksik, kirli",
-        "mi": "wetiweti, t\u0101oke, paru"
+        "mi": "wetiweti, t\u0101oke, paru",
+        "zh_hant": "\u8b93\u4eba\u5641\u5fc3\u7684\u3001\u4ee4\u4eba\u751f\u53ad\u7684\u3001\u6deb\u7a62\u7684\u3001\u6709\u6bd2\u7684\u3001\u9aaf\u9ad2\u7684\u3001\u6c61\u7a62\u7684\u3001\u4e0d\u885b\u751f\u7684",
+        "fi": "\u00e4ll\u00f6tt\u00e4v\u00e4, inhottava, sairas, myrkyllinen, ep\u00e4puhdas, ep\u00e4hygieeninen"
       }
     },
     "jaku": {
@@ -1577,7 +1629,9 @@
         "ro": "persoan\u0103, om, cineva",
         "tr": "insan, \u015fah\u0131s, kimse",
         "he": "\u05d1\u05df \u05d0\u05d3\u05dd, \u05d0\u05d9\u05e9, \u05de\u05d9\u05e9\u05d4\u05d5",
-        "mi": "he tangata"
+        "mi": "he tangata",
+        "zh_hant": "\u4eba\u3001\u4eba\u985e\u3001\u67d0\u4eba",
+        "fi": "ihminen, henkil\u00f6, joku"
       }
     },
     "jans": {
@@ -1721,7 +1775,9 @@
         "ro": "galben, galbenu\u0219",
         "tr": "sar\u0131, sar\u0131mt\u0131rak",
         "he": "\u05e6\u05d4\u05d5\u05d1, \u05e6\u05d4\u05d1\u05d4\u05d1",
-        "mi": "k\u014dwhai"
+        "mi": "k\u014dwhai",
+        "zh_hant": "\u9ec3\u8272\u7684\u3001\u984f\u8272\u504f\u9ec3\u7684",
+        "fi": "keltainen, kellert\u00e4v\u00e4"
       }
     },
     "jo": {
@@ -1760,7 +1816,9 @@
         "tl_l": "magkaroon, magdala, maglaman, humawak",
         "ro": "a avea, a ob\u021bine, a c\u0103ra",
         "tr": "sahip olmak, tutmak, i\u00e7ermek",
-        "mi": "mau, pupuri, kawe, hari"
+        "mi": "mau, pupuri, kawe, hari",
+        "zh_hant": "\u6709\u3001\u5e36\u6709\u3001\u542b\u6709\u3001\u5305\u542b\u3001\u6301\u6709",
+        "fi": "omistaa, kantaa, sis\u00e4lt\u00e4\u00e4, pit\u00e4\u00e4"
       }
     },
     "jonke": {
@@ -1894,7 +1952,9 @@
         "tl_l": "isda, hayop sa dagat, nilalang sa dagat",
         "ro": "pe\u0219te, animal marin",
         "tr": "bal\u0131k, deniz hayvan\u0131, deniz canl\u0131s\u0131",
-        "mi": "ika"
+        "mi": "ika",
+        "zh_hant": "\u9b5a\u3001\u6d77\u6d0b\u751f\u7269",
+        "fi": "kala, vesiel\u00e4in"
       }
     },
     "kalama": {
@@ -1931,7 +1991,9 @@
         "tl_l": "magtunog; bigkasin, bigkasin nang malakas",
         "ro": "a produce un sunet; recit\u0103; a scoate un sunet",
         "tr": "ses \u00e7\u0131karmak; anlatmak, s\u00f6ylemek",
-        "mi": "tangi, oro; k\u012b"
+        "mi": "tangi, oro; k\u012b",
+        "zh_hant": "\u767c\u51fa\u8072\u97f3\uff1b\u6717\u8aa6\u3001\u6717\u8b80",
+        "fi": "tuottaa \u00e4\u00e4nt\u00e4; lausua"
       }
     },
     "kalamARR": {
@@ -1988,7 +2050,9 @@
         "tl_l": "pagdating, kinabukasan, ipinatawag; (pv.) maging, magtagumpay sa",
         "ro": "sosire, venire, viitorul, chemat; (pv.) a deveni, a reu\u0219i",
         "tr": "gelmekte olan, gelen, varan, gelecek, \u00e7a\u011f\u0131r\u0131lan; (pv.) ...'e d\u00f6n\u00fc\u015fmek, becermek, ba\u015farmak",
-        "mi": "haere mai, muri"
+        "mi": "haere mai, muri",
+        "zh_hant": "\u5c07\u4f86\u7684\u3001\u4f86\u81e8\u7684\u3001\u672a\u4f86\u7684\uff1b(pv.) \u6210\u70ba\u3001\u80fd\u5920\u3001\u6210\u529f\uff08\u505a\u67d0\u4ef6\u4e8b\uff09",
+        "fi": "tuleva, saapuva, tulevaisuus; (pv.) tulla joksikin, onnistua"
       }
     },
     "kamalawala": {
@@ -2150,7 +2214,9 @@
         "tl_l": "halaman; damo, dahon",
         "ro": "plant\u0103, vegeta\u021bie, iarb\u0103, frunz\u0103",
         "tr": "bitki, ye\u015fillik; ot, yaprak, \u00e7imen",
-        "mi": "he tupu, he r\u0101kau, he amiami, he rau"
+        "mi": "he tupu, he r\u0101kau, he amiami, he rau",
+        "zh_hant": "\u690d\u7269\u3001\u8349\u6728\uff1b\u9999\u8349\u3001\u8449",
+        "fi": "kasvi, kasvillisuus; yrtti, lehti"
       }
     },
     "ke": {
@@ -2219,7 +2285,9 @@
         "pt": "conseguir, poder; poss\u00edvel",
         "tl_l": "magawa, payagan, puwede; maaari, posible",
         "tr": "yapabilmek, yapma yetkisi olmak, -abilir, -ebilir; imkan, imkanl\u0131",
-        "mi": "taea; \u0101hei"
+        "mi": "taea; \u0101hei",
+        "zh_hant": "\u53ef\u4ee5\u3001\u80fd\u5920\uff1b\u505a\u5f97\u5230\u7684\u3001\u53ef\u80fd\u7684",
+        "fi": "voida, kyet\u00e4, sallia, mahdollinen"
       }
     },
     "kepeken": {
@@ -2256,7 +2324,9 @@
         "pt": "usar; com, atrav\u00e9s de",
         "tl_l": "gamitin, gamit, sa pamamagitan ng",
         "tr": "kullanmak, ile, arac\u0131l\u0131\u011f\u0131yla",
-        "mi": "whakamahi, ki, n\u0101, m\u0101"
+        "mi": "whakamahi, ki, n\u0101, m\u0101",
+        "zh_hant": "\u4f7f\u7528\u3001\u904b\u7528\u3001\u901a\u904e",
+        "fi": "k\u00e4ytt\u00e4\u00e4, k\u00e4ytt\u00e4en, hy\u00f6dynt\u00e4\u00e4"
       }
     },
     "kese": {
@@ -2424,7 +2494,9 @@
         "tl_l": "prutas, gulay, kabute",
         "ro": "fruct, legum\u0103, ciuperci",
         "tr": "meyve, sebze, mantar",
-        "mi": "he hua"
+        "mi": "he hua",
+        "zh_hant": "\u6c34\u679c\u3001\u852c\u83dc\u3001\u8611\u83c7",
+        "fi": "hedelm\u00e4, vihannes, sieni"
       }
     },
     "kin": {
@@ -2567,7 +2639,9 @@
         "pt": "objeto duro, metal, rocha, pedra",
         "tl_l": "matigas na bagay, metal, bato",
         "tr": "sert \u015fey, metal, ta\u015f, kaya",
-        "mi": "he mea m\u0101r\u014d, he konganuku, he toka, he k\u014dwhatu"
+        "mi": "he mea m\u0101r\u014d, he konganuku, he toka, he k\u014dwhatu",
+        "zh_hant": "\u5805\u786c\u7684\u7269\u9ad4\u3001\u91d1\u5c6c\u3001\u77f3\u982d\u3001\u5ca9\u77f3",
+        "fi": "kova esine, metalli, kivi"
       }
     },
     "ko": {
@@ -2605,7 +2679,9 @@
         "pt": "argila, forma pegajosa, massa, semi-s\u00f3lida, pasta, p\u00f3",
         "tl_l": "luwad, nakakapit na anyo, masa, semi-solid, dikit, pulbos",
         "tr": "kil, yap\u0131\u015fkan, hamur, yar\u0131kat\u0131, macun, toz",
-        "mi": "he uku, he mea h\u0101piripiri, he par\u0101oa pokepoke, he kuk\u016b, he k\u0101pia, he nehu, he paura"
+        "mi": "he uku, he mea h\u0101piripiri, he par\u0101oa pokepoke, he kuk\u016b, he k\u0101pia, he nehu, he paura",
+        "zh_hant": "\u9ecf\u571f\u3001\u534a\u56fa\u9ad4\u3001\u91ac\u3001\u7c89\u672b",
+        "fi": "savi, tarttuva muoto, taikina, puolikiinte\u00e4, tahna, jauhe"
       }
     },
     "kokosila": {
@@ -2674,7 +2750,9 @@
         "it": "aria, respiro; essenza, spirito; realt\u00e0 nascosta, agente invisibile",
         "pt": "ar, respira\u00e7\u00e3o; ess\u00eancia, esp\u00edrito; realidade oculta, agente invis\u00edvel",
         "tr": "hava, nefes, \u00f6z, anlam, ruh; g\u00f6r\u00fcnmez",
-        "mi": "he hau, he h\u0101; te mauri, te wairua; te w\u0101hi ngaro"
+        "mi": "he hau, he h\u0101; te mauri, te wairua; te w\u0101hi ngaro",
+        "zh_hant": "\u7a7a\u6c23\u3001\u6c23\u606f\uff1b\u7cbe\u83ef\u3001\u672c\u8cea\u3001\u7cbe\u795e\uff1b\u96b1\u85cf\u7684\u73fe\u5be6\u3001\u4e0d\u53ef\u898b\u7684\u63a8\u52d5\u8005",
+        "fi": "ilma, hengitys; olemus, henki; n\u00e4kym\u00e4t\u00f6n tekij\u00e4"
       }
     },
     "konsi": {
@@ -2796,7 +2874,9 @@
         "pt": "cheio de cor, pigmentado, pintado | ALT de ou relacionado \u00e0 comunidade LGBT+",
         "tl_l": "makulay, may kulay, pininturahan | ALT ng o nauugnay sa LGBT+ na komunidad",
         "tr": "rengarenk, pigmentli, boyal\u0131 | ALT LGBT+ toplumunun veya LGBT+ toplumuyla alakal\u0131",
-        "mi": "he tae, he peita | ALT e p\u0101 ana ki te hapori LGBT+"
+        "mi": "he tae, he peita | ALT e p\u0101 ana ki te hapori LGBT+",
+        "zh_hant": "\u984f\u8272\u9bae\u8277\u7684\u3001\u4e94\u5f69\u7e7d\u7d1b\u7684\u3001\u5929\u7136\u8272\u7684\u3001\u4e0a\u4e86\u6cb9\u6f06\u7684 | ALT \u8207LGBT+\u793e\u7fa4\u6709\u95dc\u7684",
+        "fi": "v\u00e4rik\u00e4s, pigmenttinen, maalattu | ALT LGBT+ liittyv\u00e4"
       }
     },
     "kulijo": {
@@ -2890,7 +2970,9 @@
         "tl_l": "komunidad, kumpanya, grupo, bansa, lipunan, tribo",
         "ro": "comunitate, grup, na\u021biune, companie, societate, trib",
         "tr": "topluluk, birlik, grup, ulus, toplum",
-        "mi": "he hapori, he kamapene, he r\u014dp\u016b, he iwi, he hap\u016b"
+        "mi": "he hapori, he kamapene, he r\u014dp\u016b, he iwi, he hap\u016b",
+        "zh_hant": "\u793e\u7fa4\u3001\u793e\u5340\u3001\u96c6\u9ad4\u3001\u7fa4\u9ad4\u3001\u570b\u5bb6\u3001\u793e\u6703\u3001\u90e8\u843d",
+        "fi": "ryhm\u00e4, yhteis\u00f6, seura, kansakunta, yhteiskunta, heimo"
       }
     },
     "kuntu": {
@@ -2956,7 +3038,9 @@
         "pt": "orelha; ouvir, escutar; prestar aten\u00e7\u00e3o, obedecer",
         "tl_l": "tainga; marinig, makinig; pansinin, sundin",
         "tr": "kulak; dinlemek, i\u015fitmek; dikkat vermek, itaat etmek",
-        "mi": "he taringa; rongo, whakarongo; aro"
+        "mi": "he taringa; rongo, whakarongo; aro",
+        "zh_hant": "\u8033\u6735\uff1b\u807d\u898b\u3001\u8046\u807d\uff1b\u6ce8\u610f\u3001\u670d\u5f9e\u3001\u9806\u5f9e",
+        "fi": "korva; kuulla, kuunnella; totella"
       }
     },
     "kutopoma": {
@@ -3007,7 +3091,9 @@
         "pt": "(entre a frase de contexto e a frase principal)",
         "tl_l": "(sa pagitan ng pariralang konteksto at ng pangunahing pangungusap)",
         "tr": "(durum belirtici ve ana c\u00fcmlenin aras\u0131na gelir)",
-        "mi": "(ki waenga i te k\u012banga horopaki me te rerenga k\u014drero matua)"
+        "mi": "(ki waenga i te k\u012banga horopaki me te rerenga k\u014drero matua)",
+        "zh_hant": "\uff08\u7f6e\u65bc\u8a9e\u5883\u77ed\u8a9e\u8207\u4e3b\u53e5\u4e4b\u9593\uff09",
+        "fi": "(kontekstilauseen ja p\u00e4\u00e4lauseen v\u00e4liss\u00e4)"
       }
     },
     "lanpan": {
@@ -3079,7 +3165,9 @@
         "tl_l": "natutulog, nagpapahinga",
         "ro": "somn, odihn\u0103",
         "tr": "dinlenmek, uyumak",
-        "mi": "moe, okioki"
+        "mi": "moe, okioki",
+        "zh_hant": "\u7761\u89ba\u3001\u7761\u7720\u3001\u4f11\u606f",
+        "fi": "nukkuva, lep\u00e4\u00e4v\u00e4"
       }
     },
     "laso": {
@@ -3116,7 +3204,9 @@
         "pt": "azul, verde",
         "tl_l": "bughaw, luntian, berde",
         "tr": "mavi, ye\u015fil",
-        "mi": "kikorangi, kahurangi, k\u0101k\u0101riki"
+        "mi": "kikorangi, kahurangi, k\u0101k\u0101riki",
+        "zh_hant": "\u85cd\u8272\u7684\u3001\u7da0\u8272\u7684",
+        "fi": "sininen, vihre\u00e4"
       }
     },
     "lawa": {
@@ -3153,7 +3243,9 @@
         "pt": "cabe\u00e7a, mente; controlar, direto, guiar, conduzir, possuir, planejar, regular, governar",
         "tl_l": "ulo, isip; kontrolin, idirekta, gabayan, pamunuan, pagmamay-ari, magplano, umayos, mamuno",
         "tr": "kafa, zihin; kontrol etmek, denetlemek, yol g\u00f6stermek, planlamak, ayarlamak, kural",
-        "mi": "he upoko, he hinengaro; whakahaere, tohu, whakamahere, rangatira"
+        "mi": "he upoko, he hinengaro; whakahaere, tohu, whakamahere, rangatira",
+        "zh_hant": "\u982d\u3001\u982d\u8166\uff1b\u63a7\u5236\u3001\u6307\u63ee\u3001\u9818\u5c0e\u3001\u64c1\u6709\u3001\u8a08\u5283\u3001\u7ba1\u7406\u3001\u7d71\u6cbb",
+        "fi": "p\u00e4\u00e4, mieli; hallita, ohjata, johtaa, omistaa, suunnitella, s\u00e4\u00e4dell\u00e4"
       }
     },
     "leko": {
@@ -3227,7 +3319,9 @@
         "pt": "pano, roupa, tecido, t\u00eaxtil; cobertura, camada de privacidade",
         "tl_l": "tela, damit; takip, patong ng pagsasarinlan",
         "tr": "kuma\u015f, giysi, tekstil; k\u0131l\u0131f, gizlilik katman\u0131",
-        "mi": "he k\u0101kahu, he weru, he papanga; he uwhi, he matatapu"
+        "mi": "he k\u0101kahu, he weru, he papanga; he uwhi, he matatapu",
+        "zh_hant": "\u8863\u670d\u3001\u5e03\u6599\u3001\u7d21\u7e54\u54c1\uff1b\u8986\u84cb\u7269\u3001\u63a9\u853d\u7269",
+        "fi": "kangas, vaate, tekstiili; peite, yksityisyyden kerros"
       }
     },
     "lenke": {
@@ -3294,7 +3388,9 @@
         "tl_l": "malamig; hilaw",
         "tr": "so\u011fuk, serin; \u00e7i\u011f",
         "he": "\u05e7\u05e8, \u05e7\u05e8\u05d9\u05e8; \u05e0\u05d0, \u05dc\u05d0 \u05de\u05d1\u05d5\u05e9\u05dc",
-        "mi": "makariri, m\u0101tao; mata, ota"
+        "mi": "makariri, m\u0101tao; mata, ota",
+        "zh_hant": "\u51b7\u7684\u3001\u6dbc\u7684\uff1b\u751f\u7684\u3001\u6c92\u716e\u719f\u7684",
+        "fi": "kylm\u00e4, viile\u00e4; kypsent\u00e4m\u00e4t\u00f6n, raaka"
       }
     },
     "li": {
@@ -3325,7 +3421,9 @@
         "pt": "(entre qualquer sujeito exceto s\u00f3 mi ou s\u00f3 sina e o seu verbo; tamb\u00e9m para introduzir um novo verbo ao mesmo sujeito)",
         "ro": "(\u00eentre orice subiec cu excep\u021blie mi singiru \u0219i sina singur \u0219i verburile lor; se poate folosi \u0219i pentru a \u00eentroduce un verb nou pentru acela\u0219i subiect)",
         "tr": "(yaln\u0131z mi veya yaln\u0131z sina d\u0131\u015f\u0131nda her \u00f6zne ve sonras\u0131nda gelen fiil aras\u0131na gelir; ayr\u0131ca ayn\u0131 \u00f6zne i\u00e7in farkl\u0131 bir fiil uygularken fiilin ba\u015f\u0131nda gelir)",
-        "mi": "(ki waenga i te tumu (engari, ehara m\u014d t\u0113tahi \u201cmi\u201d anake, m\u014d t\u0113tahi \u201csina\u201d anake r\u0101nei) me te t\u016bmahi; whaihoki, e whakamahia ana m\u014d te t\u016bmahi hou i te rerenga k\u014drero, e t\u016b k\u0113 ai t\u0113tahi t\u016bmahi)"
+        "mi": "(ki waenga i te tumu (engari, ehara m\u014d t\u0113tahi \u201cmi\u201d anake, m\u014d t\u0113tahi \u201csina\u201d anake r\u0101nei) me te t\u016bmahi; whaihoki, e whakamahia ana m\u014d te t\u016bmahi hou i te rerenga k\u014drero, e t\u016b k\u0113 ai t\u0113tahi t\u016bmahi)",
+        "zh_hant": "\uff08\u7f6e\u65bc\u4efb\u4f55\u4e3b\u8a9e\u7684\u52d5\u8a5e\u4e4b\u9593\uff0c\u50c5\u662fmi\u6216\u50c5\u662fsina\u9664\u5916\uff1b\u4e5f\u7528\u65bc\u5728\u540c\u4e00\u500b\u4e3b\u8a9e\u4e0a\u5f15\u5165\u65b0\u7684\u52d5\u8a5e\uff09",
+        "fi": "(subjektin (paitsi mi, sina) ja verbin v\u00e4lill\u00e4; esittelee uuden verbin samalle subjektille)"
       }
     },
     "lijokuku": {
@@ -3403,7 +3501,9 @@
         "tl_l": "maliit, maikli; kakaunti; konti; bata pa",
         "ro": "mic, un pic, pu\u021bin, t\u00e2n\u0103r",
         "tr": "k\u00fc\u00e7\u00fck, k\u0131sa; az; gen\u00e7",
-        "mi": "iti, paku, poto; rangatahi, he punua"
+        "mi": "iti, paku, poto; rangatahi, he punua",
+        "zh_hant": "\u5c0f\u7684\u3001\u77ee\u7684\uff1b\u5f88\u5c11\u3001\u4e0d\u591a\uff1b\u5c11\u8a31\u3001\u4e00\u9ede\uff1b\u5e74\u8f15\u7684\u3001\u5e74\u5e7c\u7684",
+        "fi": "pieni, lyhyt; muutama; v\u00e4h\u00e4n, hieman; nuori"
       }
     },
     "linja": {
@@ -3440,7 +3540,8 @@
         "tl_l": "mahaba at nababaluktot na bagay; kurdon, buhok, lubid, sinulid | ALT linya, koneksyon",
         "ro": "o chestie lung\u0103 si flexibil\u0103, cord, p\u0103r. a\u021b\u0103 | ALT linie, conec\u021bie",
         "tr": "uzun ve esnek \u015fey; tel, sa\u00e7, ip, iplik | ALT \u00e7izgi, do\u011fru, ba\u011flant\u0131",
-        "mi": "he mea roa, ng\u0101wari hoki; he taura, he makawe, he huru, he aho | ALT he raina, he hononga"
+        "mi": "he mea roa, ng\u0101wari hoki; he taura, he makawe, he huru, he aho | ALT he raina, he hononga",
+        "fi": "pitk\u00e4 ja joustava asia; naru, hius, k\u00f6ysi, lanka | ALT linja, yhteys"
       }
     },
     "linluwi": {
@@ -3507,7 +3608,9 @@
         "tl_l": "patag na bagay; aklat, dokumento, kard, papel, talaan, pahinarya",
         "ro": "obiect plat, carte, document, card, h\u00e2rtie, record, website",
         "tr": "d\u00fcz \u015fey; kitap, belge, kart, ka\u011f\u0131t, sicil, web sitesi",
-        "mi": "he mea papatahi; he pukapuka, he k\u0101ri, he pepa, he rekoata, he pae tukutuku"
+        "mi": "he mea papatahi; he pukapuka, he k\u0101ri, he pepa, he rekoata, he pae tukutuku",
+        "zh_hant": "\u5e73\u7684\u7269\u9ad4\uff1b\u66f8\u3001\u6587\u4ef6\u3001\u5361\u7247\u3001\u7d19\u5f35\u3001\u8a18\u9304\u3001\u7db2\u7ad9",
+        "fi": "tasainen esine; kirja, asiakirja, kortti, paperi, levy, lippu, verkkosivusto"
       }
     },
     "lo": {
@@ -3569,7 +3672,9 @@
         "ro": "ro\u0219u, ro\u0219i\u0219or",
         "tr": "k\u0131rm\u0131z\u0131, k\u0131rm\u0131z\u0131mt\u0131rak",
         "he": "\u05d0\u05d3\u05d5\u05dd, \u05d0\u05d3\u05de\u05d3\u05dd",
-        "mi": "whero"
+        "mi": "whero",
+        "zh_hant": "\u7d05\u8272\u7684\u3001\u984f\u8272\u504f\u7d05\u7684",
+        "fi": "punainen, punertava"
       }
     },
     "loka": {
@@ -3693,7 +3798,9 @@
         "tl_l": "matatagpuan sa, kasalukuyan sa, totoo, tunay, umiiral | ALT (nagpapatibay na tugon)",
         "ro": "locat la, prezent la, real, adev\u0103rat, exist\u00e2nd | ALT ( r\u0103spuns afirmativ)",
         "tr": "...'da, ...'de, ger\u00e7ek, do\u011fru, var | ALT (olumlu cevap)",
-        "mi": "kei, i, t\u016bturu, pono | ALT (he whakautu whakaae)"
+        "mi": "kei, i, t\u016bturu, pono | ALT (he whakautu whakaae)",
+        "zh_hant": "\u5728\u3001\u4f4d\u65bc\u3001\u771f\u5be6\u7684\u3001\u771f\u6b63\u7684\u3001\u5b58\u5728\u7684 | ALT \uff08\u80af\u5b9a\u56de\u7b54\uff09",
+        "fi": "sijaita, paikalla, todellinen, tosi, olemassaoleva | ALT (my\u00f6nt\u00e4v\u00e4 vastaus)"
       }
     },
     "lu": {
@@ -3755,7 +3862,9 @@
         "tl_l": "braso, kamay, pandama; lima | ALT hawakan/pakiramdam pisikal, makipag-ugnayan, pindutin",
         "ro": "bra\u021b, m\u00e2n\u0103, organ tactil, cinci | ALT a atinge/a sim\u021bii fizical, \u00eenteractiune, a ap\u0103sa",
         "tr": "el, kol, dokunmayla ilgili organ; be\u015f | ALT fiziksel olarak ellemek/hissetmek, etkile\u015fmek, basmak",
-        "mi": "he ringa; rima | ALT p\u0101, p\u0101hekoheko, t\u0101"
+        "mi": "he ringa; rima | ALT p\u0101, p\u0101hekoheko, t\u0101",
+        "zh_hant": "\u624b\u3001\u624b\u81c2\uff0c\u89f8\u89ba\u5668\u5b98\uff1b\u4e94 | ALT \u78b0\u3001\u89f8\u6478\u3001\u4e92\u52d5\u3001\u6309\u3001\u58d3",
+        "fi": "k\u00e4si, k\u00e4sivarsi, tuntoelin; viisi | ALT tuntea fyysisesti, vuorovaikuttaa, painaa"
       }
     },
     "lukin": {
@@ -3796,7 +3905,9 @@
         "tl_l": "mata; tingnan, suriin, pagmasdan, basahin, panoorin; hanapin; (pv.) subukan",
         "ro": "ochi, a te uita, a vedea, a examina, a observa, a citi, a te uita pentru, a c\u0103uta, (pv.) a \u00eencerca",
         "tr": "g\u00f6z; ...'e bakmak, g\u00f6rmek, incelemek, g\u00f6zlemlemek, okumak, izlemek; aramak; (pv.) denemek",
-        "mi": "he karu; titiro, kite, m\u0101taki, whakat\u0101tare, p\u0101nui; kimi, rapu; (pv.) whakam\u0101tautau"
+        "mi": "he karu; titiro, kite, m\u0101taki, whakat\u0101tare, p\u0101nui; kimi, rapu; (pv.) whakam\u0101tautau",
+        "zh_hant": "\u773c\u775b\uff1b\u770b\u898b\u3001\u89c0\u5bdf\u3001\u6aa2\u67e5\u3001\u6ce8\u8996\u3001\u95b1\u8b80\uff1b\u641c\u5c0b\uff0c\u5c0b\u6c42\uff1b(pv.) \u5617\u8a66\u3001\u8a66\u5716",
+        "fi": "silm\u00e4; katsoa, n\u00e4hd\u00e4, tutkia, tarkkailla, lukea, katsella; etsi\u00e4; (pv.) yritt\u00e4\u00e4"
       }
     },
     "lupa": {
@@ -3833,7 +3944,9 @@
         "tl_l": "pinto, butas, pasuk\u00e1n, durungawan",
         "ro": "u\u0219\u0103, gaur\u0103, orificiu, geam",
         "tr": "kap\u0131, delik, pencere",
-        "mi": "he k\u016bwaha, he waha, he rua, he ana, he matapihi"
+        "mi": "he k\u016bwaha, he waha, he rua, he ana, he matapihi",
+        "zh_hant": "\u9580\u3001\u6d1e\u3001\u5b54\u3001\u5751\u3001\u7a74\u3001\u7a97",
+        "fi": "ovi, reik\u00e4, aukko, ikkuna"
       }
     },
     "ma": {
@@ -3869,7 +3982,9 @@
         "tl_l": "lupain, lupa; sa labas, daigdig; bansa, teritoryo; lupa, dumi",
         "ro": "p\u0103m\u00e2ntul, teren; afar\u0103, lumea; \u021bar\u0103, teritor; sol",
         "tr": "d\u00fcnya, yer; a\u00e7\u0131k hava; \u00fclke, arazi; toprak",
-        "mi": "he whenua; he ao; he one"
+        "mi": "he whenua; he ao; he one",
+        "zh_hant": "\u571f\u3001\u5730\uff1b\u91ce\u5916\u3001\u6236\u5916\u74b0\u5883\u3001\u4e16\u754c\uff1b\u570b\u5bb6\u3001\u9818\u571f\u3001\u570b\u571f\uff1b\u571f\u58e4",
+        "fi": "maa; ulkona, maailma; valtio, alue; maaper\u00e4"
       }
     },
     "majuna": {
@@ -3941,7 +4056,9 @@
         "tl_l": "magulang, ninuno; tagalalang, tagalikha; tagapag-alaga, tagapagtaguyod",
         "ro": "p\u0103rinte, ancestor, creator; \u00eengrijitor, sus\u021bin\u0103tor",
         "tr": "veli, anne/baba, ata; yap\u0131mc\u0131, yaratan kimse; bak\u0131c\u0131",
-        "mi": "he matua, he tupuna; he kaihanga; he kaitiaki"
+        "mi": "he matua, he tupuna; he kaihanga; he kaitiaki",
+        "zh_hant": "\u7236\u89aa\u3001\u6bcd\u89aa\u3001\u7956\u5148\uff1b\u5275\u9020\u8005\u3001\u5275\u4f5c\u8005\u3001\u767c\u660e\u8005\uff1b\u76e3\u8b77\u4eba\u3001\u8b77\u7406\u4eba\u54e1",
+        "fi": "vanhempi, esi-is\u00e4; luoja, alullepanija; huoltaja, yll\u00e4pit\u00e4j\u00e4"
       }
     },
     "mani": {
@@ -3977,7 +4094,9 @@
         "tl_l": "pera, salapi, ipon, kayamanan; malaking alagang hayop",
         "ro": "bani, cash, economii, avere; un animal domesticat mare",
         "tr": "para, nakit, birikim, varl\u0131k; b\u00fcy\u00fck evcille\u015ftirilmi\u015f hayvan",
-        "mi": "he moni, he ukauka, he rawa; he kararehe rata"
+        "mi": "he moni, he ukauka, he rawa; he kararehe rata",
+        "zh_hant": "\u9322\u3001\u73fe\u91d1\u3001\u5132\u84c4\u3001\u8ca1\u5bcc\uff1b\u5927\u578b\u7272\u755c",
+        "fi": "raha, k\u00e4teinen, s\u00e4\u00e4st\u00f6t, varallisuus; suuri kotiel\u00e4in"
       }
     },
     "me": {
@@ -4032,7 +4151,9 @@
         "tl_l": "babae, pambabaeng tao; maybahay",
         "ro": "femeie, persoan\u0103 feminin\u0103, so\u021bie",
         "tr": "kad\u0131n, di\u015fi; (kocan\u0131n) e\u015f",
-        "mi": "he wahine"
+        "mi": "he wahine",
+        "zh_hant": "\u5973\u4eba\u3001\u5973\u6027\uff1b\u59bb\u5b50",
+        "fi": "nainen, feminiininen henkil\u00f6; vaimo"
       }
     },
     "melome": {
@@ -4137,7 +4258,9 @@
         "ro": "eu, noi",
         "tr": "ben, biz",
         "he": "\u05d0\u05e0\u05d9, \u05d0\u05e0\u05d7\u05e0\u05d5",
-        "mi": "ahau, t\u0101ua, t\u0101tou, m\u0101ua, m\u0101tou"
+        "mi": "ahau, t\u0101ua, t\u0101tou, m\u0101ua, m\u0101tou",
+        "zh_hant": "\u6211\u3001\u6211\u5011",
+        "fi": "min\u00e4, me"
       }
     },
     "mije": {
@@ -4174,7 +4297,9 @@
         "tl_l": "lalaki, panlalaking tao; bana",
         "ro": "b\u0103rbat, persoan\u0103 masculin\u0103, so\u021b",
         "he": "\u05d2\u05d1\u05e8, \u05d6\u05db\u05e8; \u05d1\u05e2\u05dc",
-        "mi": "he t\u0101ne"
+        "mi": "he t\u0101ne",
+        "zh_hant": "\u7537\u4eba\u3001\u7537\u6027\uff1b\u4e08\u592b",
+        "fi": "mies, maskuliininen henkil\u00f6, aviomies"
       }
     },
     "mijomi": {
@@ -4309,7 +4434,9 @@
         "pt": "comer, beber, consumir, engolir, ingerir",
         "tl_l": "kumain, uminom, ubusin, lunukin",
         "ro": "a m\u00e2nca, beia, consuma, \u00eenghi\u021bi, \u00eengesta",
-        "mi": "kai"
+        "mi": "kai",
+        "zh_hant": "\u5403\u3001\u559d\u3001\u9032\u98df\u3001\u541e\u4e0b\u3001\u54bd\u4e0b",
+        "fi": "sy\u00f6d\u00e4, juoda, niell\u00e4"
       }
     },
     "moli": {
@@ -4346,7 +4473,9 @@
         "tl_l": "patay, namamatay",
         "ro": "mort, murind",
         "tr": "\u00f6l\u00fc",
-        "mi": "mate"
+        "mi": "mate",
+        "zh_hant": "\u6b7b\u7684\u3001\u53bb\u4e16\u7684",
+        "fi": "kuollut, kuoleva"
       }
     },
     "molusa": {
@@ -4402,7 +4531,9 @@
         "pt": "atr\u00e1s, detr\u00e1s, traseira",
         "tl_l": "likod",
         "ro": "spate, \u00een spate",
-        "mi": "muri"
+        "mi": "muri",
+        "zh_hant": "\u5f8c\u9762\u3001\u5f8c\u65b9\u3001\u5f8c\u90e8",
+        "fi": "takana, takapuolella"
       }
     },
     "monsuta": {
@@ -4476,7 +4607,9 @@
         "it": "(rumore o comunicazione animale) | ALT (vocalizzazione non verbale)",
         "pt": "(ru\u00eddo animal ou comunica\u00e7\u00e3o) | ALT (vocaliza\u00e7\u00e3o sem fala)",
         "ro": "(sunet de animal sau comunica\u021bie) | (vocalizare non verbal\u0103)",
-        "mi": "(te tangi a ng\u0101 kararehe) | ALT (te tangi a te tangata)"
+        "mi": "(te tangi a ng\u0101 kararehe) | ALT (te tangi a te tangata)",
+        "zh_hant": "\uff08\u52d5\u7269\u8072\u97f3\u6216\u4ea4\u969b\uff09 | ALT \uff08\u975e\u4eba\u985e\u8072\u97f3\uff09",
+        "fi": "(el\u00e4imen \u00e4\u00e4ni tai viestint\u00e4) | ALT (\u00e4\u00e4ntely, joka ei ole puhetta)"
       }
     },
     "mulapisu": {
@@ -4548,7 +4681,9 @@
         "it": "luna, corpo celeste, stella | ALT bagliore, luce incandescente, luce nel buio",
         "pt": "lua, objeto do c\u00e9u noturno, estrela | ALT brilho, luz brilhante, luz no escuro",
         "tl_l": "buwan, bagay sa gabing kalangitan, bituin | ALT kinang, kumikinang na liwanag, liwanag sa dilim",
-        "mi": "he marama, he mea i te rangi i te p\u014d, he whet\u016b | ALT huru, he rama"
+        "mi": "he marama, he mea i te rangi i te p\u014d, he whet\u016b | ALT huru, he rama",
+        "zh_hant": "\u6708\u4eae\u3001\u6708\u7403\u3001\u5728\u591c\u7a7a\u88e1\u7684\u7269\u9ad4\u3001\u661f\u3001\u6046\u661f | ALT \u6697\u6de1\u7684\u5149\u3001\u9583\u8000\u7684\u5149\u3001\u5728\u9ed1\u6697\u88e1\u7684\u5149",
+        "fi": "kuu, jokin asia y\u00f6taivaalla, t\u00e4hti | ALT hehku, hehkuva valo, valo pime\u00e4ss\u00e4"
       }
     },
     "musi": {
@@ -4581,7 +4716,9 @@
         "de": "k\u00fcnstlerisch, unterhaltsam, frivol, spielerisch, am\u00fcsant; Kunst, Spa\u00df, Musik, Spiel; spielen",
         "it": "artistico, divertente, frivolo, giocoso, ricreativo",
         "pt": "art\u00edstico, divertido, fr\u00edvolo, l\u00fadico, lazer",
-        "mi": "he toi, ngahau, t\u0101karo"
+        "mi": "he toi, ngahau, t\u0101karo",
+        "zh_hant": "\u85dd\u8853\u7684\u3001\u6709\u8da3\u7684\u3001\u5a1b\u6a02\u7684\u3001\u8f15\u6d6e\u7684\u3001\u4f11\u9591\u7684",
+        "fi": "taiteellinen, viihdytt\u00e4v\u00e4, kevytmielinen, leikkis\u00e4, virkistys"
       }
     },
     "mute": {
@@ -4615,7 +4752,9 @@
         "de": "viele, einige, mehrere, sehr, mehr; Quantit\u00e4t, Menge | ALT drei (oder mehr); 20",
         "it": "molti, tanto, di pi\u00f9, assai, parecchi, moltissimo; quantit\u00e0 | ALT tre (o pi\u00f9), 20",
         "pt": "muitos, bastante, mais, muito de, v\u00e1rios; quantidade | ALT tr\u00eas (ou mais), 20",
-        "mi": "maha, tini, nui, rahi, rawa | ALT toru (nui ake r\u0101nei), 20"
+        "mi": "maha, tini, nui, rahi, rawa | ALT toru (nui ake r\u0101nei), 20",
+        "zh_hant": "\u591a\u3001\u8a31\u591a\u3001\u5927\u91cf\u7684\u3001\u975e\u5e38\u3001\u5341\u5206\uff1b\u6578\u91cf | ALT \u4e09\uff08\u6216\u4ee5\u4e0a\uff09\u300120",
+        "fi": "monta, paljon, enemm\u00e4n, useita, eritt\u00e4in; m\u00e4\u00e4r\u00e4 | ALT kolme (tai enemm\u00e4n), 20"
       }
     },
     "n": {
@@ -4714,7 +4853,9 @@
         "de": "-te (Ordinalzahl) | Zahl",
         "it": "(numero ordinale); numeri",
         "pt": "-\u00ba (n\u00famero ordinal); n\u00fameros",
-        "mi": "tua- (he tau raupapa); he tau"
+        "mi": "tua- (he tau raupapa); he tau",
+        "zh_hant": "\u7b2c\uff08\u7528\u65bc\u69cb\u6210\u5e8f\u6578\uff09\uff1b\u6578\u5b57",
+        "fi": "(j\u00e4rjestysluvuissa); numerot, luvut"
       }
     },
     "nasa": {
@@ -4747,7 +4888,9 @@
         "de": "ungew\u00f6hnlich, merkw\u00fcrdig, seltsam, durcheinander; albern; betrunken, berauscht",
         "it": "insolito, strano; sciocco; ubriaco, intossicato",
         "pt": "incomum, estranho; bobo; b\u00eabado, embriagado",
-        "mi": "whanok\u0113, rerek\u0113; heahea; haurangi, p\u014drewharewha"
+        "mi": "whanok\u0113, rerek\u0113; heahea; haurangi, p\u014drewharewha",
+        "zh_hant": "\u5947\u602a\u7684\u3001\u4e0d\u5c0b\u5e38\u7684\uff1b\u611a\u8822\u7684\u3001\u50bb\u7684\uff1b\u559d\u9189\u7684",
+        "fi": "ep\u00e4tavallinen, outo, h\u00f6ps\u00f6, humaltunut"
       }
     },
     "nasin": {
@@ -4780,7 +4923,9 @@
         "de": "Weg, Br\u00e4uche, Lehre, Doktrin, Methode, Pfad, Stra\u00dfe",
         "it": "modo, abitudine, dottrina, metodo, percorso, strada, via",
         "pt": "caminho, customizado, doutrina, m\u00e9todo, caminho, estrada",
-        "mi": "he ara, he tikanga, he whakapono, he h\u0101tepe, he huarahi"
+        "mi": "he ara, he tikanga, he whakapono, he h\u0101tepe, he huarahi",
+        "zh_hant": "\u65b9\u6cd5\u3001\u65b9\u5f0f\u3001\u8fa6\u6cd5\u3001\u5b78\u8aaa\u3001\u4fe1\u689d\u3001\u9053\u8def\u3001\u5c0f\u5f91",
+        "fi": "tapa, oppi, menetelm\u00e4, polku, tie"
       }
     },
     "natu": {
@@ -4892,7 +5037,9 @@
         "de": "Erhebung, Knopf, H\u00fcgel, Hubbel, Berg, Nase",
         "it": "bozzo, pulsante, collina, montagna, naso, protuberanza",
         "pt": "ressalto, bot\u00e3o, colina, montanha, nariz, protuber\u00e2ncia",
-        "mi": "he puku, he p\u0101tene, he puke, he maunga, he ihu"
+        "mi": "he puku, he p\u0101tene, he puke, he maunga, he ihu",
+        "zh_hant": "\u51f8\u584a\u3001\u7d10\u6263\u3001\u6309\u9215\u3001\u5c71\u4e18\u3001\u5c71\u5cb3\u3001\u9f3b\u5b50\u3001\u9686\u8d77\u7684\u90e8\u5206",
+        "fi": "kohouma, nappi, m\u00e4ki, vuori, nen\u00e4, ulkonema"
       }
     },
     "ni": {
@@ -4928,7 +5075,9 @@
         "it": "che, questo",
         "pt": "este, esse, aquele; isto, isso, aquilo",
         "he": "\u05d6\u05d4, \u05d6\u05d0\u05ea, \u05d0\u05dc\u05d4",
-        "mi": "nei, n\u0101, r\u0101, t\u0113nei, t\u0113n\u0101, t\u0113r\u0101"
+        "mi": "nei, n\u0101, r\u0101, t\u0113nei, t\u0113n\u0101, t\u0113r\u0101",
+        "zh_hant": "\u90a3\uff0c\u90a3\u500b\uff0c\u9019\uff0c\u9019\u500b",
+        "fi": "t\u00e4m\u00e4, tuo"
       }
     },
     "nimi": {
@@ -4961,7 +5110,9 @@
         "de": "Name, Wort",
         "it": "nome, parola",
         "pt": "nome, palavra",
-        "mi": "he ingoa, he kupu"
+        "mi": "he ingoa, he kupu",
+        "zh_hant": "\u540d\u5b57\u3001\u540d\u7a31\u3001\u55ae\u8a5e\u3001\u8a5e\u8a9e",
+        "fi": "nimi, sana"
       }
     },
     "nja": {
@@ -5020,7 +5171,9 @@
         "tok": "noka li luka pi anpa sijelo.",
         "it": "piede, gamba, organo di locomozione; fondo, parte inferiore | ALT dieci; venti; cinque negativo",
         "pt": "p\u00e9, perna, \u00f3rg\u00e3o de locomo\u00e7\u00e3o; baixo, parte inferior | ALT dez; vinte; cinco negativo",
-        "mi": "he waewae, he w\u0101hi o te tinana hei neke; raro | ALT tekau; rua tekau; rima t\u014draro"
+        "mi": "he waewae, he w\u0101hi o te tinana hei neke; raro | ALT tekau; rua tekau; rima t\u014draro",
+        "zh_hant": "\u8173\u3001\u817f\u3001\u8db3\u90e8\u3001\u904b\u52d5\u5668\u5b98\uff1b\u5e95\u90e8\u3001\u4e0b\u9762 | ALT \u5341\uff1b\u4e8c\u5341\uff1b\u8ca0\u4e94",
+        "fi": "jalka, jalkater\u00e4, liike-elin; pohja, alaosa | ALT kymmenen; kaksikymment\u00e4; miinus viisi"
       }
     },
     "nu": {
@@ -5163,7 +5316,9 @@
         "es": "\u00a1oiga! (vocativo, imperativo u optativo)",
         "it": "Ehi! O! (vocativo, imperativo o ottativo)",
         "pt": "Ei! O! (vocativo, imperativo ou optativo)",
-        "mi": "e (he kupukiri, he kupu r\u0101nei hei whakaatu i te tono, i te p\u012brangi r\u0101nei)"
+        "mi": "e (he kupukiri, he kupu r\u0101nei hei whakaatu i te tono, i te p\u012brangi r\u0101nei)",
+        "zh_hant": "\u563f\uff01\uff08\u547c\u559a\u3001\u7948\u4f7f\u6216\u7948\u9858\u8a9e\u6c23\uff09",
+        "fi": "hei! (vokatiivi, imperatiivi tai optatiivi)"
       }
     },
     "oke": {
@@ -5301,7 +5456,8 @@
         "tok": "pilin pi jan ante li suli tawa sina la, sina olin e ona.",
         "it": "amare, avere compassione per, rispettare, mostrare affetto a",
         "pt": "amar, ter compaix\u00e3o por, respeitar, mostrar afeto por",
-        "mi": "aroha, whakaute"
+        "mi": "aroha, whakaute",
+        "fi": "rakkaus, my\u00f6t\u00e4tunto, kunnioitus, kiintymys"
       }
     },
     "omekapo": {
@@ -5396,7 +5552,8 @@
         "pt": "ele, ela, eles, elas",
         "tl_l": "siya, sila",
         "he": "\u05d4\u05d5\u05d0, \u05d4\u05d9\u05d0, \u05d4\u05dd, \u05d4\u05df",
-        "mi": "ia, r\u0101ua, r\u0101tou"
+        "mi": "ia, r\u0101ua, r\u0101tou",
+        "fi": "h\u00e4n, he"
       }
     },
     "oni": {
@@ -5456,7 +5613,8 @@
         "es": "empezar, comenzar, iniciar; abrir; encender, prender",
         "it": "iniziare, cominciare; aprire; accendere",
         "pt": "iniciar, come\u00e7ar; abrir; ligar, acender",
-        "mi": "t\u012bmata; huaki; whakak\u0101"
+        "mi": "t\u012bmata; huaki; whakak\u0101",
+        "fi": "aloittaa, avata, k\u00e4ynnist\u00e4\u00e4"
       }
     },
     "owe": {
@@ -5539,7 +5697,8 @@
         "de": "kaputt, vermasselt, besch\u00e4digt, zerst\u00f6rt, defekt; zerbrechen | ALT (Kraftausdruck, z.B. Mist!)",
         "it": "rovinato, rotto, danneggiato, leso, incasinato | ALT (imprecazione, ad esempio, cazzo!)",
         "pt": "estragado, quebrado, danificado, prejudicado, bagun\u00e7ado | ALT (palavr\u00e3o expletivo, ex. droga!)",
-        "mi": "pakaru, riwha | ALT (he kohukohu ng\u0101wari \u2014 hei tauira, \u201chika m\u0101\u201d)"
+        "mi": "pakaru, riwha | ALT (he kohukohu ng\u0101wari \u2014 hei tauira, \u201chika m\u0101\u201d)",
+        "fi": "pilalle mennyt, rikkin\u00e4inen, vaurioitunut, sekaisin | ALT (kirosana, esim. vittu!)"
       }
     },
     "pake": {
@@ -5606,7 +5765,8 @@
         "de": "tun, etwas ausf\u00fchren, an etwas arbeiten; bauen, machen, erstellen, vorbereiten",
         "it": "fare, agire, lavorare; costruire, creare, preparare",
         "pt": "fazer, agir, trabalhar; construir, fazer, preparar",
-        "mi": "mahi, hanga, whakarite"
+        "mi": "mahi, hanga, whakarite",
+        "fi": "tehd\u00e4, ryhty\u00e4 toimiin, ty\u00f6skennell\u00e4, rakentaa, valmistaa"
       }
     },
     "palisa": {
@@ -5640,7 +5800,8 @@
         "tok": "linja kiwen",
         "it": "cosa lunga e dura; ramo, asta, bastone",
         "pt": "coisa dura longa; ramo, vara, graveto",
-        "mi": "he mea roa, m\u0101r\u014d hoki; he r\u0101kau, he pou"
+        "mi": "he mea roa, m\u0101r\u014d hoki; he r\u0101kau, he pou",
+        "fi": "pitk\u00e4 kova esine; oksa, sauva, keppi"
       }
     },
     "pan": {
@@ -5677,7 +5838,8 @@
         "tok": "moku tan kasi.",
         "it": "cereale, grano; orzo, mais, avena, riso, frumento; pane, pasta",
         "pt": "cereal, gr\u00e3o; cevada, milho, aveia, arroz, trigo; p\u00e3o, macarr\u00e3o",
-        "mi": "he huapata; he p\u0101re, he k\u0101nga, he \u014dti, he raihi, he witi; he rewena, he par\u0101oa, he par\u0101oa rimurapa"
+        "mi": "he huapata; he p\u0101re, he k\u0101nga, he \u014dti, he raihi, he witi; he rewena, he par\u0101oa, he par\u0101oa rimurapa",
+        "fi": "vilja; ohra, maissi, kaura, riisi, vehn\u00e4; leip\u00e4, pasta"
       }
     },
     "pana": {
@@ -5711,7 +5873,8 @@
         "tok": "sina tawa e ijo la sina pana e ona. sina pali e ni: ijo nanpa wan li jo e ijo nanpa tu. ni la sina pana e ijo nanpa tu tawa ijo nanpa wan.",
         "it": "dare, inviare, emettere, fornire, mettere, rilasciare",
         "pt": "dar, enviar, emitir, fornecer, colocar, soltar",
-        "mi": "homai, hoatu, tuku, pana, whakarawe, maka, wewete"
+        "mi": "homai, hoatu, tuku, pana, whakarawe, maka, wewete",
+        "fi": "antaa, l\u00e4hett\u00e4\u00e4, laittaa, panna, vapauttaa"
       }
     },
     "pasila": {
@@ -5898,7 +6061,8 @@
         "tok": "nimi ni li kulupu e nimi mute sama ni: jan li pona li mute la ona li jan pona mute. jan li pona mute la ona li jan pi pona mute.",
         "it": "di (usato per dividere un secondo gruppo di sostantivi che descrive un primo gruppo di sostantivi) | ALT (introduce un genitivo sostantivato)",
         "pt": "de (usado para dividir um segundo grupo de substantivos que descreve um primeiro grupo de substantivos) | ALT (introduz um substantivo genitivo)",
-        "mi": "(e whakamahia ana hei motu i te r\u014dp\u016b kupu tuarua me te r\u014dp\u016b tuatahi, kia whakarerek\u0113tia te tuatahi e te tuarua) | ALT (hei whakaatu i te t\u016bingoa riro)"
+        "mi": "(e whakamahia ana hei motu i te r\u014dp\u016b kupu tuarua me te r\u014dp\u016b tuatahi, kia whakarerek\u0113tia te tuatahi e te tuarua) | ALT (hei whakaatu i te t\u016bingoa riro)",
+        "fi": "(k\u00e4ytet\u00e4\u00e4n jakamaan toinen substantiiviryhm\u00e4, joka kuvaa ensimm\u00e4ist\u00e4 substantiiviryhm\u00e4\u00e4) | ALT (esittelee genetiivin substantiivin)"
       }
     },
     "pika": {
@@ -5951,7 +6115,8 @@
         "es": "coraz\u00f3n (f\u00edsico o emocional); sentimiento (una emoci\u00f3n, una experiencia directa)",
         "it": "cuore (fisico o emotivo); sentimento (un'emozione, un'esperienza diretta)",
         "pt": "cora\u00e7\u00e3o (f\u00edsico ou emocional); sentimento (uma emo\u00e7\u00e3o, uma experi\u00eancia direta)",
-        "mi": "he manawa (\u0101-tinana, kare \u0101-roto r\u0101nei); he aurongo (he kare \u0101-roto, he wheako torotika)"
+        "mi": "he manawa (\u0101-tinana, kare \u0101-roto r\u0101nei); he aurongo (he kare \u0101-roto, he wheako torotika)",
+        "fi": "syd\u00e4n (fyysinen tai henkinen); tunne (psyykkinen tunne tai fyysinen kokemus)"
       }
     },
     "pimeja": {
@@ -5984,7 +6149,8 @@
         "tok": "pimeja li kule pi weka suno.",
         "it": "nero, scuro, non illuminato",
         "pt": "preto, escuro, n\u00e3o iluminado",
-        "mi": "pango, mangu, p\u014duri, p\u014d"
+        "mi": "pango, mangu, p\u014duri, p\u014d",
+        "fi": "musta, tumma, valaisematon"
       }
     },
     "Pingo": {
@@ -6044,7 +6210,8 @@
         "de": "her, abgeschlossen, beendet, fertig, vergangen; Ende",
         "it": "tempo fa, completato, finito, terminato, passato",
         "pt": "tempo atr\u00e1s, conclu\u00eddo, terminado, finalizado, passado",
-        "mi": "mua, oti, mutu"
+        "mi": "mua, oti, mutu",
+        "fi": "(aikaa) sitten, valmis, p\u00e4\u00e4ttynyt, mennyt, entinen"
       }
     },
     "pipi": {
@@ -6079,7 +6246,8 @@
         "it": "cimice, insetto, formica, ragno",
         "pt": "inseto, formiga, aranha",
         "he": "\u05d7\u05e8\u05e7, \u05d2'\u05d5\u05e7, \u05e0\u05de\u05dc\u05d4, \u05e2\u05db\u05d1\u05d9\u05e9",
-        "mi": "he pepeke, he upokorua, he p\u016bng\u0101were"
+        "mi": "he pepeke, he upokorua, he p\u016bng\u0101were",
+        "fi": "hy\u00f6nteinen, \u00f6t\u00f6kk\u00e4, muurahainen, h\u00e4m\u00e4h\u00e4kki"
       }
     },
     "pipo": {
@@ -6177,7 +6345,8 @@
         "tok": "lon pi ijo tu li sama la ijo tu li lon poka.",
         "it": "fianco, lato; vicino a, accanto a, nelle vicinanze | ALT insieme a (comitativo), di fianco a",
         "pt": "quadril, lado; pr\u00f3ximo a, pr\u00f3ximo, vizinhan\u00e7a | ALT junto com (comitativo), ao lado",
-        "mi": "he hope, he taha; tata | ALT me"
+        "mi": "he hope, he taha; tata | ALT me",
+        "fi": "lantio; sivu; vieress\u00e4, l\u00e4hell\u00e4, l\u00e4hist\u00f6ll\u00e4 | ALT yhdess\u00e4 (komitatiivi)"
       }
     },
     "poki": {
@@ -6211,7 +6380,8 @@
         "tok": "ijo li jo li awen e ijo ante la ona li poki li poki e ijo ante.",
         "it": "contenitore, borsa, ciotola, scatola, tazza, armadio, cassetto, recipiente",
         "pt": "cont\u00eainer, saco, tigela, caixa, copo, guarda-lou\u00e7a, gaveta, embarca\u00e7\u00e3o",
-        "mi": "he ipu, he kete, he oko, he pouaka, he kapu, he k\u0101pata, he toroa"
+        "mi": "he ipu, he kete, he oko, he pouaka, he kapu, he k\u0101pata, he toroa",
+        "fi": "s\u00e4ili\u00f6, laukku, kulho, laatikko, kuppi, kaappi, astia"
       }
     },
     "polinpin": {
@@ -6308,7 +6478,8 @@
         "es": "bueno, positivo, \u00fatil; amable, pac\u00edfico; bien; simple, f\u00e1cil",
         "it": "buono, positivo, utile; amichevole, pacifico; semplice",
         "pt": "bom, positivo, \u00fatil; amig\u00e1vel, pac\u00edfico; simples",
-        "mi": "pai, whai hua; hoahoa, m\u0101rie; m\u0101m\u0101"
+        "mi": "pai, whai hua; hoahoa, m\u0101rie; m\u0101m\u0101",
+        "fi": "hyv\u00e4, positiivinen, hy\u00f6dyllinen; yst\u00e4v\u00e4llinen, rauhallinen; yksinkertainen"
       }
     },
     "powe": {
@@ -6375,7 +6546,8 @@
         "tok": "lipu nanpa wan pi jan Sonja la, sina lukin e ona la sina pu. sina kepeken ona la sina pu.",
         "it": "interagire con il libro ufficiale di Toki Pona",
         "pt": "interagir com o livro oficial de Toki Pona",
-        "mi": "whakamahi i te tino pukapuka Toki Pona"
+        "mi": "whakamahi i te tino pukapuka Toki Pona",
+        "fi": "viralliseen toki pona -kirjaan liittyv\u00e4"
       }
     },
     "puwa": {
@@ -6438,7 +6610,8 @@
         "tok": "ijo tu li ante lili anu ante ala la, ijo tu li sama",
         "it": "stesso, simile; l'un l'altro; fratello, pari, compagno; come, uguale",
         "pt": "igual, semelhante; uns aos outros; irm\u00e3os, par, companheiro; como",
-        "mi": "\u014drite; t\u0113tahi ki t\u0113tahi; tuakana, teina, hoa; e rite ana ki, p\u0113nei me, p\u0113n\u0101 me, p\u0113r\u0101 me"
+        "mi": "\u014drite; t\u0113tahi ki t\u0113tahi; tuakana, teina, hoa; e rite ana ki, p\u0113nei me, p\u0113n\u0101 me, p\u0113r\u0101 me",
+        "fi": "sama, samanlainen; toisiaan; sisarus, ik\u00e4toveri; kuten"
       }
     },
     "samu": {
@@ -6570,7 +6743,8 @@
         "de": "Feuer; Kochelement, chemische Reaktion, W\u00e4rmequelle; kochen; warm",
         "it": "fuoco; elemento di combustione, reazione chimica, fonte di calore",
         "pt": "fogo; elemento de cozimento, rea\u00e7\u00e3o qu\u00edmica, fonte de calor",
-        "mi": "he ahi, wera; he tauhohe mat\u016b, he p\u016btake wera"
+        "mi": "he ahi, wera; he tauhohe mat\u016b, he p\u016btake wera",
+        "fi": "tuli; kemiallinen reaktio, l\u00e4mm\u00f6nl\u00e4hde"
       }
     },
     "selo": {
@@ -6603,7 +6777,8 @@
         "tok": "selo li lon insa pi ni tu: insa ona en poka ona.",
         "it": "forma esterna, strato esterno; corteccia, buccia, guscio, pelle; confine",
         "pt": "forma externa, camada externa; casca, concha, pele; fronteira",
-        "mi": "waho; he kiri, he anga; he tapa"
+        "mi": "waho; he kiri, he anga; he tapa",
+        "fi": "ulkomuoto, uloin kerros; kuori, nahka; raja"
       }
     },
     "seme": {
@@ -6639,7 +6814,8 @@
         "it": "Cosa? Quale?",
         "pt": "que? qual?",
         "he": "\u05de\u05d4? \u05d0\u05d9\u05d6\u05d4?",
-        "mi": "aha? t\u0113hea? \u0113hea?"
+        "mi": "aha? t\u0113hea? \u0113hea?",
+        "fi": "mit\u00e4? mik\u00e4?"
       }
     },
     "sewi": {
@@ -6671,7 +6847,8 @@
         "eo": "areo super io, plej alta parto de io, io pli alta; miriga, dia, sankta, supernatura",
         "de": "h\u00f6hergelegener Bereich, h\u00f6chster Teil, etwas erhobenes; hoch, oben, \u00fcber; beeindruckend, g\u00f6ttlich, heilig, \u00fcbernat\u00fcrlich",
         "it": "area al di sopra, parte pi\u00f9 alta, qualcosa di elevato; soggezione, divino, sacro, soprannaturale",
-        "mi": "runga, teitei, he mea i runga; m\u012bharo, tapu"
+        "mi": "runga, teitei, he mea i runga; m\u012bharo, tapu",
+        "fi": "yl\u00e4puolella oleva alue, korkein osa, koholla oleva; kunnioitusta her\u00e4tt\u00e4v\u00e4, jumalallinen, pyh\u00e4, yliluonnollinen"
       }
     },
     "sijelo": {
@@ -6703,7 +6880,8 @@
         "eo": "korpo (de homo a\u016d besto), fizika stato, torso",
         "de": "K\u00f6rper (einer Person oder eines Tieres), k\u00f6rperlicher Zustand, Torso, Oberk\u00f6rper",
         "it": "corpo (di persona o animale), stato fisico, torso",
-        "mi": "he tinana (o te tangata, o te kararehe r\u0101nei), he t\u016branga o te tinana"
+        "mi": "he tinana (o te tangata, o te kararehe r\u0101nei), he t\u016branga o te tinana",
+        "fi": "keho (ihmisen tai el\u00e4imen), fyysinen tila, torso"
       }
     },
     "sike": {
@@ -6735,7 +6913,8 @@
         "eo": "io ronda a\u016d cirkla; pilko, cirklo, ciklo, globo, sfero, rado; de unu jaro",
         "de": "rundes oder kreisf\u00f6rmiges Ding; Ball, Kreis, Zyklus, Kugel, Rad; ein Jahr betreffend",
         "it": "cosa rotonda o circolare; palla, cerchio, ciclo, sfera, ruota; di un anno",
-        "mi": "he mea porotaka; he p\u014dro, he porowhita, huri, he poi, he w\u012bra; kotahi tau"
+        "mi": "he mea porotaka; he p\u014dro, he porowhita, huri, he poi, he w\u012bra; kotahi tau",
+        "fi": "py\u00f6re\u00e4 asia; pallo, ympyr\u00e4, py\u00f6r\u00e4, rengas; yksi vuosi"
       }
     },
     "sikomo": {
@@ -6801,7 +6980,8 @@
         "tok": "ijo li lon tenpo lili la ijo ni li sin.",
         "es": "nuevo, fresco; adicional, m\u00e1s, extra",
         "it": "nuovo, fresco; aggiuntivo, un altro, extra",
-        "mi": "hou, whakahou; t\u0101piri, t\u0113tahi atu, k\u0113"
+        "mi": "hou, whakahou; t\u0101piri, t\u0113tahi atu, k\u0113",
+        "fi": "uusi, tuore; ylim\u00e4\u00e4r\u00e4inen, toinen, j\u00e4lleen"
       }
     },
     "sina": {
@@ -6835,7 +7015,8 @@
         "tok": "toki la, nimi \"sina\" li ijo kute.",
         "it": "tu, voi",
         "tl_l": "ikaw, kayo",
-        "mi": "koe, k\u014drua, koutou"
+        "mi": "koe, k\u014drua, koutou",
+        "fi": "sin\u00e4, te"
       }
     },
     "sinpin": {
@@ -6867,7 +7048,8 @@
         "eo": "viza\u011do, unuaranga, anta\u016do, muro",
         "de": "Gesicht, vorderst, vorne, vor, Wand",
         "it": "faccia, davanti, anteriore, muro",
-        "mi": "he mata, mua, he p\u0101t\u016b"
+        "mi": "he mata, mua, he p\u0101t\u016b",
+        "fi": "kasvot, etuosa, sein\u00e4"
       }
     },
     "sitelen": {
@@ -6899,7 +7081,8 @@
         "eo": "bildo, figuro, simbolo, marka\u0135o, skriba\u0135o",
         "de": "Bild, Darstellung, Symbol, Markierung, Schrift, Text",
         "it": "immagine, figura, rappresentazione, simbolo, marchio, scrittura",
-        "mi": "he pikitia, he whakaahua, he tohu, m\u0101ka, tuhi"
+        "mi": "he pikitia, he whakaahua, he tohu, m\u0101ka, tuhi",
+        "fi": "kuva, symboli, merkki, kirjoitus"
       }
     },
     "slape": {
@@ -6990,7 +7173,8 @@
         "eo": "scii, esti lerta pri, esti sa\u011da pri, havi informojn pri; (a.v.) scipovi",
         "de": "wissen, k\u00f6nnen, erfahren sein in, weise sein \u00fcber, Informationen haben \u00fcber; (pv.) wissen wie",
         "it": "conoscere, essere esperto, essere saggio, avere informazioni su; (pv.) sapere come",
-        "mi": "m\u014dhio, m\u0101tau, maumahara; (pv.) taea"
+        "mi": "m\u014dhio, m\u0101tau, maumahara; (pv.) taea",
+        "fi": "tiet\u00e4\u00e4, olla asiantunteva, olla viisas; (pv.) tiet\u00e4\u00e4 miten"
       }
     },
     "soto": {
@@ -7056,7 +7240,8 @@
         "de": "Tier, Biest, Lands\u00e4ugetier",
         "es": "animal, bestia, mam\u00edfero terrestre",
         "it": "animale, bestia, mammifero terrestre",
-        "mi": "he kararehe, he kur\u012b"
+        "mi": "he kararehe, he kur\u012b",
+        "fi": "el\u00e4in, peto, maalla el\u00e4v\u00e4 nis\u00e4k\u00e4s"
       }
     },
     "su": {
@@ -7164,7 +7349,8 @@
         "tok": "ijo suli li lili ala. tenpo open la, mi jan lili. taso, tenpo ni la, mi jan suli.",
         "it": "grande, pesante, grosso, lungo, alto; importante; adulto",
         "pt": "grande, longo, alto, pesado; importante; adulto",
-        "mi": "nui, rahi, taumaha, roa, teitei; matua"
+        "mi": "nui, rahi, taumaha, roa, teitei; matua",
+        "fi": "suuri, iso, raskas, pitk\u00e4, korkea; t\u00e4rke\u00e4; aikuinen"
       }
     },
     "suno": {
@@ -7198,7 +7384,8 @@
         "de": "Sonne; Licht, Helligkeit, Leuchten, Glanz, Schein; Lichtquelle",
         "tok": "sina ken lukin e wawa ni. nimi ni li ken toki e ni kin: ijo suno suli lon sewi.",
         "it": "sole; luce, luminosit\u00e0, bagliore, radiosit\u00e0, splendore; fonte di luce",
-        "mi": "he r\u0101; he rama, whiti, huru, ao, p\u012bata; he p\u016btake rama"
+        "mi": "he r\u0101; he rama, whiti, huru, ao, p\u012bata; he p\u016btake rama",
+        "fi": "aurinko; valo, kirkkaus, hehku, s\u00e4teily, paiste; valonl\u00e4hde"
       }
     },
     "supa": {
@@ -7231,7 +7418,8 @@
         "de": "waagerechte Oberfl\u00e4che, Ding f\u00fcr das Abstellen von anderen Dingen",
         "tok": "supa li lon anpa pi tomo mi. kin la, jan li ken lape lon supa.",
         "it": "superficie orizzontale, cosa su cui mettere o appoggiare qualcosa",
-        "mi": "he papa, he pae"
+        "mi": "he papa, he pae",
+        "fi": "vaakasuora pinta, asia jonka p\u00e4\u00e4lle voi asettaa jotain"
       }
     },
     "sutopatikuna": {
@@ -7293,7 +7481,8 @@
         "de": "s\u00fc\u00df, wohlriechend; niedlich, unschuldig, liebenswert",
         "tok": "ona li pona tawa uta, ona li pona tawa lukin, ona li pali ike ala.",
         "it": "dolce, fragrante; carino, innocente, adorabile",
-        "mi": "reka, kakara; tau, mateoha"
+        "mi": "reka, kakara; tau, mateoha",
+        "fi": "makea, tuoksuva; s\u00f6p\u00f6, viaton, suloinen"
       }
     },
     "take": {
@@ -7384,7 +7573,8 @@
         "de": "von, durch, wegen; Grund, Ursache",
         "it": "da, a causa di; origine, causa",
         "pt": "de, por, a partir de, por causa de; origem, causa",
-        "mi": "n\u014d, n\u0101, n\u0101 te mea; he p\u016b, he p\u016btake"
+        "mi": "n\u014d, n\u0101, n\u0101 te mea; he p\u016b, he p\u016btake",
+        "fi": "koska; alkuper\u00e4, syy; aiheuttaa"
       }
     },
     "taso": {
@@ -7418,7 +7608,8 @@
         "de": "aber, jedoch; nur",
         "it": "ma, tuttavia, solo",
         "pt": "mas, por\u00e9m; s\u00f3, apenas",
-        "mi": "engari, otir\u0101, heoi; anake"
+        "mi": "engari, otir\u0101, heoi; anake",
+        "fi": "mutta, kuitenkin; vain"
       }
     },
     "tawa": {
@@ -7452,7 +7643,8 @@
         "tok": "lon ijo li kama ante kepeken tenpo la ona li tawa. ijo li tawa li kama poka pi ijo ante la, ijo li tawa ijo ante. ijo li pona lon pilin sina la ijo li pona tawa sina.",
         "it": "andare a, verso; per; dalla prospettiva di; muoversi | ALT (pv.) stando",
         "pt": "ir a, a; para; no ponto de vista de; em movimento, ambulante | ALT (pv.) ir",
-        "mi": "haere, ki; m\u014d, m\u0101; neke"
+        "mi": "haere, ki; m\u014d, m\u0101; neke",
+        "fi": "menossa, kohti; varten; jonkun n\u00e4k\u00f6kulmasta; liikkuva | ALT (pv.) jonnekin"
       }
     },
     "te": {
@@ -7550,7 +7742,8 @@
         "de": "Wasser, Fl\u00fcssigkeit, nasse Substanz; Getr\u00e4nk",
         "it": "acqua, liquido, fluido, sostanza umida; bevande",
         "pt": "\u00e1gua, l\u00edquido, fluido, subst\u00e2ncia molhada; bebida",
-        "mi": "he wai"
+        "mi": "he wai",
+        "fi": "vesi, neste, m\u00e4rk\u00e4 aine; juomat"
       }
     },
     "ten": {
@@ -7614,7 +7807,8 @@
         "tok": "tenpo la ale li kama ante li kama moli li kama weka.",
         "it": "tempo, durata, momento, occasione, periodo, situazione",
         "pt": "tempo, dura\u00e7\u00e3o, momento, ocasi\u00e3o, per\u00edodo, situa\u00e7\u00e3o",
-        "mi": "he w\u0101, he p\u016b\u0101hua"
+        "mi": "he w\u0101, he p\u016b\u0101hua",
+        "fi": "aika, kesto, hetki, tilaisuus, ajanjakso, tilanne"
       }
     },
     "to": {
@@ -7706,7 +7900,8 @@
         "tok": "toki la, jan li ken pana e sona kepeken kalama anu sitelen anu luka.",
         "it": "comunicare, dire, parlare, conversare, usare il linguaggio, pensare; ciao",
         "pt": "communicar, dizer, falar, conversar, usar linguagem, pensar; ol\u00e1, oi",
-        "mi": "k\u012b, k\u014drero, he reo, whakaaro; kia ora"
+        "mi": "k\u012b, k\u014drero, he reo, whakaaro; kia ora",
+        "fi": "kommunikoida, sanoa, puhua, k\u00e4ytt\u00e4\u00e4 kielt\u00e4, ajatella; moi"
       }
     },
     "toma": {
@@ -7763,7 +7958,8 @@
         "de": "Innenraum, Geb\u00e4ude, Haus, Raum, Zuhause",
         "tok": "lon tomo la, ijo li awen li lon nasin pona tawa ona.",
         "it": "spazio interno; edificio, casa, abitazione, stanza",
-        "mi": "he whare, he k\u0101inga, he r\u016bma"
+        "mi": "he whare, he k\u0101inga, he r\u016bma",
+        "fi": "sis\u00e4tila; rakennus, koti, talo, huone"
       }
     },
     "tonsi": {
@@ -7839,7 +8035,8 @@
         "tok": "ijo wan lon poka ijo wan li ijo tu.",
         "it": "due | ALT separare, tagliare",
         "pt": "dois | ALT separar, cortar, dividir",
-        "mi": "rua | ALT motu, tohi, koti"
+        "mi": "rua | ALT motu, tohi, koti",
+        "fi": "kaksi | ALT erottaa, leikata"
       }
     },
     "tuli": {
@@ -7951,7 +8148,8 @@
         "de": "Sex, Geschlecht, sexuelle Beziehung mit jemandem haben",
         "tok": "jan li ken unpa kepeken jan ante. unpa ona li pali e jan lili sin.",
         "it": "avere rapporti sessuali con",
-        "mi": "moe, mahimahi"
+        "mi": "moe, mahimahi",
+        "fi": "olla seksuaalisessa suhteessa"
       }
     },
     "unu": {
@@ -8045,7 +8243,8 @@
         "de": "Mund, Lippen, Rachen, Kiefer",
         "tok": "uta li lupa sinpin li ken jo e ijo li ken kama insa e ijo.",
         "it": "bocca, labbra, cavit\u00e0 orale, mascella",
-        "mi": "he waha, he ngutu, he kauae"
+        "mi": "he waha, he ngutu, he kauae",
+        "fi": "suu, huulet, suuontelo, kita, leuat"
       }
     },
     "utala": {
@@ -8078,7 +8277,8 @@
         "de": "Kampf, Streit, k\u00e4mpfen, Herausforderung, gegen j-n zum Wettkampf antreten",
         "tok": "ijo li pali e ike tawa ijo ante. ni la, ona tu li utala.",
         "it": "combattere, sfidare, competere contro, lottare contro",
-        "mi": "he pakanga, he wero, whakataetae, whawhai"
+        "mi": "he pakanga, he wero, whakataetae, whawhai",
+        "fi": "taistella, haastaa, kilpailla, kamppailla"
       }
     },
     "wa": {
@@ -8172,7 +8372,8 @@
         "eo": "blanka, blankeca; helkolora, pala",
         "de": "wei\u00df, hell, bleich, blass",
         "it": "bianco, biancastro; chiaro, pallido",
-        "mi": "m\u0101, tea"
+        "mi": "m\u0101, tea",
+        "fi": "valkoinen, vaalean v\u00e4rinen; kalpea"
       }
     },
     "wan": {
@@ -8205,7 +8406,8 @@
         "eo": "unika, unuigita, unui\u011dinta; unu",
         "de": "eins; eimalig, vereinen",
         "it": "unico, unito; uno",
-        "mi": "t\u016bh\u0101h\u0101, tapatahi; tahi"
+        "mi": "t\u016bh\u0101h\u0101, tapatahi; tahi",
+        "fi": "ainutlaatuinen, yhten\u00e4inen; yksi"
       }
     },
     "waso": {
@@ -8238,7 +8440,8 @@
         "de": "Vogel, fliegendes Tier, befl\u00fcgeltes Tier",
         "tok": "ijo ni li jo e luka sama lipu. luka ni la ona li ken wawa e kon. mute la ijo ni li ken tawa kon tan ni.",
         "it": "uccello, creatura volante, animale alato",
-        "mi": "he manu, he peka"
+        "mi": "he manu, he peka",
+        "fi": "lintu, lent\u00e4v\u00e4 olento, siivek\u00e4s el\u00e4in"
       }
     },
     "wasoweli": {
@@ -8293,7 +8496,8 @@
         "eo": "forta, potenca; memfida, nedubanta; energia, intensa",
         "de": "stark, Kraft, Energie; zuversichtlich, sicher; intensiv",
         "it": "forte, potente; fiducioso, sicuro; energico, intenso",
-        "mi": "kaha, he ngoi; m\u0101ia, he ng\u0101kau titikaha; hihiko, tere"
+        "mi": "kaha, he ngoi; m\u0101ia, he ng\u0101kau titikaha; hihiko, tere",
+        "fi": "vahva, voimakas; itsevarma; energinen, kiihke\u00e4"
       }
     },
     "wawajete": {
@@ -8385,7 +8589,8 @@
         "de": "weg, abwesend, entfernen, ignorieren",
         "tok": "lon poka ala",
         "it": "assente, lontano, ignorato",
-        "mi": "ngaro, mahue, waiho, tango"
+        "mi": "ngaro, mahue, waiho, tango",
+        "fi": "poissa, huomiotta"
       }
     },
     "wekama": {
@@ -8473,7 +8678,8 @@
         "de": "wollen, w\u00fcnschen, sollen, erfordern, brauchen, m\u00fcssen, Wunsch",
         "tok": "mi wile e ijo la, ijo li suli tawa mi. tan ni la, mi pilin e ni: mi o jo e ijo.",
         "it": "deve, bisogno, richiedere, dovrebbe, vuole, desidera",
-        "mi": "me, hiahia, p\u012brangi, t\u016bmanako"
+        "mi": "me, hiahia, p\u012brangi, t\u016bmanako",
+        "fi": "haluta, tarvita, t\u00e4yty\u00e4, toivoa"
       }
     },
     "yupekosi": {
