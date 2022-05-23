@@ -109,8 +109,8 @@
       "name_endonym": "Te Reo M\u0101ori",
       "name_english": "M\u0101ori",
       "name_toki_pona": "toki Mali",
-      "completeness_percent": "37",
-      "completeness_percent_pu": "79"
+      "completeness_percent": "47",
+      "completeness_percent_pu": "100"
     },
     "pa": {
       "id_long": "punjabi",
@@ -6812,7 +6812,8 @@
         "isv_c": "\u043b\u0438\u0446\u0435, \u043f\u0440\u0454\u0434\u045a\u0438, \u043f\u0440\u0454\u0434, \u0441\u0442\u0454\u043d\u0430",
         "eo": "viza\u011do, unuaranga, anta\u016do, muro",
         "de": "Gesicht, vorderst, vorne, vor, Wand",
-        "it": "faccia, davanti, anteriore, muro"
+        "it": "faccia, davanti, anteriore, muro",
+        "mi": "he mata, mua, he p\u0101t\u016b"
       }
     },
     "sitelen": {
@@ -6843,7 +6844,8 @@
         "isv_c": "\u043e\u0431\u0440\u0430\u0437, \u043a\u0430\u0440\u0442\u0438\u043d\u0430, \u0441\u0438\u043c\u0431\u043e\u043b, \u0437\u043d\u0430\u043a, \u043f\u0438\u0441\u043c\u043e, \u043f\u0438\u0441\u0430\u045a\u0435",
         "eo": "bildo, figuro, simbolo, marka\u0135o, skriba\u0135o",
         "de": "Bild, Darstellung, Symbol, Markierung, Schrift, Text",
-        "it": "immagine, figura, rappresentazione, simbolo, marchio, scrittura"
+        "it": "immagine, figura, rappresentazione, simbolo, marchio, scrittura",
+        "mi": "he pikitia, he whakaahua, he tohu, m\u0101ka, tuhi"
       }
     },
     "slape": {
@@ -6931,7 +6933,8 @@
         "ru": "\u0437\u043d\u0430\u0442\u044c, \u0431\u044b\u0442\u044c \u043e\u043f\u044b\u0442\u043d\u044b\u043c, \u0431\u044b\u0442\u044c \u043c\u0443\u0434\u0440\u044b\u043c, \u0440\u0430\u0441\u043f\u043e\u043b\u0430\u0433\u0430\u0442\u044c \u0438\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0438\u0435\u0439; (pv.) \u0443\u043c\u0435\u0442\u044c",
         "eo": "scii, esti lerta pri, esti sa\u011da pri, havi informojn pri; (a.v.) scipovi",
         "de": "wissen, k\u00f6nnen, erfahren sein in, weise sein \u00fcber, Informationen haben \u00fcber; (pv.) wissen wie",
-        "it": "conoscere, essere esperto, essere saggio, avere informazioni su; (pv.) sapere come"
+        "it": "conoscere, essere esperto, essere saggio, avere informazioni su; (pv.) sapere come",
+        "mi": "m\u014dhio, m\u0101tau, maumahara; (pv.) taea"
       }
     },
     "soto": {
@@ -6996,7 +6999,8 @@
         "eo": "besto, surtera mamulo",
         "de": "Tier, Biest, Lands\u00e4ugetier",
         "es": "animal, bestia, mam\u00edfero terrestre",
-        "it": "animale, bestia, mammifero terrestre"
+        "it": "animale, bestia, mammifero terrestre",
+        "mi": "he kararehe, he kur\u012b"
       }
     },
     "su": {
@@ -7103,7 +7107,8 @@
         "de": "gro\u00df, schwer, lang, breit, hoch; wichtig; erwachsen",
         "tok": "ijo suli li lili ala. tenpo open la, mi jan lili. taso, tenpo ni la, mi jan suli.",
         "it": "grande, pesante, grosso, lungo, alto; importante; adulto",
-        "pt": "grande, longo, alto, pesado; importante; adulto"
+        "pt": "grande, longo, alto, pesado; importante; adulto",
+        "mi": "nui, rahi, taumaha, roa, teitei; matua"
       }
     },
     "suno": {
@@ -7134,7 +7139,8 @@
         "eo": "suno; lumo, heleco, lumi, ardi, brilo; lumfonto",
         "de": "Sonne; Licht, Helligkeit, Leuchten, Glanz, Schein; Lichtquelle",
         "tok": "sina ken lukin e wawa ni. nimi ni li ken toki e ni kin: ijo suno suli lon sewi.",
-        "it": "sole; luce, luminosit\u00e0, bagliore, radiosit\u00e0, splendore; fonte di luce"
+        "it": "sole; luce, luminosit\u00e0, bagliore, radiosit\u00e0, splendore; fonte di luce",
+        "mi": "he r\u0101; he rama, whiti, huru, ao, p\u012bata; he p\u016btake rama"
       }
     },
     "supa": {
@@ -7164,7 +7170,8 @@
         "eo": " horizontala surfaco, io sur kio oni metas ion alian",
         "de": "waagerechte Oberfl\u00e4che, Ding f\u00fcr das Abstellen von anderen Dingen",
         "tok": "supa li lon anpa pi tomo mi. kin la, jan li ken lape lon supa.",
-        "it": "superficie orizzontale, cosa su cui mettere o appoggiare qualcosa"
+        "it": "superficie orizzontale, cosa su cui mettere o appoggiare qualcosa",
+        "mi": "he papa, he pae"
       }
     },
     "sutopatikuna": {
@@ -7225,7 +7232,8 @@
         "eo": "dol\u0109a, bonodora; \u0109arma, senkulpa, aminda",
         "de": "s\u00fc\u00df, wohlriechend; niedlich, unschuldig, liebenswert",
         "tok": "ona li pona tawa uta, ona li pona tawa lukin, ona li pali ike ala.",
-        "it": "dolce, fragrante; carino, innocente, adorabile"
+        "it": "dolce, fragrante; carino, innocente, adorabile",
+        "mi": "reka, kakara; tau, mateoha"
       }
     },
     "take": {
@@ -7315,7 +7323,8 @@
         "eo": "pro, el, fare de; origino, ka\u016dzo",
         "de": "von, durch, wegen; Grund, Ursache",
         "it": "da, a causa di; origine, causa",
-        "pt": "de, por, a partir de, por causa de; origem, causa"
+        "pt": "de, por, a partir de, por causa de; origem, causa",
+        "mi": "n\u014d, n\u0101, n\u0101 te mea; he p\u016b, he p\u016btake"
       }
     },
     "taso": {
@@ -7348,7 +7357,8 @@
         "eo": "sed, tamen; nur",
         "de": "aber, jedoch; nur",
         "it": "ma, tuttavia, solo",
-        "pt": "mas, por\u00e9m; s\u00f3, apenas"
+        "pt": "mas, por\u00e9m; s\u00f3, apenas",
+        "mi": "engari, otir\u0101, heoi; anake"
       }
     },
     "tawa": {
@@ -7379,7 +7389,8 @@
         "de": "hin, zu, nach; f\u00fcr; nach Ansicht von; gehen, bewegen | ALT (HV) zu... hingehen",
         "tok": "lon ijo li kama ante kepeken tenpo la ona li tawa. ijo li tawa li kama poka pi ijo ante la, ijo li tawa ijo ante. ijo li pona lon pilin sina la ijo li pona tawa sina.",
         "it": "andare a, verso; per; dalla prospettiva di; muoversi | ALT (pv.) stando",
-        "pt": "ir a, a; para; no ponto de vista de; em movimento, ambulante | ALT (pv.) ir"
+        "pt": "ir a, a; para; no ponto de vista de; em movimento, ambulante | ALT (pv.) ir",
+        "mi": "haere, ki; m\u014d, m\u0101; neke"
       }
     },
     "te": {
@@ -7476,7 +7487,8 @@
         "eo": "akvo, likvo, flua\u0135o, malseka substanco; trinka\u0135o",
         "de": "Wasser, Fl\u00fcssigkeit, nasse Substanz; Getr\u00e4nk",
         "it": "acqua, liquido, fluido, sostanza umida; bevande",
-        "pt": "\u00e1gua, l\u00edquido, fluido, subst\u00e2ncia molhada; bebida"
+        "pt": "\u00e1gua, l\u00edquido, fluido, subst\u00e2ncia molhada; bebida",
+        "mi": "he wai"
       }
     },
     "ten": {
@@ -7537,7 +7549,8 @@
         "de": "Zeit, Dauer, Moment, Gelegenheit, Zeitraum, Situation",
         "tok": "tenpo la ale li kama ante li kama moli li kama weka.",
         "it": "tempo, durata, momento, occasione, periodo, situazione",
-        "pt": "tempo, dura\u00e7\u00e3o, momento, ocasi\u00e3o, per\u00edodo, situa\u00e7\u00e3o"
+        "pt": "tempo, dura\u00e7\u00e3o, momento, ocasi\u00e3o, per\u00edodo, situa\u00e7\u00e3o",
+        "mi": "he w\u0101, he p\u016b\u0101hua"
       }
     },
     "to": {
@@ -7626,7 +7639,8 @@
         "de": "kommunizieren, sagen, sprechen, reden, Sprache benutzen, denken; hallo",
         "tok": "toki la, jan li ken pana e sona kepeken kalama anu sitelen anu luka.",
         "it": "comunicare, dire, parlare, conversare, usare il linguaggio, pensare; ciao",
-        "pt": "communicar, dizer, falar, conversar, usar linguagem, pensar; ol\u00e1, oi"
+        "pt": "communicar, dizer, falar, conversar, usar linguagem, pensar; ol\u00e1, oi",
+        "mi": "k\u012b, k\u014drero, he reo, whakaaro; kia ora"
       }
     },
     "toma": {
@@ -7680,7 +7694,8 @@
         "eo": "endoma spaco; konstrua\u0135o, hejmo, domo, \u0109ambro",
         "de": "Innenraum, Geb\u00e4ude, Haus, Raum, Zuhause",
         "tok": "lon tomo la, ijo li awen li lon nasin pona tawa ona.",
-        "it": "spazio interno; edificio, casa, abitazione, stanza"
+        "it": "spazio interno; edificio, casa, abitazione, stanza",
+        "mi": "he whare, he k\u0101inga, he r\u016bma"
       }
     },
     "tonsi": {
@@ -7755,7 +7770,8 @@
         "de": "zwei | ALT teilen, schneiden",
         "tok": "ijo wan lon poka ijo wan li ijo tu.",
         "it": "due | ALT separare, tagliare",
-        "pt": "dois | ALT separar, cortar, dividir"
+        "pt": "dois | ALT separar, cortar, dividir",
+        "mi": "rua | ALT motu, tohi, koti"
       }
     },
     "tuli": {
@@ -7866,7 +7882,8 @@
         "eo": "seksumi, fiki, amori",
         "de": "Sex, Geschlecht, sexuelle Beziehung mit jemandem haben",
         "tok": "jan li ken unpa kepeken jan ante. unpa ona li pali e jan lili sin.",
-        "it": "avere rapporti sessuali con"
+        "it": "avere rapporti sessuali con",
+        "mi": "moe, mahimahi"
       }
     },
     "unu": {
@@ -7958,7 +7975,8 @@
         "eo": "bu\u015do, lipoj, bu\u015da kavo, makzelo",
         "de": "Mund, Lippen, Rachen, Kiefer",
         "tok": "uta li lupa sinpin li ken jo e ijo li ken kama insa e ijo.",
-        "it": "bocca, labbra, cavit\u00e0 orale, mascella"
+        "it": "bocca, labbra, cavit\u00e0 orale, mascella",
+        "mi": "he waha, he ngutu, he kauae"
       }
     },
     "utala": {
@@ -7990,7 +8008,8 @@
         "eo": "batali, defii, konkuri kontra\u016d, lukti kontra\u016d",
         "de": "Kampf, Streit, k\u00e4mpfen, Herausforderung, gegen j-n zum Wettkampf antreten",
         "tok": "ijo li pali e ike tawa ijo ante. ni la, ona tu li utala.",
-        "it": "combattere, sfidare, competere contro, lottare contro"
+        "it": "combattere, sfidare, competere contro, lottare contro",
+        "mi": "he pakanga, he wero, whakataetae, whawhai"
       }
     },
     "wa": {
@@ -8083,7 +8102,8 @@
         "isv_c": "\u0431\u0454\u043b\u044b, \u043f\u043e\u0434\u043e\u0431\u043d\u044b \u0431\u0454\u043b\u043e\u043c\u0443; \u0441\u0432\u0454\u0442\u043b\u044b, \u0431\u043b\u0454\u0434\u044b",
         "eo": "blanka, blankeca; helkolora, pala",
         "de": "wei\u00df, hell, bleich, blass",
-        "it": "bianco, biancastro; chiaro, pallido"
+        "it": "bianco, biancastro; chiaro, pallido",
+        "mi": "m\u0101, tea"
       }
     },
     "wan": {
@@ -8115,7 +8135,8 @@
         "isv_c": "\u0443\u043d\u0438\u043a\u0430\u043b\u043d\u044b, \u043e\u0431\u0458\u0435\u0434\u0438\u045a\u0435\u043d\u044b, \u0441\u0458\u0435\u0434\u0438\u045a\u0435\u043d\u044b; \u0458\u0435\u0434\u0438\u043d",
         "eo": "unika, unuigita, unui\u011dinta; unu",
         "de": "eins; eimalig, vereinen",
-        "it": "unico, unito; uno"
+        "it": "unico, unito; uno",
+        "mi": "t\u016bh\u0101h\u0101, tapatahi; tahi"
       }
     },
     "waso": {
@@ -8147,7 +8168,8 @@
         "eo": "birdo, fluganta viva\u0135o, besto havanta flugilojn",
         "de": "Vogel, fliegendes Tier, befl\u00fcgeltes Tier",
         "tok": "ijo ni li jo e luka sama lipu. luka ni la ona li ken wawa e kon. mute la ijo ni li ken tawa kon tan ni.",
-        "it": "uccello, creatura volante, animale alato"
+        "it": "uccello, creatura volante, animale alato",
+        "mi": "he manu, he peka"
       }
     },
     "wasoweli": {
@@ -8201,7 +8223,8 @@
         "isv_c": "\u0441\u0438\u043b\u043d\u044b, \u043c\u043e\u0447\u043d\u044b; \u0443\u0432\u0454\u0440\u0458\u0435\u043d\u044b; \u0435\u043d\u0435\u0440\u0433\u0438\u0447\u043d\u044b, \u0438\u043d\u0442\u0435\u043d\u0441\u0438\u0432\u043d\u044b",
         "eo": "forta, potenca; memfida, nedubanta; energia, intensa",
         "de": "stark, Kraft, Energie; zuversichtlich, sicher; intensiv",
-        "it": "forte, potente; fiducioso, sicuro; energico, intenso"
+        "it": "forte, potente; fiducioso, sicuro; energico, intenso",
+        "mi": "kaha, he ngoi; m\u0101ia, he ng\u0101kau titikaha; hihiko, tere"
       }
     },
     "wawajete": {
@@ -8292,7 +8315,8 @@
         "eo": "ne\u0109eestanta, fora, ignorata",
         "de": "weg, abwesend, entfernen, ignorieren",
         "tok": "lon poka ala",
-        "it": "assente, lontano, ignorato"
+        "it": "assente, lontano, ignorato",
+        "mi": "ngaro, mahue, waiho, tango"
       }
     },
     "wekama": {
@@ -8379,7 +8403,8 @@
         "eo": "devi, bezoni, postuli, voli, deziri",
         "de": "wollen, w\u00fcnschen, sollen, erfordern, brauchen, m\u00fcssen, Wunsch",
         "tok": "mi wile e ijo la, ijo li suli tawa mi. tan ni la, mi pilin e ni: mi o jo e ijo.",
-        "it": "deve, bisogno, richiedere, dovrebbe, vuole, desidera"
+        "it": "deve, bisogno, richiedere, dovrebbe, vuole, desidera",
+        "mi": "me, hiahia, p\u012brangi, t\u016bmanako"
       }
     },
     "yupekosi": {
