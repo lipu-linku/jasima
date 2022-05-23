@@ -53,8 +53,8 @@
       "name_endonym": "\u05e2\u05d1\u05e8\u05d9\u05ea",
       "name_english": "Hebrew",
       "name_toki_pona": "toki Iwisi",
-      "completeness_percent": "0",
-      "completeness_percent_pu": "0"
+      "completeness_percent": "6",
+      "completeness_percent_pu": "9"
     },
     "hi": {
       "id_long": "hindi",
@@ -77,16 +77,16 @@
       "name_endonym": "\u041c\u0435\u0434\u0436\u0443\u0441\u043b\u043e\u0432\u0458\u0430\u043d\u0441\u043a\u044b (\u043a\u0438\u0440\u0438\u043b\u0438\u0446\u0430)",
       "name_english": "Interslavic (Cyrillic)",
       "name_toki_pona": "toki Mesulojanki (sitelen Kililisa)",
-      "completeness_percent": "60",
-      "completeness_percent_pu": "90"
+      "completeness_percent": "64",
+      "completeness_percent_pu": "100"
     },
     "isv_l": {
       "id_long": "interslavic_latin",
       "name_endonym": "Med\u017euslovjansky (latinica)",
       "name_english": "Interslavic (Latin)",
       "name_toki_pona": "toki Mesulojanki (sitelen Lasina)",
-      "completeness_percent": "60",
-      "completeness_percent_pu": "90"
+      "completeness_percent": "64",
+      "completeness_percent_pu": "100"
     },
     "it": {
       "id_long": "italian",
@@ -183,6 +183,22 @@
       "name_toki_pona": "toki Utu",
       "completeness_percent": "38",
       "completeness_percent_pu": "0"
+    },
+    "zh_hans": {
+      "id_long": "chinese_simplified",
+      "name_endonym": "\u4e2d\u6587\uff08\u7b80\u4f53\uff09",
+      "name_english": "Chinese (Simplified)",
+      "name_toki_pona": "toki Sonko (sitelen Kansi lili)",
+      "completeness_percent": "0",
+      "completeness_percent_pu": "0"
+    },
+    "zh_hant": {
+      "id_long": "chinese_traditional",
+      "name_endonym": "\u4e2d\u6587\uff08\u7e41\u9ad4\uff09",
+      "name_english": "Chinese (Traditional)",
+      "name_toki_pona": "toki Sonko (sitelen Kansi mute)",
+      "completeness_percent": "5",
+      "completeness_percent_pu": "11"
     }
   },
   "credits": {
@@ -307,7 +323,8 @@
         "ro": "(accentuare, emo\u021bie, comfirma\u021bie)",
         "fr": "(accent, \u00e9motion ou confirmation)",
         "tr": "(vurgu, duygu veya onay)",
-        "mi": "(he miramira, he kare \u0101-roto, he whaka\u016b r\u0101nei)"
+        "mi": "(he miramira, he kare \u0101-roto, he whaka\u016b r\u0101nei)",
+        "zh_hant": "\uff08\u7528\u4f86\u5f37\u8abf\u3001\u8868\u9054\u611f\u60c5\u6216\u78ba\u8a8d\uff09"
       }
     },
     "aka": {
@@ -369,7 +386,8 @@
         "ro": "un animal care nu e dr\u0103gu\u021b, reptil\u0103, amfibian",
         "fr": "animal non-migron ; reptile, amphibien",
         "tr": "\u00e7irkin hayvan; s\u00fcr\u00fcngen, amfibi",
-        "mi": "he kararehe weriweri; he moko, he ika oneone"
+        "mi": "he kararehe weriweri; he moko, he ika oneone",
+        "zh_hant": "\u4e0d\u53ef\u611b\u7684\u52d5\u7269\uff1b\u722c\u884c\u52d5\u7269\u3001\u5169\u68f2\u52d5\u7269"
       }
     },
     "ako": {
@@ -421,7 +439,8 @@
         "ro": "nu, zero; [~ ala ~] folosit pentru a formula o \u00eentrebare da sau nu; nimic",
         "fr": "non, ne, pas, aucun, z\u00e9ro",
         "tr": "hay\u0131r, de\u011fil, s\u0131f\u0131r; [~ ala ~] (evet-hay\u0131r sorusu olu\u015fturmak i\u00e7in kullan\u0131l\u0131r); hi\u00e7",
-        "mi": "k\u0101o, k\u0101ore, ehara, kore; [~ ala ~] (e whakamahia ana m\u014d te p\u0101tai kati)"
+        "mi": "k\u0101o, k\u0101ore, ehara, kore; [~ ala ~] (e whakamahia ana m\u014d te p\u0101tai kati)",
+        "zh_hant": "\u4e0d\u3001\u6c92\u6709\u3001\u4e0d\u662f\u3001\u96f6\uff1b[~ ala ~]\uff08\u7528\u65bc\u69cb\u6210\u662f\u975e\u554f\u53e5\uff09\uff1b\u7121"
       }
     },
     "alasa": {
@@ -465,7 +484,8 @@
         "ro": "a v\u00e2na, furaj, a c\u0103uta | ALT (pv.) a \u00eencerca",
         "fr": "chasser, cueillir",
         "tr": "avlamak, toplamak, aramak | ALT (pv.) denemek, kalk\u0131\u015fmak",
-        "mi": "he kimi, he rapu, he whai | ALT (pv.) ngana"
+        "mi": "kimi, rapu, whai | ALT (pv.) ngana",
+        "zh_hant": "\u6253\u7375\u3001\u7375\u6bba\u3001\u641c\u5c0b\u3001\u5c0b\u627e | ALT (pv.) \u5617\u8a66\u3001\u8a66\u5716"
       }
     },
     "ale": {
@@ -508,7 +528,8 @@
         "ro": "totul; abundant; orice; via\u021b\u0103, universul, o sut\u0103 | ALT 100",
         "fr": "tous, abondants, innombrables ; tout, abondance, la vie, l'univers | ALT 100",
         "tr": "bol, \u00e7ok, dolu, her; bolluk, her \u015fey, ya\u015fam, evren; y\u00fcz | ALT 100",
-        "mi": "katoa; he maha; te ora, te ao tukup\u016b; kotahi rau | ALT 100"
+        "mi": "katoa; he maha; te ora, te ao tukup\u016b; kotahi rau | ALT 100",
+        "zh_hant": "\u6240\u6709\u3001\u4e00\u5207\uff1b\u773e\u591a\u7684\u3001\u7121\u6578\u7684\u3001\u5927\u91cf\u7684\uff1b\u6240\u6709\u4e8b\u7269\u3001\u842c\u7269\u3001\u751f\u547d\u3001\u5b87\u5b99\uff1b\u4e00\u767e | ALT 100"
       }
     },
     "ali": {
@@ -545,7 +566,8 @@
         "tl_l": "[alternatibong anyo ng ale]",
         "ro": "[forma alternativ\u0103 a lui ale)",
         "tr": "[ale i\u00e7in alternatif]",
-        "mi": "[he \u0101hua k\u0113 m\u014d te \u201cale\u201d]"
+        "mi": "[he \u0101hua k\u0113 m\u014d te \u201cale\u201d]",
+        "zh_hant": "[\u540c\u201dale\u201c]"
       }
     },
     "alu": {
@@ -615,7 +637,8 @@
         "tl_l": "yumuyuko, pababa, mapagpakumbaba, mababa, umaasa | ALT bab\u00e2, ibabang bahagi, ilalim, ibaba, sahig; mababa, ibaba, pababa",
         "fr": "inclin\u00e9 vers le bas, humble, qui d\u00e9pend",
         "tr": "a\u015fa\u011f\u0131, a\u015fa\u011f\u0131ya, al\u00e7ak | ALT alt, alt\u0131nda, a\u015fa\u011f\u0131 k\u0131s\u0131m, zemin",
-        "mi": "tuohu, iho, m\u0101haki, whirinaki | ALT raro, papa, hakahaka"
+        "mi": "tuohu, iho, m\u0101haki, whirinaki | ALT raro, papa, hakahaka",
+        "zh_hant": "\uff08\u5730\u4f4d\uff09\u4f4e\u4e0b\u7684\u3001\u5351\u5fae\u7684\u3001\u4f9d\u9760\u7684 | ALT \u5e95\u90e8\u3001\u4e0b\u9762\u3001\u5730\u9762\uff1b\u4f4e\u7684\u3001\u4e0b\u9762\u7684\u3001\u5e95\u90e8\u7684"
       }
     },
     "ante": {
@@ -654,7 +677,8 @@
         "ro": "diferent, alternativ, alta",
         "fr": "diff\u00e9rent, chang\u00e9, autre",
         "tr": "farkl\u0131, de\u011fi\u015ftirilmi\u015f, d\u00fczenlenmi\u015f, ba\u015fka, ayr\u0131",
-        "mi": "k\u0113, rerek\u0113, panoni, whakawhiti"
+        "mi": "k\u0113, rerek\u0113, panoni, huri, whakawhiti",
+        "zh_hant": "\u4e0d\u540c\u7684\u3001\u88ab\u6539\u8b8a\u7684\u3001\u5176\u4ed6\u7684\u3001\u5225\u7684"
       }
     },
     "anu": {
@@ -695,7 +719,8 @@
         "ro": "or | ALT alege, decide",
         "fr": "ou | ALT choisir, d\u00e9cider",
         "tr": "veya | ALT se\u00e7mek, karar vermek",
-        "mi": "r\u0101nei | ALT k\u014dwhiri, whiriwhiri"
+        "mi": "r\u0101nei | ALT k\u014dwhiri, whiriwhiri",
+        "zh_hant": "\u6216\u3001\u9084\u662f | ALT \u9078\u64c7\u3001\u6c7a\u5b9a"
       }
     },
     "apeja": {
@@ -788,7 +813,8 @@
         "ro": "a endura, \u021binut, protectat, \u00een siguran\u021b\u0103, a\u0219tept\u00e2nd, st\u0103t\u00e2nd; (pv.) a continua s\u0103, a \u021bine",
         "fr": "rest\u00e9, prot\u00e9g\u00e9, gard\u00e9, qui attend, qui persiste, conserv\u00e9 ; (auxiliaire) continuer \u00e0",
         "tr": "dayanan, dayan\u0131kl\u0131, sakl\u0131, korumal\u0131, g\u00fcvende, bekleyen, kalan; (pv.) yapmaya devam etmek",
-        "mi": "matat\u016b, mau, haumaru, tatari, noho tonu; (pv.) mahi tonu"
+        "mi": "matat\u016b, mau, haumaru, tatari, noho tonu; (pv.) mahi tonu",
+        "zh_hant": "\u6301\u4e45\u7684\u3001\u505c\u7559\u7684\u3001\u53d7\u4fdd\u8b77\u7684\u3001\u7b49\u5f85\u7684\u3001\u5b89\u5168\u7684\uff1b(pv.) \u7e7c\u7e8c\u3001\u6301\u7e8c\u3001\u4e00\u76f4"
       }
     },
     "e": {
@@ -821,7 +847,9 @@
         "ro": "(\u00eenainte de obiectul direct)",
         "fr": "(avant l'objet direct)",
         "tr": "(nesneden \u00f6nce gelir)",
-        "mi": "(ki mua i te aronga torotika)"
+        "he": "(\u05dc\u05e4\u05e0\u05d9 \u05d4\u05de\u05d5\u05e9\u05d0 \u05d4\u05d9\u05e9\u05d9\u05e8 \u05e9\u05dc \u05d4\u05de\u05e9\u05e4\u05d8)",
+        "mi": "(ki mua i te aronga torotika)",
+        "zh_hant": "\uff08\u7f6e\u65bc\u76f4\u63a5\u8cd3\u8a9e\u4e4b\u524d\uff09"
       }
     },
     "eki": {
@@ -881,7 +909,8 @@
         "ro": "(\u00eentre mai multe subiecte)",
         "fr": "(entre plusieurs sujets)",
         "tr": "(birden fazla \u00f6znenin aras\u0131na gelir) | ALT (bir pi ifadesi i\u00e7indeki niteleyicileri veya bir edat\u0131n nesnelerini koordine eder)",
-        "mi": "(ki waenga i \u0113tahi tumu)"
+        "mi": "(ki waenga i \u0113tahi tumu)",
+        "zh_hant": "\uff08\u7f6e\u65bc\u591a\u65bc\u4e00\u500b\u4e3b\u8a9e\u4e4b\u9593\uff09"
       }
     },
     "enko": {
@@ -983,7 +1012,8 @@
         "ro": "market, magazin, bazar, afaceri, tranzac\u021bii",
         "fr": "march\u00e9, boutique, foire, magasin, commerce",
         "tr": "market, fuar, pazar, \u00e7ar\u015f\u0131, bakkal, takas, al\u0131\u015fveri\u015f",
-        "mi": "he m\u0101kete, he toa, hoko"
+        "mi": "he m\u0101kete, he toa, hoko",
+        "zh_hant": "\u5e02\u5834\u3001\u5546\u5834\u3001\u96c6\u5e02\u3001\u4ea4\u6613\u6703\u3001\u8cb7\u8ce3\u3001\u5546\u696d\u4ea4\u6613"
       }
     },
     "ete": {
@@ -1283,7 +1313,7 @@
         "pt": "centro, conte\u00fado, dentro, entre; \u00f3rg\u00e3o interno, est\u00f4mago",
         "tl_l": "sentro, nilalaman, loob, pagitan; laman loob, tiyan",
         "ro": "centru, con\u021binut, \u00een\u0103untru, \u00eentre; organ internal, stomach",
-        "tr": "orta, i\u00e7erik, i\u00e7eri, aras\u0131; i\u00e7 organ, mide",
+        "tr": "orta, i\u00e7erik, i\u00e7, ara; i\u00e7 organ, mide",
         "mi": "roto, waenganui; ng\u0101kau, puku"
       }
     },
@@ -1546,6 +1576,7 @@
         "tl_l": "tao",
         "ro": "persoan\u0103, om, cineva",
         "tr": "insan, \u015fah\u0131s, kimse",
+        "he": "\u05d1\u05df \u05d0\u05d3\u05dd, \u05d0\u05d9\u05e9, \u05de\u05d9\u05e9\u05d4\u05d5",
         "mi": "he tangata"
       }
     },
@@ -1689,6 +1720,7 @@
         "tl_l": "dilaw, madilaw-dilaw",
         "ro": "galben, galbenu\u0219",
         "tr": "sar\u0131, sar\u0131mt\u0131rak",
+        "he": "\u05e6\u05d4\u05d5\u05d1, \u05e6\u05d4\u05d1\u05d4\u05d1",
         "mi": "k\u014dwhai"
       }
     },
@@ -2250,7 +2282,8 @@
         "eo": "kvira, GLAT-a",
         "de": "queer, LGBT+",
         "tok": "tonsi anu mije pi olin mije anu meli pi olin meli",
-        "it": "queer, LGBT+"
+        "it": "queer, LGBT+",
+        "he": "\u05e7\u05d5\u05d5\u05d9\u05e8, \u05dc\u05d4\u05d8\"\u05d1"
       }
     },
     "ki": {
@@ -2350,7 +2383,8 @@
         "ur": "\u062a\u06cc\u0632 \u0627\u0648\u0631 \u062a\u06cc\u062e\u0627 (\u0686\u0627\u0642\u0648 \u06a9\u06cc \u0637\u0631\u062d)\u060c \u0632\u0627\u0648\u06cc\u06c1, \u0645\u062b\u0644\u062b \u062c\u06cc\u0633\u0627",
         "pa": "\u0a24\u0a3f\u0a71\u0a16\u0a3e (\u0a1b\u0a41\u0a30\u0a47 \u0a35\u0a30\u0a17\u0a3e), \u0a15\u0a4b\u0a23, \u0a24\u0a3f\u0a30\u0a15\u0a4b\u0a23 \u0a35\u0a30\u0a17\u0a3e",
         "id": "berduri, tajam, sudut, segitiga",
-        "it": "appuntito, tagliente, angolo, punta, triangolare"
+        "it": "appuntito, tagliente, angolo, punta, triangolare",
+        "he": "\u05e7\u05d5\u05e6\u05e0\u05d9, \u05d7\u05d3, \u05d6\u05d5\u05d5\u05d9\u05ea, \u05e0\u05e7\u05d5\u05d3\u05d4, \u05de\u05e9\u05d5\u05dc\u05e9"
       }
     },
     "kili": {
@@ -2390,7 +2424,7 @@
         "tl_l": "prutas, gulay, kabute",
         "ro": "fruct, legum\u0103, ciuperci",
         "tr": "meyve, sebze, mantar",
-        "mi": "hua"
+        "mi": "he hua"
       }
     },
     "kin": {
@@ -2640,7 +2674,7 @@
         "it": "aria, respiro; essenza, spirito; realt\u00e0 nascosta, agente invisibile",
         "pt": "ar, respira\u00e7\u00e3o; ess\u00eancia, esp\u00edrito; realidade oculta, agente invis\u00edvel",
         "tr": "hava, nefes, \u00f6z, anlam, ruh; g\u00f6r\u00fcnmez",
-        "mi": "he hau, he h\u0101; te mauri, te wairua; w\u0101hi ngaro"
+        "mi": "he hau, he h\u0101; te mauri, te wairua; te w\u0101hi ngaro"
       }
     },
     "konsi": {
@@ -3259,6 +3293,7 @@
         "pt": "frio, fresco; cru",
         "tl_l": "malamig; hilaw",
         "tr": "so\u011fuk, serin; \u00e7i\u011f",
+        "he": "\u05e7\u05e8, \u05e7\u05e8\u05d9\u05e8; \u05e0\u05d0, \u05dc\u05d0 \u05de\u05d1\u05d5\u05e9\u05dc",
         "mi": "makariri, m\u0101tao; mata, ota"
       }
     },
@@ -3368,7 +3403,7 @@
         "tl_l": "maliit, maikli; kakaunti; konti; bata pa",
         "ro": "mic, un pic, pu\u021bin, t\u00e2n\u0103r",
         "tr": "k\u00fc\u00e7\u00fck, k\u0131sa; az; gen\u00e7",
-        "mi": "iti, paku, poto; rangatahi"
+        "mi": "iti, paku, poto; rangatahi, he punua"
       }
     },
     "linja": {
@@ -3533,6 +3568,7 @@
         "tl_l": "pula, mamula-mula",
         "ro": "ro\u0219u, ro\u0219i\u0219or",
         "tr": "k\u0131rm\u0131z\u0131, k\u0131rm\u0131z\u0131mt\u0131rak",
+        "he": "\u05d0\u05d3\u05d5\u05dd, \u05d0\u05d3\u05de\u05d3\u05dd",
         "mi": "whero"
       }
     },
@@ -3559,7 +3595,8 @@
         "eo": "brako a\u016d kruro, membro",
         "de": "Glied",
         "tok": "luka anu noka",
-        "it": "arto"
+        "it": "arto",
+        "he": "\u05d2\u05e4\u05d4"
       }
     },
     "lokon": {
@@ -4099,6 +4136,7 @@
         "tl_l": "ako, kit\u00e1/kata, kami, tayo",
         "ro": "eu, noi",
         "tr": "ben, biz",
+        "he": "\u05d0\u05e0\u05d9, \u05d0\u05e0\u05d7\u05e0\u05d5",
         "mi": "ahau, t\u0101ua, t\u0101tou, m\u0101ua, m\u0101tou"
       }
     },
@@ -4135,6 +4173,7 @@
         "pt": "homem, macho, pessoa masculina; marido",
         "tl_l": "lalaki, panlalaking tao; bana",
         "ro": "b\u0103rbat, persoan\u0103 masculin\u0103, so\u021b",
+        "he": "\u05d2\u05d1\u05e8, \u05d6\u05db\u05e8; \u05d1\u05e2\u05dc",
         "mi": "he t\u0101ne"
       }
     },
@@ -4576,7 +4615,7 @@
         "de": "viele, einige, mehrere, sehr, mehr; Quantit\u00e4t, Menge | ALT drei (oder mehr); 20",
         "it": "molti, tanto, di pi\u00f9, assai, parecchi, moltissimo; quantit\u00e0 | ALT tre (o pi\u00f9), 20",
         "pt": "muitos, bastante, mais, muito de, v\u00e1rios; quantidade | ALT tr\u00eas (ou mais), 20",
-        "mi": "maha, nui, rahi, rawa | ALT toru (nui ake r\u0101nei), 20"
+        "mi": "maha, tini, nui, rahi, rawa | ALT toru (nui ake r\u0101nei), 20"
       }
     },
     "n": {
@@ -4888,6 +4927,7 @@
         "es": "eso, esto, aquel",
         "it": "che, questo",
         "pt": "este, esse, aquele; isto, isso, aquilo",
+        "he": "\u05d6\u05d4, \u05d6\u05d0\u05ea, \u05d0\u05dc\u05d4",
         "mi": "nei, n\u0101, r\u0101, t\u0113nei, t\u0113n\u0101, t\u0113r\u0101"
       }
     },
@@ -4942,7 +4982,8 @@
         "de": "Miau, Katzenger\u00e4usch",
         "tok": "mu pi soweli ni: ona li ko li lon tomo jan li jo e linja wan lon monsi e linja lili mute lon sinpin.",
         "es": "miau, maullido, sonido felino",
-        "it": "miagolio, verso felino"
+        "it": "miagolio, verso felino",
+        "he": "\u05de\u05d9\u05d0\u05d5, \u05e7\u05d5\u05dc \u05e9\u05dc \u05d7\u05ea\u05d5\u05dc"
       }
     },
     "noka": {
@@ -5354,6 +5395,7 @@
         "it": "lui, lei, esso, loro",
         "pt": "ele, ela, eles, elas",
         "tl_l": "siya, sila",
+        "he": "\u05d4\u05d5\u05d0, \u05d4\u05d9\u05d0, \u05d4\u05dd, \u05d4\u05df",
         "mi": "ia, r\u0101ua, r\u0101tou"
       }
     },
@@ -5849,6 +5891,8 @@
         "en": "of (used to divide a second noun group that describes a first noun group) | ALT (introduces a genitive noun)",
         "pl": "(oddziela drug\u0105 grup\u0119 rzeczownik\u00f3w, kt\u00f3ra opisuje pierwsz\u0105 grup\u0119 rzeczownik\u00f3w) | ALT (wprowadza dope\u0142niacz)",
         "ru": "(\u0438\u0441\u043f\u043e\u043b\u044c\u0437\u0443\u0435\u0442\u0441\u044f \u0434\u043b\u044f \u043e\u0442\u0434\u0435\u043b\u0435\u043d\u0438\u044f \u0432\u0442\u043e\u0440\u043e\u0439 \u0433\u0440\u0443\u043f\u043f\u044b \u0441\u0443\u0449\u0435\u0441\u0442\u0432\u0438\u0442\u0435\u043b\u044c\u043d\u044b\u0445, \u043e\u043f\u0438\u0441\u044b\u0432\u0430\u044e\u0449\u0435\u0439 \u043f\u0435\u0440\u0432\u0443\u044e \u0433\u0440\u0443\u043f\u043f\u0443 \u0441\u0443\u0449\u0435\u0441\u0442\u0432\u0438\u0442\u0435\u043b\u044c\u043d\u044b\u0445) | ALT (\u0432\u0432\u043e\u0434\u0438\u0442 \u0440\u043e\u0434\u0438\u0442\u0435\u043b\u044c\u043d\u043e\u0435 \u0441\u0443\u0449\u0435\u0441\u0442\u0432\u0438\u0442\u0435\u043b\u044c\u043d\u043e\u0435)",
+        "isv_l": "(koristaje se, da by odd\u011bliti drugu grupu imennikov, ktora opisyvaje prvu grupu imennikov) | ALT (vvodi genetivny imennik)",
+        "isv_c": "(\u043a\u043e\u0440\u0438\u0441\u0442\u0430\u0458\u0435 \u0441\u0435, \u0434\u0430 \u0431\u044b \u043e\u0434\u0434\u0454\u043b\u0438\u0442\u0438 \u0434\u0440\u0443\u0433\u0443 \u0433\u0440\u0443\u043f\u0443 \u0438\u043c\u0435\u043d\u043d\u0438\u043a\u043e\u0432, \u043a\u0442\u043e\u0440\u0430 \u043e\u043f\u0438\u0441\u044b\u0432\u0430\u0458\u0435 \u043f\u0440\u0432\u0443 \u0433\u0440\u0443\u043f\u0443 \u0438\u043c\u0435\u043d\u043d\u0438\u043a\u043e\u0432) | ALT (\u0432\u0432\u043e\u0434\u0438 \u0433\u0435\u043d\u0435\u0442\u0438\u0432\u043d\u044b \u0438\u043c\u0435\u043d\u043d\u0438\u043a)",
         "eo": "de (uzata por dividi duan substantivan grupon, kiu priskribas la duan substantivan grupon) | ALT (enkondukas genitivan substantivon)",
         "de": "(trennt eine zweite Wortgruppe ab, die die erste Wortgruppe beschreibt) | ALT (f\u00fchrt ein Wort im Genetiv ein)",
         "tok": "nimi ni li kulupu e nimi mute sama ni: jan li pona li mute la ona li jan pona mute. jan li pona mute la ona li jan pi pona mute.",
@@ -5900,6 +5944,8 @@
         "en": "heart (physical or emotional); feeling (an emotion, a direct experience)",
         "pl": "serce (fizycznie lub emocjonalnie); uczucie, wra\u017cenie, doznanie",
         "ru": "\u0441\u0435\u0440\u0434\u0446\u0435 (\u0444\u0438\u0437\u0438\u0447\u0435\u0441\u043a\u043e\u0435 \u0438\u043b\u0438 \u044d\u043c\u043e\u0446\u0438\u043e\u043d\u0430\u043b\u044c\u043d\u043e\u0435); \u0447\u0443\u0432\u0441\u0442\u0432\u043e (\u044d\u043c\u043e\u0446\u0438\u044f, \u043f\u0440\u044f\u043c\u043e\u0439 \u043e\u043f\u044b\u0442)",
+        "isv_l": "srdce (fizi\u010dno ili emocionalno); \u010dutje, \u010duvstvo (emocija, pr\u011b\u017eivanje)",
+        "isv_c": "\u0441\u0440\u0434\u0446\u0435 (\u0444\u0438\u0437\u0438\u0447\u043d\u043e \u0438\u043b\u0438 \u0435\u043c\u043e\u0446\u0438\u043e\u043d\u0430\u043b\u043d\u043e); \u0447\u0443\u0442\u0458\u0435, \u0447\u0443\u0432\u0441\u0442\u0432\u043e (\u0435\u043c\u043e\u0446\u0438\u0458\u0430, \u043f\u0440\u0454\u0436\u0438\u0432\u0430\u045a\u0435)",
         "eo": "koro (fizika a\u016d emocia); senti (emocion, rektan sperton)",
         "de": "Herz (k\u00f6rperlich oder emotional); Gef\u00fchl (eine Emotion oder eine direkte Erfahrung), f\u00fchlen",
         "es": "coraz\u00f3n (f\u00edsico o emocional); sentimiento (una emoci\u00f3n, una experiencia directa)",
@@ -6032,6 +6078,7 @@
         "es": "bicho, insecto, hormiga, ara\u00f1a",
         "it": "cimice, insetto, formica, ragno",
         "pt": "inseto, formiga, aranha",
+        "he": "\u05d7\u05e8\u05e7, \u05d2'\u05d5\u05e7, \u05e0\u05de\u05dc\u05d4, \u05e2\u05db\u05d1\u05d9\u05e9",
         "mi": "he pepeke, he upokorua, he p\u016bng\u0101were"
       }
     },
@@ -6591,6 +6638,7 @@
         "es": "\u00bfqu\u00e9? \u00bfcu\u00e1l?",
         "it": "Cosa? Quale?",
         "pt": "que? qual?",
+        "he": "\u05de\u05d4? \u05d0\u05d9\u05d6\u05d4?",
         "mi": "aha? t\u0113hea? \u0113hea?"
       }
     },
@@ -6618,6 +6666,8 @@
         "en": "area above, highest part, something elevated; awe-inspiring, divine, sacred, supernatural",
         "pl": "obszar wzwy\u017c, najwy\u017csza cz\u0119\u015b\u0107, co\u015b wzniesionego; budz\u0105cy podziw, boski, \u015bwi\u0119ty, nadnaturalny",
         "ru": "\u043e\u0431\u043b\u0430\u0441\u0442\u044c \u0432\u044b\u0448\u0435, \u043d\u0430\u0438\u0432\u044b\u0441\u0448\u0430\u044f \u0447\u0430\u0441\u0442\u044c, \u043d\u0435\u0447\u0442\u043e \u0432\u043e\u0437\u0432\u044b\u0448\u0435\u043d\u043d\u043e\u0435; \u0432\u043d\u0443\u0448\u0430\u044e\u0449\u0438\u0439 \u0442\u0440\u0435\u043f\u0435\u0442, \u0431\u043e\u0436\u0435\u0441\u0442\u0432\u0435\u043d\u043d\u044b\u0439, \u0441\u0432\u044f\u0449\u0435\u043d\u043d\u044b\u0439, \u0441\u0432\u0435\u0440\u0445\u044a\u0435\u0441\u0442\u0435\u0441\u0442\u0432\u0435\u043d\u043d\u044b\u0439",
+        "isv_l": "prostor vy\u0161e, najvys\u0161a \u010dest, n\u011b\u010dto vozvy\u0161eno; udiviteljny, bo\u017esky, svety, nadprirodny",
+        "isv_c": "\u043f\u0440\u043e\u0441\u0442\u043e\u0440 \u0432\u044b\u0448\u0435, \u043d\u0430\u0458\u0432\u044b\u0441\u0448\u0430 \u0447\u0435\u0441\u0442, \u043d\u0454\u0447\u0442\u043e \u0432\u043e\u0437\u0432\u044b\u0448\u0435\u043d\u043e; \u0443\u0434\u0438\u0432\u0438\u0442\u0435\u0459\u043d\u044b, \u0431\u043e\u0436\u0441\u043a\u044b, \u0441\u0432\u0435\u0442\u044b, \u043d\u0430\u0434\u043f\u0440\u0438\u0440\u043e\u0434\u043d\u044b",
         "eo": "areo super io, plej alta parto de io, io pli alta; miriga, dia, sankta, supernatura",
         "de": "h\u00f6hergelegener Bereich, h\u00f6chster Teil, etwas erhobenes; hoch, oben, \u00fcber; beeindruckend, g\u00f6ttlich, heilig, \u00fcbernat\u00fcrlich",
         "it": "area al di sopra, parte pi\u00f9 alta, qualcosa di elevato; soggezione, divino, sacro, soprannaturale",
@@ -6648,6 +6698,8 @@
         "en": "body (of person or animal), physical state, torso",
         "pl": "cia\u0142o (cz\u0142owieka lub zwierz\u0119cia), stan fizyczny, tu\u0142\u00f3w",
         "ru": "\u0442\u0435\u043b\u043e (\u0447\u0435\u043b\u043e\u0432\u0435\u043a\u0430 \u0438\u043b\u0438 \u0436\u0438\u0432\u043e\u0442\u043d\u043e\u0433\u043e), \u0444\u0438\u0437\u0438\u0447\u0435\u0441\u043a\u043e\u0435 \u0441\u043e\u0441\u0442\u043e\u044f\u043d\u0438\u0435, \u0442\u043e\u0440\u0441",
+        "isv_l": "t\u011blo (\u010dlov\u011b\u010dsko ili \u017eivotinsko), fizi\u010dno stanje, tors",
+        "isv_c": "\u0442\u0454\u043b\u043e (\u0447\u043b\u043e\u0432\u0454\u0447\u0441\u043a\u043e \u0438\u043b\u0438 \u0436\u0438\u0432\u043e\u0442\u0438\u043d\u0441\u043a\u043e), \u0444\u0438\u0437\u0438\u0447\u043d\u043e \u0441\u0442\u0430\u045a\u0435, \u0442\u043e\u0440\u0441",
         "eo": "korpo (de homo a\u016d besto), fizika stato, torso",
         "de": "K\u00f6rper (einer Person oder eines Tieres), k\u00f6rperlicher Zustand, Torso, Oberk\u00f6rper",
         "it": "corpo (di persona o animale), stato fisico, torso",
@@ -6678,6 +6730,8 @@
         "en": "round or circular thing; ball, circle, cycle, sphere, wheel; of one year",
         "pl": "co\u015b okr\u0105g\u0142ego; pi\u0142ka, okr\u0105g, cykl, kula, ko\u0142o; jednoroczny",
         "ru": "\u043a\u0440\u0443\u0433\u043b\u044b\u0439 \u043f\u0440\u0435\u0434\u043c\u0435\u0442; \u0448\u0430\u0440, \u043a\u0440\u0443\u0433, \u0446\u0438\u043a\u043b, \u0441\u0444\u0435\u0440\u0430, \u043a\u043e\u043b\u0435\u0441\u043e; \u043e\u0442\u043d\u043e\u0441\u044f\u0449\u0438\u0439\u0441\u044f \u043a \u043e\u0434\u043d\u043e\u043c\u0443 \u0433\u043e\u0434\u0443",
+        "isv_l": "obly, krugly pr\u011bdmet; sfera, krug, cikl, kolo; jednol\u011btny, jednoro\u010dny",
+        "isv_c": "\u043e\u0431\u043b\u044b, \u043a\u0440\u0443\u0433\u043b\u044b \u043f\u0440\u0454\u0434\u043c\u0435\u0442; \u0441\u0444\u0435\u0440\u0430, \u043a\u0440\u0443\u0433, \u0446\u0438\u043a\u043b, \u043a\u043e\u043b\u043e; \u0458\u0435\u0434\u043d\u043e\u0433\u043e\u0434\u043d\u044b, \u0458\u0435\u0434\u043d\u043e\u0440\u043e\u0447\u043d\u044b",
         "eo": "io ronda a\u016d cirkla; pilko, cirklo, ciklo, globo, sfero, rado; de unu jaro",
         "de": "rundes oder kreisf\u00f6rmiges Ding; Ball, Kreis, Zyklus, Kugel, Rad; ein Jahr betreffend",
         "it": "cosa rotonda o circolare; palla, cerchio, ciclo, sfera, ruota; di un anno",
@@ -6931,6 +6985,8 @@
         "en": "know, be skilled in, be wise about, have information on; (pv.) know how to",
         "pl": "wiedzie\u0107, by\u0107 wprawnym w, by\u0107 m\u0105drym na temat, mie\u0107 wiedz\u0119 o; (pv.) wiedzie\u0107 jak",
         "ru": "\u0437\u043d\u0430\u0442\u044c, \u0431\u044b\u0442\u044c \u043e\u043f\u044b\u0442\u043d\u044b\u043c, \u0431\u044b\u0442\u044c \u043c\u0443\u0434\u0440\u044b\u043c, \u0440\u0430\u0441\u043f\u043e\u043b\u0430\u0433\u0430\u0442\u044c \u0438\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0438\u0435\u0439; (pv.) \u0443\u043c\u0435\u0442\u044c",
+        "isv_l": "znati, v\u011bd\u011bti, im\u011bti, imati um\u011bnje, byti mudrym v pr\u011bdmetu, imati informaciju o; (pv.) um\u011bti",
+        "isv_c": "\u0437\u043d\u0430\u0442\u0438, \u0432\u0454\u0434\u0454\u0442\u0438, \u0438\u043c\u0454\u0442\u0438, \u0438\u043c\u0430\u0442\u0438 \u0443\u043c\u0454\u045a\u0435, \u0431\u044b\u0442\u0438 \u043c\u0443\u0434\u0440\u044b\u043c \u0432 \u043f\u0440\u0454\u0434\u043c\u0435\u0442\u0443, \u0438\u043c\u0430\u0442\u0438 \u0438\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0438\u0458\u0443 \u043e; (\u043f\u0432.) \u0443\u043c\u0454\u0442\u0438",
         "eo": "scii, esti lerta pri, esti sa\u011da pri, havi informojn pri; (a.v.) scipovi",
         "de": "wissen, k\u00f6nnen, erfahren sein in, weise sein \u00fcber, Informationen haben \u00fcber; (pv.) wissen wie",
         "it": "conoscere, essere esperto, essere saggio, avere informazioni su; (pv.) sapere come",
@@ -7136,6 +7192,8 @@
         "en": "sun; light, brightness, glow, radiance, shine; light source",
         "pl": "s\u0142o\u0144ce; \u015bwiat\u0142o, jasno\u015b\u0107, po\u015bwiata, blask, po\u0142ysk; \u017ar\u00f3d\u0142o \u015bwiat\u0142a",
         "ru": "\u0441\u043e\u043b\u043d\u0446\u0435; \u0441\u0432\u0435\u0442, \u044f\u0440\u043a\u043e\u0441\u0442\u044c, \u0441\u0432\u0435\u0447\u0435\u043d\u0438\u0435, \u0441\u0438\u044f\u043d\u0438\u0435; \u0438\u0441\u0442\u043e\u0447\u043d\u0438\u043a \u0441\u0432\u0435\u0442\u0430",
+        "isv_l": "solnce; sv\u011btlo, jasnost, bl\u011bsk; \u017erlo sv\u011btla",
+        "isv_c": "\u0441\u043e\u043b\u043d\u0446\u0435; \u0441\u0432\u0454\u0442\u043b\u043e, \u0458\u0430\u0441\u043d\u043e\u0441\u0442, \u0431\u043b\u0454\u0441\u043a; \u0436\u0440\u043b\u043e \u0441\u0432\u0454\u0442\u043b\u0430",
         "eo": "suno; lumo, heleco, lumi, ardi, brilo; lumfonto",
         "de": "Sonne; Licht, Helligkeit, Leuchten, Glanz, Schein; Lichtquelle",
         "tok": "sina ken lukin e wawa ni. nimi ni li ken toki e ni kin: ijo suno suli lon sewi.",
@@ -7167,6 +7225,8 @@
         "en": "horizontal surface, thing to put or rest something on",
         "pl": "pozioma powierzchnia, mo\u017cna na tym co\u015b po\u0142o\u017cy\u0107 czy umie\u015bci\u0107",
         "ru": "\u0433\u043e\u0440\u0438\u0437\u043e\u043d\u0442\u0430\u043b\u044c\u043d\u0430\u044f \u043f\u043e\u0432\u0435\u0440\u0445\u043d\u043e\u0441\u0442\u044c, \u043f\u0440\u0435\u0434\u043c\u0435\u0442, \u043d\u0430 \u043a\u043e\u0442\u043e\u0440\u044b\u0439 \u043c\u043e\u0436\u043d\u043e \u0447\u0442\u043e-\u0442\u043e \u043f\u043e\u0441\u0442\u0430\u0432\u0438\u0442\u044c \u0438\u043b\u0438 \u043e\u043f\u0435\u0440\u0435\u0442\u044c\u0441\u044f",
+        "isv_l": "horizontalna povrhnost; pr\u011bdmet, na ktory jest mo\u017eno n\u011b\u010dto polo\u017eiti",
+        "isv_c": "\u0445\u043e\u0440\u0438\u0437\u043e\u043d\u0442\u0430\u043b\u043d\u0430 \u043f\u043e\u0432\u0440\u0445\u043d\u043e\u0441\u0442; \u043f\u0440\u0454\u0434\u043c\u0435\u0442, \u043d\u0430 \u043a\u0442\u043e\u0440\u044b \u0458\u0435\u0441\u0442 \u043c\u043e\u0436\u043d\u043e \u043d\u0454\u0447\u0442\u043e \u043f\u043e\u043b\u043e\u0436\u0438\u0442\u0438",
         "eo": " horizontala surfaco, io sur kio oni metas ion alian",
         "de": "waagerechte Oberfl\u00e4che, Ding f\u00fcr das Abstellen von anderen Dingen",
         "tok": "supa li lon anpa pi tomo mi. kin la, jan li ken lape lon supa.",
@@ -7384,7 +7444,9 @@
       "def": {
         "en": "going to, toward; for; from the perspective of; moving | ALT (pv.) going to",
         "pl": "i\u015b\u0107 do, w kierunku; dla; z perspektywy; ruchomy | ALT (pv.) zamierza\u0107",
-        "ru": "\u0434\u0432\u0438\u0433\u0430\u044e\u0449\u0438\u0439\u0441\u044f, \u043d\u0430\u0432\u0441\u0442\u0440\u0435\u0447\u0443; \u0434\u043b\u044f; \u0441 \u0442\u043e\u0447\u043a\u0438 \u0437\u0440\u0435\u043d\u0438\u044f; \u043f\u0435\u0440\u0435\u043c\u0435\u0449\u0430\u044e\u0449\u0438\u0439\u0441\u044f | ALT (pv.) \u0441\u043e\u0431\u0438\u0440\u0430\u0435\u0442\u0441\u044f",
+        "ru": "\u0434\u0432\u0438\u0433\u0430\u044e\u0449\u0438\u0439\u0441\u044f, \u043d\u0430\u0432\u0441\u0442\u0440\u0435\u0447\u0443; \u0434\u043b\u044f; \u0441 \u0442\u043e\u0447\u043a\u0438 \u0437\u0440\u0435\u043d\u0438\u044f; \u043f\u0435\u0440\u0435\u043c\u0435\u0449\u0430\u044e\u0449\u0438\u0439\u0441\u044f | ALT (pv.) \u0441\u043e\u0431\u0438\u0440\u0430\u0442\u044c\u0441\u044f",
+        "isv_l": "dvigati se do, k, dlja; s gledi\u0161\u010da n\u011bkogo; dvigaju\u010di se | ALT (pv.) nam\u011brjati",
+        "isv_c": "\u0434\u0432\u0438\u0433\u0430\u0442\u0438 \u0441\u0435 \u0434\u043e, \u043a, \u0434\u0459\u0430; \u0441 \u0433\u043b\u0435\u0434\u0438\u0448\u0447\u0430 \u043d\u0454\u043a\u043e\u0433\u043e; \u0434\u0432\u0438\u0433\u0430\u0458\u0443\u0447\u0438 \u0441\u0435 | \u0410\u041b\u0422 (\u043f\u0432.) \u043d\u0430\u043c\u0454\u0440\u0458\u0430\u0442\u0438",
         "eo": "al, iranta al, en la direkto al; por, al; la\u016d la vidpunkto de; movanta | ALT (a.v.) iri ...i",
         "de": "hin, zu, nach; f\u00fcr; nach Ansicht von; gehen, bewegen | ALT (HV) zu... hingehen",
         "tok": "lon ijo li kama ante kepeken tenpo la ona li tawa. ijo li tawa li kama poka pi ijo ante la, ijo li tawa ijo ante. ijo li pona lon pilin sina la ijo li pona tawa sina.",
@@ -7545,6 +7607,8 @@
         "en": "time, duration, moment, occasion, period, situation",
         "pl": "czas, czas trwania, moment, okazja, okres, sytuacja",
         "ru": "\u0432\u0440\u0435\u043c\u044f, \u043f\u0440\u043e\u0434\u043e\u043b\u0436\u0438\u0442\u0435\u043b\u044c\u043d\u043e\u0441\u0442\u044c, \u043c\u043e\u043c\u0435\u043d\u0442, \u0441\u043b\u0443\u0447\u0430\u0439, \u043f\u0435\u0440\u0438\u043e\u0434, \u0441\u0438\u0442\u0443\u0430\u0446\u0438\u044f",
+        "isv_l": "\u010das, vr\u011bme, trvanje, moment, okazija, doba, situacija",
+        "isv_c": "\u0447\u0430\u0441, \u0432\u0440\u0454\u043c\u0435, \u0442\u0440\u0432\u0430\u045a\u0435, \u043c\u043e\u043c\u0435\u043d\u0442, \u043e\u043a\u0430\u0437\u0438\u0458\u0430, \u0434\u043e\u0431\u0430, \u0441\u0438\u0442\u0443\u0430\u0446\u0438\u0458\u0430",
         "eo": "tempo, da\u016dro, momento, okazo, fojo, periodo, situacio",
         "de": "Zeit, Dauer, Moment, Gelegenheit, Zeitraum, Situation",
         "tok": "tenpo la ale li kama ante li kama moli li kama weka.",
@@ -7635,6 +7699,8 @@
         "en": "communicate, say, speak, talk, use language, think; hello",
         "pl": "komunikowa\u0107 si\u0119, m\u00f3wi\u0107, rozmawia\u0107, u\u017cywa\u0107 j\u0119zyka, my\u015ble\u0107; cze\u015b\u0107",
         "ru": "\u043e\u0431\u0449\u0430\u0442\u044c\u0441\u044f, \u0433\u043e\u0432\u043e\u0440\u0438\u0442\u044c, \u0441\u043a\u0430\u0437\u0430\u0442\u044c, \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u044c \u044f\u0437\u044b\u043a, \u0434\u0443\u043c\u0430\u0442\u044c; \u043f\u0440\u0438\u0432\u0435\u0442",
+        "isv_l": "komunikovati, govoriti, r\u011bkti, koristati jezyk, mysliti; zdrav",
+        "isv_c": "\u043a\u043e\u043c\u0443\u043d\u0438\u043a\u043e\u0432\u0430\u0442\u0438, \u0433\u043e\u0432\u043e\u0440\u0438\u0442\u0438, \u0440\u0454\u043a\u0442\u0438, \u043a\u043e\u0440\u0438\u0441\u0442\u0430\u0442\u0438 \u0458\u0435\u0437\u044b\u043a, \u043c\u044b\u0441\u043b\u0438\u0442\u0438; \u0437\u0434\u0440\u0430\u0432",
         "eo": "komuniki, diri, paroli, uzi lingvon, pensi; saluton",
         "de": "kommunizieren, sagen, sprechen, reden, Sprache benutzen, denken; hallo",
         "tok": "toki la, jan li ken pana e sona kepeken kalama anu sitelen anu luka.",
@@ -7691,6 +7757,8 @@
         "en": "indoor space; building, home, house, room",
         "pl": "przestrze\u0144 wewn\u0119trzna; budynek, dom, pok\u00f3j",
         "ru": "\u0432\u043d\u0443\u0442\u0440\u0435\u043d\u043d\u0435\u0435 \u043f\u0440\u043e\u0441\u0442\u0440\u0430\u043d\u0441\u0442\u0432\u043e; \u0437\u0434\u0430\u043d\u0438\u0435, \u0434\u043e\u043c, \u0436\u0438\u043b\u0438\u0449\u0435, \u043a\u043e\u043c\u043d\u0430\u0442\u0430",
+        "isv_l": "vnutrny prostor; budynok, dom, pom\u011b\u0161\u010denje, komnata",
+        "isv_c": "\u0432\u043d\u0443\u0442\u0440\u043d\u044b \u043f\u0440\u043e\u0441\u0442\u043e\u0440; \u0431\u0443\u0434\u044b\u043d\u043e\u043a, \u0434\u043e\u043c, \u043f\u043e\u043c\u0454\u0448\u0447\u0435\u045a\u0435, \u043a\u043e\u043c\u043d\u0430\u0442\u0430",
         "eo": "endoma spaco; konstrua\u0135o, hejmo, domo, \u0109ambro",
         "de": "Innenraum, Geb\u00e4ude, Haus, Raum, Zuhause",
         "tok": "lon tomo la, ijo li awen li lon nasin pona tawa ona.",
@@ -7913,7 +7981,8 @@
         "ur": "\u062c\u0627\u0645\u0646\u06cc",
         "pa": "\u0a1c\u0a3e\u0a2e\u0a28\u0a40 \u0a30\u0a70\u0a17",
         "id": "ungu",
-        "it": "viola"
+        "it": "viola",
+        "he": "\u05e1\u05d2\u05d5\u05dc"
       }
     },
     "usawi": {
@@ -8654,7 +8723,7 @@
     "nasin nanpa": {
       "writing_system": "sitelen pona",
       "links": {
-        "fontfile": "https://github.com/ETBCOR/nasin-nanpa/blob/main/versions/nasin-nanpa-2.5.1.otf",
+        "fontfile": "https://github.com/ETBCOR/nasin-nanpa/raw/main/versions/nasin-nanpa-2.5.1.otf",
         "repo": "https://github.com/ETBCOR/linja-nanpa"
       },
       "creator": "jan Itan",
