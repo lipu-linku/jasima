@@ -205,16 +205,16 @@
       "name_endonym": "T\u00fcrk\u00e7e ",
       "name_english": "Turkish",
       "name_toki_pona": "toki Tuki",
-      "completeness_percent": "35",
-      "completeness_percent_pu": "73"
+      "completeness_percent": "49",
+      "completeness_percent_pu": "100"
     },
     "uk": {
       "id_long": "ukrainian",
       "name_endonym": "\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0430",
       "name_english": "Ukrainian",
       "name_toki_pona": "toki Ukawina",
-      "completeness_percent": "8",
-      "completeness_percent_pu": "18"
+      "completeness_percent": "13",
+      "completeness_percent_pu": "28"
     },
     "ur": {
       "id_long": "urdu",
@@ -229,7 +229,7 @@
       "name_endonym": "\u4e2d\u6587\uff08\u7b80\u4f53\uff09",
       "name_english": "Chinese (Simplified)",
       "name_toki_pona": "toki Sonko (sitelen Kansi lili)",
-      "completeness_percent": "48",
+      "completeness_percent": "100",
       "completeness_percent_pu": "100"
     },
     "zh_hant": {
@@ -237,7 +237,7 @@
       "name_endonym": "\u4e2d\u6587\uff08\u7e41\u9ad4\uff09",
       "name_english": "Chinese (Traditional)",
       "name_toki_pona": "toki Sonko (sitelen Kansi mute)",
-      "completeness_percent": "73",
+      "completeness_percent": "100",
       "completeness_percent_pu": "100"
     }
   },
@@ -379,8 +379,8 @@
         "fr": "(accent, \u00e9motion ou confirmation)",
         "tr": "(vurgu, duygu veya onay)",
         "mi": "(he miramira, he kare \u0101-roto, he whaka\u016b r\u0101nei)",
-        "zh_hant": "\uff08\u7528\u4f86\u5f37\u8abf\u3001\u8868\u9054\u611f\u60c5\u6216\u78ba\u8a8d\uff09",
-        "zh_hans": "\uff08\u7528\u6765\u5f3a\u8c03\u3001\u8868\u8fbe\u611f\u60c5\u6216\u786e\u8ba4\uff09",
+        "zh_hant": "\uff08\u7528\u65bc\u5f37\u8abf\u3001\u8868\u9054\u611f\u60c5\u6216\u78ba\u8a8d\uff09",
+        "zh_hans": "\uff08\u7528\u4e8e\u5f3a\u8c03\u3001\u8868\u8fbe\u611f\u60c5\u6216\u786e\u8ba4\uff09",
         "fi": "(painotus, vahvistus tai tunne)",
         "uk": "(\u043f\u0456\u0434\u0442\u0432\u0435\u0440\u0434\u0436\u0435\u043d\u043d\u044f \u0430\u0431\u043e \u0435\u043c\u043e\u0446\u0456\u044f)",
         "tkl": "(he fakamamafa, he lagona, pe he feagaiga)",
@@ -405,7 +405,9 @@
         "eo": "kruc-simila formo, intersekci\u011do, interkovro (vidu anka\u016d natu kaj eki)",
         "de": "kreuzartige Form, Wegeskreuzung, \u00dcberschneidung [Alternative zu natu]",
         "tok": "natu li nasin pilin pi jan tu, anu ni: palisa tu li lon la, ona li kama wan lon ma lili wan. ni li sama sitelen pi nimi \"ala.\"",
-        "it": "forma a croce, intersezione, sovrapposizione [forma alternativa di natu]"
+        "it": "forma a croce, intersezione, sovrapposizione [forma alternativa di natu]",
+        "zh_hant": "\u5341\u5b57\u5f62\u72c0\u3001\u4ea4\u9ede\u3001\u76f8\u4ea4\u3001\u91cd\u758a\u3001\u4ea4\u758a [\u540cnatu]",
+        "zh_hans": "\u5341\u5b57\u5f62\u72b6\u3001\u4ea4\u70b9\u3001\u76f8\u4ea4\u3001\u91cd\u53e0\u3001\u4ea4\u53e0 [\u540cnatu]"
       }
     },
     "akesi": {
@@ -465,7 +467,9 @@
       "def": {
         "en": "general interjection, context-dependent",
         "pl": "(og\u00f3lny wykrzyknik, zale\u017cny od kontekstu)",
-        "ru": "\u0432\u043e\u0441\u043a\u043b\u0438\u0446\u0430\u043d\u0438\u0435 (\u043a\u043e\u043d\u0442\u0435\u043a\u0441\u0442\u043e\u0437\u0430\u0432\u0438\u0441\u0438\u043c\u043e\u0435)"
+        "ru": "\u0432\u043e\u0441\u043a\u043b\u0438\u0446\u0430\u043d\u0438\u0435 (\u043a\u043e\u043d\u0442\u0435\u043a\u0441\u0442\u043e\u0437\u0430\u0432\u0438\u0441\u0438\u043c\u043e\u0435)",
+        "zh_hant": "\uff08\u901a\u7528\u611f\u5606\u8a5e\uff0c\u7531\u4e0a\u4e0b\u6587\u6c7a\u5b9a\uff09",
+        "zh_hans": "\uff08\u901a\u7528\u611f\u53f9\u8bcd\uff0c\u7531\u4e0a\u4e0b\u6587\u51b3\u5b9a\uff09"
       }
     },
     "ala": {
@@ -683,7 +687,9 @@
         "ur": "\u0645\u0631\u06a9\u0632\u06cc \u062c\u0645\u0644\u06d2 \u0627\u0648\u0631 \u0642\u0631\u06cc\u0646\u06d2 \u06a9\u06d2 \u0628\u06cc\u0686 \u0645\u06cc\u06ba",
         "pa": "\u0a2e\u0a41\u0a71\u0a16 \u0a35\u0a3e\u0a15 \u0a05\u0a24\u0a47 \u0a38\u0a70\u0a27\u0a30\u0a2d \u0a26\u0a47 \u0a35\u0a3f\u0a71\u0a1a",
         "id": "(di antara klausa utama dan klausa keterangan)",
-        "it": "(tra la frase principale e la frase di contesto)"
+        "it": "(tra la frase principale e la frase di contesto)",
+        "zh_hant": "\uff08\u7f6e\u65bc\u4e3b\u53e5\u8207\u8a9e\u5883\u77ed\u8a9e\u4e4b\u9593\uff09",
+        "zh_hans": "\uff08\u7f6e\u4e8e\u4e3b\u53e5\u4e0e\u8bed\u5883\u77ed\u8bed\u4e4b\u95f4\uff09"
       }
     },
     "anpa": {
@@ -853,7 +859,8 @@
         "pa": "\u0a38\u0a3c\u0a30\u0a2e, \u0a38\u0a3c\u0a30\u0a2e\u0a3f\u0a70\u0a26\u0a17\u0a40, \u0a15\u0a32\u0a70\u0a15; \u0a07\u0a32\u0a1c\u0a3e\u0a2e \u0a32\u0a17\u0a3e\u0a09\u0a23\u0a3e, \u0a26\u0a4b\u0a38\u0a3c\u0a40 \u0a20\u0a39\u0a30\u0a3e\u0a09\u0a23\u0a3e, \u0a05\u0a30\u0a4b\u0a2a \u0a32\u0a17\u0a3e\u0a09\u0a23\u0a3e, \u0a2a\u0a30\u0a26\u0a3e\u0a2b\u0a3e\u0a38\u0a3c \u0a15\u0a30\u0a28\u0a3e, \u0a1c\u0a32\u0a40\u0a32 \u0a15\u0a30\u0a28\u0a3e",
         "id": "rasa bersalah, malu, cela, stigma, aib; menuduh, mengasingkan, mengekspos, mengejek, mempermalukan",
         "it": "colpa, vergogna, rifiuto, stigma, disgrazia; accusare, individuare, esporre, disonorare, imbarazzare",
-        "zh_hant": "\u5167\u759a\u3001\u6094\u6068\u3001\u7f9e\u6065\u3001\u615a\u6127\u3001\u6065\u8fb1\u3001\u4e1f\u81c9\uff1b\u6307\u8cac\u3001\u5b64\u7acb\u3001\u63ed\u7a7f\u3001\u70ba\u2026\u2026\u5e36\u4f86\u6065\u8fb1\u3001\u4f7f\u5c37\u5c2c"
+        "zh_hant": "\u5167\u759a\u3001\u6094\u6068\u3001\u7f9e\u6065\u3001\u615a\u6127\u3001\u6065\u8fb1\u3001\u4e1f\u81c9\uff1b\u6307\u8cac\u3001\u5b64\u7acb\u3001\u63ed\u7a7f\u3001\u70ba\u2026\u2026\u5e36\u4f86\u6065\u8fb1\u3001\u4f7f\u5c37\u5c2c",
+        "zh_hans": "\u5185\u759a\u3001\u6094\u6068\u3001\u7f9e\u803b\u3001\u60ed\u6127\u3001\u803b\u8fb1\u3001\u4e22\u8138\uff1b\u6307\u8d23\u3001\u5b64\u7acb\u3001\u63ed\u7a7f\u3001\u4e3a\u2026\u2026\u5e26\u6765\u803b\u8fb1\u3001\u4f7f\u5c34\u5c2c"
       }
     },
     "awase": {
@@ -874,7 +881,9 @@
         "eo": "frapi, skui",
         "de": "sto\u00dfen, klopfen, r\u00fctteln",
         "tok": "jan li tawa wawa e sina la, ona li awase e sina.",
-        "it": "urto, botta, scossa"
+        "it": "urto, botta, scossa",
+        "zh_hant": "\u78b0\u3001\u649e\u3001\u6572\u3001\u64ca\u3001\u6416\u52d5\u3001\u9707\u52d5",
+        "zh_hans": "\u78b0\u3001\u649e\u3001\u6572\u3001\u51fb\u3001\u6447\u52a8\u3001\u9707\u52a8"
       }
     },
     "awen": {
@@ -978,7 +987,9 @@
         "eo": "kruc-simila formo, intersekci\u011do, interkovro (vidu anka\u016d natu kaj aka)",
         "de": "kreuzartige Form, Wegeskreuzung, \u00dcberschneidung [Alternative zu natu]",
         "tok": "natu li nasin pilin pi jan tu, anu ni: palisa tu li lon la, ona li kama wan lon ma lili wan. ni li sama sitelen pi nimi \"ala.\"",
-        "it": "forma a croce, intersezione, sovrapposizione [forma alternativa di natu]"
+        "it": "forma a croce, intersezione, sovrapposizione [forma alternativa di natu]",
+        "zh_hant": "\u5341\u5b57\u5f62\u72c0\u3001\u4ea4\u9ede\u3001\u76f8\u4ea4\u3001\u91cd\u758a\u3001\u4ea4\u758a [\u540cnatu]",
+        "zh_hans": "\u5341\u5b57\u5f62\u72b6\u3001\u4ea4\u70b9\u3001\u76f8\u4ea4\u3001\u91cd\u53e0\u3001\u4ea4\u53e0 [\u540cnatu]"
       }
     },
     "en": {
@@ -1048,7 +1059,9 @@
         "eo": "(spacaj ekvivalentoj de la vorto \u201ctenpo\u201d) spaco, loko, distanco, grandeco (longo, lar\u011do, alteco, profundo, areo, volumeno)",
         "de": "(r\u00e4umliche Entsprechungen von tenpo-Konstruktionen) Raum, Ort, Entfernung, Gr\u00f6\u00dfe (L\u00e4nge, Breite, H\u00f6he, Tiefe, Fl\u00e4che, Volumen)",
         "tok": "enko li ma anu tomo anu mute suli anu mute weka lon insa pi ijo tu.",
-        "it": "(equivalenti spaziali delle costruzioni tenpo) spazio, luogo, distanza, dimensione (lunghezza, larghezza, altezza, profondit\u00e0, area, volume)"
+        "it": "(equivalenti spaziali delle costruzioni tenpo) spazio, luogo, distanza, dimensione (lunghezza, larghezza, altezza, profondit\u00e0, area, volume)",
+        "zh_hant": "\uff08\u8a5e\u7fa9\u7bc4\u570d\u76f8\u7576\u65bctenpo\uff09\u7a7a\u9593\u3001\u5730\u65b9\u3001\u4f4d\u7f6e\u3001\u8ddd\u96e2\u3001\u5927\u5c0f\uff08\u9577\u5ea6\u3001\u5bec\u5ea6\u3001\u9ad8\u5ea6\u3001\u6df1\u5ea6\u3001\u9762\u7a4d\u3001\u9ad4\u7a4d\uff09",
+        "zh_hans": "\uff08\u8bcd\u4e49\u8303\u56f4\u76f8\u5f53\u4e8etenpo\uff09\u7a7a\u95f4\u3001\u5730\u65b9\u3001\u4f4d\u7f6e\u3001\u8ddd\u79bb\u3001\u5927\u5c0f\uff08\u957f\u5ea6\u3001\u5bbd\u5ea6\u3001\u9ad8\u5ea6\u3001\u6df1\u5ea6\u3001\u9762\u79ef\u3001\u4f53\u79ef\uff09"
       }
     },
     "epiku": {
@@ -1085,7 +1098,8 @@
         "id": "epik, keren, hebat, menakjubkan",
         "it": "epico, figo, fantastico, sorprendente",
         "tr": "epik, harika, s\u00fcper, muhte\u015fem",
-        "zh_hant": "\u53f2\u8a69\u7d1a\u7684\u3001\u5f88\u68d2\u7684\u3001\u6975\u597d\u7684\u3001\u9a5a\u4eba\u7684"
+        "zh_hant": "\u53f2\u8a69\u7d1a\u7684\u3001\u5f88\u68d2\u7684\u3001\u6975\u597d\u7684\u3001\u9a5a\u4eba\u7684",
+        "zh_hans": "\u53f2\u8bd7\u7ea7\u7684\u3001\u5f88\u68d2\u7684\u3001\u6781\u597d\u7684\u3001\u60ca\u4eba\u7684"
       }
     },
     "esun": {
@@ -1165,7 +1179,9 @@
         "pa": "\u0a24\u0a4b\u0a02 \u0a35\u0a71\u0a27, \u0a24\u0a4b\u0a02 \u0a05\u0a71\u0a17\u0a47, \u0a24\u0a4b\u0a02 \u0a2c\u0a3e\u0a39\u0a30",
         "id": "melebihi, melampaui, di luar dari, lebih dari",
         "it": "oltre, superando, al di fuori di, pi\u00f9 di",
-        "zh_hant": "\u8d85\u904e\u3001\u8d85\u51fa\u3001\u5728\u2026\u2026\u5916\u9762\u3001\u591a\u65bc"
+        "tr": "\u00f6te, \u00f6tesinde",
+        "zh_hant": "\u8d85\u904e\u3001\u8d85\u51fa\u3001\u5728\u2026\u2026\u5916\u9762\u3001\u591a\u65bc",
+        "zh_hans": "\u8d85\u8fc7\u3001\u8d85\u51fa\u3001\u5728\u2026\u2026\u5916\u9762\u3001\u591a\u4e8e"
       }
     },
     "ewe": {
@@ -1197,7 +1213,8 @@
         "pa": "\u0a2a\u0a71\u0a25\u0a30, \u0a1a\u0a71\u0a1f\u0a3e\u0a28, \u0a32\u0a3e\u0a35\u0a3e",
         "id": "batu, kerikil, cadas, berangkal, lahar, magma",
         "it": "pietra, ghiaia, roccia, ciottolo, lava, magma",
-        "zh_hant": "\u77f3\u982d\u3001\u5ca9\u77f3\u3001\u6c99\u792b\u3001\u9d5d\u5375\u77f3\u3001\u792b\u77f3\u3001\u5ca9\u6f3f\u3001\u7194\u5ca9"
+        "zh_hant": "\u77f3\u982d\u3001\u5ca9\u77f3\u3001\u6c99\u792b\u3001\u9d5d\u5375\u77f3\u3001\u792b\u77f3\u3001\u5ca9\u6f3f\u3001\u7194\u5ca9",
+        "zh_hans": "\u77f3\u5934\u3001\u5ca9\u77f3\u3001\u6c99\u783e\u3001\u9e45\u5375\u77f3\u3001\u783e\u77f3\u3001\u5ca9\u6d46\u3001\u7194\u5ca9"
       }
     },
     "i": {
@@ -1222,7 +1239,9 @@
         "ur": "\u06cc\u06c1\u060c \u0648\u06c1\u060c \u06cc\u06d2\u060c \u0648\u0648 (\u0627\u0646\u0633\u0627\u0646)\u060c (\u0627\u0648\u0646\u06c1 \u0628\u0648\u0644\u0646\u06d2 \u06a9\u0627 \u0627\u06cc\u06a9 \u0627\u0648\u0631 \u062a\u0631\u06cc\u0642\u0627)",
         "pa": "\u0a07\u0a39, \u0a13\u0a39 (\u0a07\u0a28\u0a38\u0a3e\u0a28), (\u0a13\u0a28\u0a3e \u0a28\u0a42\u0a70 \u0a2c\u0a4b\u0a32\u0a23 \u0a26\u0a3e \u0a07\u0a71\u0a15 \u0a39\u0a4b\u0a30 \u0a24\u0a30\u0a40\u0a15\u0a3e)",
         "id": "dia, mereka [bentuk lain dari ona]",
-        "it": "lui, lei, esso, loro [forma alternativa di ona]"
+        "it": "lui, lei, esso, loro [forma alternativa di ona]",
+        "zh_hant": "\u4ed6\u3001\u5979\u3001\u5b83\u3001\u4ed6\u5011\u3001\u5979\u5011\u3001\u5b83\u5011 [\u540cona]",
+        "zh_hans": "\u4ed6\u3001\u5979\u3001\u5b83\u3001\u4ed6\u4eec\u3001\u5979\u4eec\u3001\u5b83\u4eec [\u540cona]"
       }
     },
     "ijo": {
@@ -1339,7 +1358,9 @@
         "ur": "\u06cc\u06c1\u060c \u0648\u06c1\u060c \u06cc\u06d2\u060c \u0648\u0648 (\u0627\u0646\u0633\u0627\u0646)\u060c (\u0627\u0648\u0646\u06c1 \u0628\u0648\u0644\u0646\u06d2 \u06a9\u0627 \u0627\u06cc\u06a9 \u0627\u0648\u0631 \u062a\u0631\u06cc\u0642\u0627)",
         "pa": "\u0a07\u0a39, \u0a13\u0a39 (\u0a07\u0a28\u0a38\u0a3e\u0a28), (\u0a13\u0a28\u0a3e \u0a28\u0a42\u0a70 \u0a2c\u0a4b\u0a32\u0a23 \u0a26\u0a3e \u0a07\u0a71\u0a15 \u0a39\u0a4b\u0a30 \u0a24\u0a30\u0a40\u0a15\u0a3e)",
         "id": "dia, mereka [bentuk lain dari ona]",
-        "it": "lui, lei, esso, loro [forma alternativa di ona]"
+        "it": "lui, lei, esso, loro [forma alternativa di ona]",
+        "zh_hant": "\u4ed6\u3001\u5979\u3001\u5b83\u3001\u4ed6\u5011\u3001\u5979\u5011\u3001\u5b83\u5011 [\u540cona]",
+        "zh_hans": "\u4ed6\u3001\u5979\u3001\u5b83\u3001\u4ed6\u4eec\u3001\u5979\u4eec\u3001\u5b83\u4eec [\u540cona]"
       }
     },
     "ilo": {
@@ -1377,7 +1398,7 @@
         "pt": "ferramenta, instrumento, m\u00e1quina, dispositivo",
         "tl_l": "kasangkapan, ipatupad, makina, kagamitan",
         "ro": "ma\u0219ina, aparat, scul\u0103, \u00eenplementare",
-        "tr": "ara\u00e7, makine, cihaz",
+        "tr": "alet, ara\u00e7, makine, cihaz",
         "mi": "he taputapu, he utauta, he m\u012bhini",
         "zh_hant": "\u5de5\u5177\u3001\u88dd\u7f6e\u3001\u6a5f\u5668\u3001\u5668\u5177",
         "zh_hans": "\u5de5\u5177\u3001\u88c5\u7f6e\u3001\u673a\u5668\u3001\u5668\u5177",
@@ -1413,7 +1434,9 @@
         "ur": "\u0646\u0645\u0628\u0631 \u062f\u0648",
         "pa": "\u0a28\u0a2e\u0a2c\u0a30 \u0a26\u0a4b",
         "id": "angka \u20182\u2019",
-        "it": "la cifra '2'"
+        "it": "la cifra '2'",
+        "zh_hant": "\u6578\u5b572",
+        "zh_hans": "\u6570\u5b572"
       }
     },
     "insa": {
@@ -1486,7 +1509,9 @@
         "ur": "\u06cc\u06c1\u060c \u0648\u06c1\u060c \u06cc\u06d2\u060c \u0648\u0648 (\u0627\u0646\u0633\u0627\u0646)\u060c (\u0627\u0648\u0646\u06c1 \u0628\u0648\u0644\u0646\u06d2 \u06a9\u0627 \u0627\u06cc\u06a9 \u0627\u0648\u0631 \u062a\u0631\u06cc\u0642\u0627)",
         "pa": "\u0a07\u0a39, \u0a13\u0a39 (\u0a07\u0a28\u0a38\u0a3e\u0a28), (\u0a13\u0a28\u0a3e \u0a28\u0a42\u0a70 \u0a2c\u0a4b\u0a32\u0a23 \u0a26\u0a3e \u0a07\u0a71\u0a15 \u0a39\u0a4b\u0a30 \u0a24\u0a30\u0a40\u0a15\u0a3e)",
         "id": "dia, mereka [bentuk lain dari ona]",
-        "it": "lui, lei, esso, loro [forma alternativa di ona]"
+        "it": "lui, lei, esso, loro [forma alternativa di ona]",
+        "zh_hant": "\u4ed6\u3001\u5979\u3001\u5b83\u3001\u4ed6\u5011\u3001\u5979\u5011\u3001\u5b83\u5011 [\u540cona]",
+        "zh_hans": "\u4ed6\u3001\u5979\u3001\u5b83\u3001\u4ed6\u4eec\u3001\u5979\u4eec\u3001\u5b83\u4eec [\u540cona]"
       }
     },
     "isipin": {
@@ -1551,7 +1576,9 @@
         "ur": "\u0637\u0639\u0646\u06c1 \u0645\u0627\u0631\u0646\u0627",
         "pa": "\u0a24\u0a3e\u0a28\u0a3e \u0a2e\u0a3e\u0a30\u0a28\u0a3e",
         "id": "senang lihat orang lain susah, ejekan tidak langsung, ",
-        "it": "Schadenfreude, insulto indiretto o mancanza di rispetto, ombra"
+        "it": "Schadenfreude, insulto indiretto o mancanza di rispetto, ombra",
+        "zh_hant": "\u5e78\u707d\u6a02\u798d\u3001\u9593\u63a5\u6216\u4e0d\u660e\u986f\u7684\u8fb1\u7f75\u6216\u4e0d\u656c\u884c\u70ba",
+        "zh_hans": "\u5e78\u707e\u4e50\u7978\u3001\u95f4\u63a5\u6216\u4e0d\u660e\u663e\u7684\u8fb1\u9a82\u6216\u4e0d\u656c\u884c\u4e3a"
       }
     },
     "jaki": {
@@ -1625,7 +1652,9 @@
         "ur": "\u0627\u06cc\u06a9 \u0633\u0648",
         "pa": "\u0a07\u0a71\u0a15 \u0a38\u0a4c",
         "id": "seratus",
-        "it": "cento"
+        "it": "cento",
+        "zh_hant": "\u4e00\u767e",
+        "zh_hans": "\u4e00\u767e"
       }
     },
     "jalan": {
@@ -1655,7 +1684,9 @@
         "ur": "\u067e\u0627\u0624\u06ba\u060c \u067e\u06cc\u0631\u060c \u0679\u0627\u0646\u06af (\u0646\u0648\u06a9\u06c1 \u0628\u0648\u0644\u0646\u06d2 \u06a9\u0627 \u0627\u06cc\u06a9 \u0627\u0648\u0631 \u062a\u0631\u06cc\u0642\u0627)",
         "pa": "\u0a2a\u0a48\u0a30, \u0a1f\u0a3e\u0a70\u0a17, \u0a32\u0a71\u0a24 (\u0a28\u0a4b\u0a15\u0a3e \u0a28\u0a42\u0a70 \u0a2c\u0a4b\u0a32\u0a23 \u0a26\u0a3e \u0a07\u0a71\u0a15 \u0a39\u0a4b\u0a30 \u0a24\u0a30\u0a40\u0a15\u0a3e)",
         "id": "kaki [bentuk lain dari noka]",
-        "it": "piede [forma alternativa di noka]"
+        "it": "piede [forma alternativa di noka]",
+        "zh_hant": "\u8173\u3001\u8db3\u90e8 [\u540cnoka]",
+        "zh_hans": "\u811a\u3001\u8db3\u90e8 [\u540cnoka]"
       }
     },
     "jami": {
@@ -1685,7 +1716,9 @@
         "ur": "\u0644\u0630\u06cc\u0630\u060c \u062e\u0648\u0634 \u0630\u0627\u0626\u0642\u06c1",
         "pa": "\u0a38\u0a35\u0a3e\u0a26, \u0a38\u0a41\u0a06\u0a26\u0a40, \u0a38\u0a41\u0a06\u0a26\u0a32\u0a3e",
         "id": "lezat",
-        "it": "gustoso; suscitare o stimolare un'esperienza sensoriale positiva"
+        "it": "gustoso; suscitare o stimolare un'esperienza sensoriale positiva",
+        "zh_hant": "\u597d\u5403\u3001\u7f8e\u5473\uff1b\u5f15\u8d77\u6216\u6fc0\u8d77\u6b63\u9762\u7684\u611f\u5b98\u9ad4\u9a57",
+        "zh_hans": "\u597d\u5403\u3001\u7f8e\u5473\uff1b\u5f15\u8d77\u6216\u6fc0\u8d77\u6b63\u9762\u7684\u611f\u5b98\u4f53\u9a8c"
       }
     },
     "jan": {
@@ -1750,7 +1783,9 @@
         "eo": "la fruaj membroj de la servilo Discorda ma pona",
         "de": "eine bestimmte Gruppe fr\u00fcher Nutzer des Discord-Servers ma pona",
         "tok": "jans li kulupu pi jan open lon ilo Siko pi \"ma pona pi toki pona.\"",
-        "it": "un particolare gruppo di primi membri del server Discord ma pona"
+        "it": "un particolare gruppo di primi membri del server Discord ma pona",
+        "zh_hant": "ma pona Discord\u4f3a\u670d\u5668\u7684\u4e00\u7fa4\u65e9\u671f\u6210\u54e1",
+        "zh_hans": "ma pona Discord\u670d\u52a1\u5668\u7684\u4e00\u7fa4\u65e9\u671f\u6210\u5458"
       }
     },
     "jasima": {
@@ -1785,7 +1820,8 @@
         "id": "memantulkan, menggema, cermin, kebalikan",
         "it": "riflettere, risuonare, rispecchiare, essere all'estremit\u00e0 opposta/polare di",
         "tr": "yans\u0131ma, yank\u0131, ayna, kar\u015f\u0131 sonunda/kutbunda olmak",
-        "zh_hant": "\u53cd\u5c04\u3001\u6620\u51fa\u3001\u8ff4\u97ff\u3001\u8ff4\u8569\u3001\u5728\u2026\u2026\u7684\u53e6\u4e00\u7aef\u3001\u8207\u2026\u2026\u5b8c\u5168\u5c0d\u7acb"
+        "zh_hant": "\u53cd\u5c04\u3001\u6620\u51fa\u3001\u8ff4\u97ff\u3001\u8ff4\u8569\u3001\u5728\u2026\u2026\u7684\u53e6\u4e00\u7aef\u3001\u8207\u2026\u2026\u5b8c\u5168\u5c0d\u7acb",
+        "zh_hans": "\u53cd\u5c04\u3001\u6620\u51fa\u3001\u56de\u54cd\u3001\u56de\u8361\u3001\u5728\u2026\u2026\u7684\u53e6\u4e00\u7aef\u3001\u4e0e\u2026\u2026\u5b8c\u5168\u5bf9\u7acb"
       }
     },
     "jatu": {
@@ -1815,7 +1851,9 @@
         "ur": "\u0646\u0645\u0628\u0631 \u0627\u06cc\u06a9",
         "pa": "\u0a28\u0a2e\u0a2c\u0a30 \u0a07\u0a71\u0a15",
         "id": "angka \u20181\u2019",
-        "it": "la cifra '1'"
+        "it": "la cifra '1'",
+        "zh_hant": "\u6578\u5b571",
+        "zh_hans": "\u6570\u5b571"
       }
     },
     "je": {
@@ -1837,7 +1875,9 @@
         "eo": "(indikas entuziasmon)",
         "de": "(Aufregung, Begeisterung)",
         "tok": "jan li pona pilin li wawa pilin la ona li toki e \"je\"",
-        "it": "(indica eccitazione)"
+        "it": "(indica eccitazione)",
+        "zh_hant": "\uff08\u8868\u793a\u8208\u596e\uff09",
+        "zh_hans": "\uff08\u8868\u793a\u5174\u594b\uff09"
       }
     },
     "jelo": {
@@ -1875,7 +1915,7 @@
         "pt": "amarelo, amarelado",
         "tl_l": "dilaw, madilaw-dilaw",
         "ro": "galben, galbenu\u0219",
-        "tr": "sar\u0131, sar\u0131mt\u0131rak",
+        "tr": "sar\u0131, sar\u0131ms\u0131",
         "he": "\u05e6\u05d4\u05d5\u05d1, \u05e6\u05d4\u05d1\u05d4\u05d1",
         "mi": "k\u014dwhai",
         "zh_hant": "\u9ec3\u8272\u7684\u3001\u984f\u8272\u504f\u9ec3\u7684",
@@ -1946,7 +1986,9 @@
         "ru": "\u0433\u0443\u0441\u044c, \u0433\u043e\u0433\u043e\u0442 \u0433\u0443\u0441\u044f",
         "eo": "ansero, ansera sono",
         "de": "Gans, G\u00e4nseger\u00e4usch",
-        "it": "oca, verso dell'oca"
+        "it": "oca, verso dell'oca",
+        "zh_hant": "\u9d5d\u3001\u9d5d\u53eb\u8072",
+        "zh_hans": "\u9e45\u3001\u9e45\u53eb\u58f0"
       }
     },
     "ju": {
@@ -1970,7 +2012,8 @@
         "de": "(f\u00fcr zuk\u00fcnftige Verwendung von Sonja Lang reserviertes Wort)",
         "tok": "(jan Sonja li wile e nimi ni tan ni: ona li pali e lipu sin la ona li kepeken nimi ni)",
         "it": "(parola riservata per uso futuro da Sonja Lang)",
-        "zh_hant": "\uff08Sonja Lang\u4fdd\u7559\u55ae\u8a5e\uff09"
+        "zh_hant": "\uff08Sonja Lang\u4fdd\u7559\u55ae\u8a5e\uff09",
+        "zh_hans": "\uff08Sonja Lang\u4fdd\u7559\u5355\u8bcd\uff09"
       }
     },
     "jume": {
@@ -1994,7 +2037,9 @@
         "de": "Traum",
         "tok": "jan li lukin e ni lon lape.",
         "es": "sue\u00f1o",
-        "it": "sogno"
+        "it": "sogno",
+        "zh_hant": "\u5922",
+        "zh_hans": "\u68a6"
       }
     },
     "kajo": {
@@ -2023,7 +2068,9 @@
         "ur": "\u0646\u0645\u0628\u0631 \u0646\u0648",
         "pa": "\u0a28\u0a2e\u0a2c\u0a30 \u0a28\u0a4c",
         "id": "angka \u20189\u2019",
-        "it": "la cifra '9'"
+        "it": "la cifra '9'",
+        "zh_hant": "\u6578\u5b579",
+        "zh_hans": "\u6570\u5b579"
       }
     },
     "kala": {
@@ -2107,6 +2154,7 @@
         "zh_hant": "\u767c\u51fa\u8072\u97f3\uff1b\u6717\u8aa6\u3001\u6717\u8b80",
         "zh_hans": "\u53d1\u51fa\u58f0\u97f3\uff1b\u6717\u8bf5\u3001\u6717\u8bfb",
         "fi": "tuottaa \u00e4\u00e4nt\u00e4; lausua",
+        "uk": "\u0440\u043e\u0431\u0438\u0442\u0438 \u0437\u0432\u0443\u043a, \u0447\u0438\u0442\u0430\u0442\u0438, \u043f\u0440\u043e\u043c\u043e\u0432\u043b\u044f\u0442\u0438",
         "tkl": "kalaga, tagi, he leo; lea"
       }
     },
@@ -2132,7 +2180,8 @@
         "tok": "kalama pi jan ni: ona li jo utala e ijo tan jan ante li tawa kepeken tomo lon telo suli",
         "es": "ruido pirata",
         "it": "rumore dei pirati",
-        "zh_hant": "\u6d77\u76dc\u8072\u97f3"
+        "zh_hant": "\u6d77\u76dc\u8072\u97f3",
+        "zh_hans": "\u6d77\u76d7\u58f0\u97f3"
       }
     },
     "kama": {
@@ -2164,11 +2213,12 @@
         "pt": "chegando, vindo, futuro, convocado; (pv.) tornar-se, conseguir, ter sucesso em",
         "tl_l": "pagdating, kinabukasan, ipinatawag; (pv.) maging, magtagumpay sa",
         "ro": "sosire, venire, viitorul, chemat; (pv.) a deveni, a reu\u0219i",
-        "tr": "gelmekte olan, gelen, varan, gelecek, \u00e7a\u011f\u0131r\u0131lan; (pv.) ...'e d\u00f6n\u00fc\u015fmek, becermek, ba\u015farmak",
+        "tr": "gelmekte olan, gelen, varan, gelecek, \u00e7a\u011f\u0131r\u0131lan; (y.f.) (-e) d\u00f6n\u00fc\u015fmek, becermek, ba\u015farmak",
         "mi": "haere mai, muri",
         "zh_hant": "\u5c07\u4f86\u7684\u3001\u4f86\u81e8\u7684\u3001\u672a\u4f86\u7684\uff1b(pv.) \u6210\u70ba\u3001\u80fd\u5920\u3001\u6210\u529f\uff08\u505a\u67d0\u4ef6\u4e8b\uff09",
         "zh_hans": "\u5c06\u6765\u7684\u3001\u6765\u4e34\u7684\u3001\u672a\u6765\u7684\uff1b(pv.) \u6210\u4e3a\u3001\u80fd\u591f\u3001\u6210\u529f\uff08\u505a\u67d0\u4ef6\u4e8b\uff09",
         "fi": "tuleva, saapuva, tulevaisuus; (pv.) tulla joksikin, onnistua",
+        "uk": "\u043f\u0440\u0438\u0445\u043e\u0434\u044f\u0447\u0438\u0439, \u043c\u0430\u0439\u0431\u0443\u0442\u043d\u0456\u0439, \u043f\u0440\u0438\u0437\u0432\u0430\u043d\u0438\u0439; (pv.) \u0441\u0442\u0430\u043d\u043e\u0432\u0438\u0442\u0438\u0441\u044f, \u0441\u043c\u043e\u0433\u0442\u0438, \u043f\u0440\u0435\u0443\u0441\u043f\u0456\u0432\u0430\u0442\u0438 \u0432",
         "tkl": "hau, \u014dmai, lumanaki"
       }
     },
@@ -2203,7 +2253,8 @@
         "pa": "\u0a2c\u0a17\u0a3e\u0a35\u0a24, \u0a07\u0a28\u0a15\u0a32\u0a3e\u0a2c, \u0a05\u0a70\u0a26\u0a4b\u0a32\u0a28",
         "id": "anarki, revolusi, pemberontakan",
         "it": "anarchia, insurrezione, rivolta, ribellione",
-        "zh_hant": "\u7121\u653f\u5e9c\u72c0\u614b\u3001\u8d77\u7fa9\u3001\u66b4\u52d5\u3001\u53db\u4e82"
+        "zh_hant": "\u7121\u653f\u5e9c\u72c0\u614b\u3001\u8d77\u7fa9\u3001\u66b4\u52d5\u3001\u53db\u4e82",
+        "zh_hans": "\u65e0\u653f\u5e9c\u72b6\u6001\u3001\u8d77\u4e49\u3001\u66b4\u52a8\u3001\u53db\u4e71"
       }
     },
     "kan": {
@@ -2235,7 +2286,8 @@
         "pa": "\u0a26\u0a47 \u0a28\u0a3e\u0a32\u0a3c",
         "id": "dengan, bersama",
         "it": "con, in mezzo a, in compagnia di",
-        "zh_hant": "\u8207\u3001\u548c\u3001\u8ddf\u3001\u5728\u2026\u2026\u4e2d\u3001\u966a\u4f34\u8457"
+        "zh_hant": "\u8207\u3001\u548c\u3001\u8ddf\u3001\u5728\u2026\u2026\u4e2d\u3001\u966a\u4f34\u8457",
+        "zh_hans": "\u4e0e\u3001\u548c\u3001\u8ddf\u3001\u5728\u2026\u2026\u4e2d\u3001\u966a\u4f34\u7740"
       }
     },
     "kapa": {
@@ -2264,7 +2316,9 @@
         "ur": "\u067e\u06c1\u0627\u0691 \u060c \u067e\u06c1\u0627\u0691 \u060c \u0628\u0679\u0646 \u060c \u0628\u0644\u062c (\u06a9\u0627\u067e\u06c1 \u0628\u0648\u0644\u0646\u06d2 \u06a9\u0627 \u0627\u06cc\u06a9 \u0627\u0648\u0631 \u062a\u0631\u06cc\u0642\u0627)",
         "pa": "\u0a2a\u0a39\u0a3e\u0a5c, \u0a2c\u0a1f\u0a28, \u0a09\u0a2d\u0a3e\u0a30 (\u0a28\u0a47\u0a28\u0a3e \u0a28\u0a42\u0a70 \u0a2c\u0a4b\u0a32\u0a23 \u0a26\u0a3e \u0a07\u0a71\u0a15 \u0a39\u0a4b\u0a30 \u0a24\u0a30\u0a40\u0a15\u0a3e)",
         "id": "bukit, gunung, tombol, tonjolan [bentuk lain dari nena]",
-        "it": "estrusione, sporgenza, collina, montagna, pulsante"
+        "it": "estrusione, sporgenza, collina, montagna, pulsante",
+        "zh_hant": "\u51f8\u584a\u3001\u7d10\u6263\u3001\u6309\u9215\u3001\u5c71\u4e18\u3001\u5c71\u5cb3\u3001\u9686\u8d77\u7684\u90e8\u5206",
+        "zh_hans": "\u51f8\u5757\u3001\u7ebd\u6263\u3001\u6309\u94ae\u3001\u5c71\u4e18\u3001\u5c71\u5cb3\u3001\u9686\u8d77\u7684\u90e8\u5206"
       }
     },
     "kapesi": {
@@ -2297,7 +2351,8 @@
         "pa": "\u0a2d\u0a42\u0a30\u0a3e",
         "id": "cokelat, abu",
         "it": "marrone, grigio",
-        "zh_hant": "\u68d5\u8272\u3001\u8910\u8272\u3001\u7070\u8272"
+        "zh_hant": "\u68d5\u8272\u3001\u8910\u8272\u3001\u7070\u8272",
+        "zh_hans": "\u68d5\u8272\u3001\u8910\u8272\u3001\u7070\u8272"
       }
     },
     "kasi": {
@@ -2338,6 +2393,7 @@
         "zh_hant": "\u690d\u7269\u3001\u8349\u6728\uff1b\u9999\u8349\u3001\u8449",
         "zh_hans": "\u690d\u7269\u3001\u8349\u6728\uff1b\u9999\u8349\u3001\u53f6",
         "fi": "kasvi, kasvillisuus; yrtti, lehti",
+        "uk": "\u0440\u043e\u0441\u043b\u0438\u043d\u0430, \u0440\u043e\u0441\u043b\u0438\u043d\u043d\u0456\u0441\u0442\u044c; \u0442\u0440\u0430\u0432\u0430, \u043b\u0438\u0441\u0442\u043e\u043a",
         "tkl": "he l\u0101kau; he laul\u0101kau"
       }
     },
@@ -2371,7 +2427,8 @@
         "pa": "\u0a20\u0a3f\u0a71\u0a15 \u0a39\u0a48 (\u0a17\u0a71\u0a32 \u0a38\u0a2e\u0a1d\u0a23 \u0a26\u0a3e \u0a1a\u0a3f\u0a70\u0a28\u0a4d\u0a39)",
         "id": "(pengakuan atau penerimaan)",
         "it": "(riconoscimento o accettazione)",
-        "zh_hant": "\uff08\u77e5\u6089\u6216\u540c\u610f\uff09"
+        "zh_hant": "\uff08\u77e5\u6089\u6216\u540c\u610f\uff09",
+        "zh_hans": "\uff08\u77e5\u6089\u6216\u540c\u610f\uff09"
       }
     },
     "ken": {
@@ -2407,11 +2464,12 @@
         "it": "essere in grado di, essere autorizzato a, pu\u00f2; possibile",
         "pt": "conseguir, poder; poss\u00edvel",
         "tl_l": "magawa, payagan, puwede; maaari, posible",
-        "tr": "yapabilmek, yapma yetkisi olmak, -abilir, -ebilir; imkan, imkanl\u0131",
+        "tr": "yapabilmek, yapma yetkisi olmak, -ebilir/-abilir; m\u00fcmk\u00fcn",
         "mi": "taea; \u0101hei",
         "zh_hant": "\u53ef\u4ee5\u3001\u80fd\u5920\uff1b\u505a\u5f97\u5230\u7684\u3001\u53ef\u80fd\u7684",
         "zh_hans": "\u53ef\u4ee5\u3001\u80fd\u591f\uff1b\u505a\u5f97\u5230\u7684\u3001\u53ef\u80fd\u7684",
         "fi": "voida, kyet\u00e4, sallia, mahdollinen",
+        "uk": "\u043c\u0430\u0442\u0438 \u043c\u043e\u0436\u043b\u0438\u0432\u0456\u0441\u0442\u044c, \u0432\u043c\u0456\u0442\u0438; \u043c\u043e\u0436\u043b\u0438\u0432\u0438\u0439",
         "tkl": "mafai, lav\u0101"
       }
     },
@@ -2453,6 +2511,7 @@
         "zh_hant": "\u4f7f\u7528\u3001\u904b\u7528\u3001\u901a\u904e",
         "zh_hans": "\u4f7f\u7528\u3001\u8fd0\u7528\u3001\u901a\u8fc7",
         "fi": "k\u00e4ytt\u00e4\u00e4, k\u00e4ytt\u00e4en, hy\u00f6dynt\u00e4\u00e4",
+        "uk": "\u043a\u043e\u0440\u0438\u0441\u0442\u0443\u0432\u0430\u0442\u0438\u0441\u044f, \u0437\u0430 \u0434\u043e\u043f\u043e\u043c\u043e\u0433\u043e\u044e",
         "tkl": "fakaaog\u0101, i"
       }
     },
@@ -2481,7 +2540,8 @@
         "tok": "tonsi anu mije pi olin mije anu meli pi olin meli",
         "it": "queer, LGBT+",
         "he": "\u05e7\u05d5\u05d5\u05d9\u05e8, \u05dc\u05d4\u05d8\"\u05d1",
-        "zh_hant": "LGBT+\u7684"
+        "zh_hant": "LGBT+\u7684",
+        "zh_hans": "LGBT+\u7684"
       }
     },
     "ki": {
@@ -2508,7 +2568,9 @@
         "ur": "\u0631\u0634\u062a\u06c1 \u062f\u0627\u0631 \u0634\u0642 \u06a9\u06cc \u0639\u0644\u0627\u0645\u062a (\u0645\u062b\u0627\u0644: \u0648\u06c1 \u0644\u0691\u06a9\u06cc \u062c\u0648 \u0633\u0628 \u0633\u06d2 \u0627\u0644\u06af \u06c1\u06d2)",
         "pa": "\u0a38\u0a70\u0a2c\u0a70\u0a27\u0a35\u0a3e\u0a1a\u0a15 \u0a16\u0a70\u0a21 \u0a26\u0a3e \u0a1a\u0a3f\u0a70\u0a28\u0a4d\u0a39 (\u0a2e\u0a3f\u0a38\u0a3e\u0a32: \u0a13\u0a39 \u0a15\u0a41\u0a5c\u0a40 \u0a1c\u0a4b \u0a38\u0a2d \u0a24\u0a4b\u0a02 \u0a35\u0a16\u0a30\u0a40 \u0a39\u0a48)",
         "id": "(penanda klausa relatif)",
-        "it": "(marcatore di proposizione relativa)"
+        "it": "(marcatore di proposizione relativa)",
+        "zh_hant": "\uff08\u95dc\u4fc2\u5b57\u53e5\u6a19\u8a18\uff09",
+        "zh_hans": "\uff08\u5173\u7cfb\u5b57\u53e5\u6807\u8bb0\uff09"
       }
     },
     "kijetesantakalu": {
@@ -2549,6 +2611,7 @@
         "pa": "Procyonidae \u0a15\u0a41\u0a32 \u0a26\u0a3e \u0a15\u0a4b\u0a08 \u0a1c\u0a3e\u0a28\u0a35\u0a30: \u0a30\u0a15\u0a42\u0a28, \u0a13\u0a32\u0a3f\u0a70\u0a17\u0a4b, \u0a06\u0a26\u0a3f",
         "id": "semua hewan dalam famili Procyonidae, seperti rakun, coati, dan kucing ekor cincin",
         "it": "qualsiasi animale della famiglia Procyonidae, come procioni, coatis, kinkajous, olingos, ringtail e cacomistles | ALT qualsiasi animale della superfamiglia Musteloidea, compresi procioni, donnole, lontre, puzzole e panda rossi",
+        "tr": "rakungiller (Procyonidae) familyas\u0131ndan herhangi bir hayvan, \u00f6r. rakunlar, koatiler, kinkajular, olingolar ve halkal\u0131 kuyruklu kediler | ALT Musteloidea \u00fcst familyas\u0131ndan herhangi bir hayvan, \u00f6r. rakunlar, sansarlar, su samurlar\u0131, kokarcalar ve k\u0131z\u0131l pandalar",
         "zh_hant": "\u4efb\u4f55\u6d63\u718a\u79d1\u52d5\u7269\uff0c\u5982\u6d63\u718a\u3001\u9577\u9f3b\u6d63\u718a\u3001\u871c\u718a\u3001\u72ac\u6d63\u718a\u3001\u84ec\u5c3e\u6d63\u718a\u548c\u4e2d\u7f8e\u84ec\u5c3e\u6d63\u718a | ALT \u4efb\u4f55\u9f2c\u7e3d\u79d1\u52d5\u7269\uff0c\u5305\u62ec\u6d63\u718a\u3001\u9f2c\u3001\u6c34\u737a\u3001\u81ed\u9f2c\u548c\u559c\u99ac\u62c9\u96c5\u5c0f\u8c93\u718a",
         "zh_hans": "\u4efb\u4f55\u6d63\u718a\u79d1\u52a8\u7269\uff0c\u5982\u6d63\u718a\u3001\u957f\u9f3b\u6d63\u718a\u3001\u871c\u718a\u3001\u72ac\u6d63\u718a\u3001\u84ec\u5c3e\u6d63\u718a\u548c\u4e2d\u7f8e\u84ec\u5c3e\u6d63\u718a | ALT \u4efb\u4f55\u9f2c\u603b\u79d1\u52a8\u7269\uff0c\u5305\u62ec\u6d63\u718a\u3001\u9f2c\u3001\u6c34\u736d\u3001\u81ed\u9f2c\u548c\u559c\u9a6c\u62c9\u96c5\u5c0f\u718a\u732b"
       }
@@ -2585,7 +2648,8 @@
         "id": "berduri, tajam, sudut, segitiga",
         "it": "appuntito, tagliente, angolo, punta, triangolare",
         "he": "\u05e7\u05d5\u05e6\u05e0\u05d9, \u05d7\u05d3, \u05d6\u05d5\u05d5\u05d9\u05ea, \u05e0\u05e7\u05d5\u05d3\u05d4, \u05de\u05e9\u05d5\u05dc\u05e9",
-        "zh_hant": "\u6709\u5c16\u523a\u7684\u3001\u92d2\u5229\u7684\u3001\u5c16\u92b3\u7684\u3001\u89d2\uff08\u89d2\u5ea6\uff09\u3001\u5c16\u3001\u4e09\u89d2\u5f62\u7684"
+        "zh_hant": "\u6709\u5c16\u523a\u7684\u3001\u92d2\u5229\u7684\u3001\u5c16\u92b3\u7684\u3001\u89d2\uff08\u89d2\u5ea6\uff09\u3001\u5c16\u3001\u4e09\u89d2\u5f62\u7684",
+        "zh_hans": "\u6709\u5c16\u523a\u7684\u3001\u950b\u5229\u7684\u3001\u5c16\u9510\u7684\u3001\u89d2\uff08\u89d2\u5ea6\uff09\u3001\u5c16\u3001\u4e09\u89d2\u5f62\u7684"
       }
     },
     "kili": {
@@ -2629,6 +2693,7 @@
         "zh_hant": "\u6c34\u679c\u3001\u852c\u83dc\u3001\u8611\u83c7",
         "zh_hans": "\u6c34\u679c\u3001\u852c\u83dc\u3001\u8611\u83c7",
         "fi": "hedelm\u00e4, vihannes, sieni",
+        "uk": "\u0441\u0430\u0434\u043e\u0432\u0438\u043d\u0430, \u0433\u043e\u0440\u043e\u0434\u0438\u043d\u0430, \u0433\u0440\u0438\u0431\u0438",
         "tkl": "he fua"
       }
     },
@@ -2668,7 +2733,8 @@
         "pa": "\u0a35\u0a40",
         "id": "memang; juga, pun, pula; bahkan",
         "it": "{vedi a} | ALT infatti, pure, anche, come pure",
-        "zh_hant": "{\u898ba} | ALT \u4e5f\u3001\u53c8\u3001\u9084\u3001\u7684\u78ba\u3001\u78ba\u5be6"
+        "zh_hant": "{\u898ba} | ALT \u4e5f\u3001\u53c8\u3001\u9084\u3001\u7684\u78ba\u3001\u78ba\u5be6",
+        "zh_hans": "{\u89c1a} | ALT \u4e5f\u3001\u53c8\u3001\u8fd8\u3001\u7684\u786e\u3001\u786e\u5b9e"
       }
     },
     "kipisi": {
@@ -2709,7 +2775,8 @@
         "pa": "\u0a35\u0a70\u0a21\u0a23\u0a3e, \u0a15\u0a3e\u0a1f\u0a23\u0a3e, \u0a24\u0a3f\u0a71\u0a16\u0a3e",
         "id": "membagi, memotong, mengiris, memutus; tajam",
         "it": "dividere, tagliare, affettare, recidere; affilato",
-        "zh_hant": "\u5207\u3001\u5272\u3001\u5206\u3001\u526a\u3001\u780d\uff1b\u92d2\u5229\u7684\u3001\u92b3\u5229\u7684"
+        "zh_hant": "\u5207\u3001\u5272\u3001\u5206\u3001\u526a\u3001\u780d\uff1b\u92d2\u5229\u7684\u3001\u92b3\u5229\u7684",
+        "zh_hans": "\u5207\u3001\u5272\u3001\u5206\u3001\u526a\u3001\u780d\uff1b\u950b\u5229\u7684\u3001\u9510\u5229\u7684"
       }
     },
     "kisa": {
@@ -2736,7 +2803,9 @@
         "ur": "\u0628\u0644\u0651\u06cc",
         "pa": "\u0a2c\u0a3f\u0a71\u0a32\u0a3e, \u0a2c\u0a3f\u0a71\u0a32\u0a40",
         "id": "kucing",
-        "it": "gatto"
+        "it": "gatto",
+        "zh_hant": "\u8c93",
+        "zh_hans": "\u732b"
       }
     },
     "kiwen": {
@@ -2778,6 +2847,7 @@
         "zh_hant": "\u5805\u786c\u7684\u7269\u9ad4\u3001\u91d1\u5c6c\u3001\u77f3\u982d\u3001\u5ca9\u77f3",
         "zh_hans": "\u575a\u786c\u7684\u7269\u4f53\u3001\u91d1\u5c5e\u3001\u77f3\u5934\u3001\u5ca9\u77f3",
         "fi": "kova esine, metalli, kivi",
+        "uk": "\u0449\u043e\u0441\u044c \u0442\u0432\u0435\u0440\u0434\u0435, \u043c\u0435\u0442\u0430\u043b, \u043a\u0430\u043c\u0456\u043d\u043d\u044f, \u043a\u0430\u043c'\u044f\u043d\u0430 \u043f\u043e\u0440\u043e\u0434\u0430",
         "tkl": "he mea m\u0101keke, he ukamea, he fatu"
       }
     },
@@ -2820,6 +2890,7 @@
         "zh_hant": "\u9ecf\u571f\u3001\u534a\u56fa\u9ad4\u3001\u91ac\u3001\u7c89\u672b",
         "zh_hans": "\u9ecf\u571f\u3001\u534a\u56fa\u4f53\u3001\u9171\u3001\u7c89\u672b",
         "fi": "savi, tarttuva muoto, taikina, puolikiinte\u00e4, tahna, jauhe",
+        "uk": "\u0433\u043b\u0438\u043d\u0430, \u0437\u043b\u0456\u043f\u043b\u0435\u043d\u0435, \u0442\u0456\u0441\u0442\u043e, \u043d\u0430\u043f\u0456\u0432\u0442\u0432\u0435\u0440\u0434\u0435, \u0440\u0430\u0441\u0442\u0430, \u043f\u043e\u0440\u043e\u0448\u043e\u043a",
         "tkl": "he \u014dmea, he mea fakapipiki, he pauta"
       }
     },
@@ -2854,7 +2925,8 @@
         "pa": "\u0a17\u0a48\u0a30 \u0a24\u0a4b\u0a15\u0a40 \u0a2a\u0a4b\u0a23\u0a3e \u0a2d\u0a3e\u0a38\u0a3c\u0a3e \u0a2c\u0a4b\u0a32\u0a23\u0a3e, \u0a07\u0a71\u0a15 \u0a07\u0a39\u0a4b \u0a1c\u0a3f\u0a39\u0a5c\u0a40 \u0a25\u0a3e\u0a02 \u0a35\u0a3f\u0a71\u0a1a \u0a1c\u0a3f\u0a71\u0a25\u0a47 \u0a24\u0a4b\u0a15\u0a40 \u0a2a\u0a4b\u0a23\u0a3e \u0a2c\u0a4b\u0a32\u0a28\u0a3e \u0a35\u0a71\u0a27 \u0a2e\u0a28\u0a3e\u0a38\u0a2c \u0a05\u0a24\u0a47 \u0a38\u0a39\u0a40 \u0a39\u0a48",
         "id": "berbicara bahasa selain Toki Pona di lingkungan yang lebih sesuai untuk Toki Pona",
         "it": "parlare una lingua non Toki Pona in un ambiente in cui il Toki Pona \u00e8 pi\u00f9 appropriato",
-        "zh_hant": "\u5728\u4e00\u500b\u66f4\u9069\u5408\u8b1b\u9053\u672c\u8a9e\u7684\u74b0\u5883\u88e1\u8b1b\u4e00\u500b\u4e0d\u662f\u9053\u672c\u8a9e\u7684\u8a9e\u8a00"
+        "zh_hant": "\u5728\u4e00\u500b\u66f4\u9069\u5408\u8b1b\u9053\u672c\u8a9e\u7684\u74b0\u5883\u88e1\u8b1b\u4e00\u500b\u4e0d\u662f\u9053\u672c\u8a9e\u7684\u8a9e\u8a00",
+        "zh_hans": "\u5728\u4e00\u4e2a\u66f4\u9002\u5408\u8bb2\u9053\u672c\u8bed\u7684\u73af\u5883\u91cc\u8bb2\u4e00\u4e2a\u4e0d\u662f\u9053\u672c\u8bed\u7684\u8bed\u8a00"
       }
     },
     "kon": {
@@ -2894,6 +2966,7 @@
         "zh_hant": "\u7a7a\u6c23\u3001\u6c23\u606f\uff1b\u7cbe\u83ef\u3001\u672c\u8cea\u3001\u7cbe\u795e\uff1b\u96b1\u85cf\u7684\u73fe\u5be6\u3001\u4e0d\u53ef\u898b\u7684\u63a8\u52d5\u8005",
         "zh_hans": "\u7a7a\u6c14\u3001\u6c14\u606f\uff1b\u7cbe\u534e\u3001\u672c\u8d28\u3001\u7cbe\u795e\uff1b\u9690\u85cf\u7684\u73b0\u5b9e\u3001\u4e0d\u53ef\u89c1\u7684\u63a8\u52a8\u8005",
         "fi": "ilma, hengitys; olemus, henki; n\u00e4kym\u00e4t\u00f6n tekij\u00e4",
+        "uk": "\u043f\u043e\u0432\u0456\u0442\u0440\u044f, \u043f\u043e\u0434\u0438\u0445; \u0441\u0442\u0432\u043e\u0440\u0456\u043d\u043d\u044f, \u0434\u0443\u0445; \u0441\u0445\u043e\u0432\u0430\u043d\u0435 \u0441\u0442\u0432\u043e\u0440\u0456\u043d\u043d\u044f, \u043d\u0435\u0432\u0438\u0434\u0438\u043c\u0430 \u0434\u0456\u044e\u0447\u0430 \u0441\u0438\u043b\u0430",
         "tkl": "te ea, he m\u0101nava; he ag\u0101ga; he m\u014dni lilofia"
       }
     },
@@ -2907,7 +2980,9 @@
       "def": {
         "en": "to notify, to let know",
         "pl": "powiadomi\u0107, da\u0107 zna\u0107",
-        "ru": "\u0443\u0432\u0435\u0434\u043e\u043c\u0438\u0442\u044c, \u0434\u0430\u0442\u044c \u0437\u043d\u0430\u0442\u044c"
+        "ru": "\u0443\u0432\u0435\u0434\u043e\u043c\u0438\u0442\u044c, \u0434\u0430\u0442\u044c \u0437\u043d\u0430\u0442\u044c",
+        "zh_hant": "\u901a\u77e5\u3001\u544a\u77e5",
+        "zh_hans": "\u901a\u77e5\u3001\u544a\u77e5"
       }
     },
     "konwe": {
@@ -2929,7 +3004,9 @@
         "eo": "animaco, vivo, a\u016dtonomeco; viva, vigla, dinamika; animi, vivigi",
         "de": "Lebhaftigkeit, Leben, Selbstst\u00e4ndigkeit; selbstst\u00e4ndiges Wesen, Lebewesen, Organismus; lebendig, beseelt, dynamisch, beleben, zum Leben erwacken",
         "tok": "ijo li ken tawa kepeken ona sama la ona li konwe. jan en soweli li konwe.",
-        "it": "animazione, vita, autonomia; essere autonomo, cosa vivente, organismo; vivo, animato, dinamico; animare, portare alla vita"
+        "it": "animazione, vita, autonomia; essere autonomo, cosa vivente, organismo; vivo, animato, dinamico; animare, portare alla vita",
+        "zh_hant": "\u751f\u547d\u3001\u751f\u6c23\uff08\u751f\u52d5\u6d3b\u6f51\uff09\uff1b\u751f\u7269\u3001\u6709\u6a5f\u9ad4\uff1b\u6d3b\u8457\u7684\u3001\u6709\u751f\u547d\u7684\u3001\u7cbe\u529b\u5145\u6c9b\u7684\u3001\u5145\u6eff\u6d3b\u529b\u7684\uff1b\u4f7f\u6709\u751f\u6c23\u3001\u4f7f\u66f4\u6709\u8da3\u3001\u4f7f\u6d3b\u8457",
+        "zh_hans": "\u751f\u547d\u3001\u751f\u6c14\uff08\u751f\u52a8\u6d3b\u6cfc\uff09\uff1b\u751f\u7269\u3001\u6709\u673a\u4f53\uff1b\u6d3b\u7740\u7684\u3001\u6709\u751f\u547d\u7684\u3001\u7cbe\u529b\u5145\u6c9b\u7684\u3001\u5145\u6ee1\u6d3b\u529b\u7684\uff1b\u4f7f\u6709\u751f\u6c14\u3001\u4f7f\u66f4\u6709\u8da3\u3001\u4f7f\u6d3b\u7740"
       }
     },
     "kosan": {
@@ -2948,7 +3025,9 @@
         "eo": "gardi, protekti, defendi, \u015dirmi, fortikigi ekstere",
         "de": "bewachen, sch\u00fctzen, verteidigen, abschirmen, abst\u00fctzen, abschanzen, von au\u00dfen sichern",
         "tok": "sina kosan e ijo la sina awen e ni tan ijo ike tan ijo utala.",
-        "it": "custodire, proteggere, difendere, schermare, rinforzare, fortificare dall'esterno"
+        "it": "custodire, proteggere, difendere, schermare, rinforzare, fortificare dall'esterno",
+        "zh_hant": "\u4fdd\u8b77\u3001\u9632\u8b77\u3001\u4fdd\u885b\u3001\u5b88\u885b\u3001\u9632\u5099\u3001\u9632\u79a6",
+        "zh_hans": "\u4fdd\u62a4\u3001\u9632\u62a4\u3001\u4fdd\u536b\u3001\u5b88\u536b\u3001\u9632\u5907\u3001\u9632\u5fa1"
       }
     },
     "ku": {
@@ -2981,7 +3060,8 @@
         "pa": "\u0a38\u0a4b\u0a28\u0a3f\u0a06 \u0a32\u0a3e\u0a02\u0a17 \u0a26\u0a47 \u0a36\u0a2c\u0a26\u0a15\u0a4b\u0a36 \u0a26\u0a47 \u0a28\u0a3e\u0a33 \u0a15\u0a41\u0a1d \u0a15\u0a30\u0a28\u0a3e",
         "id": "berinteraksi dengan Kamus Toki Pona karya Sonja Lang",
         "it": "interagire con il Dizionario Toki Pona di Sonja Lang",
-        "zh_hant": "\u8207Sonja Lang\u7684\u9053\u672c\u8a9e\u8a5e\u5178\u4e92\u52d5"
+        "zh_hant": "\u8207Sonja Lang\u7684\u9053\u672c\u8a9e\u8a5e\u5178\u4e92\u52d5",
+        "zh_hans": "\u4e0eSonja Lang\u7684\u9053\u672c\u8bed\u8bcd\u5178\u4e92\u52a8"
       }
     },
     "kule": {
@@ -3021,6 +3101,7 @@
         "zh_hant": "\u984f\u8272\u9bae\u8c54\u7684\u3001\u4e94\u5f69\u7e7d\u7d1b\u7684\u3001\u5929\u7136\u8272\u7684\u3001\u4e0a\u4e86\u6cb9\u6f06\u7684 | ALT \u8207LGBT+\u793e\u7fa4\u6709\u95dc\u7684",
         "zh_hans": "\u989c\u8272\u9c9c\u8273\u7684\u3001\u4e94\u5f69\u7f24\u7eb7\u7684\u3001\u5929\u7136\u8272\u7684\u3001\u4e0a\u4e86\u6cb9\u6f06\u7684 | ALT \u4e0eLGBT+\u793e\u7fa4\u6709\u5173\u7684",
         "fi": "v\u00e4rik\u00e4s, pigmenttinen, maalattu | ALT LGBT+ liittyv\u00e4",
+        "uk": "\u0440\u0456\u0437\u043d\u043e\u043a\u043e\u043b\u044c\u043e\u0440\u043e\u0432\u0438\u0439, \u0444\u0430\u0440\u0431\u043e\u0432\u0430\u043d\u0438\u0439 | ALT \u043f\u043e\u0432'\u044f\u0437\u0430\u043d\u0438\u0438\u0439 \u0437\u0456 \u0441\u043f\u0456\u043b\u044c\u043d\u043e\u0442\u043e\u044e \u041b\u0490\u0411\u0422+",
         "tkl": "he lanu, he vali | ALT LGBT+"
       }
     },
@@ -3049,7 +3130,8 @@
         "pa": "\u0a15\u0a42\u0a32\u0a3f\u0a13 (\u0a05\u0a2e\u0a30\u0a40\u0a15\u0a40 \u0a05\u0a70\u0a17\u0a30\u0a47\u0a1c\u0a40)",
         "id": "boleh juga",
         "it": "[interiezione] espressione casuale di apprezzamento o riconoscimento; figo, bene, ok",
-        "zh_hant": "[\u611f\u5606\u8a5e] \u6b23\u8cde\u6216\u77e5\u6089\u7684\u8868\u9054\uff0c\u8a9e\u6c23\u986f\u5f97\u4e0d\u5728\u4e4e\uff1b\u597d\u3001\u53ef\u4ee5\u3001\u884c"
+        "zh_hant": "[\u611f\u5606\u8a5e] \u6b23\u8cde\u6216\u77e5\u6089\u7684\u8868\u9054\uff0c\u8a9e\u6c23\u986f\u5f97\u4e0d\u5728\u4e4e\uff1b\u597d\u3001\u53ef\u4ee5\u3001\u884c",
+        "zh_hans": "[\u611f\u53f9\u8bcd] \u6b23\u8d4f\u6216\u77e5\u6089\u7684\u8868\u8fbe\uff0c\u8bed\u6c14\u663e\u5f97\u4e0d\u5728\u4e4e\uff1b\u597d\u3001\u53ef\u4ee5\u3001\u884c"
       }
     },
     "kulu": {
@@ -3078,7 +3160,9 @@
         "ur": "(\u06a9\u0652\u0648\u0644\u0652\u067e\u0652 \u0644\u0641\u0638 \u0628\u0648\u0644\u0646\u06d2 \u06a9\u0627 \u0627\u06cc\u06a9 \u0627\u0648\u0631 \u062a\u0631\u06cc\u0642\u0627)\u061b \u0686\u06be\u06c1\u060c \u0686\u06be\u06d2",
         "pa": "(\u0a15\u0a42\u0a32\u0a41\u0a2a\u0a41 \u0a38\u0a3c\u0a2c\u0a26 \u0a28\u0a42\u0a70 \u0a2c\u0a4b\u0a32\u0a23 \u0a26\u0a3e \u0a07\u0a71\u0a15 \u0a28\u0a3f\u0a71\u0a15\u0a3e \u0a1c\u0a3f\u0a39\u0a3e \u0a24\u0a30\u0a40\u0a15\u0a3e), \u0a1b\u0a47",
         "id": "(singkatan dari kata kulupu); enam (terutama dalam sistem bilangan basis enam)",
-        "it": "(variante abbreviata di kulupu); sei (in particolare nella base senaria)"
+        "it": "(variante abbreviata di kulupu); sei (in particolare nella base senaria)",
+        "zh_hant": "\uff08kulupu\u7684\u7c21\u5beb\uff09\uff1b\u516d\uff08\u5c24\u5176\u5728\u516d\u9032\u5236\u4e2d\uff09",
+        "zh_hans": "\uff08kulupu\u7684\u7b80\u5199\uff09\uff1b\u516d\uff08\u5c24\u5176\u5728\u516d\u8fdb\u5236\u4e2d\uff09"
       }
     },
     "kulupu": {
@@ -3120,6 +3204,7 @@
         "zh_hant": "\u793e\u7fa4\u3001\u793e\u5340\u3001\u96c6\u9ad4\u3001\u7fa4\u9ad4\u3001\u570b\u5bb6\u3001\u793e\u6703\u3001\u90e8\u843d",
         "zh_hans": "\u793e\u7fa4\u3001\u793e\u533a\u3001\u96c6\u4f53\u3001\u7fa4\u4f53\u3001\u56fd\u5bb6\u3001\u793e\u4f1a\u3001\u90e8\u843d",
         "fi": "ryhm\u00e4, yhteis\u00f6, seura, kansakunta, yhteiskunta, heimo",
+        "uk": "\u0441\u043f\u0456\u043b\u044c\u043d\u043e\u0442\u0430, \u043a\u043e\u043c\u043f\u0430\u043d\u0456\u044f, \u0433\u0440\u0443\u043f\u0430, \u043d\u0430\u0446\u0456\u044f, \u0441\u0443\u0441\u043f\u0456\u043b\u044c\u0441\u0442\u0432\u043e, \u043f\u043b\u0435\u043c'\u044f",
         "tkl": "he v\u0101ega, he kamupan\u012b, he atunuku"
       }
     },
@@ -3151,7 +3236,8 @@
         "pa": "\u0a39\u0a70\u0a38\u0a40, \u0a39\u0a70\u0a38\u0a40 \u0a2e\u0a1c\u0a3e\u0a15",
         "id": "tertawa, humor",
         "it": "risata, ridacchiare, ridere, commedia, umorismo",
-        "zh_hant": "\u7b11\u3001\u7b11\u8072\u3001\u6ed1\u7a3d\u3001\u5e7d\u9ed8"
+        "zh_hant": "\u7b11\u3001\u7b11\u8072\u3001\u6ed1\u7a3d\u3001\u5e7d\u9ed8",
+        "zh_hans": "\u7b11\u3001\u7b11\u58f0\u3001\u6ed1\u7a3d\u3001\u5e7d\u9ed8"
       }
     },
     "kute": {
@@ -3191,6 +3277,7 @@
         "zh_hant": "\u8033\u6735\uff1b\u807d\u898b\u3001\u8046\u807d\uff1b\u6ce8\u610f\u3001\u670d\u5f9e\u3001\u9806\u5f9e",
         "zh_hans": "\u8033\u6735\uff1b\u542c\u89c1\u3001\u8046\u542c\uff1b\u6ce8\u610f\u3001\u670d\u4ece\u3001\u987a\u4ece",
         "fi": "korva; kuulla, kuunnella; totella",
+        "uk": "\u0432\u0443\u0445\u043e; \u0447\u0443\u0442\u0438, \u0441\u043b\u0443\u0445\u0430\u0442\u0438; \u0437\u0432\u0435\u0440\u0442\u0430\u0442\u0438 \u0443\u0432\u0430\u0433\u0443, \u043f\u0456\u0434\u0447\u0438\u043d\u044f\u0442\u0438\u0441\u044f",
         "tkl": "he taliga; logo, fakalogo; haga, tokaga, uhitaki"
       }
     },
@@ -3206,7 +3293,9 @@
       "def": {
         "en": "the Korean group chat \"kulupu pi toki pona pi ma Anku\"",
         "pl": "korea\u0144ski czat grupowy \"kulupu pi toki pona pi ma Anku\"",
-        "ru": "\u0441\u0430\u043c\u043e\u043d\u0430\u0437\u0432\u0430\u043d\u0438\u0435 \u043a\u043e\u0440\u0435\u0439\u0441\u043a\u043e\u0433\u043e \u0433\u0440\u0443\u043f\u043f\u043e\u0432\u043e\u0433\u043e \u0447\u0430\u0442\u0430 \"kulupu pi toki pona pi ma Anku\""
+        "ru": "\u0441\u0430\u043c\u043e\u043d\u0430\u0437\u0432\u0430\u043d\u0438\u0435 \u043a\u043e\u0440\u0435\u0439\u0441\u043a\u043e\u0433\u043e \u0433\u0440\u0443\u043f\u043f\u043e\u0432\u043e\u0433\u043e \u0447\u0430\u0442\u0430 \"kulupu pi toki pona pi ma Anku\"",
+        "zh_hant": "\u97d3\u570b\u804a\u5929\u5ba4\u201ckulupu pi toki pona pi ma Anku\u201d",
+        "zh_hans": "\u97e9\u56fd\u804a\u5929\u5ba4\u201ckulupu pi toki pona pi ma Anku\u201d"
       }
     },
     "la": {
@@ -3282,7 +3371,8 @@
         "pa": "\u0a32\u0a48\u0a23\u0a3e, \u0a1b\u0a3f\u0a71\u0a28 \u0a32\u0a48\u0a23\u0a3e, \u0a2b\u0a5c\u0a28\u0a3e, \u0a2e\u0a3f\u0a32\u0a23\u0a3e",
         "id": "mengambil, merebut, menangkap, menerima, mendapatkan",
         "it": "prendere, impadronirsi, catturare, ricevere, ottenere",
-        "zh_hant": "\u62ff\u8d70\u3001\u53d6\u8d70\u3001\u6293\u4f4f\u3001\u63a5\u4f4f\u3001\u63a5\u6536\u3001\u5f97\u5230"
+        "zh_hant": "\u62ff\u8d70\u3001\u53d6\u8d70\u3001\u6293\u4f4f\u3001\u63a5\u4f4f\u3001\u63a5\u6536\u3001\u5f97\u5230",
+        "zh_hans": "\u62ff\u8d70\u3001\u53d6\u8d70\u3001\u6293\u4f4f\u3001\u63a5\u4f4f\u3001\u63a5\u6536\u3001\u5f97\u5230"
       }
     },
     "lape": {
@@ -3444,7 +3534,8 @@
         "pa": "\u0a2a\u0a4c\u0a5c\u0a40, \u0a35\u0a30\u0a17, \u0a21\u0a71\u0a2c\u0a3e",
         "id": "tangga, persegi, balok, kubus",
         "it": "scale, quadrato, blocco, angolo, cubo",
-        "zh_hant": "\u6a13\u68af\u3001\u6b63\u65b9\u5f62\u3001\u65b9\u584a\u3001\u89d2\uff08\u89d2\u843d\uff09\u3001\u7acb\u65b9\u9ad4"
+        "zh_hant": "\u6a13\u68af\u3001\u6b63\u65b9\u5f62\u3001\u65b9\u584a\u3001\u89d2\uff08\u89d2\u843d\uff09\u3001\u7acb\u65b9\u9ad4",
+        "zh_hans": "\u697c\u68af\u3001\u6b63\u65b9\u5f62\u3001\u65b9\u5757\u3001\u89d2\uff08\u89d2\u843d\uff09\u3001\u7acb\u65b9\u4f53"
       }
     },
     "len": {
@@ -3514,7 +3605,9 @@
         "ur": "\u0646\u0645\u0628\u0631 \u0635\u0641\u0631\u060c \u0632\u06cc\u0631\u0648",
         "pa": "\u0a28\u0a38\u0a2c\u0a30 \u0a1c\u0a40\u0a30\u0a4b",
         "id": "angka \u20180\u2019",
-        "it": "la cifra '0'"
+        "it": "la cifra '0'",
+        "zh_hant": "\u6578\u5b570",
+        "zh_hans": "\u6570\u5b570"
       }
     },
     "lete": {
@@ -3585,7 +3678,7 @@
         "it": "(tra qualsiasi soggetto tranne mi da solo o sina da solo e il suo verbo; anche per introdurre un nuovo verbo per lo stesso soggetto)",
         "pt": "(entre qualquer sujeito exceto s\u00f3 mi ou s\u00f3 sina e o seu verbo; tamb\u00e9m para introduzir um novo verbo ao mesmo sujeito)",
         "ro": "(\u00eentre orice subiec cu excep\u021blie mi singiru \u0219i sina singur \u0219i verburile lor; se poate folosi \u0219i pentru a \u00eentroduce un verb nou pentru acela\u0219i subiect)",
-        "tr": "(yaln\u0131z mi veya yaln\u0131z sina d\u0131\u015f\u0131nda her \u00f6zne ve sonras\u0131nda gelen fiil aras\u0131na gelir; ayr\u0131ca ayn\u0131 \u00f6zne i\u00e7in farkl\u0131 bir fiil uygularken fiilin ba\u015f\u0131nda gelir)",
+        "tr": "(\"mi\" ve \"sina\" istisnalar\u0131 haricinde her \u00f6zne ve sonras\u0131nda gelen fiil aras\u0131na gelir; ayr\u0131ca ayn\u0131 \u00f6zne i\u00e7in farkl\u0131 bir fiil uygularken fiilin ba\u015f\u0131nda gelir)",
         "mi": "(ki waenga i te tumu (engari, ehara m\u014d te \u201cmi\u201d anake, m\u014d te \u201csina\u201d anake r\u0101nei) me te t\u016bmahi; whaihoki, e whakamahia ana m\u014d te t\u016bmahi hou i te rerenga k\u014drero, e t\u016b k\u0113 ai t\u0113tahi t\u016bmahi)",
         "zh_hant": "\uff08\u7f6e\u65bc\u4efb\u4f55\u4e3b\u8a9e\u7684\u52d5\u8a5e\u4e4b\u9593\uff0c\u50c5\u662fmi\u6216\u50c5\u662fsina\u9664\u5916\uff1b\u4e5f\u7528\u65bc\u5728\u540c\u4e00\u500b\u4e3b\u8a9e\u4e0a\u5f15\u5165\u65b0\u7684\u52d5\u8a5e\uff09",
         "zh_hans": "\uff08\u7f6e\u4e8e\u4efb\u4f55\u4e3b\u8bed\u7684\u52a8\u8bcd\u4e4b\u95f4\uff0c\u4ec5\u662fmi\u6216\u4ec5\u662fsina\u9664\u5916\uff1b\u4e5f\u7528\u4e8e\u5728\u540c\u4e00\u4e2a\u4e3b\u8bed\u4e0a\u5f15\u5165\u65b0\u7684\u52a8\u8bcd\uff09",
@@ -3600,7 +3693,9 @@
       "def": {
         "en": "to agree (with laughter)",
         "pl": "zgadza\u0107 si\u0119 (ze \u015bmiechem)",
-        "ru": "\u0441\u043e\u0433\u043b\u0430\u0448\u0430\u0442\u044c\u0441\u044f \u0441\u043c\u0435\u044f\u0441\u044c"
+        "ru": "\u0441\u043e\u0433\u043b\u0430\u0448\u0430\u0442\u044c\u0441\u044f \u0441\u043c\u0435\u044f\u0441\u044c",
+        "zh_hant": "\uff08\u7b11\u8457\uff09\u540c\u610f",
+        "zh_hans": "\uff08\u7b11\u7740\uff09\u540c\u610f"
       }
     },
     "likujo": {
@@ -3633,7 +3728,8 @@
         "pa": "\u0a17\u0a41\u0a71\u0a1f, \u0a15\u0a4d\u0a30\u0a2e, \u0a09\u0a2a\u0a1c",
         "id": "koleksi, kumpulan, pameran hewan liar, susunan, setangan penuh, panen",
         "it": "collezione, assortimento, serraglio, disposizione, manciata, raccolta; sette",
-        "zh_hant": "\u96c6\u5408\u3001\u7d44\u5408\u3001\u5404\u5f0f\u5404\u6a23\u7684\u4e8b\u7269\u3001\u6578\u91cf\u8c50\u5bcc\u7684\u4e8b\u7269\uff1b\u4e03"
+        "zh_hant": "\u96c6\u5408\u3001\u7d44\u5408\u3001\u5404\u5f0f\u5404\u6a23\u7684\u4e8b\u7269\u3001\u6578\u91cf\u8c50\u5bcc\u7684\u4e8b\u7269\uff1b\u4e03",
+        "zh_hans": "\u96c6\u5408\u3001\u7ec4\u5408\u3001\u5404\u5f0f\u5404\u6837\u7684\u4e8b\u7269\u3001\u6570\u91cf\u4e30\u5bcc\u7684\u4e8b\u7269\uff1b\u4e03"
       }
     },
     "lili": {
@@ -3780,7 +3876,7 @@
         "pt": "objeto plano; livro, documento, cart\u00e3o, papel, registro, website",
         "tl_l": "patag na bagay; aklat, dokumento, kard, papel, talaan, pahinarya",
         "ro": "obiect plat, carte, document, card, h\u00e2rtie, record, website",
-        "tr": "d\u00fcz \u015fey; kitap, belge, kart, ka\u011f\u0131t, sicil, web sitesi",
+        "tr": "d\u00fcz \u015fey; kitap, belge, kart, ka\u011f\u0131t, plak, web sitesi",
         "mi": "he mea papatahi; he pukapuka, he k\u0101ri, he pepa, he rekoata, he pae tukutuku",
         "zh_hant": "\u5e73\u7684\u7269\u9ad4\uff1b\u66f8\u3001\u6587\u4ef6\u3001\u5361\u7247\u3001\u7d19\u5f35\u3001\u8a18\u9304\u3001\u7db2\u7ad9",
         "zh_hans": "\u5e73\u7684\u7269\u4f53\uff1b\u4e66\u3001\u6587\u4ef6\u3001\u5361\u7247\u3001\u7eb8\u5f20\u3001\u8bb0\u5f55\u3001\u7f51\u7ad9",
@@ -3807,7 +3903,9 @@
         "eo": "(markas prepozician frazon)",
         "de": "(vor ein Satzteil mit Pr\u00e4position)",
         "tok": "sina wile kepeken e nimi sama lon anu tawa anu tan anu kepeken anu sama la sina ken toki e \"lu\" lon monsi pi nimi ni.",
-        "it": "(prima della frase preposizionale)"
+        "it": "(prima della frase preposizionale)",
+        "zh_hant": "\uff08\u7f6e\u65bc\u4ecb\u8a5e\u77ed\u8a9e\u4e4b\u524d\uff09",
+        "zh_hans": "\uff08\u7f6e\u4e8e\u4ecb\u8bcd\u77ed\u8bed\u4e4b\u524d\uff09"
       }
     },
     "loje": {
@@ -3844,7 +3942,7 @@
         "pt": "vermelho, avermelhado, encarnado",
         "tl_l": "pula, mamula-mula",
         "ro": "ro\u0219u, ro\u0219i\u0219or",
-        "tr": "k\u0131rm\u0131z\u0131, k\u0131rm\u0131z\u0131mt\u0131rak",
+        "tr": "k\u0131rm\u0131z\u0131, k\u0131rm\u0131z\u0131ms\u0131",
         "he": "\u05d0\u05d3\u05d5\u05dd, \u05d0\u05d3\u05de\u05d3\u05dd",
         "mi": "whero",
         "zh_hant": "\u7d05\u8272\u7684\u3001\u984f\u8272\u504f\u7d05\u7684",
@@ -3877,7 +3975,8 @@
         "tok": "luka anu noka",
         "it": "arto",
         "he": "\u05d2\u05e4\u05d4",
-        "zh_hant": "\u80a2\u9ad4"
+        "zh_hant": "\u80a2\u9ad4",
+        "zh_hans": "\u80a2\u4f53"
       }
     },
     "lokon": {
@@ -3907,7 +4006,9 @@
         "ur": "(\u0644\u0652\u0648\u06a9\u06cc\u0646 \u0627\u0648\u0631 \u0627\u0648\u06a9\u0648 \u0644\u0641\u0638\u0648\u06ba \u06a9\u0627 \u0645\u06cc\u0644)",
         "pa": "(\u0a32\u0a42\u0a15\u0a3f\u0a02 \u0a05\u0a24\u0a47 \u0a13\u0a15\u0a4b \u0a38\u0a3c\u0a2c\u0a26\u0a3e\u0a02 \u0a26\u0a3e \u0a2e\u0a47\u0a32)",
         "id": "(kompromi antawa lukin & oko)",
-        "it": "{un compromesso tra lukin & oko}"
+        "it": "{un compromesso tra lukin & oko}",
+        "zh_hant": "{lukin\u548coko\u7684\u6298\u4e2d\u65b9\u6848}",
+        "zh_hans": "{lukin\u548coko\u7684\u6298\u4e2d\u65b9\u6848}"
       }
     },
     "loku": {
@@ -3936,7 +4037,9 @@
         "ur": "\u0646\u0645\u0628\u0631 \u0686\u06be\u06d2\u060c \u0686\u06be\u06c1",
         "pa": "\u0a28\u0a38\u0a2c\u0a30 \u0a1b\u0a47",
         "id": "angka \u20186\u2019",
-        "it": "la cifra '6'"
+        "it": "la cifra '6'",
+        "zh_hant": "\u6578\u5b576",
+        "zh_hans": "\u6570\u5b576"
       }
     },
     "lon": {
@@ -3973,7 +4076,7 @@
         "pt": "localizado em, presente em, real, verdadeiro, existente | ALT (resposta afirmativa)",
         "tl_l": "matatagpuan sa, kasalukuyan sa, totoo, tunay, umiiral | ALT (nagpapatibay na tugon)",
         "ro": "locat la, prezent la, real, adev\u0103rat, exist\u00e2nd | ALT ( r\u0103spuns afirmativ)",
-        "tr": "...'da, ...'de, ger\u00e7ek, do\u011fru, var | ALT (olumlu cevap)",
+        "tr": "-de/-da/-te/-ta, ger\u00e7ek, do\u011fru, var | ALT (olumlu cevap)",
         "mi": "kei, i, t\u016bturu, pono | ALT (he whakautu whakaae)",
         "zh_hant": "\u5728\u3001\u4f4d\u65bc\u3001\u771f\u5be6\u7684\u3001\u771f\u6b63\u7684\u3001\u5b58\u5728\u7684 | ALT \uff08\u80af\u5b9a\u56de\u7b54\uff09",
         "zh_hans": "\u5728\u3001\u4f4d\u4e8e\u3001\u771f\u5b9e\u7684\u3001\u771f\u6b63\u7684\u3001\u5b58\u5728\u7684 | ALT \uff08\u80af\u5b9a\u56de\u7b54\uff09",
@@ -4001,7 +4104,8 @@
         "de": "(f\u00fcr zuk\u00fcnftige Verwendung von Sonja Lang reserviertes Wort)",
         "tok": "jan Sonja li wile e ni: nimi ni li awen open tawa lipu sin lon tenpo kama.",
         "it": "(parola riservata per uso futuro da Sonja Lang)",
-        "zh_hant": "\uff08Sonja Lang\u4fdd\u7559\u55ae\u8a5e\uff09"
+        "zh_hant": "\uff08Sonja Lang\u4fdd\u7559\u55ae\u8a5e\uff09",
+        "zh_hans": "\uff08Sonja Lang\u4fdd\u7559\u5355\u8bcd\uff09"
       }
     },
     "luka": {
@@ -4039,7 +4143,7 @@
         "pt": "bra\u00e7o, m\u00e3o, \u00f3rg\u00e3o t\u00e1til; cinco | ALT tocar/sentir fisicamente, interagir, pressionar",
         "tl_l": "braso, kamay, pandama; lima | ALT hawakan/pakiramdam pisikal, makipag-ugnayan, pindutin",
         "ro": "bra\u021b, m\u00e2n\u0103, organ tactil, cinci | ALT a atinge/a sim\u021bii fizical, \u00eenteractiune, a ap\u0103sa",
-        "tr": "el, kol, dokunmayla ilgili organ; be\u015f | ALT fiziksel olarak ellemek/hissetmek, etkile\u015fmek, basmak",
+        "tr": "el, kol, dokunma organ\u0131; be\u015f | ALT fiziksel olarak ellemek/hissetmek, etkile\u015fmek, basmak",
         "mi": "he ringa; rima | ALT p\u0101, p\u0101hekoheko, t\u0101",
         "zh_hant": "\u624b\u3001\u624b\u81c2\uff0c\u89f8\u89ba\u5668\u5b98\uff1b\u4e94 | ALT \u78b0\u3001\u89f8\u6478\u3001\u4e92\u52d5\u3001\u6309\u3001\u58d3",
         "zh_hans": "\u624b\u3001\u624b\u81c2\uff0c\u89e6\u89c9\u5668\u5b98\uff1b\u4e94 | ALT \u78b0\u3001\u89e6\u6478\u3001\u4e92\u52a8\u3001\u6309\u3001\u538b",
@@ -4083,7 +4187,7 @@
         "pt": "olho; olhar a, ver, examinar, observar, ler, assistir; procurar, buscar; (pv.) tentar",
         "tl_l": "mata; tingnan, suriin, pagmasdan, basahin, panoorin; hanapin; (pv.) subukan",
         "ro": "ochi, a te uita, a vedea, a examina, a observa, a citi, a te uita pentru, a c\u0103uta, (pv.) a \u00eencerca",
-        "tr": "g\u00f6z; ...'e bakmak, g\u00f6rmek, incelemek, g\u00f6zlemlemek, okumak, izlemek; aramak; (pv.) denemek",
+        "tr": "g\u00f6z; (-e) bakmak, g\u00f6rmek, incelemek, g\u00f6zlemlemek, okumak, izlemek; aramak; (y.f.) denemek",
         "mi": "he karu; titiro, kite, m\u0101taki, whakat\u0101tare, p\u0101nui; kimi, rapu; (pv.) whakam\u0101tautau",
         "zh_hant": "\u773c\u775b\uff1b\u770b\u898b\u3001\u89c0\u5bdf\u3001\u6aa2\u67e5\u3001\u6ce8\u8996\u3001\u95b1\u8b80\uff1b\u641c\u5c0b\uff0c\u5c0b\u6c42\uff1b(pv.) \u5617\u8a66\u3001\u8a66\u5716",
         "zh_hans": "\u773c\u775b\uff1b\u770b\u89c1\u3001\u89c2\u5bdf\u3001\u68c0\u67e5\u3001\u6ce8\u89c6\u3001\u9605\u8bfb\uff1b\u641c\u5bfb\uff0c\u5bfb\u6c42\uff1b(pv.) \u5c1d\u8bd5\u3001\u8bd5\u56fe",
@@ -4203,7 +4307,8 @@
         "pa": "\u0a2a\u0a41\u0a30\u0a3e\u0a23\u0a3e, \u0a2c\u0a41\u0a71\u0a22\u0a3e",
         "id": "tua, berumur, kuno",
         "it": "vecchio, invecchiato, antico",
-        "zh_hant": "\u8001\u7684\u3001\u5e74\u8001\u7684\u3001\u53e4\u4ee3\u7684\u3001\u53e4\u8001\u7684"
+        "zh_hant": "\u8001\u7684\u3001\u5e74\u8001\u7684\u3001\u53e4\u4ee3\u7684\u3001\u53e4\u8001\u7684",
+        "zh_hans": "\u8001\u7684\u3001\u5e74\u8001\u7684\u3001\u53e4\u4ee3\u7684\u3001\u53e4\u8001\u7684"
       }
     },
     "mama": {
@@ -4299,7 +4404,9 @@
         "eo": "(partiklo kiu markas demandon)",
         "de": "modifizierende Fragepartikel",
         "tok": "\"me\" li lili pi toki ni: \"anu seme?\"",
-        "it": "particella modificatrice di domanda"
+        "it": "particella modificatrice di domanda",
+        "zh_hant": "\uff08\u554f\u53e5\u4fee\u98fe\u8a9e\uff09",
+        "zh_hans": "\uff08\u95ee\u53e5\u4fee\u9970\u8bed\uff09"
       }
     },
     "meli": {
@@ -4369,7 +4476,9 @@
         "ur": "\u06c1\u0645 \u062c\u0646\u0633 \u067e\u0631\u0633\u062a \u0639\u0648\u0631\u062a\u060c \u0644\u06cc\u0633\u0628\u06cc\u0626\u0646",
         "pa": "\u0a2e\u0a39\u0a3f\u0a32\u0a3e \u0a38\u0a2e\u0a32\u0a48\u0a02\u0a17\u0a3f\u0a15",
         "id": "lesbian, perempuan yang cinta perempuan",
-        "it": "saffico, lesbica"
+        "it": "saffico, lesbica",
+        "zh_hant": "\u5973\u540c\u6027\u6200",
+        "zh_hans": "\u5973\u540c\u6027\u604b"
       }
     },
     "meso": {
@@ -4406,7 +4515,8 @@
         "pa": "\u0a35\u0a3f\u0a71\u0a1a, \u0a06\u0a2e, \u0a20\u0a3f\u0a71\u0a15, \u0a20\u0a3f\u0a71\u0a15 \u0a20\u0a3e\u0a15; \u0a28\u0a3e \u0a07\u0a39 \u0a28\u0a3e \u0a13\u0a39",
         "id": "tengah, perantara, sedang; bukan keduanya, tidak sepenuhnya",
         "it": "mezzo, medio, mediocre; n\u00e9 l'uno n\u00e9 l'altro, n\u00e9 pienamente \u00e8 n\u00e9 non \u00e8",
-        "zh_hant": "\u4e2d\u9ede\u3001\u4e2d\u9593\u3001\u4e2d\u592e\u3001\u4e2d\u7b49\u7684\u3001\u5e73\u5eb8\u7684\uff1b\u975e\u6b64\u975e\u5f7c\u3001\u662f\u548c\u4e0d\u662f\u4e4b\u9593"
+        "zh_hant": "\u4e2d\u9ede\u3001\u4e2d\u9593\u3001\u4e2d\u592e\u3001\u4e2d\u7b49\u7684\u3001\u5e73\u5eb8\u7684\uff1b\u975e\u6b64\u975e\u5f7c\u3001\u662f\u548c\u4e0d\u662f\u4e4b\u9593",
+        "zh_hans": "\u4e2d\u70b9\u3001\u4e2d\u95f4\u3001\u4e2d\u592e\u3001\u4e2d\u7b49\u7684\u3001\u5e73\u5eb8\u7684\uff1b\u975e\u6b64\u975e\u5f7c\u3001\u662f\u548c\u4e0d\u662f\u4e4b\u95f4"
       }
     },
     "mi": {
@@ -4519,7 +4629,9 @@
         "ur": "\u0645\u0631\u062f \u06c1\u0645 \u062c\u0646\u0633 \u067e\u0631\u0633\u062a\u0648\u06ba",
         "pa": "\u0a2a\u0a41\u0a30\u0a41\u0a38\u0a3c \u0a38\u0a2e\u0a32\u0a48\u0a02\u0a17\u0a3f\u0a15",
         "id": "gay, lelaki yang cinta lelaki",
-        "it": "gay"
+        "it": "gay",
+        "zh_hant": "\u7537\u540c\u6027\u6200",
+        "zh_hans": "\u7537\u540c\u6027\u604b"
       }
     },
     "misa": {
@@ -4549,7 +4661,8 @@
         "pa": "\u0a1a\u0a42\u0a39\u0a3e, \u0a17\u0a3f\u0a32\u0a39\u0a30\u0a40, \u0a16\u0a30\u0a17\u0a4b\u0a36",
         "id": "tikus, mencit, tupai, kelinci, hewan pengerat",
         "it": "Glires o Eulipotyphla; ratto, topo, scoiattolo, coniglio, roditore; {~ suli} capibara",
-        "zh_hant": "\u5699\u9f52\u52d5\u7269\u6216\u771f\u76f2\u7f3a\u76ee\u52d5\u7269\uff1b\u8001\u9f20\u3001\u5927\u9f20\u3001\u5154\u5b50\u3001\u5699\u9f52\u76ee\u52d5\u7269\uff1b{~ suli} \u6c34\u8c5a"
+        "zh_hant": "\u5699\u9f52\u52d5\u7269\u6216\u771f\u76f2\u7f3a\u76ee\u52d5\u7269\uff1b\u8001\u9f20\u3001\u5927\u9f20\u3001\u5154\u5b50\u3001\u5699\u9f52\u76ee\u52d5\u7269\uff1b{~ suli} \u6c34\u8c5a",
+        "zh_hans": "\u556e\u9f7f\u52a8\u7269\u6216\u771f\u76f2\u7f3a\u76ee\u52a8\u7269\uff1b\u8001\u9f20\u3001\u5927\u9f20\u3001\u5154\u5b50\u3001\u556e\u9f7f\u76ee\u52a8\u7269\uff1b{~ suli} \u6c34\u8c5a"
       }
     },
     "misikeke": {
@@ -4590,7 +4703,8 @@
         "pa": "\u0a26\u0a35\u0a3e, \u0a21\u0a3e\u0a15\u0a1f\u0a30\u0a40, \u0a1a\u0a3f\u0a15\u0a3f\u0a24\u0a38\u0a3e",
         "id": "obat, kesehatan",
         "it": "medicina, medico",
-        "zh_hant": "\u85e5\u3001\u91ab\u7642\u7684"
+        "zh_hant": "\u85e5\u3001\u91ab\u7642\u7684",
+        "zh_hans": "\u836f\u3001\u533b\u7597\u7684"
       }
     },
     "moku": {
@@ -4666,7 +4780,7 @@
         "pt": "morto, morrendo",
         "tl_l": "patay, namamatay",
         "ro": "mort, murind",
-        "tr": "\u00f6l\u00fc",
+        "tr": "\u00f6l\u00fc, \u00f6lmekte olan",
         "mi": "mate",
         "zh_hant": "\u6b7b\u7684\u3001\u53bb\u4e16\u7684",
         "zh_hans": "\u6b7b\u7684\u3001\u53bb\u4e16\u7684",
@@ -4691,7 +4805,9 @@
         "eo": "mola spongeca besto, ekzemple heliko, limako, a\u016d spongo",
         "de": "ein weiches Tier, wie Schnecken oder Schw\u00e4mme",
         "tok": "soweli anu kala anu pipi anu akesi anu waso la ona li sama ko la ona li molusa",
-        "it": "un animale molliccio, come una chiocciola, una lumaca o una spugna"
+        "it": "un animale molliccio, come una chiocciola, una lumaca o una spugna",
+        "zh_hant": "\u6fd5\u8edf\u7684\u52d5\u7269\uff0c\u5982\u8778\u725b\u3001\u86de\u8753\u3001\u6d77\u7dbf\u7b49",
+        "zh_hans": "\u6e7f\u8f6f\u7684\u52a8\u7269\uff0c\u5982\u8717\u725b\u3001\u86de\u8753\u3001\u6d77\u7ef5\u7b49"
       }
     },
     "monsi": {
@@ -4770,7 +4886,8 @@
         "pa": "\u0a21\u0a30, \u0a18\u0a2c\u0a30\u0a3e\u0a39\u0a1f; \u0a39\u0a48\u0a35\u0a3e\u0a28, \u0a16\u0a24\u0a30\u0a3e",
         "id": "rasa takut, segan; monster, predator; ancaman, bahaya",
         "it": "paura, timore; mostro, predatore; minaccia, pericolo",
-        "zh_hant": "\u6050\u61fc\u3001\u61fc\u6015\uff1b\u602a\u7378\u3001\u6355\u98df\u8005\uff1b\u5a01\u8105\u3001\u5371\u96aa"
+        "zh_hant": "\u6050\u61fc\u3001\u61fc\u6015\uff1b\u602a\u7378\u3001\u6355\u98df\u8005\uff1b\u5a01\u8105\u3001\u5371\u96aa",
+        "zh_hans": "\u6050\u60e7\u3001\u60e7\u6015\uff1b\u602a\u517d\u3001\u6355\u98df\u8005\uff1b\u5a01\u80c1\u3001\u5371\u9669"
       }
     },
     "mu": {
@@ -4883,7 +5000,7 @@
         "it": "luna, corpo celeste, stella | ALT bagliore, luce incandescente, luce nel buio",
         "pt": "lua, objeto do c\u00e9u noturno, estrela | ALT brilho, luz brilhante, luz no escuro",
         "tl_l": "buwan, bagay sa gabing kalangitan, bituin | ALT kinang, kumikinang na liwanag, liwanag sa dilim",
-        "tr": "ay",
+        "tr": "ay, gece g\u00f6ky\u00fcz\u00fc nesnesi, y\u0131ld\u0131z | ALT parlamak, parlamayan \u0131\u015f\u0131k, karanl\u0131ktaki \u0131\u015f\u0131k",
         "mi": "he marama, he mea i te rangi i te p\u014d, he whet\u016b | ALT huru, he rama",
         "zh_hant": "\u6708\u4eae\u3001\u6708\u7403\u3001\u5728\u591c\u7a7a\u88e1\u7684\u7269\u9ad4\u3001\u661f\u3001\u6046\u661f | ALT \u6697\u6de1\u7684\u5149\u3001\u9583\u8000\u7684\u5149\u3001\u5728\u9ed1\u6697\u88e1\u7684\u5149",
         "zh_hans": "\u6708\u4eae\u3001\u6708\u7403\u3001\u5728\u591c\u7a7a\u91cc\u7684\u7269\u4f53\u3001\u661f\u3001\u6052\u661f | ALT \u6697\u6de1\u7684\u5149\u3001\u95ea\u8000\u7684\u5149\u3001\u5728\u9ed1\u6697\u91cc\u7684\u5149",
@@ -4991,7 +5108,8 @@
         "tok": "sina pana e nimi \"n\" la, ni li sama pana e nimi \"a.\"",
         "es": "(indica pensar, ponderar, reconocer, acordar, o tararear)",
         "it": "(indica pensiero, riflessione, riconoscimento, accordo o borbottio)",
-        "zh_hant": "\uff08\u8868\u793a\u601d\u8003\u3001\u6c89\u601d\u3001\u8b58\u5225\u3001\u540c\u610f\u6216\u55e1\u55e1\u8072\uff09"
+        "zh_hant": "\uff08\u8868\u793a\u601d\u8003\u3001\u6c89\u601d\u3001\u8b58\u5225\u3001\u540c\u610f\u6216\u55e1\u55e1\u8072\uff09",
+        "zh_hans": "\uff08\u8868\u793a\u601d\u8003\u3001\u6c89\u601d\u3001\u8bc6\u522b\u3001\u540c\u610f\u6216\u55e1\u55e1\u58f0\uff09"
       }
     },
     "namako": {
@@ -5030,7 +5148,8 @@
         "pa": "\u0a2e\u0a38\u0a3e\u0a32\u0a3e, \u0a05\u0a24\u0a3f\u0a30\u0a3f\u0a15\u0a24",
         "id": "hiasan, rempah; ekstra, tambahan",
         "it": "{vedi sin} | ALT abbellimento, spezia; extra, supplementare",
-        "zh_hant": "{\u898bsin} | ALT \u88dd\u98fe\u3001\u4fee\u98fe\u3001\u9999\u6599\uff1b\u984d\u5916\u7684\u3001\u9644\u52a0\u7684"
+        "zh_hant": "{\u898bsin} | ALT \u88dd\u98fe\u3001\u4fee\u98fe\u3001\u9999\u6599\uff1b\u984d\u5916\u7684\u3001\u9644\u52a0\u7684",
+        "zh_hans": "{\u89c1sin} | ALT \u88c5\u9970\u3001\u4fee\u9970\u3001\u9999\u6599\uff1b\u989d\u5916\u7684\u3001\u9644\u52a0\u7684"
       }
     },
     "nanpa": {
@@ -5063,7 +5182,7 @@
         "de": "-te (Ordinalzahl) | Zahl",
         "it": "(numero ordinale); numeri",
         "pt": "-\u00ba (n\u00famero ordinal); n\u00fameros",
-        "tr": "-c\u0131, -ci, -cu, -c\u00fc (s\u0131ra say\u0131); say\u0131lar",
+        "tr": "-c\u0131/-ci/-cu/-c\u00fc (s\u0131ra say\u0131); say\u0131lar",
         "mi": "tua- (he tau raupapa); he tau",
         "zh_hant": "\u7b2c\uff08\u7528\u65bc\u69cb\u6210\u5e8f\u6578\uff09\uff1b\u6578\u5b57",
         "zh_hans": "\u7b2c\uff08\u7528\u4e8e\u6784\u6210\u5e8f\u6570\uff09\uff1b\u6570\u5b57",
@@ -5169,7 +5288,9 @@
         "ur": "\u0646\u0627\u062a\u06c1\u060c \u0631\u0634\u062a\u06c1\u060c \u0645\u0645\u0627\u062b\u0644\u062a\u061b \u0686\u0648\u0631\u0627\u062d\u0627\u060c \u0686\u0648\u06a9\u060c \u06af\u0627\u06ba\u0679\u06be\u061b \u06a9\u0633\u06cc \u062d\u062f \u06a9\u0648 \u067e\u0627\u0631 \u06a9\u0631\u0646\u0627 ",
         "pa": "\u0a28\u0a3e\u0a24\u0a3e, \u0a30\u0a3f\u0a36\u0a24\u0a3e, \u0a38\u0a2e\u0a3e\u0a32\u0a24\u0a3e; \u0a1a\u0a4c\u0a15, \u0a1a\u0a4b\u0a30\u0a3e\u0a39\u0a3e, \u0a17\u0a3e\u0a02\u0a20; \u0a05\u0a24\u0a3f\u0a35\u0a2f\u0a3e\u0a2a\u0a28 \u0a15\u0a30\u0a28\u0a3e, \u0a15\u0a3f\u0a38\u0a40 \u0a39\u0a26 \u0a28\u0a42\u0a70 \u0a2a\u0a3e\u0a30 \u0a15\u0a30\u0a28\u0a3e",
         "id": "hubungan, korelasi, kesamaan; simpul, percabangan, persimpangan; tumpang tindih, melipat; melewati batas",
-        "it": "relazione, correlazione, comunanza; croce, nodo, giunzione, intersezione; sovrapporsi, piegare; oltrepassare, eccedere in un punto"
+        "it": "relazione, correlazione, comunanza; croce, nodo, giunzione, intersezione; sovrapporsi, piegare; oltrepassare, eccedere in un punto",
+        "zh_hant": "\u95dc\u4fc2\u3001\u806f\u7e6b\u3001\u95dc\u806f\u3001\u5171\u540c\u7279\u5fb5\uff1b\u4ea4\u53c9\u3001\u76f8\u4ea4\u3001\u7d50\u3001\u63a5\u5408\u9ede\uff1b\u91cd\u758a\u3001\u4ea4\u758a\u3001\u647a\u758a\u3001\u8d85\u8d8a\uff08\u7bc4\u570d\uff09\u3001\u8d85\u8d8a\u5230\u4e00\u500b\u7a0b\u5ea6",
+        "zh_hans": "\u5173\u7cfb\u3001\u8054\u7cfb\u3001\u5173\u8054\u3001\u5171\u540c\u7279\u5f81\uff1b\u4ea4\u53c9\u3001\u76f8\u4ea4\u3001\u7ed3\u3001\u63a5\u5408\u70b9\uff1b\u91cd\u53e0\u3001\u4ea4\u53e0\u3001\u6298\u53e0\u3001\u8d85\u8d8a\uff08\u8303\u56f4\uff09\u3001\u8d85\u8d8a\u5230\u4e00\u4e2a\u7a0b\u5ea6"
       }
     },
     "neja": {
@@ -5201,7 +5322,8 @@
         "pa": "\u0a1a\u0a3e\u0a30",
         "id": "empat",
         "it": "quattro",
-        "zh_hant": "\u56db"
+        "zh_hant": "\u56db",
+        "zh_hans": "\u56db"
       }
     },
     "nele": {
@@ -5220,7 +5342,9 @@
         "eo": "travidebla materialo, manko de privateco; klara, travidebla, senbara; fari travidebla",
         "de": "durchsichtiges Material/durchsichtiger Gegenstand, Mangel an Privatsph\u00e4re; klar, durchsichtig, unversperrt; klar machen, durchsichtig machen, Hindernisse beseitigen",
         "tok": "sina ken sona e ijo kepeken pali lili anu sina ken lukin e ijo pi monsi ona la ijo ni li nele",
-        "it": "materiale/oggetto trasparente, mancanza di privacy; chiaro, trasparente, senza ostacoli; rendere chiaro, rendere trasparente, rimuovere le ostruzioni"
+        "it": "materiale/oggetto trasparente, mancanza di privacy; chiaro, trasparente, senza ostacoli; rendere chiaro, rendere trasparente, rimuovere le ostruzioni",
+        "zh_hant": "\u900f\u660e\u7684\u6750\u6599/\u7269\u9ad4\u3001\u7f3a\u4e4f\u96b1\u79c1\uff1b\u900f\u660e\u7684\u3001\u6e05\u6f88\u7684\u3001\u6e05\u6670\u7684\u3001\u6c92\u6709\u969c\u7919\u7269\u7684\uff1b\u4f7f\u900f\u660e\u3001\u4f7f\u6e05\u6f88\u3001\u4f7f\u6e05\u6670\u3001\u53bb\u9664\u969c\u7919\u7269",
+        "zh_hans": "\u900f\u660e\u7684\u6750\u6599/\u7269\u4f53\u3001\u7f3a\u4e4f\u9690\u79c1\uff1b\u900f\u660e\u7684\u3001\u6e05\u6f88\u7684\u3001\u6e05\u6670\u7684\u3001\u6ca1\u6709\u969c\u788d\u7269\u7684\uff1b\u4f7f\u900f\u660e\u3001\u4f7f\u6e05\u6f88\u3001\u4f7f\u6e05\u6670\u3001\u53bb\u9664\u969c\u788d\u7269"
       }
     },
     "nena": {
@@ -5357,7 +5481,9 @@
         "tok": "mu pi soweli ni: ona li ko li lon tomo jan li jo e linja wan lon monsi e linja lili mute lon sinpin.",
         "es": "miau, maullido, sonido felino",
         "it": "miagolio, verso felino",
-        "he": "\u05de\u05d9\u05d0\u05d5, \u05e7\u05d5\u05dc \u05e9\u05dc \u05d7\u05ea\u05d5\u05dc"
+        "he": "\u05de\u05d9\u05d0\u05d5, \u05e7\u05d5\u05dc \u05e9\u05dc \u05d7\u05ea\u05d5\u05dc",
+        "zh_hant": "\u55b5\u3001\u8c93\u53eb\u8072",
+        "zh_hans": "\u55b5\u3001\u732b\u53eb\u58f0"
       }
     },
     "noka": {
@@ -5423,7 +5549,8 @@
         "de": "(f\u00fcr zuk\u00fcnftige Verwendung von Sonja Lang reserviertes Wort)",
         "tok": "jan Sonja li wile e ni: nimi ni li awen open tawa lipu sin lon tenpo kama.",
         "it": "(parola riservata per uso futuro da Sonja Lang)",
-        "zh_hant": "\uff08Sonja Lang\u4fdd\u7559\u55ae\u8a5e\uff09"
+        "zh_hant": "\uff08Sonja Lang\u4fdd\u7559\u55ae\u8a5e\uff09",
+        "zh_hans": "\uff08Sonja Lang\u4fdd\u7559\u5355\u8bcd\uff09"
       }
     },
     "nu1": {
@@ -5449,7 +5576,9 @@
         "ur": "\u0646\u06cc\u0627\u060c \u0646\u0648\u0627",
         "pa": "\u0a28\u0a35\u0a3e",
         "id": "baru",
-        "it": "nuovo"
+        "it": "nuovo",
+        "zh_hant": "\u65b0\u7684",
+        "zh_hans": "\u65b0\u7684"
       }
     },
     "nun": {
@@ -5478,7 +5607,9 @@
         "ur": "\u0646\u0645\u0628\u0631 \u067e\u0627\u0646\u0686",
         "pa": "\u0a28\u0a2e\u0a2c\u0a30 \u0a2a\u0a70\u0a1c",
         "id": "angka \u20185\u2019",
-        "it": "la cifra '5'"
+        "it": "la cifra '5'",
+        "zh_hant": "\u6578\u5b575",
+        "zh_hans": "\u6570\u5b575"
       }
     },
     "nuwa": {
@@ -5507,7 +5638,9 @@
         "ur": "\u0632\u06cc\u0627\u062f\u06c1 \u0646\u06cc\u0627",
         "pa": "\u0a35\u0a71\u0a27 \u0a28\u0a35\u0a3e",
         "id": "lebih baru",
-        "it": "pi\u00f9 nuovo"
+        "it": "pi\u00f9 nuovo",
+        "zh_hant": "\u8f03\u65b0\u7684",
+        "zh_hans": "\u8f83\u65b0\u7684"
       }
     },
     "o": {
@@ -5580,7 +5713,8 @@
         "pa": "\u0a20\u0a3f\u0a71\u0a15 \u0a39\u0a48 (\u0a17\u0a71\u0a32 \u0a38\u0a2e\u0a1d\u0a23 \u0a26\u0a3e \u0a1a\u0a3f\u0a70\u0a28\u0a4d\u0a39)",
         "id": "(pengakuan atau penerimaan)",
         "it": "(riconoscimento o accettazione)",
-        "zh_hant": "\uff08\u77e5\u6089\u6216\u540c\u610f\uff09"
+        "zh_hant": "\uff08\u77e5\u6089\u6216\u540c\u610f\uff09",
+        "zh_hans": "\uff08\u77e5\u6089\u6216\u540c\u610f\uff09"
       }
     },
     "okepuma": {
@@ -5609,7 +5743,9 @@
         "ur": "\u0628\u0652\u0648\u0645\u0631\u060c \u0628\u06cc\u0628\u06cc \u0628\u0652\u0648\u0645\u0631 (\u0627\u0645\u0631\u06cc\u06a9\u06cc \u0627\u0646\u06af\u0631\u06cc\u0632\u06cc)\u060c \u0627\u06cc\u06a9 \u0628\u06d2\u0644\u062d\u0627\u0638 \u0628\u0632\u0631\u06af",
         "pa": "\u0a2c\u0a42\u0a2e\u0a30, \u0a2c\u0a47\u0a2c\u0a40 \u0a2c\u0a42\u0a2e\u0a30 (\u0a05\u0a2e\u0a30\u0a40\u0a15\u0a40 \u0a05\u0a70\u0a17\u0a30\u0a47\u0a1c\u0a40), \u0a07\u0a71\u0a15 \u0a2c\u0a47\u0a32\u0a3f\u0a39\u0a3e\u0a1c \u0a2c\u0a41\u0a71\u0a22\u0a3e",
         "id": "Baby Boomer, orang yang lahir pada masa ledakan kelahiran setelah Perang Dunia II, tetua yang tidak peduli orang lain",
-        "it": "boomer, Baby Boomer, anziano sconsiderato; [interiezione/insulto]"
+        "it": "boomer, Baby Boomer, anziano sconsiderato; [interiezione/insulto]",
+        "zh_hant": "\u51fa\u751f\u65bc\u5b30\u5152\u6f6e\u4e00\u4ee3\uff081946\u5e74\uff0d1964\u5e74\uff09\u7684\u4eba\u3001\u4e0d\u66ff\u5225\u4eba\u8457\u60f3\u7684\u9577\u8005\uff1b\u5c0d\u9019\u985e\u4eba\u7684\u8fb1\u7f75\u8a5e",
+        "zh_hans": "\u51fa\u751f\u4e8e\u5a74\u513f\u6f6e\u4e00\u4ee3\uff081946\u5e74\uff0d1964\u5e74\uff09\u7684\u4eba\u3001\u4e0d\u66ff\u522b\u4eba\u7740\u60f3\u7684\u957f\u8005\uff1b\u5bf9\u8fd9\u7c7b\u4eba\u7684\u8fb1\u9a82\u8bcd"
       }
     },
     "oko": {
@@ -5652,7 +5788,8 @@
         "pa": "\u0a05\u0a71\u0a16",
         "id": "mata",
         "it": "{vedi lukin} | ALT occhio, oculare, visivo {vedi lukin}",
-        "zh_hant": "{\u898blukin} | ALT \u773c\u775b\u3001\u773c\u775b\u7684\u3001\u8996\u89ba\u7684 {\u53c3\u898blukin}"
+        "zh_hant": "{\u898blukin} | ALT \u773c\u775b\u3001\u773c\u775b\u7684\u3001\u8996\u89ba\u7684 {\u53c3\u898blukin}",
+        "zh_hans": "{\u89c1lukin} | ALT \u773c\u775b\u3001\u773c\u775b\u7684\u3001\u89c6\u89c9\u7684 {\u53c2\u89c1lukin}"
       }
     },
     "olin": {
@@ -5718,7 +5855,9 @@
         "ur": "\u0627\u0644\u0648\u062f\u0627\u0639 \u060c \u067e\u06be\u0631 \u0645\u0644\u06cc\u06ba \u06af\u06d2\u060c \u0648\u062f\u0627\u0639\u06cc",
         "pa": "\u0a05\u0a32\u0a35\u0a3f\u0a26\u0a3e, \u0a35\u0a3f\u0a26\u0a3e\u0a08, \u0a2b\u0a3f\u0a30 \u0a2e\u0a3f\u0a32\u0a3e\u0a02\u0a17\u0a47",
         "id": "dah, selamat tinggal, sampai jumpa, makanlah ikan yang baik",
-        "it": "arrivederci, addio, ci vediamo dopo, mangia un buon pesce"
+        "it": "arrivederci, addio, ci vediamo dopo, mangia un buon pesce",
+        "zh_hant": "\u518d\u898b\u3001\u518d\u6703\u3001\u4e4b\u5f8c\u518d\u898b\u3001\u5403\u500b\u597d\u9b5a",
+        "zh_hans": "\u518d\u89c1\u3001\u518d\u4f1a\u3001\u4e4b\u540e\u518d\u89c1\u3001\u5403\u4e2a\u597d\u9c7c"
       }
     },
     "omen": {
@@ -5747,7 +5886,9 @@
         "ur": "\u0637\u0646\u0632 \u060c \u0633\u062a\u0645 \u0638\u0631\u06cc\u0641\u06cc",
         "pa": "\u0a24\u0a28\u0a1c\u0a3c, \u0a35\u0a3f\u0a05\u0a70\u0a17, \u0a06\u0a07\u0a30\u0a4b\u0a28\u0a40",
         "id": "sarkasme, ironi",
-        "it": "sarcasmo, ironia"
+        "it": "sarcasmo, ironia",
+        "zh_hant": "\u53cd\u8a9e\u3001\u8af7\u523a\u3001\u6316\u82e6",
+        "zh_hans": "\u53cd\u8bed\u3001\u8bbd\u523a\u3001\u6316\u82e6"
       }
     },
     "ona": {
@@ -5813,7 +5954,9 @@
         "eo": "revo, son\u011do, vizio, mistika stato",
         "de": "Traum, Tagtraum, phantasievolles Spiel, Vision, mystischer Zustand; etw. bezaubern",
         "tok": "oni li lukin nasa pi lawa jan lon tenpo lape.",
-        "it": "sogno, sogno ad occhi aperti, gioco immaginativo, visione, stato mistico; cadere in trance"
+        "it": "sogno, sogno ad occhi aperti, gioco immaginativo, visione, stato mistico; cadere in trance",
+        "zh_hant": "\u5922\u3001\u767d\u65e5\u5922\u3001\u7a7a\u60f3\u3001\u5e7b\u60f3\u3001\u60f3\u50cf\u3001\u5e7b\u8c61\u3001\u5947\u5e7b\u7684\u72c0\u614b\uff1b\u4f7f\u5165\u8ff7",
+        "zh_hans": "\u68a6\u3001\u767d\u65e5\u68a6\u3001\u7a7a\u60f3\u3001\u5e7b\u60f3\u3001\u60f3\u8c61\u3001\u5e7b\u8c61\u3001\u5947\u5e7b\u7684\u72b6\u6001\uff1b\u4f7f\u5165\u8ff7"
       }
     },
     "open": {
@@ -5873,7 +6016,9 @@
         "eo": "totalisma, rilata al Big Brother (el la libro 1984), antonimo de kamalawala",
         "de": "Orwellianisch, totalit\u00e4r, von oder im Zusammenhang mit Big Brother (aus 1984), Antonym von kamalawala",
         "tok": "lipu \"1984\" pi jan So Owe (George Orwell), nanpa pi lipu ni, ijo sama lipu ni.",
-        "it": "Orwelliano, totalitario, di o relativo al Grande Fratello (da 1984), antonimo di kamalawala"
+        "it": "Orwelliano, totalitario, di o relativo al Grande Fratello (da 1984), antonimo di kamalawala",
+        "zh_hant": "\u6b50\u5a01\u723e\u5f0f\u7684\u3001\u6975\u6b0a\u4e3b\u7fa9\u7684\u3001\u8207\uff08\u300a\u4e00\u4e5d\u516b\u56db\u300b\u7684\uff09\u8001\u5927\u54e5\u6709\u95dc\u7684\u3001kamalawala\u7684\u53cd\u7fa9\u8a5e",
+        "zh_hans": "\u5965\u5a01\u5c14\u5f0f\u7684\u3001\u6781\u6743\u4e3b\u4e49\u7684\u3001\u4e0e\uff08\u300a\u4e00\u4e5d\u516b\u56db\u300b\u7684\uff09\u8001\u5927\u54e5\u6709\u5173\u7684\u3001kamalawala\u7684\u53cd\u4e49\u8bcd"
       }
     },
     "pa": {
@@ -5902,7 +6047,9 @@
         "ur": "\u0627\u0628\u06d2",
         "pa": "\u0a05\u0a2c\u0a47",
         "id": "bung",
-        "it": "[interiezione] che cavolo!; espressione di incredulit\u00e0, esasperazione o eccitazione"
+        "it": "[interiezione] che cavolo!; espressione di incredulit\u00e0, esasperazione o eccitazione",
+        "zh_hant": "[\u611f\u5606\u8a5e] \u5144\uff1b\u8868\u793a\u4e0d\u4fe1\u3001\u60f1\u6012\u6216\u8208\u596e",
+        "zh_hans": "[\u611f\u53f9\u8bcd] \u5144\uff1b\u8868\u793a\u4e0d\u4fe1\u3001\u607c\u6012\u6216\u5174\u594b"
       }
     },
     "pakala": {
@@ -5939,7 +6086,7 @@
         "tr": "berbat, k\u0131r\u0131k, zarar g\u00f6rm\u00fc\u015f, hasarl\u0131, bozuk | ALT (k\u00fcf\u00fcr, \u00f6r. siktir!)",
         "mi": "pakaru, riwha | ALT (he kohukohu ng\u0101wari \u2014 hei tauira, \u201chika m\u0101\u201d)",
         "zh_hant": "\u7834\u640d\u7684\u3001\u7834\u788e\u7684\u3001\u50b7\u6b98\u7684\u3001\u5f04\u58de\u7684\u3001\u53d7\u5230\u50b7\u5bb3\u7684 | ALT (\u9ad2\u8a71\uff0c\u5982\u300c\u808f\uff01\u300d)",
-        "zh_hans": "\u7834\u635f\u7684\u3001\u7834\u788e\u7684\u3001\u4f24\u6b8b\u7684\u3001\u5f04\u574f\u7684\u3001\u53d7\u5230\u4f24\u5bb3\u7684 | ALT (\u810f\u8bdd\uff0c\u5982\u300c\u808f\uff01\u300d)",
+        "zh_hans": "\u7834\u635f\u7684\u3001\u7834\u788e\u7684\u3001\u4f24\u6b8b\u7684\u3001\u5f04\u574f\u7684\u3001\u53d7\u5230\u4f24\u5bb3\u7684 | ALT (\u810f\u8bdd\uff0c\u5982\u201c\u808f\uff01\u201d)",
         "fi": "pilalle mennyt, rikkin\u00e4inen, vaurioitunut, sekaisin | ALT (kirosana, esim. vittu!)"
       }
     },
@@ -5975,7 +6122,8 @@
         "pa": "\u0a30\u0a41\u0a15\u0a23\u0a3e, \u0a30\u0a4b\u0a15\u0a23\u0a3e, \u0a1f\u0a4b\u0a15\u0a23\u0a3e; \u0a39\u0a4b\u0a23 \u0a28\u0a3e \u0a26\u0a47\u0a23\u0a3e",
         "id": "berhenti, menghentikan; menghalangi jalan, mengganggu; mencegah",
         "it": "fermare, cessare, fermarsi; bloccare la strada, interrompere; impedire",
-        "zh_hant": "\u505c\u6b62\u3001\u505c\u4e0b\u3001\u7d42\u6b62\uff1b\u64cb\u8def\u3001\u906e\u64cb\u3001\u963b\u65b7\u3001\u4e2d\u65b7\uff1b\u9632\u6b62\u3001\u963b\u6b62"
+        "zh_hant": "\u505c\u6b62\u3001\u505c\u4e0b\u3001\u7d42\u6b62\uff1b\u64cb\u8def\u3001\u906e\u64cb\u3001\u963b\u65b7\u3001\u4e2d\u65b7\uff1b\u9632\u6b62\u3001\u963b\u6b62",
+        "zh_hans": "\u505c\u6b62\u3001\u505c\u4e0b\u3001\u7ec8\u6b62\uff1b\u6321\u8def\u3001\u906e\u6321\u3001\u963b\u65ad\u3001\u4e2d\u65ad\uff1b\u9632\u6b62\u3001\u963b\u6b62"
       }
     },
     "pali": {
@@ -6159,7 +6307,9 @@
         "ur": "\u0622\u0633\u0627\u0646\u060c \u063a\u06cc\u0631 \u067e\u06cc\u0686\u06cc\u062f\u06c1 \u061b \u067e\u0631 \u0633\u06a9\u0648\u0646 \u060c \u067e\u0631\u0627\u0645\u0646",
         "pa": "\u0a1a\u0a70\u0a17\u0a3e, \u0a38\u0a4c\u0a16\u0a3e; \u0a05\u0a30\u0a3e\u0a2e \u0a28\u0a3e\u0a32\u0a3c, \u0a38\u0a3c\u0a3e\u0a02\u0a24\u0a40 \u0a28\u0a3e\u0a32\u0a3c",
         "id": "baik, mudah; sederhana, santai, damai, tidak rumit",
-        "it": "buono, facile; semplice, rilassato, tranquillo, senza complicazioni"
+        "it": "buono, facile; semplice, rilassato, tranquillo, senza complicazioni",
+        "zh_hant": "\u597d\u7684\u3001\u5bb9\u6613\u7684\uff1b\u7c21\u55ae\u7684\u3001\u653e\u9b06\u7684\u3001\u548c\u5e73\u7684\u3001\u4e0d\u8907\u96dc\u7684",
+        "zh_hans": "\u597d\u7684\u3001\u5bb9\u6613\u7684\uff1b\u7b80\u5355\u7684\u3001\u653e\u677e\u7684\u3001\u548c\u5e73\u7684\u3001\u4e0d\u590d\u6742\u7684"
       }
     },
     "pata": {
@@ -6193,7 +6343,8 @@
         "pa": "\u0a2d\u0a30\u0a3e \u0a2d\u0a48\u0a23",
         "id": "adik, kakak, saudara, saudari",
         "it": "fratello, sorella",
-        "zh_hant": "\u5144\u5f1f\u3001\u59d0\u59b9\u3001\u5144\u5f1f\u59d0\u59b9"
+        "zh_hant": "\u5144\u5f1f\u3001\u59d0\u59b9\u3001\u5144\u5f1f\u59d0\u59b9",
+        "zh_hans": "\u5144\u5f1f\u3001\u59d0\u59b9\u3001\u5144\u5f1f\u59d0\u59b9"
       }
     },
     "patu": {
@@ -6222,7 +6373,9 @@
         "ur": "\u0646\u0645\u0628\u0631 \u0622\u0679\u06be",
         "pa": "\u0a28\u0a2e\u0a2c\u0a30 \u0a05\u0a71\u0a20",
         "id": "angka \u20188\u2019",
-        "it": "la cifra '8'"
+        "it": "la cifra '8'",
+        "zh_hant": "\u6578\u5b578",
+        "zh_hans": "\u6570\u5b578"
       }
     },
     "peta": {
@@ -6250,7 +6403,9 @@
         "ur": "\u06c1\u0631\u0627 \u060c \u0633\u0628\u0632 \u061b \u0642\u062f\u0631\u062a\u06cc \u061b \u0632\u0646\u062f\u06c1 \u060c \u0642\u062f\u0631\u062a\u06cc",
         "pa": "\u0a39\u0a30\u0a3e, \u0a1c\u0a3f\u0a09\u0a02\u0a26\u0a3e, \u0a15\u0a41\u0a26\u0a30\u0a24\u0a40",
         "id": "hijau, kehijauan; segar, hidup; ramah lingkungan",
-        "it": "verde, verdastro; verdeggiante, vivo; ecologico"
+        "it": "verde, verdastro; verdeggiante, vivo; ecologico",
+        "zh_hant": "\u7da0\u8272\u7684\u3001\u984f\u8272\u504f\u7da0\u7684\uff1b\u90c1\u90c1\u8525\u8525\u7684\u3001\u6709\u6d3b\u529b\u7684\u3001\u751f\u6c23\u52c3\u52c3\u7684\uff1b\u74b0\u4fdd\u7684",
+        "zh_hans": "\u7eff\u8272\u7684\u3001\u989c\u8272\u504f\u7eff\u7684\uff1b\u90c1\u90c1\u8471\u8471\u7684\u3001\u6709\u6d3b\u529b\u7684\u3001\u751f\u6c14\u52c3\u52c3\u7684\uff1b\u73af\u4fdd\u7684"
       }
     },
     "peto": {
@@ -6282,7 +6437,8 @@
         "pa": "\u0a30\u0a4b\u0a23\u0a3e, \u0a39\u0a70\u0a1d\u0a42; \u0a09\u0a26\u0a3e\u0a38, \u0a26\u0a41\u0a16, \u0a09\u0a26\u0a3e\u0a38\u0a40",
         "id": "menangis, air mata; sedih",
         "it": "piangere, lacrime; triste, tristezza",
-        "zh_hant": "\u54ed\u3001\u54ed\u6ce3\u3001\u773c\u6dda\uff1b\u60b2\u50b7\u7684\u3001\u50b7\u5fc3\u7684\u3001\u60b2\u75db"
+        "zh_hant": "\u54ed\u3001\u54ed\u6ce3\u3001\u773c\u6dda\uff1b\u60b2\u50b7\u7684\u3001\u50b7\u5fc3\u7684\u3001\u60b2\u75db",
+        "zh_hans": "\u54ed\u3001\u54ed\u6ce3\u3001\u773c\u6cea\uff1b\u60b2\u4f24\u7684\u3001\u4f24\u5fc3\u7684\u3001\u60b2\u75db"
       }
     },
     "pi": {
@@ -6318,7 +6474,7 @@
         "tok": "nimi ni li kulupu e nimi mute sama ni: jan li pona li mute la ona li jan pona mute. jan li pona mute la ona li jan pi pona mute.",
         "it": "di (usato per dividere un secondo gruppo di sostantivi che descrive un primo gruppo di sostantivi) | ALT (introduce un genitivo sostantivato)",
         "pt": "de (usado para dividir um segundo grupo de substantivos que descreve um primeiro grupo de substantivos) | ALT (introduz um substantivo genitivo)",
-        "tr": "-(n)\u0131n, -(n)in, -(n)un, -(n)\u00fcn (ilk isim grubundan, onu a\u00e7\u0131klayan ikinci isim grubunu ay\u0131rmak i\u00e7in kullan\u0131l\u0131r) | ALT (isme iyelik katar)",
+        "tr": "-(n)\u0131n / -(n)in / -(n)un / -(n)\u00fcn (ilk isim grubundan, onu a\u00e7\u0131klayan ikinci isim grubunu ay\u0131rmak i\u00e7in kullan\u0131l\u0131r) | ALT (isme iyelik katar)",
         "mi": "(e whakamahia ana hei motu i te r\u014dp\u016b kupu tuarua me te r\u014dp\u016b tuatahi, kia whakarerek\u0113tia te tuatahi e te tuarua) | ALT (hei whakaatu i te t\u016bingoa riro)",
         "zh_hant": "\u7684\uff08\u7528\u65bc\u5206\u5272\u63cf\u8ff0\u7b2c\u4e00\u500b\u540d\u8a5e\u7d44\u7684\u7b2c\u4e8c\u500b\u540d\u8a5e\u7d44\uff09 | ALT \uff08\u5f15\u5165\u5c6c\u683c\u540d\u8a5e\uff09",
         "zh_hans": "\u7684\uff08\u7528\u4e8e\u5206\u5272\u63cf\u8ff0\u7b2c\u4e00\u4e2a\u540d\u8bcd\u7ec4\u7684\u7b2c\u4e8c\u4e2a\u540d\u8bcd\u7ec4\uff09 | ALT \uff08\u5f15\u5165\u5c5e\u683c\u540d\u8bcd\uff09",
@@ -6341,7 +6497,9 @@
         "eo": "elektra, elektronika, konduktiva, me\u0125anika, enreta; elektro, fulmo, tondro, reto",
         "de": "elektrisch, elektronisch, leitend, mechanisch, online; Elektrizit\u00e4t, Blitz, Donner, Netzwerk",
         "tok": "ilo li kepeken wawa ni. telo li kama tan sewi la wawa ni li kama li kalama suli a li suno suli a.",
-        "it": "elettrico, elettronico, conduttivo, meccanico, online; elettricit\u00e0, fulmine, tuono, rete"
+        "it": "elettrico, elettronico, conduttivo, meccanico, online; elettricit\u00e0, fulmine, tuono, rete",
+        "zh_hant": "\u7528\u96fb\u7684\u3001\u96fb\u52d5\u7684\u3001\u767c\u96fb\u7684\u3001\u96fb\u5b50\u7684\u3001\u5c0e\u96fb\u7684\u3001\u6a5f\u52d5\u7684\u3001\u6a5f\u68b0\u7684\u3001\u5728\u7dda\u7684\uff1b\u96fb\u3001\u9583\u96fb\u3001\u96f7\u3001\u7db2\u8def",
+        "zh_hans": "\u7528\u7535\u7684\u3001\u7535\u52a8\u7684\u3001\u53d1\u7535\u7684\u3001\u7535\u5b50\u7684\u3001\u5bfc\u7535\u7684\u3001\u673a\u52a8\u7684\u3001\u673a\u68b0\u7684\u3001\u5728\u7ebf\u7684\uff1b\u7535\u3001\u95ea\u7535\u3001\u96f7\u3001\u7f51\u7edc"
       }
     },
     "pilin": {
@@ -6442,7 +6600,8 @@
         "de": "Auto",
         "tok": "ni li nimi musi. kon ona li tomo tawa.",
         "it": "auto",
-        "zh_hant": "\u6c7d\u8eca"
+        "zh_hant": "\u6c7d\u8eca",
+        "zh_hans": "\u6c7d\u8f66"
       }
     },
     "pini": {
@@ -6549,7 +6708,9 @@
         "ur": "\u0686\u0688\u06be\u0627\u0646\u0627\u060c \u067e\u06a9\u06be\u0627\u0646\u0627 (\u062f\u0645\u0627\u063a \u062e\u0631\u0627\u0628 \u06a9\u0631\u0646\u0627) \u067e\u06a9\u0627\u0626\u0648\u060c \u0628\u0648\u0631\u0646\u06af",
         "pa": "\u0a1a\u0a3f\u0a5c\u0a3e\u0a09\u0a23\u0a3e, \u0a1a\u0a3f\u0a5c, \u0a2a\u0a15\u0a3e\u0a09\u0a23\u0a3e (\u0a26\u0a3f\u0a2e\u0a3e\u0a17 \u0a16\u0a30\u0a3e\u0a2c \u0a15\u0a30\u0a28\u0a3e), \u0a2a\u0a15\u0a3e\u0a0a, \u0a2c\u0a4b\u0a30\u0a3f\u0a02\u0a17",
         "id": "mengganggu, menjahili, membosankan",
-        "it": "infastidire, fastidio, fastidioso, noioso"
+        "it": "infastidire, fastidio, fastidioso, noioso",
+        "zh_hant": "\u4f7f\u60f1\u6012\u3001\u4f7f\u751f\u6c23\u3001\u8b93\u4eba\u7169\u60f1\u7684\u4e8b\u3001\u9ebb\u7169\u7684\u3001\u60f1\u4eba\u7684\u3001\u7121\u804a\u7684",
+        "zh_hans": "\u4f7f\u607c\u6012\u3001\u4f7f\u751f\u6c14\u3001\u8ba9\u4eba\u70e6\u607c\u7684\u4e8b\u3001\u9ebb\u70e6\u7684\u3001\u607c\u4eba\u7684\u3001\u65e0\u804a\u7684"
       }
     },
     "po": {
@@ -6583,7 +6744,8 @@
         "pa": "\u0a1a\u0a3e\u0a30",
         "id": "empat",
         "it": "quattro",
-        "zh_hant": "\u56db"
+        "zh_hant": "\u56db",
+        "zh_hans": "\u56db"
       }
     },
     "poka": {
@@ -6693,7 +6855,8 @@
         "pa": "\u0a2c\u0a4b\u0a32\u0a3f\u0a70\u0a17 (\u0a16\u0a47\u0a32) \u0a2a\u0a3f\u0a28",
         "id": "pin boling",
         "it": "birillo da bowling",
-        "zh_hant": "\u4fdd\u9f61\u7403\u7403\u74f6"
+        "zh_hant": "\u4fdd\u9f61\u7403\u7403\u74f6",
+        "zh_hans": "\u4fdd\u9f84\u7403\u7403\u74f6"
       }
     },
     "pomotolo": {
@@ -6725,7 +6888,8 @@
         "pa": "\u0a15\u0a71\u0a2e \u0a26\u0a3e, \u0a32\u0a3e\u0a2d\u0a26\u0a3e\u0a07\u0a15, \u0a09\u0a2a\u0a2f\u0a4b\u0a17\u0a40",
         "id": "efektif, berguna, memberikan hasil yang baik",
         "it": "efficace, utile, dare buoni risultati",
-        "zh_hant": "\u6709\u6548\u7684\u3001\u6709\u7528\u7684\u3001\u5e36\u4f86\u597d\u7d50\u679c\u7684\u3001\u6709\u6536\u7a6b\u7684"
+        "zh_hant": "\u6709\u6548\u7684\u3001\u6709\u7528\u7684\u3001\u5e36\u4f86\u597d\u7d50\u679c\u7684\u3001\u6709\u6536\u7a6b\u7684",
+        "zh_hans": "\u6709\u6548\u7684\u3001\u6709\u7528\u7684\u3001\u5e26\u6765\u597d\u7ed3\u679c\u7684\u3001\u6709\u6536\u83b7\u7684"
       }
     },
     "pona": {
@@ -6799,7 +6963,8 @@
         "pa": "\u0a1d\u0a42\u0a20, \u0a28\u0a15\u0a32\u0a40, \u0a2c\u0a47\u0a39\u0a15\u0a40\u0a15\u0a24; \u0a27\u0a4b\u0a15\u0a3e \u0a26\u0a47\u0a23\u0a3e",
         "id": "maya, palsu, tidak nyata; berpura-pura; berbohong, menipu",
         "it": "irreale, falso, non veritiero; fingere; ingannare, raggirare",
-        "zh_hant": "\u5047\u7684\u3001\u865b\u5047\u7684\u3001\u865b\u507d\u7684\uff1b\u5047\u88dd\uff1b\u6b3a\u9a19\u3001\u77c7\u9a19\u3001\u8a86\u9a19"
+        "zh_hant": "\u5047\u7684\u3001\u865b\u5047\u7684\u3001\u865b\u507d\u7684\uff1b\u5047\u88dd\uff1b\u6b3a\u9a19\u3001\u77c7\u9a19\u3001\u8a86\u9a19",
+        "zh_hans": "\u5047\u7684\u3001\u865a\u5047\u7684\u3001\u865a\u4f2a\u7684\uff1b\u5047\u88c5\uff1b\u6b3a\u9a97\u3001\u8499\u9a97\u3001\u8bd3\u9a97"
       }
     },
     "pu": {
@@ -6864,7 +7029,9 @@
         "ur": "\u0646\u0631\u0645",
         "pa": "\u0a28\u0a30\u0a2e",
         "id": "lembut, empuk",
-        "it": "soffice, morbido, gommoso (qualcosa che pu\u00f2 essere compresso e che cercher\u00e0 di tornare alla sua forma originale)"
+        "it": "soffice, morbido, gommoso (qualcosa che pu\u00f2 essere compresso e che cercher\u00e0 di tornare alla sua forma originale)",
+        "zh_hant": "\u67d4\u8edf\u7684\u3001\u9b06\u8edf\u7684\u3001\u8edf\u7dbf\u7dbf\u7684\uff08\u88ab\u58d3\u7e2e\u4e4b\u5f8c\u6703\u5617\u8a66\u6062\u5fa9\u539f\u672c\u7684\u5f62\u72c0\uff09",
+        "zh_hans": "\u67d4\u8f6f\u7684\u3001\u677e\u8f6f\u7684\u3001\u8f6f\u7ef5\u7ef5\u7684\uff08\u88ab\u538b\u7f29\u4e4b\u540e\u4f1a\u5c1d\u8bd5\u6062\u590d\u539f\u672c\u7684\u5f62\u72b6\uff09"
       }
     },
     "sama": {
@@ -6940,7 +7107,8 @@
         "pa": "\u0a28\u0a35\u0a47 \u0a32\u0a2b\u0a1c \u0a2c\u0a28\u0a4c\u0a23\u0a47 \u0a26\u0a40 \u0a24\u0a3e\u0a02\u0a18 \u0a39\u0a4b\u0a23\u0a3e",
         "id": "ingin membuat kata baru",
         "it": "voler creare nuove parole",
-        "zh_hant": "\u60f3\u8981\u9020\u65b0\u8a5e\u7684"
+        "zh_hant": "\u60f3\u8981\u9020\u65b0\u8a5e\u7684",
+        "zh_hans": "\u60f3\u8981\u9020\u65b0\u8bcd\u7684"
       }
     },
     "san": {
@@ -6974,7 +7142,8 @@
         "pa": "\u0a24\u0a3f\u0a71\u0a28",
         "id": "tiga",
         "it": "tre",
-        "zh_hant": "\u4e09"
+        "zh_hant": "\u4e09",
+        "zh_hans": "\u4e09"
       }
     },
     "se": {
@@ -7003,7 +7172,9 @@
         "ur": "\u0646\u0645\u0628\u0631 \u0686\u0627\u0631",
         "pa": "\u0a28\u0a2e\u0a2c\u0a30 \u0a1a\u0a3e\u0a30",
         "id": "angka \u20184\u2019",
-        "it": "la cifra '4'"
+        "it": "la cifra '4'",
+        "zh_hant": "\u6578\u5b574",
+        "zh_hans": "\u6570\u5b574"
       }
     },
     "seli": {
@@ -7074,6 +7245,7 @@
         "tok": "selo li lon insa pi ni tu: insa ona en poka ona.",
         "it": "forma esterna, strato esterno; corteccia, buccia, guscio, pelle; confine",
         "pt": "forma externa, camada externa; casca, concha, pele; fronteira",
+        "tr": "d\u0131\u015f form, d\u0131\u015f katman; a\u011fa\u00e7 kabu\u011fu, deniz kabu\u011fu, kabuk, deri; s\u0131n\u0131r",
         "mi": "waho; he kiri, he anga; he tapa",
         "zh_hant": "\u5916\u5c64\u3001\u5916\u76ae\uff1b\u76ae\u3001\u76ae\u819a\u3001\u6bbc\u3001\u6a39\u76ae\uff1b\u908a\u754c\u3001\u754c\u9650",
         "zh_hans": "\u5916\u5c42\u3001\u5916\u76ae\uff1b\u76ae\u3001\u76ae\u80a4\u3001\u58f3\u3001\u6811\u76ae\uff1b\u8fb9\u754c\u3001\u754c\u9650",
@@ -7112,6 +7284,7 @@
         "es": "\u00bfqu\u00e9? \u00bfcu\u00e1l?",
         "it": "Cosa? Quale?",
         "pt": "que? qual?",
+        "tr": "ne? hangi?",
         "he": "\u05de\u05d4? \u05d0\u05d9\u05d6\u05d4?",
         "mi": "aha? t\u0113hea? \u0113hea?",
         "zh_hant": "\u4ec0\u9ebc\uff1f\u54ea\u500b\uff1f",
@@ -7148,6 +7321,7 @@
         "eo": "areo super io, plej alta parto de io, io pli alta; miriga, dia, sankta, supernatura",
         "de": "h\u00f6hergelegener Bereich, h\u00f6chster Teil, etwas erhobenes; hoch, oben, \u00fcber; beeindruckend, g\u00f6ttlich, heilig, \u00fcbernat\u00fcrlich",
         "it": "area al di sopra, parte pi\u00f9 alta, qualcosa di elevato; soggezione, divino, sacro, soprannaturale",
+        "tr": "yukar\u0131daki alan, en y\u00fcksek b\u00f6l\u00fcm, y\u00fckseltilmi\u015f \u015fey; hayranl\u0131k uyand\u0131ran, ilahi, kutsal, do\u011fa\u00fcst\u00fc",
         "mi": "runga, teitei, he mea i runga; m\u012bharo, tapu",
         "zh_hant": "\u4e0a\u90e8\u3001\u4e0a\u9762\u3001\u9802\u90e8\uff1b\u4ee4\u4eba\u9a5a\u5606\u7684\u3001\u5929\u8cdc\u7684\u3001\u795e\u8056\u7684\u3001\u8d85\u81ea\u7136\u7684\u3001\u795e\u5947\u7684",
         "zh_hans": "\u4e0a\u90e8\u3001\u4e0a\u9762\u3001\u9876\u90e8\uff1b\u4ee4\u4eba\u60ca\u53f9\u7684\u3001\u5929\u8d50\u7684\u3001\u795e\u5723\u7684\u3001\u8d85\u81ea\u7136\u7684\u3001\u795e\u5947\u7684",
@@ -7183,6 +7357,7 @@
         "eo": "korpo (de homo a\u016d besto), fizika stato, torso",
         "de": "K\u00f6rper (einer Person oder eines Tieres), k\u00f6rperlicher Zustand, Torso, Oberk\u00f6rper",
         "it": "corpo (di persona o animale), stato fisico, torso",
+        "tr": "(insan\u0131n veya hayvan\u0131n) v\u00fccut, fiziksel durum, g\u00f6vde",
         "mi": "he tinana (o te tangata, o te kararehe r\u0101nei), he t\u016branga o te tinana",
         "zh_hant": "\uff08\u4eba\u6216\u52d5\u7269\u7684\uff09\u8eab\u9ad4\u3001\u8eab\u9ad4\u72c0\u614b\u3001\u8ec0\u5e79",
         "zh_hans": "\uff08\u4eba\u6216\u52a8\u7269\u7684\uff09\u8eab\u4f53\u3001\u8eab\u4f53\u72b6\u6001\u3001\u8eaf\u5e72",
@@ -7218,6 +7393,7 @@
         "eo": "io ronda a\u016d cirkla; pilko, cirklo, ciklo, globo, sfero, rado; de unu jaro",
         "de": "rundes oder kreisf\u00f6rmiges Ding; Ball, Kreis, Zyklus, Kugel, Rad; ein Jahr betreffend",
         "it": "cosa rotonda o circolare; palla, cerchio, ciclo, sfera, ruota; di un anno",
+        "tr": "yuvarlak veya dairesel \u015fey; top, daire, d\u00f6ng\u00fc, k\u00fcre, tekerlek; bir y\u0131l",
         "mi": "he mea porotaka; he p\u014dro, he porowhita, huri, he poi, he w\u012bra; kotahi tau",
         "zh_hant": "\u5713\u5f62\u6216\u7403\u5f62\u7684\u7269\u9ad4\uff1b\u7403\u3001\u5713\u5f62\u3001\u7403\u9ad4\u3001\u8f2a\u5b50\u3001\u9031\u671f\uff1b\u4e00\u5e74\u7684",
         "zh_hans": "\u5706\u5f62\u6216\u7403\u5f62\u7684\u7269\u4f53\uff1b\u7403\u3001\u5706\u5f62\u3001\u7403\u4f53\u3001\u8f6e\u5b50\u3001\u5468\u671f\uff1b\u4e00\u5e74\u7684",
@@ -7252,7 +7428,9 @@
         "ur": "\u062d\u062f \u0633\u06d2 \u0628\u0691\u06be \u06a9\u0631 \u060c \u0646\u0631\u0648\u0627\u0646 \u062d\u0627\u0635\u0644 \u06a9\u06cc\u0627",
         "pa": "\u0a28\u0a3f\u0a15\u0a35\u0a3e\u0a23 \u0a28\u0a42\u0a70 \u0a39\u0a3e\u0a38\u0a3f\u0a32 \u0a15\u0a3f\u0a71\u0a24\u0a3e \u0a39\u0a4b\u0a07\u0a06, \u0a39\u0a26 \u0a24\u0a4b\u0a02 \u0a35\u0a71\u0a27",
         "id": "ada di tingkat yang lebih tinggi, tercerahkan; mencapai kehebatan",
-        "it": "su un livello/piano superiore, illuminato, epico; in misura estremamente vasta"
+        "it": "su un livello/piano superiore, illuminato, epico; in misura estremamente vasta",
+        "zh_hant": "\u5728\u66f4\u9ad8\u7684\u7b49\u7d1a/\u5c64\u6b21\u4e0a\u7684\u3001\u53f2\u8a69\u7d1a\u7684\uff1b\u5728\u6975\u5927\u7684\u7a0b\u5ea6\u4e0a",
+        "zh_hans": "\u5728\u66f4\u9ad8\u7684\u7b49\u7ea7/\u5c42\u6b21\u4e0a\u7684\u3001\u53f2\u8bd7\u7ea7\u7684\uff1b\u5728\u6781\u5927\u7684\u7a0b\u5ea6\u4e0a"
       }
     },
     "sin": {
@@ -7287,6 +7465,7 @@
         "tok": "ijo li lon tenpo lili la ijo ni li sin.",
         "es": "nuevo, fresco; adicional, m\u00e1s, extra",
         "it": "nuovo, fresco; aggiuntivo, un altro, extra",
+        "tr": "yeni, taze; ek, bir di\u011fer, ilave",
         "mi": "hou, whakahou; t\u0101piri, t\u0113tahi atu, k\u0113",
         "zh_hant": "\u65b0\u7684\u3001\u65b0\u9bae\u7684\uff1b\u984d\u5916\u7684\u3001\u53e6\u5916\u7684\u3001\u9644\u52a0\u7684\u3001\u6dfb\u52a0\u7684",
         "zh_hans": "\u65b0\u7684\u3001\u65b0\u9c9c\u7684\uff1b\u989d\u5916\u7684\u3001\u53e6\u5916\u7684\u3001\u9644\u52a0\u7684\u3001\u6dfb\u52a0\u7684",
@@ -7324,6 +7503,7 @@
         "tok": "toki la, nimi \"sina\" li ijo kute.",
         "it": "tu, voi",
         "tl_l": "ikaw, kayo",
+        "tr": "sen, siz",
         "mi": "koe, k\u014drua, koutou",
         "zh_hant": "\u4f60\u3001\u60a8",
         "zh_hans": "\u4f60\u3001\u60a8",
@@ -7359,6 +7539,7 @@
         "eo": "viza\u011do, unuaranga, anta\u016do, muro",
         "de": "Gesicht, vorderst, vorne, vor, Wand",
         "it": "faccia, davanti, anteriore, muro",
+        "tr": "y\u00fcz (organ\u0131), \u00f6nde gelen, \u00f6n, duvar",
         "mi": "he mata, mua, he p\u0101t\u016b",
         "zh_hant": "\u81c9\u3001\u9762\u5b54\u3001\u6b63\u9762\u3001\u524d\u9762\u3001\u58bb\u58c1",
         "zh_hans": "\u8138\u3001\u9762\u5b54\u3001\u6b63\u9762\u3001\u524d\u9762\u3001\u5899\u58c1",
@@ -7394,6 +7575,7 @@
         "eo": "bildo, figuro, simbolo, marka\u0135o, skriba\u0135o",
         "de": "Bild, Darstellung, Symbol, Markierung, Schrift, Text",
         "it": "immagine, figura, rappresentazione, simbolo, marchio, scrittura",
+        "tr": "g\u00f6r\u00fcnt\u00fc, resim, temsil, sembol, i\u015faret, yaz\u0131",
         "mi": "he pikitia, he whakaahua, he tohu, m\u0101ka, tuhi",
         "zh_hant": "\u5716\u7247\u3001\u5716\u50cf\u3001\u8868\u73fe\u3001\u63cf\u8ff0\u3001\u7b26\u865f\u3001\u8a18\u865f\u3001\u6a19\u8a18\u3001\u6587\u5b57",
         "zh_hans": "\u56fe\u7247\u3001\u56fe\u50cf\u3001\u8868\u73b0\u3001\u63cf\u8ff0\u3001\u7b26\u53f7\u3001\u8bb0\u53f7\u3001\u6807\u8bb0\u3001\u6587\u5b57",
@@ -7419,7 +7601,9 @@
         "de": "[humorvolles Synonym von lape]",
         "tok": "nimi musi tan \"lape\"",
         "es": "[sin\u00f3nimo humor\u00edstico de lape]",
-        "it": "[sinonimo umoristico di lape]"
+        "it": "[sinonimo umoristico di lape]",
+        "zh_hant": "[lape\u7684\u5e7d\u9ed8\u540c\u7fa9\u8a5e]",
+        "zh_hans": "[lape\u7684\u5e7d\u9ed8\u540c\u4e49\u8bcd]"
       }
     },
     "soko": {
@@ -7457,7 +7641,8 @@
         "pa": "\u0a2b\u0a70\u0a17\u0a38",
         "id": "jamur, kapang",
         "it": "fungo, funghi",
-        "zh_hant": "\u771f\u83cc"
+        "zh_hant": "\u771f\u83cc",
+        "zh_hans": "\u771f\u83cc"
       }
     },
     "sona": {
@@ -7489,6 +7674,7 @@
         "eo": "scii, esti lerta pri, esti sa\u011da pri, havi informojn pri; (a.v.) scipovi",
         "de": "wissen, k\u00f6nnen, erfahren sein in, weise sein \u00fcber, Informationen haben \u00fcber; (pv.) wissen wie",
         "it": "conoscere, essere esperto, essere saggio, avere informazioni su; (pv.) sapere come",
+        "tr": "bilmek, -de/-da becerikli olmak, hakk\u0131nda bilgili olmak, hakk\u0131nda bilgi sahibi olmak; (y.f.) nas\u0131l yap\u0131ld\u0131\u011f\u0131n\u0131 bilmek",
         "mi": "m\u014dhio, m\u0101tau, maumahara; (pv.) taea",
         "zh_hant": "\u77e5\u9053\u3001\u77e5\u6089\u3001\u660e\u767d\u3001\u4e86\u89e3\u3001\u5c0d\u2026\u2026\u719f\u7df4\u3001\u5c0d\u2026\u2026\u6709\u77e5\u8b58\uff1b(pv.) \u77e5\u9053\u5982\u4f55",
         "zh_hans": "\u77e5\u9053\u3001\u77e5\u6089\u3001\u660e\u767d\u3001\u4e86\u89e3\u3001\u5bf9\u2026\u2026\u719f\u7ec3\u3001\u5bf9\u2026\u2026\u6709\u77e5\u8bc6\uff1b(pv.) \u77e5\u9053\u5982\u4f55",
@@ -7526,7 +7712,8 @@
         "pa": "\u0a16\u0a71\u0a2c\u0a47",
         "id": "kiri",
         "it": "sinistra, lato sinistro, babordo",
-        "zh_hant": "\u5de6\u65b9\u3001\u5de6\u908a"
+        "zh_hant": "\u5de6\u65b9\u3001\u5de6\u908a",
+        "zh_hans": "\u5de6\u65b9\u3001\u5de6\u8fb9"
       }
     },
     "soweli": {
@@ -7559,6 +7746,7 @@
         "de": "Tier, Biest, Lands\u00e4ugetier",
         "es": "animal, bestia, mam\u00edfero terrestre",
         "it": "animale, bestia, mammifero terrestre",
+        "tr": "hayvan, canavar, kara memelisi",
         "mi": "he kararehe, he kur\u012b",
         "zh_hant": "\u52d5\u7269\u3001\u91ce\u7378\u3001\u9678\u5730\u54fa\u4e73\u52d5\u7269",
         "zh_hans": "\u52a8\u7269\u3001\u91ce\u517d\u3001\u9646\u5730\u54fa\u4e73\u52a8\u7269",
@@ -7587,7 +7775,9 @@
         "de": "(f\u00fcr zuk\u00fcnftige Verwendung von Sonja Lang reserviertes Wort)",
         "tok": "jan Sonja li wile e ni: nimi ni li awen open tawa lipu sin lon tenpo kama.",
         "it": "(parola riservata per uso futuro da Sonja Lang)",
-        "zh_hant": "\uff08Sonja Lang\u4fdd\u7559\u55ae\u8a5e\uff09"
+        "tr": "(gelecekte kullanma amac\u0131yla Sonja Lang taraf\u0131ndan reserve edilmi\u015f bir kelime)",
+        "zh_hant": "\uff08Sonja Lang\u4fdd\u7559\u55ae\u8a5e\uff09",
+        "zh_hans": "\uff08Sonja Lang\u4fdd\u7559\u5355\u8bcd\uff09"
       }
     },
     "su1": {
@@ -7613,7 +7803,9 @@
         "ur": "(\u06c1\u0627\u06ba \u06cc\u0627 \u0646\u06c1 \u06a9\u0627 \u0633\u0648\u0627\u0644 \u06a9\u0631\u0646\u06d2 \u06a9\u06cc \u0639\u0644\u0627\u0645\u062a \u060c \u062c\u0648 \u0644\u06cc \u0627\u0648\u0631 \u0627\u0648 \u06a9\u06cc \u062c\u06af\u06c1 \u0644\u06cc\u062a\u0627 \u06c1\u06d2\u06ba)",
         "pa": "(\u0a06\u0a39\u0a4b \u0a1c\u0a3e\u0a02 \u0a28\u0a3e \u0a26\u0a47 \u0a38\u0a35\u0a3e\u0a32 \u0a15\u0a30\u0a28 \u0a26\u0a3e \u0a1a\u0a3f\u0a28\u0a4d\u0a39, \u0a1c\u0a4b \u0a32\u0a40 \u0a05\u0a24\u0a47 \u0a13 \u0a26\u0a40 \u0a25\u0a3e\u0a02 \u0a32\u0a48\u0a02\u0a26\u0a3e \u0a39\u0a48)",
         "id": "(penanda pertanyaan ya/tidak, menggantikan kata li & o)",
-        "it": "[marcatore di domanda s\u00ec/no, che prende il posto di li & o]"
+        "it": "[marcatore di domanda s\u00ec/no, che prende il posto di li & o]",
+        "zh_hant": "[\u662f\u975e\u554f\u53e5\u6a19\u8a18\uff0c\u4ee3\u66ffli\u548co]",
+        "zh_hans": "[\u662f\u975e\u95ee\u53e5\u6807\u8bb0\uff0c\u4ee3\u66ffli\u548co]"
       }
     },
     "suke": {
@@ -7638,7 +7830,8 @@
         "de": "[Tippfehler von sike]",
         "tok": "(jan Sonja li sitelen pakala e \"sike\")",
         "it": "[refuso di sike]",
-        "zh_hant": "[sike\u7684\u62fc\u5beb\u932f\u8aa4]"
+        "zh_hant": "[sike\u7684\u62fc\u5beb\u932f\u8aa4]",
+        "zh_hans": "[sike\u7684\u62fc\u5199\u9519\u8bef]"
       }
     },
     "suli": {
@@ -7672,6 +7865,7 @@
         "tok": "ijo suli li lili ala. tenpo open la, mi jan lili. taso, tenpo ni la, mi jan suli.",
         "it": "grande, pesante, grosso, lungo, alto; importante; adulto",
         "pt": "grande, longo, alto, pesado; importante; adulto",
+        "tr": "b\u00fcy\u00fck, a\u011f\u0131r, geni\u015f, uzun; \u00f6nemli; yeti\u015fkin",
         "mi": "nui, rahi, taumaha, roa, teitei; matua",
         "zh_hant": "\u5927\u7684\u3001\u91cd\u7684\u3001\u9577\u7684\u3001\u9ad8\u7684\uff1b\u91cd\u8981\u7684\uff1b\u6210\u5e74\u7684",
         "zh_hans": "\u5927\u7684\u3001\u91cd\u7684\u3001\u957f\u7684\u3001\u9ad8\u7684\uff1b\u91cd\u8981\u7684\uff1b\u6210\u5e74\u7684",
@@ -7709,6 +7903,7 @@
         "de": "Sonne; Licht, Helligkeit, Leuchten, Glanz, Schein; Lichtquelle",
         "tok": "sina ken lukin e wawa ni. nimi ni li ken toki e ni kin: ijo suno suli lon sewi.",
         "it": "sole; luce, luminosit\u00e0, bagliore, radiosit\u00e0, splendore; fonte di luce",
+        "tr": "g\u00fcne\u015f; \u0131\u015f\u0131k, parlakl\u0131k, par\u0131lt\u0131, \u0131\u015f\u0131ma, \u0131\u015f\u0131lt\u0131; \u0131\u015f\u0131k kayna\u011f\u0131",
         "mi": "he r\u0101; he rama, whiti, huru, ao, p\u012bata; he p\u016btake rama",
         "zh_hant": "\u592a\u967d\uff1b\u5149\u3001\u5149\u7dda\u3001\u5149\u4eae\u3001\u5149\u8f1d\u3001\u5149\u6fa4\uff1b\u5149\u6e90",
         "zh_hans": "\u592a\u9633\uff1b\u5149\u3001\u5149\u7ebf\u3001\u5149\u4eae\u3001\u5149\u8f89\u3001\u5149\u6cfd\uff1b\u5149\u6e90",
@@ -7745,6 +7940,7 @@
         "de": "waagerechte Oberfl\u00e4che, Ding f\u00fcr das Abstellen von anderen Dingen",
         "tok": "supa li lon anpa pi tomo mi. kin la, jan li ken lape lon supa.",
         "it": "superficie orizzontale, cosa su cui mettere o appoggiare qualcosa",
+        "tr": "yatay y\u00fczey, \u00fcst\u00fcne bir \u015fey koyulan \u015fey",
         "mi": "he papa, he pae",
         "zh_hant": "\u6c34\u5e73\u5e73\u9762\u3001\u7528\u4f86\u653e\u6771\u897f\u7684\u7269\u9ad4",
         "zh_hans": "\u6c34\u5e73\u5e73\u9762\u3001\u7528\u6765\u653e\u4e1c\u897f\u7684\u7269\u4f53",
@@ -7778,7 +7974,8 @@
         "pa": "\u0a2a\u0a32\u0a48\u0a1f\u0a3f\u0a2a\u0a38 (\u0a1c\u0a3e\u0a28\u0a35\u0a30)",
         "id": "platipus",
         "it": "ornitorinco",
-        "zh_hant": "\u9d28\u5634\u7378"
+        "zh_hant": "\u9d28\u5634\u7378",
+        "zh_hans": "\u9e2d\u5634\u517d"
       }
     },
     "suwi": {
@@ -7811,6 +8008,7 @@
         "de": "s\u00fc\u00df, wohlriechend; niedlich, unschuldig, liebenswert",
         "tok": "ona li pona tawa uta, ona li pona tawa lukin, ona li pali ike ala.",
         "it": "dolce, fragrante; carino, innocente, adorabile",
+        "tr": "tatl\u0131, g\u00fczel kokulu; sevimli, masum, \u015firin",
         "mi": "reka, kakara; tau, mateoha",
         "zh_hant": "\u751c\u7684\u3001\u82b3\u9999\u7684\uff1b\u53ef\u611b\u7684\u3001\u5929\u771f\u7121\u90aa\u7684\u3001\u8a0e\u4eba\u559c\u611b\u7684",
         "zh_hans": "\u751c\u7684\u3001\u82b3\u9999\u7684\uff1b\u53ef\u7231\u7684\u3001\u5929\u771f\u65e0\u90aa\u7684\u3001\u8ba8\u4eba\u559c\u7231\u7684",
@@ -7843,7 +8041,9 @@
         "ur": "\u0646\u0645\u0628\u0631 \u0633\u0627\u062a",
         "pa": "\u0a28\u0a38\u0a2c\u0a30 \u0a38\u0a3e\u0a24",
         "id": "angka \u20187\u2019",
-        "it": "la cifra '7'"
+        "it": "la cifra '7'",
+        "zh_hant": "\u6578\u5b577",
+        "zh_hans": "\u6570\u5b577"
       }
     },
     "taki": {
@@ -7873,7 +8073,8 @@
         "pa": "\u0a1a\u0a3f\u0a2a\u0a15\u0a42, \u0a2e\u0a48\u0a17\u0a28\u0a47\u0a1f\u0a3f\u0a15",
         "id": "lengket; magnetik",
         "it": "appiccicoso, magnetico; legare, attrarre, attaccare, agganciare",
-        "zh_hant": "\u9ecf\u6027\u7684\u3001\u6709\u78c1\u6027\u7684\uff1b\u9023\u63a5\u3001\u7d50\u5408\u3001\u5438\u5f15\u3001\u628a\u2026\u2026\u9644\u4e0a\u3001\u8cbc\u4e0a\u3001\u593e\u4f4f"
+        "zh_hant": "\u9ecf\u6027\u7684\u3001\u6709\u78c1\u6027\u7684\uff1b\u9023\u63a5\u3001\u7d50\u5408\u3001\u5438\u5f15\u3001\u628a\u2026\u2026\u9644\u4e0a\u3001\u8cbc\u4e0a\u3001\u593e\u4f4f",
+        "zh_hans": "\u9ecf\u6027\u7684\u3001\u6709\u78c1\u6027\u7684\uff1b\u8fde\u63a5\u3001\u7ed3\u5408\u3001\u5438\u5f15\u3001\u628a\u2026\u2026\u9644\u4e0a\u3001\u8d34\u4e0a\u3001\u5939\u4f4f"
       }
     },
     "tan": {
@@ -7906,6 +8107,7 @@
         "de": "von, durch, wegen; Grund, Ursache",
         "it": "da, a causa di; origine, causa",
         "pt": "de, por, a partir de, por causa de; origem, causa",
+        "tr": "-den/-dan/-ten/-tan, (-in) y\u00fcz\u00fcnden, (-den) dolay\u0131; k\u00f6ken, sebep",
         "mi": "n\u014d, n\u0101, n\u0101 te mea; he p\u016b, he p\u016btake",
         "zh_hant": "\u56e0\u70ba\u3001\u7531\u65bc\u3001\u5f9e\u3001\u4f86\u81ea\uff1b\u8d77\u6e90\u3001\u4f86\u6e90\u3001\u539f\u56e0\u3001\u8d77\u56e0",
         "zh_hans": "\u56e0\u4e3a\u3001\u7531\u4e8e\u3001\u4ece\u3001\u6765\u81ea\uff1b\u8d77\u6e90\u3001\u6765\u6e90\u3001\u539f\u56e0\u3001\u8d77\u56e0",
@@ -7943,6 +8145,7 @@
         "de": "aber, jedoch; nur",
         "it": "ma, tuttavia, solo",
         "pt": "mas, por\u00e9m; s\u00f3, apenas",
+        "tr": "ama, ancak; sadece",
         "mi": "engari, otir\u0101, heoi; anake",
         "zh_hant": "\u4f46\u662f\u3001\u53ef\u662f\u3001\u7136\u800c\uff1b\u53ea\u3001\u53ea\u6709\u3001\u50c5",
         "zh_hans": "\u4f46\u662f\u3001\u53ef\u662f\u3001\u7136\u800c\uff1b\u53ea\u3001\u53ea\u6709\u3001\u4ec5",
@@ -7980,6 +8183,7 @@
         "tok": "lon ijo li kama ante kepeken tenpo la ona li tawa. ijo li tawa li kama poka pi ijo ante la, ijo li tawa ijo ante. ijo li pona lon pilin sina la ijo li pona tawa sina.",
         "it": "andare a, verso; per; dalla prospettiva di; muoversi | ALT (pv.) stando",
         "pt": "ir a, a; para; no ponto de vista de; em movimento, ambulante | ALT (pv.) ir",
+        "tr": "-e/-a; (-in) bak\u0131\u015f a\u00e7\u0131s\u0131ndan; gitmek, ilerlemek | ALT (y.f.) -ecek/-acak",
         "mi": "haere, ki; m\u014d, m\u0101; neke",
         "zh_hant": "\u53bb\u3001\u884c\u9032\u3001\u524d\u5f80\uff1b\u5f9e\u2026\u2026\u7684\u89d2\u5ea6\uff1b\u79fb\u52d5\u7684 | ALT (pv) \u8981\u3001\u5c31\u8981\u3001\u5c07\u8981",
         "zh_hans": "\u53bb\u3001\u884c\u8fdb\u3001\u524d\u5f80\uff1b\u4ece\u2026\u2026\u7684\u89d2\u5ea6\uff1b\u79fb\u52a8\u7684 | ALT (pv) \u8981\u3001\u5c31\u8981\u3001\u5c06\u8981",
@@ -8018,7 +8222,8 @@
         "pa": "(\u0a26\u0a42\u0a1c\u0a47 \u0a26\u0a3e \u0a39\u0a35\u0a3e\u0a32\u0a47 \u0a28\u0a42\u0a70 \u0a38\u0a3c\u0a41\u0a30\u0a42 \u0a15\u0a30\u0a28 \u0a35\u0a3e\u0a32\u0a3e \u0a1a\u0a3f\u0a28\u0a4d\u0a39)",
         "id": "(partikel untuk mengawali kutipan)",
         "it": "(particella che introduce una citazione)",
-        "zh_hant": "\uff08\u958b\u59cb\u5f15\u7528\u7684\u52a9\u8a5e\uff09"
+        "zh_hant": "\uff08\u958b\u59cb\u5f15\u7528\u7684\u52a9\u8a5e\uff09",
+        "zh_hans": "\uff08\u5f00\u59cb\u5f15\u7528\u7684\u52a9\u8bcd\uff09"
       }
     },
     "teje": {
@@ -8050,7 +8255,8 @@
         "pa": "\u0a38\u0a71\u0a1c\u0a47",
         "id": "kanan",
         "it": "destra, lato destro, dritta",
-        "zh_hant": "\u53f3\u65b9\u3001\u53f3\u908a"
+        "zh_hant": "\u53f3\u65b9\u3001\u53f3\u908a",
+        "zh_hans": "\u53f3\u65b9\u3001\u53f3\u8fb9"
       }
     },
     "telo": {
@@ -8083,6 +8289,7 @@
         "de": "Wasser, Fl\u00fcssigkeit, nasse Substanz; Getr\u00e4nk",
         "it": "acqua, liquido, fluido, sostanza umida; bevande",
         "pt": "\u00e1gua, l\u00edquido, fluido, subst\u00e2ncia molhada; bebida",
+        "tr": "su, s\u0131v\u0131, ak\u0131\u015fkan, \u0131slak madde; i\u00e7ecek",
         "mi": "he wai",
         "zh_hant": "\u6c34\u3001\u6db2\u9ad4\u3001\u6d41\u9ad4\u3001\u6fd5\u7684\u7269\u8cea\uff1b\u98f2\u6599",
         "zh_hans": "\u6c34\u3001\u6db2\u4f53\u3001\u6d41\u4f53\u3001\u6e7f\u7684\u7269\u8d28\uff1b\u996e\u6599",
@@ -8115,7 +8322,9 @@
         "ur": "(\u0644\u0641\u0638 \u062a\u06cc\u0646\u067e\u0648 \u06a9\u0648 \u0628\u0648\u0644\u0646\u06d2 \u06a9\u0627 \u0645\u062e\u062a\u0635\u0631 \u062a\u0631\u06cc\u0642\u0627)",
         "pa": "(\u0a24\u0a47\u0a02\u0a2a\u0a4b \u0a38\u0a3c\u0a2c\u0a26 \u0a2c\u0a4b\u0a32\u0a28 \u0a26\u0a3e \u0a28\u0a3f\u0a71\u0a15\u0a3e \u0a1c\u0a3f\u0a39\u0a3e \u0a24\u0a30\u0a40\u0a15\u0a3e)",
         "id": "(singkatan dari kata tenpo)",
-        "it": "(variante abbreviata di tenpo)"
+        "it": "(variante abbreviata di tenpo)",
+        "zh_hant": "\uff08tenpo\u7684\u7c21\u5beb\uff09",
+        "zh_hans": "\uff08tenpo\u7684\u7b80\u5199\uff09"
       }
     },
     "tenpo": {
@@ -8150,6 +8359,7 @@
         "tok": "tenpo la ale li kama ante li kama moli li kama weka.",
         "it": "tempo, durata, momento, occasione, periodo, situazione",
         "pt": "tempo, dura\u00e7\u00e3o, momento, ocasi\u00e3o, per\u00edodo, situa\u00e7\u00e3o",
+        "tr": "zaman, s\u00fcre, an, f\u0131rsat, d\u00f6nem, durum",
         "mi": "he w\u0101, he p\u016b\u0101hua",
         "zh_hant": "\u6642\u9593\u3001\u6642\u9577\u3001\u7247\u523b\u3001\u77ac\u9593\u3001\u6642\u671f\u3001\u4e00\u6bb5\u6642\u9593\u3001\u60c5\u6cc1",
         "zh_hans": "\u65f6\u95f4\u3001\u65f6\u957f\u3001\u7247\u523b\u3001\u77ac\u95f4\u3001\u65f6\u671f\u3001\u4e00\u6bb5\u65f6\u95f4\u3001\u60c5\u51b5",
@@ -8186,7 +8396,8 @@
         "pa": "(\u0a26\u0a42\u0a1c\u0a47 \u0a26\u0a3e \u0a39\u0a35\u0a3e\u0a32\u0a47 \u0a28\u0a42\u0a70 \u0a2e\u0a41\u0a15\u0a09\u0a23 \u0a35\u0a3e\u0a32\u0a3e \u0a1a\u0a3f\u0a28\u0a4d\u0a39)",
         "id": "(partikel untuk mengakhiri kutipan)",
         "it": "(particella che chiude una citazione)",
-        "zh_hant": "\uff08\u7d50\u675f\u5f15\u7528\u7684\u52a9\u8a5e\uff09"
+        "zh_hant": "\uff08\u7d50\u675f\u5f15\u7528\u7684\u52a9\u8a5e\uff09",
+        "zh_hans": "\uff08\u7ed3\u675f\u5f15\u7528\u7684\u52a9\u8bcd\uff09"
       }
     },
     "tokana": {
@@ -8212,7 +8423,9 @@
         "ur": "\u062a\u0648\u062c\u06c1 \u060c \u0648\u0636\u0627\u062d\u062a\u061b \u062a\u0648\u062c\u06c1 \u0645\u0631\u06a9\u0648\u0632 \u06a9\u0631\u0646\u0627",
         "pa": "\u0a27\u0a3f\u0a06\u0a28, \u0a27\u0a3f\u0a06\u0a28 \u0a32\u0a17\u0a4c\u0a23\u0a3e",
         "id": "fokus, perhatian, konsentrasi, resolusi, ketelitian; terpusat pada",
-        "it": "messa a fuoco, attenzione, concentrazione, risoluzione, finezza; concentrarsi su"
+        "it": "messa a fuoco, attenzione, concentrazione, risoluzione, finezza; concentrarsi su",
+        "zh_hant": "\u4e2d\u5fc3\u9ede\u3001\u6ce8\u610f\u529b\u3001\u5c08\u5fc3\u3001\u5c08\u6ce8\u3001\u8a73\u7d30\uff1b\u6ce8\u610f",
+        "zh_hans": "\u4e2d\u5fc3\u70b9\u3001\u6ce8\u610f\u529b\u3001\u4e13\u5fc3\u3001\u4e13\u6ce8\u3001\u8be6\u7ec6\uff1b\u6ce8\u610f"
       }
     },
     "toki": {
@@ -8246,6 +8459,7 @@
         "tok": "toki la, jan li ken pana e sona kepeken kalama anu sitelen anu luka.",
         "it": "comunicare, dire, parlare, conversare, usare il linguaggio, pensare; ciao",
         "pt": "communicar, dizer, falar, conversar, usar linguagem, pensar; ol\u00e1, oi",
+        "tr": "ileti\u015fim kurmak, s\u00f6ylemek, konu\u015fmak, sohbet etmek, dil kullanmak, d\u00fc\u015f\u00fcnmek; merhaba",
         "mi": "k\u012b, k\u014drero, he reo, whakaaro; kia ora",
         "zh_hant": "\u6e9d\u901a\u3001\u4ea4\u6d41\u3001\u8aaa\u8a71\u3001\u8b1b\u8a71\u3001\u8ac7\u8a71\u3001\u4f7f\u7528\u8a9e\u8a00\uff1b\u4f60\u597d",
         "zh_hans": "\u6c9f\u901a\u3001\u4ea4\u6d41\u3001\u8bf4\u8bdd\u3001\u8bb2\u8bdd\u3001\u8c08\u8bdd\u3001\u4f7f\u7528\u8bed\u8a00\uff1b\u4f60\u597d",
@@ -8274,7 +8488,8 @@
         "de": "[Tippfehler von tomo]",
         "tok": "(jan Sonja li sitelen pakala e \"tomo\")",
         "it": "[refuso di tomo]",
-        "zh_hant": "[tomo\u7684\u62fc\u5beb\u932f\u8aa4]"
+        "zh_hant": "[tomo\u7684\u62fc\u5beb\u932f\u8aa4]",
+        "zh_hans": "[tomo\u7684\u62fc\u5199\u9519\u8bef]"
       }
     },
     "tomo": {
@@ -8307,6 +8522,7 @@
         "de": "Innenraum, Geb\u00e4ude, Haus, Raum, Zuhause",
         "tok": "lon tomo la, ijo li awen li lon nasin pona tawa ona.",
         "it": "spazio interno; edificio, casa, abitazione, stanza",
+        "tr": "kapal\u0131 alan; bina, ev, oda",
         "mi": "he whare, he k\u0101inga, he r\u016bma",
         "zh_hant": "\u5ba4\u5167\u7a7a\u9593\uff1b\u5efa\u7bc9\u7269\u3001\u5bb6\u3001\u623f\u5c4b\u3001\u623f\u5b50\u3001\u623f\u9593",
         "zh_hans": "\u5ba4\u5185\u7a7a\u95f4\uff1b\u5efa\u7b51\u7269\u3001\u5bb6\u3001\u623f\u5c4b\u3001\u623f\u5b50\u3001\u623f\u95f4",
@@ -8348,7 +8564,8 @@
         "pa": "\u0a15\u0a3f\u0a71\u0a28\u0a30; \u0a28\u0a3e \u0a2e\u0a39\u0a3f\u0a32\u0a3e \u0a28\u0a3e \u0a2a\u0a41\u0a30\u0a41\u0a38\u0a3c",
         "id": "nonbiner; transgender",
         "it": "non-binario, genere non conforme | ALT trans, non-cisgender",
-        "zh_hant": "\u975e\u4e8c\u5143\u7684\u3001\u975e\u5e38\u898f\u6027\u5225\u7684 | ALT \u8de8\u6027\u5225\u7684\u3001\u975e\u9806\u6027\u5225\u7684"
+        "zh_hant": "\u975e\u4e8c\u5143\u7684\u3001\u975e\u5e38\u898f\u6027\u5225\u7684 | ALT \u8de8\u6027\u5225\u7684\u3001\u975e\u9806\u6027\u5225\u7684",
+        "zh_hans": "\u975e\u4e8c\u5143\u7684\u3001\u975e\u5e38\u89c4\u6027\u522b\u7684 | ALT \u8de8\u6027\u522b\u7684\u3001\u975e\u987a\u6027\u522b\u7684"
       }
     },
     "tu": {
@@ -8387,6 +8604,7 @@
         "tok": "ijo wan lon poka ijo wan li ijo tu.",
         "it": "due | ALT separare, tagliare",
         "pt": "dois | ALT separar, cortar, dividir",
+        "tr": "iki | ALT ay\u0131rmak, kesmek",
         "mi": "rua | ALT motu, tohi, koti",
         "zh_hant": "\u4e8c | ALT \u5206\u96e2\u3001\u5206\u5272\u3001\u5207\u5272",
         "zh_hans": "\u4e8c | ALT \u5206\u79bb\u3001\u5206\u5272\u3001\u5207\u5272",
@@ -8424,7 +8642,8 @@
         "pa": "\u0a24\u0a3f\u0a71\u0a28",
         "id": "tiga",
         "it": "tre",
-        "zh_hant": "\u4e09"
+        "zh_hant": "\u4e09",
+        "zh_hans": "\u4e09"
       }
     },
     "u": {
@@ -8448,7 +8667,8 @@
         "de": "(f\u00fcr zuk\u00fcnftige Verwendung von Sonja Lang reserviertes Wort)",
         "tok": "jan Sonja li wile e ni: nimi ni li awen open tawa lipu sin lon tenpo kama.",
         "it": "(parola riservata per uso futuro da Sonja Lang)",
-        "zh_hant": "\uff08Sonja Lang\u4fdd\u7559\u55ae\u8a5e\uff09"
+        "zh_hant": "\uff08Sonja Lang\u4fdd\u7559\u55ae\u8a5e\uff09",
+        "zh_hans": "\uff08Sonja Lang\u4fdd\u7559\u5355\u8bcd\uff09"
       }
     },
     "umesu": {
@@ -8471,7 +8691,8 @@
         "de": "Leute verbl\u00fcffen, indem man an der Spitze der Rangliste eines Toki-Pona-Spiels stehst",
         "tok": "sina umesu la sina kama e pilin pona lon jan ante tan ni: sina pali pona lon musi pi toki pona.",
         "it": "stupire la gente essendo in cima alla classifica di un gioco toki pona",
-        "zh_hant": "\u5728\u9053\u672c\u8a9e\u904a\u6232\u88e1\u540d\u5217\u524d\u8305\u800c\u4f7f\u4eba\u9a5a\u8a1d"
+        "zh_hant": "\u5728\u9053\u672c\u8a9e\u904a\u6232\u88e1\u540d\u5217\u524d\u8305\u800c\u4f7f\u4eba\u9a5a\u8a1d",
+        "zh_hans": "\u5728\u9053\u672c\u8bed\u6e38\u620f\u91cc\u540d\u5217\u524d\u8305\u800c\u4f7f\u4eba\u60ca\u8bb6"
       }
     },
     "unpa": {
@@ -8505,6 +8726,7 @@
         "de": "Sex, Geschlecht, sexuelle Beziehung mit jemandem haben",
         "tok": "jan li ken unpa kepeken jan ante. unpa ona li pali e jan lili sin.",
         "it": "avere rapporti sessuali con",
+        "tr": "cinsel ili\u015fkide bulunmak, sevi\u015fmek",
         "mi": "moe, mahimahi",
         "zh_hant": "\u8207\u2026\u2026\u767c\u751f\u6027\u95dc\u4fc2\u3001\u8207\u2026\u2026\u6027\u4ea4",
         "zh_hans": "\u4e0e\u2026\u2026\u53d1\u751f\u6027\u5173\u7cfb\u3001\u4e0e\u2026\u2026\u6027\u4ea4",
@@ -8540,7 +8762,8 @@
         "id": "ungu",
         "it": "viola",
         "he": "\u05e1\u05d2\u05d5\u05dc",
-        "zh_hant": "\u7d2b\u8272\u7684"
+        "zh_hant": "\u7d2b\u8272\u7684",
+        "zh_hans": "\u7d2b\u8272\u7684"
       }
     },
     "usawi": {
@@ -8570,7 +8793,8 @@
         "pa": "\u0a1c\u0a3e\u0a26\u0a42, \u0a1c\u0a3e\u0a26\u0a42\u0a08, \u0a1f\u0a4b\u0a23\u0a3e",
         "id": "sulap, sihir; ajaib, supernatural, kultus, tidak dapat dimengerti",
         "it": "magia, stregoneria; incantare; magico, soprannaturale, occulto, incomprensibile",
-        "zh_hant": "\u9b54\u6cd5\u3001\u5deb\u8853\uff1b\u5c0d\u2026\u2026\u4f7f\u7528\u9b54\u6cd5\uff1b\u6709\u9b54\u529b\u7684\u3001\u8d85\u81ea\u7136\u7684\u3001\u795e\u7955\u7684\u3001\u7384\u5999\u7684\u3001\u96e3\u4ee5\u7406\u89e3\u7684"
+        "zh_hant": "\u9b54\u6cd5\u3001\u5deb\u8853\uff1b\u5c0d\u2026\u2026\u4f7f\u7528\u9b54\u6cd5\uff1b\u6709\u9b54\u529b\u7684\u3001\u8d85\u81ea\u7136\u7684\u3001\u795e\u7955\u7684\u3001\u7384\u5999\u7684\u3001\u96e3\u4ee5\u7406\u89e3\u7684",
+        "zh_hans": "\u9b54\u6cd5\u3001\u5deb\u672f\uff1b\u5bf9\u2026\u2026\u4f7f\u7528\u9b54\u6cd5\uff1b\u6709\u9b54\u529b\u7684\u3001\u8d85\u81ea\u7136\u7684\u3001\u795e\u79d8\u7684\u3001\u7384\u5999\u7684\u3001\u96be\u4ee5\u7406\u89e3\u7684"
       }
     },
     "uta": {
@@ -8604,6 +8828,7 @@
         "de": "Mund, Lippen, Rachen, Kiefer",
         "tok": "uta li lupa sinpin li ken jo e ijo li ken kama insa e ijo.",
         "it": "bocca, labbra, cavit\u00e0 orale, mascella",
+        "tr": "a\u011f\u0131z, dudaklar, a\u011f\u0131z bo\u015flu\u011fu, \u00e7ene",
         "mi": "he waha, he ngutu, he kauae",
         "zh_hant": "\u53e3\u3001\u5634\u3001\u5634\u5507\u3001\u53e3\u8154\u3001\u4e0b\u5df4",
         "zh_hans": "\u53e3\u3001\u5634\u3001\u5634\u5507\u3001\u53e3\u8154\u3001\u4e0b\u5df4",
@@ -8640,6 +8865,7 @@
         "de": "Kampf, Streit, k\u00e4mpfen, Herausforderung, gegen j-n zum Wettkampf antreten",
         "tok": "ijo li pali e ike tawa ijo ante. ni la, ona tu li utala.",
         "it": "combattere, sfidare, competere contro, lottare contro",
+        "tr": "sava\u015fmak, meydan okumak, rekabet etmek, m\u00fccadele etmek",
         "mi": "he pakanga, he wero, whakataetae, whawhai",
         "zh_hant": "\u6230\u9b25\u3001\u6311\u6230\u3001\u8207\u2026\u2026\u7af6\u722d\u3001\u8207\u2026\u2026\u9b25\u722d\u3001\u8207\u2026\u2026\u6297\u722d",
         "zh_hans": "\u6218\u6597\u3001\u6311\u6218\u3001\u4e0e\u2026\u2026\u7ade\u4e89\u3001\u4e0e\u2026\u2026\u6597\u4e89\u3001\u4e0e\u2026\u2026\u6297\u4e89",
@@ -8674,7 +8900,8 @@
         "pa": "(\u0a39\u0a48\u0a30\u0a24 \u0a05\u0a24\u0a47 \u0a1a\u0a4c\u0a02\u0a15\u0a23 \u0a26\u0a3e \u0a1a\u0a3f\u0a28\u0a4d\u0a39)",
         "id": "(mengungkapkan rasa takjub)",
         "it": "[interiezione] indica soggezione o stupore",
-        "zh_hant": "[\u611f\u5606\u8a5e] \u8868\u793a\u656c\u754f\u6216\u9a5a\u5947"
+        "zh_hant": "[\u611f\u5606\u8a5e] \u8868\u793a\u656c\u754f\u6216\u9a5a\u5947",
+        "zh_hans": "[\u611f\u53f9\u8bcd] \u8868\u793a\u656c\u754f\u6216\u60ca\u5947"
       }
     },
     "waleja": {
@@ -8707,7 +8934,8 @@
         "pa": "\u0a38\u0a70\u0a26\u0a30\u0a2d, \u0a2e\u0a41\u0a71\u0a16 \u0a17\u0a71\u0a32, \u0a2e\u0a41\u0a71\u0a26\u0a3e",
         "id": "konteks, topik, penting, tentang, relevan",
         "it": "contesto, argomento, salienza, pertinente, attuale, pertinenza, essere rilevante",
-        "zh_hant": "\u80cc\u666f\u3001\u74b0\u5883\u3001\u4e3b\u984c\u3001\u986f\u8457\u9ede\u3001\u6709\u95dc\u7684\u3001\u8cbc\u5207\u4e3b\u984c\u7684\u3001\u6709\u95dc\u6642\u4e8b\u7684\u3001\u7576\u524d\u95dc\u6ce8\u7684"
+        "zh_hant": "\u80cc\u666f\u3001\u74b0\u5883\u3001\u4e3b\u984c\u3001\u986f\u8457\u9ede\u3001\u6709\u95dc\u7684\u3001\u8cbc\u5207\u4e3b\u984c\u7684\u3001\u6709\u95dc\u6642\u4e8b\u7684\u3001\u7576\u524d\u95dc\u6ce8\u7684",
+        "zh_hans": "\u80cc\u666f\u3001\u73af\u5883\u3001\u4e3b\u9898\u3001\u663e\u8457\u70b9\u3001\u6709\u5173\u7684\u3001\u8d34\u5207\u4e3b\u9898\u7684\u3001\u6709\u5173\u65f6\u4e8b\u7684\u3001\u5f53\u524d\u5173\u6ce8\u7684"
       }
     },
     "walo": {
@@ -8739,6 +8967,7 @@
         "eo": "blanka, blankeca; helkolora, pala",
         "de": "wei\u00df, hell, bleich, blass",
         "it": "bianco, biancastro; chiaro, pallido",
+        "tr": "beyaz, beyaz\u0131ms\u0131; a\u00e7\u0131k renkli, soluk",
         "mi": "m\u0101, tea",
         "zh_hant": "\u767d\u8272\u7684\u3001\u984f\u8272\u504f\u767d\u7684\uff1b\u6dfa\u8272\u7684\u3001\u6de1\u8272\u7684",
         "zh_hans": "\u767d\u8272\u7684\u3001\u989c\u8272\u504f\u767d\u7684\uff1b\u6d45\u8272\u7684\u3001\u6de1\u8272\u7684",
@@ -8775,6 +9004,7 @@
         "eo": "unika, unuigita, unui\u011dinta; unu",
         "de": "eins; eimalig, vereinen",
         "it": "unico, unito; uno",
+        "tr": "e\u015fsiz, benzersiz, birle\u015fmi\u015f; bir",
         "mi": "t\u016bh\u0101h\u0101, tapatahi; tahi",
         "zh_hant": "\u552f\u4e00\u7684\u3001\u7368\u4e00\u7121\u4e8c\u7684\u3001\u806f\u5408\u7684\u3001\u7d71\u4e00\u7684\uff1b\u4e00",
         "zh_hans": "\u552f\u4e00\u7684\u3001\u72ec\u4e00\u65e0\u4e8c\u7684\u3001\u8054\u5408\u7684\u3001\u7edf\u4e00\u7684\uff1b\u4e00",
@@ -8811,6 +9041,7 @@
         "de": "Vogel, fliegendes Tier, befl\u00fcgeltes Tier",
         "tok": "ijo ni li jo e luka sama lipu. luka ni la ona li ken wawa e kon. mute la ijo ni li ken tawa kon tan ni.",
         "it": "uccello, creatura volante, animale alato",
+        "tr": "ku\u015f, u\u00e7an yarat\u0131k, kanatl\u0131 hayvan",
         "mi": "he manu, he peka",
         "zh_hant": "\u9ce5\u3001\u80fd\u98db\u7684\u52d5\u7269\uff1b\u6709\u7ffc\u52d5\u7269",
         "zh_hans": "\u9e1f\u3001\u80fd\u98de\u7684\u52a8\u7269\uff1b\u6709\u7ffc\u52a8\u7269",
@@ -8838,7 +9069,8 @@
         "de": "Tier mit Eigenschaften von waso & soweli",
         "tok": "waso anu soweli",
         "it": "animale con qualit\u00e0 sia di waso che di soweli",
-        "zh_hant": "\u540c\u6642\u6709waso\u548csoweli\u7684\u7279\u5fb5\u7684\u52d5\u7269"
+        "zh_hant": "\u540c\u6642\u6709waso\u548csoweli\u7684\u7279\u5fb5\u7684\u52d5\u7269",
+        "zh_hans": "\u540c\u65f6\u6709waso\u548csoweli\u7684\u7279\u5f81\u7684\u52a8\u7269"
       }
     },
     "wawa": {
@@ -8870,6 +9102,7 @@
         "eo": "forta, potenca; memfida, nedubanta; energia, intensa",
         "de": "stark, Kraft, Energie; zuversichtlich, sicher; intensiv",
         "it": "forte, potente; fiducioso, sicuro; energico, intenso",
+        "tr": "g\u00fc\u00e7l\u00fc, kuvvetli; kararl\u0131, emin; enerjik, yo\u011fun",
         "mi": "kaha, he ngoi; m\u0101ia, he ng\u0101kau titikaha; hihiko, tere",
         "zh_hant": "\u5f37\u58ef\u7684\u3001\u5f37\u5065\u7684\uff1b\u81ea\u4fe1\u7684\u3001\u78ba\u4fe1\u7684\u3001\u80af\u5b9a\u7684\uff1b\u7cbe\u529b\u5145\u6c9b\u7684\u3001\u5145\u6eff\u6d3b\u529b\u7684\u3001\u5f37\u70c8\u7684\u3001\u6fc0\u70c8\u7684",
         "zh_hans": "\u5f3a\u58ee\u7684\u3001\u5f3a\u5065\u7684\uff1b\u81ea\u4fe1\u7684\u3001\u786e\u4fe1\u7684\u3001\u80af\u5b9a\u7684\uff1b\u7cbe\u529b\u5145\u6c9b\u7684\u3001\u5145\u6ee1\u6d3b\u529b\u7684\u3001\u5f3a\u70c8\u7684\u3001\u6fc0\u70c8\u7684",
@@ -8903,7 +9136,9 @@
         "ur": "\u062c\u0648 \u063a\u06cc\u0631\u0642\u0627\u0646\u0648\u0646\u06cc \u0644\u06af\u062a\u0627 \u06c1\u06d2 \u0644\u06cc\u06a9\u0646 \u06c1\u06d2 \u0646\u06c1\u06cc\u06ba\u060c \u0627\u0646\u06af\u0644\u06cc \u06a9\u0631\u0646\u0627",
         "pa": "\u0a1c\u0a4b \u0a17\u0a48\u0a30\u0a15\u0a3e\u0a28\u0a42\u0a28\u0a40 \u0a32\u0a17\u0a26\u0a3e \u0a39\u0a48 \u0a2a\u0a30 \u0a39\u0a48 \u0a28\u0a3e; \u0a09\u0a02\u0a17\u0a32\u0a3c\u0a40 \u0a15\u0a30\u0a28\u0a3e",
         "id": "sesuatu yang hampir melanggar aturan, tapi tidak jadi; keberanian palsu, provokasi",
-        "it": "qualcosa che sembra infrangere le regole ma non lo fa; finta spigolosit\u00e0, provocazione"
+        "it": "qualcosa che sembra infrangere le regole ma non lo fa; finta spigolosit\u00e0, provocazione",
+        "zh_hant": "\u770b\u4f3c\u9055\u53cd\u898f\u5247\u4f46\u5be6\u969b\u4e0a\u6c92\u6709\u7684\u6771\u897f\uff1b\u865b\u507d\u7684\u6ecb\u4e8b\u3001\u6311\u91c1",
+        "zh_hans": "\u770b\u4f3c\u8fdd\u53cd\u89c4\u5219\u4f46\u5b9e\u9645\u4e0a\u6ca1\u6709\u7684\u4e1c\u897f\uff1b\u865a\u4f2a\u7684\u6ecb\u4e8b\u3001\u6311\u8845"
       }
     },
     "we": {
@@ -8932,7 +9167,9 @@
         "ur": "(\u0627\u06cc\u06a9 \u0645\u06a9\u0645\u0644 \u062c\u0645\u0644\u06d2 \u0627\u0648\u0631 \u062f\u0648\u0633\u0631\u06d2 \u06a9\u06d2 \u0628\u06cc\u0686)",
         "pa": "(\u0a07\u0a71\u0a15 \u0a35\u0a3e\u0a15 \u0a05\u0a24\u0a47 \u0a26\u0a42\u0a1c\u0a47 \u0a35\u0a3e\u0a15 \u0a26\u0a47 \u0a35\u0a3f\u0a71\u0a1a)",
         "id": "(berfungsi sebagai penghubung antara satu kalimat dengan kalimat lain)",
-        "it": "(agisce come transizione da una frase completa all'altra)"
+        "it": "(agisce come transizione da una frase completa all'altra)",
+        "zh_hant": "\uff08\u4e00\u500b\u5b8c\u6574\u53e5\u5b50\u5230\u53e6\u4e00\u500b\u5b8c\u6574\u53e5\u5b50\u7684\u904e\u6e21\u8a5e\uff09",
+        "zh_hans": "\uff08\u4e00\u4e2a\u5b8c\u6574\u53e5\u5b50\u5230\u53e6\u4e00\u4e2a\u5b8c\u6574\u53e5\u5b50\u7684\u8fc7\u6e21\u8bcd\uff09"
       }
     },
     "weka": {
@@ -8965,6 +9202,7 @@
         "de": "weg, abwesend, entfernen, ignorieren",
         "tok": "lon poka ala",
         "it": "assente, lontano, ignorato",
+        "tr": "mevcut de\u011fil, uzakta, g\u00f6rmezden gelinmi\u015f",
         "mi": "ngaro, mahue, waiho, tango",
         "zh_hant": "\u4e0d\u5728\u7684\u3001\u7f3a\u5e2d\u7684\u3001\u96e2\u958b\u7684\u3001\u88ab\u5ffd\u8996\u7684",
         "zh_hans": "\u4e0d\u5728\u7684\u3001\u7f3a\u5e2d\u7684\u3001\u79bb\u5f00\u7684\u3001\u88ab\u5ffd\u89c6\u7684",
@@ -8995,7 +9233,9 @@
         "ur": "\u062c\u0627\u0646\u0627 \u0627\u0648\u0631 \u067e\u06be\u0631 \u0648\u0627\u067e\u0633 \u0622\u0646\u0627\u060c \u0686\u06be\u0679\u06cc \u0644\u06cc\u0646\u0627",
         "pa": "\u0a1c\u0a3e\u0a09\u0a23\u0a3e \u0a05\u0a24\u0a47 \u0a2b\u0a3f\u0a30 \u0a06\u0a09\u0a23\u0a3e, \u0a1b\u0a41\u0a71\u0a1f\u0a40 \u0a32\u0a48\u0a23\u0a3e",
         "id": "pulang pergi, pergi dengan niat akan kembali lagi",
-        "it": "lasciare e ritornare, essere temporaneamente assente con l'aspettativa di ritornare"
+        "it": "lasciare e ritornare, essere temporaneamente assente con l'aspettativa di ritornare",
+        "zh_hant": "\u96e2\u958b\u7136\u5f8c\u56de\u4f86\uff1b\u5728\u6253\u7b97\u56de\u4f86\u7684\u60c5\u6cc1\u4e0b\u66ab\u6642\u96e2\u958b",
+        "zh_hans": "\u79bb\u5f00\u7136\u540e\u56de\u6765\uff1b\u5728\u6253\u7b97\u56de\u6765\u7684\u60c5\u51b5\u4e0b\u6682\u65f6\u79bb\u5f00"
       }
     },
     "wi": {
@@ -9023,7 +9263,9 @@
         "ur": "\u06c1\u0645 (\u0644\u06cc\u06a9\u0646 \u062a\u0645\u060c \u06cc\u0627\u0646\u06cc \u062c\u0633 \u0633\u06d2 \u0628\u0627\u062a \u06a9\u0631\u06cc \u062c\u0627 \u0631\u06c1\u06cc \u06c1\u06d2\u060c \u0646\u06c1\u06cc\u06ba)",
         "pa": "\u0a05\u0a38\u0a40 (\u0a2a\u0a30 \u0a09\u0a39 \u0a26\u0a47 \u0a35\u0a3f\u0a71\u0a1a \u0a24\u0a41\u0a71\u0a38\u0a40, \u0a1c\u0a3f\u0a39 \u0a26\u0a47 \u0a28\u0a3e\u0a32\u0a3c \u0a17\u0a71\u0a32 \u0a39\u0a4b\u0a02\u0a26\u0a40 \u0a2a\u0a08 \u0a39\u0a48, \u0a28\u0a39\u0a40\u0a02)",
         "id": "kami",
-        "it": "noi (escluso te, cio\u00e8 1a persona esclusiva)"
+        "it": "noi (escluso te, cio\u00e8 1a persona esclusiva)",
+        "zh_hant": "\u6211\u5011\uff08\u6392\u9664\u4f60\uff0c\u5373\u7b2c\u4e00\u4eba\u7a31\u6392\u9664\u5f0f\uff09",
+        "zh_hans": "\u6211\u4eec\uff08\u6392\u9664\u4f60\uff0c\u5373\u7b2c\u4e00\u4eba\u79f0\u6392\u9664\u5f0f\uff09"
       }
     },
     "wile": {
@@ -9056,6 +9298,7 @@
         "de": "wollen, w\u00fcnschen, sollen, erfordern, brauchen, m\u00fcssen, Wunsch",
         "tok": "mi wile e ijo la, ijo li suli tawa mi. tan ni la, mi pilin e ni: mi o jo e ijo.",
         "it": "deve, bisogno, richiedere, dovrebbe, vuole, desidera",
+        "tr": "zorunda olmak, gerekmek, -meli/-mal\u0131, istemek, dilemek",
         "mi": "me, hiahia, p\u012brangi, t\u016bmanako",
         "zh_hant": "\u5fc5\u9808\u3001\u9700\u8981\u3001\u61c9\u8a72\u3001\u60f3\u8981\u3001\u6e34\u671b\u3001\u76fc\u671b",
         "zh_hans": "\u5fc5\u987b\u3001\u9700\u8981\u3001\u5e94\u8be5\u3001\u60f3\u8981\u3001\u6e34\u671b\u3001\u76fc\u671b",
@@ -9090,7 +9333,9 @@
         "ur": "\u062c\u0648\u0631\u062c \u0644\u0652\u0648\u06a9\u0633 \u062c\u06cc\u0633\u0627 \u0628\u0646\u0646\u0627: \u0627\u067e\u0646\u06d2 \u067e\u0648\u0631\u0627\u0646\u06d2 \u06a9\u0627\u0645\u0648\u06ba \u06a9\u0648 \u0628\u0627\u0631 \u0628\u0627\u0631 \u0628\u062f\u0644 \u06a9\u0631 \u0628\u062f \u0633\u06d2 \u0628\u062f\u062a\u0631 \u0628\u0646\u0627\u0646\u0627",
         "pa": "\u0a1c\u0a4b\u0a30\u0a1c \u0a32\u0a42\u0a15\u0a38 \u0a35\u0a3e\u0a02\u0a17\u0a42 \u0a06\u0a2a\u0a23\u0a47 \u0a2a\u0a41\u0a30\u0a3e\u0a23\u0a47 \u0a15\u0a71\u0a2e\u0a3e\u0a02 \u0a28\u0a42\u0a70 \u0a2c\u0a26\u0a32\u0a26\u0a47 \u0a30\u0a39\u0a3f\u0a23\u0a3e \u0a05\u0a24\u0a47 \u0a09\u0a39\u0a28\u0a3e \u0a28\u0a42\u0a70 \u0a2c\u0a26 \u0a24\u0a4b\u0a02 \u0a2c\u0a26\u0a24\u0a30 \u0a2c\u0a28\u0a4c\u0a23\u0a3e",
         "id": "berkelakuan seperti George Lucas dan merevisi karya kreatif lama dan malah membuatnya lebih buruk",
-        "it": "comportarsi come George Lucas e rivedere i propri vecchi lavori creativi e in realt\u00e0 renderli peggiori"
+        "it": "comportarsi come George Lucas e rivedere i propri vecchi lavori creativi e in realt\u00e0 renderli peggiori",
+        "zh_hant": "\u8ddf\u55ac\u6cbb\u00b7\u76e7\u5361\u65af\u4e00\u6a23\uff0c\u4fee\u6539\u4f60\u4ee5\u524d\u7684\u4f5c\u54c1\uff0c\u4f46\u5176\u5be6\u9069\u5f97\u5176\u53cd",
+        "zh_hans": "\u8ddf\u4e54\u6cbb\u00b7\u5362\u5361\u65af\u4e00\u6837\uff0c\u4fee\u6539\u4f60\u4ee5\u524d\u7684\u4f5c\u54c1\uff0c\u4f46\u5176\u5b9e\u9002\u5f97\u5176\u53cd"
       }
     },
     "yutu": {
@@ -9111,7 +9356,9 @@
         "de": "{auf Discord} das Stern-Emoji, das f\u00fcr das Starboard verwended wird (#pona-kulupu in ma pona)",
         "tok": "sitelen jelo pi luka tu tu wan lon ilo Siko. toki pi ilo Siko li kama jo e ni luka wan la ona li lon tomo pi pona kulupu.",
         "es": "{en Discord} el emoji estrella usado para el tabl\u00f3n de estrellas (starboard, #pona-kulupu en ma pona)",
-        "it": "{su Discord} l'emoji della stella usata per la starboard (#pona-kulupu in ma pona)"
+        "it": "{su Discord} l'emoji della stella usata per la starboard (#pona-kulupu in ma pona)",
+        "zh_hant": "{\u5728Discord\u88e1} \u7cbe\u83ef\u8a0a\u606f\u6b04\uff08ma pona\u7684#pona-kulupu\uff09\u6240\u7528\u7684\u661f\u661f\u8868\u60c5\u7b26\u865f",
+        "zh_hans": "{\u5728Discord\u91cc} \u7cbe\u534e\u4fe1\u606f\u680f\uff08ma pona\u7684#pona-kulupu\uff09\u6240\u7528\u7684\u661f\u661femoji"
       }
     }
   },
