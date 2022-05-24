@@ -174,7 +174,7 @@
       "name_english": "Toki Pona",
       "name_toki_pona": "toki pona",
       "completeness_percent": "72",
-      "completeness_percent_pu": "45"
+      "completeness_percent_pu": "46"
     },
     "tr": {
       "id_long": "turkish",
@@ -189,8 +189,8 @@
       "name_endonym": "\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0430",
       "name_english": "Ukrainian",
       "name_toki_pona": "toki Ukawina",
-      "completeness_percent": "1",
-      "completeness_percent_pu": "4"
+      "completeness_percent": "5",
+      "completeness_percent_pu": "11"
     },
     "ur": {
       "id_long": "urdu",
@@ -563,7 +563,8 @@
         "tr": "bol, \u00e7ok, dolu, her; bolluk, her \u015fey, ya\u015fam, evren; y\u00fcz | ALT 100",
         "mi": "katoa; he maha; te ora, te ao tukup\u016b; kotahi rau | ALT 100",
         "zh_hant": "\u6240\u6709\u3001\u4e00\u5207\uff1b\u773e\u591a\u7684\u3001\u7121\u6578\u7684\u3001\u5927\u91cf\u7684\uff1b\u6240\u6709\u4e8b\u7269\u3001\u842c\u7269\u3001\u751f\u547d\u3001\u5b87\u5b99\uff1b\u4e00\u767e | ALT 100",
-        "fi": "kaikki, runsas, jokainen | ALT 100"
+        "fi": "kaikki, runsas, jokainen | ALT 100",
+        "uk": "\u0432\u0441\u0435, \u0432\u0441\u0456; \u0431\u0435\u0437\u043b\u0456\u0447, \u043a\u043e\u0436\u0435\u043d, \u0432\u0441\u0435\u0441\u0432\u0456\u0442 | ALT 100"
       }
     },
     "ali": {
@@ -602,7 +603,8 @@
         "tr": "[ale i\u00e7in alternatif]",
         "mi": "[he \u0101hua k\u0113 m\u014d te \u201cale\u201d]",
         "zh_hant": "[\u540c\u201dale\u201c]",
-        "fi": "[vaihtoehtoinen muoto \"ale\":lle]"
+        "fi": "[vaihtoehtoinen muoto \"ale\":lle]",
+        "uk": "(\u0430\u043b\u044c\u0442\u0435\u0440\u043d\u0430\u0442\u0438\u0432\u043d\u0430 \u0444\u043e\u0440\u043c\u0430 \u0441\u043b\u043e\u0432\u0430 ale)"
       }
     },
     "alu": {
@@ -674,7 +676,8 @@
         "tr": "a\u015fa\u011f\u0131, a\u015fa\u011f\u0131ya, al\u00e7ak | ALT alt, alt\u0131nda, a\u015fa\u011f\u0131 k\u0131s\u0131m, zemin",
         "mi": "tuohu, iho, m\u0101haki, whirinaki | ALT raro, papa, hakahaka",
         "zh_hant": "\uff08\u5730\u4f4d\uff09\u4f4e\u4e0b\u7684\u3001\u5351\u5fae\u7684\u3001\u4f9d\u9760\u7684 | ALT \u5e95\u90e8\u3001\u4e0b\u9762\u3001\u5730\u9762\uff1b\u4f4e\u7684\u3001\u4e0b\u9762\u7684\u3001\u5e95\u90e8\u7684",
-        "fi": "kumartua, alasp\u00e4in, n\u00f6yr\u00e4, alhainen, riippuvainen | ALT pohja, alaosa, lattia, alla, matala, alas"
+        "fi": "kumartua, alasp\u00e4in, n\u00f6yr\u00e4, alhainen, riippuvainen | ALT pohja, alaosa, lattia, alla, matala, alas",
+        "uk": "\u043d\u0435\u0432\u0430\u0436\u043b\u0438\u0432\u0438\u0439, \u0437\u0430\u043b\u0435\u0436\u043d\u0438\u0439 | ALT \u043d\u0438\u0437, \u0434\u043e\u043d\u0438\u0437\u0443"
       }
     },
     "ante": {
@@ -705,6 +708,7 @@
         "isv_c": "\u0438\u043d\u044b, \u0440\u0430\u0437\u043d\u044b, \u043f\u0440\u0454\u0438\u043d\u0430\u0447\u0435\u043d\u044b, \u0438\u0437\u043c\u0454\u045a\u0435\u043d\u044b, \u0434\u0440\u0443\u0433\u044b",
         "eo": "malsama, \u015dan\u011dita, alia",
         "de": "anders, andere(r), unterschiedlich, ver\u00e4ndert",
+        "tok": "sama ala",
         "es": "diferente, alterado, cambiado, otro",
         "ceb_l": "lain, giusab, nausab, uban",
         "it": "differente, alterato, modificato, altro",
@@ -715,7 +719,8 @@
         "tr": "farkl\u0131, de\u011fi\u015ftirilmi\u015f, d\u00fczenlenmi\u015f, ba\u015fka, ayr\u0131",
         "mi": "k\u0113, rerek\u0113, panoni, huri, whakawhiti",
         "zh_hant": "\u4e0d\u540c\u7684\u3001\u88ab\u6539\u8b8a\u7684\u3001\u5176\u4ed6\u7684\u3001\u5225\u7684",
-        "fi": "erilainen, muuttunut, toinen, muu"
+        "fi": "erilainen, muuttunut, toinen, muu",
+        "uk": "\u0437\u043c\u0456\u043d\u0430, \u043c\u0456\u043d\u044f\u0442\u0438, \u0456\u043d\u0448\u0438\u0439"
       }
     },
     "anu": {
@@ -758,7 +763,8 @@
         "tr": "veya | ALT se\u00e7mek, karar vermek",
         "mi": "r\u0101nei | ALT k\u014dwhiri, whiriwhiri",
         "zh_hant": "\u6216\u3001\u9084\u662f | ALT \u9078\u64c7\u3001\u6c7a\u5b9a",
-        "fi": "tai | ALT valita, valikoida, p\u00e4\u00e4tt\u00e4\u00e4"
+        "fi": "tai | ALT valita, valikoida, p\u00e4\u00e4tt\u00e4\u00e4",
+        "uk": "\u0430\u0431\u043e | ALT \u043e\u0431\u0438\u0440\u0430\u0442\u0438"
       }
     },
     "apeja": {
@@ -853,7 +859,8 @@
         "tr": "dayanan, dayan\u0131kl\u0131, sakl\u0131, korumal\u0131, g\u00fcvende, bekleyen, kalan; (pv.) yapmaya devam etmek",
         "mi": "matat\u016b, mau, haumaru, tatari, noho tonu; (pv.) mahi tonu",
         "zh_hant": "\u6301\u4e45\u7684\u3001\u505c\u7559\u7684\u3001\u53d7\u4fdd\u8b77\u7684\u3001\u7b49\u5f85\u7684\u3001\u5b89\u5168\u7684\uff1b(pv.) \u7e7c\u7e8c\u3001\u6301\u7e8c\u3001\u4e00\u76f4",
-        "fi": "kest\u00e4v\u00e4, suojeltu, turvallinen, odottaa, oleskella; (pv.) jatkaa"
+        "fi": "kest\u00e4v\u00e4, suojeltu, turvallinen, odottaa, oleskella; (pv.) jatkaa",
+        "uk": "\u043d\u0435\u0437\u043c\u0456\u043d\u043d\u0438\u0439, \u0431\u0435\u0437\u043f\u0435\u0447\u043d\u0438\u0439; (pv) \u043f\u0440\u043e\u0434\u043e\u0432\u0436\u0443\u0432\u0430\u0442\u0438"
       }
     },
     "e": {
@@ -889,7 +896,8 @@
         "he": "(\u05dc\u05e4\u05e0\u05d9 \u05d4\u05de\u05d5\u05e9\u05d0 \u05d4\u05d9\u05e9\u05d9\u05e8 \u05e9\u05dc \u05d4\u05de\u05e9\u05e4\u05d8)",
         "mi": "(ki mua i te aronga torotika)",
         "zh_hant": "\uff08\u7f6e\u65bc\u76f4\u63a5\u8cd3\u8a9e\u4e4b\u524d\uff09",
-        "fi": "(ennen suoraa objektia)"
+        "fi": "(ennen suoraa objektia)",
+        "uk": "(\u043f\u0435\u0440\u0435\u0434 \u0434\u043e\u0434\u0430\u0442\u043a\u043e\u043c)"
       }
     },
     "eki": {
@@ -951,7 +959,8 @@
         "tr": "(birden fazla \u00f6znenin aras\u0131na gelir) | ALT (bir pi ifadesi i\u00e7indeki niteleyicileri veya bir edat\u0131n nesnelerini koordine eder)",
         "mi": "(ki waenga i \u0113tahi tumu)",
         "zh_hant": "\uff08\u7f6e\u65bc\u591a\u65bc\u4e00\u500b\u4e3b\u8a9e\u4e4b\u9593\uff09",
-        "fi": "(subjektin v\u00e4liss\u00e4, kun niit\u00e4 on enemm\u00e4n kuin yksi)"
+        "fi": "(subjektien v\u00e4liss\u00e4, kun niit\u00e4 on enemm\u00e4n kuin yksi)",
+        "uk": "(\u043c\u0456\u0436 \u043e\u0434\u043d\u043e\u0440\u0456\u0434\u043d\u0438\u043c\u0438 \u043f\u0456\u0434\u043c\u0435\u0442\u0430\u043c\u0438)"
       }
     },
     "enko": {
@@ -1055,7 +1064,8 @@
         "tr": "market, fuar, pazar, \u00e7ar\u015f\u0131, bakkal, takas, al\u0131\u015fveri\u015f",
         "mi": "he m\u0101kete, he toa, hoko",
         "zh_hant": "\u5e02\u5834\u3001\u5546\u5834\u3001\u96c6\u5e02\u3001\u4ea4\u6613\u6703\u3001\u8cb7\u8ce3\u3001\u5546\u696d\u4ea4\u6613",
-        "fi": "markkinat, kauppa, kaupank\u00e4ynti, messut, basaari, liiketoiminta"
+        "fi": "markkinat, kauppa, kaupank\u00e4ynti, messut, basaari, liiketoiminta",
+        "uk": "\u0440\u0438\u043d\u043e\u043a, \u043c\u0430\u0433\u0430\u0437\u0438\u043d"
       }
     },
     "ete": {
@@ -8960,7 +8970,8 @@
       "creator": "Eschar / Nathan McCoy",
       "license": "?",
       "version": "0.02",
-      "filename": "seta-sans.otf"
+      "filename": "seta-sans.otf",
+      "features": "-"
     },
     "sitelen Antowi": {
       "writing_system": "sitelen pona",
@@ -9076,7 +9087,9 @@
       "creator": "janEmelesowelikapesi",
       "license": "?",
       "version": "1.0",
-      "filename": "sitelen-suwi-ko.ttf"
+      "last_updated": "2021-01",
+      "filename": "sitelen-suwi-ko.ttf",
+      "features": "-"
     },
     "sitelen telo": {
       "writing_system": "sitelen telo",
@@ -9089,7 +9102,8 @@
       "license": "OFL",
       "version": "1.01",
       "last_updated": "2020-10",
-      "filename": "sitelen-telo.otf"
+      "filename": "sitelen-telo.otf",
+      "features": "-"
     },
     "sitelen telo Momo": {
       "writing_system": "sitelen pona",
