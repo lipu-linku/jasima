@@ -45,8 +45,8 @@
       "name_endonym": "Espa\u00f1ol",
       "name_english": "Spanish",
       "name_toki_pona": "toki Epanja",
-      "completeness_percent": "61",
-      "completeness_percent_pu": "44"
+      "completeness_percent": "62",
+      "completeness_percent_pu": "45"
     },
     "fi": {
       "id_long": "finnish",
@@ -205,7 +205,7 @@
       "name_endonym": "T\u00fcrk\u00e7e ",
       "name_english": "Turkish",
       "name_toki_pona": "toki Tuki",
-      "completeness_percent": "49",
+      "completeness_percent": "52",
       "completeness_percent_pu": "100"
     },
     "uk": {
@@ -214,7 +214,7 @@
       "name_english": "Ukrainian",
       "name_toki_pona": "toki Ukawina",
       "completeness_percent": "13",
-      "completeness_percent_pu": "28"
+      "completeness_percent_pu": "29"
     },
     "ur": {
       "id_long": "urdu",
@@ -263,9 +263,6 @@
     "jan Emalan": {
       "description": "nele entry"
     },
-    "jan Iwan": {
-      "description": "definitions (Ukrainian)"
-    },
     "jan Jaten": {
       "description": "definitions (Hebrew)"
     },
@@ -274,6 +271,9 @@
     },
     "jan Ke Tami": {
       "description": "definitions (German)"
+    },
+    "jan Kima": {
+      "description": "definitions (Spanish)"
     },
     "jan Kita": {
       "description": "definitions (Polish, some toki pona)"
@@ -316,6 +316,9 @@
     },
     "kijete Ampo": {
       "description": "definitions (Spanish), enko entry"
+    },
+    "kijetesantakalu Iwan": {
+      "description": "definitions (Ukrainian)"
     },
     "lipamanka": {
       "description": "linja sike, commentary"
@@ -2733,6 +2736,7 @@
         "pa": "\u0a35\u0a40",
         "id": "memang; juga, pun, pula; bahkan",
         "it": "{vedi a} | ALT infatti, pure, anche, come pure",
+        "tr": "{bkz} | ALT de/da, hem de, dahil",
         "zh_hant": "{\u898ba} | ALT \u4e5f\u3001\u53c8\u3001\u9084\u3001\u7684\u78ba\u3001\u78ba\u5be6",
         "zh_hans": "{\u89c1a} | ALT \u4e5f\u3001\u53c8\u3001\u8fd8\u3001\u7684\u786e\u3001\u786e\u5b9e"
       }
@@ -2775,6 +2779,7 @@
         "pa": "\u0a35\u0a70\u0a21\u0a23\u0a3e, \u0a15\u0a3e\u0a1f\u0a23\u0a3e, \u0a24\u0a3f\u0a71\u0a16\u0a3e",
         "id": "membagi, memotong, mengiris, memutus; tajam",
         "it": "dividere, tagliare, affettare, recidere; affilato",
+        "tr": "b\u00f6lmek, kesmek, dilimlemek, ay\u0131rmak; keskin",
         "zh_hant": "\u5207\u3001\u5272\u3001\u5206\u3001\u526a\u3001\u780d\uff1b\u92d2\u5229\u7684\u3001\u92b3\u5229\u7684",
         "zh_hans": "\u5207\u3001\u5272\u3001\u5206\u3001\u526a\u3001\u780d\uff1b\u950b\u5229\u7684\u3001\u9510\u5229\u7684"
       }
@@ -2925,6 +2930,7 @@
         "pa": "\u0a17\u0a48\u0a30 \u0a24\u0a4b\u0a15\u0a40 \u0a2a\u0a4b\u0a23\u0a3e \u0a2d\u0a3e\u0a38\u0a3c\u0a3e \u0a2c\u0a4b\u0a32\u0a23\u0a3e, \u0a07\u0a71\u0a15 \u0a07\u0a39\u0a4b \u0a1c\u0a3f\u0a39\u0a5c\u0a40 \u0a25\u0a3e\u0a02 \u0a35\u0a3f\u0a71\u0a1a \u0a1c\u0a3f\u0a71\u0a25\u0a47 \u0a24\u0a4b\u0a15\u0a40 \u0a2a\u0a4b\u0a23\u0a3e \u0a2c\u0a4b\u0a32\u0a28\u0a3e \u0a35\u0a71\u0a27 \u0a2e\u0a28\u0a3e\u0a38\u0a2c \u0a05\u0a24\u0a47 \u0a38\u0a39\u0a40 \u0a39\u0a48",
         "id": "berbicara bahasa selain Toki Pona di lingkungan yang lebih sesuai untuk Toki Pona",
         "it": "parlare una lingua non Toki Pona in un ambiente in cui il Toki Pona \u00e8 pi\u00f9 appropriato",
+        "tr": "Toki Pona konu\u015fman\u0131n daha uygun oldu\u011fu bir ortamda Toki Pona d\u0131\u015f\u0131nda bir dil konu\u015fmak",
         "zh_hant": "\u5728\u4e00\u500b\u66f4\u9069\u5408\u8b1b\u9053\u672c\u8a9e\u7684\u74b0\u5883\u88e1\u8b1b\u4e00\u500b\u4e0d\u662f\u9053\u672c\u8a9e\u7684\u8a9e\u8a00",
         "zh_hans": "\u5728\u4e00\u4e2a\u66f4\u9002\u5408\u8bb2\u9053\u672c\u8bed\u7684\u73af\u5883\u91cc\u8bb2\u4e00\u4e2a\u4e0d\u662f\u9053\u672c\u8bed\u7684\u8bed\u8a00"
       }
@@ -3060,6 +3066,7 @@
         "pa": "\u0a38\u0a4b\u0a28\u0a3f\u0a06 \u0a32\u0a3e\u0a02\u0a17 \u0a26\u0a47 \u0a36\u0a2c\u0a26\u0a15\u0a4b\u0a36 \u0a26\u0a47 \u0a28\u0a3e\u0a33 \u0a15\u0a41\u0a1d \u0a15\u0a30\u0a28\u0a3e",
         "id": "berinteraksi dengan Kamus Toki Pona karya Sonja Lang",
         "it": "interagire con il Dizionario Toki Pona di Sonja Lang",
+        "tr": "Sonja Lang taraf\u0131ndan yaz\u0131lm\u0131\u015f olan Toki Pona s\u00f6zl\u00fc\u011f\u00fc ile etkile\u015fimde bulunmak",
         "zh_hant": "\u8207Sonja Lang\u7684\u9053\u672c\u8a9e\u8a5e\u5178\u4e92\u52d5",
         "zh_hans": "\u4e0eSonja Lang\u7684\u9053\u672c\u8bed\u8bcd\u5178\u4e92\u52a8"
       }
@@ -3335,6 +3342,7 @@
         "zh_hant": "\uff08\u7f6e\u65bc\u8a9e\u5883\u77ed\u8a9e\u8207\u4e3b\u53e5\u4e4b\u9593\uff09",
         "zh_hans": "\uff08\u7f6e\u4e8e\u8bed\u5883\u77ed\u8bed\u4e0e\u4e3b\u53e5\u4e4b\u95f4\uff09",
         "fi": "(kontekstilauseen ja p\u00e4\u00e4lauseen v\u00e4liss\u00e4)",
+        "uk": "(\u043c\u0456\u0436 \u043a\u043e\u043d\u0442\u0435\u043a\u0441\u0442\u043d\u043e\u044e \u0444\u0440\u0430\u0437\u043e\u044e \u0456 \u043e\u0441\u043d\u043e\u0432\u043d\u0438\u043c \u0440\u0435\u0447\u0435\u043d\u043d\u044f\u043c)",
         "tkl": "(ki te v\u0101 o n\u0101 kupu m\u014d te t\u016blaga ma te toega o te fuaikupu)"
       }
     },
@@ -3371,6 +3379,7 @@
         "pa": "\u0a32\u0a48\u0a23\u0a3e, \u0a1b\u0a3f\u0a71\u0a28 \u0a32\u0a48\u0a23\u0a3e, \u0a2b\u0a5c\u0a28\u0a3e, \u0a2e\u0a3f\u0a32\u0a23\u0a3e",
         "id": "mengambil, merebut, menangkap, menerima, mendapatkan",
         "it": "prendere, impadronirsi, catturare, ricevere, ottenere",
+        "tr": "almak, ele ge\u00e7irmek, yakalamak, teslim almak, edinmek",
         "zh_hant": "\u62ff\u8d70\u3001\u53d6\u8d70\u3001\u6293\u4f4f\u3001\u63a5\u4f4f\u3001\u63a5\u6536\u3001\u5f97\u5230",
         "zh_hans": "\u62ff\u8d70\u3001\u53d6\u8d70\u3001\u6293\u4f4f\u3001\u63a5\u4f4f\u3001\u63a5\u6536\u3001\u5f97\u5230"
       }
@@ -3534,6 +3543,7 @@
         "pa": "\u0a2a\u0a4c\u0a5c\u0a40, \u0a35\u0a30\u0a17, \u0a21\u0a71\u0a2c\u0a3e",
         "id": "tangga, persegi, balok, kubus",
         "it": "scale, quadrato, blocco, angolo, cubo",
+        "tr": "basamak, kare, blok, k\u00f6\u015fe, k\u00fcp",
         "zh_hant": "\u6a13\u68af\u3001\u6b63\u65b9\u5f62\u3001\u65b9\u584a\u3001\u89d2\uff08\u89d2\u843d\uff09\u3001\u7acb\u65b9\u9ad4",
         "zh_hans": "\u697c\u68af\u3001\u6b63\u65b9\u5f62\u3001\u65b9\u5757\u3001\u89d2\uff08\u89d2\u843d\uff09\u3001\u7acb\u65b9\u4f53"
       }
@@ -3680,8 +3690,8 @@
         "ro": "(\u00eentre orice subiec cu excep\u021blie mi singiru \u0219i sina singur \u0219i verburile lor; se poate folosi \u0219i pentru a \u00eentroduce un verb nou pentru acela\u0219i subiect)",
         "tr": "(\"mi\" ve \"sina\" istisnalar\u0131 haricinde her \u00f6zne ve sonras\u0131nda gelen fiil aras\u0131na gelir; ayr\u0131ca ayn\u0131 \u00f6zne i\u00e7in farkl\u0131 bir fiil uygularken fiilin ba\u015f\u0131nda gelir)",
         "mi": "(ki waenga i te tumu (engari, ehara m\u014d te \u201cmi\u201d anake, m\u014d te \u201csina\u201d anake r\u0101nei) me te t\u016bmahi; whaihoki, e whakamahia ana m\u014d te t\u016bmahi hou i te rerenga k\u014drero, e t\u016b k\u0113 ai t\u0113tahi t\u016bmahi)",
-        "zh_hant": "\uff08\u7f6e\u65bc\u4efb\u4f55\u4e3b\u8a9e\u7684\u52d5\u8a5e\u4e4b\u9593\uff0c\u50c5\u662fmi\u6216\u50c5\u662fsina\u9664\u5916\uff1b\u4e5f\u7528\u65bc\u5728\u540c\u4e00\u500b\u4e3b\u8a9e\u4e0a\u5f15\u5165\u65b0\u7684\u52d5\u8a5e\uff09",
-        "zh_hans": "\uff08\u7f6e\u4e8e\u4efb\u4f55\u4e3b\u8bed\u7684\u52a8\u8bcd\u4e4b\u95f4\uff0c\u4ec5\u662fmi\u6216\u4ec5\u662fsina\u9664\u5916\uff1b\u4e5f\u7528\u4e8e\u5728\u540c\u4e00\u4e2a\u4e3b\u8bed\u4e0a\u5f15\u5165\u65b0\u7684\u52a8\u8bcd\uff09",
+        "zh_hant": "\uff08\u7f6e\u65bc\u4efb\u4f55\u4e3b\u8a9e\u53ca\u5176\u52d5\u8a5e\u4e4b\u9593\uff0c\u50c5\u662fmi\u6216\u50c5\u662fsina\u9664\u5916\uff1b\u4e5f\u7528\u65bc\u5728\u540c\u4e00\u500b\u4e3b\u8a9e\u4e0a\u5f15\u5165\u65b0\u7684\u52d5\u8a5e\uff09",
+        "zh_hans": "\uff08\u7f6e\u4e8e\u4efb\u4f55\u4e3b\u8bed\u53ca\u5176\u52a8\u8bcd\u4e4b\u95f4\uff0c\u4ec5\u662fmi\u6216\u4ec5\u662fsina\u9664\u5916\uff1b\u4e5f\u7528\u4e8e\u5728\u540c\u4e00\u4e2a\u4e3b\u8bed\u4e0a\u5f15\u5165\u65b0\u7684\u52a8\u8bcd\uff09",
         "fi": "(subjektin (paitsi mi, sina) ja verbin v\u00e4lill\u00e4; esittelee uuden verbin samalle subjektille)",
         "tkl": "(ki te v\u0101 o te mea, e faiga, (kae h\u0113 fakaaog\u0101 m\u014d \u201cmi\u201d tautahi pe m\u014d \u201csina\u201d tautahi) ma te veape; ke fakaaliali foki te veape f\u014du i te fuaikupu, kua t\u016b ai t\u0113tahi veape)"
       }
@@ -4515,6 +4525,7 @@
         "pa": "\u0a35\u0a3f\u0a71\u0a1a, \u0a06\u0a2e, \u0a20\u0a3f\u0a71\u0a15, \u0a20\u0a3f\u0a71\u0a15 \u0a20\u0a3e\u0a15; \u0a28\u0a3e \u0a07\u0a39 \u0a28\u0a3e \u0a13\u0a39",
         "id": "tengah, perantara, sedang; bukan keduanya, tidak sepenuhnya",
         "it": "mezzo, medio, mediocre; n\u00e9 l'uno n\u00e9 l'altro, n\u00e9 pienamente \u00e8 n\u00e9 non \u00e8",
+        "tr": "merkez, orta, alel\u00e2de; ne ... ne de ...., ne tam \u00f6yle ne de hi\u00e7 de\u011fil",
         "zh_hant": "\u4e2d\u9ede\u3001\u4e2d\u9593\u3001\u4e2d\u592e\u3001\u4e2d\u7b49\u7684\u3001\u5e73\u5eb8\u7684\uff1b\u975e\u6b64\u975e\u5f7c\u3001\u662f\u548c\u4e0d\u662f\u4e4b\u9593",
         "zh_hans": "\u4e2d\u70b9\u3001\u4e2d\u95f4\u3001\u4e2d\u592e\u3001\u4e2d\u7b49\u7684\u3001\u5e73\u5eb8\u7684\uff1b\u975e\u6b64\u975e\u5f7c\u3001\u662f\u548c\u4e0d\u662f\u4e4b\u95f4"
       }
@@ -4703,6 +4714,7 @@
         "pa": "\u0a26\u0a35\u0a3e, \u0a21\u0a3e\u0a15\u0a1f\u0a30\u0a40, \u0a1a\u0a3f\u0a15\u0a3f\u0a24\u0a38\u0a3e",
         "id": "obat, kesehatan",
         "it": "medicina, medico",
+        "tr": "ila\u00e7, t\u0131bbi, \u015fifal\u0131",
         "zh_hant": "\u85e5\u3001\u91ab\u7642\u7684",
         "zh_hans": "\u836f\u3001\u533b\u7597\u7684"
       }
@@ -4886,6 +4898,7 @@
         "pa": "\u0a21\u0a30, \u0a18\u0a2c\u0a30\u0a3e\u0a39\u0a1f; \u0a39\u0a48\u0a35\u0a3e\u0a28, \u0a16\u0a24\u0a30\u0a3e",
         "id": "rasa takut, segan; monster, predator; ancaman, bahaya",
         "it": "paura, timore; mostro, predatore; minaccia, pericolo",
+        "tr": "korku, deh\u015fet; canavar, y\u0131rt\u0131c\u0131; tehdit, tehlike",
         "zh_hant": "\u6050\u61fc\u3001\u61fc\u6015\uff1b\u602a\u7378\u3001\u6355\u98df\u8005\uff1b\u5a01\u8105\u3001\u5371\u96aa",
         "zh_hans": "\u6050\u60e7\u3001\u60e7\u6015\uff1b\u602a\u517d\u3001\u6355\u98df\u8005\uff1b\u5a01\u80c1\u3001\u5371\u9669"
       }
@@ -5182,7 +5195,7 @@
         "de": "-te (Ordinalzahl) | Zahl",
         "it": "(numero ordinale); numeri",
         "pt": "-\u00ba (n\u00famero ordinal); n\u00fameros",
-        "tr": "-c\u0131/-ci/-cu/-c\u00fc (s\u0131ra say\u0131); say\u0131lar",
+        "tr": "-(\u0131)nc\u0131 / -(i)nci / -(u)ncu / -(\u00fc)nc\u00fc (s\u0131ra say\u0131lar\u0131); say\u0131lar",
         "mi": "tua- (he tau raupapa); he tau",
         "zh_hant": "\u7b2c\uff08\u7528\u65bc\u69cb\u6210\u5e8f\u6578\uff09\uff1b\u6578\u5b57",
         "zh_hans": "\u7b2c\uff08\u7528\u4e8e\u6784\u6210\u5e8f\u6570\uff09\uff1b\u6570\u5b57",
@@ -8185,8 +8198,8 @@
         "pt": "ir a, a; para; no ponto de vista de; em movimento, ambulante | ALT (pv.) ir",
         "tr": "-e/-a; (-in) bak\u0131\u015f a\u00e7\u0131s\u0131ndan; gitmek, ilerlemek | ALT (y.f.) -ecek/-acak",
         "mi": "haere, ki; m\u014d, m\u0101; neke",
-        "zh_hant": "\u53bb\u3001\u884c\u9032\u3001\u524d\u5f80\uff1b\u5f9e\u2026\u2026\u7684\u89d2\u5ea6\uff1b\u79fb\u52d5\u7684 | ALT (pv) \u8981\u3001\u5c31\u8981\u3001\u5c07\u8981",
-        "zh_hans": "\u53bb\u3001\u884c\u8fdb\u3001\u524d\u5f80\uff1b\u4ece\u2026\u2026\u7684\u89d2\u5ea6\uff1b\u79fb\u52a8\u7684 | ALT (pv) \u8981\u3001\u5c31\u8981\u3001\u5c06\u8981",
+        "zh_hant": "\u53bb\u3001\u884c\u9032\u3001\u524d\u5f80\uff1b\u5f9e\u2026\u2026\u7684\u89d2\u5ea6\uff1b\u79fb\u52d5\u7684 | ALT (pv.) \u8981\u3001\u5c31\u8981\u3001\u5c07\u8981",
+        "zh_hans": "\u53bb\u3001\u884c\u8fdb\u3001\u524d\u5f80\uff1b\u4ece\u2026\u2026\u7684\u89d2\u5ea6\uff1b\u79fb\u52a8\u7684 | ALT (pv.) \u8981\u3001\u5c31\u8981\u3001\u5c06\u8981",
         "fi": "menossa, kohti; varten; jonkun n\u00e4k\u00f6kulmasta; liikkuva | ALT (pv.) jonnekin"
       }
     },
@@ -9101,6 +9114,7 @@
         "isv_c": "\u0441\u0438\u043b\u043d\u044b, \u043c\u043e\u0447\u043d\u044b; \u0443\u0432\u0454\u0440\u0458\u0435\u043d\u044b; \u0435\u043d\u0435\u0440\u0433\u0438\u0447\u043d\u044b, \u0438\u043d\u0442\u0435\u043d\u0441\u0438\u0432\u043d\u044b",
         "eo": "forta, potenca; memfida, nedubanta; energia, intensa",
         "de": "stark, Kraft, Energie; zuversichtlich, sicher; intensiv",
+        "es": "poderoso, seguro, en\u00e9rgico, intenso",
         "it": "forte, potente; fiducioso, sicuro; energico, intenso",
         "tr": "g\u00fc\u00e7l\u00fc, kuvvetli; kararl\u0131, emin; enerjik, yo\u011fun",
         "mi": "kaha, he ngoi; m\u0101ia, he ng\u0101kau titikaha; hihiko, tere",
@@ -9297,6 +9311,7 @@
         "eo": "devi, bezoni, postuli, voli, deziri",
         "de": "wollen, w\u00fcnschen, sollen, erfordern, brauchen, m\u00fcssen, Wunsch",
         "tok": "mi wile e ijo la, ijo li suli tawa mi. tan ni la, mi pilin e ni: mi o jo e ijo.",
+        "es": "desear, deber, exigir, querer, necesitar",
         "it": "deve, bisogno, richiedere, dovrebbe, vuole, desidera",
         "tr": "zorunda olmak, gerekmek, -meli/-mal\u0131, istemek, dilemek",
         "mi": "me, hiahia, p\u012brangi, t\u016bmanako",
@@ -9364,6 +9379,7 @@
   },
   "fonts": {
     "Fairfax": {
+      "name_short": "Fairfax",
       "writing_system": "sitelen pona",
       "links": {
         "fontfile": "https://github.com/kreativekorp/open-relay/raw/master/Fairfax/Fairfax.ttf",
@@ -9378,6 +9394,7 @@
       "features": "codepoints only, UCSUR-compliant, supports combining extension characters only (NO OpenType features)"
     },
     "Fairfax HD": {
+      "name_short": "FairfaxHD",
       "writing_system": "sitelen pona",
       "links": {
         "fontfile": "https://github.com/kreativekorp/open-relay/raw/master/FairfaxHD/FairfaxHD.ttf",
@@ -9392,6 +9409,7 @@
       "features": "codepoints only, UCSUR-compliant, supports cartouches, extended glyphs, a few combined glyphs, ZWJ sequences, character variants, randomized jaki"
     },
     "insa pi supa lape": {
+      "name_short": "insa pi supa lape",
       "writing_system": "sitelen pona",
       "links": {
         "fontfile": "https://gitlab.com/dev_urandom/insa-pi-supa-lape/-/jobs/2110358878/artifacts/download",
@@ -9406,6 +9424,7 @@
       "features": "supports cartouches and extended pi, UCSUR-compliant"
     },
     "leko lili 15x15": {
+      "name_short": "leko lili",
       "writing_system": "sitelen pona",
       "links": {
         "fontfile": "https://toki.pona.billsmugs.com/lipu-tenpo/2022-05-15-sitelen_pona/lekolili15x15.ttf",
@@ -9419,6 +9438,7 @@
       "features": "all ku suli, UCSUR-compliant"
     },
     "linja ante": {
+      "name_short": "linja ante",
       "writing_system": "sitelen pona",
       "links": {
         "fontfile": "https://nilakayas.neocities.org/karya/linja-ante.ttf",
@@ -9432,6 +9452,7 @@
       "features": "-"
     },
     "linja luka": {
+      "name_short": "linja luka",
       "writing_system": "sitelen pona",
       "links": {
         "fontfile": "https://github.com/janMelon/linja-luka/raw/main/font-files/linja-luka-1.0.otf",
@@ -9445,6 +9466,7 @@
       "features": "supports all ku suli and some others"
     },
     "linja pi pu lukin": {
+      "name_short": "linja pi pu lukin",
       "writing_system": "sitelen pona",
       "links": {
         "fontfile": "https://jansa-tp.github.io/linja-pi-pu-lukin/PuLukin.otf",
@@ -9459,6 +9481,7 @@
       "features": "supports all ku lili"
     },
     "linja pi tomo lipu": {
+      "name_short": "linja pi tomo lipu",
       "writing_system": "sitelen pona",
       "links": {
         "fontfile": "https://github.com/pguimier/linjapitomolipu/raw/master/linjapitomolipu.0.7.ttf",
@@ -9473,6 +9496,7 @@
       "features": "supports cartouches"
     },
     "linja pimeja": {
+      "name_short": "linja pimeja",
       "writing_system": "sitelen pona",
       "links": {
         "fontfile": "https://jcdietrich.github.io/linjapimeja19.ttf",
@@ -9486,6 +9510,7 @@
       "features": "-"
     },
     "linja pimeja pona": {
+      "name_short": "linja pimeja pona",
       "writing_system": "sitelen pona",
       "links": {
         "fontfile": "https://antetokipona.infinityfreeapp.com/font/linjapimejapona.ttf",
@@ -9500,6 +9525,7 @@
       "features": "unrecognised words turn into cartouched latin characters"
     },
     "linja pona": {
+      "name_short": "linja pona",
       "writing_system": "sitelen pona",
       "links": {
         "fontfile": "https://github.com/janSame/linja-pona/raw/master/linja-pona-4.9.otf",
@@ -9514,6 +9540,7 @@
       "features": "supports cartouches, combined glyphs, nimi ku suli, extended pi"
     },
     "linja sike": {
+      "name_short": "linja sike",
       "writing_system": "sitelen pona",
       "links": {
         "fontfile": "https://wyub.github.io/tokipona/linja-sike-5.otf",
@@ -9527,6 +9554,7 @@
       "features": "supports cartouches, combined glyphs, most or all nimi ku lili, extended pi and more extended lines, diacritic glyphs, ligature combination of glyphs"
     },
     "linja suwi": {
+      "name_short": "linja suwi",
       "writing_system": "sitelen pona",
       "links": {
         "fontfile": "https://linjasuwi.ap5.dev/linjasuwi.otf",
@@ -9541,6 +9569,7 @@
       "features": "supports combined glyphs, nimi ku suli"
     },
     "linja wawa": {
+      "name_short": "linja wawa",
       "writing_system": "sitelen pona",
       "links": {
         "fontfile": "https://github.com/janMelon/linjawawa/raw/main/font-files/linjawawa1.21.ttf",
@@ -9554,6 +9583,7 @@
       "features": "supports cartouches, nimi ku suli, extended pi and more extended lines"
     },
     "nasin nanpa": {
+      "name_short": "nasin nanpa",
       "writing_system": "sitelen pona",
       "links": {
         "fontfile": "https://github.com/ETBCOR/nasin-nanpa/raw/main/versions/nasin-nanpa-2.5.1.otf",
@@ -9567,6 +9597,7 @@
       "features": "codepoints only, supports nimi ku suli, UCSUR-compliant"
     },
     "nasin sitelen pu mono": {
+      "name_short": "nasin sitelen pu mono",
       "writing_system": "sitelen pona",
       "links": {
         "fontfile": "https://cdn.discordapp.com/attachments/952797418381000806/977143643896950814/NasinSitelenPuMono.otf"
@@ -9579,6 +9610,7 @@
       "features": "UCSUR-compliant, extended pi, cartouches"
     },
     "seta sans": {
+      "name_short": "seta sans",
       "writing_system": "alphabet",
       "links": {
         "fontfile": "https://jcdietrich.github.io/TokiPonaSetaSans-Regular2.otf",
@@ -9591,6 +9623,7 @@
       "features": "-"
     },
     "sitelen Antowi": {
+      "name_short": "sitelen Antowi",
       "writing_system": "sitelen pona",
       "links": {
         "fontfile": "https://1drv.ms/u/s!AtCpU4CJeIG3hW02lAWbUPP8Cr64",
@@ -9604,6 +9637,7 @@
       "features": "UCSUR-compliant, extended pi, cartouches, ku suli, cartouches, autocartouches capitalised latin words "
     },
     "sitelen Kotopon": {
+      "name_short": "sitelen Kotopon",
       "writing_system": "sitelen pona",
       "links": {
         "fontfile": "https://github.com/AcipenserSturio/sitelen-Kotopon/raw/master/sitelenKotopon.otf",
@@ -9617,6 +9651,7 @@
       "features": "codepoints only, supports cartouches, partially UCSUR-compliant"
     },
     "sitelen Latin": {
+      "name_short": "sitelen Latin (ss)",
       "writing_system": "sitelen sitelen",
       "links": {
         "fontfile": "https://github.com/tokipona-today/sitelen-sitelen/raw/main/SitelenLatin_1.3.6.ttf",
@@ -9631,6 +9666,7 @@
       "features": "supports all containers and nimi ku suli (misikeke is misspelled as misekeke)"
     },
     "sitelen poka / sitelen luka tu tu": {
+      "name_short": "sitelen luka tu tu",
       "writing_system": "sitelen pona",
       "links": {
         "fontfile": "https://github.com/pguimier/pali-sitelen/raw/master/plugins/sitelenlukatutu/sitelen_luka_tu_tu.ttf",
@@ -9644,6 +9680,7 @@
       "features": "-"
     },
     "sitelen pona kiwen": {
+      "name_short": "sitelen pona kiwen",
       "writing_system": "sitelen pona",
       "links": {
         "fontfile": "https://cdn.discordapp.com/attachments/907173530192461864/918454687294963802/sitelen-pona-kiwen-nanpa-tu.ttf",
@@ -9657,6 +9694,7 @@
       "features": "codepoints only, supports nimi ku suli"
     },
     "sitelen pona PMD sky font": {
+      "name_short": "PMD sky",
       "writing_system": "sitelen pona",
       "links": {
         "fontfile": "https://cdn.discordapp.com/attachments/972470770984943658/975157038436986890/sitelen-pona-pmd-sky-font.otf",
@@ -9670,6 +9708,7 @@
       "features": "codepoints only"
     },
     "sitelen pona pona": {
+      "name_short": "sitelen pona pona",
       "writing_system": "sitelen pona",
       "links": {
         "fontfile": "https://jackhumbert.github.io/sitelen-pona-pona/fonts/sitelen-pona-pona.otf",
@@ -9684,6 +9723,7 @@
       "features": "unrecognised words turn into cartouched latin characters"
     },
     "sitelen Sans": {
+      "name_short": "sitelen Sans",
       "writing_system": "sitelen pona",
       "links": {
         "fontfile": "https://drive.google.com/file/d/1Kq34udEr2UBd7MpoSEn3G5c-C69ltaKG/view?usp=sharing",
@@ -9697,6 +9737,7 @@
       "features": "supports extended pi"
     },
     "sitelen suwi ko": {
+      "name_short": "sitelen suwi ko",
       "writing_system": "alphabet",
       "links": {
         "fontfile": "https://cdn.discordapp.com/attachments/340307145373253642/834314599759085588/sitelensuwiko20.ttf"
@@ -9709,6 +9750,7 @@
       "features": "-"
     },
     "sitelen telo": {
+      "name_short": "sitelen telo",
       "writing_system": "sitelen telo",
       "links": {
         "fontfile": "https://drive.google.com/file/d/1Y39JfjAfbthyECdTgcCZaKGR5i0Q7VUr",
@@ -9723,6 +9765,7 @@
       "features": "-"
     },
     "sitelen telo Momo": {
+      "name_short": "sitelen telo Momo",
       "writing_system": "sitelen pona",
       "links": {
         "fontfile": "https://github.com/janMelon/sitelen-telo-Momo/raw/main/font-files/sitelen-telo-Momo-1.04.ttf",
@@ -9736,6 +9779,7 @@
       "features": "supports all nimi ku suli and nimi ku lili"
     },
     "Toki Pona Bubble": {
+      "name_short": "Toki Pona Bubble",
       "writing_system": "sitelen pona",
       "links": {
         "webpage": "https://jordanwmartin.gumroad.com/l/flpem"
@@ -9748,6 +9792,7 @@
       "features": "supports all nimi ku suli"
     },
     "toki pona OTF": {
+      "name_short": "toki pona OTF",
       "writing_system": "sitelen pona",
       "links": {
         "fontfile": "https://app.box.com/s/9kdw13m1pp3g3rhged9r",
@@ -9761,6 +9806,7 @@
       "features": "-"
     },
     "Unifont CSUR": {
+      "name_short": "Unifont CSUR",
       "writing_system": "sitelen pona",
       "links": {
         "fontfile": "https://unifoundry.com/pub/unifont/unifont-14.0.03/font-builds/unifont_csur-14.0.03.otf",
