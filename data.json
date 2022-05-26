@@ -69,8 +69,8 @@
       "name_endonym": "\u02bb\u014clelo Hawai\u02bbi",
       "name_english": "Hawaiian",
       "name_toki_pona": "toki Awaje",
-      "completeness_percent": "5",
-      "completeness_percent_pu": "12"
+      "completeness_percent": "6",
+      "completeness_percent_pu": "13"
     },
     "he": {
       "id_long": "hebrew",
@@ -519,7 +519,7 @@
         "zh_hant": "\u4e0d\u3001\u6c92\u6709\u3001\u4e0d\u662f\u3001\u96f6\uff1b[~ ala ~]\uff08\u7528\u65bc\u69cb\u6210\u662f\u975e\u554f\u53e5\uff09\uff1b\u7121",
         "zh_hans": "\u4e0d\u3001\u6ca1\u6709\u3001\u4e0d\u662f\u3001\u96f6\uff1b[~ ala ~]\uff08\u7528\u4e8e\u6784\u6210\u662f\u975e\u95ee\u53e5\uff09\uff1b\u65e0",
         "fi": "ei, nolla; [~ ala ~] (k\u00e4ytet\u00e4\u00e4n kyll\u00e4-ei -kysymysten muodostuksessa), ei mit\u00e4\u00e4n",
-        "uk": "\u043d\u0456, \u043d\u0456\u0447\u043e\u0433\u043e",
+        "uk": "\u043d\u0456, \u043d\u0435, \u043d\u0443\u043b\u044c; [~ ala~] (\u0437\u0430\u043f\u0438\u0442\u0430\u043d\u043d\u044f \u0442\u0430\u043a/\u043d\u0456); \u043d\u0456\u0447\u043e\u0433\u043e",
         "tkl": "h\u0113ai, h\u0113, h\u0113ki, helo; [~ ala ~] (e fakaaog\u0101 m\u014d te fehili t\u0101puni)",
         "da": "nej, ikke, nul; [~ ala ~] (brugt til at forme et ja-nej sp\u00f8rgsm\u00e5l); ingenting",
         "haw": "\u02bba\u02bbole, \u02bbole; [~ ala ~] (e ho\u02bbohana \u02bbia ana no ka n\u012bnau \u02bbae-\u02bba\u02bbole)"
@@ -1348,7 +1348,8 @@
         "zh_hans": "\u574f\u7684\u3001\u4e0d\u597d\u7684\u3001\u8d1f\u9762\u7684\uff1b\u4e0d\u5fc5\u8981\u7684\u3001\u4e0d\u76f8\u5173\u7684 | ALT \u590d\u6742\u7684",
         "fi": "huono, paha, negatiivinen, ei-olennainen, merkiykset\u00f6n | ALT monimutkainen",
         "uk": "\u043f\u043e\u0433\u0430\u043d\u0438\u0439, \u043d\u0435\u0433\u0430\u0442\u0438\u0432\u043d\u0438\u0439; \u043d\u0435\u0435\u0444\u0435\u043a\u0442\u0438\u0432\u043d\u0438\u0439 | ALT \u0441\u043a\u043b\u0430\u0434\u043d\u0438\u0439, \u0437\u0430\u043f\u043b\u0443\u0442\u0430\u043d\u0438\u0439",
-        "tkl": "kino; h\u0113 aog\u0101 | ALT faigat\u0101, numinumi"
+        "tkl": "kino; h\u0113 aog\u0101 | ALT faigat\u0101, numinumi",
+        "haw": "\u02bbino, maika\u02bbi \u02bbole; \u02bba\u02bbole e pili ana | ALT pohihihi"
       }
     },
     "iki": {
@@ -1424,7 +1425,8 @@
         "zh_hans": "\u5de5\u5177\u3001\u88c5\u7f6e\u3001\u673a\u5668\u3001\u5668\u5177",
         "fi": "ty\u00f6v\u00e4line, toteuttaa, kone, laite",
         "uk": "\u0456\u043d\u0441\u0442\u0440\u0443\u043c\u0435\u043d\u0442, \u043c\u0430\u0448\u0438\u043d\u0430, \u0430\u0432\u0442\u043e\u043c\u0430\u0442",
-        "tkl": "he mea faig\u0101luega, he mahini"
+        "tkl": "he mea faig\u0101luega, he mahini",
+        "haw": "he mea ho\u02bbohana, he m\u012bkini"
       }
     },
     "ini": {
