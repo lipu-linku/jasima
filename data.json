@@ -8,6 +8,14 @@
       "completeness_percent": "8",
       "completeness_percent_pu": "17"
     },
+    "cy": {
+      "id_long": "welsh",
+      "name_endonym": "Cymraeg",
+      "name_english": "Welsh",
+      "name_toki_pona": "toki Kunli",
+      "completeness_percent": "4",
+      "completeness_percent_pu": "8"
+    },
     "da": {
       "id_long": "danish",
       "name_endonym": "Dansk",
@@ -45,8 +53,8 @@
       "name_endonym": "Espa\u00f1ol",
       "name_english": "Spanish",
       "name_toki_pona": "toki Epanja",
-      "completeness_percent": "62",
-      "completeness_percent_pu": "45"
+      "completeness_percent": "64",
+      "completeness_percent_pu": "50"
     },
     "fi": {
       "id_long": "finnish",
@@ -69,8 +77,8 @@
       "name_endonym": "\u02bb\u014clelo Hawai\u02bbi",
       "name_english": "Hawaiian",
       "name_toki_pona": "toki Awaje",
-      "completeness_percent": "6",
-      "completeness_percent_pu": "13"
+      "completeness_percent": "27",
+      "completeness_percent_pu": "58"
     },
     "he": {
       "id_long": "hebrew",
@@ -128,13 +136,21 @@
       "completeness_percent": "98",
       "completeness_percent_pu": "100"
     },
+    "ith_n": {
+      "id_long": "new_ithkuil",
+      "name_endonym": "Mal\u00ebu\u0163\u0159ait",
+      "name_english": "New Ithkuil",
+      "name_toki_pona": "toki Ikuwi",
+      "completeness_percent": "1",
+      "completeness_percent_pu": "2"
+    },
     "la": {
       "id_long": "latin",
       "name_endonym": "Latina",
       "name_english": "Latin",
       "name_toki_pona": "toki Lasina",
-      "completeness_percent": "2",
-      "completeness_percent_pu": "5"
+      "completeness_percent": "77",
+      "completeness_percent_pu": "100"
     },
     "mi": {
       "id_long": "maori",
@@ -184,6 +200,14 @@
       "completeness_percent": "100",
       "completeness_percent_pu": "100"
     },
+    "sv": {
+      "id_long": "swedish",
+      "name_endonym": "Svenska",
+      "name_english": "Swedish",
+      "name_toki_pona": "toki Sensa",
+      "completeness_percent": "0",
+      "completeness_percent_pu": "0"
+    },
     "tkl": {
       "id_long": "tokelauan",
       "name_endonym": "Te Gagana Tokelau",
@@ -213,7 +237,7 @@
       "name_endonym": "T\u00fcrk\u00e7e ",
       "name_english": "Turkish",
       "name_toki_pona": "toki Tuki",
-      "completeness_percent": "98",
+      "completeness_percent": "99",
       "completeness_percent_pu": "100"
     },
     "uk": {
@@ -258,6 +282,9 @@
     },
     "ANO93": {
       "description": "definitions (Turkish, toki pona)"
+    },
+    "Dylan Dalmataidd": {
+      "description": "definitions (Welsh)"
     },
     "ilo Eko": {
       "description": "sitelen pona etymologies"
@@ -313,6 +340,9 @@
     "Jonathan Gabel": {
       "description": "sitelen sitelen"
     },
+    "Jos\u00e9 Loera": {
+      "description": "definitions (Spanish)"
+    },
     "kala Asi": {
       "description": "definitions (Russian, Interslavic), audio"
     },
@@ -343,8 +373,14 @@
     "razorlovesbaba": {
       "description": "definitions (Turkish)"
     },
+    "salarua": {
+      "description": "definitions (New Ithkuil)"
+    },
     "soweli Anja": {
       "description": "definitions (Portuguese)"
+    },
+    "throwaway to hide behind": {
+      "description": "definitions (Swedish)"
     },
     "VikingCow": {
       "description": "definitions (Danish)"
@@ -402,7 +438,8 @@
         "uk": "(\u043f\u0456\u0434\u0442\u0432\u0435\u0440\u0434\u0436\u0435\u043d\u043d\u044f \u0430\u0431\u043e \u0435\u043c\u043e\u0446\u0456\u044f)",
         "tkl": "(he fakamamafa, he lagona, pe he feagaiga)",
         "haw": "(he ho\u02bboko\u02bbiko\u02bbi, he ho\u02bbopuka, \u0101 i \u02bbole he h\u014d\u02bboia)",
-        "hr": "(naglasak, emocijalnost ili potvrda)"
+        "hr": "(naglasak, emocijalnost ili potvrda)",
+        "cy": "(pwyslais, emosiwn, neu gardanhau)"
       }
     },
     "aka": {
@@ -423,6 +460,7 @@
         "eo": "kruc-simila formo, intersekci\u011do, interkovro (vidu anka\u016d natu kaj eki)",
         "de": "kreuzartige Form, Wegeskreuzung, \u00dcberschneidung [Alternative zu natu]",
         "tok": "natu li nasin pilin pi jan tu, anu ni: palisa tu li lon la, ona li kama wan lon ma lili wan. ni li sama sitelen pi nimi \"ala.\"",
+        "la": "crux [altern\u0101tum verbum \"natu\"]",
         "it": "forma a croce, intersezione, sovrapposizione [forma alternativa di natu]",
         "tr": "\u00e7arp\u0131ya benzer \u015fekil, kav\u015fak, kesi\u015fim [\"natu\" i\u00e7in alternatif form]",
         "zh_hant": "\u5341\u5b57\u5f62\u72c0\u3001\u4ea4\u9ede\u3001\u76f8\u4ea4\u3001\u91cd\u758a\u3001\u4ea4\u758a [\u540cnatu]",
@@ -476,7 +514,8 @@
         "tkl": "he meaola matakino; he gata, he lane",
         "da": "ikke nuttet dyr; reptil, padde",
         "haw": "he holoholona \u02bbauli\u02bbi \u02bbole; he mo\u02bbo, he poloka",
-        "hr": "neslatka \u017eivotinja; reptil, vodozemac"
+        "hr": "neslatka \u017eivotinja; reptil, vodozemac",
+        "ith_n": "sva\u010dh\u00e4ru\u00f6ll; ozzal, ojxwal"
       }
     },
     "ako": {
@@ -525,7 +564,7 @@
         "de": "nicht, kein, nichts, null; [~ ala ~] (M\u00f6glichkeit der Ja/Nein-Frage)",
         "es": "no, cero; [~ ala ~] (usado para formar una pregunta de s\u00ed o no); nada",
         "ceb_l": "dili, wala; [~ ala ~] (ginagamit para makahimo ug oo o dili nga pangutana)",
-        "la": "n\u014dn, haud, nullus, nihil; [~ ala ~] (facult\u0101s f\u014drm\u0101ti\u014dnis ita/non-rog\u0101ti\u014dn\u0113s)",
+        "la": "n\u014dn, haud, nullus, nihil; [~ ala ~] (facult\u0101s f\u014drmand\u012b ita/n\u014dn-rog\u0101ti\u014dn\u0113s)",
         "it": "no, non, zero; [~ ala ~] (usato per domande si-no); nulla",
         "pt": "n\u00e3o, zero; [~ ala ~] (usado para formar perguntas de sim ou n\u00e3o); nada",
         "tl_l": "hindi, sero; [~ ala ~] (ginagamit upang bumuo ng oo-hindi na tanong); wala",
@@ -591,7 +630,8 @@
         "uk": "\u043f\u043e\u043b\u044e\u0432\u0430\u0442\u0438, \u0437\u0431\u0438\u0440\u0430\u0442\u0438, \u0448\u0443\u043a\u0430\u0442\u0438 | ALT (pv.) \u043f\u0440\u043e\u0431\u0443\u0432\u0430\u0442\u0438",
         "tkl": "hakili | ALT (pv.) taumafai",
         "haw": "hahai, \u02bbimi | ALT (pv.) ho\u02bboikaika, k\u016blia",
-        "hr": "loviti, tra\u017eiti | ALT (pv.) poku\u0161ati, probati"
+        "hr": "loviti, tra\u017eiti | ALT (pv.) poku\u0161ati, probati",
+        "ith_n": "up\u0163ral, ap\u0163al | ALT (pv.) psalaekpa"
       }
     },
     "ale": {
@@ -754,7 +794,9 @@
         "isv_c": "\u043a\u043b\u0430\u045a\u0430\u0458\u0443\u0447\u0438 \u0441\u0435, \u043d\u0430 \u0434\u043e\u043b, \u0441\u043a\u0440\u043e\u043c\u043d\u044b, \u043f\u0440\u0438\u0437\u0435\u043c\u0458\u0435\u043d\u044b, \u0437\u0430\u0432\u0438\u0441\u043d\u044b, \u0437\u0430\u043b\u0435\u0436\u043d\u044b | ALT \u0434\u043d\u043e, \u0434\u043e\u043b, \u043f\u043e\u0434\u043b\u043e\u0433\u0430; \u0434\u043e\u043b\u043d\u044b, \u043d\u0438\u0437\u0448\u0438",
         "eo": "klinanta sin, malsupren, humila, modesta, dependa | ALT malsupro, malsupra parto, sub, planko, fundo; malsupra, suba, malalta",
         "de": "herunter, unter, nieder, niedrig, unten, Grund, Boden",
+        "es": "inclinarse, hacia abajo, humilde, dependiente | ALT fondo, parte m\u00e1s baja, debajo, abajo, bajo, bajar, piso",
         "ceb_l": "duko, paubos, mapaubsanon, ubos, nagasalig | ALT ubos nga bahin, ilalum, salog, sa ubos",
+        "la": "sub, \u012bnfr\u0101, humus, fundus",
         "it": "inchinarsi, verso il basso, umile, dipendente | ALT fondo, parte inferiore, sotto, pavimento, al di sotto; basso, inferiore, gi\u00f9",
         "pt": "curvando-se,  para baixo, humilde, baixo status, dependente | ALT baixo, parte  inferior, debaixo, abaixo de, piso, embaixo; abaixo, baixo, mais baixo,  para baixo",
         "tl_l": "yumuyuko, pababa, mapagpakumbaba, mababa, umaasa | ALT bab\u00e2, ibabang bahagi, ilalim, ibaba, sahig; mababa, ibaba, pababa",
@@ -767,7 +809,7 @@
         "uk": "\u043d\u0435\u0432\u0430\u0436\u043b\u0438\u0432\u0438\u0439, \u0437\u0430\u043b\u0435\u0436\u043d\u0438\u0439 | ALT \u043d\u0438\u0437, \u0434\u043e\u043d\u0438\u0437\u0443",
         "tkl": "punou, ifo, lotom\u0101ulalo | ALT lalo, he fola; m\u0101ualalo",
         "haw": "k\u016blou, iho, ha\u02bba, p\u0113, \u02bbai\u02bbai | ALT he kumu, lalo, he papa",
-        "hr": "pokloniti se, dolje, skromnost, poniznost, ovisno (o) | ALT dno, donje dio, ispod, pod, nisko, ni\u017ee"
+        "hr": "pokloniti se, dolje skromnost, poniznost, ovisno (o) | ALT dno, donji dio, ispod, pod nisko ni\u017ee"
       }
     },
     "ante": {
@@ -797,10 +839,11 @@
         "isv_l": "iny, razny, pr\u011bina\u010deny, izm\u011bnjeny, drugy",
         "isv_c": "\u0438\u043d\u044b, \u0440\u0430\u0437\u043d\u044b, \u043f\u0440\u0454\u0438\u043d\u0430\u0447\u0435\u043d\u044b, \u0438\u0437\u043c\u0454\u045a\u0435\u043d\u044b, \u0434\u0440\u0443\u0433\u044b",
         "eo": "malsama, \u015dan\u011dita, alia",
-        "de": "anders, andere(r), unterschiedlich, ver\u00e4ndert",
+        "de": "anders, andere(r), unterschiedlich, ver\u00e4ndern",
         "tok": "sama ala",
         "es": "diferente, alterado, cambiado, otro",
         "ceb_l": "lain, giusab, nausab, uban",
+        "la": "alius, varius, disp\u0101r, m\u016bt\u0101re, convertere",
         "it": "differente, alterato, modificato, altro",
         "pt": "diferente, alterado, outro",
         "tl_l": "iba, binago",
@@ -850,6 +893,7 @@
         "tok": "ken la, ijo li nanpa wan. ken la, ijo li nanpa tu. ni la, ijo li nanpa wan anu nanpa tu.",
         "es": "o | ALT escoger, decidir",
         "ceb_l": "o | ALT pagpili",
+        "la": "aut, vel | \u0113ligere",
         "it": "o | ALT scegliere, decidere",
         "pt": "ou | ALT escolher, decidir",
         "tl_l": "o | ALT pumili, magpasya",
@@ -896,6 +940,7 @@
         "ur": "\u0634\u0631\u0645\u060c \u0634\u0631\u0645\u0646\u062f\u06af\u06cc\u060c \u06a9\u0644\u0646\u06a9\u061b \u0627\u0644\u0632\u0627\u0645 \u0644\u06af\u0627\u0646\u0627\u060c \u062f\u0648\u0634\u06cc \u0679\u06be\u06c1\u0631\u0627\u0646\u0627\u060c \u0622\u0631\u0648\u067e \u0644\u06af\u0627\u0646\u0627\u060c \u067e\u0631\u062f\u0627\u0641\u0627\u0634 \u06a9\u0631\u0646\u0627\u060c \u0630\u0644\u06cc\u0644 \u06a9\u0631\u0646\u0627",
         "pa": "\u0a38\u0a3c\u0a30\u0a2e, \u0a38\u0a3c\u0a30\u0a2e\u0a3f\u0a70\u0a26\u0a17\u0a40, \u0a15\u0a32\u0a70\u0a15; \u0a07\u0a32\u0a1c\u0a3e\u0a2e \u0a32\u0a17\u0a3e\u0a09\u0a23\u0a3e, \u0a26\u0a4b\u0a38\u0a3c\u0a40 \u0a20\u0a39\u0a30\u0a3e\u0a09\u0a23\u0a3e, \u0a05\u0a30\u0a4b\u0a2a \u0a32\u0a17\u0a3e\u0a09\u0a23\u0a3e, \u0a2a\u0a30\u0a26\u0a3e\u0a2b\u0a3e\u0a38\u0a3c \u0a15\u0a30\u0a28\u0a3e, \u0a1c\u0a32\u0a40\u0a32 \u0a15\u0a30\u0a28\u0a3e",
         "id": "rasa bersalah, malu, cela, stigma, aib; menuduh, mengasingkan, mengekspos, mengejek, mempermalukan",
+        "la": "pudor, pud\u0113re; acc\u016bs\u0101re, viti\u0101re, n\u016bd\u0101re",
         "it": "colpa, vergogna, rifiuto, stigma, disgrazia; accusare, individuare, esporre, disonorare, imbarazzare",
         "tr": "su\u00e7luluk, utan\u00e7, ka\u00e7\u0131nma, sak\u0131nma, lekeleme, rezalet; su\u00e7lamak, azarlamak, if\u015fa etmek, onurunu k\u0131rmak, utand\u0131rmak",
         "zh_hant": "\u5167\u759a\u3001\u6094\u6068\u3001\u7f9e\u6065\u3001\u615a\u6127\u3001\u6065\u8fb1\u3001\u4e1f\u81c9\uff1b\u6307\u8cac\u3001\u5b64\u7acb\u3001\u63ed\u7a7f\u3001\u70ba\u2026\u2026\u5e36\u4f86\u6065\u8fb1\u3001\u4f7f\u5c37\u5c2c",
@@ -958,14 +1003,16 @@
         "eo": "da\u016dranta, tenata, protektita, sekura, atendanta, restanta; (a.v.) da\u016dre fari",
         "de": "bleiben, harren, warten, behalten, gesch\u00fctzt, sicher; (pv.) weitermachen, weiter(hin)",
         "tok": "ijo li tawa ala anu kama ala ante la ijo li awen",
+        "es": "durable, mantenido, protegido, seguro, esperar, estar; (pv.) continuar, mantener",
         "ceb_l": "paglahutay, gitipigan, gipanalipdan, luwas, paghulat, pagpabilin, (pv.) pagpadayon, taguan",
+        "la": "man\u0113re, exspect\u0101re, retin\u0113re, t\u016btus | (pv.) pergere, pr\u014dporr\u014d",
         "it": "duraturo, mantenuto, protetto, sicuro, che aspetta, che resta; (pv.) continuare a, mantenere",
         "pt": "duradouro, mantido, protegido, seguro, esperando, permanecendo, ficando; (pv.) continuar a, manter",
         "tl_l": "pagtitiis, iningatan, protektado, ligtas, naghihintay, pananatili; (pv.) magpatuloy, panatilihin",
         "ro": "a endura, \u021binut, protectat, \u00een siguran\u021b\u0103, a\u0219tept\u00e2nd, st\u0103t\u00e2nd; (pv.) a continua s\u0103, a \u021bine",
         "fr": "rest\u00e9, prot\u00e9g\u00e9, gard\u00e9, qui attend, qui persiste, conserv\u00e9 ; (auxiliaire) continuer \u00e0",
         "tr": "dayanan, dayan\u0131kl\u0131, sakl\u0131, korumal\u0131, g\u00fcvende, bekleyen, kalan; (pv.) yapmaya devam etmek",
-        "mi": "matat\u016b, mau, haumaru, tatari, noho tonu; (pv.) mahi tonu",
+        "mi": "manawanui, matat\u016b, mau, haumaru, tatari, noho; (pv.) mahi tonu",
         "zh_hant": "\u6301\u4e45\u7684\u3001\u505c\u7559\u7684\u3001\u53d7\u4fdd\u8b77\u7684\u3001\u7b49\u5f85\u7684\u3001\u5b89\u5168\u7684\uff1b(pv.) \u7e7c\u7e8c\u3001\u6301\u7e8c\u3001\u4e00\u76f4",
         "zh_hans": "\u6301\u4e45\u7684\u3001\u505c\u7559\u7684\u3001\u53d7\u4fdd\u62a4\u7684\u3001\u7b49\u5f85\u7684\u3001\u5b89\u5168\u7684\uff1b(pv.) \u7ee7\u7eed\u3001\u6301\u7eed\u3001\u4e00\u76f4",
         "fi": "kest\u00e4v\u00e4, suojeltu, turvallinen, odottaa, oleskella; (pv.) jatkaa",
@@ -999,6 +1046,7 @@
         "de": "(vor dem direkten Objekt)",
         "es": "(antes del objeto directo)",
         "ceb_l": "(bag-o sa butang nga tigdawat)",
+        "la": "(ante objectum [ipsum effectum actionis verbi])",
         "it": "(davanti all'oggetto diretto)",
         "pt": "(antes do objeto direto)",
         "tl_l": "(bago ang tuwirang layon)",
@@ -1034,6 +1082,7 @@
         "eo": "kruc-simila formo, intersekci\u011do, interkovro (vidu anka\u016d natu kaj aka)",
         "de": "kreuzartige Form, Wegeskreuzung, \u00dcberschneidung [Alternative zu natu]",
         "tok": "natu li nasin pilin pi jan tu, anu ni: palisa tu li lon la, ona li kama wan lon ma lili wan. ni li sama sitelen pi nimi \"ala.\"",
+        "la": "crux [altern\u0101tum verbum \"natu\"]",
         "it": "forma a croce, intersezione, sovrapposizione [forma alternativa di natu]",
         "tr": "\u00e7arp\u0131ya benzer \u015fekil, kav\u015fak, kesi\u015fim [\"natu\" i\u00e7in alternatif form]",
         "zh_hant": "\u5341\u5b57\u5f62\u72c0\u3001\u4ea4\u9ede\u3001\u76f8\u4ea4\u3001\u91cd\u758a\u3001\u4ea4\u758a [\u540cnatu]",
@@ -1073,19 +1122,20 @@
         "de": "(zwischen mehreren Subjekten)",
         "es": "(entre m\u00faltiples sujetos) | ALT (coordina modificadores en una frase con pi u objetos en una preposici\u00f3n)",
         "ceb_l": "(tunga sa lainlain nga hilisgutan) | ALT (tigtabang sa mga pulong nga tigbag-o sa mga pi nga bahin o butang sa mga pulong nga naghulagway sa mga dapit)",
+        "la": "(inter subjecta pl\u016bra)",
         "it": "(tra pi\u00f9 soggetti) | ALT (coordina i modificatori in una frase con pi o gli oggetti di una preposizione)",
         "pt": "(entre v\u00e1rios sujeitos) | ALT (modificadores de coordenadas em uma frase-pi ou objetos de uma preposi\u00e7\u00e3o)",
         "ro": "(\u00eentre mai multe subiecte)",
         "fr": "(entre plusieurs sujets)",
         "tr": "(birden fazla \u00f6znenin aras\u0131na gelir) | ALT (bir pi ifadesi i\u00e7indeki niteleyicileri veya bir edat\u0131n nesnelerini koordine eder)",
-        "mi": "(ki waenga i \u0113tahi tumu)",
+        "mi": "(ki waenga i ng\u0101 tumu)",
         "zh_hant": "\uff08\u7f6e\u65bc\u591a\u65bc\u4e00\u500b\u4e3b\u8a9e\u4e4b\u9593\uff09",
         "zh_hans": "\uff08\u7f6e\u4e8e\u591a\u4e8e\u4e00\u4e2a\u4e3b\u8bed\u4e4b\u95f4\uff09",
         "fi": "(subjektien v\u00e4liss\u00e4, kun niit\u00e4 on enemm\u00e4n kuin yksi)",
         "uk": "(\u043c\u0456\u0436 \u043e\u0434\u043d\u043e\u0440\u0456\u0434\u043d\u0438\u043c\u0438 \u043f\u0456\u0434\u043c\u0435\u0442\u0430\u043c\u0438)",
-        "tkl": "(ki te v\u0101 o ni mea, e faiga)",
+        "tkl": "(ki te v\u0101 o n\u0101 mea, e fai)",
         "da": "(bruges mellem flere subjekter)",
-        "haw": "(i waena o kekahi mau kumu\u02bb\u014dlelo)",
+        "haw": "(i waena o n\u0101 kumu\u02bb\u014dlelo)",
         "hr": "(izme\u0111u subjekata u re\u010denici s vi\u0161e subjekata)"
       }
     },
@@ -1149,6 +1199,7 @@
         "ur": "\u063a\u062c\u0628\u060c \u0634\u0627\u0646\u062f\u0627\u0631\u060c \u0644\u0627\u062c\u0648\u0627\u0628\u060c \u062d\u06cc\u0631\u062a \u0627\u0646\u06af\u06cc\u0632",
         "pa": "\u0a17\u0a1c\u0a2c, \u0a38\u0a3c\u0a3e\u0a28\u0a26\u0a3e\u0a30, \u0a32\u0a3e\u0a1c\u0a35\u0a3e\u0a2c",
         "id": "epik, keren, hebat, menakjubkan",
+        "la": "m\u0101gnificus",
         "it": "epico, figo, fantastico, sorprendente",
         "pt": "\u00e9pico, legal, fant\u00e1stico, incr\u00edvel",
         "tr": "epik, harika, s\u00fcper, muhte\u015fem",
@@ -1193,6 +1244,7 @@
         "tok": "ni li tomo anu ma. lon ni la sina pana e mani tawa ijo pi wile sina; mi pana tawa sina e ijo pi wile sina. sina pana tawa mi e ijo pi mi wile. ni la mi esun kepeken sina.",
         "es": "mercado, tienda, feria, bazar, transacci\u00f3n de negocios",
         "ceb_l": "merkado, tindahan, perya, negosyo",
+        "la": "merc\u0101r\u012b, n\u016bndin\u0101r\u012b, emere, praestin\u0101re, perm\u016bt\u0101re; merc\u0101tus, n\u016bndinae, taberna, j\u016bstus, oeconomia",
         "it": "mercato, negozio, fiera, bazar, transazione commerciale",
         "pt": "mercado, loja, feira, bazar, transa\u00e7\u00e3o de neg\u00f3cios",
         "tl_l": "palengke, tindahan, perya, tiyanggian, transaksyon sa negosyo",
@@ -1237,6 +1289,7 @@
         "ur": "\u0633\u06d2 \u0632\u06cc\u0627\u062f\u06c1\u060c \u0633\u06d2 \u067e\u0631\u06d2\u060c \u0633\u06d2 \u0622\u06af\u06d2\u060c \u0633\u06d2 \u0628\u0627\u06c1\u0631",
         "pa": "\u0a24\u0a4b\u0a02 \u0a35\u0a71\u0a27, \u0a24\u0a4b\u0a02 \u0a05\u0a71\u0a17\u0a47, \u0a24\u0a4b\u0a02 \u0a2c\u0a3e\u0a39\u0a30",
         "id": "melebihi, melampaui, di luar dari, lebih dari",
+        "la": "ultr\u014d, praeter, ulterior, extr\u0101, for\u012bs",
         "it": "oltre, superando, al di fuori di, pi\u00f9 di",
         "tr": "\u00f6te, \u00f6tesinde",
         "zh_hant": "\u8d85\u904e\u3001\u8d85\u51fa\u3001\u5728\u2026\u2026\u5916\u9762\u3001\u591a\u65bc",
@@ -1273,6 +1326,7 @@
         "ur": "\u067e\u062a\u06be\u0631 \u060c \u0686\u0679\u0627\u0646 \u060c \u0644\u0627\u0648\u0627",
         "pa": "\u0a2a\u0a71\u0a25\u0a30, \u0a1a\u0a71\u0a1f\u0a3e\u0a28, \u0a32\u0a3e\u0a35\u0a3e",
         "id": "batu, kerikil, cadas, berangkal, lahar, magma",
+        "la": "lapis, gl\u0101rea, lava",
         "it": "pietra, ghiaia, roccia, ciottolo, lava, magma",
         "tr": "ta\u015f, kaya, \u00e7ak\u0131l, lav, ma\u011fma",
         "zh_hant": "\u77f3\u982d\u3001\u5ca9\u77f3\u3001\u6c99\u792b\u3001\u9d5d\u5375\u77f3\u3001\u792b\u77f3\u3001\u5ca9\u6f3f\u3001\u7194\u5ca9",
@@ -1303,6 +1357,7 @@
         "ur": "\u06cc\u06c1\u060c \u0648\u06c1\u060c \u06cc\u06d2\u060c \u0648\u0648 (\u0627\u0646\u0633\u0627\u0646)\u060c (\u0627\u0648\u0646\u06c1 \u0628\u0648\u0644\u0646\u06d2 \u06a9\u0627 \u0627\u06cc\u06a9 \u0627\u0648\u0631 \u062a\u0631\u06cc\u0642\u0627)",
         "pa": "\u0a07\u0a39, \u0a13\u0a39 (\u0a07\u0a28\u0a38\u0a3e\u0a28), (\u0a13\u0a28\u0a3e \u0a28\u0a42\u0a70 \u0a2c\u0a4b\u0a32\u0a23 \u0a26\u0a3e \u0a07\u0a71\u0a15 \u0a39\u0a4b\u0a30 \u0a24\u0a30\u0a40\u0a15\u0a3e)",
         "id": "dia, mereka [bentuk lain dari ona]",
+        "la": "is, ea, id, suus [altern\u0101tum verbum \"ona\"]",
         "it": "lui, lei, esso, loro [forma alternativa di ona]",
         "tr": "o, onlar [\"ona\" i\u00e7in alternatif form]",
         "zh_hant": "\u4ed6\u3001\u5979\u3001\u5b83\u3001\u4ed6\u5011\u3001\u5979\u5011\u3001\u5b83\u5011 [\u540cona]",
@@ -1340,6 +1395,7 @@
         "de": "Ding, Sache, Objekt, Gegenstand, Angelegenheit, Erscheinung",
         "es": "cosa, fen\u00f3meno, objeto, materia",
         "ceb_l": "butang, panghitabo",
+        "la": "r\u0113s, \u0113ns",
         "it": "cosa, fenomeno, oggetto, materia",
         "pt": "coisa, fen\u00f3meno, objeto, mat\u00e9ria",
         "tl_l": "bagay, kaganapan, kababalaghan",
@@ -1383,10 +1439,11 @@
         "isv_l": "zly, lo\u0161i, nedobry, negativny; nenasu\u010dny, nesu\u010dstveny | ALT neprosty, komplikovany, slo\u017eeny",
         "isv_c": "\u0437\u043b\u044b, \u043b\u043e\u0448\u0438, \u043d\u0435\u0434\u043e\u0431\u0440\u044b, \u043d\u0435\u0433\u0430\u0442\u0438\u0432\u043d\u044b; \u043d\u0435\u043d\u0430\u0441\u0443\u0447\u043d\u044b, \u043d\u0435\u0441\u0443\u0447\u0441\u0442\u0432\u0435\u043d\u044b | ALT \u043d\u0435\u043f\u0440\u043e\u0441\u0442\u044b, \u043a\u043e\u043c\u043f\u043b\u0438\u043a\u043e\u0432\u0430\u043d\u044b, \u0441\u043b\u043e\u0436\u0435\u043d\u044b",
         "eo": "malbona, negativa; neesenca, malgrava | ALT malsimpla, komplika",
-        "de": "schlecht, negative, irrelevant | komplex, schwierig",
+        "de": "schlecht, negativ, irrelevant, \u00fcbel | komplex, schwierig",
         "tok": "ni li pona ala.",
         "es": "mal, malo, negativo; no esencial, irrelevante | ALT complicado, complejo",
         "ceb_l": "daotan, negatibo; dili kinahanglanon, wala'y labot | ALT lisod",
+        "la": "malus, miser, improbus, turpis | difficilis, complic\u0101tus",
         "it": "cattivo, negativo; non essenziale, irrilevante | ALT complicato, complesso",
         "pt": "ruim, negativo; n\u00e3o essencial, irrelevante | ALT complicado, complexo",
         "tl_l": "masama, negatibo; hindi mahalaga, walang kaugnayan | ALT masalimuot, kumplikado",
@@ -1395,7 +1452,7 @@
         "mi": "kino; whai tikanga kore | ALT matatini",
         "zh_hant": "\u58de\u7684\u3001\u4e0d\u597d\u7684\u3001\u8ca0\u9762\u7684\uff1b\u4e0d\u5fc5\u8981\u7684\u3001\u4e0d\u76f8\u95dc\u7684 | ALT \u8907\u96dc\u7684",
         "zh_hans": "\u574f\u7684\u3001\u4e0d\u597d\u7684\u3001\u8d1f\u9762\u7684\uff1b\u4e0d\u5fc5\u8981\u7684\u3001\u4e0d\u76f8\u5173\u7684 | ALT \u590d\u6742\u7684",
-        "fi": "huono, paha, negatiivinen, ei-olennainen, merkiykset\u00f6n | ALT monimutkainen",
+        "fi": "huono, paha, negatiivinen, ei-olennainen, merkitykset\u00f6n | ALT monimutkainen",
         "uk": "\u043f\u043e\u0433\u0430\u043d\u0438\u0439, \u043d\u0435\u0433\u0430\u0442\u0438\u0432\u043d\u0438\u0439; \u043d\u0435\u0435\u0444\u0435\u043a\u0442\u0438\u0432\u043d\u0438\u0439 | ALT \u0441\u043a\u043b\u0430\u0434\u043d\u0438\u0439, \u0437\u0430\u043f\u043b\u0443\u0442\u0430\u043d\u0438\u0439",
         "tkl": "kino; h\u0113 aog\u0101 | ALT faigat\u0101, numinumi",
         "haw": "\u02bbino, maika\u02bbi \u02bbole; \u02bba\u02bbole e pili ana | ALT pohihihi",
@@ -1429,6 +1486,7 @@
         "ur": "\u06cc\u06c1\u060c \u0648\u06c1\u060c \u06cc\u06d2\u060c \u0648\u0648 (\u0627\u0646\u0633\u0627\u0646)\u060c (\u0627\u0648\u0646\u06c1 \u0628\u0648\u0644\u0646\u06d2 \u06a9\u0627 \u0627\u06cc\u06a9 \u0627\u0648\u0631 \u062a\u0631\u06cc\u0642\u0627)",
         "pa": "\u0a07\u0a39, \u0a13\u0a39 (\u0a07\u0a28\u0a38\u0a3e\u0a28), (\u0a13\u0a28\u0a3e \u0a28\u0a42\u0a70 \u0a2c\u0a4b\u0a32\u0a23 \u0a26\u0a3e \u0a07\u0a71\u0a15 \u0a39\u0a4b\u0a30 \u0a24\u0a30\u0a40\u0a15\u0a3e)",
         "id": "dia, mereka [bentuk lain dari ona]",
+        "la": "is, ea, id, suus [altern\u0101tum verbum \"ona\"]",
         "it": "lui, lei, esso, loro [forma alternativa di ona]",
         "tr": "o, onlar [\"ona\" i\u00e7in alternatif form]",
         "zh_hant": "\u4ed6\u3001\u5979\u3001\u5b83\u3001\u4ed6\u5011\u3001\u5979\u5011\u3001\u5b83\u5011 [\u540cona]",
@@ -1467,6 +1525,7 @@
         "tok": "jan li pali kepeken ni; ijo ni li jo e kipisi mute li pali kepeken wawa.",
         "es": "herramienta, instrumento, m\u00e1quina, aparato",
         "ceb_l": "himan, makina",
+        "la": "\u012bnstr\u016bmentum, appar\u0101rus, m\u0101china, op\u0113s",
         "it": "strumento, attrezzo, macchina, dispositivo",
         "pt": "ferramenta, instrumento, m\u00e1quina, dispositivo",
         "tl_l": "kasangkapan, ipatupad, makina, kagamitan",
@@ -1546,6 +1605,7 @@
         "de": "Mitte, Inhalt, innen, drin, zwischen, intern, innerlich",
         "es": "centro, contenido, adentro, entre; \u00f3rgano interno, estomago",
         "ceb_l": "sentro, sulod, taliwala; suludnon nga bahin sa lawas, tiyan",
+        "la": "medius, inter, intus, intr\u0101, inest\u012bnus, continentia",
         "it": "centro, contenuto, dentro, tra; organo interno, stomaco",
         "pt": "centro, conte\u00fado, dentro, entre; \u00f3rg\u00e3o interno, est\u00f4mago",
         "tl_l": "sentro, nilalaman, loob, pagitan; laman loob, tiyan",
@@ -1557,6 +1617,7 @@
         "fi": "keskus, sis\u00e4lt\u00f6, sis\u00e4ll\u00e4, v\u00e4liss\u00e4; sis\u00e4elin, vatsa",
         "uk": "\u0446\u0435\u043d\u0442\u0440, \u0432\u043c\u0456\u0441\u0442, \u0432\u0441\u0435\u0440\u0435\u0434\u0438\u043d\u0456, \u043c\u0456\u0436; \u0436\u0438\u0432\u0456\u0442",
         "tkl": "loto, te v\u0101; he t\u014dt\u014dga o loto, he manava",
+        "haw": "loko, waena; he na\u02bbau, he \u02bb\u014dp\u016b",
         "hr": "sredina, sadr\u017eaj, unutar, izme\u0111u; unutarnji organ, stomak"
       }
     },
@@ -1587,6 +1648,7 @@
         "ur": "\u06cc\u06c1\u060c \u0648\u06c1\u060c \u06cc\u06d2\u060c \u0648\u0648 (\u0627\u0646\u0633\u0627\u0646)\u060c (\u0627\u0648\u0646\u06c1 \u0628\u0648\u0644\u0646\u06d2 \u06a9\u0627 \u0627\u06cc\u06a9 \u0627\u0648\u0631 \u062a\u0631\u06cc\u0642\u0627)",
         "pa": "\u0a07\u0a39, \u0a13\u0a39 (\u0a07\u0a28\u0a38\u0a3e\u0a28), (\u0a13\u0a28\u0a3e \u0a28\u0a42\u0a70 \u0a2c\u0a4b\u0a32\u0a23 \u0a26\u0a3e \u0a07\u0a71\u0a15 \u0a39\u0a4b\u0a30 \u0a24\u0a30\u0a40\u0a15\u0a3e)",
         "id": "dia, mereka [bentuk lain dari ona]",
+        "la": "is, ea, id, suus [altern\u0101tum verbum \"ona\"]",
         "it": "lui, lei, esso, loro [forma alternativa di ona]",
         "tr": "o, onlar [\"ona\" i\u00e7in alternatif form]",
         "zh_hant": "\u4ed6\u3001\u5979\u3001\u5b83\u3001\u4ed6\u5011\u3001\u5979\u5011\u3001\u5b83\u5011 [\u540cona]",
@@ -1624,6 +1686,7 @@
         "ur": "\u0633\u0648\u0686\u0646\u0627 \u060c \u062a\u0635\u0648\u0631 \u06a9\u0631\u0646\u0627 \u060c \u06cc\u0642\u06cc\u0646 \u06a9\u0631\u0646\u0627\u060c \u0645\u0627\u0646\u0646\u0627\u060c \u06a9\u0644\u067e\u0646\u0627 \u06a9\u0631\u0646\u0627",
         "pa": "\u0a38\u0a4b\u0a1a\u0a23\u0a3e, \u0a15\u0a32\u0a2a\u0a28\u0a3e \u0a15\u0a30\u0a28\u0a3e, \u0a35\u0a3f\u0a1a\u0a3e\u0a30 \u0a15\u0a30\u0a28\u0a3e, \u0a2e\u0a28\u0a23\u0a3e, \u0a16\u0a3f\u0a06\u0a32 \u0a15\u0a30\u0a28\u0a3e",
         "id": "berpikir, membayangkan, percaya, mengingat; pikiran, ide",
+        "la": "c\u014dgit\u0101re, p\u016bt\u0101re, im\u0101gin\u0101r\u012b, meminisse, v\u012bsi\u014d",
         "it": "pensare, immaginare, credere, ricordare, richiamare; un pensiero, un'idea",
         "tr": "d\u00fc\u015f\u00fcnmek, hayal etmek, inanmak, hat\u0131rlamak, an\u0131msamak; d\u00fc\u015f\u00fcnce, fikir",
         "zh_hant": "\u60f3\u3001\u601d\u8003\u3001\u60f3\u50cf\u3001\u76f8\u4fe1\u3001\u8a18\u5f97\u3001\u60f3\u8d77\u3001\u56de\u60f3\uff1b\u4e3b\u610f\u3001\u60f3\u6cd5",
@@ -1697,6 +1760,7 @@
         "tok": "jan anu soweli la ni li kama e pilin ike e pakala sijelo.",
         "es": "asqueroso, obsceno, enfermizo, t\u00f3xico, sucio, antihigi\u00e9nico",
         "ceb_l": "luod, masakiton, makahilo, dili limpyo, hugaw",
+        "la": "caenum, sordidus, ill\u016btus, v\u012brus, ven\u0113n\u0101tus",
         "it": "disgustoso, osceno, nauseabondo, tossico, sporco, insalubre",
         "pt": "nojento, obsceno, doentio, t\u00f3xico, imundo, n\u00e3o higi\u00eanico",
         "tl_l": "nakadidiri, kasuklam-suklam, malaswa, may sakit, nakakalason, hindi malinis",
@@ -1708,6 +1772,7 @@
         "fi": "\u00e4ll\u00f6tt\u00e4v\u00e4, inhottava, sairas, myrkyllinen, ep\u00e4puhdas, ep\u00e4hygieeninen",
         "uk": "\u0431\u0440\u0438\u0434\u043a\u0438\u0439, \u0431\u0440\u0443\u0434\u043d\u0438\u0439, \u043d\u0435\u0447\u0438\u0441\u0442\u0438\u0439",
         "tkl": "fakalialia, kelekelea, palapal\u0101",
+        "haw": "lua\u02bbik\u016b, ho\u02bbopailua, \u02bbawahia, ma\u02bbema\u02bbe \u02bbole, haumia, lepo",
         "hr": "odvratno, sramotno, ne\u010disto"
       }
     },
@@ -1845,6 +1910,7 @@
         "tok": "ijo ni li wile li tawa kepeken ona sama li pilin. ona li jo e noka tu e luka tu. ona li ken toki li ken sona e ijo suli.",
         "es": "ser humano, persona, alguien",
         "ceb_l": "tawo, usa ka tawo",
+        "la": "hom\u014d, pers\u014dna, aliquis, qu\u012bdam",
         "it": "essere umano, persona, qualcuno",
         "pt": "ser humano, pessoa, algu\u00e9m",
         "tl_l": "tao",
@@ -1857,6 +1923,7 @@
         "fi": "ihminen, henkil\u00f6, joku",
         "uk": "\u043b\u044e\u0434\u0438\u043d\u0430, \u043b\u044e\u0434\u043d\u0456\u0441\u0442\u044c, \u0433\u0443\u043c\u0430\u043d\u043d\u0456\u0441\u0442\u044c",
         "tkl": "he tino, he tagata",
+        "haw": "he kanaka, he po\u02bbe",
         "hr": "osoba, \u010dovjek, netko"
       }
     },
@@ -1913,6 +1980,7 @@
         "ur": "\u0639\u06a9\u0627\u0633\u06cc\u060c \u067e\u0631\u0686\u06be\u0627\u0626\u06cc\u060c \u0622\u0626\u06cc\u0646\u06c1\u060c \u0634\u06cc\u0634\u06c1\u060c \u0627\u0644\u0679\u0627 \u060c \u0645\u062e\u0627\u0644\u0641",
         "pa": "\u0a2a\u0a30\u0a1b\u0a3e\u0a08, \u0a06\u0a08\u0a28\u0a3e, \u0a38\u0a3c\u0a40\u0a38\u0a3c\u0a3e, \u0a2a\u0a41\u0a71\u0a20\u0a3e",
         "id": "memantulkan, menggema, cermin, kebalikan",
+        "la": "speculum, contr\u0101ria, oppositum, r\u0113icere",
         "it": "riflettere, risuonare, rispecchiare, essere all'estremit\u00e0 opposta/polare di",
         "pt": "refletir, ressoar, espelhar, estar no extremo oposto de",
         "tr": "yans\u0131ma, yank\u0131, ayna, kar\u015f\u0131 sonunda/kutbunda olmak",
@@ -2013,6 +2081,7 @@
         "de": "gelb",
         "es": "amarillo",
         "ceb_l": "dalag",
+        "la": "fl\u0101vus, l\u016bteus",
         "it": "giallo, giallastro",
         "pt": "amarelo, amarelado",
         "tl_l": "dilaw, madilaw-dilaw",
@@ -2025,6 +2094,7 @@
         "fi": "keltainen, kellert\u00e4v\u00e4",
         "uk": "\u0436\u043e\u0432\u0442\u0438\u0439, \u0436\u043e\u0432\u0442\u0443\u0432\u0430\u0442\u0438\u0439",
         "tkl": "hehega, h\u0101mahama",
+        "haw": "melemele, lena",
         "hr": "\u017euto, \u017eu\u0107kasto"
       }
     },
@@ -2059,6 +2129,7 @@
         "de": "haben, tragen, halten, beinhalten",
         "es": "tener, llevar, contener, sostener",
         "ceb_l": "adunay, dad-on, langkob, gigunitan",
+        "la": "hab\u0113re, ten\u0113re, ferre, contin\u0113re",
         "it": "avere, portare, contenere, tenere",
         "pt": "ter, carregar, conter, segurar",
         "tl_l": "magkaroon, magdala, maglaman, humawak",
@@ -2070,7 +2141,9 @@
         "fi": "omistaa, kantaa, sis\u00e4lt\u00e4\u00e4, pit\u00e4\u00e4",
         "uk": "\u043c\u0430\u0442\u0438, \u0432\u043c\u0456\u0449\u0430\u0442\u0438, \u043d\u043e\u0441\u0438\u0442\u0438, \u0442\u0440\u0438\u043c\u0430\u0442\u0438",
         "tkl": "teu, kave, kukuma, fafao",
-        "hr": "imati, nositi, sadr\u017eavati, dr\u017eati"
+        "haw": "pa\u02bba, lawe",
+        "hr": "imati, nositi, sadr\u017eavati, dr\u017eati",
+        "cy": "caf: cael; gafael"
       }
     },
     "jonke": {
@@ -2117,6 +2190,7 @@
         "eo": "(vorto rezervita por estonteca uzo de Sonja Lang)",
         "de": "(f\u00fcr zuk\u00fcnftige Verwendung von Sonja Lang reserviertes Wort)",
         "tok": "(jan Sonja li wile e nimi ni tan ni: ona li pali e lipu sin la ona li kepeken nimi ni)",
+        "la": "(verbum \u0101 Sonja Lang reserv\u0101tum pr\u014d \u016bs\u016b fut\u016bro)",
         "it": "(parola riservata per uso futuro da Sonja Lang)",
         "tr": "(gelecekte kullanma amac\u0131yla Sonja Lang taraf\u0131ndan reserve edilmi\u015f bir kelime)",
         "zh_hant": "\uff08Sonja Lang\u4fdd\u7559\u55ae\u8a5e\uff09",
@@ -2216,6 +2290,7 @@
         "de": "Fisch, Meerestier",
         "tok": "ijo ni li tawa lon telo li ken moku e kon tan telo.",
         "es": "pez, animal marino, criatura del mar",
+        "la": "piscis, animal mar\u012bnum",
         "it": "pesce, animale marino, creatura marina",
         "pt": "peixe, animal marinho, criatura marinha",
         "tl_l": "isda, hayop sa dagat, nilalang sa dagat",
@@ -2227,6 +2302,7 @@
         "fi": "kala, vesiel\u00e4in",
         "uk": "\u0440\u0438\u0431\u0430, \u043c\u043e\u0440\u0441\u044c\u043a\u0430 \u0442\u0432\u0430\u0440\u0438\u043d\u0430",
         "tkl": "he ika",
+        "haw": "he i\u02bba",
         "hr": "riba, morska \u017eivotinja"
       }
     },
@@ -2259,6 +2335,7 @@
         "eo": "fari sonon; reciti, diri la\u016dte/vo\u0109e",
         "de": "Laut, Ger\u00e4usch, Ger\u00e4usche produzieren, \u00e4u\u00dfern",
         "es": "producir un sonido, recitar, pronunciar en voz alta",
+        "la": "sonus, v\u014dx, son\u0101re, crep\u0101re",
         "it": "produrre un suono; recitare, pronunciare ad alta voce",
         "pt": "produzir um som; recitar, falar em voz alta",
         "tl_l": "magtunog; bigkasin, bigkasin nang malakas",
@@ -2270,6 +2347,7 @@
         "fi": "tuottaa \u00e4\u00e4nt\u00e4; lausua",
         "uk": "\u0440\u043e\u0431\u0438\u0442\u0438 \u0437\u0432\u0443\u043a, \u0447\u0438\u0442\u0430\u0442\u0438, \u043f\u0440\u043e\u043c\u043e\u0432\u043b\u044f\u0442\u0438",
         "tkl": "kalaga, tagi, he leo; lea",
+        "haw": "kani, k\u0101hea, olo, he leo; \u02bb\u012b",
         "hr": "praviti zvukove; recitirati, izgovarati naglas"
       }
     },
@@ -2294,6 +2372,7 @@
         "de": "Piratenger\u00e4usch",
         "tok": "kalama pi jan ni: ona li jo utala e ijo tan jan ante li tawa kepeken tomo lon telo suli",
         "es": "ruido pirata",
+        "la": "\"sonus p\u012br\u0101tae\"",
         "it": "rumore dei pirati",
         "tr": "korsan sesi",
         "zh_hant": "\u6d77\u76dc\u8072\u97f3",
@@ -2327,6 +2406,7 @@
         "eo": "alvenanta, venonta, estonteca, vokita; (a.v.) i\u011di, sukcesi, elturni\u011di pri",
         "de": "kommen, ankommen, Zukunft | (pv.) werden, etw. fertigbringen",
         "es": "llegar, pr\u00f3ximo, futuro, convocar; (pv.) convertirse, lograr, suceder a",
+        "la": "ven\u012bre, anven\u012bre, fut\u016brum | (pv.) -\u016brus esse",
         "it": "arrivare, venire, futuro, convocato; (pv.) diventare, riuscire a",
         "pt": "chegando, vindo, futuro, convocado; (pv.) tornar-se, conseguir, ter sucesso em",
         "tl_l": "pagdating, kinabukasan, ipinatawag; (pv.) maging, magtagumpay sa",
@@ -2338,6 +2418,7 @@
         "fi": "tuleva, saapuva, tulevaisuus; (pv.) tulla joksikin, onnistua",
         "uk": "\u043f\u0440\u0438\u0445\u043e\u0434\u044f\u0447\u0438\u0439, \u043c\u0430\u0439\u0431\u0443\u0442\u043d\u0456\u0439, \u043f\u0440\u0438\u0437\u0432\u0430\u043d\u0438\u0439; (pv.) \u0441\u0442\u0430\u043d\u043e\u0432\u0438\u0442\u0438\u0441\u044f, \u0441\u043c\u043e\u0433\u0442\u0438, \u043f\u0440\u0435\u0443\u0441\u043f\u0456\u0432\u0430\u0442\u0438 \u0432",
         "tkl": "hau, \u014dmai, lumanaki",
+        "haw": "hele mai, hope",
         "hr": "stizati, dolaziti, budu\u0107nost; (pv.) postati, uspjeti"
       }
     },
@@ -2371,6 +2452,7 @@
         "ur": "\u0628\u063a\u0627\u0648\u062a \u060c \u062a\u062d\u0631\u06cc\u06a9 \u060c \u0627\u0646\u0642\u0644\u0627\u0628 \u060c \u0622\u0646\u062f\u0648\u0644\u0646",
         "pa": "\u0a2c\u0a17\u0a3e\u0a35\u0a24, \u0a07\u0a28\u0a15\u0a32\u0a3e\u0a2c, \u0a05\u0a70\u0a26\u0a4b\u0a32\u0a28",
         "id": "anarki, revolusi, pemberontakan",
+        "la": "turba et c\u014dnf\u016bsi\u014d, tumultus",
         "it": "anarchia, insurrezione, rivolta, ribellione",
         "tr": "anar\u015fi, ayaklanma, ba\u015fkald\u0131rma, isyan",
         "zh_hant": "\u7121\u653f\u5e9c\u72c0\u614b\u3001\u8d77\u7fa9\u3001\u66b4\u52d5\u3001\u53db\u4e82",
@@ -2407,6 +2489,7 @@
         "ur": "\u06a9\u06d2 \u0633\u0627\u062a\u06be",
         "pa": "\u0a26\u0a47 \u0a28\u0a3e\u0a32\u0a3c",
         "id": "dengan, bersama",
+        "la": "cum",
         "it": "con, in mezzo a, in compagnia di",
         "tr": "ile, aras\u0131nda, e\u015fli\u011finde",
         "zh_hant": "\u8207\u3001\u548c\u3001\u8ddf\u3001\u5728\u2026\u2026\u4e2d\u3001\u966a\u4f34\u8457",
@@ -2476,6 +2559,7 @@
         "ur": "\u0628\u06be\u0648\u0631\u0627",
         "pa": "\u0a2d\u0a42\u0a30\u0a3e",
         "id": "cokelat, abu",
+        "la": "fulvus, r\u0101vus",
         "it": "marrone, grigio",
         "tr": "kahverengi, gri",
         "zh_hant": "\u68d5\u8272\u3001\u8910\u8272\u3001\u7070\u8272",
@@ -2513,6 +2597,7 @@
         "eo": "planto, vegeta\u0135o; spicherbo, folio",
         "de": "Pflanze, Vegetation, Baum, Kraut, Blatt",
         "es": "planta, vegetaci\u00f3n, hierbas, hoja",
+        "la": "herba, arbor, planta, stirps",
         "it": "pianta, vegetazione; erba, foglia",
         "pt": "planta, vegeta\u00e7\u00e3o; erva, folha",
         "tl_l": "halaman; damo, dahon",
@@ -2524,6 +2609,7 @@
         "fi": "kasvi, kasvillisuus; yrtti, lehti",
         "uk": "\u0440\u043e\u0441\u043b\u0438\u043d\u0430, \u0440\u043e\u0441\u043b\u0438\u043d\u043d\u0456\u0441\u0442\u044c; \u0442\u0440\u0430\u0432\u0430, \u043b\u0438\u0441\u0442\u043e\u043a",
         "tkl": "he l\u0101kau; he laul\u0101kau",
+        "haw": "he l\u0101\u02bbau; he lau",
         "hr": "biljka, vegetacija; bilje, list"
       }
     },
@@ -2556,6 +2642,7 @@
         "ur": "\u0679\u06be\u06cc\u06a9 \u06c1\u06d2 \u060c (\u0628\u0627\u062a \u0633\u0645\u062c\u06be\u0646\u06d2 \u06a9\u06cc \u0639\u0644\u0627\u0645\u062a)",
         "pa": "\u0a20\u0a3f\u0a71\u0a15 \u0a39\u0a48 (\u0a17\u0a71\u0a32 \u0a38\u0a2e\u0a1d\u0a23 \u0a26\u0a3e \u0a1a\u0a3f\u0a70\u0a28\u0a4d\u0a39)",
         "id": "(pengakuan atau penerimaan)",
+        "la": "(approb\u0101ti\u014d)",
         "it": "(riconoscimento o accettazione)",
         "tr": "{ bkz: \"oke\" }, tamam, (onay veya kabul)",
         "zh_hant": "\uff08\u77e5\u6089\u6216\u540c\u610f\uff09",
@@ -2594,6 +2681,7 @@
         "de": "k\u00f6nnen, zu etw. imstande sein, d\u00fcrfen; m\u00f6glich",
         "tok": "sina sona e nasin pi pali tomo la, mi ken pali e tomo. ken sina li lon.",
         "es": "ser capaz de, ser permitido, poder, posible",
+        "la": "posse, qu\u012bre, possibilis, facult\u0101s",
         "it": "essere in grado di, essere autorizzato a, pu\u00f2; possibile",
         "pt": "conseguir, poder; poss\u00edvel",
         "tl_l": "magawa, payagan, puwede; maaari, posible",
@@ -2604,6 +2692,7 @@
         "fi": "voida, kyet\u00e4, sallia, mahdollinen",
         "uk": "\u043c\u0430\u0442\u0438 \u043c\u043e\u0436\u043b\u0438\u0432\u0456\u0441\u0442\u044c, \u0432\u043c\u0456\u0442\u0438; \u043c\u043e\u0436\u043b\u0438\u0432\u0438\u0439",
         "tkl": "mafai, lav\u0101",
+        "haw": "hiki",
         "hr": "mo\u0107i, smjeti, biti mogu\u0107e"
       }
     },
@@ -2637,6 +2726,7 @@
         "eo": "per, uzi",
         "de": "benutzen, gebrauchen, mit, mittels, mithilfe von",
         "es": "usando, con, mediante, por medio de",
+        "la": "\u016bt\u012b, \u016bsurp\u0101re, cum, per, [expressum c\u0101s\u016b abl\u0101t\u012bvo]",
         "it": "usare, con, per mezzo di",
         "pt": "usar; com, atrav\u00e9s de",
         "tl_l": "gamitin, gamit, sa pamamagitan ng",
@@ -2647,6 +2737,7 @@
         "fi": "k\u00e4ytt\u00e4\u00e4, k\u00e4ytt\u00e4en, hy\u00f6dynt\u00e4\u00e4",
         "uk": "\u043a\u043e\u0440\u0438\u0441\u0442\u0443\u0432\u0430\u0442\u0438\u0441\u044f, \u0437\u0430 \u0434\u043e\u043f\u043e\u043c\u043e\u0433\u043e\u044e",
         "tkl": "fakaaog\u0101, i",
+        "haw": "ho\u02bbohana, i, ma",
         "hr": "koristiti, koriste\u0107i"
       }
     },
@@ -2673,6 +2764,8 @@
         "eo": "kvira, GLAT-a",
         "de": "queer, LGBT+",
         "tok": "tonsi anu mije pi olin mije anu meli pi olin meli",
+        "es": "queer, LGBT+",
+        "la": "LGBT+",
         "it": "queer, LGBT+",
         "tr": "e\u015fcinsel, LGBT+",
         "he": "\u05e7\u05d5\u05d5\u05d9\u05e8, \u05dc\u05d4\u05d8\"\u05d1",
@@ -2750,6 +2843,7 @@
         "ur": "\u067e\u0631\u0648\u0633\u06cc\u0648\u0646\u0627\u0626\u0688\u0627\u0626 \u062e\u0627\u0646\u062f\u0627\u0646 \u06a9\u06d2 \u06a9\u0633\u06cc \u0628\u06be\u06cc \u062d\u06cc\u0627\u062a\u06cc\u0627\u062a \u060c \u062c\u06cc\u0633\u06d2 \u0631\u06cc\u06a9\u0648\u0646\u0632 \u060c \u0627\u0648\u0644\u06cc\u0646\u06af\u0648 \u0648\u063a\u06cc\u0631\u06c1\u06d4",
         "pa": "Procyonidae \u0a15\u0a41\u0a32 \u0a26\u0a3e \u0a15\u0a4b\u0a08 \u0a1c\u0a3e\u0a28\u0a35\u0a30: \u0a30\u0a15\u0a42\u0a28, \u0a13\u0a32\u0a3f\u0a70\u0a17\u0a4b, \u0a06\u0a26\u0a3f",
         "id": "semua hewan dalam famili Procyonidae, seperti rakun, coati, dan kucing ekor cincin",
+        "la": "procy\u014dn l\u014dtor, procy\u014dnida",
         "it": "qualsiasi animale della famiglia Procyonidae, come procioni, coatis, kinkajous, olingos, ringtail e cacomistles | ALT qualsiasi animale della superfamiglia Musteloidea, compresi procioni, donnole, lontre, puzzole e panda rossi",
         "pt": "qualquer animal Procion\u00eddeo (da fam\u00edlia Procyonidae), como guaxinins, quatis, olingos, bassariscos e cacomistles | ALT qualquer animal da superfam\u00edlia Musteloidea, incluindo guaxinins, doninhas, lontras, gamb\u00e1s e pandas vermelhos",
         "tr": "rakungiller (Procyonidae) familyas\u0131ndan herhangi bir hayvan, \u00f6r. rakunlar, koatiler, kinkajular, olingolar ve halkal\u0131 kuyruklu kediler | ALT Musteloidea \u00fcst familyas\u0131ndan herhangi bir hayvan, \u00f6r. rakunlar, sansarlar, su samurlar\u0131, kokarcalar ve k\u0131z\u0131l pandalar",
@@ -2789,6 +2883,7 @@
         "ur": "\u062a\u06cc\u0632 \u0627\u0648\u0631 \u062a\u06cc\u062e\u0627 (\u0686\u0627\u0642\u0648 \u06a9\u06cc \u0637\u0631\u062d)\u060c \u0632\u0627\u0648\u06cc\u06c1, \u0645\u062b\u0644\u062b \u062c\u06cc\u0633\u0627",
         "pa": "\u0a24\u0a3f\u0a71\u0a16\u0a3e (\u0a1b\u0a41\u0a30\u0a47 \u0a35\u0a30\u0a17\u0a3e), \u0a15\u0a4b\u0a23, \u0a24\u0a3f\u0a30\u0a15\u0a4b\u0a23 \u0a35\u0a30\u0a17\u0a3e",
         "id": "berduri, tajam, sudut, segitiga",
+        "la": "sp\u012bn\u014dsus, acule\u0101tus, \u0101cer, angul\u0101tus",
         "it": "appuntito, tagliente, angolo, punta, triangolare",
         "tr": "sivri, keskin, a\u00e7\u0131, u\u00e7, \u00fc\u00e7genimsi",
         "he": "\u05e7\u05d5\u05e6\u05e0\u05d9, \u05d7\u05d3, \u05d6\u05d5\u05d5\u05d9\u05ea, \u05e0\u05e7\u05d5\u05d3\u05d4, \u05de\u05e9\u05d5\u05dc\u05e9",
@@ -2830,6 +2925,7 @@
         "de": "Frucht, Gem\u00fcse, Pilz",
         "tok": "ni li tan kasi.",
         "es": "fruta, verdura, seta",
+        "la": "fr\u016bctus, fr\u016bx, p\u014dmum, f\u0113tus, olus, fungus",
         "it": "frutta, verdura, funghi",
         "pt": "fruta, vegetal, cogumelo",
         "tl_l": "prutas, gulay, kabute",
@@ -2841,7 +2937,9 @@
         "fi": "hedelm\u00e4, vihannes, sieni",
         "uk": "\u0441\u0430\u0434\u043e\u0432\u0438\u043d\u0430, \u0433\u043e\u0440\u043e\u0434\u0438\u043d\u0430, \u0433\u0440\u0438\u0431\u0438",
         "tkl": "he fua",
-        "hr": "vo\u0107ka, povr\u0107e, gljiva"
+        "haw": "he hua",
+        "hr": "vo\u0107ka, vo\u0107e, povr\u0107e, gljiva",
+        "cy": "ffrwyth, llysieuyn, madarchen"
       }
     },
     "kin": {
@@ -2879,6 +2977,7 @@
         "ur": "\u0628\u06be\u06cc",
         "pa": "\u0a35\u0a40",
         "id": "memang; juga, pun, pula; bahkan",
+        "la": "quoque, etjam, praetere\u0101; v\u0113r\u014d, s\u0101n\u0113, equidem",
         "it": "{vedi a} | ALT infatti, pure, anche, come pure",
         "pt": "{ver a} | ALT de fato, tamb\u00e9m, al\u00e9m disso",
         "tr": "{bkz. \"a\"} | ALT de/da, hem de, dahil",
@@ -2925,6 +3024,7 @@
         "ur": "\u0628\u0627\u06ba\u0679\u0646\u0627\u060c \u06a9\u0627\u0679\u0646\u0627 \u060c \u062a\u06cc\u0632 \u0627\u0648\u0631 \u062a\u06cc\u062e\u0627",
         "pa": "\u0a35\u0a70\u0a21\u0a23\u0a3e, \u0a15\u0a3e\u0a1f\u0a23\u0a3e, \u0a24\u0a3f\u0a71\u0a16\u0a3e",
         "id": "membagi, memotong, mengiris, memutus; tajam",
+        "la": "d\u012bvidere, part\u012br\u012b, pars, sec\u0101re, \u0101cer",
         "it": "dividere, tagliare, affettare, recidere; affilato",
         "tr": "b\u00f6lmek, kesmek, dilimlemek, ay\u0131rmak; keskin",
         "zh_hant": "\u5207\u3001\u5272\u3001\u5206\u3001\u526a\u3001\u780d\uff1b\u92d2\u5229\u7684\u3001\u92b3\u5229\u7684",
@@ -2995,6 +3095,7 @@
         "de": "hart, Stein, Metall, hartes Ding",
         "tok": "sina pana e wawa mute ala la sina ken ala ante li ken ala pakala e kiwen",
         "es": "objeto duro, metal, roca, piedra",
+        "la": "d\u016brus, lapis, saxum, metallum",
         "it": "oggetto duro, metallo, roccia, pietra",
         "pt": "objeto duro, metal, rocha, pedra",
         "tl_l": "matigas na bagay, metal, bato",
@@ -3005,6 +3106,7 @@
         "fi": "kova esine, metalli, kivi",
         "uk": "\u0449\u043e\u0441\u044c \u0442\u0432\u0435\u0440\u0434\u0435, \u043c\u0435\u0442\u0430\u043b, \u043a\u0430\u043c\u0456\u043d\u043d\u044f, \u043a\u0430\u043c'\u044f\u043d\u0430 \u043f\u043e\u0440\u043e\u0434\u0430",
         "tkl": "he mea m\u0101keke, he ukamea, he fatu",
+        "haw": "he mea \u02bbo\u02bbole\u02bba, he mekala, he p\u014dhaku, he \u02bbal\u0101",
         "hr": "tvrdi predmet, metal, kamen"
       }
     },
@@ -3039,6 +3141,7 @@
         "de": "Ton, anhaftende Form, Teig, Paste, Pulver, halbfest",
         "tok": "sina luka wawa e ijo ko la ijo ni li kama ante.",
         "es": "arcilla, pasta pegajosa, masa, semi-solido, pasta, polvo",
+        "la": "cr\u0113ta, m\u0101ssa, far\u012bna, s\u0113miten\u0101x",
         "it": "argilla, forma aderente, pasta, semisolido, polvere",
         "pt": "argila, forma pegajosa, massa, semi-s\u00f3lida, pasta, p\u00f3",
         "tl_l": "luwad, nakakapit na anyo, masa, semi-solid, dikit, pulbos",
@@ -3049,6 +3152,7 @@
         "fi": "savi, tarttuva muoto, taikina, puolikiinte\u00e4, tahna, jauhe",
         "uk": "\u0433\u043b\u0438\u043d\u0430, \u0437\u043b\u0456\u043f\u043b\u0435\u043d\u0435, \u0442\u0456\u0441\u0442\u043e, \u043d\u0430\u043f\u0456\u0432\u0442\u0432\u0435\u0440\u0434\u0435, \u0440\u0430\u0441\u0442\u0430, \u043f\u043e\u0440\u043e\u0448\u043e\u043a",
         "tkl": "he \u014dmea, he mea fakapipiki, he pauta",
+        "haw": "he p\u0101lolo, he mea ho\u02bbopipili, he palaoa, he pauka",
         "hr": "glina, tijesto, polu-kruto, smjesa, prah"
       }
     },
@@ -3082,12 +3186,13 @@
         "ur": "\u0627\u06cc\u06a9 \u0627\u06cc\u0633\u06cc \u062c\u06af\u06c1 \u0645\u06cc\u06ba \u063a\u06cc\u0631 \u062a\u0648\u06a9\u06cc \u067e\u0648\u0646\u06c1 \u0632\u0628\u0627\u0646 \u0628\u0648\u0644\u0646\u0627 \u062c\u06c1\u0627\u06ba \u062a\u0648\u06a9\u06cc \u067e\u0648\u0646\u06c1 \u0628\u0648\u0644\u0646\u0627 \u0632\u06cc\u0627\u062f\u06c1 \u0645\u0646\u0627\u0635\u0628 \u06c1\u06d2",
         "pa": "\u0a17\u0a48\u0a30 \u0a24\u0a4b\u0a15\u0a40 \u0a2a\u0a4b\u0a23\u0a3e \u0a2d\u0a3e\u0a38\u0a3c\u0a3e \u0a2c\u0a4b\u0a32\u0a23\u0a3e, \u0a07\u0a71\u0a15 \u0a07\u0a39\u0a4b \u0a1c\u0a3f\u0a39\u0a5c\u0a40 \u0a25\u0a3e\u0a02 \u0a35\u0a3f\u0a71\u0a1a \u0a1c\u0a3f\u0a71\u0a25\u0a47 \u0a24\u0a4b\u0a15\u0a40 \u0a2a\u0a4b\u0a23\u0a3e \u0a2c\u0a4b\u0a32\u0a28\u0a3e \u0a35\u0a71\u0a27 \u0a2e\u0a28\u0a3e\u0a38\u0a2c \u0a05\u0a24\u0a47 \u0a38\u0a39\u0a40 \u0a39\u0a48",
         "id": "berbicara bahasa selain Toki Pona di lingkungan yang lebih sesuai untuk Toki Pona",
+        "la": "n\u014dn linguam tokiponam loqu\u012b quamv\u012bs id deceret",
         "it": "parlare una lingua non Toki Pona in un ambiente in cui il Toki Pona \u00e8 pi\u00f9 appropriato",
         "tr": "Toki Pona konu\u015fman\u0131n daha uygun oldu\u011fu bir ortamda Toki Pona d\u0131\u015f\u0131nda bir dil konu\u015fmak",
         "zh_hant": "\u5728\u4e00\u500b\u66f4\u9069\u5408\u8b1b\u9053\u672c\u8a9e\u7684\u74b0\u5883\u88e1\u8b1b\u4e00\u500b\u4e0d\u662f\u9053\u672c\u8a9e\u7684\u8a9e\u8a00",
         "zh_hans": "\u5728\u4e00\u4e2a\u66f4\u9002\u5408\u8bb2\u9053\u672c\u8bed\u7684\u73af\u5883\u91cc\u8bb2\u4e00\u4e2a\u4e0d\u662f\u9053\u672c\u8bed\u7684\u8bed\u8a00",
         "fi": "puhua kielt\u00e4, joka ei ole toki pona ymp\u00e4rist\u00f6ss\u00e4, jossa toki ponan puhuminen olisi sopivampaa",
-        "hr": "pri\u010dati jezikom koji nije Toki Pona u okoli\u0161u gdje je prikladnije Toki Pona prikladniji"
+        "hr": "pri\u010dati jezikom koji nije Toki Pona u okoli\u0161u gdje je Toki Pona prikladniji"
       }
     },
     "kon": {
@@ -3120,6 +3225,7 @@
         "de": "Luft, Atem, Essenz, Geist, Seele, Bedeutung",
         "tok": "jan li ken ala lukin e kon. taso kon li ken pali li ken ante e ijo.",
         "es": "aire, respiro; esencia, esp\u00edritu; realidad oculta, agente invisible",
+        "la": "anima, aura, \u0101\u0113r, animus, s\u012bgnific\u0101ti\u014d",
         "it": "aria, respiro; essenza, spirito; realt\u00e0 nascosta, agente invisibile",
         "pt": "ar, respira\u00e7\u00e3o; ess\u00eancia, esp\u00edrito; realidade oculta, agente invis\u00edvel",
         "tr": "hava, nefes, \u00f6z, anlam, ruh; g\u00f6r\u00fcnmez",
@@ -3129,7 +3235,8 @@
         "fi": "ilma, hengitys; olemus, henki; n\u00e4kym\u00e4t\u00f6n tekij\u00e4",
         "uk": "\u043f\u043e\u0432\u0456\u0442\u0440\u044f, \u043f\u043e\u0434\u0438\u0445; \u0441\u0442\u0432\u043e\u0440\u0456\u043d\u043d\u044f, \u0434\u0443\u0445; \u0441\u0445\u043e\u0432\u0430\u043d\u0435 \u0441\u0442\u0432\u043e\u0440\u0456\u043d\u043d\u044f, \u043d\u0435\u0432\u0438\u0434\u0438\u043c\u0430 \u0434\u0456\u044e\u0447\u0430 \u0441\u0438\u043b\u0430",
         "tkl": "te ea, he m\u0101nava; he ag\u0101ga; he m\u014dni lilofia",
-        "hr": "zrak, dah; duh, du\u0161a; skrivena stvarnost, nevidljivi \u010dinitelj"
+        "haw": "ke ea, hanu, aho; ka mauli, ka wailua; ka wahi huna",
+        "hr": "zrak, dah; duh, du\u0161a; skrivena stvarnost"
       }
     },
     "konsi": {
@@ -3169,7 +3276,9 @@
         "eo": "animaco, vivo, a\u016dtonomeco; viva, vigla, dinamika; animi, vivigi",
         "de": "Lebhaftigkeit, Leben, Selbstst\u00e4ndigkeit; selbstst\u00e4ndiges Wesen, Lebewesen, Organismus; lebendig, beseelt, dynamisch, beleben, zum Leben erwacken",
         "tok": "ijo li ken tawa kepeken ona sama la ona li konwe. jan en soweli li konwe.",
+        "la": "v\u012bvus, v\u012bvere, aet\u0101s, v\u012bv\u0101cit\u0101s, anim\u0101re",
         "it": "animazione, vita, autonomia; essere autonomo, cosa vivente, organismo; vivo, animato, dinamico; animare, portare alla vita",
+        "tr": "dirilik,  hayat, otonomi; \u00f6zerk varl\u0131k, canl\u0131 \u015fey, organizma; canl\u0131, diri, dinamik; diriltmek, hayata getirmek",
         "zh_hant": "\u751f\u547d\u3001\u751f\u6c23\uff08\u751f\u52d5\u6d3b\u6f51\uff09\uff1b\u751f\u7269\u3001\u6709\u6a5f\u9ad4\uff1b\u6d3b\u8457\u7684\u3001\u6709\u751f\u547d\u7684\u3001\u7cbe\u529b\u5145\u6c9b\u7684\u3001\u5145\u6eff\u6d3b\u529b\u7684\uff1b\u4f7f\u6709\u751f\u6c23\u3001\u4f7f\u66f4\u6709\u8da3\u3001\u4f7f\u6d3b\u8457",
         "zh_hans": "\u751f\u547d\u3001\u751f\u6c14\uff08\u751f\u52a8\u6d3b\u6cfc\uff09\uff1b\u751f\u7269\u3001\u6709\u673a\u4f53\uff1b\u6d3b\u7740\u7684\u3001\u6709\u751f\u547d\u7684\u3001\u7cbe\u529b\u5145\u6c9b\u7684\u3001\u5145\u6ee1\u6d3b\u529b\u7684\uff1b\u4f7f\u6709\u751f\u6c14\u3001\u4f7f\u66f4\u6709\u8da3\u3001\u4f7f\u6d3b\u7740",
         "hr": "animitet, \u017eivot, autonomija; autonomno bi\u0107e; \u017eivo bi\u0107e, organizam; \u017eivo, animirano, dinami\u010dno; animirati, o\u017eiviti"
@@ -3227,6 +3336,7 @@
         "ur": "\u0633\u0648\u0646\u06cc\u06c1 \u0644\u0627\u0646\u06af \u06a9\u06d2 \u062a\u0648\u06a9\u06cc \u067e\u0648\u0646\u06c1 \u0644\u063a\u062a \u06a9\u06d2 \u0633\u0627\u062a\u06be \u06a9\u0686\u06be \u06a9\u0631\u0646\u06d2 \u0648\u0627\u0644\u0627",
         "pa": "\u0a38\u0a4b\u0a28\u0a3f\u0a06 \u0a32\u0a3e\u0a02\u0a17 \u0a26\u0a47 \u0a36\u0a2c\u0a26\u0a15\u0a4b\u0a36 \u0a26\u0a47 \u0a28\u0a3e\u0a33 \u0a15\u0a41\u0a1d \u0a15\u0a30\u0a28\u0a3e",
         "id": "berinteraksi dengan Kamus Toki Pona karya Sonja Lang",
+        "la": "dicti\u014dn\u0101rium linguae tokiponae",
         "it": "interagire con il Dizionario Toki Pona di Sonja Lang",
         "tr": "Sonja Lang taraf\u0131ndan yaz\u0131lm\u0131\u015f olan Toki Pona s\u00f6zl\u00fc\u011f\u00fc ile etkile\u015fimde bulunmak",
         "zh_hant": "\u8207Sonja Lang\u7684\u9053\u672c\u8a9e\u8a5e\u5178\u4e92\u52d5",
@@ -3264,6 +3374,7 @@
         "eo": "kolora, pigmenta, pentrita | ALT rilata al la GLAT-komunumo, GLAT-a",
         "de": "Farbe, farbig, Variante | LGBT+",
         "es": "color, colorido, pigmento, pintado | LGTB+ o relacionado con la comunidad LGBT+",
+        "la": "color, col\u014dr\u0101tus, vari\u0101re | LGBT+",
         "it": "colorato, pigmentato, dipinto | ALT di o relativo alla comunit\u00e0 LGBT+",
         "pt": "cheio de cor, pigmentado, pintado | ALT de ou relacionado \u00e0 comunidade LGBT+",
         "tl_l": "makulay, may kulay, pininturahan | ALT ng o nauugnay sa LGBT+ na komunidad",
@@ -3274,6 +3385,7 @@
         "fi": "v\u00e4rik\u00e4s, pigmenttinen, maalattu | ALT LGBT+ liittyv\u00e4",
         "uk": "\u0440\u0456\u0437\u043d\u043e\u043a\u043e\u043b\u044c\u043e\u0440\u043e\u0432\u0438\u0439, \u0444\u0430\u0440\u0431\u043e\u0432\u0430\u043d\u0438\u0439 | ALT \u043f\u043e\u0432'\u044f\u0437\u0430\u043d\u0438\u0438\u0439 \u0437\u0456 \u0441\u043f\u0456\u043b\u044c\u043d\u043e\u0442\u043e\u044e \u041b\u0490\u0411\u0422+",
         "tkl": "he lanu, he vali | ALT LGBT+",
+        "haw": "he waiho\u02bbolu\u02bbu, he pena | ALT e pili ana i ke kai\u0101ulu LGBT+",
         "hr": "\u0161areno, obojano | ALT od ili vezano za LGBT+ zajednicu"
       }
     },
@@ -3301,6 +3413,7 @@
         "ur": "\u06a9\u0648\u0652\u0644\u0650\u06cc\u0648 (\u0627\u0645\u0631\u06cc\u06a9\u06cc \u0627\u0646\u06af\u0631\u06cc\u0632\u06cc)",
         "pa": "\u0a15\u0a42\u0a32\u0a3f\u0a13 (\u0a05\u0a2e\u0a30\u0a40\u0a15\u0a40 \u0a05\u0a70\u0a17\u0a30\u0a47\u0a1c\u0a40)",
         "id": "boleh juga",
+        "la": "euge, euax, eja",
         "it": "[interiezione] espressione casuale di apprezzamento o riconoscimento; figo, bene, ok",
         "tr": "[\u00fcnlem] takdir veya te\u015fekk\u00fcr i\u00e7in g\u00fcndelik ifade; iyi, peki, tamam",
         "zh_hant": "[\u611f\u5606\u8a5e] \u6b23\u8cde\u6216\u77e5\u6089\u7684\u8868\u9054\uff0c\u8a9e\u6c23\u986f\u5f97\u4e0d\u5728\u4e4e\uff1b\u597d\u3001\u53ef\u4ee5\u3001\u884c",
@@ -3372,6 +3485,7 @@
         "de": "Gruppe, Gemeinschaft, Gesellschaft, Stamm",
         "tok": "ijo mute li lon poka anu jan li toki e ijo mute sama wan la ijo mute li kulupu.",
         "es": "comunidad, compa\u00f1\u00eda, grupo, naci\u00f3n, sociedad, tribu",
+        "la": "circulus, societ\u0101s, conv\u012bctus, g\u0113ns",
         "it": "comunit\u00e0, societ\u00e0, gruppo, nazione, trib\u00f9",
         "pt": "comunidade, companhia, grupo, na\u00e7\u00e3o, sociedade, tribo",
         "tl_l": "komunidad, kumpanya, grupo, bansa, lipunan, tribo",
@@ -3383,6 +3497,7 @@
         "fi": "ryhm\u00e4, yhteis\u00f6, seura, kansakunta, yhteiskunta, heimo",
         "uk": "\u0441\u043f\u0456\u043b\u044c\u043d\u043e\u0442\u0430, \u043a\u043e\u043c\u043f\u0430\u043d\u0456\u044f, \u0433\u0440\u0443\u043f\u0430, \u043d\u0430\u0446\u0456\u044f, \u0441\u0443\u0441\u043f\u0456\u043b\u044c\u0441\u0442\u0432\u043e, \u043f\u043b\u0435\u043c'\u044f",
         "tkl": "he v\u0101ega, he kamupan\u012b, he atunuku",
+        "haw": "he kai\u0101ulu, hui, he p\u016b\u02bbulu, he l\u0101hui",
         "hr": "zajednica, dru\u0161tvo, grupa, narod, pleme"
       }
     },
@@ -3413,6 +3528,7 @@
         "ur": "\u06c1\u0646\u0633\u06cc \u0645\u0630\u0627\u0642 \u060c \u06c1\u0646\u0633\u06cc",
         "pa": "\u0a39\u0a70\u0a38\u0a40, \u0a39\u0a70\u0a38\u0a40 \u0a2e\u0a1c\u0a3e\u0a15",
         "id": "tertawa, humor",
+        "la": "h\u016bmor, r\u012bsus",
         "it": "risata, ridacchiare, ridere, commedia, umorismo",
         "tr": "kahkaha, k\u0131k\u0131rdama, g\u00fclme, komedi, mizah",
         "zh_hant": "\u7b11\u3001\u7b11\u8072\u3001\u6ed1\u7a3d\u3001\u5e7d\u9ed8",
@@ -3448,8 +3564,9 @@
         "isv_l": "uho, slu\u0161ati, sly\u0161ati; byti poslu\u0161nym",
         "isv_c": "\u0443\u0445\u043e, \u0441\u043b\u0443\u0448\u0430\u0442\u0438, \u0441\u043b\u044b\u0448\u0430\u0442\u0438; \u0431\u044b\u0442\u0438 \u043f\u043e\u0441\u043b\u0443\u0448\u043d\u044b\u043c",
         "eo": "orelo; a\u016ddi, a\u016dskulti; atenti, obei",
-        "de": "h\u00f6ren, zuh\u00f6ren, lauschen, aufpassen, gehorchen",
+        "de": "h\u00f6ren, zuh\u00f6ren, lauschen, aufpassen, gehorchen; Ohr",
         "es": "oreja; o\u00edr, escuchar; poner atenci\u00f3n, obedecer",
+        "la": "aud\u012bre, auris, auscult\u0101re, attendere, p\u0101r\u0113re",
         "it": "orecchio; sentire, ascoltare; prestare attenzione, obbedire",
         "pt": "orelha; ouvir, escutar; prestar aten\u00e7\u00e3o, obedecer",
         "tl_l": "tainga; marinig, makinig; pansinin, sundin",
@@ -3460,6 +3577,7 @@
         "fi": "korva; kuulla, kuunnella; totella",
         "uk": "\u0432\u0443\u0445\u043e; \u0447\u0443\u0442\u0438, \u0441\u043b\u0443\u0445\u0430\u0442\u0438; \u0437\u0432\u0435\u0440\u0442\u0430\u0442\u0438 \u0443\u0432\u0430\u0433\u0443, \u043f\u0456\u0434\u0447\u0438\u043d\u044f\u0442\u0438\u0441\u044f",
         "tkl": "he taliga; logo, fakalogo; haga, tokaga, uhitaki",
+        "haw": "he pepeiao; lohe, ho\u02bbolono; maliu",
         "hr": "uho, \u0107uti, slu\u0161ati; slu\u0161ati pa\u017eljivo, poslu\u0161ati (nekoga)"
       }
     },
@@ -3511,6 +3629,7 @@
         "eo": "(inter la kunteksta frazparto kaj la \u0109effrazo)",
         "de": "(zwischen Kontext- und Hauptsatz)",
         "es": "(entre la frase de contexto y la frase principal)",
+        "la": "(inter articulum circumjacentium/context\u016bs et sententiam princip\u0101lem)",
         "it": "(tra la frase di contesto e la frase principale)",
         "pt": "(entre a frase de contexto e a frase principal)",
         "tl_l": "(sa pagitan ng pariralang konteksto at ng pangunahing pangungusap)",
@@ -3521,6 +3640,7 @@
         "fi": "(kontekstilauseen ja p\u00e4\u00e4lauseen v\u00e4liss\u00e4)",
         "uk": "(\u043c\u0456\u0436 \u043a\u043e\u043d\u0442\u0435\u043a\u0441\u0442\u043d\u043e\u044e \u0444\u0440\u0430\u0437\u043e\u044e \u0456 \u043e\u0441\u043d\u043e\u0432\u043d\u0438\u043c \u0440\u0435\u0447\u0435\u043d\u043d\u044f\u043c)",
         "tkl": "(ki te v\u0101 o n\u0101 kupu m\u014d te t\u016blaga ma te toega o te fuaikupu)",
+        "haw": "(i waena o ka m\u0101mala\u02bb\u014dlelo p\u014d\u02bbaiapili me ka m\u0101mala\u02bb\u014dlelo nui)",
         "hr": "(izme\u0111u kontekstualne fraze i glavne re\u010denice)"
       }
     },
@@ -3556,6 +3676,7 @@
         "ur": "\u0644\u06cc\u0646\u0627\u060c \u067e\u06a9\u0691\u0646\u0627\u060c \u0686\u06be\u06cc\u0646 \u0644\u06cc\u0646\u0627\u060c \u0645\u0644\u0646\u0627",
         "pa": "\u0a32\u0a48\u0a23\u0a3e, \u0a1b\u0a3f\u0a71\u0a28 \u0a32\u0a48\u0a23\u0a3e, \u0a2b\u0a5c\u0a28\u0a3e, \u0a2e\u0a3f\u0a32\u0a23\u0a3e",
         "id": "mengambil, merebut, menangkap, menerima, mendapatkan",
+        "la": "capere, rapere, s\u016bmere, accipere",
         "it": "prendere, impadronirsi, catturare, ricevere, ottenere",
         "tr": "almak, ele ge\u00e7irmek, yakalamak, teslim almak, edinmek",
         "zh_hant": "\u62ff\u8d70\u3001\u53d6\u8d70\u3001\u6293\u4f4f\u3001\u63a5\u4f4f\u3001\u63a5\u6536\u3001\u5f97\u5230",
@@ -3593,6 +3714,7 @@
         "eo": "dormanta, ripozanta",
         "de": "schlafen, (aus)ruhen",
         "es": "dormido, descansando",
+        "la": "dorm\u012bre, qui\u0113scere, c\u016bbare",
         "it": "dormire, riposare",
         "pt": "dormir, descansar",
         "tl_l": "natutulog, nagpapahinga",
@@ -3604,6 +3726,7 @@
         "fi": "nukkuva, lep\u00e4\u00e4v\u00e4",
         "uk": "\u0441\u043f\u0430\u0442\u0438, \u0432\u0456\u0434\u043f\u043e\u0447\u0438\u0432\u0430\u0442\u0438",
         "tkl": "moe, m\u0101l\u014dl\u014d",
+        "haw": "moe, maha, malolo",
         "hr": "spavati, odmarati"
       }
     },
@@ -3637,6 +3760,7 @@
         "de": "blau, gr\u00fcn, t\u00fcrkis",
         "tok": "laso li kule telo.",
         "es": "azul, verde",
+        "la": "caerulus, venetus, viridis, prasinus",
         "it": "blu, verde",
         "pt": "azul, verde",
         "tl_l": "bughaw, luntian, berde",
@@ -3647,7 +3771,9 @@
         "fi": "sininen, vihre\u00e4",
         "uk": "\u0441\u0438\u043d\u0456\u0439, \u0431\u043b\u0430\u043a\u0438\u0442\u043d\u0438\u0439, \u0437\u0435\u043b\u0435\u043d\u0438\u0439",
         "tkl": "lanu moana, lanu meamata",
-        "hr": "plavo, zeleno"
+        "haw": "pol\u016b, ma\u02bboma\u02bbo",
+        "hr": "plavo, zeleno",
+        "cy": "glas, gwyrdd"
       }
     },
     "lawa": {
@@ -3680,6 +3806,7 @@
         "de": "Kopf, Verstand, leiten, steuern, planen, besitzen, herrschen, regeln",
         "tok": "kulupu la lawa li ijo ni: ona li wawa tawa ijo ante li ken tawa e ijo ni.",
         "es": "cabeza, mente; controlar, dirigir, guiar, poseer (algo), planear, regular, norma, gobernar",
+        "la": "caput, m\u0113ns, regere, ducere, administr\u0101re, ten\u0113re, gubern\u0101re, m\u014dl\u012br\u012b, moder\u0101r\u012b",
         "it": "testa, mente; controllare, dirigere, guidare, condurre, possedere, pianificare, regolare, governare",
         "pt": "cabe\u00e7a, mente; controlar, direto, guiar, conduzir, possuir, planejar, regular, governar",
         "tl_l": "ulo, isip; kontrolin, idirekta, gabayan, pamunuan, pagmamay-ari, magplano, umayos, mamuno",
@@ -3690,6 +3817,7 @@
         "fi": "p\u00e4\u00e4, mieli; hallita, ohjata, johtaa, omistaa, suunnitella, s\u00e4\u00e4dell\u00e4",
         "uk": "\u0433\u043e\u043b\u043e\u0432\u0430, \u0440\u043e\u0437\u0443\u043c; \u043a\u043e\u043d\u0442\u0440\u043e\u043b\u044e\u0432\u0430\u0442\u0438, \u0432\u043a\u0430\u0437\u0443\u0432\u0430\u0442\u0438, \u0432\u0435\u0441\u0442\u0438, \u0440\u0435\u0433\u0443\u043b\u044e\u0432\u0430\u0442\u0438, \u043f\u043b\u0430\u043d\u0443\u0432\u0430\u0442\u0438",
         "tkl": "he ulu, he m\u0101faufau; pule, fakaali, fakahino, poloaki",
+        "haw": "he po\u02bbo, ka waihona no\u02bbono\u02bbo; k\u0101ohi, alaka\u02bbi, ho\u02bboponopono, noho ali\u02bbi",
         "hr": "glava, um; upravljati, usmjeravati, voditi, planirati, vladati"
       }
     },
@@ -3728,6 +3856,7 @@
         "ur": "\u0633\u06cc\u0691\u06be\u06cc\u0627\u06ba \u060c \u0645\u0631\u0628\u0639 \u060c \u0628\u0644\u0627\u06a9 \u060c \u0645\u06a9\u0639\u0628\u060c \u0688\u0628\u0651\u0627",
         "pa": "\u0a2a\u0a4c\u0a5c\u0a40, \u0a35\u0a30\u0a17, \u0a21\u0a71\u0a2c\u0a3e",
         "id": "tangga, persegi, balok, kubus",
+        "la": "\u0101lea, taxillus, quadra",
         "it": "scale, quadrato, blocco, angolo, cubo",
         "tr": "basamak, kare, blok, k\u00f6\u015fe, k\u00fcp",
         "zh_hant": "\u6a13\u68af\u3001\u6b63\u65b9\u5f62\u3001\u65b9\u584a\u3001\u89d2\uff08\u89d2\u843d\uff09\u3001\u7acb\u65b9\u9ad4",
@@ -3765,6 +3894,7 @@
         "eo": "\u015dtofo, vesta\u0135o, teksa\u0135o; kovra\u0135o, tavolo da privateco",
         "de": "Stoff, Kleidung, Gewebe, Struktur, bedecken, Abdeckung",
         "es": "tela, ropa, textil; cubrir(se), capa de privacidad",
+        "la": "vestis, v\u0113l\u0101men, textum, tegere, pallium, t\u0113gmen",
         "it": "panno, abbigliamento, tessuto; copertura, strato di privacy",
         "pt": "pano, roupa, tecido, t\u00eaxtil; cobertura, camada de privacidade",
         "tl_l": "tela, damit; takip, patong ng pagsasarinlan",
@@ -3775,6 +3905,7 @@
         "fi": "kangas, vaate, tekstiili; peite, yksityisyyden kerros",
         "uk": "\u043f\u043e\u043b\u043e\u0442\u043d\u043e, \u043e\u0434\u044f\u0433, \u0442\u043a\u0430\u043d\u0438\u043d\u0430, \u0442\u0435\u043a\u0441\u0442\u0438\u043b\u044c; \u043a\u0440\u0438\u0448\u043a\u0430, \u0448\u0430\u0440 \u043f\u0440\u0438\u0432\u0430\u0442\u043d\u043e\u0441\u0442\u0438",
         "tkl": "he kie, he kofu, he lavalava; ufiufi, p\u016blou",
+        "haw": "lole, \u02bba\u02bbahu, he mea ulana \u02bbia; uhi, pilikino",
         "hr": "tkanina, odje\u0107a, tekstil; pokriva\u010d, sloj privatnosti"
       }
     },
@@ -3841,6 +3972,7 @@
         "eo": "malvarma; nekuirita, kruda",
         "de": "kalt, k\u00fchl; ungekocht, roh",
         "es": "frio, fresco; crudo",
+        "la": "fr\u012bgidus, algidus, cr\u016bdus",
         "it": "freddo, fresco; non cotto, crudo",
         "pt": "frio, fresco; cru",
         "tl_l": "malamig; hilaw",
@@ -3852,6 +3984,7 @@
         "fi": "kylm\u00e4, viile\u00e4; kypsent\u00e4m\u00e4t\u00f6n, raaka",
         "uk": "\u0445\u043e\u043b\u043e\u0434\u043d\u0438\u0439, \u043f\u0440\u043e\u0445\u043e\u043b\u043e\u0434\u043d\u0438\u0439, \u0441\u0438\u0440\u0438\u0439, \u043d\u0435\u043f\u0440\u0438\u0433\u043e\u0442\u043e\u0432\u0443\u0432\u0430\u043d\u0438\u0439",
         "tkl": "m\u0101l\u016bl\u016b, makalili; mata, ota",
+        "haw": "anu, hu\u02bbihu\u02bbi",
         "hr": "hladno; nepe\u010deno, sirovo"
       }
     },
@@ -3879,6 +4012,7 @@
         "eo": "(inter ajna subjekto krom nura \u201cmi\u201d a\u016d nura \u201csina\u201d kaj ties verbo; anka\u016d por enkonduki novan verbon de la sama subjekto)",
         "de": "(zwischen einem beliebigen Subjekt au\u00dfer \"mi\" oder \"sina\" und seinem Verb; auch zur Einf\u00fchrung eines neuen Verbs f\u00fcr dasselbe Subjekt)",
         "es": "(entre cualquier sujeto, excepto mi o sina, y su verbo; tambi\u00e9n introduce un verbo nuevo para el mismo sujeto)",
+        "la": "(ante praedic\u0101tum [verbum agentem], nis\u012b subjectum praec\u0113dens est \"mi\" aut \"sina\")",
         "it": "(tra qualsiasi soggetto tranne mi da solo o sina da solo e il suo verbo; anche per introdurre un nuovo verbo per lo stesso soggetto)",
         "pt": "(entre qualquer sujeito exceto s\u00f3 mi ou s\u00f3 sina e o seu verbo; tamb\u00e9m para introduzir um novo verbo ao mesmo sujeito)",
         "ro": "(\u00eentre orice subiec cu excep\u021blie mi singiru \u0219i sina singur \u0219i verburile lor; se poate folosi \u0219i pentru a \u00eentroduce un verb nou pentru acela\u0219i subiect)",
@@ -3888,7 +4022,8 @@
         "zh_hans": "\uff08\u7f6e\u4e8e\u4efb\u4f55\u4e3b\u8bed\u53ca\u5176\u52a8\u8bcd\u4e4b\u95f4\uff0c\u4ec5\u662fmi\u6216\u4ec5\u662fsina\u9664\u5916\uff1b\u4e5f\u7528\u4e8e\u5728\u540c\u4e00\u4e2a\u4e3b\u8bed\u4e0a\u5f15\u5165\u65b0\u7684\u52a8\u8bcd\uff09",
         "fi": "(subjektin (paitsi mi, sina) ja verbin v\u00e4lill\u00e4; esittelee uuden verbin samalle subjektille)",
         "uk": "(\u043c\u0456\u0436 \u0431\u0443\u0434\u044c-\u044f\u043a\u0438\u043c \u043f\u0456\u0434\u043c\u0435\u0442\u043e\u043c \u044f\u043a\u0438\u0439 \u0432\u0456\u0434\u0440\u0456\u0437\u043d\u044f\u0454\u0442\u044c\u0441\u044f \u0432\u0456\u0434 mi \u0447\u0438 sina \u043d\u0430\u043e\u0434\u0438\u043d\u0446\u0456 \u0456 \u043f\u0440\u0438\u0441\u0443\u0434\u043a\u043e\u043c; \u0442\u0430\u043a\u043e\u0436 \u043c\u0456\u0436 \u043e\u0434\u043d\u043e\u0440\u0456\u0434\u043d\u0438\u043c\u0438 \u043f\u0440\u0438\u0441\u0443\u0434\u043a\u0430\u043c\u0438)",
-        "tkl": "(ki te v\u0101 o te mea, e faiga, (kae h\u0113 fakaaog\u0101 m\u014d \u201cmi\u201d tautahi pe m\u014d \u201csina\u201d tautahi) ma te veape; ke fakaaliali foki te veape f\u014du i te fuaikupu, kua t\u016b ai t\u0113tahi veape)",
+        "tkl": "(ki te v\u0101 o te mea, e fai, (kae h\u0113 fakaaog\u0101 m\u014d \u201cmi\u201d tautahi pe m\u014d \u201csina\u201d tautahi) ma te veape; ke fakaaliali veape f\u014du foki i te fuaikupu, kua t\u016b ai t\u0113tahi veape)",
+        "haw": "(i waena o ke kumu\u02bb\u014dlelo (koe \u201cmi\u201d wale, \u0101 i \u02bbole \u201csina\u201d wale) me ka ha\u02bbina; e ho\u02bbopuka ha\u02bbina hou ho\u02bbi i ka m\u0101mala\u02bb\u014dlelo, e k\u016b \u02bb\u0113 ai kekahi ha\u02bbina)",
         "hr": "(izme\u0111u subjekta (osim \"mi\" i \"sina\") i predikata; dodavanje drugog predikata istom subjektu)"
       }
     },
@@ -3935,6 +4070,7 @@
         "ur": "\u0627\u0646\u062c\u0645\u0646 \u060c \u06af\u0631\u0648\u067e \u060c \u0645\u062c\u0645\u0648\u0639\u0647 \u060c \u062a\u0631\u062a\u06cc\u0628 \u060c \u067e\u06cc\u062f\u0627\u0648\u0627\u0631\u060c \u0627\u067e\u062c",
         "pa": "\u0a17\u0a41\u0a71\u0a1f, \u0a15\u0a4d\u0a30\u0a2e, \u0a09\u0a2a\u0a1c",
         "id": "koleksi, kumpulan, pameran hewan liar, susunan, setangan penuh, panen",
+        "la": "coll\u0113cti\u014d",
         "it": "collezione, assortimento, serraglio, disposizione, manciata, raccolta; sette",
         "tr": "koleksiyon, derleme, dizilim, dizi, s\u0131ralama, s\u0131n\u0131fland\u0131rma, seri; yedi (say\u0131)",
         "zh_hant": "\u96c6\u5408\u3001\u7d44\u5408\u3001\u5404\u5f0f\u5404\u6a23\u7684\u4e8b\u7269\u3001\u6578\u91cf\u8c50\u5bcc\u7684\u4e8b\u7269\uff1b\u4e03",
@@ -3971,6 +4107,8 @@
         "isv_c": "\u043c\u0430\u043b\u044b, \u043a\u0440\u0430\u0442\u043a\u044b; \u043c\u0430\u043b\u043e; \u043d\u0435\u043c\u043d\u043e\u0433\u043e; \u043c\u043b\u0430\u0434\u044b",
         "eo": "malgranda, malalta; malmulta; iomete; juna",
         "de": "klein, wenig, kurz, bisschen, jung",
+        "es": "chico, peque\u00f1o, corto; poco; un poco; joven",
+        "la": "parvus, tenuis, brevis, paulum, aliquantulus",
         "it": "poco, piccolo, breve; pochi; un po'; giovane",
         "pt": "pequeno, baixo, curto; poucos; (um) pouco; novo, jovem",
         "tl_l": "maliit, maikli; kakaunti; konti; bata pa",
@@ -3981,6 +4119,7 @@
         "zh_hans": "\u5c0f\u7684\u3001\u77ee\u7684\uff1b\u5f88\u5c11\u3001\u4e0d\u591a\uff1b\u5c11\u8bb8\u3001\u4e00\u70b9\uff1b\u5e74\u8f7b\u7684\u3001\u5e74\u5e7c\u7684",
         "fi": "pieni, lyhyt; muutama; v\u00e4h\u00e4n, hieman; nuori",
         "uk": "\u043c\u0430\u043b\u0435\u043d\u044c\u043a\u0438\u0439, \u043a\u043e\u0440\u043e\u0442\u043a\u0438\u0439; \u043c\u0430\u043b\u043e; \u043d\u0435\u0431\u0430\u0433\u0430\u0442\u043e; \u043c\u043e\u043b\u043e\u0434\u0438\u0439",
+        "haw": "iki, li\u02bbili\u02bbi, p\u014dkole; \u02bb\u014dpio, he p\u016bnua",
         "hr": "malo, sitno, nisko; malo (ne\u010dega); mlado"
       }
     },
@@ -4013,6 +4152,8 @@
         "isv_c": "\u043d\u0454\u0447\u0442\u043e \u0434\u043e\u043b\u0433\u043e \u0438 \u0444\u043b\u0435\u043a\u0441\u0438\u0431\u0438\u043b\u043d\u043e; \u043c\u043e\u0442\u0432\u0443\u0437, \u0432\u0440\u0432\u043a\u0430, \u0448\u043d\u0443\u0440, \u0432\u043b\u0430\u0441, \u043d\u0438\u0442, \u043f\u0440\u0435\u0434\u0436\u0430 | ALT \u043b\u0438\u043d\u0438\u0458\u0430, \u0441\u0432\u0435\u0437",
         "eo": "io longa kaj fleksebla; kordo, haro, \u015dnuro, fadeno | ALT linio, konekto",
         "de": "langes, bewegliches Ding; Schnur, Seil, Haar, Faden, Band; Linie, Verbindung",
+        "es": "cosa larga y flexible; cuerda, cabello, vello, hilo | ALT l\u00ednea, connecci\u00f3n",
+        "la": "l\u012bnum, f\u016bnis, f\u012blum, vinculum, capillus; l\u012bnea, conj\u016bncti\u014d; [r\u0113s longa m\u014dbilisque]",
         "it": "cosa lunga e flessibile; corda, capelli, corda, filo, filato | ALT linea, connessione",
         "pt": "coisa longa e flex\u00edvel; cord\u00e3o, cabelo, corda, fio | ALT linha, conex\u00e3o",
         "tl_l": "mahaba at nababaluktot na bagay; kurdon, buhok, lubid, sinulid | ALT linya, koneksyon",
@@ -4022,6 +4163,7 @@
         "zh_hant": "\u53c8\u9577\u53c8\u53ef\u5f4e\u66f2\u7684\u7269\u9ad4\uff1b\u7d72\u3001\u7dda\u3001\u7e69\u3001\u982d\u9aee\u3001\u6bdb\u7dda | ALT \u806f\u7e6b\u3001\u95dc\u4fc2",
         "zh_hans": "\u53c8\u957f\u53c8\u53ef\u5f2f\u66f2\u7684\u7269\u4f53\uff1b\u4e1d\u3001\u7ebf\u3001\u7ef3\u3001\u5934\u53d1\u3001\u6bdb\u7ebf | ALT \u8054\u7cfb\u3001\u5173\u7cfb",
         "fi": "pitk\u00e4 ja joustava asia; naru, hius, k\u00f6ysi, lanka | ALT linja, yhteys",
+        "haw": "he mea loa, \u02bbolu ho\u02bbi; he kaula, he lauoho, he hulu, he lopi | ALT he laina, he pili",
         "hr": "dug i savitljiv predmet; kabel, kosa, u\u017ee, konac | ALT crta, veza"
       }
     },
@@ -4053,6 +4195,7 @@
         "ur": "\u0646\u06cc\u0679\u0648\u0631\u06a9 \u060c \u0627\u0646\u0679\u0631\u0646\u06cc\u0679\u060c \u0646\u06cc\u0679 \u060c (\u0628\u0627\u0644) \u0686\u0648\u0679\u06cc \u060c \u062c\u0627\u0644\u060c \u062c\u0627\u0644\u06cc",
         "pa": "\u0a28\u0a47\u0a1f\u0a35\u0a30\u0a15, \u0a07\u0a70\u0a1f\u0a30\u0a28\u0a47\u0a1f; \u0a1c\u0a3e\u0a32, (\u0a35\u0a3e\u0a32\u0a3e\u0a02 \u0a26\u0a40) \u0a1a\u0a4b\u0a1f\u0a40",
         "id": "jejaring, internet, koneksi; memintal, mengepang, menganyam",
+        "la": "interr\u0113te",
         "it": "rete, internet, connessione; tessere, intrecciare, interconnettere",
         "tr": "a\u011f, internet, ba\u011flant\u0131; dokuma, \u00f6rg\u00fc",
         "zh_hant": "\u7db2\u8def\u3001\u4e92\u806f\u7db2\u3001\u9023\u63a5\uff1b\u7de8\u3001\u7de8\u7e54\u3001\u7de8\u7d50\u3001\u4ea4\u932f",
@@ -4089,6 +4232,8 @@
         "isv_c": "\u043d\u0454\u0447\u0442\u043e \u043f\u043b\u043e\u0441\u043a\u043e; \u043a\u043d\u0438\u0433\u0430, \u0434\u043e\u043a\u0443\u043c\u0435\u043d\u0442, \u043a\u0430\u0440\u0442\u0430, \u043f\u0430\u043f\u0438\u0440, \u0437\u0430\u043f\u0438\u0441, \u0432\u0435\u0431\u0441\u0430\u0458\u0442",
         "eo": "plata objekto; libro, dokumento, karto, papero, registro, retejo",
         "de": "flaches Ding, Buch, Dokument, Karte, Papier, Webseite, Blatt",
+        "es": "objeto plano; libro, documento, tarjeta, papel, registro, sitio web",
+        "la": "liber, tabella, charta, folium, p\u0101gina, scida; [r\u0113s pl\u0101na]",
         "it": "oggetto piatto; libro, documento, carta, carta, record, sito web",
         "pt": "objeto plano; livro, documento, cart\u00e3o, papel, registro, website",
         "tl_l": "patag na bagay; aklat, dokumento, kard, papel, talaan, pahinarya",
@@ -4098,6 +4243,7 @@
         "zh_hant": "\u5e73\u7684\u7269\u9ad4\uff1b\u66f8\u3001\u6587\u4ef6\u3001\u5361\u7247\u3001\u7d19\u5f35\u3001\u8a18\u9304\u3001\u7db2\u7ad9",
         "zh_hans": "\u5e73\u7684\u7269\u4f53\uff1b\u4e66\u3001\u6587\u4ef6\u3001\u5361\u7247\u3001\u7eb8\u5f20\u3001\u8bb0\u5f55\u3001\u7f51\u7ad9",
         "fi": "tasainen esine; kirja, asiakirja, kortti, paperi, levy, lippu, verkkosivusto",
+        "haw": "he mea papa; he puke, he palapala, he pepa, he kahua p\u016bnaewele",
         "hr": "ravan predmet; knjiga, dokument, papir, zapis, web stranica"
       }
     },
@@ -4158,6 +4304,7 @@
         "de": "rot",
         "tok": "kule uta, kule pi telo soweli.",
         "es": "rojo",
+        "la": "ruber",
         "it": "rosso, rossastro",
         "pt": "vermelho, avermelhado, encarnado",
         "tl_l": "pula, mamula-mula",
@@ -4168,6 +4315,7 @@
         "zh_hant": "\u7d05\u8272\u7684\u3001\u984f\u8272\u504f\u7d05\u7684",
         "zh_hans": "\u7ea2\u8272\u7684\u3001\u989c\u8272\u504f\u7ea2\u7684",
         "fi": "punainen, punertava",
+        "haw": "\u02bbula",
         "hr": "crveno, crvenkasto"
       }
     },
@@ -4194,6 +4342,7 @@
         "eo": "brako a\u016d kruro, membro",
         "de": "Glied",
         "tok": "luka anu noka",
+        "la": "artus",
         "it": "arto",
         "tr": "uzuv",
         "he": "\u05d2\u05e4\u05d4",
@@ -4301,6 +4450,7 @@
         "de": "in, an, bei, auf, existieren, echt, richtig | (Zustimmung)",
         "tok": "ijo li poka ma ijo anu li sewi ma ijo anu monsi ma ijo anu li insa ma ijo la ni li lon ma ona.",
         "es": "alocado en, presente en, real, verdad, existente| ALT (respuesta afirmativa)",
+        "la": "in, apud, d\u0113, esse, existentia, v\u0113rus | (affirm\u0101ti\u014d)",
         "it": "situato in, presente in, reale, vero, esistente | ALT (risposta affermativa)",
         "pt": "localizado em, presente em, real, verdadeiro, existente | ALT (resposta afirmativa)",
         "tl_l": "matatagpuan sa, kasalukuyan sa, totoo, tunay, umiiral | ALT (nagpapatibay na tugon)",
@@ -4310,6 +4460,7 @@
         "zh_hant": "\u5728\u3001\u4f4d\u65bc\u3001\u771f\u5be6\u7684\u3001\u771f\u6b63\u7684\u3001\u5b58\u5728\u7684 | ALT \uff08\u80af\u5b9a\u56de\u7b54\uff09",
         "zh_hans": "\u5728\u3001\u4f4d\u4e8e\u3001\u771f\u5b9e\u7684\u3001\u771f\u6b63\u7684\u3001\u5b58\u5728\u7684 | ALT \uff08\u80af\u5b9a\u56de\u7b54\uff09",
         "fi": "sijaita, paikalla, todellinen, tosi, olemassaoleva | ALT (my\u00f6nt\u00e4v\u00e4 vastaus)",
+        "haw": "aia i, \u02bboia\u02bbi\u02bbo | ALT (he pane h\u014d\u02bboia)",
         "hr": "kod, pri, nalaziti se (negdje), stvarno, istinito, postoje\u0107e | ALT (potvrda)"
       }
     },
@@ -4333,6 +4484,7 @@
         "eo": "(vorto rezervita por estonteca uzo de Sonja Lang)",
         "de": "(f\u00fcr zuk\u00fcnftige Verwendung von Sonja Lang reserviertes Wort)",
         "tok": "jan Sonja li wile e ni: nimi ni li awen open tawa lipu sin lon tenpo kama.",
+        "la": "(verbum \u0101 Sonja Lang reserv\u0101tum pr\u014d \u016bs\u016b fut\u016bro)",
         "it": "(parola riservata per uso futuro da Sonja Lang)",
         "tr": "(gelecekte kullanma amac\u0131yla Sonja Lang taraf\u0131ndan reserve edilmi\u015f bir kelime)",
         "zh_hant": "\uff08Sonja Lang\u4fdd\u7559\u55ae\u8a5e\uff09",
@@ -4372,6 +4524,7 @@
         "de": "Arm, Hand, Tastorgan | f\u00fcnf",
         "tok": "luka li noka pi sewi sijelo.",
         "es": "brazo, mano, \u00f3rgano t\u00e1ctil; cinco| ALT tocar/sentir f\u00edsicamente, interactuar, presionar",
+        "la": "manus, bracchium | qu\u012bnque",
         "it": "braccio, mano, organo tattile; cinque | ALT toccare/sentire fisicamente, interagire, premere",
         "pt": "bra\u00e7o, m\u00e3o, \u00f3rg\u00e3o t\u00e1til; cinco | ALT tocar/sentir fisicamente, interagir, pressionar",
         "tl_l": "braso, kamay, pandama; lima | ALT hawakan/pakiramdam pisikal, makipag-ugnayan, pindutin",
@@ -4381,6 +4534,7 @@
         "zh_hant": "\u624b\u3001\u624b\u81c2\uff0c\u89f8\u89ba\u5668\u5b98\uff1b\u4e94 | ALT \u78b0\u3001\u89f8\u6478\u3001\u4e92\u52d5\u3001\u6309\u3001\u58d3",
         "zh_hans": "\u624b\u3001\u624b\u81c2\uff0c\u89e6\u89c9\u5668\u5b98\uff1b\u4e94 | ALT \u78b0\u3001\u89e6\u6478\u3001\u4e92\u52a8\u3001\u6309\u3001\u538b",
         "fi": "k\u00e4si, k\u00e4sivarsi, tuntoelin; viisi | ALT tuntea fyysisesti, vuorovaikuttaa, painaa",
+        "haw": "he lima; \u02bbelima | ALT p\u0101, h\u0101h\u0101, kaomi",
         "hr": "ruka, dodirni organ; pet | ALT dirati, interaktirati, pritisnuti"
       }
     },
@@ -4417,6 +4571,7 @@
         "isv_c": "\u043e\u043a\u043e, \u0433\u043b\u0435\u0434\u0454\u0442\u0438, \u0432\u0438\u0434\u0454\u0442\u0438, \u0447\u0438\u0442\u0430\u0442\u0438, \u0448\u0443\u043a\u0430\u0442\u0438; (pv.) \u043f\u0440\u043e\u0431\u043e\u0432\u0430\u0442\u0438, \u043f\u043e\u0441\u0442\u0430\u0440\u0430\u0442\u0438 \u0441\u0435",
         "eo": "okulo; rigardi, vidi, ekzameni, observi, legi, spekti; ser\u0109i; (a.v.) provi",
         "de": "sehen, schauen, beobachten, Auge, entdecken, lesen, anschauen, suchen | (pv.) versuchen",
+        "la": "vid\u0113re, cernere, specere, observ\u0101re, oculus, legere, quaerere, reper\u012bre | (pv.) c\u014dn\u0101r\u012b",
         "it": "occhio; guardare, vedere, esaminare, osservare, leggere, guardare; cercare; (pv.) provare a",
         "pt": "olho; olhar a, ver, examinar, observar, ler, assistir; procurar, buscar; (pv.) tentar",
         "tl_l": "mata; tingnan, suriin, pagmasdan, basahin, panoorin; hanapin; (pv.) subukan",
@@ -4426,6 +4581,7 @@
         "zh_hant": "\u773c\u775b\uff1b\u770b\u898b\u3001\u89c0\u5bdf\u3001\u6aa2\u67e5\u3001\u6ce8\u8996\u3001\u95b1\u8b80\uff1b\u641c\u5c0b\uff0c\u5c0b\u6c42\uff1b(pv.) \u5617\u8a66\u3001\u8a66\u5716",
         "zh_hans": "\u773c\u775b\uff1b\u770b\u89c1\u3001\u89c2\u5bdf\u3001\u68c0\u67e5\u3001\u6ce8\u89c6\u3001\u9605\u8bfb\uff1b\u641c\u5bfb\uff0c\u5bfb\u6c42\uff1b(pv.) \u5c1d\u8bd5\u3001\u8bd5\u56fe",
         "fi": "silm\u00e4; katsoa, n\u00e4hd\u00e4, tutkia, tarkkailla, lukea, katsella; etsi\u00e4; (pv.) yritt\u00e4\u00e4",
+        "haw": "he maka; n\u0101n\u0101, kilo, \u02bbike, h\u0101kiu, heluhelu; \u02bbimi; (pv.) ho\u02bboikaika",
         "hr": "oko, gledati, vidjeti, prou\u010diti, promotriti, \u010ditati; tra\u017eiti; (pv.) poku\u0161ati"
       }
     },
@@ -4458,6 +4614,7 @@
         "eo": "pordo, truo, korpa aperturo, fenestro",
         "de": "T\u00fcr, Loch, \u00d6ffnung, Fenster, H\u00f6hle",
         "tok": "kipisi ijo li weka la, kipisi ni li lupa.",
+        "la": "porta, for\u0101men, fenestra, hi\u0101tus, specus",
         "it": "porta, foro, orifizio, finestra",
         "pt": "porta, buraco, orif\u00edcio, janela",
         "tl_l": "pinto, butas, pasuk\u00e1n, durungawan",
@@ -4467,6 +4624,7 @@
         "zh_hant": "\u9580\u3001\u6d1e\u3001\u5b54\u3001\u5751\u3001\u7a74\u3001\u7a97",
         "zh_hans": "\u95e8\u3001\u6d1e\u3001\u5b54\u3001\u5751\u3001\u7a74\u3001\u7a97",
         "fi": "ovi, reik\u00e4, aukko, ikkuna",
+        "haw": "he puka, he lua, he waha, he pukaaniani",
         "hr": "vrata, rupa, otvor, prozor"
       }
     },
@@ -4498,6 +4656,7 @@
         "isv_c": "\u0437\u0435\u043c\u0458\u0430, \u043a\u0440\u0430\u0458\u0438\u043d\u0430; \u043d\u0435 \u0432\u043d\u0443\u0442\u0440\u0438, \u0441\u0432\u0454\u0442, \u0432\u0435\u0441 \u0441\u0432\u0454\u0442; \u043a\u0440\u0430\u0458, \u0434\u0440\u0436\u0430\u0432\u0430, \u0442\u0435\u0440\u0438\u0442\u043e\u0440\u0438\u0458\u0430; \u0437\u0435\u043c\u0458\u0430 (\u0441\u0443\u0431\u0441\u0442\u0430\u043d\u0446\u0438\u0458\u0430)",
         "eo": "tero, terpeco; eksterdoma sub\u0109iela loko, mondo; lando, \u015dtato, teritorio; tero (substanco)",
         "de": "Erde, Land, Welt, Boden, Grund, Gebiet",
+        "la": "terra, humus, solum, orbis, mundus, locus, regi\u014d",
         "it": "terra; all'aperto, mondo; paese, territorio; suolo",
         "pt": "terra, terreno; ar livre, mundo; pa\u00eds, territ\u00f3rio; solo",
         "tl_l": "lupain, lupa; sa labas, daigdig; bansa, teritoryo; lupa, dumi",
@@ -4507,6 +4666,7 @@
         "zh_hant": "\u571f\u3001\u5730\uff1b\u91ce\u5916\u3001\u6236\u5916\u74b0\u5883\u3001\u4e16\u754c\uff1b\u570b\u5bb6\u3001\u9818\u571f\u3001\u570b\u571f\uff1b\u571f\u58e4",
         "zh_hans": "\u571f\u3001\u5730\uff1b\u91ce\u5916\u3001\u6237\u5916\u73af\u5883\u3001\u4e16\u754c\uff1b\u56fd\u5bb6\u3001\u9886\u571f\u3001\u56fd\u571f\uff1b\u571f\u58e4",
         "fi": "maa; ulkona, maailma; valtio, alue; maaper\u00e4",
+        "haw": "he honua, he \u02bb\u0101ina; he ao; he lepo",
         "hr": "zemlja; svijet; dr\u017eava, teritorij"
       }
     },
@@ -4543,12 +4703,13 @@
         "ur": "\u0628\u0648\u0691\u06be\u0627\u060c \u0628\u0632\u0631\u06af \u060c \u0642\u062f\u06cc\u0645\u06cc",
         "pa": "\u0a2a\u0a41\u0a30\u0a3e\u0a23\u0a3e, \u0a2c\u0a41\u0a71\u0a22\u0a3e",
         "id": "tua, berumur, kuno",
+        "la": "vetus, ant\u012bquus, senex",
         "it": "vecchio, invecchiato, antico",
         "tr": "eski, ya\u015fl\u0131, antik",
         "zh_hant": "\u8001\u7684\u3001\u5e74\u8001\u7684\u3001\u53e4\u4ee3\u7684\u3001\u53e4\u8001\u7684",
         "zh_hans": "\u8001\u7684\u3001\u5e74\u8001\u7684\u3001\u53e4\u4ee3\u7684\u3001\u53e4\u8001\u7684",
         "fi": "vanha, ik\u00e4\u00e4ntynyt, muinainen",
-        "hr": "staro, drevno, ostareno"
+        "hr": "staro, drevno, daleka pro\u0161lost"
       }
     },
     "mama": {
@@ -4579,6 +4740,7 @@
         "isv_c": "\u0440\u043e\u0434\u0438\u0442\u0435\u0459, \u043f\u0440\u0454\u0434\u043e\u043a; \u0442\u0432\u043e\u0440\u0438\u0442\u0435\u0459, \u0442\u0432\u043e\u0440\u0435\u0446; \u0434\u0431\u0430\u0442\u0435\u0459",
         "eo": "patr(in)o, praulo; kreinto, iniciatinto, fondinto; prizorganto, bontenanto",
         "de": "Elternteil, Ahn; Sch\u00f6pfer, Ursprung",
+        "la": "par\u0113ns, atavus, or\u012bg\u014d, auctor",
         "it": "genitore, antenato; creatore; custode, sostenitore",
         "pt": "pais, ancestral; criador, originador; cuidador, mantenedor",
         "tl_l": "magulang, ninuno; tagalalang, tagalikha; tagapag-alaga, tagapagtaguyod",
@@ -4588,6 +4750,7 @@
         "zh_hant": "\u7236\u89aa\u3001\u6bcd\u89aa\u3001\u7956\u5148\uff1b\u5275\u9020\u8005\u3001\u5275\u4f5c\u8005\u3001\u767c\u660e\u8005\uff1b\u76e3\u8b77\u4eba\u3001\u8b77\u7406\u4eba\u54e1",
         "zh_hans": "\u7236\u4eb2\u3001\u6bcd\u4eb2\u3001\u7956\u5148\uff1b\u521b\u9020\u8005\u3001\u521b\u4f5c\u8005\u3001\u53d1\u660e\u8005\uff1b\u76d1\u62a4\u4eba\u3001\u62a4\u7406\u4eba\u5458",
         "fi": "vanhempi, esi-is\u00e4; luoja, alullepanija; huoltaja, yll\u00e4pit\u00e4j\u00e4",
+        "haw": "he makua, he kupuna; he kahu",
         "hr": "roditelj, predak; tvorac, za\u010detnik; skrbnik, hranitelj"
       }
     },
@@ -4620,6 +4783,7 @@
         "eo": "mono, ri\u0109a\u0135oj, \u015dpara\u0135o, kontanta mono; bruto, granda dombesto",
         "de": "Geld, Reichtum, gro\u00dfes, domestiziertes Tier",
         "tok": "sina pana e ni la, sina kama jo e ijo pi wile sina; soweli suli pona",
+        "la": "pec\u016bnia, aes, d\u012bvitiae, c\u014dpia",
         "it": "denaro, contanti, risparmi, ricchezza; grande animale domestico",
         "pt": "dinheiro, poupan\u00e7a, riqueza; grande animal domesticado",
         "tl_l": "pera, salapi, ipon, kayamanan; malaking alagang hayop",
@@ -4629,6 +4793,7 @@
         "zh_hant": "\u9322\u3001\u73fe\u91d1\u3001\u5132\u84c4\u3001\u8ca1\u5bcc\uff1b\u5927\u578b\u7272\u755c",
         "zh_hans": "\u94b1\u3001\u73b0\u91d1\u3001\u50a8\u84c4\u3001\u8d22\u5bcc\uff1b\u5927\u578b\u7272\u755c",
         "fi": "raha, k\u00e4teinen, s\u00e4\u00e4st\u00f6t, varallisuus; suuri kotiel\u00e4in",
+        "haw": "he k\u0101l\u0101, he moni, he uku k\u016b\u02bbike, he loa\u02bba h\u014d\u02bbili\u02bbili, he waiwai; he holoholona laka",
         "hr": "novac, u\u0161te\u0111evina, bogatstvo; stoka"
       }
     },
@@ -4682,6 +4847,7 @@
         "isv_c": "\u0436\u0435\u043d\u0430, \u0436\u0435\u043d\u0441\u043a\u044b, \u0436\u0435\u043d\u0441\u043a\u0430 \u043e\u0441\u043e\u0431\u0430; \u0436\u0435\u043d\u0430 (\u0441\u0443\u043f\u0440\u0443\u0433\u0430)",
         "eo": "virino, inseksulo, ino; edzino",
         "de": "Frau, weiblich, feminine Person; Ehefrau",
+        "la": "f\u0113mina, uxor, f\u0113min\u012bnus",
         "it": "donna, femmina, persona femminile; moglie",
         "pt": "mulher, f\u00eamea, pessoa feminina; esposa",
         "tl_l": "babae, pambabaeng tao; maybahay",
@@ -4691,6 +4857,7 @@
         "zh_hant": "\u5973\u4eba\u3001\u5973\u6027\uff1b\u59bb\u5b50",
         "zh_hans": "\u5973\u4eba\u3001\u5973\u6027\uff1b\u59bb\u5b50",
         "fi": "nainen, feminiininen henkil\u00f6; vaimo",
+        "haw": "he wahine",
         "hr": "\u017eena, \u017eenska osoba, \u017eenstvena osoba; supruga"
       }
     },
@@ -4761,6 +4928,7 @@
         "ur": "\u0628\u06cc\u0686\u060c \u062f\u0631\u0645\u06cc\u0627\u0646\u06cc \u060c \u0639\u0627\u0645 \u060c \u0679\u06be\u06cc\u06a9\u061b \u0646\u06c1 \u06cc\u06c1 \u0646\u06c1 \u0648\u06c1",
         "pa": "\u0a35\u0a3f\u0a71\u0a1a, \u0a06\u0a2e, \u0a20\u0a3f\u0a71\u0a15, \u0a20\u0a3f\u0a71\u0a15 \u0a20\u0a3e\u0a15; \u0a28\u0a3e \u0a07\u0a39 \u0a28\u0a3e \u0a13\u0a39",
         "id": "tengah, perantara, sedang; bukan keduanya, tidak sepenuhnya",
+        "la": "medius, modicus, mediocris",
         "it": "mezzo, medio, mediocre; n\u00e9 l'uno n\u00e9 l'altro, n\u00e9 pienamente \u00e8 n\u00e9 non \u00e8",
         "tr": "merkez, orta, alel\u00e2de; ne ... ne de ...., ne tam \u00f6yle ne de hi\u00e7 de\u011fil",
         "zh_hant": "\u4e2d\u9ede\u3001\u4e2d\u9593\u3001\u4e2d\u592e\u3001\u4e2d\u7b49\u7684\u3001\u5e73\u5eb8\u7684\uff1b\u975e\u6b64\u975e\u5f7c\u3001\u662f\u548c\u4e0d\u662f\u4e4b\u9593",
@@ -4799,6 +4967,7 @@
         "de": "ich, mein, wir, unser",
         "tok": "toki la, nimi \"mi\" li jan toki.",
         "es": "yo, me, nosotros, nos",
+        "la": "eg\u014d, meus; n\u014ds, noster",
         "it": "Io, me, noi",
         "pt": "eu, me, mim, n\u00f3s, a gente",
         "tl_l": "ako, kit\u00e1/kata, kami, tayo",
@@ -4809,7 +4978,9 @@
         "zh_hant": "\u6211\u3001\u6211\u5011",
         "zh_hans": "\u6211\u3001\u6211\u4eec",
         "fi": "min\u00e4, me",
-        "hr": "ja, mi"
+        "haw": "au, k\u0101ua, k\u0101kou, m\u0101ua, m\u0101kou",
+        "hr": "ja, mi",
+        "cy": "fi, ni"
       }
     },
     "mije": {
@@ -4841,6 +5012,7 @@
         "isv_c": "\u043c\u0443\u0436, \u043c\u0443\u0436\u0441\u043a\u044b, \u043c\u0443\u0436\u0441\u043a\u0430 \u043e\u0441\u043e\u0431\u0430; \u043c\u0443\u0436 (\u0441\u0443\u043f\u0440\u0443\u0433)",
         "eo": "viro, virseksulo, i\u0109o; edzo",
         "de": "Mann, m\u00e4nnlich, maskuline Person; Ehemann",
+        "la": "vir, m\u0101s, masculus",
         "it": "uomo, maschio, persona maschile; marito",
         "pt": "homem, macho, pessoa masculina; marido",
         "tl_l": "lalaki, panlalaking tao; bana",
@@ -4851,6 +5023,7 @@
         "zh_hant": "\u7537\u4eba\u3001\u7537\u6027\uff1b\u4e08\u592b",
         "zh_hans": "\u7537\u4eba\u3001\u7537\u6027\uff1b\u4e08\u592b",
         "fi": "mies, maskuliininen henkil\u00f6, aviomies",
+        "haw": "he k\u0101ne",
         "hr": "mu\u0161karac, mu\u0161ko, mu\u017eevna osoba; suprug"
       }
     },
@@ -4914,6 +5087,7 @@
         "ur": "\u0686\u0648\u06c1\u0627\u060c \u06af\u0644\u06c1\u0631\u06cc\u060c \u062e\u0631\u06af\u0648\u0634",
         "pa": "\u0a1a\u0a42\u0a39\u0a3e, \u0a17\u0a3f\u0a32\u0a39\u0a30\u0a40, \u0a16\u0a30\u0a17\u0a4b\u0a36",
         "id": "tikus, mencit, tupai, kelinci, hewan pengerat",
+        "la": "m\u016bs, rattus, sci\u016brus, cun\u012bculus",
         "it": "Glires o Eulipotyphla; ratto, topo, scoiattolo, coniglio, roditore; {~ suli} capibara",
         "tr": "Glires ya da Eulipotyphla; s\u0131\u00e7an, fare, sincap, tav\u015fan, kemirgen; {~ suli} kapibara",
         "zh_hant": "\u5699\u9f52\u52d5\u7269\u6216\u771f\u76f2\u7f3a\u76ee\u52d5\u7269\uff1b\u8001\u9f20\u3001\u5927\u9f20\u3001\u5154\u5b50\u3001\u5699\u9f52\u76ee\u52d5\u7269\uff1b{~ suli} \u6c34\u8c5a",
@@ -4959,6 +5133,7 @@
         "ur": "\u062f\u0648\u0627 \u060c \u0645\u06cc\u0688\u06cc\u06a9\u0644\u060c \u0688\u0627\u06a9\u0679\u0631\u06cc\u060c \u0686\u06a9\u062a\u0633\u0627",
         "pa": "\u0a26\u0a35\u0a3e, \u0a21\u0a3e\u0a15\u0a1f\u0a30\u0a40, \u0a1a\u0a3f\u0a15\u0a3f\u0a24\u0a38\u0a3e",
         "id": "obat, kesehatan",
+        "la": "medic\u0101men, medicus",
         "it": "medicina, medico",
         "tr": "ila\u00e7, t\u0131bbi, \u015fifal\u0131",
         "zh_hant": "\u85e5\u3001\u91ab\u7642\u7684",
@@ -4996,6 +5171,7 @@
         "eo": "man\u011di, trinki, konsumi, gluti",
         "de": "essen, trinken, konsumieren, schlicken, einverleiben",
         "tok": "pan en kasi en kili en telo li moku. sijelo jan o jo e moku. ante la, jan li moli",
+        "la": "c\u0113na, edere, c\u0113n\u0101re",
         "it": "mangiare, bere, consumare, ingoiare, ingerire",
         "pt": "comer, beber, consumir, engolir, ingerir",
         "tl_l": "kumain, uminom, ubusin, lunukin",
@@ -5005,6 +5181,7 @@
         "zh_hant": "\u5403\u3001\u559d\u3001\u9032\u98df\u3001\u541e\u4e0b\u3001\u54bd\u4e0b",
         "zh_hans": "\u5403\u3001\u559d\u3001\u8fdb\u98df\u3001\u541e\u4e0b\u3001\u54bd\u4e0b",
         "fi": "sy\u00f6d\u00e4, juoda, niell\u00e4",
+        "haw": "\u02bbai, he mea\u02bbai",
         "hr": "jesti, piti, konzumirati, progutati"
       }
     },
@@ -5037,6 +5214,7 @@
         "eo": "mortinta, mortanta",
         "de": "tot, sterben, t\u00f6ten",
         "tok": "ijo li ken tawa kepeken ona sama la ona li moli ala. ijo ni li kama ken ala la ijo ni li moli.",
+        "la": "mor\u012b, mors, nec\u0101re",
         "it": "morto, morente",
         "pt": "morto, morrendo",
         "tl_l": "patay, namamatay",
@@ -5046,6 +5224,7 @@
         "zh_hant": "\u6b7b\u7684\u3001\u53bb\u4e16\u7684",
         "zh_hans": "\u6b7b\u7684\u3001\u53bb\u4e16\u7684",
         "fi": "kuollut, kuoleva",
+        "haw": "make",
         "hr": "mrtvo, umiru\u0107e"
       }
     },
@@ -5102,6 +5281,7 @@
         "isv_c": "\u0445\u0440\u0435\u0431\u0435\u0442, \u0437\u0430\u0434, \u0442\u044b\u043b",
         "eo": "dorso, malanta\u016do",
         "de": "hinten, Hintern, Hinterteil, R\u00fccken",
+        "la": "post, retr\u014d, p\u014dne, tergum, cl\u016bnis",
         "it": "indietro, dietro, posteriore",
         "pt": "atr\u00e1s, detr\u00e1s, traseira",
         "tl_l": "likod",
@@ -5111,6 +5291,7 @@
         "zh_hant": "\u5f8c\u9762\u3001\u5f8c\u65b9\u3001\u5f8c\u90e8",
         "zh_hans": "\u540e\u9762\u3001\u540e\u65b9\u3001\u540e\u90e8",
         "fi": "takana, takapuolella",
+        "haw": "hope, muli",
         "hr": "iza, stra\u017enja strana, stra\u017enjica"
       }
     },
@@ -5150,6 +5331,7 @@
         "ur": "\u062e\u0648\u0641 \u060c \u06af\u06be\u0628\u0631\u0627\u06c1\u0679\u061b \u0639\u0641\u0631\u06cc\u062a \u060c \u0634\u06a9\u0627\u0631\u06cc \u060c \u062e\u0637\u0631\u06c1",
         "pa": "\u0a21\u0a30, \u0a18\u0a2c\u0a30\u0a3e\u0a39\u0a1f; \u0a39\u0a48\u0a35\u0a3e\u0a28, \u0a16\u0a24\u0a30\u0a3e",
         "id": "rasa takut, segan; monster, predator; ancaman, bahaya",
+        "la": "tim\u0113re, metus, terror, per\u012bculum",
         "it": "paura, timore; mostro, predatore; minaccia, pericolo",
         "tr": "korku, deh\u015fet; canavar, y\u0131rt\u0131c\u0131; tehdit, tehlike",
         "zh_hant": "\u6050\u61fc\u3001\u61fc\u6015\uff1b\u602a\u7378\u3001\u6355\u98df\u8005\uff1b\u5a01\u8105\u3001\u5371\u96aa",
@@ -5187,6 +5369,7 @@
         "eo": "(besta sono a\u016d komunika\u0135o) | ALT (neparola vo\u0109a sono)",
         "de": "(Tierger\u00e4usch oder -kommunikation) | ALT (nichtsprachlicher Ausruf)",
         "tok": "mu li kalama soweli.",
+        "la": "(sonus anim\u0101lis)",
         "it": "(rumore o comunicazione animale) | ALT (vocalizzazione non verbale)",
         "pt": "(ru\u00eddo animal ou comunica\u00e7\u00e3o) | ALT (vocaliza\u00e7\u00e3o sem fala)",
         "ro": "(sunet de animal sau comunica\u021bie) | (vocalizare non verbal\u0103)",
@@ -5195,6 +5378,7 @@
         "zh_hant": "\uff08\u52d5\u7269\u8072\u97f3\u6216\u4ea4\u969b\uff09 | ALT \uff08\u975e\u4eba\u985e\u8072\u97f3\uff09",
         "zh_hans": "\uff08\u52a8\u7269\u58f0\u97f3\u6216\u4ea4\u9645\uff09 | ALT \uff08\u975e\u4eba\u7c7b\u58f0\u97f3\uff09",
         "fi": "(el\u00e4imen \u00e4\u00e4ni tai viestint\u00e4) | ALT (\u00e4\u00e4ntely, joka ei ole puhetta)",
+        "haw": "(ke kani a n\u0101 holoholona) | ALT (ke kani a ke kanaka)",
         "hr": "(\u017eivotinjski zvuk ili glasanje) | ALT (neartikulirano glasanje)"
       }
     },
@@ -5231,6 +5415,7 @@
         "ur": "\u067e\u06cc\u0632\u0627",
         "pa": "\u0a2a\u0a40\u0a1c\u0a3e",
         "id": "piza",
+        "la": "pizza",
         "it": "pizza",
         "tr": "pizza",
         "zh_hant": "\u62ab\u85a9\uff1b\u610f\u5927\u5229\u8584\u9905",
@@ -5269,6 +5454,7 @@
         "eo": "luno, nokta \u0109iela objekto, stelo | ALT lumi, lumineska lumo, lumo en mallumo",
         "de": "Mond, Objekt im Nachthimmel, Stern | ALT gl\u00fchen, gl\u00fchendes Licht, Licht im Dunkeln",
         "tok": "mun li sama suno, taso ona li lon sewi pimeja.",
+        "la": "l\u016bna, s\u012bdus, st\u0113lla | ALT \u0101rd\u0113re (in tenebr\u012bs)",
         "it": "luna, corpo celeste, stella | ALT bagliore, luce incandescente, luce nel buio",
         "pt": "lua, objeto do c\u00e9u noturno, estrela | ALT brilho, luz brilhante, luz no escuro",
         "tl_l": "buwan, bagay sa gabing kalangitan, bituin | ALT kinang, kumikinang na liwanag, liwanag sa dilim",
@@ -5277,6 +5463,7 @@
         "zh_hant": "\u6708\u4eae\u3001\u6708\u7403\u3001\u5728\u591c\u7a7a\u88e1\u7684\u7269\u9ad4\u3001\u661f\u3001\u6046\u661f | ALT \u6697\u6de1\u7684\u5149\u3001\u9583\u8000\u7684\u5149\u3001\u5728\u9ed1\u6697\u88e1\u7684\u5149",
         "zh_hans": "\u6708\u4eae\u3001\u6708\u7403\u3001\u5728\u591c\u7a7a\u91cc\u7684\u7269\u4f53\u3001\u661f\u3001\u6052\u661f | ALT \u6697\u6de1\u7684\u5149\u3001\u95ea\u8000\u7684\u5149\u3001\u5728\u9ed1\u6697\u91cc\u7684\u5149",
         "fi": "kuu, jokin asia y\u00f6taivaalla, t\u00e4hti | ALT hehku, hehkuva valo, valo pime\u00e4ss\u00e4",
+        "haw": "he mahina, he mea i ka lani i ka p\u014d, he h\u014dk\u016b | ALT makali, he lama",
         "hr": "mjesec, predmet vidljiv na no\u0107nom nebu, zvijezda | ALT sjati, sjaju\u0107e, svjetlo, svjetlost u tami"
       }
     },
@@ -5308,6 +5495,7 @@
         "isv_c": "\u0443\u043c\u0454\u0442\u043d\u0438\u0447\u0441\u043a\u044b, \u0430\u0440\u0442\u0438\u0441\u0442\u0438\u0447\u043d\u044b, \u0437\u0430\u0431\u0430\u0432\u043d\u044b, \u0438\u0433\u0440\u0438\u0432\u044b, \u0440\u0435\u043a\u0440\u0435\u0430\u0446\u0438\u0458\u0430",
         "eo": "arta, amuza, frivola, ludeca, rilata al amuzi\u011do",
         "de": "k\u00fcnstlerisch, unterhaltsam, frivol, spielerisch, am\u00fcsant; Kunst, Spa\u00df, Musik, Spiel; spielen",
+        "la": "ars, l\u016bdus, jocus, d\u0113lect\u0101re, m\u016bsica, lepidus, j\u016bcundus",
         "it": "artistico, divertente, frivolo, giocoso, ricreativo",
         "pt": "art\u00edstico, divertido, fr\u00edvolo, l\u00fadico, lazer",
         "tr": "sanatsal, e\u011flendirici, bo\u015f vakit ge\u00e7irmek i\u00e7in yap\u0131lan aktivite",
@@ -5315,6 +5503,7 @@
         "zh_hant": "\u85dd\u8853\u7684\u3001\u6709\u8da3\u7684\u3001\u5a1b\u6a02\u7684\u3001\u8f15\u6d6e\u7684\u3001\u4f11\u9591\u7684",
         "zh_hans": "\u827a\u672f\u7684\u3001\u6709\u8da3\u7684\u3001\u5a31\u4e50\u7684\u3001\u8f7b\u6d6e\u7684\u3001\u4f11\u95f2\u7684",
         "fi": "taiteellinen, viihdytt\u00e4v\u00e4, kevytmielinen, leikkis\u00e4, virkistys",
+        "haw": "he hana no\u02bbeau, hoihoi, p\u0101\u02bbani",
         "hr": "umjetni\u010dki, zabavno, neozbiljno, razigrano, rekreacija"
       }
     },
@@ -5347,6 +5536,7 @@
         "isv_c": "\u043c\u043d\u043e\u0433\u043e, \u043d\u0454\u043a\u043e\u043b\u0438\u043a\u043e, \u0432\u0435\u043b\u043c\u0438; \u043a\u043e\u043b\u0438\u043a\u043e\u0441\u0442 | ALT \u0442\u0440\u0438 (\u0438\u043b\u0438 \u0432\u044b\u0448\u0435), 20",
         "eo": "multaj, multe, pluraj, tre; kvanto | ALT tri (a\u016d pli); 20",
         "de": "viele, einige, mehrere, sehr, mehr; Quantit\u00e4t, Menge | ALT drei (oder mehr); 20",
+        "la": "multus, aliquot, n\u014dnn\u016bll\u012b, pl\u016br\u0113s, vald\u0113, magis; modus, c\u014dpia | ALT tr\u0113s (aut magis); v\u012bgint\u012b",
         "it": "molti, tanto, di pi\u00f9, assai, parecchi, moltissimo; quantit\u00e0 | ALT tre (o pi\u00f9), 20",
         "pt": "muitos, bastante, mais, muito de, v\u00e1rios; quantidade | ALT tr\u00eas (ou mais), 20",
         "tr": "\u00e7ok, bir\u00e7ok, daha fazla, bir hayli, baya; miktar | ALT \u00fc\u00e7 (veya daha fazla), 20",
@@ -5354,6 +5544,7 @@
         "zh_hant": "\u591a\u3001\u8a31\u591a\u3001\u5927\u91cf\u7684\u3001\u975e\u5e38\u3001\u5341\u5206\uff1b\u6578\u91cf | ALT \u4e09\uff08\u6216\u4ee5\u4e0a\uff09\u300120",
         "zh_hans": "\u591a\u3001\u8bb8\u591a\u3001\u5927\u91cf\u7684\u3001\u975e\u5e38\u3001\u5341\u5206\uff1b\u6570\u91cf | ALT \u4e09\uff08\u6216\u4ee5\u4e0a\uff09\u300120",
         "fi": "monta, paljon, enemm\u00e4n, useita, eritt\u00e4in; m\u00e4\u00e4r\u00e4 | ALT kolme (tai enemm\u00e4n), 20",
+        "haw": "kini, mano, lehu, nui, kekahi mau | ALT \u02bbekolu (\u0101 i \u02bbole nui a\u02bbe), 20",
         "hr": "puno, vi\u0161e, mnogo, nekoliko, vrlo; koli\u010dina | ALT tri (ili vi\u0161e), 20"
       }
     },
@@ -5382,6 +5573,7 @@
         "de": "(zeigt Nachdenken, Gr\u00fcbeln, Anerkennung, Zustimmung oder Summen an)",
         "tok": "sina pana e nimi \"n\" la, ni li sama pana e nimi \"a.\"",
         "es": "(indica pensar, ponderar, reconocer, acordar, o tararear)",
+        "la": "attat, hem",
         "it": "(indica pensiero, riflessione, riconoscimento, accordo o borbottio)",
         "tr": "(d\u00fc\u015f\u00fcnmeyi, kafa yormay\u0131, bir \u015feyi/birini tan\u0131may\u0131, anla\u015fmay\u0131 veya m\u0131r\u0131ldanmay\u0131 belirtir)",
         "zh_hant": "\uff08\u8868\u793a\u601d\u8003\u3001\u6c89\u601d\u3001\u8b58\u5225\u3001\u540c\u610f\u6216\u55e1\u55e1\u8072\uff09",
@@ -5425,6 +5617,7 @@
         "ur": "\u0645\u0633\u0627\u0644\u0627\u060c \u0627\u0636\u0627\u0641\u06cc",
         "pa": "\u0a2e\u0a38\u0a3e\u0a32\u0a3e, \u0a05\u0a24\u0a3f\u0a30\u0a3f\u0a15\u0a24",
         "id": "hiasan, rempah; ekstra, tambahan",
+        "la": "cond\u012bmentum, extr\u0101, addere",
         "it": "{vedi sin} | ALT abbellimento, spezia; extra, supplementare",
         "tr": "{bkz. \"sin\"} | ALT s\u00fcsleme, baharat; ekstra, ilave, ek",
         "zh_hant": "{\u898bsin} | ALT \u88dd\u98fe\u3001\u4fee\u98fe\u3001\u9999\u6599\uff1b\u984d\u5916\u7684\u3001\u9644\u52a0\u7684",
@@ -5461,6 +5654,7 @@
         "isv_c": "(\u043e\u0440\u0434\u0438\u043d\u0430\u043b\u043d\u044b \u0447\u0438\u0441\u043b\u043e\u0432\u043d\u0438\u043a); \u043d\u043e\u043c\u0435\u0440, \u0447\u0438\u0441\u043b\u043e, \u0431\u0440\u043e\u0458",
         "eo": "-a (kiel en \"unua\", \"dua\", ktp; indikas pozicion en vicordo); ciferoj, nombroj",
         "de": "-te (Ordinalzahl) | Zahl",
+        "la": "(numeri ordin\u0101l\u0113s) | numerus",
         "it": "(numero ordinale); numeri",
         "pt": "-\u00ba (n\u00famero ordinal); n\u00fameros",
         "tr": "-(\u0131)nc\u0131 / -(i)nci / -(u)ncu / -(\u00fc)nc\u00fc (s\u0131ra say\u0131lar\u0131); say\u0131lar",
@@ -5468,6 +5662,7 @@
         "zh_hant": "\u7b2c\uff08\u7528\u65bc\u69cb\u6210\u5e8f\u6578\uff09\uff1b\u6578\u5b57",
         "zh_hans": "\u7b2c\uff08\u7528\u4e8e\u6784\u6210\u5e8f\u6570\uff09\uff1b\u6570\u5b57",
         "fi": "(j\u00e4rjestysluvuissa); numerot, luvut",
+        "haw": "he helu",
         "hr": "(redni broj); broj"
       }
     },
@@ -5499,6 +5694,7 @@
         "isv_c": "\u043d\u0435\u043e\u0431\u044b\u0447\u043d\u044b, \u0434\u0438\u0432\u043d\u044b, \u0441\u0442\u0440\u0430\u043d\u043d\u044b; \u043d\u0435\u043c\u0443\u0434\u0440\u044b; \u043f\u0438\u0458\u0430\u043d\u044b, \u043d\u0435\u0442\u0440\u0454\u0437\u0432\u044b",
         "eo": "nekutima, stranga; malsa\u011da; ebria",
         "de": "ungew\u00f6hnlich, merkw\u00fcrdig, seltsam, durcheinander; albern; betrunken, berauscht",
+        "la": "\u012bnsolitus, pr\u014dsigi\u014dsus, m\u012brus, not\u0101bilis, perplexus, turba, ineptus, c\u014dmicus, \u0113brius",
         "it": "insolito, strano; sciocco; ubriaco, intossicato",
         "pt": "incomum, estranho; bobo; b\u00eabado, embriagado",
         "tr": "s\u0131ra d\u0131\u015f\u0131, ola\u011fan d\u0131\u015f\u0131, garip; \u015fap\u015fal; sarho\u015f",
@@ -5506,6 +5702,7 @@
         "zh_hant": "\u5947\u602a\u7684\u3001\u4e0d\u5c0b\u5e38\u7684\uff1b\u611a\u8822\u7684\u3001\u50bb\u7684\uff1b\u559d\u9189\u7684",
         "zh_hans": "\u5947\u602a\u7684\u3001\u4e0d\u5bfb\u5e38\u7684\uff1b\u611a\u8822\u7684\u3001\u50bb\u7684\uff1b\u559d\u9189\u7684",
         "fi": "ep\u00e4tavallinen, outo, h\u00f6ps\u00f6, humaltunut",
+        "haw": "\u02bb\u0113, he mea \u02bb\u0113, he \u02bbano \u02bb\u0113; \u02bb\u016blala; \u02bbona",
         "hr": "neobi\u010dno, \u010dudno; pijano"
       }
     },
@@ -5536,7 +5733,8 @@
         "isv_l": "sposob, oby\u010daj, doktrina, metoda, put, ste\u017eka, draga",
         "isv_c": "\u0441\u043f\u043e\u0441\u043e\u0431, \u043e\u0431\u044b\u0447\u0430\u0458, \u0434\u043e\u043a\u0442\u0440\u0438\u043d\u0430, \u043c\u0435\u0442\u043e\u0434\u0430, \u043f\u0443\u0442, \u0441\u0442\u0435\u0436\u043a\u0430, \u0434\u0440\u0430\u0433\u0430",
         "eo": "maniero, kutimo, doktrino, metodo, vojo, irejo",
-        "de": "Weg, Br\u00e4uche, Lehre, Doktrin, Methode, Pfad, Stra\u00dfe",
+        "de": "Weg, Brauch, Lehre, Doktrin, Methode, Pfad, Stra\u00dfe",
+        "la": "via, s\u0113mita, l\u012bmes, doctr\u012bna, methodus, m\u014ds",
         "it": "modo, abitudine, dottrina, metodo, percorso, strada, via",
         "pt": "caminho, costume, doutrina, m\u00e9todo, caminho, estrada",
         "tr": "y\u00f6n, adet, \u00f6\u011freti, y\u00f6ntem, yol, karayolu",
@@ -5544,6 +5742,7 @@
         "zh_hant": "\u65b9\u6cd5\u3001\u65b9\u5f0f\u3001\u8fa6\u6cd5\u3001\u5b78\u8aaa\u3001\u4fe1\u689d\u3001\u9053\u8def\u3001\u5c0f\u5f91",
         "zh_hans": "\u65b9\u6cd5\u3001\u65b9\u5f0f\u3001\u529e\u6cd5\u3001\u5b66\u8bf4\u3001\u4fe1\u6761\u3001\u9053\u8def\u3001\u5c0f\u5f84",
         "fi": "tapa, oppi, menetelm\u00e4, polku, tie",
+        "haw": "he ala, he loina, he \u02bbano hana",
         "hr": "na\u010din, obi\u010daj, doktrina, put, cesta"
       }
     },
@@ -5572,6 +5771,7 @@
         "ur": "\u0646\u0627\u062a\u06c1\u060c \u0631\u0634\u062a\u06c1\u060c \u0645\u0645\u0627\u062b\u0644\u062a\u061b \u0686\u0648\u0631\u0627\u062d\u0627\u060c \u0686\u0648\u06a9\u060c \u06af\u0627\u06ba\u0679\u06be\u061b \u06a9\u0633\u06cc \u062d\u062f \u06a9\u0648 \u067e\u0627\u0631 \u06a9\u0631\u0646\u0627 ",
         "pa": "\u0a28\u0a3e\u0a24\u0a3e, \u0a30\u0a3f\u0a36\u0a24\u0a3e, \u0a38\u0a2e\u0a3e\u0a32\u0a24\u0a3e; \u0a1a\u0a4c\u0a15, \u0a1a\u0a4b\u0a30\u0a3e\u0a39\u0a3e, \u0a17\u0a3e\u0a02\u0a20; \u0a05\u0a24\u0a3f\u0a35\u0a2f\u0a3e\u0a2a\u0a28 \u0a15\u0a30\u0a28\u0a3e, \u0a15\u0a3f\u0a38\u0a40 \u0a39\u0a26 \u0a28\u0a42\u0a70 \u0a2a\u0a3e\u0a30 \u0a15\u0a30\u0a28\u0a3e",
         "id": "hubungan, korelasi, kesamaan; simpul, percabangan, persimpangan; tumpang tindih, melipat; melewati batas",
+        "la": "crux",
         "it": "relazione, correlazione, comunanza; croce, nodo, giunzione, intersezione; sovrapporsi, piegare; oltrepassare, eccedere in un punto",
         "tr": "ili\u015fki, ba\u011flant\u0131, korelasyon, ortak \u00f6zellik; \u00e7arp\u0131, d\u00fc\u011f\u00fcm, kav\u015fak, ba\u011flant\u0131 noktas\u0131, kesi\u015fim noktas\u0131; kesi\u015fmek, katlanmak; fazla gitmek, a\u015fmak",
         "zh_hant": "\u95dc\u4fc2\u3001\u806f\u7e6b\u3001\u95dc\u806f\u3001\u5171\u540c\u7279\u5fb5\uff1b\u4ea4\u53c9\u3001\u76f8\u4ea4\u3001\u7d50\u3001\u63a5\u5408\u9ede\uff1b\u91cd\u758a\u3001\u4ea4\u758a\u3001\u647a\u758a\u3001\u8d85\u8d8a\uff08\u7bc4\u570d\uff09\u3001\u8d85\u8d8a\u5230\u4e00\u500b\u7a0b\u5ea6",
@@ -5607,6 +5807,7 @@
         "ur": "\u0686\u0627\u0631",
         "pa": "\u0a1a\u0a3e\u0a30",
         "id": "empat",
+        "la": "quattuor",
         "it": "quattro",
         "tr": "d\u00f6rt",
         "zh_hant": "\u56db",
@@ -5667,6 +5868,7 @@
         "isv_c": "\u0438\u0437\u043f\u0443\u043a\u043b\u043e\u0441\u0442, \u043a\u043d\u043e\u043f\u043a\u0430, \u0433\u043e\u0440\u0430, \u0433\u043e\u0440\u043a\u0430, \u043d\u043e\u0441, \u0438\u0437\u0441\u0443\u043d\u0443\u0442\u0458\u0435",
         "eo": "elstara malebena\u0135o, tubero, butono, monteto, monto, nazo, elstara\u0135o",
         "de": "Erhebung, Knopf, H\u00fcgel, Hubbel, Berg, Nase",
+        "la": "m\u014dns, collis, n\u0101sus, bulla, \u0113l\u0101ti\u014d",
         "it": "bozzo, pulsante, collina, montagna, naso, protuberanza",
         "pt": "ressalto, bot\u00e3o, colina, montanha, nariz, protuber\u00e2ncia",
         "tr": "t\u00fcmsek, buton, tepe, da\u011f, burun, \u00e7\u0131k\u0131nt\u0131",
@@ -5674,6 +5876,7 @@
         "zh_hant": "\u51f8\u584a\u3001\u7d10\u6263\u3001\u6309\u9215\u3001\u5c71\u4e18\u3001\u5c71\u5cb3\u3001\u9f3b\u5b50\u3001\u9686\u8d77\u7684\u90e8\u5206",
         "zh_hans": "\u51f8\u5757\u3001\u7ebd\u6263\u3001\u6309\u94ae\u3001\u5c71\u4e18\u3001\u5c71\u5cb3\u3001\u9f3b\u5b50\u3001\u9686\u8d77\u7684\u90e8\u5206",
         "fi": "kohouma, nappi, m\u00e4ki, vuori, nen\u00e4, ulkonema",
+        "haw": "he pu\u02bbu, he pihi, he pu\u02bbe, he mauna, he ihu",
         "hr": "neravnina, gumb, brdo, planina, nos, izbo\u010dina"
       }
     },
@@ -5707,6 +5910,7 @@
         "eo": "(\u0109i) tio, (\u0109i) tiu",
         "de": "dies, das, jenes",
         "es": "eso, esto, aquel",
+        "la": "hic, hoc, ille, iste",
         "it": "che, questo",
         "pt": "este, esse, aquele; isto, isso, aquilo",
         "tr": "\u015fu, bu",
@@ -5715,6 +5919,7 @@
         "zh_hant": "\u90a3\uff0c\u90a3\u500b\uff0c\u9019\uff0c\u9019\u500b",
         "zh_hans": "\u90a3\uff0c\u90a3\u4e2a\uff0c\u8fd9\uff0c\u8fd9\u4e2a",
         "fi": "t\u00e4m\u00e4, tuo",
+        "haw": "nei, l\u0101, k\u0113ia, k\u0113n\u0101, k\u0113l\u0101",
         "hr": "ovo, ono"
       }
     },
@@ -5747,6 +5952,7 @@
         "eo": "nomo, vorto",
         "de": "Name, Wort",
         "tok": "ni li kulupu kalama li kipisi toki. ijo en jan li ken jo e kulupu kalama ona.",
+        "la": "n\u014dmen, verbum",
         "it": "nome, parola",
         "pt": "nome, palavra",
         "tr": "isim, kelime",
@@ -5754,7 +5960,9 @@
         "zh_hant": "\u540d\u5b57\u3001\u540d\u7a31\u3001\u55ae\u8a5e\u3001\u8a5e\u8a9e",
         "zh_hans": "\u540d\u5b57\u3001\u540d\u79f0\u3001\u5355\u8bcd\u3001\u8bcd\u8bed",
         "fi": "nimi, sana",
-        "hr": "ime, rije\u010d"
+        "haw": "he inoa, he hua\u02bb\u014dlelo",
+        "hr": "ime, rije\u010d",
+        "cy": "enw, gair"
       }
     },
     "nja": {
@@ -5815,6 +6023,7 @@
         "eo": "piedo, kruro, movi\u011da organo; malsupro, malsupra parto | ALT dek; dudek; minus kvin",
         "de": "Fu\u00df, Bein, Fortbewegungsorgan; Unterteil, unten | ALT zehn; zwanzig; minus f\u00fcnf",
         "tok": "noka li luka pi anpa sijelo.",
+        "la": "p\u0113s, cr\u016bs, \u012bnfr\u0101 | ALT decem, v\u012bgint\u012b, minus qu\u012bnque",
         "it": "piede, gamba, organo di locomozione; fondo, parte inferiore | ALT dieci; venti; cinque negativo",
         "pt": "p\u00e9, perna, \u00f3rg\u00e3o de locomo\u00e7\u00e3o; baixo, parte inferior | ALT dez; vinte; cinco negativo",
         "tr": "ayak, bacak, y\u00fcr\u00fcme organ\u0131; dip, alt k\u0131s\u0131m | ALT on; yirmi; eksi be\u015f",
@@ -5822,6 +6031,7 @@
         "zh_hant": "\u8173\u3001\u817f\u3001\u8db3\u90e8\u3001\u904b\u52d5\u5668\u5b98\uff1b\u5e95\u90e8\u3001\u4e0b\u9762 | ALT \u5341\uff1b\u4e8c\u5341\uff1b\u8ca0\u4e94",
         "zh_hans": "\u811a\u3001\u817f\u3001\u8db3\u90e8\u3001\u8fd0\u52a8\u5668\u5b98\uff1b\u5e95\u90e8\u3001\u4e0b\u9762 | ALT \u5341\uff1b\u4e8c\u5341\uff1b\u8d1f\u4e94",
         "fi": "jalka, jalkater\u00e4, liike-elin; pohja, alaosa | ALT kymmenen; kaksikymment\u00e4; miinus viisi",
+        "haw": "he w\u0101wae, he mahele o ke kino no ka ne\u02bbe; lalo | ALT \u02bbumi; iwak\u0101lua; \u02bbelima \u02bbi\u02bbo \u02bbole",
         "hr": "stopalo, noga, organ za kretanje; dno, donji dio | ALT deset; dvadeset; minus 5"
       }
     },
@@ -5846,6 +6056,7 @@
         "eo": "(vorto rezervita por estonteca uzo de Sonja Lang)",
         "de": "(f\u00fcr zuk\u00fcnftige Verwendung von Sonja Lang reserviertes Wort)",
         "tok": "jan Sonja li wile e ni: nimi ni li awen open tawa lipu sin lon tenpo kama.",
+        "la": "(verbum \u0101 Sonja Lang reserv\u0101tum pr\u014d \u016bs\u016b fut\u016bro)",
         "it": "(parola riservata per uso futuro da Sonja Lang)",
         "tr": "(gelecekte kullanma amac\u0131yla Sonja Lang taraf\u0131ndan reserve edilmi\u015f bir kelime)",
         "zh_hant": "\uff08Sonja Lang\u4fdd\u7559\u55ae\u8a5e\uff09",
@@ -5947,7 +6158,7 @@
         "tr": "daha da yeni",
         "zh_hant": "\u8f03\u65b0\u7684",
         "zh_hans": "\u8f83\u65b0\u7684",
-        "hr": "nikad"
+        "hr": "novije"
       }
     },
     "o": {
@@ -5980,6 +6191,7 @@
         "eo": "he! (vokativo, imperativo, a\u016d volitivo)",
         "de": "He! Hey! O! (Anrede, Befehl oder Wunsch)",
         "es": "\u00a1oiga! (vocativo, imperativo u optativo)",
+        "la": "(jussum, appell\u0101ti\u014d, volunt\u0101s)",
         "it": "Ehi! O! (vocativo, imperativo o ottativo)",
         "pt": "Ei! O! (vocativo, imperativo ou optativo)",
         "tr": "hey! (hitap h\u00e2li, emir veya dilek kipi)",
@@ -5987,6 +6199,7 @@
         "zh_hant": "\u563f\uff01\uff08\u547c\u559a\u3001\u7948\u4f7f\u6216\u7948\u9858\u8a9e\u6c23\uff09",
         "zh_hans": "\u563f\uff01 \uff08\u547c\u5524\u3001\u7948\u4f7f\u6216\u7948\u613f\u8bed\u6c14\uff09",
         "fi": "hei! (vokatiivi, imperatiivi tai optatiivi)",
+        "haw": "e (no ka mea, e k\u0101hea \u02bbia, \u0101 i \u02bbole e ho\u02bbopuka i ke kauoha, \u0101 i \u02bbole ka makemake)",
         "hr": "hej! oj! ej! (vokativ, imperativ, ili optativ)"
       }
     },
@@ -6020,6 +6233,7 @@
         "ur": "\u0679\u06be\u06cc\u06a9 \u06c1\u06d2 \u060c (\u0628\u0627\u062a \u0633\u0645\u062c\u06be\u0646\u06d2 \u06a9\u06cc \u0639\u0644\u0627\u0645\u062a)",
         "pa": "\u0a20\u0a3f\u0a71\u0a15 \u0a39\u0a48 (\u0a17\u0a71\u0a32 \u0a38\u0a2e\u0a1d\u0a23 \u0a26\u0a3e \u0a1a\u0a3f\u0a70\u0a28\u0a4d\u0a39)",
         "id": "(pengakuan atau penerimaan)",
+        "la": "(approb\u0101ti\u014d)",
         "it": "(riconoscimento o accettazione)",
         "tr": "{ bkz: \"ke\" }, tamam, (onay veya kabul)",
         "zh_hant": "\uff08\u77e5\u6089\u6216\u540c\u610f\uff09",
@@ -6100,6 +6314,7 @@
         "ur": "\u0622\u0646\u06a9\u06be",
         "pa": "\u0a05\u0a71\u0a16",
         "id": "mata",
+        "la": "oculus",
         "it": "{vedi lukin} | ALT occhio, oculare, visivo {vedi lukin}",
         "tr": "{bkz. \"lukin\"} | ALT g\u00f6z, g\u00f6rsel {kr\u015f. \"lukin\"}",
         "zh_hant": "{\u898blukin} | ALT \u773c\u775b\u3001\u773c\u775b\u7684\u3001\u8996\u89ba\u7684 {\u53c3\u898blukin}",
@@ -6137,6 +6352,7 @@
         "eo": "ami, simpatii kun, respekti, montri sian korinklinon al",
         "de": "lieben, Mitgef\u00fchl haben mit, respektieren, Zuneigung haben zu",
         "tok": "pilin pi jan ante li suli tawa sina la, sina olin e ona.",
+        "la": "am\u0101re, d\u012bligere",
         "it": "amare, avere compassione per, rispettare, mostrare affetto a",
         "pt": "amar, ter compaix\u00e3o por, respeitar, mostrar afeto por",
         "tr": "sevmek, merhamet etmek, sayg\u0131 duymak, ho\u015flanmak",
@@ -6172,6 +6388,7 @@
         "ur": "\u0627\u0644\u0648\u062f\u0627\u0639 \u060c \u067e\u06be\u0631 \u0645\u0644\u06cc\u06ba \u06af\u06d2\u060c \u0648\u062f\u0627\u0639\u06cc",
         "pa": "\u0a05\u0a32\u0a35\u0a3f\u0a26\u0a3e, \u0a35\u0a3f\u0a26\u0a3e\u0a08, \u0a2b\u0a3f\u0a30 \u0a2e\u0a3f\u0a32\u0a3e\u0a02\u0a17\u0a47",
         "id": "dah, selamat tinggal, sampai jumpa, makanlah ikan yang baik",
+        "la": "(abbrevati\u014d sententiae \"o moku e kala pona\" s\u012bgnific\u0101ns \"val\u0113!\" aut \"val\u0113te!\")",
         "it": "arrivederci, addio, ci vediamo dopo, mangia un buon pesce",
         "tr": "bye bye, g\u00f6r\u00fc\u015f\u00fcr\u00fcz, kendine iyi bak, allaha emanet ol, elveda, \u015f\u00f6yle en g\u00fczelinden bir bal\u0131k ye",
         "zh_hant": "\u518d\u898b\u3001\u518d\u6703\u3001\u4e4b\u5f8c\u518d\u898b\u3001\u5403\u500b\u597d\u9b5a",
@@ -6243,6 +6460,7 @@
         "eo": "li, \u015di, ri, \u011di, ili",
         "de": "er, sie, es, sie",
         "es": "\u00e9l, ella, ello, elle, lo, la, le, ellos, ellas",
+        "la": "is, ea, id, suus",
         "it": "lui, lei, esso, loro",
         "pt": "ele, ela, eles, elas",
         "tl_l": "siya, sila",
@@ -6280,7 +6498,7 @@
         "tr": "r\u00fcya, d\u00fc\u015f, hay\u00e2l, vizyon, bol hayal g\u00fcc\u00fc i\u00e7eren oyun, mistik durum; mest etmek",
         "zh_hant": "\u5922\u3001\u767d\u65e5\u5922\u3001\u7a7a\u60f3\u3001\u5e7b\u60f3\u3001\u60f3\u50cf\u3001\u5e7b\u8c61\u3001\u5947\u5e7b\u7684\u72c0\u614b\uff1b\u4f7f\u5165\u8ff7",
         "zh_hans": "\u68a6\u3001\u767d\u65e5\u68a6\u3001\u7a7a\u60f3\u3001\u5e7b\u60f3\u3001\u60f3\u8c61\u3001\u5e7b\u8c61\u3001\u5947\u5e7b\u7684\u72b6\u6001\uff1b\u4f7f\u5165\u8ff7",
-        "hr": "san, sanjariti, ma\u0161tati, vizija, misti\u010dno stanje; zanijeti se"
+        "hr": "san, sanjariti, ma\u0161tati, vizija, misti\u010dno stanje, misti\u010dnost"
       }
     },
     "open": {
@@ -6314,6 +6532,7 @@
         "eo": "komenci; malfermi; \u015dalti",
         "de": "anfangen, beginnen; \u00f6ffnen; anschalten",
         "es": "empezar, comenzar, iniciar; abrir; encender, prender",
+        "la": "incipere, aper\u012bre",
         "it": "iniziare, cominciare; aprire; accendere",
         "pt": "iniciar, come\u00e7ar; abrir; ligar, acender",
         "tr": "ba\u015flamak, a\u00e7mak",
@@ -6378,7 +6597,7 @@
         "tr": "[\u00fcnlem] bruh, eh; inan\u00e7s\u0131zl\u0131k, \u00f6fke veya s\u0131k\u0131lma ifadesi",
         "zh_hant": "[\u611f\u5606\u8a5e] \u5144\uff1b\u8868\u793a\u4e0d\u4fe1\u3001\u60f1\u6012\u6216\u8208\u596e",
         "zh_hans": "[\u611f\u53f9\u8bcd] \u5144\uff1b\u8868\u793a\u4e0d\u4fe1\u3001\u607c\u6012\u6216\u5174\u594b",
-        "hr": "[usklik] bruh; izraz nevjerice, ogor\u010denja ili uzbu\u0111enosti"
+        "hr": "[usklik] \"bruh\" (eng.); izraz nevjerice, ogor\u010denja ili uzbu\u0111ensti"
       }
     },
     "pakala": {
@@ -6410,6 +6629,7 @@
         "isv_c": "\u0441\u043b\u043e\u043c\u0458\u0435\u043d\u044b, \u0440\u0430\u0437\u0431\u0438\u0442\u044b, \u043f\u043e\u0448\u043a\u043e\u0434\u0436\u0435\u043d\u044b | ALT (\u043f\u0440\u043e\u043a\u043b\u0435\u0442\u0441\u0442\u0432\u043e, \u043d\u0430\u043f\u0440. \u043a\u0443\u0440\u0432\u0430!)",
         "eo": "fu\u015dita, rompita, dama\u011dita, difektita | ALT (sakra\u0135o, ekz. fek!, damne!)",
         "de": "kaputt, vermasselt, besch\u00e4digt, zerst\u00f6rt, defekt; zerbrechen | ALT (Kraftausdruck, z.B. Mist!)",
+        "la": "r\u016btus, d\u0113l\u0113tus, frangere, rumpere | (maledicti\u014d velut \"merda!\")",
         "it": "rovinato, rotto, danneggiato, leso, incasinato | ALT (imprecazione, ad esempio, cazzo!)",
         "pt": "estragado, quebrado, danificado, prejudicado, bagun\u00e7ado | ALT (palavr\u00e3o expletivo, ex. droga!)",
         "tr": "berbat, k\u0131r\u0131k, zarar g\u00f6rm\u00fc\u015f, hasarl\u0131, bozuk | ALT (k\u00fcf\u00fcr, \u00f6r. siktir!)",
@@ -6451,6 +6671,7 @@
         "ur": "\u0631\u06a9\u0646\u0627\u060c \u0631\u0648\u06a9\u0646\u0627\u060c \u0679\u0648\u06a9\u0646\u0627\u060c \u0628\u06cc\u0686 \u0645\u06cc\u06ba \u0631\u0648\u06a9\u0646\u0627\u060c \u0628\u0627\u062f\u06be\u0627 \u0628\u0646\u0646\u0627\u060c \u0628\u0627\u062f\u06be\u0627 \u0688\u0627\u0644\u0646\u0627\u060c \u06c1\u0648\u0646\u06d2 \u0646\u06c1 \u062f\u06cc\u0646\u0627\u061b \u06c1\u0648\u0646\u06d2 \u0646\u06c1 \u062f\u06cc\u0646\u0627",
         "pa": "\u0a30\u0a41\u0a15\u0a23\u0a3e, \u0a30\u0a4b\u0a15\u0a23\u0a3e, \u0a1f\u0a4b\u0a15\u0a23\u0a3e; \u0a39\u0a4b\u0a23 \u0a28\u0a3e \u0a26\u0a47\u0a23\u0a3e",
         "id": "berhenti, menghentikan; menghalangi jalan, mengganggu; mencegah",
+        "la": "sistere, inhib\u0113re, vet\u0101re",
         "it": "fermare, cessare, fermarsi; bloccare la strada, interrompere; impedire",
         "tr": "durmak, sonra ermek; yolu kapamak, kesintiye u\u011fratmak; engellemek",
         "zh_hant": "\u505c\u6b62\u3001\u505c\u4e0b\u3001\u7d42\u6b62\uff1b\u64cb\u8def\u3001\u906e\u64cb\u3001\u963b\u65b7\u3001\u4e2d\u65b7\uff1b\u9632\u6b62\u3001\u963b\u6b62",
@@ -6487,6 +6708,7 @@
         "isv_c": "\u0434\u0454\u043b\u0430\u0442\u0438, \u0440\u0430\u0431\u0438\u0442\u0438, \u0434\u0454\u0458\u0430\u0442\u0438; \u0431\u0443\u0434\u043e\u0432\u0430\u0442\u0438, \u0441\u0442\u0432\u0430\u0440\u0458\u0430\u0442\u0438, \u0433\u043e\u0442\u043e\u0432\u0438\u0442\u0438",
         "eo": "fari, agi por atingi a\u016d plenumi ion, prilabori; konstrui, fari, prepari",
         "de": "tun, etwas ausf\u00fchren, an etwas arbeiten; bauen, machen, erstellen, vorbereiten",
+        "la": "agere, facere, lab\u014dr\u0101re, condere, par\u0101re",
         "it": "fare, agire, lavorare; costruire, creare, preparare",
         "pt": "fazer, agir, trabalhar; construir, fazer, preparar",
         "tr": "etmek, harekete ge\u00e7mek, \u00fcst\u00fcnde \u00e7al\u0131\u015fmak; in\u015fa etmek, yapmak, haz\u0131rlamak",
@@ -6526,6 +6748,7 @@
         "eo": "io longa kaj malmola; bran\u0109o, stango, bastono",
         "de": "langes hartes Ding; Stock, Ast, Stab",
         "tok": "linja kiwen",
+        "la": "virga, stips, baculum, [r\u0113s longa d\u016braque]",
         "it": "cosa lunga e dura; ramo, asta, bastone",
         "pt": "coisa dura longa; ramo, vara, graveto",
         "tr": "uzun sert \u015fey; dal, de\u011fnek, sopa",
@@ -6568,6 +6791,7 @@
         "eo": "greno, cerealo; aveno, hordeo, maizo, rizo, tritiko; pano, pasta\u0135o",
         "de": "Getreide; Gerste, Hafer, Mais, Reis, Weizen; Brot, Nudeln",
         "tok": "moku tan kasi.",
+        "la": "p\u0101nis, fr\u016bmentum, hordeum, tr\u012bticum",
         "it": "cereale, grano; orzo, mais, avena, riso, frumento; pane, pasta",
         "pt": "cereal, gr\u00e3o; cevada, milho, aveia, arroz, trigo; p\u00e3o, macarr\u00e3o",
         "tr": "tah\u0131l; arpa, m\u0131s\u0131r, yulaf, pirin\u00e7, bu\u011fday; ekmek, makarna",
@@ -6607,6 +6831,7 @@
         "eo": "doni, sendi, eligi, ellasi, provizi, meti",
         "de": "geben, senden, ausstr\u00f6hmen, bereitstellen, etwas hinstellen, freigeben",
         "tok": "sina tawa e ijo la sina pana e ona. sina pali e ni: ijo nanpa wan li jo e ijo nanpa tu. ni la sina pana e ijo nanpa tu tawa ijo nanpa wan.",
+        "la": "d\u0101re, mittere, praeb\u0113re, p\u014dnere",
         "it": "dare, inviare, emettere, fornire, mettere, rilasciare",
         "pt": "dar, enviar, emitir, fornecer, colocar, soltar",
         "tr": "vermek, g\u00f6ndermek, sa\u00e7mak, sa\u011flamak, koymak, serbest b\u0131rakmak",
@@ -6644,6 +6869,7 @@
         "ur": "\u0622\u0633\u0627\u0646\u060c \u063a\u06cc\u0631 \u067e\u06cc\u0686\u06cc\u062f\u06c1 \u061b \u067e\u0631 \u0633\u06a9\u0648\u0646 \u060c \u067e\u0631\u0627\u0645\u0646",
         "pa": "\u0a1a\u0a70\u0a17\u0a3e, \u0a38\u0a4c\u0a16\u0a3e; \u0a05\u0a30\u0a3e\u0a2e \u0a28\u0a3e\u0a32\u0a3c, \u0a38\u0a3c\u0a3e\u0a02\u0a24\u0a40 \u0a28\u0a3e\u0a32\u0a3c",
         "id": "baik, mudah; sederhana, santai, damai, tidak rumit",
+        "la": "simplex",
         "it": "buono, facile; semplice, rilassato, tranquillo, senza complicazioni",
         "tr": "iyi, kolay; basit, rahat, huzurlu, karma\u015f\u0131k olmayan",
         "zh_hant": "\u597d\u7684\u3001\u5bb9\u6613\u7684\uff1b\u7c21\u55ae\u7684\u3001\u653e\u9b06\u7684\u3001\u548c\u5e73\u7684\u3001\u4e0d\u8907\u96dc\u7684",
@@ -6681,6 +6907,7 @@
         "ur": "\u0628\u06be\u0627\u0626\u06cc \u0628\u06c1\u0646",
         "pa": "\u0a2d\u0a30\u0a3e \u0a2d\u0a48\u0a23",
         "id": "adik, kakak, saudara, saudari",
+        "la": "fr\u0101ter, soror",
         "it": "fratello, sorella",
         "tr": "abi, abla, karde\u015f",
         "zh_hant": "\u5144\u5f1f\u3001\u59d0\u59b9\u3001\u5144\u5f1f\u59d0\u59b9",
@@ -6782,6 +7009,7 @@
         "ur": "\u0631\u0648\u0646\u0627 \u060c \u0622\u0646\u0633\u0648 \u060c \u0627\u062f\u0627\u0633 \u060c \u0627\u062f\u0627\u0633\u06cc",
         "pa": "\u0a30\u0a4b\u0a23\u0a3e, \u0a39\u0a70\u0a1d\u0a42; \u0a09\u0a26\u0a3e\u0a38, \u0a26\u0a41\u0a16, \u0a09\u0a26\u0a3e\u0a38\u0a40",
         "id": "menangis, air mata; sedih",
+        "la": "tristitia, lacrima, fl\u0113re, dol\u0113re",
         "it": "piangere, lacrime; triste, tristezza",
         "tr": "a\u011flamak, g\u00f6z ya\u015f\u0131; \u00fczg\u00fcn, \u00fcz\u00fcnt\u00fc",
         "zh_hant": "\u54ed\u3001\u54ed\u6ce3\u3001\u773c\u6dda\uff1b\u60b2\u50b7\u7684\u3001\u50b7\u5fc3\u7684\u3001\u60b2\u75db",
@@ -6821,6 +7049,7 @@
         "eo": "de (uzata por dividi duan substantivan grupon, kiu priskribas la duan substantivan grupon) | ALT (enkondukas genitivan substantivon)",
         "de": "(trennt eine zweite Wortgruppe ab, die die erste Wortgruppe beschreibt) | ALT (f\u00fchrt ein Wort im Genetiv ein)",
         "tok": "nimi ni li kulupu e nimi mute sama ni: jan li pona li mute la ona li jan pona mute. jan li pona mute la ona li jan pi pona mute.",
+        "la": "(verbum pr\u012bmum \u0101 d\u0113scr\u012bbente articul\u014d compl\u016brium verb\u014drum dismembrat)",
         "it": "di (usato per dividere un secondo gruppo di sostantivi che descrive un primo gruppo di sostantivi) | ALT (introduce un genitivo sostantivato)",
         "pt": "de (usado para dividir um segundo grupo de substantivos que descreve um primeiro grupo de substantivos) | ALT (introduz um substantivo genitivo)",
         "tr": "-(n)\u0131n / -(n)in / -(n)un / -(n)\u00fcn (ilk isim grubundan, onu a\u00e7\u0131klayan ikinci isim grubunu ay\u0131rmak i\u00e7in kullan\u0131l\u0131r) | ALT (isme iyelik katar)",
@@ -6883,6 +7112,7 @@
         "eo": "koro (fizika a\u016d emocia); senti (emocion, rektan sperton)",
         "de": "Herz (k\u00f6rperlich oder emotional); Gef\u00fchl (eine Emotion oder eine direkte Erfahrung), f\u00fchlen",
         "es": "coraz\u00f3n (f\u00edsico o emocional); sentimiento (una emoci\u00f3n, una experiencia directa)",
+        "la": "cor, animus, s\u0113nsus, sent\u012bre",
         "it": "cuore (fisico o emotivo); sentimento (un'emozione, un'esperienza diretta)",
         "pt": "cora\u00e7\u00e3o (f\u00edsico ou emocional); sentimento (uma emo\u00e7\u00e3o, uma experi\u00eancia direta)",
         "tr": "kalp (fiziksel ya da duygusal); his (duygu, do\u011frudan deneyim)",
@@ -6921,6 +7151,7 @@
         "eo": "nigra, malhela, malluma",
         "de": "schwarz, dunkel, finster",
         "tok": "pimeja li kule pi weka suno.",
+        "la": "obsc\u016brus, \u0101ter, niger",
         "it": "nero, scuro, non illuminato",
         "pt": "preto, escuro, n\u00e3o iluminado",
         "tr": "siyah, kara, karanl\u0131k, ayd\u0131nlat\u0131lmam\u0131\u015f",
@@ -6953,6 +7184,7 @@
         "eo": "a\u016dto",
         "de": "Auto",
         "tok": "ni li nimi musi. kon ona li tomo tawa.",
+        "la": "currus",
         "it": "auto",
         "tr": "araba",
         "zh_hant": "\u6c7d\u8eca",
@@ -6991,6 +7223,7 @@
         "isv_c": "\u0442\u043e\u043c\u0443, \u0443\u043a\u043e\u043d\u0447\u0435\u043d\u044b, \u0437\u0430\u0432\u0440\u0448\u0435\u043d\u044b, \u043f\u0440\u043e\u0448\u043b\u044b, \u043c\u0438\u043d\u0443\u043b\u044b",
         "eo": "anta\u016da, finfarita, finita, fini\u011dinta, pasinta",
         "de": "her, abgeschlossen, beendet, fertig, vergangen; Ende",
+        "la": "f\u012bnis, f\u012bn\u012bre, praeteritus, retr\u014d\u0101ctus",
         "it": "tempo fa, completato, finito, terminato, passato",
         "pt": "tempo atr\u00e1s, conclu\u00eddo, terminado, finalizado, passado",
         "tr": "evvel, tamamlanm\u0131\u015f, sonlanm\u0131\u015f, bitmi\u015f, ge\u00e7mi\u015f",
@@ -7030,6 +7263,7 @@
         "eo": "artropodo, insekto, formiko, araneo, eta besto",
         "de": "Krabbeltier, Insekt, Ameise, Spinne",
         "es": "bicho, insecto, hormiga, ara\u00f1a",
+        "la": "insectum, form\u012bca, ar\u0101nea",
         "it": "cimice, insetto, formica, ragno",
         "pt": "inseto, formiga, aranha",
         "tr": "b\u00f6cek, eklem bacakl\u0131, kar\u0131nca, \u00f6r\u00fcmcek",
@@ -7104,6 +7338,7 @@
         "ur": "\u0686\u0627\u0631",
         "pa": "\u0a1a\u0a3e\u0a30",
         "id": "empat",
+        "la": "quattuor",
         "it": "quattro",
         "tr": "d\u00f6rt",
         "zh_hant": "\u56db",
@@ -7143,6 +7378,7 @@
         "eo": "kokso, flanko; apud, proksime de, proksima\u0135o | ALT kune kun, krom",
         "de": "H\u00fcfte, Seite; neben, nah, Umgebung | ALT zusammen mit (Komitativ), n\u00e4chst",
         "tok": "lon pi ijo tu li sama la ijo tu li lon poka.",
+        "la": "latus, femur, j\u016bxta, propter, v\u012bc\u012bnus | \u016bn\u0101 cum",
         "it": "fianco, lato; vicino a, accanto a, nelle vicinanze | ALT insieme a (comitativo), di fianco a",
         "pt": "quadril, lado; pr\u00f3ximo a, pr\u00f3ximo, vizinhan\u00e7a | ALT junto com (comitativo), ao lado",
         "tr": "kal\u00e7a, yan; yan\u0131nda, yak\u0131n\u0131nda, civar | ALT yan\u0131 s\u0131ra, ile birlikte (kom\u00fctatif)",
@@ -7182,6 +7418,7 @@
         "eo": "ujo, sako, bovlo, skatolo, taso, \u015dranko, tirkesto",
         "de": "Beh\u00e4lter, Tasche, Sch\u00fcssel, Box, Tasse, Schublade, Schrank, Gef\u00e4\u00df",
         "tok": "ijo li jo li awen e ijo ante la ona li poki li poki e ijo ante.",
+        "la": "scr\u012bnium, capsa, bursa, p\u014dculum, phiala, arm\u0101rium, v\u0101s",
         "it": "contenitore, borsa, ciotola, scatola, tazza, armadio, cassetto, recipiente",
         "pt": "cont\u00eainer, saco, tigela, caixa, copo, guarda-lou\u00e7a, gaveta, embarca\u00e7\u00e3o",
         "tr": "kap, torba, \u00e7anta, kase, kutu, fincan, dolap, \u00e7ekmece",
@@ -7220,6 +7457,7 @@
         "ur": "\u0628\u0648\u0644\u0646\u06af (\u06a9\u06be\u06cc\u0644) \u067e\u0646",
         "pa": "\u0a2c\u0a4b\u0a32\u0a3f\u0a70\u0a17 (\u0a16\u0a47\u0a32) \u0a2a\u0a3f\u0a28",
         "id": "pin boling",
+        "la": "c\u014dnus volvendi",
         "it": "birillo da bowling",
         "tr": "bovling labutu",
         "zh_hant": "\u4fdd\u9f61\u7403\u7403\u74f6",
@@ -7256,6 +7494,7 @@
         "ur": "\u06a9\u0627\u0645 \u06a9\u0627\u060c \u0645\u0641\u06cc\u062f",
         "pa": "\u0a15\u0a71\u0a2e \u0a26\u0a3e, \u0a32\u0a3e\u0a2d\u0a26\u0a3e\u0a07\u0a15, \u0a09\u0a2a\u0a2f\u0a4b\u0a17\u0a40",
         "id": "efektif, berguna, memberikan hasil yang baik",
+        "la": "exit\u016bs boni efficere, \u016btilis",
         "it": "efficace, utile, dare buoni risultati",
         "tr": "etkili, i\u015fe yarar, iyi sonu\u00e7 vermek",
         "zh_hant": "\u6709\u6548\u7684\u3001\u6709\u7528\u7684\u3001\u5e36\u4f86\u597d\u7d50\u679c\u7684\u3001\u6709\u6536\u7a6b\u7684",
@@ -7294,6 +7533,7 @@
         "de": "gut, positiv, n\u00fctzlich; freundlich, friedlich; einfach",
         "tok": "ijo pona li ike ala. ijo pona li pana e pilin suwi e pilin olin tawa jan. ijo pona li wile ala e pali wawa.",
         "es": "bueno, positivo, \u00fatil; amable, pac\u00edfico; bien; simple, f\u00e1cil",
+        "la": "bonus, \u016btilis, ben\u012bgnus, probus, simplex",
         "it": "buono, positivo, utile; amichevole, pacifico; semplice",
         "pt": "bom, positivo, \u00fatil; amig\u00e1vel, pac\u00edfico; simples",
         "tr": "iyi, pozitif, kullan\u0131\u015fl\u0131; cana yak\u0131n, bar\u0131\u015f\u00e7\u0131l; basit",
@@ -7335,6 +7575,7 @@
         "ur": "\u062c\u06be\u0648\u0679\u060c \u0646\u0642\u0644\u06cc\u060c \u0628\u06d2 \u062d\u0642\u06cc\u0642\u062a \u061b \u0686\u06a9\u0645\u0627 \u062f\u06cc\u0646\u0627\u060c \u062f\u06be\u0648\u06a9\u0627 \u062f\u06cc\u0646\u0627",
         "pa": "\u0a1d\u0a42\u0a20, \u0a28\u0a15\u0a32\u0a40, \u0a2c\u0a47\u0a39\u0a15\u0a40\u0a15\u0a24; \u0a27\u0a4b\u0a15\u0a3e \u0a26\u0a47\u0a23\u0a3e",
         "id": "maya, palsu, tidak nyata; berpura-pura; berbohong, menipu",
+        "la": "falsus, v\u0101nus, fallere, fraus",
         "it": "irreale, falso, non veritiero; fingere; ingannare, raggirare",
         "tr": "ger\u00e7ek d\u0131\u015f\u0131, yanl\u0131\u015f, yalan; numara yapmak; aldatmak, kand\u0131rmak",
         "zh_hant": "\u5047\u7684\u3001\u865b\u5047\u7684\u3001\u865b\u507d\u7684\uff1b\u5047\u88dd\uff1b\u6b3a\u9a19\u3001\u77c7\u9a19\u3001\u8a86\u9a19",
@@ -7370,6 +7611,7 @@
         "eo": "interaganta kun la oficiala libro de Tokipono",
         "de": "mit dem offiziellen Toki-Pona-Buch interagieren",
         "tok": "lipu nanpa wan pi jan Sonja la, sina lukin e ona la sina pu. sina kepeken ona la sina pu.",
+        "la": "libr\u014d linguae tokiponae authentic\u014d \u016bt\u012b",
         "it": "interagire con il libro ufficiale di Toki Pona",
         "pt": "interagir com o livro oficial de Toki Pona",
         "tr": "Toki Pona'n\u0131n resmi kitab\u0131 ile etkile\u015fimde bulunmak",
@@ -7442,6 +7684,7 @@
         "eo": "sama, simila; unu la alia; frat(in)o, egalulo, kamarado, kunulo; kiel, simile al",
         "de": "gleich, selbig, \u00e4hnlich; einander; Geschwister, Gleichgestellter, Artgenosse; so, wie",
         "tok": "ijo tu li ante lili anu ante ala la, ijo tu li sama",
+        "la": "p\u0101r, similis; invicem; s\u012bcut, velut, qu\u0101lis",
         "it": "stesso, simile; l'un l'altro; fratello, pari, compagno; come, uguale",
         "pt": "igual, semelhante; uns aos outros; irm\u00e3os, par, companheiro; como",
         "tr": "ayn\u0131, benzer; birbirine; karde\u015f, akran, t\u00fcrde\u015f; kadar, gibi",
@@ -7485,6 +7728,7 @@
         "ur": "\u0646\u0626\u06d2 \u0627\u0644\u0641\u0627\u0638 \u0628\u0646\u0627\u0646\u06d2 \u0645\u06cc\u06ba \u062f\u0644\u0686\u0633\u067e\u06cc \u0631\u06a9\u06be\u0646\u0627",
         "pa": "\u0a28\u0a35\u0a47 \u0a32\u0a2b\u0a1c \u0a2c\u0a28\u0a4c\u0a23\u0a47 \u0a26\u0a40 \u0a24\u0a3e\u0a02\u0a18 \u0a39\u0a4b\u0a23\u0a3e",
         "id": "ingin membuat kata baru",
+        "la": "pl\u016br\u0113s verba inven\u012bre velle",
         "it": "voler creare nuove parole",
         "tr": "yeni kelimeler olu\u015fturma iste\u011fi",
         "zh_hant": "\u60f3\u8981\u9020\u65b0\u8a5e\u7684",
@@ -7522,6 +7766,7 @@
         "ur": "\u062a\u06cc\u0646",
         "pa": "\u0a24\u0a3f\u0a71\u0a28",
         "id": "tiga",
+        "la": "tr\u0113s",
         "it": "tre",
         "tr": "\u00fc\u00e7",
         "zh_hant": "\u4e09",
@@ -7591,6 +7836,7 @@
         "isv_c": "\u043e\u0433\u043e\u045a; \u043d\u0430\u0433\u0440\u0454\u0432\u043d\u0438\u043a, \u0445\u0435\u043c\u0438\u0447\u043d\u0430 \u0440\u0435\u0430\u043a\u0446\u0438\u0458\u0430, \u0436\u0440\u043b\u043e \u0442\u0435\u043f\u043b\u0430",
         "eo": "fajro; varmiga elemento de kuirilo, kemia reago, fonto de varmo",
         "de": "Feuer; Kochelement, chemische Reaktion, W\u00e4rmequelle; kochen; warm",
+        "la": "\u012bgnis, calor, calidus, coquere",
         "it": "fuoco; elemento di combustione, reazione chimica, fonte di calore",
         "pt": "fogo; elemento de cozimento, rea\u00e7\u00e3o qu\u00edmica, fonte de calor",
         "tr": "ate\u015f; pi\u015firme arac\u0131, kimyasal tepkime, \u0131s\u0131 kayna\u011f\u0131",
@@ -7629,6 +7875,7 @@
         "eo": "ekstera formo, ekstera tavolo; \u015delo (de arbo, frukto, molusko), konko, karapaco, ha\u016dto; limo",
         "de": "\u00e4u\u00dfere Form, \u00e4u\u00dfere Schicht; Rinde, Schale, H\u00fclle, Haut; Grenze, Abgrenzung",
         "tok": "selo li lon insa pi ni tu: insa ona en poka ona.",
+        "la": "cortex, cr\u016bsta, pellis, \u014dra, l\u012bmes, l\u012bni\u0101mentum",
         "it": "forma esterna, strato esterno; corteccia, buccia, guscio, pelle; confine",
         "pt": "forma externa, camada externa; casca, concha, pele; fronteira",
         "tr": "d\u0131\u015f form, d\u0131\u015f katman; a\u011fa\u00e7 kabu\u011fu, deniz kabu\u011fu, kabuk, deri; s\u0131n\u0131r",
@@ -7669,6 +7916,7 @@
         "de": "was? welche?",
         "tok": "sina wile sona e ijo la, o pana e nimi ni lon toki sina.",
         "es": "\u00bfqu\u00e9? \u00bfcu\u00e1l?",
+        "la": "quid?, qu\u012b?",
         "it": "Cosa? Quale?",
         "pt": "que? qual?",
         "tr": "ne? hangi?",
@@ -7708,6 +7956,7 @@
         "isv_c": "\u043f\u0440\u043e\u0441\u0442\u043e\u0440 \u0432\u044b\u0448\u0435, \u043d\u0430\u0458\u0432\u044b\u0441\u0448\u0430 \u0447\u0435\u0441\u0442, \u043d\u0454\u0447\u0442\u043e \u0432\u043e\u0437\u0432\u044b\u0448\u0435\u043d\u043e; \u0443\u0434\u0438\u0432\u0438\u0442\u0435\u0459\u043d\u044b, \u0431\u043e\u0436\u0441\u043a\u044b, \u0441\u0432\u0435\u0442\u044b, \u043d\u0430\u0434\u043f\u0440\u0438\u0440\u043e\u0434\u043d\u044b",
         "eo": "areo super io, plej alta parto de io, io pli alta; miriga, dia, sankta, supernatura",
         "de": "h\u00f6hergelegener Bereich, h\u00f6chster Teil, etwas erhobenes; hoch, oben, \u00fcber; beeindruckend, g\u00f6ttlich, heilig, \u00fcbernat\u00fcrlich",
+        "la": "summus, subl\u012bmis, altus, supr\u0101, super, excelsus, sacer, d\u012bv\u012bnus",
         "it": "area al di sopra, parte pi\u00f9 alta, qualcosa di elevato; soggezione, divino, sacro, soprannaturale",
         "pt": "em cima, no topo, algo elevado | ALT tremendo, divino, sagrado, sobrenatural",
         "tr": "yukar\u0131daki alan, en y\u00fcksek b\u00f6l\u00fcm, y\u00fckseltilmi\u015f \u015fey; hayranl\u0131k uyand\u0131ran, ilahi, kutsal, do\u011fa\u00fcst\u00fc",
@@ -7746,6 +7995,7 @@
         "isv_c": "\u0442\u0454\u043b\u043e (\u0447\u043b\u043e\u0432\u0454\u0447\u0441\u043a\u043e \u0438\u043b\u0438 \u0436\u0438\u0432\u043e\u0442\u0438\u043d\u0441\u043a\u043e), \u0444\u0438\u0437\u0438\u0447\u043d\u043e \u0441\u0442\u0430\u045a\u0435, \u0442\u043e\u0440\u0441",
         "eo": "korpo (de homo a\u016d besto), fizika stato, torso",
         "de": "K\u00f6rper (einer Person oder eines Tieres), k\u00f6rperlicher Zustand, Torso, Oberk\u00f6rper",
+        "la": "corpus, f\u014drma",
         "it": "corpo (di persona o animale), stato fisico, torso",
         "pt": "corpo (de uma pessoa ou animal), estado f\u00edsico, torso",
         "tr": "(insan\u0131n veya hayvan\u0131n) v\u00fccut, fiziksel durum, g\u00f6vde",
@@ -7784,6 +8034,7 @@
         "isv_c": "\u043e\u0431\u043b\u044b, \u043a\u0440\u0443\u0433\u043b\u044b \u043f\u0440\u0454\u0434\u043c\u0435\u0442; \u0441\u0444\u0435\u0440\u0430, \u043a\u0440\u0443\u0433, \u0446\u0438\u043a\u043b, \u043a\u043e\u043b\u043e; \u0458\u0435\u0434\u043d\u043e\u0433\u043e\u0434\u043d\u044b, \u0458\u0435\u0434\u043d\u043e\u0440\u043e\u0447\u043d\u044b",
         "eo": "io ronda a\u016d cirkla; pilko, cirklo, ciklo, globo, sfero, rado; de unu jaro",
         "de": "rundes oder kreisf\u00f6rmiges Ding; Ball, Kreis, Zyklus, Kugel, Rad; ein Jahr betreffend",
+        "la": "orbis, circus, g\u0233rus, rota, pila, globus, rotundus, teres; annus",
         "it": "cosa rotonda o circolare; palla, cerchio, ciclo, sfera, ruota; di un anno",
         "pt": "coisa redonda ou circular; bola, c\u00edrculo, ciclo, esfera, roda; de um ano",
         "tr": "yuvarlak veya dairesel \u015fey; top, daire, d\u00f6ng\u00fc, k\u00fcre, tekerlek; bir y\u0131l",
@@ -7823,9 +8074,10 @@
         "pa": "\u0a28\u0a3f\u0a15\u0a35\u0a3e\u0a23 \u0a28\u0a42\u0a70 \u0a39\u0a3e\u0a38\u0a3f\u0a32 \u0a15\u0a3f\u0a71\u0a24\u0a3e \u0a39\u0a4b\u0a07\u0a06, \u0a39\u0a26 \u0a24\u0a4b\u0a02 \u0a35\u0a71\u0a27",
         "id": "ada di tingkat yang lebih tinggi, tercerahkan; mencapai kehebatan",
         "it": "su un livello/piano superiore, illuminato, epico; in misura estremamente vasta",
+        "tr": "daha y\u00fcksek r\u00fctbede/d\u00fczlemde, ayd\u0131nlanmak, ayd\u0131nlanm\u0131\u015f, epik; son derece kapsaml\u0131",
         "zh_hant": "\u5728\u66f4\u9ad8\u7684\u7b49\u7d1a/\u5c64\u6b21\u4e0a\u7684\u3001\u53f2\u8a69\u7d1a\u7684\uff1b\u5728\u6975\u5927\u7684\u7a0b\u5ea6\u4e0a",
         "zh_hans": "\u5728\u66f4\u9ad8\u7684\u7b49\u7ea7/\u5c42\u6b21\u4e0a\u7684\u3001\u53f2\u8bd7\u7ea7\u7684\uff1b\u5728\u6781\u5927\u7684\u7a0b\u5ea6\u4e0a",
-        "hr": "na vi\u0161oj razini, prosvijetljeno, epsko; na iznimno ve\u0107oj razini"
+        "hr": "na vi\u0161oj razini, prosvijetljeno"
       }
     },
     "sin": {
@@ -7859,6 +8111,7 @@
         "de": "neu, frisch; zus\u00e4tzlich, weitere, extra",
         "tok": "ijo li lon tenpo lili la ijo ni li sin.",
         "es": "nuevo, fresco; adicional, m\u00e1s, extra",
+        "la": "novus, rec\u0113ns, iterum",
         "it": "nuovo, fresco; aggiuntivo, un altro, extra",
         "pt": "novo, fresco; adicional, outro, extra",
         "tr": "yeni, taze; ek, bir di\u011fer, ilave",
@@ -7898,6 +8151,7 @@
         "eo": "vi",
         "de": "du, Sie, ihr; dein, euer",
         "tok": "toki la, nimi \"sina\" li ijo kute.",
+        "la": "t\u016b, tuus; v\u014ds, vester",
         "it": "tu, voi",
         "pt": "voc\u00ea ou voc\u00eas",
         "tl_l": "ikaw, kayo",
@@ -7937,6 +8191,7 @@
         "isv_c": "\u043b\u0438\u0446\u0435, \u043f\u0440\u0454\u0434\u045a\u0438, \u043f\u0440\u0454\u0434, \u0441\u0442\u0454\u043d\u0430",
         "eo": "viza\u011do, unuaranga, anta\u016do, muro",
         "de": "Gesicht, vorderst, vorne, vor, Wand",
+        "la": "fr\u014dns, vultus, ant\u012bcus, pr\u012bm\u014dris, ante, prae, pari\u0113s",
         "it": "faccia, davanti, anteriore, muro",
         "pt": "face, em frente, parede",
         "tr": "y\u00fcz (organ\u0131), \u00f6nde gelen, \u00f6n, duvar",
@@ -7975,6 +8230,7 @@
         "isv_c": "\u043e\u0431\u0440\u0430\u0437, \u043a\u0430\u0440\u0442\u0438\u043d\u0430, \u0441\u0438\u043c\u0431\u043e\u043b, \u0437\u043d\u0430\u043a, \u043f\u0438\u0441\u043c\u043e, \u043f\u0438\u0441\u0430\u045a\u0435",
         "eo": "bildo, figuro, simbolo, marka\u0135o, skriba\u0135o",
         "de": "Bild, Darstellung, Symbol, Markierung, Schrift, Text",
+        "la": "s\u012bgnum, im\u0101g\u014d, simul\u0101crum, scr\u012bpti\u014d, d\u0113f\u014drm\u0101ti\u014d, symbolum, nota, littera",
         "it": "immagine, figura, rappresentazione, simbolo, marchio, scrittura",
         "pt": "imagem, figura, representa\u00e7\u00e3o, s\u00edmbolo, marca, escrita",
         "tr": "g\u00f6r\u00fcnt\u00fc, resim, temsil, sembol, i\u015faret, yaz\u0131",
@@ -8008,7 +8264,7 @@
         "tr": "[\"lape\" kelimesinin mizahsal e\u015f anlaml\u0131s\u0131]",
         "zh_hant": "[lape\u7684\u5e7d\u9ed8\u540c\u7fa9\u8a5e]",
         "zh_hans": "[lape\u7684\u5e7d\u9ed8\u540c\u4e49\u8bcd]",
-        "hr": "[smije\u0161ni sinonim s lape]"
+        "hr": "[\u0161aljivi sinonim s lape]"
       }
     },
     "soko": {
@@ -8045,12 +8301,14 @@
         "ur": "\u0641\u0646\u06af\u0633",
         "pa": "\u0a2b\u0a70\u0a17\u0a38",
         "id": "jamur, kapang",
+        "la": "fungus",
         "it": "fungo, funghi",
         "tr": "mantar",
         "zh_hant": "\u771f\u83cc",
         "zh_hans": "\u771f\u83cc",
         "fi": "sieni, sienet",
-        "hr": "gljiva, gljivica"
+        "hr": "gljiva, gljivica",
+        "cy": "ffwng, ffyngau"
       }
     },
     "sona": {
@@ -8081,6 +8339,7 @@
         "isv_c": "\u0437\u043d\u0430\u0442\u0438, \u0432\u0454\u0434\u0454\u0442\u0438, \u0438\u043c\u0454\u0442\u0438, \u0438\u043c\u0430\u0442\u0438 \u0443\u043c\u0454\u045a\u0435, \u0431\u044b\u0442\u0438 \u043c\u0443\u0434\u0440\u044b\u043c \u0432 \u043f\u0440\u0454\u0434\u043c\u0435\u0442\u0443, \u0438\u043c\u0430\u0442\u0438 \u0438\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0438\u0458\u0443 \u043e; (\u043f\u0432.) \u0443\u043c\u0454\u0442\u0438",
         "eo": "scii, esti lerta pri, esti sa\u011da pri, havi informojn pri; (a.v.) scipovi",
         "de": "wissen, k\u00f6nnen, erfahren sein in, weise sein \u00fcber, Informationen haben \u00fcber; (pv.) wissen wie",
+        "la": "sc\u012bre, call\u0113re, sapere, \u012bnf\u014drm\u0101ti\u014d, discipl\u012bna",
         "it": "conoscere, essere esperto, essere saggio, avere informazioni su; (pv.) sapere come",
         "pt": "saber, conhecer, ser esperto em, ser s\u00e1bio sobre, ter informa\u00e7\u00e3o sobre; (pv.) saber como fazer",
         "tr": "bilmek, -de/-da becerikli olmak, hakk\u0131nda bilgili olmak, hakk\u0131nda bilgi sahibi olmak; (y.f.) nas\u0131l yap\u0131ld\u0131\u011f\u0131n\u0131 bilmek",
@@ -8121,6 +8380,7 @@
         "ur": "\u0628\u0627\u0626\u06cc\u06ba\u060c \u0628\u0627\u06cc\u0627\u06ba",
         "pa": "\u0a16\u0a71\u0a2c\u0a47",
         "id": "kiri",
+        "la": "sinister, laevus",
         "it": "sinistra, lato sinistro, babordo",
         "tr": "sol, sol taraf",
         "zh_hant": "\u5de6\u65b9\u3001\u5de6\u908a",
@@ -8157,6 +8417,7 @@
         "eo": "besto, surtera mamulo",
         "de": "Tier, Biest, Lands\u00e4ugetier",
         "es": "animal, bestia, mam\u00edfero terrestre",
+        "la": "animal, pecus, fera, b\u0113stia",
         "it": "animale, bestia, mammifero terrestre",
         "pt": "animal, fera, mam\u00edfero terrestre",
         "tr": "hayvan, canavar, kara memelisi",
@@ -8188,6 +8449,7 @@
         "eo": "(vorto rezervita por estonteca uzo de Sonja Lang)",
         "de": "(f\u00fcr zuk\u00fcnftige Verwendung von Sonja Lang reserviertes Wort)",
         "tok": "jan Sonja li wile e ni: nimi ni li awen open tawa lipu sin lon tenpo kama.",
+        "la": "(verbum \u0101 Sonja Lang reserv\u0101tum pr\u014d \u016bs\u016b fut\u016bro)",
         "it": "(parola riservata per uso futuro da Sonja Lang)",
         "tr": "(gelecekte kullanma amac\u0131yla Sonja Lang taraf\u0131ndan reserve edilmi\u015f bir kelime)",
         "zh_hant": "\uff08Sonja Lang\u4fdd\u7559\u55ae\u8a5e\uff09",
@@ -8246,6 +8508,7 @@
         "eo": "[tajperaro de la vorto \u201csike\u201d]",
         "de": "[Tippfehler von sike]",
         "tok": "(jan Sonja li sitelen pakala e \"sike\")",
+        "la": "[error imposit\u012b verb\u012b \"sike\"]",
         "it": "[refuso di sike]",
         "tr": "[\"sike\" kelimesinin yanl\u0131\u015f yaz\u0131m\u0131]",
         "zh_hant": "[sike\u7684\u62fc\u5beb\u932f\u8aa4]",
@@ -8282,6 +8545,7 @@
         "eo": "granda, peza, longa, alta; grava; plenkreska",
         "de": "gro\u00df, schwer, lang, breit, hoch; wichtig; erwachsen",
         "tok": "ijo suli li lili ala. tenpo open la, mi jan lili. taso, tenpo ni la, mi jan suli.",
+        "la": "m\u0101gnus, longus, gravis, l\u0101tus, adultus, grandis",
         "it": "grande, pesante, grosso, lungo, alto; importante; adulto",
         "pt": "grande, longo, alto, pesado; importante; adulto",
         "tr": "b\u00fcy\u00fck, a\u011f\u0131r, geni\u015f, uzun; \u00f6nemli; yeti\u015fkin",
@@ -8289,7 +8553,8 @@
         "zh_hant": "\u5927\u7684\u3001\u91cd\u7684\u3001\u9577\u7684\u3001\u9ad8\u7684\uff1b\u91cd\u8981\u7684\uff1b\u6210\u5e74\u7684",
         "zh_hans": "\u5927\u7684\u3001\u91cd\u7684\u3001\u957f\u7684\u3001\u9ad8\u7684\uff1b\u91cd\u8981\u7684\uff1b\u6210\u5e74\u7684",
         "fi": "suuri, iso, raskas, pitk\u00e4, korkea; t\u00e4rke\u00e4; aikuinen",
-        "hr": "veliko, te\u0161ko, duga\u010dko, visoko; va\u017eno; odraslo"
+        "hr": "veliko, te\u0161ko, duga\u010dko, visoko; va\u017eno; odraslo",
+        "cy": "mawr, trwm, bras, hir, tal; pwysig; oedolyn"
       }
     },
     "suno": {
@@ -8322,6 +8587,7 @@
         "eo": "suno; lumo, heleco, lumi, ardi, brilo; lumfonto",
         "de": "Sonne; Licht, Helligkeit, Leuchten, Glanz, Schein; Lichtquelle",
         "tok": "sina ken lukin e wawa ni. nimi ni li ken toki e ni kin: ijo suno suli lon sewi.",
+        "la": "s\u014dl, l\u016bx, l\u016bc\u0113re",
         "it": "sole; luce, luminosit\u00e0, bagliore, radiosit\u00e0, splendore; fonte di luce",
         "pt": "sol; luz, brilho, luminosidade; fonte de luz",
         "tr": "g\u00fcne\u015f; \u0131\u015f\u0131k, parlakl\u0131k, par\u0131lt\u0131, \u0131\u015f\u0131ma, \u0131\u015f\u0131lt\u0131; \u0131\u015f\u0131k kayna\u011f\u0131",
@@ -8361,6 +8627,7 @@
         "eo": " horizontala surfaco, io sur kio oni metas ion alian",
         "de": "waagerechte Oberfl\u00e4che, Ding f\u00fcr das Abstellen von anderen Dingen",
         "tok": "supa li lon anpa pi tomo mi. kin la, jan li ken lape lon supa.",
+        "la": "superfici\u0113s l\u012bbr\u0101tus, m\u0113nsa, s\u0113d\u0113s, lectus",
         "it": "superficie orizzontale, cosa su cui mettere o appoggiare qualcosa",
         "pt": "superf\u00edcie horizontal, coisa para colocar algo em cima",
         "tr": "yatay y\u00fczey, \u00fcst\u00fcne bir \u015fey koyulan \u015fey",
@@ -8397,6 +8664,7 @@
         "ur": "\u067e\u0644\u0627\u0679\u06cc\u067e\u0633 (\u062c\u0627\u0646\u0648\u0631)",
         "pa": "\u0a2a\u0a32\u0a48\u0a1f\u0a3f\u0a2a\u0a38 (\u0a1c\u0a3e\u0a28\u0a35\u0a30)",
         "id": "platipus",
+        "la": "ornithorhyncus anat\u012bnus",
         "it": "ornitorinco",
         "tr": "ornitorenk",
         "zh_hant": "\u9d28\u5634\u7378",
@@ -8433,6 +8701,7 @@
         "eo": "dol\u0109a, bonodora; \u0109arma, senkulpa, aminda",
         "de": "s\u00fc\u00df, wohlriechend; niedlich, unschuldig, liebenswert",
         "tok": "ona li pona tawa uta, ona li pona tawa lukin, ona li pali ike ala.",
+        "la": "dulcis, su\u0101vis, bellulus",
         "it": "dolce, fragrante; carino, innocente, adorabile",
         "pt": "doce, cheiroso; fofo, inocente, ador\u00e1vel",
         "tr": "tatl\u0131, g\u00fczel kokulu; sevimli, masum, \u015firin",
@@ -8502,6 +8771,7 @@
         "ur": "\u0686\u067e\u06a9\u0648 \u061b \u0645\u063a\u0646\u0627\u0637\u06cc\u0633\u06cc",
         "pa": "\u0a1a\u0a3f\u0a2a\u0a15\u0a42, \u0a2e\u0a48\u0a17\u0a28\u0a47\u0a1f\u0a3f\u0a15",
         "id": "lengket; magnetik",
+        "la": "gl\u016btin\u014dsus, magn\u0113ticus",
         "it": "appiccicoso, magnetico; legare, attrarre, attaccare, agganciare",
         "tr": "yap\u0131\u015fkan, manyetik; ba\u011f kurma, \u00e7ekmek, takmak",
         "zh_hant": "\u9ecf\u6027\u7684\u3001\u6709\u78c1\u6027\u7684\uff1b\u9023\u63a5\u3001\u7d50\u5408\u3001\u5438\u5f15\u3001\u628a\u2026\u2026\u9644\u4e0a\u3001\u8cbc\u4e0a\u3001\u593e\u4f4f",
@@ -8537,6 +8807,7 @@
         "isv_c": "\u043e\u0434, \u0438\u0437, \u0432\u0441\u043b\u0454\u0434; \u043f\u043e\u0445\u043e\u0434\u0436\u0435\u045a\u0435, \u043f\u043e\u0432\u043e\u0434, \u043f\u0440\u0438\u0447\u0438\u043d\u0430",
         "eo": "pro, el, fare de; origino, ka\u016dzo",
         "de": "von, durch, wegen; Grund, Ursache",
+        "la": "ab, ex, per, causa, r\u0101d\u012bx",
         "it": "da, a causa di; origine, causa",
         "pt": "de, por, a partir de, por causa de; origem, causa",
         "tr": "-den/-dan/-ten/-tan, (-in) y\u00fcz\u00fcnden, (-den) dolay\u0131; k\u00f6ken, sebep",
@@ -8576,6 +8847,7 @@
         "isv_c": "\u0430\u043b\u0435, \u043d\u043e, \u0458\u0435\u0434\u043d\u0430\u043a\u043e; \u0458\u0435\u0434\u0438\u043d\u043e, \u0442\u043e\u043b\u0438\u043a\u043e, \u0441\u0430\u043c\u043e",
         "eo": "sed, tamen; nur",
         "de": "aber, jedoch; nur",
+        "la": "s\u014dlum, tantummodo, autem, sed",
         "it": "ma, tuttavia, solo",
         "pt": "mas, por\u00e9m; s\u00f3, apenas",
         "tr": "ama, ancak; sadece",
@@ -8583,7 +8855,8 @@
         "zh_hant": "\u4f46\u662f\u3001\u53ef\u662f\u3001\u7136\u800c\uff1b\u53ea\u3001\u53ea\u6709\u3001\u50c5",
         "zh_hans": "\u4f46\u662f\u3001\u53ef\u662f\u3001\u7136\u800c\uff1b\u53ea\u3001\u53ea\u6709\u3001\u4ec5",
         "fi": "mutta, kuitenkin; vain",
-        "hr": "ali, no; jedino"
+        "hr": "ali, no; jedino",
+        "cy": "ond; dim ond, unig"
       }
     },
     "tawa": {
@@ -8615,6 +8888,7 @@
         "eo": "al, iranta al, en la direkto al; por, al; la\u016d la vidpunkto de; movanta | ALT (a.v.) iri ...i",
         "de": "hin, zu, nach; f\u00fcr; nach Ansicht von; gehen, bewegen | ALT (HV) zu... hingehen",
         "tok": "lon ijo li kama ante kepeken tenpo la ona li tawa. ijo li tawa li kama poka pi ijo ante la, ijo li tawa ijo ante. ijo li pona lon pilin sina la ijo li pona tawa sina.",
+        "la": "ad, ob, versus, in, pr\u014d; \u012bre, currere, mov\u0113re",
         "it": "andare a, verso; per; dalla prospettiva di; muoversi | ALT (pv.) stando",
         "pt": "ir a, a; para; no ponto de vista de; em movimento, ambulante | ALT (pv.) ir",
         "tr": "-e/-a; i\u00e7in; (-in) bak\u0131\u015f a\u00e7\u0131s\u0131ndan; ilerlemek | ALT (yard. fiil) -ecek/-acak",
@@ -8656,6 +8930,7 @@
         "ur": "(\u06a9\u0633\u06cc \u0627\u0648\u0631 \u06a9\u06d2 \u06c1\u0648\u0627\u0644\u06d2 \u06a9\u06d2 \u0634\u0631\u0648\u0639\u0627\u062a \u06a9\u06cc \u0639\u0644\u0627\u0645\u062a)",
         "pa": "(\u0a26\u0a42\u0a1c\u0a47 \u0a26\u0a3e \u0a39\u0a35\u0a3e\u0a32\u0a47 \u0a28\u0a42\u0a70 \u0a38\u0a3c\u0a41\u0a30\u0a42 \u0a15\u0a30\u0a28 \u0a35\u0a3e\u0a32\u0a3e \u0a1a\u0a3f\u0a28\u0a4d\u0a39)",
         "id": "(partikel untuk mengawali kutipan)",
+        "la": "(signum initi\u012b cit\u0101t\u012b)",
         "it": "(particella che introduce una citazione)",
         "tr": "(al\u0131nt\u0131ya ba\u015flama i\u015fareti)",
         "zh_hant": "\uff08\u958b\u59cb\u5f15\u7528\u7684\u52a9\u8a5e\uff09",
@@ -8691,6 +8966,7 @@
         "ur": "\u062f\u0627\u0626\u06cc\u06ba\u060c \u062f\u0627\u06cc\u0627\u06ba",
         "pa": "\u0a38\u0a71\u0a1c\u0a47",
         "id": "kanan",
+        "la": "dexter",
         "it": "destra, lato destro, dritta",
         "tr": "sa\u011f, sa\u011f taraf",
         "zh_hant": "\u53f3\u65b9\u3001\u53f3\u908a",
@@ -8725,7 +9001,8 @@
         "isv_l": "voda, tekutina, mokrota; napoj",
         "isv_c": "\u0432\u043e\u0434\u0430, \u0442\u0435\u043a\u0443\u0442\u0438\u043d\u0430, \u043c\u043e\u043a\u0440\u043e\u0442\u0430; \u043d\u0430\u043f\u043e\u0458",
         "eo": "akvo, likvo, flua\u0135o, malseka substanco; trinka\u0135o",
-        "de": "Wasser, Fl\u00fcssigkeit, nasse Substanz; Getr\u00e4nk",
+        "de": "Wasser, Fl\u00fcssigkeit, nasse Substanz; Getr\u00e4nk; nass, feucht, fl\u00fcssig",
+        "la": "aqua, \u016bdus, \u016bm\u0113re, liquidus, p\u014dti\u014d",
         "it": "acqua, liquido, fluido, sostanza umida; bevande",
         "pt": "\u00e1gua, l\u00edquido, fluido, subst\u00e2ncia molhada; bebida",
         "tr": "su, s\u0131v\u0131, ak\u0131\u015fkan, \u0131slak madde; i\u00e7ecek",
@@ -8799,6 +9076,7 @@
         "eo": "tempo, da\u016dro, momento, okazo, fojo, periodo, situacio",
         "de": "Zeit, Dauer, Moment, Gelegenheit, Zeitraum, Situation",
         "tok": "tenpo la ale li kama ante li kama moli li kama weka.",
+        "la": "tempus, h\u014dra, d\u016br\u0101ti\u014d, spatium, occ\u0101si\u014d",
         "it": "tempo, durata, momento, occasione, periodo, situazione",
         "pt": "tempo, dura\u00e7\u00e3o, momento, ocasi\u00e3o, per\u00edodo, situa\u00e7\u00e3o",
         "tr": "zaman, s\u00fcre, an, f\u0131rsat, d\u00f6nem, durum",
@@ -8838,6 +9116,7 @@
         "ur": "(\u06a9\u0633\u06cc \u0627\u0648\u0631 \u06a9\u06d2 \u06c1\u0648\u0627\u0644\u06d2 \u06a9\u06d2 \u0622\u062e\u0631 \u06a9\u06cc \u0639\u0644\u0627\u0645\u062a)",
         "pa": "(\u0a26\u0a42\u0a1c\u0a47 \u0a26\u0a3e \u0a39\u0a35\u0a3e\u0a32\u0a47 \u0a28\u0a42\u0a70 \u0a2e\u0a41\u0a15\u0a09\u0a23 \u0a35\u0a3e\u0a32\u0a3e \u0a1a\u0a3f\u0a28\u0a4d\u0a39)",
         "id": "(partikel untuk mengakhiri kutipan)",
+        "la": "(signum f\u012bnis cit\u0101t\u012b)",
         "it": "(particella che chiude una citazione)",
         "tr": "(al\u0131nt\u0131 kapama edat\u0131)",
         "zh_hant": "\uff08\u7d50\u675f\u5f15\u7528\u7684\u52a9\u8a5e\uff09",
@@ -8904,6 +9183,7 @@
         "eo": "komuniki, diri, paroli, uzi lingvon, pensi; saluton",
         "de": "kommunizieren, sagen, sprechen, reden, Sprache benutzen, denken; hallo",
         "tok": "toki la, jan li ken pana e sona kepeken kalama anu sitelen anu luka.",
+        "la": "dicere, loqu\u012b, \u0113dere, n\u0101rr\u0101re, colloqu\u012b, p\u016bt\u0101re, c\u014dgit\u0101re; salv\u0113!, salv\u0113te!, heus!",
         "it": "comunicare, dire, parlare, conversare, usare il linguaggio, pensare; ciao",
         "pt": "comunicar, dizer, falar, conversar, usar linguagem, pensar; ol\u00e1, oi",
         "tr": "ileti\u015fim kurmak, s\u00f6ylemek, konu\u015fmak, sohbet etmek, dil kullanmak, d\u00fc\u015f\u00fcnmek; merhaba",
@@ -8935,6 +9215,7 @@
         "eo": "[tajperaro de la vorto \u201ctomo\u201d]",
         "de": "[Tippfehler von tomo]",
         "tok": "(jan Sonja li sitelen pakala e \"tomo\")",
+        "la": "[error imposit\u012b verb\u012b \"tomo\"]",
         "it": "[refuso di tomo]",
         "tr": "[\"tomo\" kelimesinin yanl\u0131\u015f yaz\u0131m\u0131]",
         "zh_hant": "[tomo\u7684\u62fc\u5beb\u932f\u8aa4]",
@@ -8971,6 +9252,7 @@
         "eo": "endoma spaco; konstrua\u0135o, hejmo, domo, \u0109ambro",
         "de": "Innenraum, Geb\u00e4ude, Haus, Raum, Zuhause",
         "tok": "lon tomo la, ijo li awen li lon nasin pona tawa ona.",
+        "la": "domus, aed\u0113s, l\u012bmen, concl\u0101ve",
         "it": "spazio interno; edificio, casa, abitazione, stanza",
         "pt": "espa\u00e7o interno; casa, apartamento, pr\u00e9dio, sala",
         "tr": "kapal\u0131 alan; bina, ev, oda",
@@ -9015,6 +9297,7 @@
         "ur": "\u0645\u062a\u062c\u0646\u0651\u0633 \u0627\u0641\u0631\u0627\u062f\u060c \u0679\u0631\u0627\u0646\u0633\u062c\u06cc\u0646\u0688\u0631 \u061b \u0646\u06c1 \u0639\u0648\u0631\u062a \u0627\u0648\u0631 \u0646\u06c1 \u06c1\u06cc \u0645\u0631\u062f",
         "pa": "\u0a15\u0a3f\u0a71\u0a28\u0a30; \u0a28\u0a3e \u0a2e\u0a39\u0a3f\u0a32\u0a3e \u0a28\u0a3e \u0a2a\u0a41\u0a30\u0a41\u0a38\u0a3c",
         "id": "nonbiner; transgender",
+        "la": "diversus sexus",
         "it": "non-binario, genere non conforme | ALT trans, non-cisgender",
         "tr": "ikili olmayan, cinsiyetsiz | ALT trans, cisseks\u00fcel olmayan",
         "zh_hant": "\u975e\u4e8c\u5143\u7684\u3001\u975e\u5e38\u898f\u6027\u5225\u7684 | ALT \u8de8\u6027\u5225\u7684\u3001\u975e\u9806\u6027\u5225\u7684",
@@ -9057,6 +9340,7 @@
         "eo": "du | ALT disigi, tran\u0109i",
         "de": "zwei | ALT teilen, schneiden",
         "tok": "ijo wan lon poka ijo wan li ijo tu.",
+        "la": "duo | ALT s\u0113par\u0101re, sec\u0101re",
         "it": "due | ALT separare, tagliare",
         "pt": "dois | ALT separar, cortar, dividir",
         "tr": "iki | ALT ay\u0131rmak, kesmek",
@@ -9097,6 +9381,7 @@
         "ur": "\u062a\u06cc\u0646",
         "pa": "\u0a24\u0a3f\u0a71\u0a28",
         "id": "tiga",
+        "la": "tr\u0113s",
         "it": "tre",
         "tr": "\u00fc\u00e7",
         "zh_hant": "\u4e09",
@@ -9124,6 +9409,7 @@
         "eo": "(vorto rezervita por estonteca uzo de Sonja Lang)",
         "de": "(f\u00fcr zuk\u00fcnftige Verwendung von Sonja Lang reserviertes Wort)",
         "tok": "jan Sonja li wile e ni: nimi ni li awen open tawa lipu sin lon tenpo kama.",
+        "la": "(verbum \u0101 Sonja Lang reserv\u0101tum pr\u014d \u016bs\u016b fut\u016bro)",
         "it": "(parola riservata per uso futuro da Sonja Lang)",
         "tr": "(gelecekte kullanma amac\u0131yla Sonja Lang taraf\u0131ndan reserve edilmi\u015f bir kelime)",
         "zh_hant": "\uff08Sonja Lang\u4fdd\u7559\u55ae\u8a5e\uff09",
@@ -9150,6 +9436,7 @@
         "eo": "mirigi homojn pro tio, ke oni estas en la unua loko en la rangotabulo de tokipona ludo",
         "de": "Leute verbl\u00fcffen, indem man an der Spitze der Rangliste eines Toki-Pona-Spiels stehst",
         "tok": "sina umesu la sina kama e pilin pona lon jan ante tan ni: sina pali pona lon musi pi toki pona.",
+        "la": "stupefacere populum per esse pr\u012bnceps in l\u016bdum tokiponae",
         "it": "stupire la gente essendo in cima alla classifica di un gioco toki pona",
         "tr": "bir Toki Pona oyununda s\u0131ralama tahtas\u0131n\u0131n zirvesine \u00e7\u0131k\u0131p insanlar\u0131 hayrete d\u00fc\u015f\u00fcrme",
         "zh_hant": "\u5728\u9053\u672c\u8a9e\u904a\u6232\u88e1\u540d\u5217\u524d\u8305\u800c\u4f7f\u4eba\u9a5a\u8a1d",
@@ -9187,6 +9474,7 @@
         "eo": "seksumi, fiki, amori",
         "de": "Sex, Geschlecht, sexuelle Beziehung mit jemandem haben",
         "tok": "jan li ken unpa kepeken jan ante. unpa ona li pali e jan lili sin.",
+        "la": "genus, s\u0113men, sexus, venus, fut\u016bti\u014d",
         "it": "avere rapporti sessuali con",
         "pt": "ter rela\u00e7\u00f5es sexuais com",
         "tr": "cinsel ili\u015fkide bulunmak, sevi\u015fmek",
@@ -9224,6 +9512,7 @@
         "ur": "\u062c\u0627\u0645\u0646\u06cc",
         "pa": "\u0a1c\u0a3e\u0a2e\u0a28\u0a40 \u0a30\u0a70\u0a17",
         "id": "ungu",
+        "la": "purpureus",
         "it": "viola",
         "tr": "mor, lila, efl\u00e2tun",
         "he": "\u05e1\u05d2\u05d5\u05dc",
@@ -9258,6 +9547,7 @@
         "ur": "\u062c\u0627\u062f\u0648 \u060c \u062c\u0627\u062f\u0648\u0626\u06cc\u060c \u0679\u0648\u0646\u06c1 \u060c \u0645\u0627\u0641\u0648\u0642 \u0627\u0644\u0641\u0637\u0631\u062a",
         "pa": "\u0a1c\u0a3e\u0a26\u0a42, \u0a1c\u0a3e\u0a26\u0a42\u0a08, \u0a1f\u0a4b\u0a23\u0a3e",
         "id": "sulap, sihir; ajaib, supernatural, kultus, tidak dapat dimengerti",
+        "la": "mag\u012ba",
         "it": "magia, stregoneria; incantare; magico, soprannaturale, occulto, incomprensibile",
         "tr": "sihir, b\u00fcy\u00fc; efsun; b\u00fcy\u00fcl\u00fc, do\u011fa\u00fcst\u00fc, esrarl\u0131, ak\u0131l almaz",
         "zh_hant": "\u9b54\u6cd5\u3001\u5deb\u8853\uff1b\u5c0d\u2026\u2026\u4f7f\u7528\u9b54\u6cd5\uff1b\u6709\u9b54\u529b\u7684\u3001\u8d85\u81ea\u7136\u7684\u3001\u795e\u7955\u7684\u3001\u7384\u5999\u7684\u3001\u96e3\u4ee5\u7406\u89e3\u7684",
@@ -9295,6 +9585,7 @@
         "eo": "bu\u015do, lipoj, bu\u015da kavo, makzelo",
         "de": "Mund, Lippen, Rachen, Kiefer",
         "tok": "uta li lupa sinpin li ken jo e ijo li ken kama insa e ijo.",
+        "la": "\u014ds, labium, faux, m\u0101la",
         "it": "bocca, labbra, cavit\u00e0 orale, mascella",
         "pt": "boca, l\u00e1bios, cavidade oral, mand\u00edbula",
         "tr": "a\u011f\u0131z, dudaklar, a\u011f\u0131z bo\u015flu\u011fu, \u00e7ene",
@@ -9334,6 +9625,7 @@
         "eo": "batali, defii, konkuri kontra\u016d, lukti kontra\u016d",
         "de": "Kampf, Streit, k\u00e4mpfen, Herausforderung, gegen j-n zum Wettkampf antreten",
         "tok": "ijo li pali e ike tawa ijo ante. ni la, ona tu li utala.",
+        "la": "cert\u0101men, bellum, pr\u014dvoc\u0101ti\u014d, p\u016bgn\u0101re",
         "it": "combattere, sfidare, competere contro, lottare contro",
         "pt": "batalhar, desafiar, competir com, lutar contra",
         "tr": "sava\u015fmak, meydan okumak, rekabet etmek, m\u00fccadele etmek",
@@ -9341,7 +9633,8 @@
         "zh_hant": "\u6230\u9b25\u3001\u6311\u6230\u3001\u8207\u2026\u2026\u7af6\u722d\u3001\u8207\u2026\u2026\u9b25\u722d\u3001\u8207\u2026\u2026\u6297\u722d",
         "zh_hans": "\u6218\u6597\u3001\u6311\u6218\u3001\u4e0e\u2026\u2026\u7ade\u4e89\u3001\u4e0e\u2026\u2026\u6597\u4e89\u3001\u4e0e\u2026\u2026\u6297\u4e89",
         "fi": "taistella, haastaa, kilpailla, kamppailla",
-        "hr": "boriti se (protiv), izazov, natjecati se (protiv)"
+        "hr": "boriti se (protiv), izazov, natjecati se (protiv)",
+        "cy": "brwydr, brwydro \u00e2; her, cystadlu \u00e2"
       }
     },
     "wa": {
@@ -9371,6 +9664,7 @@
         "ur": "(\u062d\u06cc\u0631\u062a \u0627\u0648\u0631 \u0686\u0648\u06a9\u0646\u06d2 \u06a9\u06cc \u0639\u0644\u0627\u0645\u062a)",
         "pa": "(\u0a39\u0a48\u0a30\u0a24 \u0a05\u0a24\u0a47 \u0a1a\u0a4c\u0a02\u0a15\u0a23 \u0a26\u0a3e \u0a1a\u0a3f\u0a28\u0a4d\u0a39)",
         "id": "(mengungkapkan rasa takjub)",
+        "la": "(catapl\u0113xis)",
         "it": "[interiezione] indica soggezione o stupore",
         "tr": "[\u00fcnlem] (\u015fa\u015fk\u0131nl\u0131k veya hayret)",
         "zh_hant": "[\u611f\u5606\u8a5e] \u8868\u793a\u656c\u754f\u6216\u9a5a\u5947",
@@ -9407,6 +9701,7 @@
         "ur": "\u0633\u06cc\u0627\u0642 \u0648 \u0633\u0628\u0627\u0642 \u060c \u0627\u06c1\u0645 \u0628\u0627\u062a \u060c \u0645\u062f\u0651\u06c1",
         "pa": "\u0a38\u0a70\u0a26\u0a30\u0a2d, \u0a2e\u0a41\u0a71\u0a16 \u0a17\u0a71\u0a32, \u0a2e\u0a41\u0a71\u0a26\u0a3e",
         "id": "konteks, topik, penting, tentang, relevan",
+        "la": "circumjacentium",
         "it": "contesto, argomento, salienza, pertinente, attuale, pertinenza, essere rilevante",
         "tr": "ba\u011flam, konu, iligili, alakal\u0131",
         "zh_hant": "\u80cc\u666f\u3001\u74b0\u5883\u3001\u4e3b\u984c\u3001\u986f\u8457\u9ede\u3001\u6709\u95dc\u7684\u3001\u8cbc\u5207\u4e3b\u984c\u7684\u3001\u6709\u95dc\u6642\u4e8b\u7684\u3001\u7576\u524d\u95dc\u6ce8\u7684",
@@ -9442,6 +9737,7 @@
         "isv_c": "\u0431\u0454\u043b\u044b, \u043f\u043e\u0434\u043e\u0431\u043d\u044b \u0431\u0454\u043b\u043e\u043c\u0443; \u0441\u0432\u0454\u0442\u043b\u044b, \u0431\u043b\u0454\u0434\u044b",
         "eo": "blanka, blankeca; helkolora, pala",
         "de": "wei\u00df, hell, bleich, blass",
+        "la": "albus, niveus, pallidus",
         "it": "bianco, biancastro; chiaro, pallido",
         "pt": "branco; claro, p\u00e1lido",
         "tr": "beyaz, beyaz\u0131ms\u0131; a\u00e7\u0131k renkli, soluk",
@@ -9481,6 +9777,7 @@
         "isv_c": "\u0443\u043d\u0438\u043a\u0430\u043b\u043d\u044b, \u043e\u0431\u0458\u0435\u0434\u0438\u045a\u0435\u043d\u044b, \u0441\u0458\u0435\u0434\u0438\u045a\u0435\u043d\u044b; \u0458\u0435\u0434\u0438\u043d",
         "eo": "unika, unuigita, unui\u011dinta; unu",
         "de": "eins; eimalig, vereinen",
+        "la": "\u016bnum, \u016bni\u014d, c\u014dpul\u0101re, as",
         "it": "unico, unito; uno",
         "pt": "\u00fanico, unido; um",
         "tr": "e\u015fsiz, benzersiz, birle\u015fmi\u015f; bir",
@@ -9520,6 +9817,7 @@
         "eo": "birdo, fluganta viva\u0135o, besto havanta flugilojn",
         "de": "Vogel, fliegendes Tier, befl\u00fcgeltes Tier",
         "tok": "ijo ni li jo e luka sama lipu. luka ni la ona li ken wawa e kon. mute la ijo ni li ken tawa kon tan ni.",
+        "la": "avis, animal vol\u0101ns",
         "it": "uccello, creatura volante, animale alato",
         "pt": "p\u00e1ssaro, criatura voadora, animal com asas",
         "tr": "ku\u015f, u\u00e7an yarat\u0131k, kanatl\u0131 hayvan",
@@ -9550,6 +9848,7 @@
         "eo": "besto kun kvalitoj de amba\u016d waso & soweli",
         "de": "Tier mit Eigenschaften von waso & soweli",
         "tok": "waso anu soweli",
+        "la": "animal cum propriet\u0101tibus et peci et avi",
         "it": "animale con qualit\u00e0 sia di waso che di soweli",
         "tr": "hem \"waso\" hem de \"soweli\" \u00f6zelliklerini ta\u015f\u0131yan hayvan",
         "zh_hant": "\u540c\u6642\u6709waso\u548csoweli\u7684\u7279\u5fb5\u7684\u52d5\u7269",
@@ -9586,6 +9885,7 @@
         "eo": "forta, potenca; memfida, nedubanta; energia, intensa",
         "de": "stark, Kraft, Energie; zuversichtlich, sicher; intensiv",
         "es": "poderoso, seguro, en\u00e9rgico, intenso",
+        "la": "fortis, vehem\u0113ns, r\u014dbustus, v\u012bs, ops",
         "it": "forte, potente; fiducioso, sicuro; energico, intenso",
         "pt": "forte, poderoso, potente; confidente, certeza; energ\u00e9tico, intenso",
         "tr": "g\u00fc\u00e7l\u00fc, kuvvetli; kararl\u0131, emin; enerjik, yo\u011fun",
@@ -9692,6 +9992,7 @@
         "eo": "ne\u0109eestanta, fora, ignorata",
         "de": "weg, abwesend, entfernen, ignorieren",
         "tok": "lon poka ala",
+        "la": "abesse, auferre, remov\u0113re, neglegere",
         "it": "assente, lontano, ignorato",
         "pt": "ausente, distante, ignorado",
         "tr": "mevcut de\u011fil, uzakta, g\u00f6rmezden gelinmi\u015f",
@@ -9795,6 +10096,7 @@
         "de": "wollen, w\u00fcnschen, sollen, erfordern, brauchen, m\u00fcssen, Wunsch",
         "tok": "mi wile e ijo la, ijo li suli tawa mi. tan ni la, mi pilin e ni: mi o jo e ijo.",
         "es": "desear, deber, exigir, querer, necesitar",
+        "la": "velle, cupere, d\u0113b\u0113re, exspect\u0101re, eg\u0113re, opus esse, volunt\u0101s",
         "it": "deve, bisogno, richiedere, dovrebbe, vuole, desidera",
         "pt": "deve, precisa, requer, querer; pedido",
         "tr": "zorunda olmak, gerekmek, -meli/-mal\u0131, istemek, dilemek",
@@ -9833,6 +10135,7 @@
         "ur": "\u062c\u0648\u0631\u062c \u0644\u0652\u0648\u06a9\u0633 \u062c\u06cc\u0633\u0627 \u0628\u0646\u0646\u0627: \u0627\u067e\u0646\u06d2 \u067e\u0648\u0631\u0627\u0646\u06d2 \u06a9\u0627\u0645\u0648\u06ba \u06a9\u0648 \u0628\u0627\u0631 \u0628\u0627\u0631 \u0628\u062f\u0644 \u06a9\u0631 \u0628\u062f \u0633\u06d2 \u0628\u062f\u062a\u0631 \u0628\u0646\u0627\u0646\u0627",
         "pa": "\u0a1c\u0a4b\u0a30\u0a1c \u0a32\u0a42\u0a15\u0a38 \u0a35\u0a3e\u0a02\u0a17\u0a42 \u0a06\u0a2a\u0a23\u0a47 \u0a2a\u0a41\u0a30\u0a3e\u0a23\u0a47 \u0a15\u0a71\u0a2e\u0a3e\u0a02 \u0a28\u0a42\u0a70 \u0a2c\u0a26\u0a32\u0a26\u0a47 \u0a30\u0a39\u0a3f\u0a23\u0a3e \u0a05\u0a24\u0a47 \u0a09\u0a39\u0a28\u0a3e \u0a28\u0a42\u0a70 \u0a2c\u0a26 \u0a24\u0a4b\u0a02 \u0a2c\u0a26\u0a24\u0a30 \u0a2c\u0a28\u0a4c\u0a23\u0a3e",
         "id": "berkelakuan seperti George Lucas dan merevisi karya kreatif lama dan malah membuatnya lebih buruk",
+        "la": "ut George Lucas convers\u0101r\u012b lab\u014dr\u0113sque ipsius retract\u0101re et h\u014ds v\u0113r\u014d d\u0113pr\u0101v\u0101re",
         "it": "comportarsi come George Lucas e rivedere i propri vecchi lavori creativi e in realt\u00e0 renderli peggiori",
         "tr": "George Lucas gibi davranmak ve \"eski yarat\u0131c\u0131 \u00e7al\u0131\u015fmalar\u0131m\u0131 revize edeyim\" derken daha da bat\u0131rmak",
         "zh_hant": "\u8ddf\u55ac\u6cbb\u00b7\u76e7\u5361\u65af\u4e00\u6a23\uff0c\u4fee\u6539\u4f60\u4ee5\u524d\u7684\u4f5c\u54c1\uff0c\u4f46\u5176\u5be6\u9069\u5f97\u5176\u53cd",
@@ -9901,7 +10204,7 @@
       "name_short": "insa pi supa lape",
       "writing_system": "sitelen pona",
       "links": {
-        "fontfile": "https://gitlab.com/dev_urandom/insa-pi-supa-lape/-/jobs/2110358878/artifacts/download",
+        "fontfile": "https://gitlab.com/dev_urandom/insa-pi-supa-lape/-/jobs/2490457611/artifacts/download",
         "repo": "https://gitlab.com/dev_urandom/insa-pi-supa-lape/-/releases",
         "webpage": "https://devurandom.xyz/tokipona/supalape.html"
       },
