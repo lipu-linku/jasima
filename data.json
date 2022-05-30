@@ -213,8 +213,8 @@
       "name_endonym": "Svenska",
       "name_english": "Swedish",
       "name_toki_pona": "toki Sensa",
-      "completeness_percent": "19",
-      "completeness_percent_pu": "40"
+      "completeness_percent": "21",
+      "completeness_percent_pu": "45"
     },
     "tkl": {
       "id_long": "tokelauan",
@@ -2615,7 +2615,7 @@
       "coined_era": "pre-pu",
       "book": "ku lili",
       "source_language": "multiple possibilities",
-      "etymology": "Georgian \u10e7\u10d0\u10d5\u10d8\u10e1\u10e4\u10d4\u10e0\u10d8 q\u0307avisperi \u2018brown\u2019 or French/Spanish caf\u00e9 \u2018light brown\u2019 or Greek \u03ba\u03b1\u03c6\u03ad\u03c2 kaf\u00e9s",
+      "etymology": "Cantonese \u5496\u5561\u8272 gaa\u00b3 fe\u00b9 sik\u00b9 or Mandarin \u5496\u5561\u8272 k\u0101f\u0113is\u00e8 \u2018brown, coffee (colour)\u2019",
       "creator": "jan Sonja",
       "ku_data": "brown\u00b2, grey\u2070",
       "recognition": {
@@ -3086,8 +3086,8 @@
       "coined_year": "2009",
       "coined_era": "pre-pu",
       "book": "ku suli",
-      "source_language": "multiple possibilities",
-      "etymology": "Cantonese \u5496\u5561\u8272 gaa\u00b3 fe\u00b9 sik\u00b9 or Mandarin \u5496\u5561\u8272 k\u0101f\u0113is\u00e8 \u2018brown, coffee (colour)\u2019",
+      "source_language": "Inuktitut",
+      "etymology": "kipisi- \u2018to cut (intrans.)\u2019",
       "creator": "jan Sonja",
       "ku_data": "split\u2074, division\u2074, slice\u2074, cut\u00b3, divide\u00b3, chop\u00b3, segment\u00b3, section\u00b3, portion\u00b2, piece\u00b2, part\u00b2, half\u00b2, rip\u00b2, clip\u00b2, separation\u00b2, chunk\u00b2, carve\u00b2, separate\u00b2, sector\u00b2, percentage\u00b2",
       "recognition": {
@@ -4799,7 +4799,8 @@
         "fi": "maa; ulkona, maailma; valtio, alue; maaper\u00e4",
         "tkl": "he fenua; he atunuku; he kelekele; he t\u016blaga",
         "haw": "he honua, he \u02bb\u0101ina; he ao; he lepo; he k\u016blana",
-        "hr": "zemlja; svijet; dr\u017eava, teritorij"
+        "hr": "zemlja; svijet; dr\u017eava, teritorij",
+        "sv": "jord, land, utomhus, v\u00e4rld; land, territorium"
       }
     },
     "majuna": {
@@ -4886,7 +4887,8 @@
         "fi": "vanhempi, esi-is\u00e4; luoja, alullepanija; huoltaja, yll\u00e4pit\u00e4j\u00e4",
         "tkl": "he m\u0101tua, he tupuna",
         "haw": "he makua, he kupuna; he kahu",
-        "hr": "roditelj, predak; tvorac, za\u010detnik; skrbnik, hranitelj"
+        "hr": "roditelj, predak; tvorac, za\u010detnik; skrbnik, hranitelj",
+        "sv": "f\u00f6r\u00e4lder, f\u00f6rfader, skapare, upphovsman, v\u00e5rdnadshavare"
       }
     },
     "mani": {
@@ -4931,7 +4933,8 @@
         "fi": "raha, k\u00e4teinen, s\u00e4\u00e4st\u00f6t, varallisuus; suuri kotiel\u00e4in",
         "tkl": "he tupe; he meaola lata",
         "haw": "he k\u0101l\u0101, he moni, he uku k\u016b\u02bbike, he loa\u02bba h\u014d\u02bbili\u02bbili, he waiwai; he holoholona laka",
-        "hr": "novac, u\u0161te\u0111evina, bogatstvo; stoka"
+        "hr": "novac, u\u0161te\u0111evina, bogatstvo; stoka",
+        "sv": "pengar, st\u00e5lar, sparpengar, rikedom; stort domesticerat landdjur"
       }
     },
     "me": {
@@ -4998,7 +5001,8 @@
         "fi": "nainen, feminiininen henkil\u00f6; vaimo",
         "tkl": "he fafine",
         "haw": "he wahine",
-        "hr": "\u017eena, \u017eenska osoba, \u017eenstvena osoba; supruga"
+        "hr": "\u017eena, \u017eenska osoba, \u017eenstvena osoba; supruga",
+        "sv": "kvinna, feminin person; fru"
       }
     },
     "melome": {
@@ -5121,7 +5125,8 @@
         "tkl": "au, kita, k\u014d, kit\u0101ua, kit\u0101, kit\u0101tou, kim\u0101ua, kim\u0101, kim\u0101tou",
         "haw": "au, k\u0101ua, k\u0101kou, m\u0101ua, m\u0101kou",
         "hr": "ja, mi",
-        "cy": "fi, ni"
+        "cy": "fi, ni",
+        "sv": "jag, mig, vi, oss"
       }
     },
     "mije": {
@@ -5168,7 +5173,8 @@
         "fi": "mies, maskuliininen henkil\u00f6, aviomies",
         "tkl": "he tam\u0101loa, he t\u0101ne",
         "haw": "he k\u0101ne",
-        "hr": "mu\u0161karac, mu\u0161ko, mu\u017eevna osoba; suprug"
+        "hr": "mu\u0161karac, mu\u0161ko, mu\u017eevna osoba; suprug",
+        "sv": "man, maskulin person; make"
       }
     },
     "mijomi": {
@@ -10540,7 +10546,7 @@
         "webpage": "https://toki.pona.billsmugs.com/lipu-tenpo/2022-05-15-sitelen_pona/"
       },
       "creator": "jan Osi",
-      "license": "CC0",
+      "license": "CC0 / asked not to use",
       "version": "1.0",
       "last_updated": "2022-05",
       "filename": "leko-lili-15x15.ttf",
