@@ -6,8 +6,8 @@
       "name_english": "Standard Arabic",
       "name_toki_pona": "toki Alapi",
       "credits": "Dox",
-      "completeness_percent": "5",
-      "completeness_percent_pu": "10"
+      "completeness_percent": "9",
+      "completeness_percent_pu": "19"
     },
     "ceb_l": {
       "id_long": "cebuano_latin",
@@ -178,6 +178,15 @@
       "credits": "salarua",
       "completeness_percent": "2",
       "completeness_percent_pu": "4"
+    },
+    "ja": {
+      "id_long": "japanese",
+      "name_endonym": "\u65e5\u672c\u8a9e",
+      "name_english": "Japanese",
+      "name_toki_pona": "toki Nijon",
+      "credits": "Umihotaru\u3046\u307f\u307b\u305f\u308b",
+      "completeness_percent": "1",
+      "completeness_percent_pu": "2"
     },
     "la": {
       "id_long": "latin",
@@ -415,7 +424,8 @@
         "hr": "(naglasak, emocijalnost ili potvrda)",
         "cy": "(pwyslais, emosiwn, neu gardanhau)",
         "sv": "(betoning, k\u00e4nsla eller bekr\u00e4ftelse)",
-        "ar": "\u062a\u0639\u062c\u0628\u060c \u0627\u0646\u0641\u0639\u0627\u0644\u060c \u0627\u0648 \u062a\u0623\u0643\u064a\u062f"
+        "ar": "\u062a\u0639\u062c\u0628\u060c \u0627\u0646\u0641\u0639\u0627\u0644\u060c \u0627\u0648 \u062a\u0623\u0643\u064a\u062f",
+        "ja": "(\u5f37\u8abf\u3001\u611f\u60c5\u3092\u3053\u3081\u308b\u3001\u78ba\u8a8d\u306e\u610f)"
       }
     },
     "aka": {
@@ -493,7 +503,8 @@
         "hr": "neslatka \u017eivotinja; reptil, vodozemac",
         "ith_n": "sva\u010dh\u00e4ru\u00f6ll; ozzal, ojxwal",
         "sv": "os\u00f6tt djur, reptil, amfibie",
-        "ar": "\u062d\u064a\u0648\u0627\u0646 \u0632\u0627\u062d\u0641\u060c \u0628\u0631\u0645\u0627\u0626\u064a"
+        "ar": "\u062d\u064a\u0648\u0627\u0646 \u0632\u0627\u062d\u0641\u060c \u0628\u0631\u0645\u0627\u0626\u064a",
+        "ja": "\u304b\u308f\u3044\u304f\u306a\u3044\u52d5\u7269\u3001\u722c\u866b\u985e\u3001\u4e21\u68f2\u985e"
       }
     },
     "ako": {
@@ -1269,7 +1280,8 @@
         "tkl": "he m\u0101keti, he fale koloa, fakatau",
         "haw": "he m\u0101keke, he hale k\u016b\u02bbai, k\u016b\u02bbai, k\u0101lepa",
         "hr": "tr\u017enica, du\u0107an, sajam, bazar, transakcija",
-        "sv": "marknad, aff\u00e4r, m\u00e4ssa, basar, f\u00f6retagstransaktion"
+        "sv": "marknad, aff\u00e4r, m\u00e4ssa, basar, f\u00f6retagstransaktion",
+        "ar": "\u062a\u062c\u0627\u0631\u0629 \u060c \u0633\u0648\u0642 \u060c \u0634\u0631\u0627\u0621 \u060c \u0645\u0639\u0631\u0636"
       }
     },
     "ete": {
@@ -1424,7 +1436,8 @@
         "tkl": "he mea",
         "haw": "he mea, he meakino",
         "hr": "stvar, pojava, predmet, tvar",
-        "sv": "sak, fenomen, objekt, materia"
+        "sv": "sak, fenomen, objekt, materia",
+        "ar": "\u0634\u064a\u0621"
       }
     },
     "ike": {
@@ -1473,7 +1486,8 @@
         "tkl": "kino; h\u0113 aog\u0101 | ALT faigat\u0101, numinumi",
         "haw": "\u02bbino, maika\u02bbi \u02bbole; \u02bba\u02bbole e pili ana | ALT pohihihi",
         "hr": "lo\u0161e, negativno, nenu\u017eno, neva\u017eno | ALT slo\u017eeno, zamr\u0161eno",
-        "sv": "d\u00e5lig, negativ, inte n\u00f6dv\u00e4ndig, irrelevant | ALT komplicerad"
+        "sv": "d\u00e5lig, negativ, inte n\u00f6dv\u00e4ndig, irrelevant | ALT komplicerad",
+        "ar": "\u0633\u064a\u0621 \u060c \u0631\u062f\u064a\u0621 \u060c \u0643\u0631\u064a\u0647 \u060c \u0634\u0631\u064a\u0631 | \u0628\u062f\u064a\u0644: \u0645\u0639\u0642\u062f"
       }
     },
     "iki": {
@@ -1557,7 +1571,8 @@
         "tkl": "he mea faig\u0101luega, he mahini",
         "haw": "he mea ho\u02bbohana, he m\u012bkini",
         "hr": "alat, stroj, ure\u0111aj",
-        "sv": "redskap, maskin, enhet"
+        "sv": "redskap, maskin, enhet",
+        "ar": "\u0627\u062f\u0627\u0629 \u060c \u0622\u0644\u0629 \u060c \u0645\u0627\u0643\u064a\u0646\u0629"
       }
     },
     "ini": {
@@ -1640,7 +1655,8 @@
         "tkl": "loto, te v\u0101; he t\u014dt\u014dga o loto, he manava",
         "haw": "loko, waena; he na\u02bbau, he \u02bb\u014dp\u016b",
         "hr": "sredina, sadr\u017eaj, unutar, izme\u0111u; unutarnji organ, stomak",
-        "sv": "mitten, inuti, emellan; internt organ, mage"
+        "sv": "mitten, inuti, emellan; internt organ, mage",
+        "ar": "\u0648\u0633\u0637 \u060c \u0645\u062d\u062a\u0648\u0649 \u060c \u0628\u062f\u0627\u062e\u0644 \u060c \u0645\u0627 \u0628\u064a\u0646 \u061b \u0639\u0636\u0648 \u062f\u0627\u062e\u0644\u064a \u060c \u0645\u0639\u062f\u0629"
       }
     },
     "ipi": {
@@ -1799,7 +1815,8 @@
         "tkl": "fakalialia, kelekelea, palapal\u0101",
         "haw": "lua\u02bbik\u016b, ho\u02bbopailua, \u02bbawahia, ma\u02bbema\u02bbe \u02bbole, haumia, lepo",
         "hr": "odvratno, sramotno, ne\u010disto",
-        "sv": "vidrig, \u00e4cklig, sjuk, giftig, oren"
+        "sv": "vidrig, \u00e4cklig, sjuk, giftig, oren",
+        "ar": "\u0645\u0642\u0630\u0630 \u060c \u0645\u0642\u0631\u0641 \u060c \u0645\u062b\u064a\u0631 \u0644\u0644\u0623\u0634\u0645\u0626\u0632\u0627\u0632 \u060c \u0645\u062a\u0633\u062e \u060c \u0645\u062a\u0644\u0648\u062b"
       }
     },
     "jaku": {
@@ -1955,7 +1972,8 @@
         "haw": "he kanaka, he po\u02bbe",
         "hr": "osoba, \u010dovjek, netko",
         "ith_n": "olal, xma",
-        "sv": "m\u00e4nniska, person, n\u00e5gon"
+        "sv": "m\u00e4nniska, person, n\u00e5gon",
+        "ar": "\u0627\u0646\u0633\u0627\u0646 \u060c \u0628\u0646\u064a \u0623\u062f\u0645 \u060c \u0634\u062e\u0635 \u060c \u0628\u0634\u0631\u064a \u060c \u0627\u0644\u0628\u0634\u0631\u064a\u0629"
       }
     },
     "jans": {
@@ -2130,7 +2148,8 @@
         "tkl": "hehega, h\u0101mahama",
         "haw": "melemele, lena",
         "hr": "\u017euto, \u017eu\u0107kasto",
-        "sv": "gul, gulaktig"
+        "sv": "gul, gulaktig",
+        "ar": "\u0627\u0635\u0641\u0631 \u060c \u0635\u0641\u0627\u0631"
       }
     },
     "jo": {
@@ -2180,7 +2199,8 @@
         "haw": "pa\u02bba, lawe",
         "hr": "imati, nositi, sadr\u017eavati, dr\u017eati",
         "cy": "caf: cael; gafael",
-        "sv": "att ha, b\u00e4ra, inneh\u00e5lla, h\u00e5lla"
+        "sv": "att ha, b\u00e4ra, inneh\u00e5lla, h\u00e5lla",
+        "ar": "\u064a\u0645\u062a\u0644\u0643 \u060c \u064a\u062d\u062a\u0648\u064a \u060c \u064a\u062d\u0645\u0644 \u060c \u064a\u0645\u0633\u0643"
       }
     },
     "jonke": {
@@ -2343,7 +2363,8 @@
         "tkl": "he ika",
         "haw": "he i\u02bba",
         "hr": "riba, morska \u017eivotinja",
-        "sv": "fisk, sj\u00f6varelse"
+        "sv": "fisk, sj\u00f6varelse",
+        "ar": "\u0633\u0645\u0643 \u060c \u062d\u064a\u0648\u0627\u0646 \u0628\u062d\u0631\u064a"
       }
     },
     "kalama": {
@@ -2390,7 +2411,8 @@
         "tkl": "kalaga, tagi, he leo; lea",
         "haw": "kani, k\u0101hea, olo, he leo; \u02bb\u012b",
         "hr": "praviti zvukove; recitirati, izgovarati naglas",
-        "sv": "att g\u00f6ra ett ljud; recitera, uttala"
+        "sv": "att g\u00f6ra ett ljud; recitera, uttala",
+        "ar": "\u0635\u0648\u062a \u060c \u0636\u0648\u0636\u0627\u0621 \u060c \u062a\u0644\u0627\u0648\u0629"
       }
     },
     "kalamARR": {
@@ -10589,8 +10611,8 @@
       },
       "creator": "jan Lepeka",
       "license": "OFL",
-      "version": "2022.05.22",
-      "last_updated": "2022-05",
+      "version": "2022.06.01",
+      "last_updated": "2022-06",
       "filename": "fairfax.ttf",
       "style": "pixelated",
       "features": "codepoints only, UCSUR-compliant, supports combining extension characters only (NO OpenType features)"
@@ -10605,8 +10627,8 @@
       },
       "creator": "jan Lepeka",
       "license": "OFL",
-      "version": "2022.05.22",
-      "last_updated": "2022-05",
+      "version": "2022.06.01",
+      "last_updated": "2022-06",
       "filename": "fairfax-hd.ttf",
       "style": "uniform line weight",
       "features": "codepoints only, UCSUR-compliant, supports cartouches, extended glyphs, a few combined glyphs, ZWJ sequences, character variants, randomized jaki"
