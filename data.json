@@ -184,9 +184,9 @@
       "name_endonym": "\u65e5\u672c\u8a9e",
       "name_english": "Japanese",
       "name_toki_pona": "toki Nijon",
-      "credits": "Umihotaru\u3046\u307f\u307b\u305f\u308b",
-      "completeness_percent": "1",
-      "completeness_percent_pu": "2"
+      "credits": "jan Umijotalu",
+      "completeness_percent": "6",
+      "completeness_percent_pu": "13"
     },
     "la": {
       "id_long": "latin",
@@ -572,7 +572,8 @@
         "haw": "\u02bba\u02bbole, \u02bbole; [~ ala ~] (e ho\u02bbohana \u02bbia ana no ka n\u012bnau \u02bbae-\u02bba\u02bbole)",
         "hr": "ne, nula; [~ ala ~] (koristi se za postavljanje da-ne pitanja); ni\u0161ta",
         "sv": "nej, inte, noll [~ ala ~] (anv\u00e4nt f\u00f6r att forma en ja-eller-nej-fr\u00e5ga); inget",
-        "ar": "\u0627\u062f\u0627\u0629 \u0627\u0644\u0646\u0647\u064a\u060c \u0644\u0627\u060c \u0644\u0627 \u0634\u064a\u0621\u060c \u0635\u0641\u0631 (\u062a\u0633\u062a\u062e\u062f\u0645 \u0641\u064a \u0633\u0624\u0627\u0644 \u0646\u0639\u0645 \u0627\u0648 \u0644\u0627)"
+        "ar": "\u0627\u062f\u0627\u0629 \u0627\u0644\u0646\u0647\u064a\u060c \u0644\u0627\u060c \u0644\u0627 \u0634\u064a\u0621\u060c \u0635\u0641\u0631 (\u062a\u0633\u062a\u062e\u062f\u0645 \u0641\u064a \u0633\u0624\u0627\u0644 \u0646\u0639\u0645 \u0627\u0648 \u0644\u0627)",
+        "ja": "\u5b58\u5728\u3057\u306a\u3044\u3001\uff5e\u3067\u306a\u3044\u3001\u30bc\u30ed; [~ ala ~] (\u80af\u5b9a\uff0f\u5426\u5b9a\u3092\u554f\u3046\u7591\u554f\u6587\u3092\u4f5c\u308b); \u7121"
       }
     },
     "alasa": {
@@ -627,7 +628,8 @@
         "hr": "loviti, tra\u017eiti | ALT (pv.) poku\u0161ati, probati",
         "ith_n": "up\u0163ral, ap\u0163al | ALT (pv.) psalaekpa",
         "sv": "att jaga, att f\u00f6da, s\u00f6ka | ALT (pv.) att f\u00f6rs\u00f6ka",
-        "ar": "\u0635\u064a\u062f \u060c \u0628\u062d\u062b \u060c \u0627\u0644\u0628\u062d\u062b \u0639\u0646 \u0627\u0644\u0637\u0639\u0627\u0645 | (\u0633\u0627\u0628\u0642 \u0627\u0644\u0641\u0639\u0644.) \u064a\u062d\u0627\u0648\u0644 \u060c \u0645\u062d\u0627\u0648\u0644\u0629"
+        "ar": "\u0635\u064a\u062f \u060c \u0628\u062d\u062b \u060c \u0627\u0644\u0628\u062d\u062b \u0639\u0646 \u0627\u0644\u0637\u0639\u0627\u0645 | (\u0633\u0627\u0628\u0642 \u0627\u0644\u0641\u0639\u0644.) \u064a\u062d\u0627\u0648\u0644 \u060c \u0645\u062d\u0627\u0648\u0644\u0629",
+        "ja": "\u72e9\u308b\u3001\u63a2\u3059\u3001\u5f97\u3088\u3046\u3068\u3059\u308b | ALT (pv.) \uff5e\u3057\u3066\u307f\u308b\u3001\u8a66\u3059"
       }
     },
     "ale": {
@@ -680,7 +682,8 @@
         "haw": "\u0101pau; \u02bbena, l\u0113\u02bbia; ke ola, ke ao holo\u02bboko\u02bba; he hanele | ALT 100",
         "hr": "sve, obilno, neizbrojivo, svako, obilnost, sve, \u017eivot, svemir, sto | ALT 100",
         "sv": "allt, riklig, or\u00e4knelig, varje, ymnig, \u00f6verfl\u00f6d, liv, universum, ett hundra | ALT 100",
-        "ar": "\u0643\u0644 \u061b \u0643\u062b\u064a\u0631 \u060c \u062c\u0645\u064a\u0639 \u060c \u063a\u064a\u0631 \u0645\u062d\u062f\u0648\u062f \u060c \u0644\u0627 \u0645\u062a\u0639\u062f\u062f \u060c \u0643\u0644 \u0634\u064a\u0621 \u060c \u0627\u0644\u0643\u0648\u0646\u0652 \u060c \u0645\u0627\u0626\u0629 \u0639\u0634\u0631"
+        "ar": "\u0643\u0644 \u061b \u0643\u062b\u064a\u0631 \u060c \u062c\u0645\u064a\u0639 \u060c \u063a\u064a\u0631 \u0645\u062d\u062f\u0648\u062f \u060c \u0644\u0627 \u0645\u062a\u0639\u062f\u062f \u060c \u0643\u0644 \u0634\u064a\u0621 \u060c \u0627\u0644\u0643\u0648\u0646\u0652 \u060c \u0645\u0627\u0626\u0629 \u0639\u0634\u0631",
+        "ja": "\u5168\u90e8\u306e; \u5927\u91cf\u306e\u3001\u7121\u6570\u306e\u3001\u8c4a\u5bcc\u306a\u3001\u3042\u3089\u3086\u308b\u3001\u305f\u304f\u3055\u3093\u306e; \u591a\u91cf\u3001\u3059\u3079\u3066\u3001\u4eba\u751f\u3001\u5b87\u5b99; \u767e | ALT 100"
       }
     },
     "ali": {
@@ -727,7 +730,8 @@
         "haw": "[he kino \u02bb\u0113 no \u201cale\u201d]",
         "hr": "(alternativni oblik rije\u010di ale)",
         "sv": "[alternativ form f\u00f6r \"ale\"]",
-        "ar": "[ \u0634\u0643\u0644 \u0627\u062e\u0631 \u0645\u0646 ale ]"
+        "ar": "[ \u0634\u0643\u0644 \u0627\u062e\u0631 \u0645\u0646 ale ]",
+        "ja": "[ale \u306e\u5225\u4f53]"
       }
     },
     "alu": {
@@ -815,7 +819,8 @@
         "hr": "pokloniti se, dolje, skromnost, poniznost, ovisno (o) | ALT dno, donji dio, ispod, pod, nisko, ni\u017ee",
         "ith_n": "e\u0148pwa\u0148\u1e93aill, upral, ac\u010dal, \u00ebir\u017eal, u\u0159hagoll | ALT dwal, \u1e11wal, \u0163wal, akthal",
         "sv": "kasta sig under, ner\u00e5t, \u00f6dmjuk, l\u00e5gm\u00e4ld, beroende | ALT botten, undersidan, under, golv, l\u00e5g, l\u00e4gre, ner",
-        "ar": "\u0627\u0646\u062d\u0646\u0627\u0621 \u0644\u0644\u0623\u0633\u0641\u0644 \u061b \u0644\u0644\u0623\u0633\u0641\u0644 \u060c \u062a\u0648\u0627\u0636\u0639 \u060c \u062f\u0646\u064a\u0621 \u060c \u0645\u062d\u062a\u0627\u062c | \u0627\u0633\u0641\u0644 \u060c \u0645\u0646\u062e\u0641\u0636 \u060c \u0627\u0631\u0636\u064a \u060c \u0627\u0631\u0636"
+        "ar": "\u0627\u0646\u062d\u0646\u0627\u0621 \u0644\u0644\u0623\u0633\u0641\u0644 \u061b \u0644\u0644\u0623\u0633\u0641\u0644 \u060c \u062a\u0648\u0627\u0636\u0639 \u060c \u062f\u0646\u064a\u0621 \u060c \u0645\u062d\u062a\u0627\u062c | \u0627\u0633\u0641\u0644 \u060c \u0645\u0646\u062e\u0641\u0636 \u060c \u0627\u0631\u0636\u064a \u060c \u0627\u0631\u0636",
+        "ja": "\u982d\u3092\u4e0b\u3052\u308b\u3001\u4e0b\u308b\u3001\u964d\u308a\u308b\u3001\u8b19\u865a\u306a\u3001\u5351\u3057\u3044\u3001\u5f93\u5c5e\u7684\u306a | ALT \u5e95\u3001\u4e0b\u90e8\u3001\u5e8a(\u3086\u304b)\u3001\u4e0b\u4f4d\u3001\uff5e\u306e\u4e0b\u3001\uff5e\u3088\u308a\u4f4e\u3044; \u4f4e\u3044\u3001\u4e0b\u90e8\u306e\u3001\u5e95\u306e"
       }
     },
     "ante": {
@@ -867,7 +872,8 @@
         "hr": "razli\u010dito, promijenjeno, druga\u010dije, drugo",
         "ith_n": "\u00ebirxil, snaswell",
         "sv": "annorlunda, \u00e4ndrat, annan",
-        "ar": "\u0645\u062e\u062a\u0644\u0641 \u060c \u0627\u062e\u0631 \u060c \u062a\u063a\u064a\u0631 \u060c \u0627\u062e\u062a\u0644\u0627\u0641"
+        "ar": "\u0645\u062e\u062a\u0644\u0641 \u060c \u0627\u062e\u0631 \u060c \u062a\u063a\u064a\u0631 \u060c \u0627\u062e\u062a\u0644\u0627\u0641",
+        "ja": "\u7570\u306a\u308b\u3001\u5225\u306e\u3001\u4ee3\u66ff\u306e\u3001\u307b\u304b\u306e\u3001\u66ff\u3048\u308b"
       }
     },
     "anu": {
@@ -918,7 +924,8 @@
         "haw": "\u0101 i \u02bbole | ALT koho, wae",
         "hr": "ili | ALT odabrati, odlu\u010diti",
         "sv": "eller | ALT v\u00e4lja, best\u00e4mma",
-        "ar": "\u0627\u0648 | \u0627\u062e\u062a\u0627\u0631 \u060c \u0642\u0631\u0631"
+        "ar": "\u0627\u0648 | \u0627\u062e\u062a\u0627\u0631 \u060c \u0642\u0631\u0631",
+        "ja": "\uff5e\u307e\u305f\u306f\uff5e | ALT \u9078\u629e\u3059\u308b\u3001\u6c7a\u3081\u308b"
       }
     },
     "apeja": {
@@ -1033,7 +1040,8 @@
         "haw": "ho\u02bbomanawanui, m\u0101lama, pa\u02bba, palekana, kakali, noho; (pv.) ho\u02bbomau, \u014d",
         "hr": "izdr\u017eati, \u010duvati, sigurno, \u010dekati, ostajati; (pv.) nastaviti",
         "sv": "best\u00e5ende, f\u00f6rvarad, f\u00f6rsvarad, s\u00e4ker, v\u00e4ntning; (pv.) att forts\u00e4tta",
-        "ar": "\u062b\u0627\u0628\u062a \u060c \u062a\u062d\u062a \u0627\u0644\u062d\u0645\u0627\u064a\u0629 \u060c \u0627\u0646\u062a\u0638\u0627\u0631 \u060c \u0623\u0645\u0646\u0652 \u060c \u0633\u0627\u0643\u0646 | (\u0642\u0628\u0644 \u0627\u0644\u0641\u0639\u0644) \u0645\u0633\u062a\u0645\u0631 \u060c \u0645\u0646\u062a\u0638\u0645"
+        "ar": "\u062b\u0627\u0628\u062a \u060c \u062a\u062d\u062a \u0627\u0644\u062d\u0645\u0627\u064a\u0629 \u060c \u0627\u0646\u062a\u0638\u0627\u0631 \u060c \u0623\u0645\u0646\u0652 \u060c \u0633\u0627\u0643\u0646 | (\u0642\u0628\u0644 \u0627\u0644\u0641\u0639\u0644) \u0645\u0633\u062a\u0645\u0631 \u060c \u0645\u0646\u062a\u0638\u0645",
+        "ja": "\u6301\u7d9a\u3059\u308b\u3001\u4fdd\u8b77\u3055\u308c\u305f\u3001\u5b89\u5168\u306a\u3001\u4fdd\u6301\u3059\u308b\u3001\u5f85\u6a5f\u3059\u308b\u3001\u3068\u3069\u307e\u308b; (pv.) \uff5e\u3057\u7d9a\u3051\u308b\u3001\uff5e\u306e\u307e\u307e\u306b\u3059\u308b"
       }
     },
     "e": {
@@ -1079,7 +1087,8 @@
         "haw": "(i mua o ka hope ha\u02bbina)",
         "hr": "(prije izravnog objekta)",
         "sv": "(markerar direkt objekt)",
-        "ar": "(\u062a\u0623\u062a\u064a \u0642\u0628\u0644 \u0627\u0644\u0645\u0641\u0639\u0648\u0644 \u0628\u0647 \u0648\u062a\u062f\u0644 \u0639\u0644\u064a\u0647)"
+        "ar": "(\u062a\u0623\u062a\u064a \u0642\u0628\u0644 \u0627\u0644\u0645\u0641\u0639\u0648\u0644 \u0628\u0647 \u0648\u062a\u062f\u0644 \u0639\u0644\u064a\u0647)",
+        "ja": "(\u76f4\u63a5\u76ee\u7684\u8a9e\u306e\u524d\u306b\u304a\u304f)"
       }
     },
     "eki": {
@@ -1156,7 +1165,8 @@
         "haw": "(i waena o n\u0101 kumu\u02bb\u014dlelo)",
         "hr": "(izme\u0111u subjekata u re\u010denici s vi\u0161e subjekata)",
         "sv": "(mellan flera subjekt)",
-        "ar": "(\u062a\u0643\u0648\u0646 \u0628\u064a\u0646 \u0641\u0627\u0639\u0644\u064a\u0646 \u0627\u0648 \u0627\u0643\u062b\u0631)"
+        "ar": "(\u062a\u0643\u0648\u0646 \u0628\u064a\u0646 \u0641\u0627\u0639\u0644\u064a\u0646 \u0627\u0648 \u0627\u0643\u062b\u0631)",
+        "ja": "(\u8907\u6570\u306e\u4e3b\u8a9e\u3092\u4e26\u3079\u308b\u3068\u304d\u3001\u9593\u306b\u304a\u304f)"
       }
     },
     "enko": {
@@ -1281,7 +1291,8 @@
         "haw": "he m\u0101keke, he hale k\u016b\u02bbai, k\u016b\u02bbai, k\u0101lepa",
         "hr": "tr\u017enica, du\u0107an, sajam, bazar, transakcija",
         "sv": "marknad, aff\u00e4r, m\u00e4ssa, basar, f\u00f6retagstransaktion",
-        "ar": "\u062a\u062c\u0627\u0631\u0629 \u060c \u0633\u0648\u0642 \u060c \u0634\u0631\u0627\u0621 \u060c \u0645\u0639\u0631\u0636"
+        "ar": "\u062a\u062c\u0627\u0631\u0629 \u060c \u0633\u0648\u0642 \u060c \u0634\u0631\u0627\u0621 \u060c \u0645\u0639\u0631\u0636",
+        "ja": "\u5e02\u5834\u3001\u5e97\u3001\u58f2\u8cb7\u3001\u53d6\u5f15"
       }
     },
     "ete": {
@@ -1437,7 +1448,8 @@
         "haw": "he mea, he meakino",
         "hr": "stvar, pojava, predmet, tvar",
         "sv": "sak, fenomen, objekt, materia",
-        "ar": "\u0634\u064a\u0621"
+        "ar": "\u0634\u064a\u0621",
+        "ja": "\u3082\u306e\u3001\u4e8b\u8c61\u3001\u7269\u4f53\u3001\u3082\u306e\u3054\u3068"
       }
     },
     "ike": {
@@ -1487,7 +1499,8 @@
         "haw": "\u02bbino, maika\u02bbi \u02bbole; \u02bba\u02bbole e pili ana | ALT pohihihi",
         "hr": "lo\u0161e, negativno, nenu\u017eno, neva\u017eno | ALT slo\u017eeno, zamr\u0161eno",
         "sv": "d\u00e5lig, negativ, inte n\u00f6dv\u00e4ndig, irrelevant | ALT komplicerad",
-        "ar": "\u0633\u064a\u0621 \u060c \u0631\u062f\u064a\u0621 \u060c \u0643\u0631\u064a\u0647 \u060c \u0634\u0631\u064a\u0631 | \u0628\u062f\u064a\u0644: \u0645\u0639\u0642\u062f"
+        "ar": "\u0633\u064a\u0621 \u060c \u0631\u062f\u064a\u0621 \u060c \u0643\u0631\u064a\u0647 \u060c \u0634\u0631\u064a\u0631 | \u0628\u062f\u064a\u0644: \u0645\u0639\u0642\u062f",
+        "ja": "\u60aa\u3044\u3001\u307e\u3061\u304c\u3063\u305f\u3001\u4e0d\u5fc5\u8981\u306a\u3001\u554f\u984c\u306e\u3042\u308b\u3001\u9177\u3044 | ALT \u8907\u96d1\u306a\u3001\u56f0\u96e3\u306a"
       }
     },
     "iki": {
@@ -1572,7 +1585,8 @@
         "haw": "he mea ho\u02bbohana, he m\u012bkini",
         "hr": "alat, stroj, ure\u0111aj",
         "sv": "redskap, maskin, enhet",
-        "ar": "\u0627\u062f\u0627\u0629 \u060c \u0622\u0644\u0629 \u060c \u0645\u0627\u0643\u064a\u0646\u0629"
+        "ar": "\u0627\u062f\u0627\u0629 \u060c \u0622\u0644\u0629 \u060c \u0645\u0627\u0643\u064a\u0646\u0629",
+        "ja": "\u9053\u5177\u3001\u8a2d\u5099\u3001\u6a5f\u68b0\u3001\u88c5\u7f6e"
       }
     },
     "ini": {
