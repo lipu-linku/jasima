@@ -185,8 +185,8 @@
       "name_english": "Japanese",
       "name_toki_pona": "toki Nijon",
       "credits": "jan Umijotalu",
-      "completeness_percent": "6",
-      "completeness_percent_pu": "13"
+      "completeness_percent": "33",
+      "completeness_percent_pu": "70"
     },
     "la": {
       "id_long": "latin",
@@ -504,7 +504,7 @@
         "ith_n": "sva\u010dh\u00e4ru\u00f6ll; ozzal, ojxwal",
         "sv": "os\u00f6tt djur, reptil, amfibie",
         "ar": "\u062d\u064a\u0648\u0627\u0646 \u0632\u0627\u062d\u0641\u060c \u0628\u0631\u0645\u0627\u0626\u064a",
-        "ja": "\u304b\u308f\u3044\u304f\u306a\u3044\u52d5\u7269\u3001\u722c\u866b\u985e\u3001\u4e21\u68f2\u985e"
+        "ja": "\u304b\u308f\u3044\u304f\u306a\u3044\u52d5\u7269; \u722c\u866b\u985e\u3001\u4e21\u68f2\u985e"
       }
     },
     "ako": {
@@ -820,7 +820,7 @@
         "ith_n": "e\u0148pwa\u0148\u1e93aill, upral, ac\u010dal, \u00ebir\u017eal, u\u0159hagoll | ALT dwal, \u1e11wal, \u0163wal, akthal",
         "sv": "kasta sig under, ner\u00e5t, \u00f6dmjuk, l\u00e5gm\u00e4ld, beroende | ALT botten, undersidan, under, golv, l\u00e5g, l\u00e4gre, ner",
         "ar": "\u0627\u0646\u062d\u0646\u0627\u0621 \u0644\u0644\u0623\u0633\u0641\u0644 \u061b \u0644\u0644\u0623\u0633\u0641\u0644 \u060c \u062a\u0648\u0627\u0636\u0639 \u060c \u062f\u0646\u064a\u0621 \u060c \u0645\u062d\u062a\u0627\u062c | \u0627\u0633\u0641\u0644 \u060c \u0645\u0646\u062e\u0641\u0636 \u060c \u0627\u0631\u0636\u064a \u060c \u0627\u0631\u0636",
-        "ja": "\u982d\u3092\u4e0b\u3052\u308b\u3001\u4e0b\u308b\u3001\u964d\u308a\u308b\u3001\u8b19\u865a\u306a\u3001\u5351\u3057\u3044\u3001\u5f93\u5c5e\u7684\u306a | ALT \u5e95\u3001\u4e0b\u90e8\u3001\u5e8a(\u3086\u304b)\u3001\u4e0b\u4f4d\u3001\uff5e\u306e\u4e0b\u3001\uff5e\u3088\u308a\u4f4e\u3044; \u4f4e\u3044\u3001\u4e0b\u90e8\u306e\u3001\u5e95\u306e"
+        "ja": "\u4e0b\u308b\u3001\u964d\u308a\u308b\u3001\u982d\u3092\u4e0b\u3052\u308b\u3001\u8b19\u865a\u306a\u3001\u5351\u3057\u3044\u3001\u5f93\u5c5e\u7684\u306a | ALT \u5e95\u3001\u4e0b\u90e8\u3001\u4e0b\u4f4d\u3001\u5e8a(\u3086\u304b); \u4f4e\u3044\u3001\u4e0b\u90e8\u306e\u3001\u5e95\u306e"
       }
     },
     "ante": {
@@ -1449,7 +1449,7 @@
         "hr": "stvar, pojava, predmet, tvar",
         "sv": "sak, fenomen, objekt, materia",
         "ar": "\u0634\u064a\u0621",
-        "ja": "\u3082\u306e\u3001\u4e8b\u8c61\u3001\u7269\u4f53\u3001\u3082\u306e\u3054\u3068"
+        "ja": "\u3082\u306e\u3001\u4e8b\u8c61\u3001\u7269\u4f53\u3001\u3082\u306e\u3054\u3068\u3001\u306a\u306b\u304b"
       }
     },
     "ike": {
@@ -1670,7 +1670,8 @@
         "haw": "loko, waena; he na\u02bbau, he \u02bb\u014dp\u016b",
         "hr": "sredina, sadr\u017eaj, unutar, izme\u0111u; unutarnji organ, stomak",
         "sv": "mitten, inuti, emellan; internt organ, mage",
-        "ar": "\u0648\u0633\u0637 \u060c \u0645\u062d\u062a\u0648\u0649 \u060c \u0628\u062f\u0627\u062e\u0644 \u060c \u0645\u0627 \u0628\u064a\u0646 \u061b \u0639\u0636\u0648 \u062f\u0627\u062e\u0644\u064a \u060c \u0645\u0639\u062f\u0629"
+        "ar": "\u0648\u0633\u0637 \u060c \u0645\u062d\u062a\u0648\u0649 \u060c \u0628\u062f\u0627\u062e\u0644 \u060c \u0645\u0627 \u0628\u064a\u0646 \u061b \u0639\u0636\u0648 \u062f\u0627\u062e\u0644\u064a \u060c \u0645\u0639\u062f\u0629",
+        "ja": "\u4e2d\u5fc3\u3001\u5185\u90e8\u3001\u4e2d\u9593\u3001\u5185\u5bb9; \u5185\u81d3\u3001\u8179"
       }
     },
     "ipi": {
@@ -1830,7 +1831,8 @@
         "haw": "lua\u02bbik\u016b, ho\u02bbopailua, \u02bbawahia, ma\u02bbema\u02bbe \u02bbole, haumia, lepo",
         "hr": "odvratno, sramotno, ne\u010disto",
         "sv": "vidrig, \u00e4cklig, sjuk, giftig, oren",
-        "ar": "\u0645\u0642\u0630\u0630 \u060c \u0645\u0642\u0631\u0641 \u060c \u0645\u062b\u064a\u0631 \u0644\u0644\u0623\u0634\u0645\u0626\u0632\u0627\u0632 \u060c \u0645\u062a\u0633\u062e \u060c \u0645\u062a\u0644\u0648\u062b"
+        "ar": "\u0645\u0642\u0630\u0630 \u060c \u0645\u0642\u0631\u0641 \u060c \u0645\u062b\u064a\u0631 \u0644\u0644\u0623\u0634\u0645\u0626\u0632\u0627\u0632 \u060c \u0645\u062a\u0633\u062e \u060c \u0645\u062a\u0644\u0648\u062b",
+        "ja": "\u4e0d\u5feb\u306a\u3001\u6c5a\u308c\u305f\u3001\u6709\u6bd2\u306e\u3001\u4e0d\u6f54\u306a\u3001\u5351\u7325\u306a\u3001\u75c5\u7684\u306a"
       }
     },
     "jaku": {
@@ -1987,7 +1989,8 @@
         "hr": "osoba, \u010dovjek, netko",
         "ith_n": "olal, xma",
         "sv": "m\u00e4nniska, person, n\u00e5gon",
-        "ar": "\u0627\u0646\u0633\u0627\u0646 \u060c \u0628\u0646\u064a \u0623\u062f\u0645 \u060c \u0634\u062e\u0635 \u060c \u0628\u0634\u0631\u064a \u060c \u0627\u0644\u0628\u0634\u0631\u064a\u0629"
+        "ar": "\u0627\u0646\u0633\u0627\u0646 \u060c \u0628\u0646\u064a \u0623\u062f\u0645 \u060c \u0634\u062e\u0635 \u060c \u0628\u0634\u0631\u064a \u060c \u0627\u0644\u0628\u0634\u0631\u064a\u0629",
+        "ja": "\u4eba\u3001\u4eba\u7269\u3001\u3060\u308c\u304b"
       }
     },
     "jans": {
@@ -2163,7 +2166,8 @@
         "haw": "melemele, lena",
         "hr": "\u017euto, \u017eu\u0107kasto",
         "sv": "gul, gulaktig",
-        "ar": "\u0627\u0635\u0641\u0631 \u060c \u0635\u0641\u0627\u0631"
+        "ar": "\u0627\u0635\u0641\u0631 \u060c \u0635\u0641\u0627\u0631",
+        "ja": "\u9ec4\u8272\u306e\u3001\u9ec4\u3070\u3093\u3060"
       }
     },
     "jo": {
@@ -2214,7 +2218,8 @@
         "hr": "imati, nositi, sadr\u017eavati, dr\u017eati",
         "cy": "caf: cael; gafael",
         "sv": "att ha, b\u00e4ra, inneh\u00e5lla, h\u00e5lla",
-        "ar": "\u064a\u0645\u062a\u0644\u0643 \u060c \u064a\u062d\u062a\u0648\u064a \u060c \u064a\u062d\u0645\u0644 \u060c \u064a\u0645\u0633\u0643"
+        "ar": "\u064a\u0645\u062a\u0644\u0643 \u060c \u064a\u062d\u062a\u0648\u064a \u060c \u064a\u062d\u0645\u0644 \u060c \u064a\u0645\u0633\u0643",
+        "ja": "\u6301\u3064\u3001\u6709\u3059\u308b\u3001\u542b\u3080\u3001\u643a\u5e2f\u3059\u308b"
       }
     },
     "jonke": {
@@ -2378,7 +2383,8 @@
         "haw": "he i\u02bba",
         "hr": "riba, morska \u017eivotinja",
         "sv": "fisk, sj\u00f6varelse",
-        "ar": "\u0633\u0645\u0643 \u060c \u062d\u064a\u0648\u0627\u0646 \u0628\u062d\u0631\u064a"
+        "ar": "\u0633\u0645\u0643 \u060c \u062d\u064a\u0648\u0627\u0646 \u0628\u062d\u0631\u064a",
+        "ja": "\u9b5a\u3001\u6c34\u68f2\u751f\u7269\u3001\u6d77\u6d0b\u751f\u7269"
       }
     },
     "kalama": {
@@ -2426,7 +2432,8 @@
         "haw": "kani, k\u0101hea, olo, he leo; \u02bb\u012b",
         "hr": "praviti zvukove; recitirati, izgovarati naglas",
         "sv": "att g\u00f6ra ett ljud; recitera, uttala",
-        "ar": "\u0635\u0648\u062a \u060c \u0636\u0648\u0636\u0627\u0621 \u060c \u062a\u0644\u0627\u0648\u0629"
+        "ar": "\u0635\u0648\u062a \u060c \u0636\u0648\u0636\u0627\u0621 \u060c \u062a\u0644\u0627\u0648\u0629",
+        "ja": "\u97f3\u3092\u305f\u3066\u308b; \u58f0\u3092\u4e0a\u3052\u308b\u3001\u6717\u5531\u3059\u308b\u3001\u97f3\u58f0"
       }
     },
     "kalamARR": {
@@ -2499,7 +2506,8 @@
         "tkl": "hau, \u014dmai, lumanaki",
         "haw": "hele mai, hope",
         "hr": "stizati, dolaziti, budu\u0107nost; (pv.) postati, uspjeti",
-        "sv": "att komma, framtid, framkallad; (pv.) att bli, att kunna, att lyckas med"
+        "sv": "att komma, framtid, framkallad; (pv.) att bli, att kunna, att lyckas med",
+        "ja": "\u6765\u308b\u3001\u5230\u7740\u3059\u308b\u3001\u672a\u6765\u306e\u3001\u547c\u3070\u308c\u3066\u304d\u305f; (pv.) \uff5e\u306b\u306a\u308b\u3001\uff5e\u3057\u304a\u304a\u305b\u308b\u3001\uff5e\u3057\u9042\u3052\u308b"
       }
     },
     "kamalawala": {
@@ -2696,7 +2704,8 @@
         "tkl": "he l\u0101kau; he laul\u0101kau",
         "haw": "he l\u0101\u02bbau; he lau",
         "hr": "biljka, vegetacija; bilje, list",
-        "sv": "v\u00e4xt, vegetation, \u00f6rt, l\u00f6v"
+        "sv": "v\u00e4xt, vegetation, \u00f6rt, l\u00f6v",
+        "ja": "\u690d\u7269\u3001\u8349\u6728; \u8349\u3001\u8449"
       }
     },
     "ke": {
@@ -2781,7 +2790,8 @@
         "tkl": "mafai, lav\u0101",
         "haw": "hiki",
         "hr": "mo\u0107i, smjeti, biti mogu\u0107e",
-        "sv": "att kunna, att f\u00e5 tillst\u00e5nd att; m\u00f6jlig"
+        "sv": "att kunna, att f\u00e5 tillst\u00e5nd att; m\u00f6jlig",
+        "ja": "\uff5e\u3067\u304d\u308b\u3001\uff5e\u3057\u3066\u3088\u3044\u3001\uff5e\u3057\u3046\u308b\u3001\uff5e\u304b\u3082\u3057\u308c\u306a\u3044; \u53ef\u80fd\u306a"
       }
     },
     "kepeken": {
@@ -2828,7 +2838,8 @@
         "tkl": "fakaaog\u0101, i",
         "haw": "ho\u02bbohana, i, ma",
         "hr": "koristiti, koriste\u0107i",
-        "sv": "att anv\u00e4nda, med, med hj\u00e4lp av"
+        "sv": "att anv\u00e4nda, med, med hj\u00e4lp av",
+        "ja": "\uff5e\u3092\u4f7f\u3046\u3001\uff5e\u3092\u7528\u3044\u3066\u3001\uff5e\u306b\u3088\u3063\u3066"
       }
     },
     "kese": {
@@ -3033,7 +3044,8 @@
         "haw": "he hua",
         "hr": "vo\u0107ka, vo\u0107e, povr\u0107e, gljiva",
         "cy": "ffrwyth, llysieuyn, madarchen",
-        "sv": "frukt, gr\u00f6nsak, svamp"
+        "sv": "frukt, gr\u00f6nsak, svamp",
+        "ja": "\u679c\u7269\u3001\u91ce\u83dc\u3001\u8338"
       }
     },
     "kin": {
@@ -3205,7 +3217,8 @@
         "tkl": "he mea m\u0101keke, he ukamea, he fatu",
         "haw": "he mea \u02bbo\u02bbole\u02bba, he mekala, he p\u014dhaku, he \u02bbal\u0101",
         "hr": "tvrdi predmet, metal, kamen",
-        "sv": "h\u00e5rd sak, metall, sten"
+        "sv": "h\u00e5rd sak, metall, sten",
+        "ja": "\u56fa\u5f62\u7269\u3001\u91d1\u5c5e\u3001\u5ca9\u3001\u77f3\u3001\u5805\u3044"
       }
     },
     "ko": {
@@ -3252,7 +3265,8 @@
         "tkl": "he \u014dmea, he mea fakapipiki, he pauta",
         "haw": "he p\u0101lolo, he mea ho\u02bbopipili, he palaoa, he pauka",
         "hr": "glina, tijesto, polu-kruto, smjesa, prah",
-        "sv": "lera, kl\u00e4ngande form, deg, halvfast, smet, pulver"
+        "sv": "lera, kl\u00e4ngande form, deg, halvfast, smet, pulver",
+        "ja": "\u7c98\u7740\u7269\u3001\u7c98\u571f\u3001\u7df4\u308a\u7269\u3001\u534a\u56fa\u4f53\u3001\u7cca\u3001\u7c89"
       }
     },
     "kokosila": {
@@ -3337,7 +3351,8 @@
         "tkl": "te ea, he m\u0101nava; he ag\u0101ga; he m\u014dni lilofia",
         "haw": "ke ea, hanu, aho; ka mauli, ka wailua; ka wahi huna",
         "hr": "zrak, dah; duh, du\u0161a; skrivena stvarnost",
-        "sv": "luft, andning, v\u00e4sen, essens, sj\u00e4l; dold verklighet"
+        "sv": "luft, andning, v\u00e4sen, essens, sj\u00e4l; dold verklighet",
+        "ja": "\u7a7a\u6c17\u3001\u606f\u3001\u7cbe\u795e\u3001\u970a; \u5e7d\u4e8b\u3001\u898b\u3048\u3056\u308b\u884c\u70ba\u8005"
       }
     },
     "konsi": {
@@ -3492,7 +3507,8 @@
         "tkl": "he lanu, he vali | ALT LGBT+",
         "haw": "he waiho\u02bbolu\u02bbu, he pena | ALT e pili ana i ke kai\u0101ulu LGBT+",
         "hr": "\u0161areno, obojano | ALT od ili vezano za LGBT+ zajednicu",
-        "sv": "f\u00e4rgglad, pigmenterad, m\u00e5lad, |ALT av eller relaterat till HBTQ+-gemenskapen"
+        "sv": "f\u00e4rgglad, pigmenterad, m\u00e5lad, |ALT av eller relaterat till HBTQ+-gemenskapen",
+        "ja": "\u8272\u3001\u8272\u9bae\u3084\u304b\u306a\u3001\u7740\u8272\u3057\u305f\u3001\u591a\u69d8\u306a | ALT \u6027\u306e\u591a\u69d8\u6027(LGBT+)\u306b\u95a2\u806f\u3057\u305f"
       }
     },
     "kulijo": {
@@ -3607,7 +3623,8 @@
         "tkl": "he v\u0101ega, he kamupan\u012b, he atunuku",
         "haw": "he kai\u0101ulu, hui, he p\u016b\u02bbulu, he l\u0101hui",
         "hr": "zajednica, dru\u0161tvo, grupa, narod, pleme",
-        "sv": "gemenskap, f\u00f6retag, grupp, nation, samh\u00e4lle, stam"
+        "sv": "gemenskap, f\u00f6retag, grupp, nation, samh\u00e4lle, stam",
+        "ja": "\u96c6\u307e\u308a\u3001\u96c6\u56e3\u3001\u5171\u540c\u4f53\u3001\u4f1a\u793e\u3001\u6c11\u65cf"
       }
     },
     "kuntu": {
@@ -3690,7 +3707,8 @@
         "tkl": "he taliga; logo, fakalogo; haga, tokaga, uhitaki",
         "haw": "he pepeiao; lohe, ho\u02bbolono; maliu",
         "hr": "uho, \u0107uti, slu\u0161ati; slu\u0161ati pa\u017eljivo, poslu\u0161ati (nekoga)",
-        "sv": "\u00f6ra, att h\u00f6ra, lyssna; att uppm\u00e4rksamma, lyda"
+        "sv": "\u00f6ra, att h\u00f6ra, lyssna; att uppm\u00e4rksamma, lyda",
+        "ja": "\u8033\u3001\u805e\u304f\u3001\u8074\u304f; \u8033\u3092\u50be\u3051\u308b\u3001\u8a00\u3046\u3053\u3068\u306b\u5f93\u3046"
       }
     },
     "kutopoma": {
@@ -3756,7 +3774,8 @@
         "tkl": "(ki te v\u0101 o n\u0101 kupu m\u014d te t\u016blaga ma te toega o te fuaikupu)",
         "haw": "(i waena o ka m\u0101mala\u02bb\u014dlelo p\u014d\u02bbaiapili me ka m\u0101mala\u02bb\u014dlelo nui)",
         "hr": "(izme\u0111u kontekstualne fraze i glavne re\u010denice)",
-        "sv": "(mellan sammanhangsfrasen och huvudmeningen)"
+        "sv": "(mellan sammanhangsfrasen och huvudmeningen)",
+        "ja": "(\u6761\u4ef6\u7bc0\u3068\u4e3b\u6587\u306e\u9593\u306b\u304a\u304f)"
       }
     },
     "lanpan": {
@@ -3845,7 +3864,8 @@
         "tkl": "moe, m\u0101l\u014dl\u014d",
         "haw": "moe, maha, malolo",
         "hr": "spavati, odmarati",
-        "sv": "sovande, vila"
+        "sv": "sovande, vila",
+        "ja": "\u7720\u308b\u3001\u5bdd\u308b\u3001\u4f11\u3080"
       }
     },
     "laso": {
@@ -3892,7 +3912,8 @@
         "haw": "pol\u016b, ma\u02bboma\u02bbo",
         "hr": "plavo, zeleno",
         "cy": "glas, gwyrdd",
-        "sv": "bl\u00e5, gr\u00f6n"
+        "sv": "bl\u00e5, gr\u00f6n",
+        "ja": "\u9752\u3044\u3001\u7dd1\u306e"
       }
     },
     "lawa": {
@@ -3938,7 +3959,8 @@
         "tkl": "he ulu, he m\u0101faufau; pule, fakaali, fakahino, poloaki",
         "haw": "he po\u02bbo, ka waihona no\u02bbono\u02bbo; k\u0101ohi, alaka\u02bbi, ho\u02bboponopono, noho ali\u02bbi",
         "hr": "glava, um; upravljati, usmjeravati, voditi, planirati, vladati",
-        "sv": "huvud, hj\u00e4rna; att kontrollera, styra, leda, \u00e4ga, planera, regulera, regera"
+        "sv": "huvud, hj\u00e4rna; att kontrollera, styra, leda, \u00e4ga, planera, regulera, regera",
+        "ja": "\u982d\u3001\u601d\u8003; \u652f\u914d\u3059\u308b\u3001\u6307\u63ee\u3059\u308b\u3001\u6307\u5c0e\u3059\u308b\u3001\u5c0e\u304f\u3001\u7387\u3044\u308b\u3001\u7d71\u5236\u3059\u308b\u3001\u7d71\u6cbb\u3059\u308b"
       }
     },
     "leko": {
@@ -4029,7 +4051,8 @@
         "tkl": "he kie, he kofu, he lavalava; ufiufi, p\u016blou",
         "haw": "lole, \u02bba\u02bbahu, he mea ulana \u02bbia; uhi, pilikino",
         "hr": "tkanina, odje\u0107a, tekstil; pokriva\u010d, sloj privatnosti",
-        "sv": "tyg, kl\u00e4dsel, v\u00e4vnad, t\u00e4ckning, integritetsskikt"
+        "sv": "tyg, kl\u00e4dsel, v\u00e4vnad, t\u00e4ckning, integritetsskikt",
+        "ja": "\u5e03\u3001\u8863\u670d\u3001\u7e54\u7269; \u8986\u3044\u3001\u30d7\u30e9\u30a4\u30f4\u30a1\u30b7\u30fc\u4fdd\u8b77"
       }
     },
     "lenke": {
@@ -4111,7 +4134,8 @@
         "tkl": "m\u0101l\u016bl\u016b, makalili; mata, ota",
         "haw": "anu, hu\u02bbihu\u02bbi",
         "hr": "hladno; nepe\u010deno, sirovo",
-        "sv": "kall, kyld; ostekad, r\u00e5"
+        "sv": "kall, kyld; ostekad, r\u00e5",
+        "ja": "\u51b7\u305f\u3044\u3001\u5bd2\u3044\u3001\u51cd\u3063\u305f\u3001\u6dbc\u3057\u3044; \u672a\u8abf\u7406\u306e\u3001\u751f\u306e"
       }
     },
     "li": {
@@ -4152,7 +4176,8 @@
         "tkl": "(ki te v\u0101 o te mea, e fai, (kae h\u0113 fakaaog\u0101 m\u014d \u201cmi\u201d tautahi pe m\u014d \u201csina\u201d tautahi) ma te veape; ke fakaaliali veape f\u014du foki i te fuaikupu, kua t\u016b ai t\u0113tahi veape)",
         "haw": "(i waena o ke kumu\u02bb\u014dlelo (koe \u201cmi\u201d wale, \u0101 i \u02bbole \u201csina\u201d wale) me ka ha\u02bbina; e ho\u02bbopuka ha\u02bbina hou ho\u02bbi i ka m\u0101mala\u02bb\u014dlelo, e k\u016b \u02bb\u0113 ai kekahi ha\u02bbina)",
         "hr": "(izme\u0111u subjekta (osim \"mi\" i \"sina\") i predikata; dodavanje drugog predikata istom subjektu)",
-        "sv": "(emellan ett subjekt f\u00f6rutom endast mi eller endast sina och dess verb; introducerar ett nytt verb f\u00f6r samma subjekt)"
+        "sv": "(emellan ett subjekt f\u00f6rutom endast mi eller endast sina och dess verb; introducerar ett nytt verb f\u00f6r samma subjekt)",
+        "ja": "(\u4e3b\u8a9e\u304c mi \u304b sina \u306e\u307f\u3067\u3042\u308b\u5834\u5408\u3092\u9664\u304d\u3001\u4e3b\u8a9e\u3068\u8ff0\u8a9e\u306e\u9593\u306b\u304a\u304f; \u540c\u3058\u4e3b\u8a9e\u306b\u5bfe\u3057\u3066\u5225\u306e\u8ff0\u8a9e\u3092\u4e26\u7acb\u3059\u308b\u969b\u306b\u3082\u7528\u3044\u308b)"
       }
     },
     "lijokuku": {
@@ -4253,7 +4278,8 @@
         "tkl": "liki, taigole, fuaiti, pukupuku; he tamaiti, he taumalo",
         "haw": "iki, li\u02bbili\u02bbi, p\u014dkole; \u02bb\u014dpio, he p\u016bnua",
         "hr": "malo, sitno, nisko; malo (ne\u010dega); mlado",
-        "sv": "liten, kort, f\u00e5; en bit; ung"
+        "sv": "liten, kort, f\u00e5; en bit; ung",
+        "ja": "\u5c0f\u3055\u3044\u3001\u3061\u3087\u3063\u3068\u3057\u305f\u3001\u77ed\u3044; \u5c11\u306a\u3044; \u4e9b\u7d30\u306a; \u82e5\u3044"
       }
     },
     "linja": {
@@ -4300,7 +4326,8 @@
         "tkl": "he mea loa; he maea, he lauulu, he filo | ALT he laina, he hokoga",
         "haw": "he mea loa, \u02bbolu ho\u02bbi; he kaula, he lauoho, he hulu, he lopi | ALT he laina, he pili",
         "hr": "dug i savitljiv predmet; kabel, kosa, u\u017ee, konac | ALT crta, veza",
-        "sv": "l\u00e5ng och flexibel sak; sladd, h\u00e5r, rep, tr\u00e5d, garn | ALT linje, sammankoppling"
+        "sv": "l\u00e5ng och flexibel sak; sladd, h\u00e5r, rep, tr\u00e5d, garn | ALT linje, sammankoppling",
+        "ja": "\u9577\u304f\u3066\u67d4\u8edf\u306a\u3082\u306e; \u7d10\u3001\u6bdb\u3001\u9aea\u3001\u7e04\u3001\u7cf8\u3001\u7b4b | ALT \u7dda\u3001\u7e6b\u304c\u308a"
       }
     },
     "linluwi": {
@@ -4384,7 +4411,8 @@
         "tkl": "he mea m\u0101folafola; he tuhi, he laupepa, he tala, he kupega",
         "haw": "he mea papa; he puke, he palapala, he pepa, he kahua p\u016bnaewele",
         "hr": "ravan predmet; knjiga, dokument, papir, zapis, web stranica",
-        "sv": "platt objekt; bok, dokument, kort, papper, uppteckning, webbsida"
+        "sv": "platt objekt; bok, dokument, kort, papper, uppteckning, webbsida",
+        "ja": "\u307a\u3089\u307a\u3089\u3057\u305f\u3082\u306e; \u672c\u3001\u6587\u66f8\u3001\u30ab\u30fc\u30c9\u3001\u7d19\u3001\u8a18\u9332\u3001\u30a6\u30a7\u30d6\u30b5\u30a4\u30c8"
       }
     },
     "lo": {
@@ -4458,7 +4486,8 @@
         "tkl": "kukula",
         "haw": "\u02bbula",
         "hr": "crveno, crvenkasto",
-        "sv": "r\u00f6d, r\u00f6daktig"
+        "sv": "r\u00f6d, r\u00f6daktig",
+        "ja": "\u8d64\u3044\u3001\u8d64\u307f\u304c\u304b\u3063\u305f"
       }
     },
     "loka": {
@@ -4607,7 +4636,8 @@
         "tkl": "i, m\u014dni, hako, i ei | ALT (he tali io)",
         "haw": "aia i, \u02bboia\u02bbi\u02bbo | ALT (he pane h\u014d\u02bboia)",
         "hr": "kod, pri, nalaziti se (negdje), stvarno, istinito, postoje\u0107e | ALT (potvrda)",
-        "sv": "finns vid, n\u00e4rvarande vid, riktig, sann, existerande | ALT (jakande respons)"
+        "sv": "finns vid, n\u00e4rvarande vid, riktig, sann, existerande | ALT (jakande respons)",
+        "ja": "\uff5e\u306b\u3042\u308b\u3001\uff5e\u306b\u3044\u308b\u3001\u73fe\u5b9f\u306e\u3001\u771f\u5b9f\u306e\u3001\u5b58\u5728\u3059\u308b | ALT (\u80af\u5b9a\u3092\u3042\u3089\u308f\u3059\u8fd4\u7b54)"
       }
     },
     "lu": {
@@ -4683,7 +4713,8 @@
         "tkl": "he lima | ALT p\u0101, f\u0101f\u0101, tago",
         "haw": "he lima; \u02bbelima | ALT p\u0101, h\u0101h\u0101, kaomi",
         "hr": "ruka, dodirni organ; pet | ALT dirati, interaktirati, pritisnuti",
-        "sv": "arm, hand, k\u00e4nselorgan; fem | ALT k\u00e4nna fysiskt, interagera med, trycka p\u00e5"
+        "sv": "arm, hand, k\u00e4nselorgan; fem | ALT k\u00e4nna fysiskt, interagera med, trycka p\u00e5",
+        "ja": "\u8155\u3001\u624b\u3001\u89e6\u899a\u5668\u5b98; \u4e94 | ALT \u7269\u7406\u7684\u306b\u89e6\u308b, \u89e6\u308c\u3042\u3046\u3001\u62bc\u3059"
       }
     },
     "lukin": {
@@ -4734,7 +4765,8 @@
         "tkl": "he mata; kikila, kite, huke, m\u0101tau, faitau, m\u0101tamata; hakili; (pv.) taumafai",
         "haw": "he maka; n\u0101n\u0101, kilo, \u02bbike, h\u0101kiu, heluhelu; \u02bbimi; (pv.) ho\u02bboikaika",
         "hr": "oko, gledati, vidjeti, prou\u010diti, promotriti, \u010ditati; tra\u017eiti; (pv.) poku\u0161ati",
-        "sv": "\u00f6ga, kolla p\u00e5, se, unders\u00f6ka, observera, l\u00e4sa, leta efter, s\u00f6ka; (pv.) att f\u00f6rs\u00f6ka"
+        "sv": "\u00f6ga, kolla p\u00e5, se, unders\u00f6ka, observera, l\u00e4sa, leta efter, s\u00f6ka; (pv.) att f\u00f6rs\u00f6ka",
+        "ja": "\u76ee; \u898b\u308b\u3001\u898b\u3048\u308b\u3001\u8abf\u3079\u308b\u3001\u89b3\u5bdf\u3059\u308b\u3001\u8aad\u307f\u53d6\u308b\u3001\u898b\u7269\u3059\u308b; \u7269\u8272\u3059\u308b\u3001\u63a2\u3059; (pv.) \uff5e\u3057\u3066\u307f\u308b"
       }
     },
     "lupa": {
@@ -4780,7 +4812,8 @@
         "tkl": "he faitotoka, he gutu, he lua, he p\u016b, he ana",
         "haw": "he puka, he lua, he waha, he pukaaniani",
         "hr": "vrata, rupa, otvor, prozor",
-        "sv": "d\u00f6rr, h\u00e5l, \u00f6ppning, f\u00f6nster"
+        "sv": "d\u00f6rr, h\u00e5l, \u00f6ppning, f\u00f6nster",
+        "ja": "\u5b54\u3001\u958b\u53e3\u90e8\u3001\u6249\u3001\u7a93"
       }
     },
     "ma": {
@@ -4826,7 +4859,8 @@
         "tkl": "he fenua; he atunuku; he kelekele; he t\u016blaga",
         "haw": "he honua, he \u02bb\u0101ina; he ao; he lepo; he k\u016blana",
         "hr": "zemlja; svijet; dr\u017eava, teritorij",
-        "sv": "jord, land, utomhus, v\u00e4rld; land, territorium"
+        "sv": "jord, land, utomhus, v\u00e4rld; land, territorium",
+        "ja": "\u571f\u5730\u3001\u9678; \u5c4b\u5916\u3001\u4e16\u754c; \u56fd\u3001\u5730\u57df\u3001\u9818\u57df; \u571f"
       }
     },
     "majuna": {
@@ -4915,7 +4949,8 @@
         "tkl": "he m\u0101tua, he tupuna",
         "haw": "he makua, he kupuna; he kahu",
         "hr": "roditelj, predak; tvorac, za\u010detnik; skrbnik, hranitelj",
-        "sv": "f\u00f6r\u00e4lder, f\u00f6rfader, skapare, upphovsman, v\u00e5rdnadshavare"
+        "sv": "f\u00f6r\u00e4lder, f\u00f6rfader, skapare, upphovsman, v\u00e5rdnadshavare",
+        "ja": "\u89aa\u3001\u7956\u5148; \u5275\u59cb\u8005\u3001\u4f5c\u8005; \u4e16\u8a71\u4eba\u3001\u7ba1\u7406\u4eba"
       }
     },
     "mani": {
@@ -4961,7 +4996,8 @@
         "tkl": "he tupe; he meaola lata",
         "haw": "he k\u0101l\u0101, he moni, he uku k\u016b\u02bbike, he loa\u02bba h\u014d\u02bbili\u02bbili, he waiwai; he holoholona laka",
         "hr": "novac, u\u0161te\u0111evina, bogatstvo; stoka",
-        "sv": "pengar, st\u00e5lar, sparpengar, rikedom; stort domesticerat landdjur"
+        "sv": "pengar, st\u00e5lar, sparpengar, rikedom; stort domesticerat landdjur",
+        "ja": "\u304a\u91d1\u3001\u8ca8\u5e63\u3001\u8ca1\u7523\u3001\u5bcc; \u5927\u578b\u306e\u5bb6\u755c"
       }
     },
     "me": {
@@ -5029,7 +5065,8 @@
         "tkl": "he fafine",
         "haw": "he wahine",
         "hr": "\u017eena, \u017eenska osoba, \u017eenstvena osoba; supruga",
-        "sv": "kvinna, feminin person; fru"
+        "sv": "kvinna, feminin person; fru",
+        "ja": "\u5973\u6027\u3001\u96cc; \u59bb"
       }
     },
     "melome": {
@@ -5155,7 +5192,8 @@
         "haw": "au, k\u0101ua, k\u0101kou, m\u0101ua, m\u0101kou",
         "hr": "ja, mi",
         "cy": "fi, ni",
-        "sv": "jag, mig, vi, oss"
+        "sv": "jag, mig, vi, oss",
+        "ja": "\u308f\u305f\u3057\u3001\u308f\u308c\u308f\u308c"
       }
     },
     "mije": {
@@ -5203,7 +5241,8 @@
         "tkl": "he tam\u0101loa, he t\u0101ne",
         "haw": "he k\u0101ne",
         "hr": "mu\u0161karac, mu\u0161ko, mu\u017eevna osoba; suprug",
-        "sv": "man, maskulin person; make"
+        "sv": "man, maskulin person; make",
+        "ja": "\u7537\u6027\u3001\u96c4; \u592b"
       }
     },
     "mijomi": {
@@ -5367,7 +5406,8 @@
         "tkl": "kai, he meakai",
         "haw": "\u02bbai, he mea\u02bbai",
         "hr": "jesti, piti, konzumirati, progutati",
-        "sv": "att \u00e4ta, dricka, konsumera, sv\u00e4lja, inta"
+        "sv": "att \u00e4ta, dricka, konsumera, sv\u00e4lja, inta",
+        "ja": "\u98df\u3079\u308b\u3001\u98f2\u3080\u3001\u6442\u53d6\u3059\u308b\u3001\u98df\u3079\u7269\u3001\u98df\u4e8b"
       }
     },
     "moli": {
@@ -5413,7 +5453,8 @@
         "tkl": "mate, oti",
         "haw": "make",
         "hr": "mrtvo, umiru\u0107e",
-        "sv": "d\u00f6d, d\u00f6ende"
+        "sv": "d\u00f6d, d\u00f6ende",
+        "ja": "\u6b7b\u306c\u3001\u6b7b\u306e\u3001\u6bba\u3059"
       }
     },
     "molusa": {
@@ -5484,7 +5525,8 @@
         "tkl": "tua, muli",
         "haw": "hope, muli",
         "hr": "iza, stra\u017enja strana, stra\u017enjica",
-        "sv": "bak, baksida"
+        "sv": "bak, baksida",
+        "ja": "\u5f8c\u308d\u3001\u5f8c\u90e8\u3001\u80cc\u5f8c\u3001\u80cc\u4e2d"
       }
     },
     "monsuta": {
@@ -5575,7 +5617,8 @@
         "tkl": "(te kalaga a n\u0101 meaola) | ALT (te kalaga a te tagata)",
         "haw": "(ke kani a n\u0101 holoholona) | ALT (ke kani a ke kanaka)",
         "hr": "(\u017eivotinjski zvuk ili glasanje) | ALT (neartikulirano glasanje)",
-        "sv": "(djurljud eller djurkommunikation) | ALT (vokalisering)"
+        "sv": "(djurljud eller djurkommunikation) | ALT (vokalisering)",
+        "ja": "(\u52d5\u7269\u306e\u9cf4\u304d\u58f0) | ALT (\u8a00\u8449\u306b\u306a\u3089\u306a\u3044\u58f0)"
       }
     },
     "mulapisu": {
@@ -5665,7 +5708,8 @@
         "tkl": "he m\u0101hina, he mea i te lagi i te p\u014d, he fet\u016b | ALT gigila, he m\u0101lamalama",
         "haw": "he mahina, he mea i ka lani i ka p\u014d, he h\u014dk\u016b | ALT makali, he lama",
         "hr": "mjesec, predmet vidljiv na no\u0107nom nebu, zvijezda | ALT sjati, sjaju\u0107e, svjetlo, svjetlost u tami",
-        "sv": "m\u00e5ne, natthimmelsobjekt, stj\u00e4rna | ALT lysa, lysande ljus, ljus i m\u00f6rker"
+        "sv": "m\u00e5ne, natthimmelsobjekt, stj\u00e4rna | ALT lysa, lysande ljus, ljus i m\u00f6rker",
+        "ja": "\u6708\u3001\u661f\u3001\u5929\u4f53 | ALT \u6697\u95c7\u306b\u5149\u308b\u3082\u306e"
       }
     },
     "musi": {
@@ -5709,7 +5753,8 @@
         "tkl": "fakafiafia, fakakata, t\u0101kalo",
         "haw": "he hana no\u02bbeau, hoihoi, p\u0101\u02bbani",
         "hr": "umjetni\u010dki, zabavno, neozbiljno, razigrano, rekreacija",
-        "sv": "konstn\u00e4rlig, underh\u00e5llande, l\u00e4ttsinnig, lekfull, n\u00f6je"
+        "sv": "konstn\u00e4rlig, underh\u00e5llande, l\u00e4ttsinnig, lekfull, n\u00f6je",
+        "ja": "\u697d\u3057\u3044\u3001\u304a\u3082\u3057\u308d\u3044\u3001\u6109\u5feb\u306a\u3001\u3075\u3056\u3051\u305f\u3001\u82b8\u8853\u7684\u306a\u3001\u904a\u622f\u3001\u5a2f\u697d"
       }
     },
     "mute": {
@@ -5754,7 +5799,8 @@
         "tkl": "lahi, tokalahi, ni, lahi lele; he aofai | ALT tolu (pe lahi ake), 20",
         "haw": "kini, mano, lehu, nui, kekahi mau | ALT \u02bbekolu (\u0101 i \u02bbole nui a\u02bbe), 20",
         "hr": "puno, vi\u0161e, mnogo, nekoliko, vrlo; koli\u010dina | ALT tri (ili vi\u0161e), 20",
-        "sv": "m\u00e5nga, mycket, mer, flera, v\u00e4ldigt; m\u00e4ngd |ALT tre (eller mer), 20"
+        "sv": "m\u00e5nga, mycket, mer, flera, v\u00e4ldigt; m\u00e4ngd |ALT tre (eller mer), 20",
+        "ja": "\u305f\u304f\u3055\u3093\u306e\u3001\u591a\u3044\u3001\u3044\u304f\u3064\u304b\u306e\u3001\u3082\u3063\u3068\u3001\u3068\u3066\u3082\u3001\u975e\u5e38\u306b; \u91cf | ALT \u4e09\u4ee5\u4e0a, 20"
       }
     },
     "n": {
@@ -5877,7 +5923,8 @@
         "tkl": "he n\u016bmela",
         "haw": "he helu",
         "hr": "(redni broj); broj",
-        "sv": "(markerar ordningstal); nummer"
+        "sv": "(markerar ordningstal); nummer",
+        "ja": "\uff5e\u756a\u76ee\u306e; \u6570\u3001\u756a\u53f7"
       }
     },
     "nasa": {
@@ -5921,7 +5968,8 @@
         "tkl": "kehe; valea, hoho; kon\u0101",
         "haw": "\u02bb\u0113, he mea \u02bb\u0113, he \u02bbano \u02bb\u0113; \u02bb\u016blala; \u02bbona",
         "hr": "neobi\u010dno, \u010dudno; pijano",
-        "sv": "ovanlig, konstig, dum; full, berusad"
+        "sv": "ovanlig, konstig, dum; full, berusad",
+        "ja": "\u5909\u306a\u3001\u5947\u5999\u306a; \u72c2\u3063\u305f; \u9154\u3063\u305f\u3001\u71b1\u72c2\u3057\u305f"
       }
     },
     "nasin": {
@@ -5964,7 +6012,8 @@
         "tkl": "he ala, he aganuku, he faiga, he auala",
         "haw": "he ala, he loina, he \u02bbano hana",
         "hr": "na\u010din, obi\u010daj, doktrina, put, cesta",
-        "sv": "v\u00e4g, vana, doktrin, metod, stig"
+        "sv": "v\u00e4g, vana, doktrin, metod, stig",
+        "ja": "\u9053\u3001\u65b9\u6cd5\u3001\u624b\u6bb5\u3001\u7fd2\u6163\u3001\u65b9\u91dd\u3001\u9032\u8def"
       }
     },
     "natu": {
@@ -6103,7 +6152,8 @@
         "tkl": "he pona, he fakamau, he matike, he mauga, he ihu",
         "haw": "he pu\u02bbu, he pihi, he pu\u02bbe, he mauna, he ihu",
         "hr": "neravnina, gumb, brdo, planina, nos, izbo\u010dina",
-        "sv": "bula, gupp, knapp, berg, kulle, n\u00e4sa, utbuktning"
+        "sv": "bula, gupp, knapp, berg, kulle, n\u00e4sa, utbuktning",
+        "ja": "\u3053\u3076\u3001\u4e18\u3001\u5c71\u3001\u30dc\u30bf\u30f3\u3001\u9f3b\u3001\u7a81\u51fa\u90e8"
       }
     },
     "ni": {
@@ -6149,7 +6199,8 @@
         "tkl": "nei, n\u0101, l\u0101, t\u0113, i\u0113, t\u0113nei, i\u0113nei, t\u0113n\u0101, i\u0113n\u0101, t\u0113ia, i\u0113ia",
         "haw": "nei, l\u0101, k\u0113ia, k\u0113n\u0101, k\u0113l\u0101",
         "hr": "ovo, ono",
-        "sv": "Den d\u00e4r. den h\u00e4r"
+        "sv": "Den d\u00e4r. den h\u00e4r",
+        "ja": "\u3053\u308c\u3001\u3042\u308c\u3001\u3053\u306e\u3001\u305d\u306e"
       }
     },
     "nimi": {
@@ -6194,7 +6245,8 @@
         "haw": "he inoa, he hua\u02bb\u014dlelo",
         "hr": "ime, rije\u010d",
         "cy": "enw, gair",
-        "sv": "namn, ord"
+        "sv": "namn, ord",
+        "ja": "\u540d\u524d\u3001\u8a00\u8449\u3001\u5358\u8a9e"
       }
     },
     "nja": {
@@ -6267,7 +6319,8 @@
         "tkl": "he vae, he t\u014dt\u014dga ma g\u0101oioi; lalo | ALT hefulu; luahefulu; -5",
         "haw": "he w\u0101wae, he mahele o ke kino no ka ne\u02bbe; lalo | ALT \u02bbumi; iwak\u0101lua; \u02bbelima \u02bbi\u02bbo \u02bbole",
         "hr": "stopalo, noga, organ za kretanje; dno, donji dio | ALT deset; dvadeset; minus 5",
-        "sv": "fot, ben, r\u00f6relseorgan; botten, nedre bit |ALT tio; tjugo; minus fem"
+        "sv": "fot, ben, r\u00f6relseorgan; botten, nedre bit |ALT tio; tjugo; minus fem",
+        "ja": "\u8db3\u3001\u811a\u3001\u79fb\u52d5\u5668\u5b98; \u4e0b\u3001\u4e0b\u90e8 | ALT \u5341; \u4e8c\u5341; \u30de\u30a4\u30ca\u30b9\u4e94"
       }
     },
     "nu": {
@@ -6442,7 +6495,8 @@
         "tkl": "(ma kalaga ki t\u0113tahi tino, pe ma fakaaliali pule pe fofou)",
         "haw": "e (no ka mea, e k\u0101hea \u02bbia, \u0101 i \u02bbole e ho\u02bbopuka i ke kauoha, \u0101 i \u02bbole ka makemake)",
         "hr": "hej! oj! ej! (vokativ, imperativ, ili optativ)",
-        "sv": "hall\u00e5! O! (vokativ, imperativ eller optativ)"
+        "sv": "hall\u00e5! O! (vokativ, imperativ eller optativ)",
+        "ja": "(\u547c\u3073\u304b\u3051\u306e\u58f0) (\u8ff0\u8a9e\u306e\u524d\u306b li \u306e\u4ee3\u308a\u306b\u304a\u304f\u3053\u3068\u3067\u547d\u4ee4\u6587/\u610f\u5fd7\u6587\u3092\u3064\u304f\u308b)"
       }
     },
     "oke": {
@@ -6609,7 +6663,8 @@
         "tkl": "alofa, \u0101va, fakaaloalo",
         "haw": "aloha, mahalo",
         "hr": "ljubav, po\u0161tovanje, voliti, imati samilost za",
-        "sv": "k\u00e4rlek, ha medk\u00e4nsla f\u00f6r, respektera, visa \u00f6mhet till"
+        "sv": "k\u00e4rlek, ha medk\u00e4nsla f\u00f6r, respektera, visa \u00f6mhet till",
+        "ja": "\u611b\u3059\u308b\u3001\u604b\u3059\u308b\u3001\u540c\u60c5\u3059\u308b\u3001\u656c\u611b\u3059\u308b\u3001\u611b\u60c5\u3092\u793a\u3059"
       }
     },
     "omekapo": {
@@ -6725,7 +6780,8 @@
         "tkl": "ia, kil\u0101ua, kil\u0101, kil\u0101tou",
         "haw": "ia, l\u0101ua, l\u0101kou",
         "hr": "on, ona, ono, oni",
-        "sv": "han, hon, hen, den, de"
+        "sv": "han, hon, hen, den, de",
+        "ja": "\u5f7c\u3001\u5f7c\u5973\u3001\u5f7c\u3089\u3001\u305d\u308c\u3001\u305d\u308c\u3089"
       }
     },
     "oni": {
@@ -6799,7 +6855,8 @@
         "tkl": "k\u0101mata; tatala, matala",
         "haw": "ho\u02bbomaka; wehe, hua\u02bbi; ho\u02bb\u0101",
         "hr": "po\u010deti; otvoriti; upaliti",
-        "sv": "b\u00f6rja, starta; \u00f6ppna; s\u00e4tta p\u00e5"
+        "sv": "b\u00f6rja, starta; \u00f6ppna; s\u00e4tta p\u00e5",
+        "ja": "\u59cb\u3081\u308b\u3001\u59cb\u307e\u308b; \u958b\u304f; \u958b\u3051\u308b"
       }
     },
     "owe": {
@@ -6900,7 +6957,8 @@
         "fi": "pilalle mennyt, rikkin\u00e4inen, vaurioitunut, sekaisin | ALT (kirosana, esim. vittu!)",
         "tkl": "gau, fati | ALT (he kalaga \u2014 \u201cau\u0113\u201d)",
         "haw": "w\u0101hi, haku, ho\u02bbopilikia | ALT (he ho\u02bb\u014dho \u2014 \u201ctsa\u201d)",
-        "hr": "pokvareno, pokidano, o\u0161te\u010deno, ozlije\u0111eno, zabrljano | ALT (psovka, npr. jebote!)"
+        "hr": "pokvareno, pokidano, o\u0161te\u010deno, ozlije\u0111eno, zabrljano | ALT (psovka, npr. jebote!)",
+        "ja": "\u58ca\u308c\u305f\u3001\u50b7\u3064\u3044\u305f\u3001\u5931\u6557\u3057\u305f\u3001\u58ca\u3059\u3001\u50b7\u3064\u3051\u308b | ALT (\u300c\u304f\u305d\uff01\u300d\u306e\u3088\u3046\u306a\u7f75\u58f0)"
       }
     },
     "pake": {
@@ -6983,7 +7041,8 @@
         "fi": "tehd\u00e4, ryhty\u00e4 toimiin, ty\u00f6skennell\u00e4, rakentaa, valmistaa",
         "tkl": "fai",
         "haw": "hana",
-        "hr": "raditi, raditi na; izgraditi, napraviti, pripremiti"
+        "hr": "raditi, raditi na; izgraditi, napraviti, pripremiti",
+        "ja": "\u3059\u308b\u3001\u884c\u52d5\u3059\u308b\u3001\u50cd\u304f; \u4f5c\u308b\u3001\u69cb\u7bc9\u3059\u308b\u3001\u7528\u610f\u3059\u308b"
       }
     },
     "palisa": {
@@ -7026,7 +7085,8 @@
         "fi": "pitk\u00e4 kova esine; oksa, sauva, keppi",
         "tkl": "he mea loa, m\u0101keke foki; he l\u0101kau, he pou",
         "haw": "he mea loa, \u02bbo\u02bbole\u02bba ho\u02bbi; he l\u0101\u02bbau, he pou",
-        "hr": "palica; grana, \u0161tap"
+        "hr": "palica; grana, \u0161tap",
+        "ja": "\u9577\u304f\u3066\u5805\u3044\u3082\u306e; \u679d\u3001\u68d2"
       }
     },
     "pan": {
@@ -7072,7 +7132,8 @@
         "fi": "vilja; ohra, maissi, kaura, riisi, vehn\u00e4; leip\u00e4, pasta",
         "tkl": "he alaiha, he haito; he falaoa",
         "haw": "he palaoa; he k\u016blina, he \u02bboka, he laiki, he huika; he nulu \u02bb\u012ak\u0101lia",
-        "hr": "\u017eitarica; je\u010dam, kukuruz, zob, ri\u017ea, \u017eito; kruh, tjestenina"
+        "hr": "\u017eitarica; je\u010dam, kukuruz, zob, ri\u017ea, \u017eito; kruh, tjestenina",
+        "ja": "\u7a40\u985e\u3001\u7a40\u7269; \u3054\u306f\u3093\u3001\u9ea6\u3001\u7c73; \u30d1\u30f3\u3001\u9eb5"
       }
     },
     "pana": {
@@ -7114,7 +7175,8 @@
         "fi": "antaa, l\u00e4hett\u00e4\u00e4, laittaa, panna, vapauttaa",
         "tkl": "f\u014dki, tuku, kaumai, kavatu, togi, maka",
         "haw": "h\u0101\u02bbawi, ku\u02bbu, ho\u02bbiho\u02bbi, pana, ho\u02bbolako, nou, kau",
-        "hr": "dati, poslati, pru\u017eiti, staviti, izdati (ne\u0161to)"
+        "hr": "dati, poslati, pru\u017eiti, staviti, izdati (ne\u0161to)",
+        "ja": "\u4e0e\u3048\u308b\u3001\u9001\u308b\u3001\u767a\u3059\u308b\u3001\u6388\u3051\u308b\u3001\u7f6e\u304f\u3001\u653e\u3059"
       }
     },
     "pasila": {
@@ -7339,7 +7401,8 @@
         "fi": "(k\u00e4ytet\u00e4\u00e4n jakamaan toinen substantiiviryhm\u00e4, joka kuvaa ensimm\u00e4ist\u00e4 substantiiviryhm\u00e4\u00e4) | ALT (esittelee genetiivin substantiivin)",
         "tkl": "(e fakaaog\u0101 ma m\u0101vae te v\u0101ega kupu lua ma te v\u0101ega tahi, ke fakamatala te v\u0101ega tahi e te v\u0101ega lua) | ALT (ma fakaaliali te nauna o t\u0113tahi nauna)",
         "haw": "(e ho\u02bbohana \u02bbia ana no ka moku i ka p\u016b\u02bbulu hua\u02bb\u014dlelo \u02bbelua, i ka p\u016b\u02bbulu \u02bbekahi, e loli \u02bbia ka p\u016b\u02bbulu \u02bbekahi e ka p\u016b\u02bbulu \u02bbelua) | ALT (e ho\u02bbopuka i ka ha\u02bbiinoa o kekahi aku ha\u02bbiinoa)",
-        "hr": "od (dijeli drugu skupinu imenica koja opisuje prvu) | ALT (ozna\u010dava imenicu u genitivu)"
+        "hr": "od (dijeli drugu skupinu imenica koja opisuje prvu) | ALT (ozna\u010dava imenicu u genitivu)",
+        "ja": "\uff5e\u306e (\u76f4\u524d\u306e\u540d\u8a5e(\u53e5)\u3068\u3001\u305d\u308c\u3092\u4fee\u98fe\u3059\u308b\u540d\u8a5e\u53e5\u3068\u306e\u533a\u5207\u308a\u3092\u793a\u3059) | ALT (\u5c5e\u683c\u306e\u8a9e\u3092\u4f5c\u308b)"
       }
     },
     "pika": {
@@ -7405,7 +7468,8 @@
         "fi": "syd\u00e4n (fyysinen tai henkinen); tunne (psyykkinen tunne tai fyysinen kokemus)",
         "tkl": "he fatu, he loto; he lagona, logo",
         "haw": "he pu\u02bbuwai, he na\u02bbau; he \u02bbike, lohe",
-        "hr": "srce; osje\u0107aj (emocija, do\u017eivljaj)"
+        "hr": "srce; osje\u0107aj (emocija, do\u017eivljaj)",
+        "ja": "\u5fc3\u3001\u5fc3\u81d3; \u611f\u60c5\u3001\u6c17\u6301\u3061\u3001\u611f\u3058"
       }
     },
     "pimeja": {
@@ -7446,7 +7510,8 @@
         "fi": "musta, tumma, valaisematon",
         "tkl": "uli, p\u014duli, he p\u014d",
         "haw": "\u02bbele, p\u014d\u02bbele, he p\u014d",
-        "hr": "crno, tamno, neosvijetljeno"
+        "hr": "crno, tamno, neosvijetljeno",
+        "ja": "\u9ed2\u3044\u3001\u6697\u3044\u3001\u95c7\u3001\u5f71"
       }
     },
     "Pingo": {
@@ -7522,7 +7587,8 @@
         "fi": "(aikaa) sitten, valmis, p\u00e4\u00e4ttynyt, mennyt, entinen",
         "tkl": "mua, k\u0101toa, uma, iku",
         "haw": "mua, pau, oki",
-        "hr": "zavr\u0161eno, zavr\u0161iti, gotovo, pro\u0161lost"
+        "hr": "zavr\u0161eno, zavr\u0161iti, gotovo, pro\u0161lost",
+        "ja": "\u7d42\u308f\u3063\u305f\u3001\u4ed5\u4e0a\u304c\u3063\u305f\u3001\u6e08\u3093\u3060\u3001\u904e\u53bb\u306e\u3001\u4ee5\u524d\u306e"
       }
     },
     "pipi": {
@@ -7566,7 +7632,8 @@
         "fi": "hy\u00f6nteinen, \u00f6t\u00f6kk\u00e4, muurahainen, h\u00e4m\u00e4h\u00e4kki",
         "tkl": "he meaola liki lele, he l\u014d, he k\u016bm\u0101",
         "haw": "he m\u016b, he mea kolo, he naonao, he lanalana",
-        "hr": "buba, kukac, mrav, pauk"
+        "hr": "buba, kukac, mrav, pauk",
+        "ja": "\u866b\u3001\u5fae\u5c0f\u306a\u751f\u7269\u3001\u6606\u866b"
       }
     },
     "pipo": {
@@ -7685,7 +7752,8 @@
         "fi": "lantio; sivu; vieress\u00e4, l\u00e4hell\u00e4, l\u00e4hist\u00f6ll\u00e4 | ALT yhdess\u00e4 (komitatiivi)",
         "tkl": "he ulu\u0101laga, he tafa; lata | ALT ma",
         "haw": "he k\u012bkala, he \u02bbao\u02bbao; kokoke | ALT me",
-        "hr": "bok, kuk; pored, u blizini, blizina | ALT s (ne\u010dim/nekim)"
+        "hr": "bok, kuk; pored, u blizini, blizina | ALT s (ne\u010dim/nekim)",
+        "ja": "\u8170\u3001\u5074; \u96a3\u3001\u305d\u3070\u3001\u8fd1\u304f | ALT \uff5e\u3068\u5171\u306b\u3001\uff5e\u306e\u305d\u3070\u306b"
       }
     },
     "poki": {
@@ -7727,7 +7795,8 @@
         "fi": "s\u00e4ili\u00f6, laukku, kulho, laatikko, kuppi, kaappi, astia",
         "tkl": "he ipu, he ato, he t\u0101noa, he puha, he k\u0101poti",
         "haw": "he ipu, he \u02bbeke, he \u02bbumeke, he pahu, he pahu\u02bbume, he waihona",
-        "hr": "posuda, vre\u0107a, kutija, \u010da\u0161a, \u0161alica, ormari\u0107, ladica"
+        "hr": "posuda, vre\u0107a, kutija, \u010da\u0161a, \u0161alica, ormari\u0107, ladica",
+        "ja": "\u5bb9\u308c\u7269\u3001\u888b\u3001\u5668\u3001\u7bb1\u3001\u30ab\u30c3\u30d7\u3001\u53ce\u7d0d\u5bb6\u5177"
       }
     },
     "polinpin": {
@@ -11003,7 +11072,7 @@
       "links": {
         "fontfile": "https://cdn.discordapp.com/attachments/340307145373253642/834314599759085588/sitelensuwiko20.ttf"
       },
-      "creator": "janEmelesowelikapesi",
+      "creator": "qazw",
       "license": "?",
       "version": "1.0",
       "last_updated": "2021-01",
