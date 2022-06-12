@@ -132,7 +132,7 @@
       "name_toki_pona": "toki Intonesija",
       "credits": "jan Melon, jan Lanu",
       "completeness_percent": "51",
-      "completeness_percent_pu": "27"
+      "completeness_percent_pu": "28"
     },
     "io": {
       "id_long": "ido",
@@ -830,7 +830,7 @@
         "ith_n": "e\u0148pwa\u0148\u1e93aill, upral, ac\u010dal, \u00ebir\u017eal, u\u0159hagoll | ALT dwal, \u1e11wal, \u0163wal, akthal",
         "sv": "kasta sig under, ner\u00e5t, \u00f6dmjuk, l\u00e5gm\u00e4ld, beroende | ALT botten, undersidan, under, golv, l\u00e5g, l\u00e4gre, ner",
         "ar": "\u0627\u0646\u062d\u0646\u0627\u0621 \u0644\u0644\u0623\u0633\u0641\u0644 \u061b \u0644\u0644\u0623\u0633\u0641\u0644 \u060c \u062a\u0648\u0627\u0636\u0639 \u060c \u062f\u0646\u064a\u0621 \u060c \u0645\u062d\u062a\u0627\u062c | \u0627\u0633\u0641\u0644 \u060c \u0645\u0646\u062e\u0641\u0636 \u060c \u0627\u0631\u0636\u064a \u060c \u0627\u0631\u0636",
-        "ja": "\u4e0b\u308b\u3001\u964d\u308a\u308b\u3001\u982d\u3092\u4e0b\u3052\u308b\u3001\u8b19\u865a\u306a\u3001\u5351\u3057\u3044\u3001\u5f93\u5c5e\u7684\u306a | ALT \u5e95\u3001\u4e0b\u90e8\u3001\u4e0b\u4f4d\u3001\u5e8a(\u3086\u304b); \u4f4e\u3044\u3001\u4e0b\u90e8\u306e\u3001\u5e95\u306e"
+        "ja": "\u4e0b\u308b\u3001\u964d\u308a\u308b\u3001\u982d\u3092\u4e0b\u3052\u308b\u3001\u8b19\u865a\u306a\u3001\u5351\u3057\u3044\u3001\u5f93\u5c5e\u7684\u306a | ALT \u5e95\u3001\u4e0b\u90e8\u3001\u4e0b\u3001\u4e0b\u65b9\u3001\u5e8a(\u3086\u304b); \u4f4e\u3044\u3001\u4e0b\u4f4d\u306e\u3001\u5e95\u306e"
       }
     },
     "ante": {
@@ -1038,6 +1038,7 @@
         "de": "bleiben, harren, warten, behalten, gesch\u00fctzt, sicher; (pv.) weitermachen, weiter(hin)",
         "tok": "ijo li tawa ala anu kama ala ante la ijo li awen",
         "es": "durable, mantenido, protegido, seguro, esperar, estar; (pv.) continuar, mantener",
+        "id": "terlindung, aman, menunggu, tidak berubah; (pv.) tetap, terus-menerus",
         "ceb_l": "paglahutay, gitipigan, gipanalipdan, luwas, paghulat, pagpabilin, (pv.) pagpadayon, taguan",
         "la": "man\u0113re, exspect\u0101re, retin\u0113re, t\u016btus | (pv.) pergere, pr\u014dporr\u014d",
         "it": "duraturo, mantenuto, protetto, sicuro, che aspetta, che resta; (pv.) continuare a, mantenere",
@@ -6718,7 +6719,7 @@
         "zh_hans": "\u51fa\u751f\u4e8e\u5a74\u513f\u6f6e\u4e00\u4ee3\uff081946\u5e74\uff0d1964\u5e74\uff09\u7684\u4eba\u3001\u4e0d\u66ff\u522b\u4eba\u7740\u60f3\u7684\u957f\u8005\uff1b\u5bf9\u8fd9\u7c7b\u4eba\u7684\u8fb1\u9a82\u8bcd",
         "hr": "boomer, Baby Boomer, bezobzirna starija osoba [usklik, uvreda]",
         "io": "olda impertinento, olda depolito",
-        "ja": "\u30d9\u30d3\u30fc\u30fb\u30d6\u30fc\u30de\u30fc\u3001\u601d\u616e\u306e\u306a\u3044\u5e74\u9577\u8005; [\u611f\u5606\u8a5e / \u3051\u306a\u3057\u3066]"
+        "ja": "\u30d9\u30d3\u30fc\u30fb\u30d6\u30fc\u30de\u30fc\u3001\u601d\u616e\u306e\u306a\u3044\u5e74\u9577\u8005; [\u305d\u306e\u3088\u3046\u306a\u4eba\u306e\u8a00\u52d5\u3092\u3042\u3057\u3089\u3046\u300c\u306f\u3044\u306f\u3044\u4e86\u89e3\u300d\u306e\u3088\u3046\u306a\u611f\u5606\u8a5e]"
       }
     },
     "oko": {
