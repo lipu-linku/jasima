@@ -50,7 +50,7 @@
       "name_endonym": "English",
       "name_english": "English",
       "name_toki_pona": "toki Inli",
-      "credits": "jan Sonja, jan inwin, jan Pensa, lipamanka, kapesi Pake, waso Pini",
+      "credits": "jan Sonja, jan inwin, jan Pensa, lipamanka, kapesi Pake",
       "completeness_percent": "100",
       "completeness_percent_pu": "100"
     },
@@ -348,6 +348,9 @@
     },
     "jan Lakuse": {
       "description": "audio"
+    },
+    "jan Lepeka": {
+      "description": "poni entry"
     },
     "jan Sonja": {
       "description": "free ku data"
@@ -4290,7 +4293,7 @@
       "word": "lijokuku",
       "book": "none",
       "source_language": "Korean",
-      "etymology": "\u3139\u3147\u314b\u314b (realkk) 'real LOL'",
+      "etymology": "\u3139\u3147\u314b\u314b (realkk) 'Exactly!' (literally: 'real LOL')",
       "commentary": "Virtually unknown outside the Korean toki pona community.",
       "def": {
         "en": "to agree (with laughter)",
@@ -4303,7 +4306,7 @@
         "zh_hant": "\uff08\u7b11\u8457\uff09\u540c\u610f",
         "zh_hans": "\uff08\u7b11\u7740\uff09\u540c\u610f",
         "hr": "slo\u017eiti se (uz smijeh)",
-        "ja": "\u540c\u610f\u3059\u308b (\u7b11\u3044\u306a\u304c\u3089)"
+        "ja": "(\u7b11\u3044\u306a\u304c\u3089)\u540c\u610f\u3059\u308b\u3001\u300c\u307b\u3093\u3068\u305d\u308c\uff57\uff57\u300d"
       }
     },
     "likujo": {
@@ -11130,7 +11133,7 @@
       "features": "-"
     },
     "linja pimeja pona": {
-      "name_short": "linja pimeja pona",
+      "name_short": "nasin nanpa",
       "writing_system": "sitelen pona",
       "links": {
         "fontfile": "http://antetokipona.infinityfreeapp.com/font/linjapimejapona.ttf",
@@ -11208,7 +11211,6 @@
       "features": "supports cartouches, nimi ku suli, extended pi and more extended lines"
     },
     "nasin nanpa": {
-      "name_short": "nasin nanpa",
       "writing_system": "sitelen pona",
       "links": {
         "fontfile": "https://github.com/ETBCOR/nasin-nanpa/raw/main/versions/nasin-nanpa-2.5.1.otf",
