@@ -11636,6 +11636,20 @@
       "filename": "sitelen-latin.ttf",
       "features": "supports all containers and nimi ku suli (misikeke is misspelled as misekeke)"
     },
+    "sitelen leko kiki": {
+      "name_short": "sitelen leko kiki",
+      "writing_system": "alphabet",
+      "links": {
+        "fontfile": "https://cdn.discordapp.com/attachments/316066233755631616/992124862023880795/sitelen-leko-kiki.otf",
+        "webpage": "https://fontstruct.com/fontstructions/show/2139247/sitelen-leko-kiki"
+      },
+      "creator": "jan Kanon",
+      "license": "Fontstruct ND NC",
+      "version": "1.0",
+      "last_updated": "2022-06",
+      "style": "pixelated",
+      "features": "-"
+    },
     "sitelen poka / sitelen luka tu tu": {
       "name_short": "sitelen luka tu tu",
       "writing_system": "sitelen pona",
