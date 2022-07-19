@@ -11409,6 +11409,15 @@
       "style": "pixelated",
       "features": "all ku suli, UCSUR-compliant"
     },
+    "lili pona": {
+      "name_short": "lili pona",
+      "writing_system": "sitelen pona",
+      "links": {
+        "fontfile": "https://cdn.discordapp.com/attachments/340307145373253642/631627365004607498/lili_pona4Medium.ttf"
+      },
+      "last_updated": "2022-07",
+      "style": "pixelated"
+    },
     "linja ante": {
       "name_short": "linja ante",
       "writing_system": "sitelen pona",
@@ -11621,6 +11630,20 @@
       "filename": "sitelen-antowi.otf",
       "style": "alternate design",
       "features": "UCSUR-compliant, extended pi, cartouches, ku suli, cartouches, autocartouches capitalised latin words "
+    },
+    "sitelen Komalin": {
+      "name_short": "sitelen Komalin",
+      "writing_system": "alphabet",
+      "links": {
+        "fontfile": "https://cdn.discordapp.com/attachments/301377942062366741/998615080168063006/sitelen-komalin.ttf"
+      },
+      "creator": "Kolmaryn (jan Komalin)",
+      "license": "Fontstruct ND NC",
+      "version": "1.0",
+      "last_updated": "2022-07",
+      "filename": "sitelen-komalin.ttf",
+      "style": "pixelated",
+      "features": "-"
     },
     "sitelen Kotopon": {
       "name_short": "sitelen Kotopon",
@@ -11846,6 +11869,12 @@
       "filename": "toki-pona-otf.otf",
       "style": "uniform line weight",
       "features": "-"
+    },
+    "toki pona PixelFonts": {
+      "name_short": "toki pona PixelFonts",
+      "writing_system": "sitelen pona",
+      "last_updated": "2022-07",
+      "style": "pixelated"
     },
     "Unifont CSUR": {
       "name_short": "Unifont CSUR",
