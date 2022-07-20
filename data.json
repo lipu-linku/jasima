@@ -11330,6 +11330,17 @@
     }
   },
   "fonts": {
+    "5x5 sitelen pona": {
+      "name_short": "5x5 sitelen pona",
+      "writing_system": "sitelen pona",
+      "links": {
+        "webpage": "https://fontstruct.com/fontstructions/show/1798201/5x5-sitelen-pona"
+      },
+      "license": "CC BY-SA 3.0",
+      "last_updated": "2022-07",
+      "style": "pixelated",
+      "features": "codepoints only"
+    },
     "Fairfax": {
       "name_short": "Fairfax",
       "writing_system": "sitelen pona",
@@ -11432,6 +11443,17 @@
       "filename": "linja-ante.ttf",
       "style": "serif",
       "features": "-"
+    },
+    "linja leko pi luka tu": {
+      "name_short": "linja leko pi luka tu",
+      "writing_system": "sitelen pona",
+      "links": {
+        "webpage": "https://fontstruct.com/fontstructions/show/2002090/linja-leko-pi-luka-tu"
+      },
+      "license": "CC BY-NC-SA 3.0",
+      "last_updated": "2022-07",
+      "style": "pixelated",
+      "features": "codepoints only"
     },
     "linja luka": {
       "name_short": "linja luka",
@@ -11689,6 +11711,28 @@
       "style": "pixelated",
       "features": "-"
     },
+    "sitelen leko ko": {
+      "name_short": "sitelen leko ko",
+      "writing_system": "alphabet",
+      "links": {
+        "webpage": "https://fontstruct.com/fontstructions/show/2107711/sitelen-leko-ko"
+      },
+      "license": "CC BY-NC 3.0",
+      "last_updated": "2022-07",
+      "style": "pixelated",
+      "features": "-"
+    },
+    "sitelen palisa sewi": {
+      "name_short": "sitelen palisa sewi",
+      "writing_system": "alphabet",
+      "links": {
+        "webpage": "https://fontstruct.com/fontstructions/show/2108474/sitelen-palisa-sewi"
+      },
+      "license": "Fontstruct ND NC",
+      "last_updated": "2022-07",
+      "style": "pixelated",
+      "features": "-"
+    },
     "sitelen poka / sitelen luka tu tu": {
       "name_short": "sitelen luka tu tu",
       "writing_system": "sitelen pona",
@@ -11704,6 +11748,17 @@
       "style": "pixelated",
       "features": "-"
     },
+    "sitelen pona 7x7": {
+      "name_short": "sitelen pona 7x7",
+      "writing_system": "sitelen pona",
+      "links": {
+        "webpage": "https://fontstruct.com/fontstructions/show/1797824/sitelen-pona-7x7"
+      },
+      "license": "CC BY-SA 3.0",
+      "last_updated": "2022-07",
+      "style": "pixelated",
+      "features": "codepoints only"
+    },
     "sitelen pona kiwen": {
       "name_short": "sitelen pona kiwen",
       "writing_system": "sitelen pona",
@@ -11718,6 +11773,17 @@
       "filename": "sitelen-pona-kiwen.ttf",
       "style": "pixelated, serif",
       "features": "codepoints only, supports nimi ku suli"
+    },
+    "sitelen pona pi palisa mute": {
+      "name_short": "sitelen pona pi palisa mute",
+      "writing_system": "sitelen pona",
+      "links": {
+        "webpage": "https://fontstruct.com/fontstructions/show/1905254/sitelen-pona-pi-palisa-mute"
+      },
+      "license": "Fontstruct ND NC",
+      "last_updated": "2022-07",
+      "style": "pixelated",
+      "features": "codepoints only"
     },
     "sitelen pona PMD sky font": {
       "name_short": "PMD sky",
@@ -11842,6 +11908,17 @@
       "style": "handwritten, alternate design",
       "features": "supports all nimi ku suli and nimi ku lili"
     },
+    "sitelen uta": {
+      "name_short": "sitelen uta",
+      "writing_system": "alphabet",
+      "links": {
+        "webpage": "https://fontstruct.com/fontstructions/show/2114958/sitelen-uta-1"
+      },
+      "license": "CC BY-SA 3.0",
+      "last_updated": "2022-07",
+      "style": "pixelated",
+      "features": "-"
+    },
     "Toki Pona Bubble": {
       "name_short": "Toki Pona Bubble",
       "writing_system": "sitelen pona",
@@ -11873,6 +11950,9 @@
     "toki pona PixelFonts": {
       "name_short": "toki pona PixelFonts",
       "writing_system": "sitelen pona",
+      "links": {
+        "fontfile": "https://cdn.discordapp.com/attachments/340307145373253642/631510265455706132/tokiponaPixelFonts12Medium.ttf"
+      },
       "last_updated": "2022-07",
       "style": "pixelated"
     },
