@@ -11586,6 +11586,20 @@
       "style": "uniform line weight",
       "features": "supports combined glyphs, nimi ku suli"
     },
+    "linja waso lili": {
+      "name_short": "linja waso",
+      "writing_system": "sitelen pona",
+      "links": {
+        "fontfile": "https://cdn.discordapp.com/attachments/340307145373253642/999952889936085022/linja_waso_lili.ttf"
+      },
+      "creator": "jan Maku (ItMarki)",
+      "license": "OFL",
+      "version": "1",
+      "last_updated": "2022-07",
+      "filename": "linja_waso_lili.ttf",
+      "style": "serif",
+      "features": "UCSUR-compliant"
+    },
     "linja wawa": {
       "name_short": "linja wawa",
       "writing_system": "sitelen pona",
