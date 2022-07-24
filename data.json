@@ -6,8 +6,8 @@
       "name_english": "Standard Arabic",
       "name_toki_pona": "toki Alapi",
       "credits": "Dox",
-      "completeness_percent": "0",
-      "completeness_percent_pu": "0"
+      "completeness_percent": "9",
+      "completeness_percent_pu": "19"
     },
     "ceb_l": {
       "id_long": "cebuano_latin",
@@ -15,8 +15,8 @@
       "name_english": "Cebuano (Latin)",
       "name_toki_pona": "toki Sinupuwanon (sitelen Lasina)",
       "credits": "jan Lakuwinsu",
-      "completeness_percent": "0",
-      "completeness_percent_pu": "0"
+      "completeness_percent": "8",
+      "completeness_percent_pu": "17"
     },
     "cy": {
       "id_long": "welsh",
@@ -24,8 +24,8 @@
       "name_english": "Welsh",
       "name_toki_pona": "toki Kunli",
       "credits": "Dylan Dalmataidd",
-      "completeness_percent": "0",
-      "completeness_percent_pu": "0"
+      "completeness_percent": "6",
+      "completeness_percent_pu": "8"
     },
     "da": {
       "id_long": "danish",
@@ -33,8 +33,8 @@
       "name_english": "Danish",
       "name_toki_pona": "toki Tansi",
       "credits": "VikingCow",
-      "completeness_percent": "0",
-      "completeness_percent_pu": "0"
+      "completeness_percent": "2",
+      "completeness_percent_pu": "5"
     },
     "de": {
       "id_long": "german",
@@ -42,8 +42,8 @@
       "name_english": "German",
       "name_toki_pona": "toki Tosi",
       "credits": "jan Alonola, jan Ke Tami, jan Jonatan",
-      "completeness_percent": "0",
-      "completeness_percent_pu": "0"
+      "completeness_percent": "98",
+      "completeness_percent_pu": "100"
     },
     "en": {
       "id_long": "english",
@@ -51,8 +51,8 @@
       "name_english": "English",
       "name_toki_pona": "toki Inli",
       "credits": "jan Sonja, jan inwin, jan Pensa, lipamanka, kapesi Pake",
-      "completeness_percent": "0",
-      "completeness_percent_pu": "0"
+      "completeness_percent": "100",
+      "completeness_percent_pu": "100"
     },
     "eo": {
       "id_long": "esperanto",
@@ -60,8 +60,8 @@
       "name_english": "Esperanto",
       "name_toki_pona": "toki Epelanto",
       "credits": "jan Pensa, kapesi Pake",
-      "completeness_percent": "0",
-      "completeness_percent_pu": "0"
+      "completeness_percent": "98",
+      "completeness_percent_pu": "100"
     },
     "es": {
       "id_long": "spanish",
@@ -69,8 +69,8 @@
       "name_english": "Spanish",
       "name_toki_pona": "toki Epanja",
       "credits": "kapesi Pake, kijete Ampo, akesi kasi Panime, Andrea Dolores, jan Kima, Jos\u00e9 Loera, F Anon, jan Sila, jan Telupiso",
-      "completeness_percent": "0",
-      "completeness_percent_pu": "0"
+      "completeness_percent": "73",
+      "completeness_percent_pu": "70"
     },
     "fi": {
       "id_long": "finnish",
@@ -78,8 +78,8 @@
       "name_english": "Finnish",
       "name_toki_pona": "toki Sumi",
       "credits": "jan Asona",
-      "completeness_percent": "0",
-      "completeness_percent_pu": "0"
+      "completeness_percent": "65",
+      "completeness_percent_pu": "100"
     },
     "fr": {
       "id_long": "french",
@@ -87,8 +87,8 @@
       "name_english": "French",
       "name_toki_pona": "toki Kanse",
       "credits": "jan Nisu",
-      "completeness_percent": "0",
-      "completeness_percent_pu": "0"
+      "completeness_percent": "100",
+      "completeness_percent_pu": "100"
     },
     "haw": {
       "id_long": "hawaiian",
@@ -96,8 +96,8 @@
       "name_english": "Hawaiian",
       "name_toki_pona": "toki Awaje",
       "credits": "jan Silisili",
-      "completeness_percent": "0",
-      "completeness_percent_pu": "0"
+      "completeness_percent": "46",
+      "completeness_percent_pu": "100"
     },
     "he": {
       "id_long": "hebrew",
@@ -105,8 +105,8 @@
       "name_english": "Hebrew",
       "name_toki_pona": "toki Iwisi",
       "credits": "jan Jaten, ilo Kesija",
-      "completeness_percent": "0",
-      "completeness_percent_pu": "0"
+      "completeness_percent": "8",
+      "completeness_percent_pu": "13"
     },
     "hi": {
       "id_long": "hindi",
@@ -114,8 +114,8 @@
       "name_english": "Hindi",
       "name_toki_pona": "toki Insi",
       "credits": "jan Sewi, jan Wato",
-      "completeness_percent": "0",
-      "completeness_percent_pu": "0"
+      "completeness_percent": "43",
+      "completeness_percent_pu": "11"
     },
     "hr": {
       "id_long": "croatian",
@@ -123,8 +123,8 @@
       "name_english": "Croatian",
       "name_toki_pona": "toki Lowasi",
       "credits": "Zenithium",
-      "completeness_percent": "0",
-      "completeness_percent_pu": "0"
+      "completeness_percent": "99",
+      "completeness_percent_pu": "100"
     },
     "id": {
       "id_long": "indonesian",
@@ -132,8 +132,8 @@
       "name_english": "Indonesian",
       "name_toki_pona": "toki Intonesija",
       "credits": "jan Melon, jan Lanu",
-      "completeness_percent": "0",
-      "completeness_percent_pu": "0"
+      "completeness_percent": "84",
+      "completeness_percent_pu": "98"
     },
     "io": {
       "id_long": "ido",
@@ -141,7 +141,7 @@
       "name_english": "Ido",
       "name_toki_pona": "toki Ito",
       "credits": "kapesi Pake",
-      "completeness_percent": "0",
+      "completeness_percent": "38",
       "completeness_percent_pu": "0"
     },
     "isv_c": {
@@ -150,8 +150,8 @@
       "name_english": "Interslavic (Cyrillic)",
       "name_toki_pona": "toki Mesulojanki (sitelen Kililisa)",
       "credits": "kala Asi",
-      "completeness_percent": "0",
-      "completeness_percent_pu": "0"
+      "completeness_percent": "75",
+      "completeness_percent_pu": "100"
     },
     "isv_l": {
       "id_long": "interslavic_latin",
@@ -159,8 +159,8 @@
       "name_english": "Interslavic (Latin)",
       "name_toki_pona": "toki Mesulojanki (sitelen Lasina)",
       "credits": "kala Asi",
-      "completeness_percent": "0",
-      "completeness_percent_pu": "0"
+      "completeness_percent": "75",
+      "completeness_percent_pu": "100"
     },
     "it": {
       "id_long": "italian",
@@ -168,8 +168,8 @@
       "name_english": "Italian",
       "name_toki_pona": "toki Italija",
       "credits": "jan Lopeto",
-      "completeness_percent": "0",
-      "completeness_percent_pu": "0"
+      "completeness_percent": "98",
+      "completeness_percent_pu": "100"
     },
     "ith_n": {
       "id_long": "new_ithkuil",
@@ -177,8 +177,8 @@
       "name_english": "New Ithkuil",
       "name_toki_pona": "toki Ikuwi",
       "credits": "salarua",
-      "completeness_percent": "0",
-      "completeness_percent_pu": "0"
+      "completeness_percent": "2",
+      "completeness_percent_pu": "4"
     },
     "ja": {
       "id_long": "japanese",
@@ -186,8 +186,8 @@
       "name_english": "Japanese",
       "name_toki_pona": "toki Nijon",
       "credits": "jan Umijotalu",
-      "completeness_percent": "0",
-      "completeness_percent_pu": "0"
+      "completeness_percent": "100",
+      "completeness_percent_pu": "100"
     },
     "ko": {
       "id_long": "korean",
@@ -195,8 +195,8 @@
       "name_english": "Korean",
       "name_toki_pona": "toki Anku",
       "credits": "jan Ijan",
-      "completeness_percent": "0",
-      "completeness_percent_pu": "0"
+      "completeness_percent": "10",
+      "completeness_percent_pu": "22"
     },
     "la": {
       "id_long": "latin",
@@ -204,8 +204,8 @@
       "name_english": "Latin",
       "name_toki_pona": "toki Lasina",
       "credits": "jan Jonatan",
-      "completeness_percent": "0",
-      "completeness_percent_pu": "0"
+      "completeness_percent": "76",
+      "completeness_percent_pu": "100"
     },
     "mi": {
       "id_long": "maori",
@@ -213,8 +213,8 @@
       "name_english": "M\u0101ori",
       "name_toki_pona": "toki Mali",
       "credits": "jan Silisili",
-      "completeness_percent": "0",
-      "completeness_percent_pu": "0"
+      "completeness_percent": "46",
+      "completeness_percent_pu": "100"
     },
     "pa": {
       "id_long": "punjabi",
@@ -222,7 +222,7 @@
       "name_english": "Punjabi",
       "name_toki_pona": "toki Pansapi",
       "credits": "jan Sewi",
-      "completeness_percent": "0",
+      "completeness_percent": "38",
       "completeness_percent_pu": "0"
     },
     "pl": {
@@ -231,8 +231,8 @@
       "name_english": "Polish",
       "name_toki_pona": "toki Posuka",
       "credits": "jan Alonola, jan Kita, Zy",
-      "completeness_percent": "0",
-      "completeness_percent_pu": "0"
+      "completeness_percent": "100",
+      "completeness_percent_pu": "100"
     },
     "pt": {
       "id_long": "portuguese",
@@ -240,8 +240,8 @@
       "name_english": "Portuguese",
       "name_toki_pona": "toki Potuke",
       "credits": "MaroonShaded, soweli Anja",
-      "completeness_percent": "0",
-      "completeness_percent_pu": "0"
+      "completeness_percent": "48",
+      "completeness_percent_pu": "100"
     },
     "ro": {
       "id_long": "romanian",
@@ -249,8 +249,8 @@
       "name_english": "Romanian",
       "name_toki_pona": "toki Lomuno",
       "credits": "Kayo",
-      "completeness_percent": "0",
-      "completeness_percent_pu": "0"
+      "completeness_percent": "18",
+      "completeness_percent_pu": "38"
     },
     "ru": {
       "id_long": "russian",
@@ -258,8 +258,8 @@
       "name_english": "Russian",
       "name_toki_pona": "toki Losi",
       "credits": "kala Asi",
-      "completeness_percent": "0",
-      "completeness_percent_pu": "0"
+      "completeness_percent": "100",
+      "completeness_percent_pu": "100"
     },
     "sv": {
       "id_long": "swedish",
@@ -267,8 +267,8 @@
       "name_english": "Swedish",
       "name_toki_pona": "toki Sensa",
       "credits": "jan Lilin",
-      "completeness_percent": "0",
-      "completeness_percent_pu": "0"
+      "completeness_percent": "33",
+      "completeness_percent_pu": "72"
     },
     "tkl": {
       "id_long": "tokelauan",
@@ -276,8 +276,8 @@
       "name_english": "Tokelauan",
       "name_toki_pona": "toki Tokela",
       "credits": "jan Silisili",
-      "completeness_percent": "0",
-      "completeness_percent_pu": "0"
+      "completeness_percent": "46",
+      "completeness_percent_pu": "100"
     },
     "tl_l": {
       "id_long": "tagalog_latin",
@@ -285,8 +285,8 @@
       "name_english": "Tagalog (Latin)",
       "name_toki_pona": "toki Takalo (sitelen Lasina)",
       "credits": "jan Nikola, ok boye",
-      "completeness_percent": "0",
-      "completeness_percent_pu": "0"
+      "completeness_percent": "23",
+      "completeness_percent_pu": "49"
     },
     "tok": {
       "id_long": "toki_pona",
@@ -294,8 +294,8 @@
       "name_english": "Toki Pona",
       "name_toki_pona": "toki pona",
       "credits": "jan Kita, kapesi Pake, jan Seli, ANO93, kili pan Juli",
-      "completeness_percent": "0",
-      "completeness_percent_pu": "0"
+      "completeness_percent": "100",
+      "completeness_percent_pu": "100"
     },
     "tr": {
       "id_long": "turkish",
@@ -303,8 +303,8 @@
       "name_english": "Turkish",
       "name_toki_pona": "toki Tuki",
       "credits": "razorlovesbaba, ANO93",
-      "completeness_percent": "0",
-      "completeness_percent_pu": "0"
+      "completeness_percent": "100",
+      "completeness_percent_pu": "100"
     },
     "uk": {
       "id_long": "ukrainian",
@@ -312,8 +312,8 @@
       "name_english": "Ukrainian",
       "name_toki_pona": "toki Ukawina",
       "credits": "kije Enki",
-      "completeness_percent": "0",
-      "completeness_percent_pu": "0"
+      "completeness_percent": "25",
+      "completeness_percent_pu": "53"
     },
     "ur": {
       "id_long": "urdu",
@@ -321,7 +321,7 @@
       "name_english": "Urdu",
       "name_toki_pona": "toki Utu",
       "credits": "jan Sewi",
-      "completeness_percent": "0",
+      "completeness_percent": "38",
       "completeness_percent_pu": "0"
     },
     "zh_hans": {
@@ -330,8 +330,8 @@
       "name_english": "Chinese (Simplified)",
       "name_toki_pona": "toki Sonko (sitelen Kansi pi ijo lili)",
       "credits": "ItMarki",
-      "completeness_percent": "0",
-      "completeness_percent_pu": "0"
+      "completeness_percent": "100",
+      "completeness_percent_pu": "100"
     },
     "zh_hant": {
       "id_long": "chinese_traditional",
@@ -339,8 +339,8 @@
       "name_english": "Chinese (Traditional)",
       "name_toki_pona": "toki Sonko (sitelen Sonko pi ijo mute)",
       "credits": "ItMarki",
-      "completeness_percent": "0",
-      "completeness_percent_pu": "0"
+      "completeness_percent": "100",
+      "completeness_percent_pu": "100"
     }
   },
   "credits": {
@@ -3123,7 +3123,7 @@
         "zh_hant": "\u4efb\u4f55\u6d63\u718a\u79d1\u52d5\u7269\uff0c\u5982\u6d63\u718a\u3001\u9577\u9f3b\u6d63\u718a\u3001\u871c\u718a\u3001\u72ac\u6d63\u718a\u3001\u84ec\u5c3e\u6d63\u718a\u548c\u4e2d\u7f8e\u84ec\u5c3e\u6d63\u718a | ALT \u4efb\u4f55\u9f2c\u7e3d\u79d1\u52d5\u7269\uff0c\u5305\u62ec\u6d63\u718a\u3001\u9f2c\u3001\u6c34\u737a\u3001\u81ed\u9f2c\u548c\u559c\u99ac\u62c9\u96c5\u5c0f\u8c93\u718a",
         "zh_hans": "\u4efb\u4f55\u6d63\u718a\u79d1\u52a8\u7269\uff0c\u5982\u6d63\u718a\u3001\u957f\u9f3b\u6d63\u718a\u3001\u871c\u718a\u3001\u72ac\u6d63\u718a\u3001\u84ec\u5c3e\u6d63\u718a\u548c\u4e2d\u7f8e\u84ec\u5c3e\u6d63\u718a | ALT \u4efb\u4f55\u9f2c\u603b\u79d1\u52a8\u7269\uff0c\u5305\u62ec\u6d63\u718a\u3001\u9f2c\u3001\u6c34\u736d\u3001\u81ed\u9f2c\u548c\u559c\u9a6c\u62c9\u96c5\u5c0f\u718a\u732b",
         "fi": "kaikki puolikarhu-heimon el\u00e4imet, kuten pesukarhut, koatit, kinkajut, olingot ja kissafretit | ALT kaikki Musteloidea-superheimon el\u00e4imet, mm. pesukarhut, lumikot, saukot, haisun\u00e4\u00e4d\u00e4t ja punapandat",
-        "uk": "\u0431\u0443\u0434\u044c-\u044f\u043a\u0430 \u0442\u0432\u0430\u0440\u0438\u043d\u0430 \u0437 \u0441\u0456\u043c\u0435\u0439\u0441\u0442\u0432\u0430 \u0454\u043d\u043e\u0442\u043e\u0432\u0438\u0445, \u043d\u0430\u043f\u0440\u0438\u043a\u043b\u0430\u0434 \u0454\u043d\u043e\u0442\u0438 \ud83e\udd9d\u2764, \u043e\u043b\u0456\u043d\u0433\u043e\u043e, \u043a\u0430\u043a\u043e\u043c\u0456\u0442\u0446\u043b\u0456, \u043d\u043e\u0441\u0443\u0445\u0438, \u043a\u0456\u043d\u043a\u0430\u0436\u0443",
+        "uk": "\u0431\u0443\u0434\u044c-\u044f\u043a\u0430 \u0442\u0432\u0430\u0440\u0438\u043d\u0430 \u0437 \u0441\u0456\u043c\u0435\u0439\u0441\u0442\u0432\u0430 \u0454\u043d\u043e\u0442\u043e\u0432\u0438\u0445, \u043d\u0430\u043f\u0440\u0438\u043a\u043b\u0430\u0434 \u0454\u043d\u043e\u0442\u0438, \u043e\u043b\u0456\u043d\u0433\u043e, \u043a\u0430\u043a\u043e\u043c\u0456\u0442\u0446\u043b\u0456, \u043d\u043e\u0441\u0443\u0445\u0438, \u043a\u0456\u043d\u043a\u0430\u0436\u0443",
         "hr": "\u017eivotinja iz porodice Procyonidae (rakuni i dr.) | ALT \u017eivotinja iz natporodice Musteloidea (kune, lasice, rakuni, vidre, tvorovi, crvene pande i dr.)",
         "io": "bestii simila ratoni",
         "ja": "\u30a2\u30e9\u30a4\u30b0\u30de\u79d1\u306e\u52d5\u7269\u5168\u822c (\u30a2\u30e9\u30a4\u30b0\u30de\u3001\u30cf\u30ca\u30b0\u30de\u3001\u30ad\u30f3\u30ab\u30b8\u30e5\u30fc\u3001\u30aa\u30ea\u30f3\u30b4\u3001\u30ab\u30b3\u30df\u30b9\u30eb\u306a\u3069) | ALT \u30a4\u30bf\u30c1\u4e0a\u79d1\u306e\u52d5\u7269\u5168\u822c (\u30a2\u30e9\u30a4\u30b0\u30de\u3001\u30a4\u30bf\u30c1\u3001\u30ab\u30ef\u30a6\u30bd\u3001\u30b9\u30ab\u30f3\u30af\u3001\u30ec\u30c3\u30b5\u30fc\u30d1\u30f3\u30c0\u3092\u542b\u3080)"
@@ -6333,6 +6333,7 @@
         "zh_hant": "\u5947\u602a\u7684\u3001\u4e0d\u5c0b\u5e38\u7684\uff1b\u611a\u8822\u7684\u3001\u50bb\u7684\uff1b\u559d\u9189\u7684",
         "zh_hans": "\u5947\u602a\u7684\u3001\u4e0d\u5bfb\u5e38\u7684\uff1b\u611a\u8822\u7684\u3001\u50bb\u7684\uff1b\u559d\u9189\u7684",
         "fi": "ep\u00e4tavallinen, outo, h\u00f6ps\u00f6, humaltunut",
+        "uk": "\u043d\u0435\u0437\u0432\u0438\u0447\u0430\u0439\u043d\u0438\u0439, \u0434\u0438\u0432\u043d\u0438\u0439; \u0431\u0435\u0437\u0433\u043b\u0443\u0437\u0434\u0438\u0439; \u043f'\u044f\u043d\u0438\u0439, \u043e\u0434\u0443\u0440\u043c\u0430\u043d\u0435\u043d\u0438\u0439",
         "tkl": "kehe; valea, hoho; kon\u0101",
         "haw": "\u02bb\u0113, he mea \u02bb\u0113, he \u02bbano \u02bb\u0113; \u02bb\u016blala; \u02bbona",
         "hr": "neobi\u010dno, \u010dudno; pijano",
