@@ -6,8 +6,8 @@
       "name_english": "Standard Arabic",
       "name_toki_pona": "toki Alapi",
       "credits": "Dox",
-      "completeness_percent": "9",
-      "completeness_percent_pu": "19"
+      "completeness_percent": "0",
+      "completeness_percent_pu": "0"
     },
     "ceb_l": {
       "id_long": "cebuano_latin",
@@ -15,8 +15,8 @@
       "name_english": "Cebuano (Latin)",
       "name_toki_pona": "toki Sinupuwanon (sitelen Lasina)",
       "credits": "jan Lakuwinsu",
-      "completeness_percent": "8",
-      "completeness_percent_pu": "17"
+      "completeness_percent": "0",
+      "completeness_percent_pu": "0"
     },
     "cy": {
       "id_long": "welsh",
@@ -24,8 +24,8 @@
       "name_english": "Welsh",
       "name_toki_pona": "toki Kunli",
       "credits": "Dylan Dalmataidd",
-      "completeness_percent": "6",
-      "completeness_percent_pu": "8"
+      "completeness_percent": "0",
+      "completeness_percent_pu": "0"
     },
     "da": {
       "id_long": "danish",
@@ -33,8 +33,8 @@
       "name_english": "Danish",
       "name_toki_pona": "toki Tansi",
       "credits": "VikingCow",
-      "completeness_percent": "2",
-      "completeness_percent_pu": "5"
+      "completeness_percent": "0",
+      "completeness_percent_pu": "0"
     },
     "de": {
       "id_long": "german",
@@ -42,8 +42,8 @@
       "name_english": "German",
       "name_toki_pona": "toki Tosi",
       "credits": "jan Alonola, jan Ke Tami, jan Jonatan",
-      "completeness_percent": "98",
-      "completeness_percent_pu": "100"
+      "completeness_percent": "0",
+      "completeness_percent_pu": "0"
     },
     "en": {
       "id_long": "english",
@@ -51,8 +51,8 @@
       "name_english": "English",
       "name_toki_pona": "toki Inli",
       "credits": "jan Sonja, jan inwin, jan Pensa, lipamanka, kapesi Pake",
-      "completeness_percent": "100",
-      "completeness_percent_pu": "100"
+      "completeness_percent": "0",
+      "completeness_percent_pu": "0"
     },
     "eo": {
       "id_long": "esperanto",
@@ -60,8 +60,8 @@
       "name_english": "Esperanto",
       "name_toki_pona": "toki Epelanto",
       "credits": "jan Pensa, kapesi Pake",
-      "completeness_percent": "98",
-      "completeness_percent_pu": "100"
+      "completeness_percent": "0",
+      "completeness_percent_pu": "0"
     },
     "es": {
       "id_long": "spanish",
@@ -69,8 +69,8 @@
       "name_english": "Spanish",
       "name_toki_pona": "toki Epanja",
       "credits": "kapesi Pake, kijete Ampo, akesi kasi Panime, Andrea Dolores, jan Kima, Jos\u00e9 Loera, F Anon, jan Sila, jan Telupiso",
-      "completeness_percent": "73",
-      "completeness_percent_pu": "70"
+      "completeness_percent": "0",
+      "completeness_percent_pu": "0"
     },
     "fi": {
       "id_long": "finnish",
@@ -78,17 +78,17 @@
       "name_english": "Finnish",
       "name_toki_pona": "toki Sumi",
       "credits": "jan Asona",
-      "completeness_percent": "65",
-      "completeness_percent_pu": "100"
+      "completeness_percent": "0",
+      "completeness_percent_pu": "0"
     },
     "fr": {
       "id_long": "french",
       "name_endonym": "Fran\u00e7ais",
       "name_english": "French",
       "name_toki_pona": "toki Kanse",
-      "credits": "jan Pije Kaje, jan Nisu",
-      "completeness_percent": "100",
-      "completeness_percent_pu": "100"
+      "credits": "jan Nisu",
+      "completeness_percent": "0",
+      "completeness_percent_pu": "0"
     },
     "haw": {
       "id_long": "hawaiian",
@@ -96,8 +96,8 @@
       "name_english": "Hawaiian",
       "name_toki_pona": "toki Awaje",
       "credits": "jan Silisili",
-      "completeness_percent": "46",
-      "completeness_percent_pu": "100"
+      "completeness_percent": "0",
+      "completeness_percent_pu": "0"
     },
     "he": {
       "id_long": "hebrew",
@@ -105,16 +105,16 @@
       "name_english": "Hebrew",
       "name_toki_pona": "toki Iwisi",
       "credits": "jan Jaten, ilo Kesija",
-      "completeness_percent": "8",
-      "completeness_percent_pu": "13"
+      "completeness_percent": "0",
+      "completeness_percent_pu": "0"
     },
     "hi": {
       "id_long": "hindi",
       "name_endonym": "\u0939\u093f\u0902\u0926\u0940",
       "name_english": "Hindi",
       "name_toki_pona": "toki Insi",
-      "credits": "jan Sewi",
-      "completeness_percent": "38",
+      "credits": "jan Sewi, jan Wato",
+      "completeness_percent": "0",
       "completeness_percent_pu": "0"
     },
     "hr": {
@@ -123,8 +123,8 @@
       "name_english": "Croatian",
       "name_toki_pona": "toki Lowasi",
       "credits": "Zenithium",
-      "completeness_percent": "99",
-      "completeness_percent_pu": "100"
+      "completeness_percent": "0",
+      "completeness_percent_pu": "0"
     },
     "id": {
       "id_long": "indonesian",
@@ -132,8 +132,8 @@
       "name_english": "Indonesian",
       "name_toki_pona": "toki Intonesija",
       "credits": "jan Melon, jan Lanu",
-      "completeness_percent": "84",
-      "completeness_percent_pu": "98"
+      "completeness_percent": "0",
+      "completeness_percent_pu": "0"
     },
     "io": {
       "id_long": "ido",
@@ -141,7 +141,7 @@
       "name_english": "Ido",
       "name_toki_pona": "toki Ito",
       "credits": "kapesi Pake",
-      "completeness_percent": "38",
+      "completeness_percent": "0",
       "completeness_percent_pu": "0"
     },
     "isv_c": {
@@ -150,8 +150,8 @@
       "name_english": "Interslavic (Cyrillic)",
       "name_toki_pona": "toki Mesulojanki (sitelen Kililisa)",
       "credits": "kala Asi",
-      "completeness_percent": "75",
-      "completeness_percent_pu": "100"
+      "completeness_percent": "0",
+      "completeness_percent_pu": "0"
     },
     "isv_l": {
       "id_long": "interslavic_latin",
@@ -159,8 +159,8 @@
       "name_english": "Interslavic (Latin)",
       "name_toki_pona": "toki Mesulojanki (sitelen Lasina)",
       "credits": "kala Asi",
-      "completeness_percent": "75",
-      "completeness_percent_pu": "100"
+      "completeness_percent": "0",
+      "completeness_percent_pu": "0"
     },
     "it": {
       "id_long": "italian",
@@ -168,8 +168,8 @@
       "name_english": "Italian",
       "name_toki_pona": "toki Italija",
       "credits": "jan Lopeto",
-      "completeness_percent": "98",
-      "completeness_percent_pu": "100"
+      "completeness_percent": "0",
+      "completeness_percent_pu": "0"
     },
     "ith_n": {
       "id_long": "new_ithkuil",
@@ -177,8 +177,8 @@
       "name_english": "New Ithkuil",
       "name_toki_pona": "toki Ikuwi",
       "credits": "salarua",
-      "completeness_percent": "2",
-      "completeness_percent_pu": "4"
+      "completeness_percent": "0",
+      "completeness_percent_pu": "0"
     },
     "ja": {
       "id_long": "japanese",
@@ -186,8 +186,17 @@
       "name_english": "Japanese",
       "name_toki_pona": "toki Nijon",
       "credits": "jan Umijotalu",
-      "completeness_percent": "100",
-      "completeness_percent_pu": "100"
+      "completeness_percent": "0",
+      "completeness_percent_pu": "0"
+    },
+    "ko": {
+      "id_long": "korean",
+      "name_endonym": "\ud55c\uad6d\uc5b4",
+      "name_english": "Korean",
+      "name_toki_pona": "toki Anku",
+      "credits": "jan Ijan",
+      "completeness_percent": "0",
+      "completeness_percent_pu": "0"
     },
     "la": {
       "id_long": "latin",
@@ -195,8 +204,8 @@
       "name_english": "Latin",
       "name_toki_pona": "toki Lasina",
       "credits": "jan Jonatan",
-      "completeness_percent": "76",
-      "completeness_percent_pu": "100"
+      "completeness_percent": "0",
+      "completeness_percent_pu": "0"
     },
     "mi": {
       "id_long": "maori",
@@ -204,8 +213,8 @@
       "name_english": "M\u0101ori",
       "name_toki_pona": "toki Mali",
       "credits": "jan Silisili",
-      "completeness_percent": "46",
-      "completeness_percent_pu": "100"
+      "completeness_percent": "0",
+      "completeness_percent_pu": "0"
     },
     "pa": {
       "id_long": "punjabi",
@@ -213,7 +222,7 @@
       "name_english": "Punjabi",
       "name_toki_pona": "toki Pansapi",
       "credits": "jan Sewi",
-      "completeness_percent": "38",
+      "completeness_percent": "0",
       "completeness_percent_pu": "0"
     },
     "pl": {
@@ -221,9 +230,9 @@
       "name_endonym": "Polski",
       "name_english": "Polish",
       "name_toki_pona": "toki Posuka",
-      "credits": "jan Alonola, jan Kita",
-      "completeness_percent": "100",
-      "completeness_percent_pu": "100"
+      "credits": "jan Alonola, jan Kita, Zy",
+      "completeness_percent": "0",
+      "completeness_percent_pu": "0"
     },
     "pt": {
       "id_long": "portuguese",
@@ -231,8 +240,8 @@
       "name_english": "Portuguese",
       "name_toki_pona": "toki Potuke",
       "credits": "MaroonShaded, soweli Anja",
-      "completeness_percent": "48",
-      "completeness_percent_pu": "100"
+      "completeness_percent": "0",
+      "completeness_percent_pu": "0"
     },
     "ro": {
       "id_long": "romanian",
@@ -240,8 +249,8 @@
       "name_english": "Romanian",
       "name_toki_pona": "toki Lomuno",
       "credits": "Kayo",
-      "completeness_percent": "18",
-      "completeness_percent_pu": "38"
+      "completeness_percent": "0",
+      "completeness_percent_pu": "0"
     },
     "ru": {
       "id_long": "russian",
@@ -249,8 +258,8 @@
       "name_english": "Russian",
       "name_toki_pona": "toki Losi",
       "credits": "kala Asi",
-      "completeness_percent": "100",
-      "completeness_percent_pu": "100"
+      "completeness_percent": "0",
+      "completeness_percent_pu": "0"
     },
     "sv": {
       "id_long": "swedish",
@@ -258,8 +267,8 @@
       "name_english": "Swedish",
       "name_toki_pona": "toki Sensa",
       "credits": "jan Lilin",
-      "completeness_percent": "33",
-      "completeness_percent_pu": "72"
+      "completeness_percent": "0",
+      "completeness_percent_pu": "0"
     },
     "tkl": {
       "id_long": "tokelauan",
@@ -267,8 +276,8 @@
       "name_english": "Tokelauan",
       "name_toki_pona": "toki Tokela",
       "credits": "jan Silisili",
-      "completeness_percent": "46",
-      "completeness_percent_pu": "100"
+      "completeness_percent": "0",
+      "completeness_percent_pu": "0"
     },
     "tl_l": {
       "id_long": "tagalog_latin",
@@ -276,8 +285,8 @@
       "name_english": "Tagalog (Latin)",
       "name_toki_pona": "toki Takalo (sitelen Lasina)",
       "credits": "jan Nikola, ok boye",
-      "completeness_percent": "23",
-      "completeness_percent_pu": "49"
+      "completeness_percent": "0",
+      "completeness_percent_pu": "0"
     },
     "tok": {
       "id_long": "toki_pona",
@@ -285,8 +294,8 @@
       "name_english": "Toki Pona",
       "name_toki_pona": "toki pona",
       "credits": "jan Kita, kapesi Pake, jan Seli, ANO93, kili pan Juli",
-      "completeness_percent": "100",
-      "completeness_percent_pu": "100"
+      "completeness_percent": "0",
+      "completeness_percent_pu": "0"
     },
     "tr": {
       "id_long": "turkish",
@@ -294,17 +303,17 @@
       "name_english": "Turkish",
       "name_toki_pona": "toki Tuki",
       "credits": "razorlovesbaba, ANO93",
-      "completeness_percent": "100",
-      "completeness_percent_pu": "100"
+      "completeness_percent": "0",
+      "completeness_percent_pu": "0"
     },
     "uk": {
       "id_long": "ukrainian",
       "name_endonym": "\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0430",
       "name_english": "Ukrainian",
       "name_toki_pona": "toki Ukawina",
-      "credits": "kijetesantakalu Iwan",
-      "completeness_percent": "16",
-      "completeness_percent_pu": "35"
+      "credits": "kije Enki",
+      "completeness_percent": "0",
+      "completeness_percent_pu": "0"
     },
     "ur": {
       "id_long": "urdu",
@@ -312,7 +321,7 @@
       "name_english": "Urdu",
       "name_toki_pona": "toki Utu",
       "credits": "jan Sewi",
-      "completeness_percent": "38",
+      "completeness_percent": "0",
       "completeness_percent_pu": "0"
     },
     "zh_hans": {
@@ -321,8 +330,8 @@
       "name_english": "Chinese (Simplified)",
       "name_toki_pona": "toki Sonko (sitelen Kansi pi ijo lili)",
       "credits": "ItMarki",
-      "completeness_percent": "100",
-      "completeness_percent_pu": "100"
+      "completeness_percent": "0",
+      "completeness_percent_pu": "0"
     },
     "zh_hant": {
       "id_long": "chinese_traditional",
@@ -330,8 +339,8 @@
       "name_english": "Chinese (Traditional)",
       "name_toki_pona": "toki Sonko (sitelen Sonko pi ijo mute)",
       "credits": "ItMarki",
-      "completeness_percent": "100",
-      "completeness_percent_pu": "100"
+      "completeness_percent": "0",
+      "completeness_percent_pu": "0"
     }
   },
   "credits": {
@@ -430,7 +439,8 @@
         "cy": "(pwyslais, emosiwn, neu gardanhau)",
         "sv": "(betoning, k\u00e4nsla eller bekr\u00e4ftelse)",
         "ar": "\u062a\u0639\u062c\u0628\u060c \u0627\u0646\u0641\u0639\u0627\u0644\u060c \u0627\u0648 \u062a\u0623\u0643\u064a\u062f",
-        "ja": "(\u5f37\u8abf\u3059\u308b\u3001\u611f\u60c5\u3092\u3053\u3081\u308b\u3001\u78ba\u8a8d\u306e\u610f\u3092\u3042\u3089\u308f\u3059)"
+        "ja": "(\u5f37\u8abf\u3059\u308b\u3001\u611f\u60c5\u3092\u3053\u3081\u308b\u3001\u78ba\u8a8d\u306e\u610f\u3092\u3042\u3089\u308f\u3059)",
+        "ko": "\uac15\uc870/\ud655\uc778\ud558\ub294 \ud45c\ud604"
       }
     },
     "aka": {
@@ -512,7 +522,8 @@
         "ith_n": "sva\u010dh\u00e4ru\u00f6ll; ozzal, ojxwal",
         "sv": "os\u00f6tt djur, reptil, amfibie",
         "ar": "\u062d\u064a\u0648\u0627\u0646 \u0632\u0627\u062d\u0641\u060c \u0628\u0631\u0645\u0627\u0626\u064a",
-        "ja": "\u304b\u308f\u3044\u304f\u306a\u3044\u52d5\u7269; \u722c\u866b\u985e\u3001\u4e21\u68f2\u985e"
+        "ja": "\u304b\u308f\u3044\u304f\u306a\u3044\u52d5\u7269; \u722c\u866b\u985e\u3001\u4e21\u68f2\u985e",
+        "ko": "\ud30c\ucda9\ub958, \uc591\uc11c\ub958"
       }
     },
     "ako": {
@@ -584,7 +595,8 @@
         "hr": "ne, nula; [~ ala ~] (koristi se za postavljanje da-ne pitanja); ni\u0161ta",
         "sv": "nej, inte, noll [~ ala ~] (anv\u00e4nt f\u00f6r att forma en ja-eller-nej-fr\u00e5ga); inget",
         "ar": "\u0627\u062f\u0627\u0629 \u0627\u0644\u0646\u0647\u064a\u060c \u0644\u0627\u060c \u0644\u0627 \u0634\u064a\u0621\u060c \u0635\u0641\u0631 (\u062a\u0633\u062a\u062e\u062f\u0645 \u0641\u064a \u0633\u0624\u0627\u0644 \u0646\u0639\u0645 \u0627\u0648 \u0644\u0627)",
-        "ja": "\u5b58\u5728\u3057\u306a\u3044\u3001\uff5e\u3067\u306a\u3044\u3001\u96f6; [~ ala ~] (\u80af\u5b9a\uff0f\u5426\u5b9a\u3092\u554f\u3046\u7591\u554f\u6587\u3092\u3064\u304f\u308b); \u7121"
+        "ja": "\u5b58\u5728\u3057\u306a\u3044\u3001\uff5e\u3067\u306a\u3044\u3001\u96f6; [~ ala ~] (\u80af\u5b9a\uff0f\u5426\u5b9a\u3092\u554f\u3046\u7591\u554f\u6587\u3092\u3064\u304f\u308b); \u7121",
+        "ko": "\ubc18\ub300\ud558\ub294 \ud45c\ud604 (\ud639\uc740 0); \ucc2c\ubc18 \uc9c8\ubb38\uc5d0\ub3c4 \uc4f0\uc784 (~ ala ~)"
       }
     },
     "alasa": {
@@ -641,7 +653,8 @@
         "ith_n": "up\u0163ral, ap\u0163al | ALT (pv.) psalaekpa",
         "sv": "att jaga, att f\u00f6da, s\u00f6ka | ALT (pv.) att f\u00f6rs\u00f6ka",
         "ar": "\u0635\u064a\u062f \u060c \u0628\u062d\u062b \u060c \u0627\u0644\u0628\u062d\u062b \u0639\u0646 \u0627\u0644\u0637\u0639\u0627\u0645 | (\u0633\u0627\u0628\u0642 \u0627\u0644\u0641\u0639\u0644.) \u064a\u062d\u0627\u0648\u0644 \u060c \u0645\u062d\u0627\u0648\u0644\u0629",
-        "ja": "\u72e9\u308b\u3001\u63a2\u3059\u3001\u5f97\u3088\u3046\u3068\u3059\u308b | ALT (pv.) \uff5e\u3057\u3066\u307f\u308b\u3001\u8a66\u3059"
+        "ja": "\u72e9\u308b\u3001\u63a2\u3059\u3001\u5f97\u3088\u3046\u3068\u3059\u308b | ALT (pv.) \uff5e\u3057\u3066\u307f\u308b\u3001\u8a66\u3059",
+        "ko": "\uc0ac\ub0e5\ud558\ub2e4; \ub178\ub825\ud558\ub2e4"
       }
     },
     "ale": {
@@ -677,6 +690,7 @@
         "de": "alle(s), jede(r/s), F\u00fclle, \u00dcberfluss, zahllos, Leben, Universum, einhundert",
         "tok": "ijo ala li lon ala ijo ale; ijo mute a",
         "es": "todo; abundante, incontable, cada uno; abundancia, vida, universo; cien | ALT 100",
+        "hi": "\u0938\u092c, \u0938\u092c \u0915\u0941\u091b, \u0905\u0928\u0917\u093f\u0928\u0924, \u0938\u093e\u0930\u093e, \u092a\u0942\u0930\u093e, \u092c\u094d\u0930\u0939\u094d\u092e\u093e\u0902\u0921, \u0935\u093f\u0936\u094d\u0935, \u091c\u0917 | ALT: 100, \u0967\u0966\u0966",
         "id": "semua; melimpah, banyak, setiap, tak terhitung, tak hingga; kelimpahan, keseluruhan, kehidupan, semesta | ALT 100",
         "ceb_l": "tanan, daghan, dili maihap, kinabuhi; usa ka gatos | ALT 100",
         "la": "cunct\u012b, omnis, t\u014dtus, abundantia, innumerus, \u016bniversum, v\u012bta | ALT centum",
@@ -696,7 +710,8 @@
         "hr": "sve, obilno, neizbrojivo, svako, obilnost, sve, \u017eivot, svemir, sto | ALT 100",
         "sv": "allt, riklig, or\u00e4knelig, varje, ymnig, \u00f6verfl\u00f6d, liv, universum, ett hundra | ALT 100",
         "ar": "\u0643\u0644 \u061b \u0643\u062b\u064a\u0631 \u060c \u062c\u0645\u064a\u0639 \u060c \u063a\u064a\u0631 \u0645\u062d\u062f\u0648\u062f \u060c \u0644\u0627 \u0645\u062a\u0639\u062f\u062f \u060c \u0643\u0644 \u0634\u064a\u0621 \u060c \u0627\u0644\u0643\u0648\u0646\u0652 \u060c \u0645\u0627\u0626\u0629 \u0639\u0634\u0631",
-        "ja": "\u5168\u90e8\u306e; \u5168\u4f53\u306e\u3001\u3042\u3089\u3086\u308b\u3001\u7121\u6570\u306e\u3001\u5927\u91cf\u306e; \u3059\u3079\u3066\u3001\u4eba\u751f\u3001\u5b87\u5b99; \u767e"
+        "ja": "\u5168\u90e8\u306e; \u5168\u4f53\u306e\u3001\u3042\u3089\u3086\u308b\u3001\u7121\u6570\u306e\u3001\u5927\u91cf\u306e; \u3059\u3079\u3066\u3001\u4eba\u751f\u3001\u5b87\u5b99; \u767e",
+        "ko": "\ubaa8\ub450; \ubaa8\ub4e0 \uac83. \uc778\uc0dd, \uc6b0\uc8fc, \ub9ce\uc740 (\ud639\uc740 \uc22b\uc790 100)"
       }
     },
     "ali": {
@@ -746,7 +761,8 @@
         "hr": "(alternativni oblik rije\u010di ale)",
         "sv": "[alternativ form f\u00f6r \"ale\"]",
         "ar": "[ \u0634\u0643\u0644 \u0627\u062e\u0631 \u0645\u0646 ale ]",
-        "ja": "[ale \u306e\u5225\u4f53]"
+        "ja": "[ale \u306e\u5225\u4f53]",
+        "ko": "[ale \ub300\uc2e0 \uc0ac\uc6a9 \uac00\ub2a5]"
       }
     },
     "alu": {
@@ -759,8 +775,8 @@
       "etymology": "*al (la reversed)",
       "creator": "jan Ote, \"thelegenderp\"; jan Tolin (separately)",
       "recognition": {
-        "2021-10": "24",
-        "2020-04": "18"
+        "2020-04": "18",
+        "2021-10": "24"
       },
       "see_also": "la",
       "def": {
@@ -838,7 +854,8 @@
         "ith_n": "e\u0148pwa\u0148\u1e93aill, upral, ac\u010dal, \u00ebir\u017eal, u\u0159hagoll | ALT dwal, \u1e11wal, \u0163wal, akthal",
         "sv": "kasta sig under, ner\u00e5t, \u00f6dmjuk, l\u00e5gm\u00e4ld, beroende | ALT botten, undersidan, under, golv, l\u00e5g, l\u00e4gre, ner",
         "ar": "\u0627\u0646\u062d\u0646\u0627\u0621 \u0644\u0644\u0623\u0633\u0641\u0644 \u061b \u0644\u0644\u0623\u0633\u0641\u0644 \u060c \u062a\u0648\u0627\u0636\u0639 \u060c \u062f\u0646\u064a\u0621 \u060c \u0645\u062d\u062a\u0627\u062c | \u0627\u0633\u0641\u0644 \u060c \u0645\u0646\u062e\u0641\u0636 \u060c \u0627\u0631\u0636\u064a \u060c \u0627\u0631\u0636",
-        "ja": "\u4e0b\u308b\u3001\u964d\u308a\u308b\u3001\u982d\u3092\u4e0b\u3052\u308b\u3001\u8b19\u865a\u306a\u3001\u5351\u3057\u3044\u3001\u5f93\u5c5e\u7684\u306a | ALT \u5e95\u3001\u4e0b\u90e8\u3001\u4e0b\u3001\u4e0b\u65b9\u3001\u5e8a(\u3086\u304b); \u4f4e\u3044\u3001\u4e0b\u4f4d\u306e\u3001\u5e95\u306e"
+        "ja": "\u4e0b\u308b\u3001\u964d\u308a\u308b\u3001\u982d\u3092\u4e0b\u3052\u308b\u3001\u8b19\u865a\u306a\u3001\u5351\u3057\u3044\u3001\u5f93\u5c5e\u7684\u306a | ALT \u5e95\u3001\u4e0b\u90e8\u3001\u4e0b\u3001\u4e0b\u65b9\u3001\u5e8a(\u3086\u304b); \u4f4e\u3044\u3001\u4e0b\u4f4d\u306e\u3001\u5e95\u306e",
+        "ko": "\uc544\ub798, \ubc11, \uacb8\uc190\ud558\ub2e4 (\ud639\uc740 \ubc14\ub2e5)"
       }
     },
     "ante": {
@@ -892,7 +909,8 @@
         "ith_n": "\u00ebirxil, snaswell",
         "sv": "annorlunda, \u00e4ndrat, annan",
         "ar": "\u0645\u062e\u062a\u0644\u0641 \u060c \u0627\u062e\u0631 \u060c \u062a\u063a\u064a\u0631 \u060c \u0627\u062e\u062a\u0644\u0627\u0641",
-        "ja": "\u7570\u306a\u308b\u3001\u5225\u306e\u3001\u4ee3\u66ff\u306e\u3001\u307b\u304b\u306e\u3001\u66ff\u3048\u308b"
+        "ja": "\u7570\u306a\u308b\u3001\u5225\u306e\u3001\u4ee3\u66ff\u306e\u3001\u307b\u304b\u306e\u3001\u66ff\u3048\u308b",
+        "ko": "\ub2e4\ub974\ub2e4, \ubc14\uafb8\ub2e4, \ub2ec\ub9ac \ud558\ub2e4"
       }
     },
     "anu": {
@@ -926,6 +944,7 @@
         "de": "oder | w\u00e4hlen, sich entscheiden",
         "tok": "ken la, ijo li nanpa wan. ken la, ijo li nanpa tu. ni la, ijo li nanpa wan anu nanpa tu.",
         "es": "o | ALT escoger, decidir",
+        "hi": "\u092f\u093e, \u0905\u0925\u0935\u093e | ALT \u091a\u0941\u0928\u0928\u093e, \u0924\u092f \u0915\u0930\u0928\u093e",
         "id": "atau | ALT pilih",
         "ceb_l": "o | ALT pagpili",
         "la": "aut, vel | \u0113ligere",
@@ -946,7 +965,8 @@
         "hr": "ili | ALT odabrati, odlu\u010diti",
         "sv": "eller | ALT v\u00e4lja, best\u00e4mma",
         "ar": "\u0627\u0648 | \u0627\u062e\u062a\u0627\u0631 \u060c \u0642\u0631\u0631",
-        "ja": "\uff5e\u307e\u305f\u306f\uff5e | ALT \u9078\u629e\u3059\u308b\u3001\u6c7a\u3081\u308b"
+        "ja": "\uff5e\u307e\u305f\u306f\uff5e | ALT \u9078\u629e\u3059\u308b\u3001\u6c7a\u3081\u308b",
+        "ko": "\ub610\ub294 (ALT: \uace0\ub974\ub2e4)"
       }
     },
     "apeja": {
@@ -961,8 +981,8 @@
       "creator": "jan Sonja",
       "ku_data": "shame\u00b2, embarrassed\u00b2, guilt\u00b9",
       "recognition": {
-        "2021-10": "59",
-        "2020-04": "44"
+        "2020-04": "44",
+        "2021-10": "59"
       },
       "commentary": "According to jan Sonja, \"apeja\" never appeared in any pre-pu toki pona dictionary made by her and never promoted by her, instead it may have been \"just an experimental idea in a forum post\".",
       "def": {
@@ -1040,7 +1060,7 @@
       "ku_data": "stay\u2075, await\u2075, wait\u2075, preserve\u2075, remain\u2075, sustain\u2075, retain\u2074, defend\u2074, endure\u2074, continued\u2074, continue\u2074, secure\u2074, continuing\u2074, save\u2074, protect\u2074, keep\u2074, still\u00b3, reserve\u00b3, protection\u00b3, remaining\u00b3, continuous\u00b3, stability\u00b3, maintain\u00b3, safe\u00b3, security\u00b3, stable\u00b3, constant\u00b3, protective\u00b3, defence\u00b3, left (remaining)\u00b3, defensive\u00b2, maintenance\u00b2, rescue\u00b2, stand\u00b2, standing\u00b2, steady\u00b2, pause\u00b2, custody\u00b2, safely\u00b2, saving\u00b2, guard\u00b2, reservation\u00b2, suspend\u00b2, hang\u00b2, ongoing\u00b2, hesitate\u00b2, safety\u00b2, delay\u00b2, conservation\u00b2",
       "def": {
         "en": "enduring, kept, protected, safe, waiting, staying; (pv.) to continue to, to keep",
-        "pl": "trwa\u0142y, trzymany, zabezpieczony, bezpieczny, czekaj\u0105cy, zostaj\u0105cy; (pv.) kontynuowa\u0107, nadal",
+        "pl": "trwa\u0142y, zachowany, zabezpieczony, bezpieczny, czekaj\u0105cy, pozostaj\u0105cy; (pv.) kontynuowa\u0107, zachowywa\u0107",
         "ru": "\u043d\u0435\u0438\u0437\u043c\u0435\u043d\u043d\u044b\u0439, \u0436\u0434\u0443\u0449\u0438\u0439, \u0432 \u0431\u0435\u0437\u043e\u043f\u0430\u0441\u043d\u043e\u0441\u0442\u0438; (pv.) \u043f\u0440\u043e\u0434\u043e\u043b\u0436\u0430\u0442\u044c",
         "isv_l": "prodol\u017eaju\u010di, trvaju\u010di, ohranjany, bezopasny, bezpe\u010dny, \u010dekaju\u010di, ostanu\u010di; (pv.) prodol\u017eati",
         "isv_c": "\u043f\u0440\u043e\u0434\u043e\u043b\u0436\u0430\u0458\u0443\u0447\u0438, \u0442\u0440\u0432\u0430\u0458\u0443\u0447\u0438, \u043e\u0445\u0440\u0430\u045a\u0430\u043d\u044b, \u0431\u0435\u0437\u043e\u043f\u0430\u0441\u043d\u044b, \u0431\u0435\u0437\u043f\u0435\u0447\u043d\u044b, \u0447\u0435\u043a\u0430\u0458\u0443\u0447\u0438, \u043e\u0441\u0442\u0430\u043d\u0443\u0447\u0438; (pv.) \u043f\u0440\u043e\u0434\u043e\u043b\u0436\u0430\u0442\u0438",
@@ -1067,7 +1087,8 @@
         "hr": "izdr\u017eati, \u010duvati, sigurno, \u010dekati, ostajati; (pv.) nastaviti",
         "sv": "best\u00e5ende, f\u00f6rvarad, f\u00f6rsvarad, s\u00e4ker, v\u00e4ntning; (pv.) att forts\u00e4tta",
         "ar": "\u062b\u0627\u0628\u062a \u060c \u062a\u062d\u062a \u0627\u0644\u062d\u0645\u0627\u064a\u0629 \u060c \u0627\u0646\u062a\u0638\u0627\u0631 \u060c \u0623\u0645\u0646\u0652 \u060c \u0633\u0627\u0643\u0646 | (\u0642\u0628\u0644 \u0627\u0644\u0641\u0639\u0644) \u0645\u0633\u062a\u0645\u0631 \u060c \u0645\u0646\u062a\u0638\u0645",
-        "ja": "\u6301\u7d9a\u3059\u308b\u3001\u4fdd\u8b77\u3055\u308c\u305f\u3001\u5b89\u5168\u306a\u3001\u4fdd\u6301\u3059\u308b\u3001\u5f85\u6a5f\u3059\u308b\u3001\u3068\u3069\u307e\u308b; (pv.) \uff5e\u3057\u7d9a\u3051\u308b\u3001\uff5e\u306e\u307e\u307e\u306b\u3059\u308b"
+        "ja": "\u6301\u7d9a\u3059\u308b\u3001\u4fdd\u8b77\u3055\u308c\u305f\u3001\u5b89\u5168\u306a\u3001\u4fdd\u6301\u3059\u308b\u3001\u5f85\u6a5f\u3059\u308b\u3001\u3068\u3069\u307e\u308b; (pv.) \uff5e\u3057\u7d9a\u3051\u308b\u3001\uff5e\u306e\u307e\u307e\u306b\u3059\u308b",
+        "ko": "\uc548\uc804\ud558\ub2e4, \uae30\ub2e4\ub9ac\ub2e4, \ubcf4\uc874\ud558\ub2e4"
       }
     },
     "e": {
@@ -1115,7 +1136,8 @@
         "hr": "(prije izravnog objekta)",
         "sv": "(markerar direkt objekt)",
         "ar": "(\u062a\u0623\u062a\u064a \u0642\u0628\u0644 \u0627\u0644\u0645\u0641\u0639\u0648\u0644 \u0628\u0647 \u0648\u062a\u062f\u0644 \u0639\u0644\u064a\u0647)",
-        "ja": "(\u76f4\u63a5\u76ee\u7684\u8a9e\u306e\u524d\u306b\u304a\u304f)"
+        "ja": "(\u76f4\u63a5\u76ee\u7684\u8a9e\u306e\u524d\u306b\u304a\u304f)",
+        "ko": "(\ubaa9\uc801\uc5b4 \uc804\uc5d0 \uc624\ub294 \ub2e8\uc5b4)"
       }
     },
     "eki": {
@@ -1196,7 +1218,8 @@
         "hr": "(izme\u0111u subjekata u re\u010denici s vi\u0161e subjekata)",
         "sv": "(mellan flera subjekt)",
         "ar": "(\u062a\u0643\u0648\u0646 \u0628\u064a\u0646 \u0641\u0627\u0639\u0644\u064a\u0646 \u0627\u0648 \u0627\u0643\u062b\u0631)",
-        "ja": "(\u8907\u6570\u306e\u4e3b\u8a9e\u3092\u4e26\u3079\u308b\u3068\u304d\u3001\u9593\u306b\u304a\u304f)"
+        "ja": "(\u8907\u6570\u306e\u4e3b\u8a9e\u3092\u4e26\u3079\u308b\u3068\u304d\u3001\u9593\u306b\u304a\u304f)",
+        "ko": "(\uc5ec\ub7ec \uc8fc\uc5b4\ub97c \uc5f0\uacb0\ud558\ub294 \ub2e8\uc5b4)"
       }
     },
     "enko": {
@@ -1245,8 +1268,8 @@
       "creator": "jan Jan, jan Peche",
       "ku_data": "epic\u00b3, awesome\u00b2, amazing\u00b2",
       "recognition": {
-        "2021-10": "58",
-        "2020-04": "29"
+        "2020-04": "29",
+        "2021-10": "58"
       },
       "see_also": "pona",
       "def": {
@@ -1327,7 +1350,8 @@
         "hr": "tr\u017enica, du\u0107an, sajam, bazar, transakcija",
         "sv": "marknad, aff\u00e4r, m\u00e4ssa, basar, f\u00f6retagstransaktion",
         "ar": "\u062a\u062c\u0627\u0631\u0629 \u060c \u0633\u0648\u0642 \u060c \u0634\u0631\u0627\u0621 \u060c \u0645\u0639\u0631\u0636",
-        "ja": "\u5e02\u5834\u3001\u5e97\u3001\u58f2\u8cb7\u3001\u53d6\u5f15"
+        "ja": "\u5e02\u5834\u3001\u5e97\u3001\u58f2\u8cb7\u3001\u53d6\u5f15",
+        "ko": "\uac00\uac8c, \uac70\ub798"
       }
     },
     "ete": {
@@ -1342,8 +1366,8 @@
       "creator": "jan inwin",
       "ku_data": "exceed\u00b9, beyond\u00b9",
       "recognition": {
-        "2021-10": "33",
-        "2020-04": "17"
+        "2020-04": "17",
+        "2021-10": "33"
       },
       "see_also": "suli, sewi",
       "def": {
@@ -1382,8 +1406,8 @@
       "creator": "jan ko",
       "ku_data": "stone\u2070",
       "recognition": {
-        "2021-10": "28",
-        "2020-04": "11"
+        "2020-04": "11",
+        "2021-10": "28"
       },
       "see_also": "kiwen",
       "def": {
@@ -1475,6 +1499,7 @@
         "de": "Ding, Sache, Objekt, Gegenstand, Angelegenheit, Erscheinung",
         "tok": "ijo li ken ale. ale li ijo. nimi ijo li pana e sona ni taso: nimi ni li lon",
         "es": "cosa, fen\u00f3meno, objeto, materia",
+        "hi": "\u091a\u0940\u095b, \u0935\u0938\u094d\u0924\u0941, \u092a\u0926\u093e\u0930\u094d\u0925",
         "id": "barang, fenomena, benda, zat",
         "ceb_l": "butang, panghitabo",
         "la": "r\u0113s, \u0113ns",
@@ -1494,7 +1519,8 @@
         "hr": "stvar, pojava, predmet, tvar",
         "sv": "sak, fenomen, objekt, materia",
         "ar": "\u0634\u064a\u0621",
-        "ja": "\u3082\u306e\u3001\u4e8b\u8c61\u3001\u7269\u4f53\u3001\u3082\u306e\u3054\u3068\u3001\u306a\u306b\u304b"
+        "ja": "\u3082\u306e\u3001\u4e8b\u8c61\u3001\u7269\u4f53\u3001\u3082\u306e\u3054\u3068\u3001\u306a\u306b\u304b",
+        "ko": "\ubb3c\uccb4"
       }
     },
     "ike": {
@@ -1528,6 +1554,7 @@
         "de": "schlecht, negativ, irrelevant, \u00fcbel | komplex, schwierig",
         "tok": "pona ala; pakala; jaki",
         "es": "mal, malo, negativo; no esencial, irrelevante | ALT complicado, complejo",
+        "hi": "\u092c\u0941\u0930\u093e, \u0916\u093c\u0930\u093e\u092c | ALT: \u092a\u0947\u091a\u0940\u0926\u093e, \u091c\u091f\u093f\u0932",
         "id": "buruk, jelek, negatif; tidak penting, tidak relevan | ALT rumit, rancu",
         "ceb_l": "daotan, negatibo; dili kinahanglanon, wala'y labot | ALT lisod",
         "la": "malus, miser, improbus, turpis | difficilis, complic\u0101tus",
@@ -1547,7 +1574,8 @@
         "hr": "lo\u0161e, negativno, nenu\u017eno, neva\u017eno | ALT slo\u017eeno, zamr\u0161eno",
         "sv": "d\u00e5lig, negativ, inte n\u00f6dv\u00e4ndig, irrelevant | ALT komplicerad",
         "ar": "\u0633\u064a\u0621 \u060c \u0631\u062f\u064a\u0621 \u060c \u0643\u0631\u064a\u0647 \u060c \u0634\u0631\u064a\u0631 | \u0628\u062f\u064a\u0644: \u0645\u0639\u0642\u062f",
-        "ja": "\u60aa\u3044\u3001\u307e\u3061\u304c\u3063\u305f\u3001\u4e0d\u5fc5\u8981\u306a\u3001\u554f\u984c\u306e\u3042\u308b\u3001\u9177\u3044 | ALT \u8907\u96d1\u306a\u3001\u56f0\u96e3\u306a"
+        "ja": "\u60aa\u3044\u3001\u307e\u3061\u304c\u3063\u305f\u3001\u4e0d\u5fc5\u8981\u306a\u3001\u554f\u984c\u306e\u3042\u308b\u3001\u9177\u3044 | ALT \u8907\u96d1\u306a\u3001\u56f0\u96e3\u306a",
+        "ko": "\ub098\uc058\ub2e4, \uc911\uc694\ud558\uc9c0 \uc54a\ub2e4, \ubd80\uc815\uc801 (\ud639\uc740 \ubcf5\uc7a1\ud558\ub2e4)"
       }
     },
     "iki": {
@@ -1560,8 +1588,8 @@
       "etymology": "?",
       "creator": "jan Sonja",
       "recognition": {
-        "2021-10": "21",
-        "2020-04": "15"
+        "2020-04": "15",
+        "2021-10": "21"
       },
       "see_also": "ona",
       "commentary": "In a poll in 2002, \"iki\" was deemed too similar to \"ike\" and replaced by \"ona\".",
@@ -1639,7 +1667,8 @@
         "hr": "alat, stroj, ure\u0111aj",
         "sv": "redskap, maskin, enhet",
         "ar": "\u0627\u062f\u0627\u0629 \u060c \u0622\u0644\u0629 \u060c \u0645\u0627\u0643\u064a\u0646\u0629",
-        "ja": "\u9053\u5177\u3001\u8a2d\u5099\u3001\u6a5f\u68b0\u3001\u88c5\u7f6e"
+        "ja": "\u9053\u5177\u3001\u8a2d\u5099\u3001\u6a5f\u68b0\u3001\u88c5\u7f6e",
+        "ko": "\ub3c4\uad6c; \uae30\uacc4"
       }
     },
     "ini": {
@@ -1728,7 +1757,8 @@
         "hr": "sredina, sadr\u017eaj, unutar, izme\u0111u; unutarnji organ, stomak",
         "sv": "mitten, inuti, emellan; internt organ, mage",
         "ar": "\u0648\u0633\u0637 \u060c \u0645\u062d\u062a\u0648\u0649 \u060c \u0628\u062f\u0627\u062e\u0644 \u060c \u0645\u0627 \u0628\u064a\u0646 \u061b \u0639\u0636\u0648 \u062f\u0627\u062e\u0644\u064a \u060c \u0645\u0639\u062f\u0629",
-        "ja": "\u4e2d\u5fc3\u3001\u5185\u90e8\u3001\u4e2d\u9593\u3001\u5185\u5bb9; \u5185\u81d3\u3001\u8179"
+        "ja": "\u4e2d\u5fc3\u3001\u5185\u90e8\u3001\u4e2d\u9593\u3001\u5185\u5bb9; \u5185\u81d3\u3001\u8179",
+        "ko": "\uc911\uc2ec, \uc548\ucabd, \ub0b4\uc6a9; \uc704\uc7a5"
       }
     },
     "ipi": {
@@ -1741,8 +1771,8 @@
       "etymology": "?",
       "creator": "jan Sonja",
       "recognition": {
-        "2021-10": "19",
-        "2020-04": "13"
+        "2020-04": "13",
+        "2021-10": "19"
       },
       "see_also": "ona",
       "commentary": "\"ipi\" was proposed as a replacement for \"iki\" in a poll in 2002. However, \"ipi\" failed to get enough votes. \"iki\" was instead replaced by \"ona\".",
@@ -1824,8 +1854,8 @@
       "etymology": "hit or miss",
       "creator": "jan Wesu OR jan inwin, jan Lemon",
       "recognition": {
-        "2021-10": "19",
-        "2020-04": "17"
+        "2020-04": "17",
+        "2021-10": "19"
       },
       "commentary": "Coined in reference to the song \u2018Mia Khalifa\u2019 by iLOVEFRiDay, where \"hit or miss\" was a prominent lyric. Sources disagree on who coined the word.",
       "def": {
@@ -1880,6 +1910,7 @@
         "de": "ekelhaft, dreckig, giftig, unrein, obsz\u00f6n",
         "tok": "ijo jaki li pana e pilin ike e pilin pi pakala sijelo e pilin pi wile moku ala",
         "es": "asqueroso, obsceno, enfermizo, t\u00f3xico, sucio, antihigi\u00e9nico",
+        "hi": "\u0917\u0902\u0926\u093e, \u0917\u0902\u0926\u0917\u0940, \u0915\u091a\u095c\u093e \u091c\u093c\u0939\u0930\u0940\u0932\u0940",
         "id": "jorok, menjijikkan, cabul, tidak bersih, tidak sehat",
         "ceb_l": "luod, masakiton, makahilo, dili limpyo, hugaw",
         "la": "caenum, sordidus, ill\u016btus, v\u012brus, ven\u0113n\u0101tus",
@@ -1899,7 +1930,8 @@
         "hr": "odvratno, sramotno, ne\u010disto",
         "sv": "vidrig, \u00e4cklig, sjuk, giftig, oren",
         "ar": "\u0645\u0642\u0630\u0630 \u060c \u0645\u0642\u0631\u0641 \u060c \u0645\u062b\u064a\u0631 \u0644\u0644\u0623\u0634\u0645\u0626\u0632\u0627\u0632 \u060c \u0645\u062a\u0633\u062e \u060c \u0645\u062a\u0644\u0648\u062b",
-        "ja": "\u4e0d\u5feb\u306a\u3001\u6c5a\u308c\u305f\u3001\u6709\u6bd2\u306e\u3001\u4e0d\u6f54\u306a\u3001\u5351\u7325\u306a\u3001\u75c5\u7684\u306a"
+        "ja": "\u4e0d\u5feb\u306a\u3001\u6c5a\u308c\u305f\u3001\u6709\u6bd2\u306e\u3001\u4e0d\u6f54\u306a\u3001\u5351\u7325\u306a\u3001\u75c5\u7684\u306a",
+        "ko": "\ub354\ub7ec\uc6b4, \uc9c0\ub3c5\ud55c, \ub3c5\uc131 \uc788\ub294"
       }
     },
     "jaku": {
@@ -1912,8 +1944,8 @@
       "etymology": "\u767e hyaku \u2018100\u2019",
       "creator": "jan Wesu",
       "recognition": {
-        "2021-10": "18",
-        "2020-04": "14"
+        "2020-04": "14",
+        "2021-10": "18"
       },
       "def": {
         "en": "one hundred",
@@ -1949,8 +1981,8 @@
       "etymology": " jalan \u2018afoot\u2019 (\u2190 jalka \u2018foot\u2019)",
       "creator": "jan Sonja",
       "recognition": {
-        "2021-10": "20",
-        "2020-04": "13"
+        "2020-04": "13",
+        "2021-10": "20"
       },
       "see_also": "noka",
       "commentary": "In a poll in 2002, \"jalan\" was proposed as a replacement for \"noka\". However, \"jalan\" failed to get enough votes. ",
@@ -2044,6 +2076,7 @@
         "de": "Mensch, Person, jemand",
         "tok": "ijo ni li wile, li ken tawa. ijo ni li lon, li ken pilin, li ken toki. ijo ni li ken kama sona e ijo suli, li ken ante e ma. ona li pali. mama toki li ijo ni.",
         "es": "ser humano, persona, alguien",
+        "hi": "\u0907\u0902\u0938\u093e\u0928, \u0935\u094d\u092f\u0915\u094d\u0924\u093f, \u0906\u0926\u092e\u0940",
         "id": "manusia, orang",
         "ceb_l": "tawo, usa ka tawo",
         "la": "hom\u014d, pers\u014dna, aliquis, qu\u012bdam",
@@ -2065,7 +2098,8 @@
         "ith_n": "olal, xma",
         "sv": "m\u00e4nniska, person, n\u00e5gon",
         "ar": "\u0627\u0646\u0633\u0627\u0646 \u060c \u0628\u0646\u064a \u0623\u062f\u0645 \u060c \u0634\u062e\u0635 \u060c \u0628\u0634\u0631\u064a \u060c \u0627\u0644\u0628\u0634\u0631\u064a\u0629",
-        "ja": "\u4eba\u3001\u4eba\u7269\u3001\u3060\u308c\u304b"
+        "ja": "\u4eba\u3001\u4eba\u7269\u3001\u3060\u308c\u304b",
+        "ko": "\uc778\uac04, \uc0ac\ub78c, \ub204\uad70\uac00"
       }
     },
     "jans": {
@@ -2108,8 +2142,8 @@
       "creator": "jan Wesu, jan Maliku, jan Kisinja, jan inwin",
       "ku_data": "reflect\u00b3, opposite\u00b2, reverse\u00b2",
       "recognition": {
-        "2021-10": "71",
-        "2020-04": "22"
+        "2020-04": "22",
+        "2021-10": "71"
       },
       "def": {
         "en": "reflect, resound, mirror, be on the opposite/polar end of",
@@ -2232,6 +2266,7 @@
         "de": "gelb",
         "tok": "kule suno; kasi li ken kule ni lon tenpo; sike waso la insa li kule ni",
         "es": "amarillo",
+        "hi": "\u092a\u0940\u0932\u093e",
         "id": "kuning, warna kekuningan",
         "ceb_l": "dalag",
         "la": "fl\u0101vus, l\u016bteus",
@@ -2252,7 +2287,8 @@
         "hr": "\u017euto, \u017eu\u0107kasto",
         "sv": "gul, gulaktig",
         "ar": "\u0627\u0635\u0641\u0631 \u060c \u0635\u0641\u0627\u0631",
-        "ja": "\u9ec4\u8272\u306e\u3001\u9ec4\u3070\u3093\u3060"
+        "ja": "\u9ec4\u8272\u306e\u3001\u9ec4\u3070\u3093\u3060",
+        "ko": "\ub178\ub791"
       }
     },
     "jo": {
@@ -2306,7 +2342,8 @@
         "cy": "caf: cael; gafael",
         "sv": "att ha, b\u00e4ra, inneh\u00e5lla, h\u00e5lla",
         "ar": "\u064a\u0645\u062a\u0644\u0643 \u060c \u064a\u062d\u062a\u0648\u064a \u060c \u064a\u062d\u0645\u0644 \u060c \u064a\u0645\u0633\u0643",
-        "ja": "\u6301\u3064\u3001\u6709\u3059\u308b\u3001\u542b\u3080\u3001\u643a\u5e2f\u3059\u308b"
+        "ja": "\u6301\u3064\u3001\u6709\u3059\u308b\u3001\u542b\u3080\u3001\u643a\u5e2f\u3059\u308b",
+        "ko": "\uac00\uc9c0\ub2e4"
       }
     },
     "jonke": {
@@ -2467,6 +2504,7 @@
         "de": "Fisch, Meerestier",
         "tok": "ijo ni li tawa lon telo li ken moku e kon tan telo.",
         "es": "pez, animal marino, criatura del mar",
+        "hi": "\u092e\u091b\u0932\u0940",
         "id": "ikan, binatang laut",
         "la": "piscis, animal mar\u012bnum",
         "it": "pesce, animale marino, creatura marina",
@@ -2485,7 +2523,8 @@
         "hr": "riba, morska \u017eivotinja",
         "sv": "fisk, sj\u00f6varelse",
         "ar": "\u0633\u0645\u0643 \u060c \u062d\u064a\u0648\u0627\u0646 \u0628\u062d\u0631\u064a",
-        "ja": "\u9b5a\u3001\u6c34\u68f2\u751f\u7269\u3001\u6d77\u6d0b\u751f\u7269"
+        "ja": "\u9b5a\u3001\u6c34\u68f2\u751f\u7269\u3001\u6d77\u6d0b\u751f\u7269",
+        "ko": "\ubb3c\uace0\uae30; \ubc14\ub2e4 \ub3d9\ubb3c"
       }
     },
     "kalama": {
@@ -2536,7 +2575,8 @@
         "hr": "praviti zvukove; recitirati, izgovarati naglas",
         "sv": "att g\u00f6ra ett ljud; recitera, uttala",
         "ar": "\u0635\u0648\u062a \u060c \u0636\u0648\u0636\u0627\u0621 \u060c \u062a\u0644\u0627\u0648\u0629",
-        "ja": "\u97f3\u3092\u305f\u3066\u308b; \u58f0\u3092\u4e0a\u3052\u308b\u3001\u6717\u5531\u3059\u308b\u3001\u97f3\u58f0"
+        "ja": "\u97f3\u3092\u305f\u3066\u308b; \u58f0\u3092\u4e0a\u3052\u308b\u3001\u6717\u5531\u3059\u308b\u3001\u97f3\u58f0",
+        "ko": "\uc18c\ub9ac\ub97c \ub0b4\ub2e4"
       }
     },
     "kalamARR": {
@@ -2629,8 +2669,8 @@
       "creator": "jan Wesu",
       "ku_data": "revolution\u2070",
       "recognition": {
-        "2021-10": "29",
-        "2020-04": "21"
+        "2020-04": "21",
+        "2021-10": "29"
       },
       "commentary": "The word is from a story called \"jan pi Kamalawala\". A character's name is described as \"nimi Jan pi Kama e Lawa Ala\", and a shortened version given as \"nimi Kamalawala\". jan Kipo is responsible for it becoming a word instead of just a name. ",
       "def": {
@@ -2671,8 +2711,8 @@
       "creator": "jan Sonja",
       "ku_data": "alongside\u00b9, together\u00b9, with\u00b9, associated\u2070, involved\u2070, amid\u2070",
       "recognition": {
-        "2021-10": "34",
-        "2020-04": "22"
+        "2020-04": "22",
+        "2021-10": "34"
       },
       "see_also": "kepeken, poka",
       "def": {
@@ -2709,8 +2749,8 @@
       "etymology": "Dutch kop \u2018head, cup\u2019 or Esperanto kapo \u2018head\u2019 (\u2190 Latin caput)",
       "creator": "jan Sonja",
       "recognition": {
-        "2021-10": "20",
-        "2020-04": "13"
+        "2020-04": "13",
+        "2021-10": "20"
       },
       "see_also": "nena",
       "def": {
@@ -2747,8 +2787,8 @@
       "creator": "jan Sonja",
       "ku_data": "brown\u00b2, grey\u2070",
       "recognition": {
-        "2021-10": "45",
-        "2020-04": "29"
+        "2020-04": "29",
+        "2021-10": "45"
       },
       "def": {
         "en": "brown, gray",
@@ -2837,8 +2877,8 @@
       "creator": "jan Maliku, jan Kisinja",
       "ku_data": "alright\u2070",
       "recognition": {
-        "2021-10": "23",
-        "2020-04": "18"
+        "2020-04": "18",
+        "2021-10": "23"
       },
       "see_also": "oke, n",
       "def": {
@@ -2889,7 +2929,7 @@
       "ku_data": "able\u2075, potential\u2075, ability\u2075, capability\u2075, capable\u2075, may\u2075, possible\u2075, could\u2075, eligible\u2074, can\u2074, possibility\u2074, permission\u2074, likelihood\u00b3, chance\u00b3, probability\u00b3, available\u00b3, opportunity\u00b3, maybe\u00b3, possibly\u00b3, odds\u00b3, patentially\u00b2, perhaps\u00b2, liberty\u00b2, might\u00b2, option\u00b2, viable\u00b2, enable\u00b2, privilege\u00b2, allow\u00b2, likely\u00b2, prospect\u00b2, freedom\u00b2",
       "def": {
         "en": "to be able to, be allowed to, can, may; possible",
-        "pl": "m\u00f3c, mie\u0107 pozwolenie; mo\u017cliwy",
+        "pl": "m\u00f3c, mie\u0107 pozwolenie na, umie\u0107; mo\u017cliwy",
         "ru": "\u0438\u043c\u0435\u0442\u044c \u0432\u043e\u0437\u043c\u043e\u0436\u043d\u043e\u0441\u0442\u044c, \u043c\u043e\u0447\u044c, \u0443\u043c\u0435\u0442\u044c; \u0432\u043e\u0437\u043c\u043e\u0436\u043d\u044b\u0439",
         "isv_l": "mogti, um\u011bti, im\u011bti dozvoljenje; mo\u017elivy",
         "isv_c": "\u043c\u043e\u0433\u0442\u0438, \u0443\u043c\u0454\u0442\u0438, \u0438\u043c\u0454\u0442\u0438 \u0434\u043e\u0437\u0432\u043e\u0459\u0435\u045a\u0435; \u043c\u043e\u0436\u043b\u0438\u0432\u044b",
@@ -2913,7 +2953,8 @@
         "haw": "hiki",
         "hr": "mo\u0107i, smjeti, biti mogu\u0107e",
         "sv": "att kunna, att f\u00e5 tillst\u00e5nd att; m\u00f6jlig",
-        "ja": "\uff5e\u3067\u304d\u308b\u3001\uff5e\u3057\u3066\u3088\u3044\u3001\uff5e\u3057\u3046\u308b\u3001\uff5e\u304b\u3082\u3057\u308c\u306a\u3044; \u53ef\u80fd\u306a"
+        "ja": "\uff5e\u3067\u304d\u308b\u3001\uff5e\u3057\u3066\u3088\u3044\u3001\uff5e\u3057\u3046\u308b\u3001\uff5e\u304b\u3082\u3057\u308c\u306a\u3044; \u53ef\u80fd\u306a",
+        "ko": "\ud5c8\uc6a9\ub418\ub2e4, \uac00\ub2a5\ud558\ub2e4"
       }
     },
     "kepeken": {
@@ -2939,7 +2980,7 @@
       "commentary": "Whether \"kepeken\" should be used with or without \"e\" in a predicative position (meaning \"to use\") remains controversial.",
       "def": {
         "en": "to use, with, by means of",
-        "pl": "u\u017cywa\u0107, z, za pomoc\u0105",
+        "pl": "u\u017cywa\u0107, przy u\u017cyciu, za pomoc\u0105",
         "ru": "\u0438\u0441\u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u044c, \u0441 \u043f\u043e\u043c\u043e\u0449\u044c\u044e",
         "isv_l": "koristati, u\u017eivati, poljzovati, upotr\u011bbjati, s, posr\u011bdstvom",
         "isv_c": "\u043a\u043e\u0440\u0438\u0441\u0442\u0430\u0442\u0438, \u0443\u0436\u0438\u0432\u0430\u0442\u0438, \u043f\u043e\u0459\u0437\u043e\u0432\u0430\u0442\u0438, \u0443\u043f\u043e\u0442\u0440\u0454\u0431\u0458\u0430\u0442\u0438, \u0441, \u043f\u043e\u0441\u0440\u0454\u0434\u0441\u0442\u0432\u043e\u043c",
@@ -2963,7 +3004,8 @@
         "haw": "ho\u02bbohana, i, ma",
         "hr": "koristiti, koriste\u0107i",
         "sv": "att anv\u00e4nda, med, med hj\u00e4lp av",
-        "ja": "\uff5e\u3092\u4f7f\u3046\u3001\uff5e\u3092\u7528\u3044\u3066\u3001\uff5e\u306b\u3088\u3063\u3066"
+        "ja": "\uff5e\u3092\u4f7f\u3046\u3001\uff5e\u3092\u7528\u3044\u3066\u3001\uff5e\u306b\u3088\u3063\u3066",
+        "ko": "\uc0ac\uc6a9\ud558\ub2e4, \ud568\uaed8"
       }
     },
     "kese": {
@@ -3057,8 +3099,8 @@
       "creator": "jan Sonja",
       "ku_data": "procyonid\u00b3, Musteloidea\u00b2",
       "recognition": {
-        "2021-10": "71",
-        "2020-04": "62"
+        "2020-04": "62",
+        "2021-10": "71"
       },
       "commentary": "Coined as an April Fools joke in 2009.",
       "def": {
@@ -3081,6 +3123,7 @@
         "zh_hant": "\u4efb\u4f55\u6d63\u718a\u79d1\u52d5\u7269\uff0c\u5982\u6d63\u718a\u3001\u9577\u9f3b\u6d63\u718a\u3001\u871c\u718a\u3001\u72ac\u6d63\u718a\u3001\u84ec\u5c3e\u6d63\u718a\u548c\u4e2d\u7f8e\u84ec\u5c3e\u6d63\u718a | ALT \u4efb\u4f55\u9f2c\u7e3d\u79d1\u52d5\u7269\uff0c\u5305\u62ec\u6d63\u718a\u3001\u9f2c\u3001\u6c34\u737a\u3001\u81ed\u9f2c\u548c\u559c\u99ac\u62c9\u96c5\u5c0f\u8c93\u718a",
         "zh_hans": "\u4efb\u4f55\u6d63\u718a\u79d1\u52a8\u7269\uff0c\u5982\u6d63\u718a\u3001\u957f\u9f3b\u6d63\u718a\u3001\u871c\u718a\u3001\u72ac\u6d63\u718a\u3001\u84ec\u5c3e\u6d63\u718a\u548c\u4e2d\u7f8e\u84ec\u5c3e\u6d63\u718a | ALT \u4efb\u4f55\u9f2c\u603b\u79d1\u52a8\u7269\uff0c\u5305\u62ec\u6d63\u718a\u3001\u9f2c\u3001\u6c34\u736d\u3001\u81ed\u9f2c\u548c\u559c\u9a6c\u62c9\u96c5\u5c0f\u718a\u732b",
         "fi": "kaikki puolikarhu-heimon el\u00e4imet, kuten pesukarhut, koatit, kinkajut, olingot ja kissafretit | ALT kaikki Musteloidea-superheimon el\u00e4imet, mm. pesukarhut, lumikot, saukot, haisun\u00e4\u00e4d\u00e4t ja punapandat",
+        "uk": "\u0431\u0443\u0434\u044c-\u044f\u043a\u0430 \u0442\u0432\u0430\u0440\u0438\u043d\u0430 \u0437 \u0441\u0456\u043c\u0435\u0439\u0441\u0442\u0432\u0430 \u0454\u043d\u043e\u0442\u043e\u0432\u0438\u0445, \u043d\u0430\u043f\u0440\u0438\u043a\u043b\u0430\u0434 \u0454\u043d\u043e\u0442\u0438 \ud83e\udd9d\u2764, \u043e\u043b\u0456\u043d\u0433\u043e\u043e, \u043a\u0430\u043a\u043e\u043c\u0456\u0442\u0446\u043b\u0456, \u043d\u043e\u0441\u0443\u0445\u0438, \u043a\u0456\u043d\u043a\u0430\u0436\u0443",
         "hr": "\u017eivotinja iz porodice Procyonidae (rakuni i dr.) | ALT \u017eivotinja iz natporodice Musteloidea (kune, lasice, rakuni, vidre, tvorovi, crvene pande i dr.)",
         "io": "bestii simila ratoni",
         "ja": "\u30a2\u30e9\u30a4\u30b0\u30de\u79d1\u306e\u52d5\u7269\u5168\u822c (\u30a2\u30e9\u30a4\u30b0\u30de\u3001\u30cf\u30ca\u30b0\u30de\u3001\u30ad\u30f3\u30ab\u30b8\u30e5\u30fc\u3001\u30aa\u30ea\u30f3\u30b4\u3001\u30ab\u30b3\u30df\u30b9\u30eb\u306a\u3069) | ALT \u30a4\u30bf\u30c1\u4e0a\u79d1\u306e\u52d5\u7269\u5168\u822c (\u30a2\u30e9\u30a4\u30b0\u30de\u3001\u30a4\u30bf\u30c1\u3001\u30ab\u30ef\u30a6\u30bd\u3001\u30b9\u30ab\u30f3\u30af\u3001\u30ec\u30c3\u30b5\u30fc\u30d1\u30f3\u30c0\u3092\u542b\u3080)"
@@ -3161,6 +3204,7 @@
         "de": "Frucht, Gem\u00fcse, Pilz",
         "tok": "kasi li mama e kili. kili mute li moku pona suwi",
         "es": "fruta, verdura, seta",
+        "hi": "\u092b\u0932, \u0938\u092c\u094d\u095b\u0940, \u092e\u0936\u0930\u0942\u092e",
         "id": "buah, sayur, jamur",
         "la": "fr\u016bctus, fr\u016bx, p\u014dmum, f\u0113tus, olus, fungus",
         "it": "frutta, verdura, funghi",
@@ -3179,7 +3223,8 @@
         "hr": "vo\u0107ka, vo\u0107e, povr\u0107e, gljiva",
         "cy": "ffrwyth, llysieuyn, madarchen",
         "sv": "frukt, gr\u00f6nsak, svamp",
-        "ja": "\u679c\u7269\u3001\u91ce\u83dc\u3001\u8338"
+        "ja": "\u679c\u7269\u3001\u91ce\u83dc\u3001\u8338",
+        "ko": "\uacfc\uc77c, \ucc44\uc18c, \ubc84\uc12f"
       }
     },
     "kin": {
@@ -3199,8 +3244,8 @@
       "creator": "jan Sonja",
       "ku_data": "also\u2074, too\u2074, indeed\u00b2, especially\u00b2",
       "recognition": {
-        "2021-10": "97",
-        "2020-04": "91"
+        "2020-04": "91",
+        "2021-10": "97"
       },
       "see_also": "a",
       "tags": "pre-pu ALT",
@@ -3251,8 +3296,8 @@
       "creator": "jan Sonja",
       "ku_data": "split\u2074, division\u2074, slice\u2074, cut\u00b3, divide\u00b3, chop\u00b3, segment\u00b3, section\u00b3, portion\u00b2, piece\u00b2, part\u00b2, half\u00b2, rip\u00b2, clip\u00b2, separation\u00b2, chunk\u00b2, carve\u00b2, separate\u00b2, sector\u00b2, percentage\u00b2",
       "recognition": {
-        "2021-10": "87",
-        "2020-04": "68"
+        "2020-04": "68",
+        "2021-10": "87"
       },
       "see_also": "tu, wan, pakala, mute",
       "def": {
@@ -3362,7 +3407,8 @@
         "haw": "he mea \u02bbo\u02bbole\u02bba, he mekala, he p\u014dhaku, he \u02bbal\u0101",
         "hr": "tvrdi predmet, metal, kamen",
         "sv": "h\u00e5rd sak, metall, sten",
-        "ja": "\u56fa\u5f62\u7269\u3001\u91d1\u5c5e\u3001\u5ca9\u3001\u77f3\u3001\u5805\u3044"
+        "ja": "\u56fa\u5f62\u7269\u3001\u91d1\u5c5e\u3001\u5ca9\u3001\u77f3\u3001\u5805\u3044",
+        "ko": "\ub531\ub531\ud55c \ubb3c\uccb4; \ubc14\uc704, \ub3cc, \uae08\uc18d"
       }
     },
     "ko": {
@@ -3655,6 +3701,7 @@
         "de": "Farbe, farbig, Variante | LGBT+",
         "tok": "jelo en loje en laso en walo en pimeja li kule",
         "es": "color, colorido, pigmento, pintado | LGTB+ o relacionado con la comunidad LGBT+",
+        "hi": "\u0930\u0902\u0917, \u0930\u0902\u0917\u093e, \u0930\u0902\u0917\u0940\u0928, \u0930\u0902\u0917\u093e \u0939\u0941\u0906 | LGBT+",
         "id": "berwarna, berpigmen, dilukis | ALT dari atau berhubungan dengan komunitas LGBT+",
         "la": "color, col\u014dr\u0101tus, vari\u0101re | LGBT+",
         "it": "colorato, pigmentato, dipinto | ALT di o relativo alla comunit\u00e0 LGBT+",
@@ -3720,8 +3767,8 @@
       "etymology": "kulupu",
       "creator": "jan Kiwa, jan inwin",
       "recognition": {
-        "2021-10": "19",
-        "2020-04": "14"
+        "2020-04": "14",
+        "2021-10": "19"
       },
       "see_also": "kulupu",
       "def": {
@@ -3808,8 +3855,8 @@
       "creator": "jan Wesu, jan Maliku, jan inwin",
       "ku_data": "laughter\u00b9, chuckle\u00b9, laugh\u2070, comedy\u2070",
       "recognition": {
-        "2021-10": "31",
-        "2020-04": "21"
+        "2020-04": "21",
+        "2021-10": "31"
       },
       "def": {
         "en": "laughter, chuckle, laugh, comedy, humor",
@@ -3867,6 +3914,7 @@
         "de": "h\u00f6ren, zuh\u00f6ren, lauschen, aufpassen, gehorchen; Ohr",
         "tok": "ijo li kute e kalama la ona li pilin e kalama; kute li sama lukin li ken pilin e kalama e suno ala",
         "es": "oreja; o\u00edr, escuchar; poner atenci\u00f3n, obedecer",
+        "hi": "\u0915\u093e\u0928; \u0938\u0941\u0928\u0928\u093e; \u092e\u093e\u0928\u0928\u093e, \u0927\u094d\u092f\u093e\u0928 \u0926\u0947\u0928\u093e",
         "id": "telinga; mendengar; memperhatikan, mematuhi",
         "la": "aud\u012bre, auris, auscult\u0101re, attendere, p\u0101r\u0113re",
         "it": "orecchio; sentire, ascoltare; prestare attenzione, obbedire",
@@ -3975,8 +4023,8 @@
       "creator": "jan Wesu, jan Maliku, jan inwin",
       "ku_data": "steal\u00b3, seize\u00b3, grab\u00b2",
       "recognition": {
-        "2021-10": "71",
-        "2020-04": "28"
+        "2020-04": "28",
+        "2021-10": "71"
       },
       "see_also": "jo, alasa",
       "def": {
@@ -4033,6 +4081,7 @@
         "de": "schlafen, (aus)ruhen",
         "tok": "tenpo pimeja la jan mute li wawa sin e sijelo lon lape",
         "es": "dormido, descansando",
+        "hi": "\u0938\u094b\u0928\u093e, \u0906\u0930\u093e\u092e \u0932\u0947\u0928\u093e",
         "id": "tidur, istirahat",
         "la": "dorm\u012bre, qui\u0113scere, c\u016bbare",
         "it": "dormire, riposare",
@@ -4083,6 +4132,7 @@
         "de": "blau, gr\u00fcn, t\u00fcrkis",
         "tok": "kule sewi (lon tenpo suno) en kule pi kasi mute li laso",
         "es": "azul, verde",
+        "hi": "\u0928\u0940\u0932\u093e, \u0939\u0930\u093e",
         "id": "biru, hijau",
         "la": "caerulus, venetus, viridis, prasinus",
         "it": "blu, verde",
@@ -4173,8 +4223,8 @@
       "creator": "jan Sonja",
       "ku_data": "square\u2074, cube\u00b3, block\u00b3, stair\u00b2, brick\u00b2, polyhedron\u00b2",
       "recognition": {
-        "2021-10": "82",
-        "2020-04": "52"
+        "2020-04": "52",
+        "2021-10": "82"
       },
       "def": {
         "en": "stairs, square, block, corner, cube",
@@ -4413,8 +4463,8 @@
       "creator": "jan Kawa, jan inwin",
       "ku_data": "seven\u2070, gathering\u2070, collection\u2070",
       "recognition": {
-        "2021-10": "25",
-        "2020-04": "13"
+        "2020-04": "13",
+        "2021-10": "25"
       },
       "see_also": "kulupu, alasa",
       "tags": "nimi nanpa",
@@ -4535,6 +4585,7 @@
         "zh_hant": "\u53c8\u9577\u53c8\u53ef\u5f4e\u66f2\u7684\u7269\u9ad4\uff1b\u7d72\u3001\u7dda\u3001\u7e69\u3001\u982d\u9aee\u3001\u6bdb\u7dda | ALT \u806f\u7e6b\u3001\u95dc\u4fc2",
         "zh_hans": "\u53c8\u957f\u53c8\u53ef\u5f2f\u66f2\u7684\u7269\u4f53\uff1b\u4e1d\u3001\u7ebf\u3001\u7ef3\u3001\u5934\u53d1\u3001\u6bdb\u7ebf | ALT \u8054\u7cfb\u3001\u5173\u7cfb",
         "fi": "pitk\u00e4 ja joustava asia; naru, hius, k\u00f6ysi, lanka | ALT linja, yhteys",
+        "uk": "\u0449\u043e\u0441\u044c \u0434\u043e\u0432\u0433\u0435 \u0456 \u0442\u044f\u0433\u043d\u0443\u0447\u043a\u0435; \u0432\u043e\u043b\u043e\u0441\u0441\u044f, \u043c\u043e\u0442\u0443\u0437\u043a\u0430, \u043d\u0438\u0442\u043a\u0430, \u043f\u0440\u044f\u0436\u0430 | ALT \u043b\u0456\u043d\u0456\u044f, \u0437\u0432'\u044f\u0437\u043e\u043a",
         "tkl": "he mea loa; he maea, he lauulu, he filo | ALT he laina, he hokoga",
         "haw": "he mea loa, \u02bbolu ho\u02bbi; he kaula, he lauoho, he hulu, he lopi | ALT he laina, he pili",
         "hr": "dug i savitljiv predmet; kabel, kosa, u\u017ee, konac | ALT crta, veza",
@@ -4554,8 +4605,8 @@
       "creator": "jan inwin",
       "ku_data": "network\u00b2, Internet\u00b9, virtual\u00b9, web\u2070, digital\u2070, connection\u2070, net\u2070",
       "recognition": {
-        "2021-10": "55",
-        "2020-04": "31"
+        "2020-04": "31",
+        "2021-10": "55"
       },
       "see_also": "len, ilo",
       "def": {
@@ -4624,6 +4675,7 @@
         "zh_hant": "\u5e73\u7684\u7269\u9ad4\uff1b\u66f8\u3001\u6587\u4ef6\u3001\u5361\u7247\u3001\u7d19\u5f35\u3001\u8a18\u9304\u3001\u7db2\u7ad9",
         "zh_hans": "\u5e73\u7684\u7269\u4f53\uff1b\u4e66\u3001\u6587\u4ef6\u3001\u5361\u7247\u3001\u7eb8\u5f20\u3001\u8bb0\u5f55\u3001\u7f51\u7ad9",
         "fi": "tasainen esine; kirja, asiakirja, kortti, paperi, levy, lippu, verkkosivusto",
+        "uk": "\u0449\u043e\u0441\u044c \u043f\u043b\u0430\u0441\u043a\u0435, \u043a\u043d\u0438\u0436\u043a\u0430, \u0434\u043e\u043a\u0443\u043c\u0435\u043d\u0442, \u043c\u0430\u043f\u0430, \u043f\u0430\u043f\u0456\u0440, \u0437\u0430\u043f\u0438\u0441, \u0441\u0430\u0439\u0442",
         "tkl": "he mea m\u0101folafola; he tuhi, he laupepa, he tala, he kupega",
         "haw": "he mea papa; he puke, he palapala, he pepa, he kahua p\u016bnaewele",
         "hr": "ravan predmet; knjiga, dokument, papir, zapis, web stranica",
@@ -4703,6 +4755,7 @@
         "zh_hant": "\u7d05\u8272\u7684\u3001\u984f\u8272\u504f\u7d05\u7684",
         "zh_hans": "\u7ea2\u8272\u7684\u3001\u989c\u8272\u504f\u7ea2\u7684",
         "fi": "punainen, punertava",
+        "uk": "\u0447\u0435\u0440\u0432\u043e\u043d\u0438\u0439, \u0447\u0435\u0440\u0432\u043e\u043d\u0443\u0432\u0430\u0442\u0438\u0439",
         "tkl": "kukula",
         "haw": "\u02bbula",
         "hr": "crveno, crvenkasto",
@@ -4756,8 +4809,8 @@
       "etymology": "lukin & oko",
       "creator": "jan Kamila, soweli Wipa",
       "recognition": {
-        "2021-10": "20",
-        "2020-04": "15"
+        "2020-04": "15",
+        "2021-10": "20"
       },
       "see_also": "lukin, oko",
       "def": {
@@ -4863,6 +4916,7 @@
         "zh_hant": "\u5728\u3001\u4f4d\u65bc\u3001\u771f\u5be6\u7684\u3001\u771f\u6b63\u7684\u3001\u5b58\u5728\u7684 | ALT \uff08\u80af\u5b9a\u56de\u7b54\uff09",
         "zh_hans": "\u5728\u3001\u4f4d\u4e8e\u3001\u771f\u5b9e\u7684\u3001\u771f\u6b63\u7684\u3001\u5b58\u5728\u7684 | ALT \uff08\u80af\u5b9a\u56de\u7b54\uff09",
         "fi": "sijaita, paikalla, todellinen, tosi, olemassaoleva | ALT (my\u00f6nt\u00e4v\u00e4 vastaus)",
+        "uk": "\u0441\u043f\u0440\u0430\u0432\u0436\u043d\u0456\u0439, \u0456\u0441\u043d\u0443\u044e\u0447\u0438\u0439, \u0434\u0456\u0439\u0441\u043d\u0438\u0439 | ALT (\u043f\u043e\u0437\u0438\u0442\u0438\u0432\u043d\u0430 \u0432\u0456\u0434\u043f\u043e\u0432\u0456\u0434\u044c)",
         "tkl": "i, m\u014dni, hako, i ei | ALT (he tali io)",
         "haw": "aia i, \u02bboia\u02bbi\u02bbo | ALT (he pane h\u014d\u02bboia)",
         "hr": "kod, pri, nalaziti se (negdje), stvarno, istinito, postoje\u0107e | ALT (potvrda)",
@@ -4944,6 +4998,7 @@
         "zh_hant": "\u624b\u3001\u624b\u81c2\uff0c\u89f8\u89ba\u5668\u5b98\uff1b\u4e94 | ALT \u78b0\u3001\u89f8\u6478\u3001\u4e92\u52d5\u3001\u6309\u3001\u58d3",
         "zh_hans": "\u624b\u3001\u624b\u81c2\uff0c\u89e6\u89c9\u5668\u5b98\uff1b\u4e94 | ALT \u78b0\u3001\u89e6\u6478\u3001\u4e92\u52a8\u3001\u6309\u3001\u538b",
         "fi": "k\u00e4si, k\u00e4sivarsi, tuntoelin; viisi | ALT tuntea fyysisesti, vuorovaikuttaa, painaa",
+        "uk": "\u0440\u0443\u043a\u0430, \u043a\u0438\u0441\u0442\u044c, \u0442\u0430\u043a\u0442\u0438\u043b\u044c\u043d\u0438\u0439 \u043e\u0440\u0433\u0430\u043d; \u043f'\u044f\u0442\u044c | ALT \u0434\u043e\u0442\u043e\u0440\u043a\u043d\u0443\u0442\u0438\u0441\u044f / \u043f\u043e\u0447\u0443\u0442\u0438 \u0444\u0456\u0437\u0438\u0447\u043d\u043e, \u0432\u0437\u0430\u0454\u043c\u043e\u0434\u0456\u044f\u0442\u0438, \u043d\u0430\u0442\u0438\u0441\u043d\u0443\u0442\u0438",
         "tkl": "he lima | ALT p\u0101, f\u0101f\u0101, tago",
         "haw": "he lima; \u02bbelima | ALT p\u0101, h\u0101h\u0101, kaomi",
         "hr": "ruka, dodirni organ; pet | ALT dirati, interaktirati, pritisnuti",
@@ -4998,6 +5053,7 @@
         "zh_hant": "\u773c\u775b\uff1b\u770b\u898b\u3001\u89c0\u5bdf\u3001\u6aa2\u67e5\u3001\u6ce8\u8996\u3001\u95b1\u8b80\uff1b\u641c\u5c0b\uff0c\u5c0b\u6c42\uff1b(pv.) \u5617\u8a66\u3001\u8a66\u5716",
         "zh_hans": "\u773c\u775b\uff1b\u770b\u89c1\u3001\u89c2\u5bdf\u3001\u68c0\u67e5\u3001\u6ce8\u89c6\u3001\u9605\u8bfb\uff1b\u641c\u5bfb\uff0c\u5bfb\u6c42\uff1b(pv.) \u5c1d\u8bd5\u3001\u8bd5\u56fe",
         "fi": "silm\u00e4; katsoa, n\u00e4hd\u00e4, tutkia, tarkkailla, lukea, katsella; etsi\u00e4; (pv.) yritt\u00e4\u00e4",
+        "uk": "\u043e\u043a\u043e, \u0434\u0438\u0432\u0438\u0442\u0438\u0441\u044f, \u0431\u0430\u0447\u0438\u0442\u0438, \u0441\u043f\u043e\u0441\u0442\u0435\u0440\u0456\u0433\u0430\u0442\u0438, \u0447\u0438\u0442\u0430\u0442\u0438; (pv.) \u043f\u0440\u043e\u0431\u0443\u0432\u0430\u0442\u0438",
         "tkl": "he mata; kikila, kite, huke, m\u0101tau, faitau, m\u0101tamata; hakili; (pv.) taumafai",
         "haw": "he maka; n\u0101n\u0101, kilo, \u02bbike, h\u0101kiu, heluhelu; \u02bbimi; (pv.) ho\u02bboikaika",
         "hr": "oko, gledati, vidjeti, prou\u010diti, promotriti, \u010ditati; tra\u017eiti; (pv.) poku\u0161ati",
@@ -5047,6 +5103,7 @@
         "zh_hant": "\u9580\u3001\u6d1e\u3001\u5b54\u3001\u5751\u3001\u7a74\u3001\u7a97",
         "zh_hans": "\u95e8\u3001\u6d1e\u3001\u5b54\u3001\u5751\u3001\u7a74\u3001\u7a97",
         "fi": "ovi, reik\u00e4, aukko, ikkuna",
+        "uk": "\u0434\u0432\u0435\u0440\u0456, \u0434\u0456\u0440\u043a\u0430, \u0432\u0456\u043a\u043d\u043e",
         "tkl": "he faitotoka, he gutu, he lua, he p\u016b, he ana",
         "haw": "he puka, he lua, he waha, he pukaaniani",
         "hr": "vrata, rupa, otvor, prozor",
@@ -5096,6 +5153,7 @@
         "zh_hant": "\u571f\u3001\u5730\uff1b\u91ce\u5916\u3001\u6236\u5916\u74b0\u5883\u3001\u4e16\u754c\uff1b\u570b\u5bb6\u3001\u9818\u571f\u3001\u570b\u571f\uff1b\u571f\u58e4",
         "zh_hans": "\u571f\u3001\u5730\uff1b\u91ce\u5916\u3001\u6237\u5916\u73af\u5883\u3001\u4e16\u754c\uff1b\u56fd\u5bb6\u3001\u9886\u571f\u3001\u56fd\u571f\uff1b\u571f\u58e4",
         "fi": "maa; ulkona, maailma; valtio, alue; maaper\u00e4",
+        "uk": "\u0437\u0435\u043c\u043b\u044f; \u0437\u043d\u0430\u0445\u043e\u0434\u044f\u0447\u0438\u0439\u0441\u044f \u043d\u0430 \u0432\u0456\u0434\u043a\u0440\u0438\u0442\u043e\u043c\u0443 \u043e\u0432\u0456\u0442\u0440\u0456, \u0441\u0432\u0456\u0442\u043e\u0432\u0438\u0439; \u043a\u0440\u0430\u0457\u043d\u0430, \u0442\u0435\u0440\u0438\u0442\u043e\u0440\u0456\u044f; \u0491\u0440\u0443\u043d\u0442",
         "tkl": "he fenua; he atunuku; he kelekele; he t\u016blaga",
         "haw": "he honua, he \u02bb\u0101ina; he ao; he lepo; he k\u016blana",
         "hr": "zemlja; svijet; dr\u017eava, teritorij",
@@ -5118,8 +5176,8 @@
       "creator": "jan Sonja",
       "ku_data": "elderly\u00b2, old\u00b2, senior\u00b2, historical\u00b9, ancient\u00b9, elder\u00b9",
       "recognition": {
-        "2021-10": "59",
-        "2020-04": "38"
+        "2020-04": "38",
+        "2021-10": "59"
       },
       "see_also": "suli",
       "def": {
@@ -5190,6 +5248,7 @@
         "zh_hant": "\u7236\u89aa\u3001\u6bcd\u89aa\u3001\u7956\u5148\uff1b\u5275\u9020\u8005\u3001\u5275\u4f5c\u8005\u3001\u767c\u660e\u8005\uff1b\u76e3\u8b77\u4eba\u3001\u8b77\u7406\u4eba\u54e1",
         "zh_hans": "\u7236\u4eb2\u3001\u6bcd\u4eb2\u3001\u7956\u5148\uff1b\u521b\u9020\u8005\u3001\u521b\u4f5c\u8005\u3001\u53d1\u660e\u8005\uff1b\u76d1\u62a4\u4eba\u3001\u62a4\u7406\u4eba\u5458",
         "fi": "vanhempi, esi-is\u00e4; luoja, alullepanija; huoltaja, yll\u00e4pit\u00e4j\u00e4",
+        "uk": "\u0431\u0430\u0442\u044c\u043a\u043e, \u043f\u0440\u0435\u0434\u043e\u043a; \u0430\u0432\u0442\u043e\u0440, \u0441\u043f\u043e\u0441\u0442\u0435\u0440\u0456\u0433\u0430\u0447",
         "tkl": "he m\u0101tua, he tupuna",
         "haw": "he makua, he kupuna; he kahu",
         "hr": "roditelj, predak; tvorac, za\u010detnik; skrbnik, hranitelj",
@@ -5239,6 +5298,7 @@
         "zh_hant": "\u9322\u3001\u73fe\u91d1\u3001\u5132\u84c4\u3001\u8ca1\u5bcc\uff1b\u5927\u578b\u7272\u755c",
         "zh_hans": "\u94b1\u3001\u73b0\u91d1\u3001\u50a8\u84c4\u3001\u8d22\u5bcc\uff1b\u5927\u578b\u7272\u755c",
         "fi": "raha, k\u00e4teinen, s\u00e4\u00e4st\u00f6t, varallisuus; suuri kotiel\u00e4in",
+        "uk": "\u0433\u0440\u043e\u0448\u0456, \u0433\u043e\u0442\u0456\u0432\u043a\u0430, \u043d\u0430\u043a\u043e\u043f\u0438\u0447\u0435\u043d\u043d\u044f, \u0431\u0430\u0433\u0430\u0442\u0441\u0442\u0432\u043e; \u0432\u0435\u043b\u0438\u043a\u0430 \u0434\u043e\u043c\u0430\u0448\u043d\u044f \u0442\u0432\u0430\u0440\u0438\u043d\u0430",
         "tkl": "he tupe; he meaola lata",
         "haw": "he k\u0101l\u0101, he moni, he uku k\u016b\u02bbike, he loa\u02bba h\u014d\u02bbili\u02bbili, he waiwai; he holoholona laka",
         "hr": "novac, u\u0161te\u0111evina, bogatstvo; stoka",
@@ -5313,6 +5373,7 @@
         "zh_hant": "\u5973\u4eba\u3001\u5973\u6027\uff1b\u59bb\u5b50",
         "zh_hans": "\u5973\u4eba\u3001\u5973\u6027\uff1b\u59bb\u5b50",
         "fi": "nainen, feminiininen henkil\u00f6; vaimo",
+        "uk": "\u0436\u0456\u043d\u043a\u0430, \u0436\u0456\u043d\u043e\u0447\u0438\u0439; \u0434\u0440\u0443\u0436\u0438\u043d\u0430",
         "tkl": "he fafine",
         "haw": "he wahine",
         "hr": "\u017eena, \u017eenska osoba, \u017eenstvena osoba; supruga",
@@ -5331,8 +5392,8 @@
       "etymology": "meli pi olin meli",
       "creator": "jan inwin",
       "recognition": {
-        "2021-10": "36",
-        "2020-04": "25"
+        "2020-04": "25",
+        "2021-10": "36"
       },
       "see_also": "kule, meli",
       "def": {
@@ -5447,6 +5508,7 @@
         "zh_hant": "\u6211\u3001\u6211\u5011",
         "zh_hans": "\u6211\u3001\u6211\u4eec",
         "fi": "min\u00e4, me",
+        "uk": "\u044f, \u043c\u0435\u043d\u0435, \u043c\u0438, \u0432\u0430\u0441",
         "tkl": "au, kita, k\u014d, kit\u0101ua, kit\u0101, kit\u0101tou, kim\u0101ua, kim\u0101, kim\u0101tou",
         "haw": "au, k\u0101ua, k\u0101kou, m\u0101ua, m\u0101kou",
         "hr": "ja, mi",
@@ -5499,6 +5561,7 @@
         "zh_hant": "\u7537\u4eba\u3001\u7537\u6027\uff1b\u4e08\u592b",
         "zh_hans": "\u7537\u4eba\u3001\u7537\u6027\uff1b\u4e08\u592b",
         "fi": "mies, maskuliininen henkil\u00f6, aviomies",
+        "uk": "\u0447\u043e\u043b\u043e\u0432\u0456\u043a, \u0447\u043e\u043b\u043e\u0432\u0456\u0447\u0438\u0439",
         "tkl": "he tam\u0101loa, he t\u0101ne",
         "haw": "he k\u0101ne",
         "hr": "mu\u0161karac, mu\u0161ko, mu\u017eevna osoba; suprug",
@@ -5517,8 +5580,8 @@
       "etymology": "mije pi olin mije",
       "creator": "jan inwin",
       "recognition": {
-        "2021-10": "35",
-        "2020-04": "25"
+        "2020-04": "25",
+        "2021-10": "35"
       },
       "see_also": "kule, mije",
       "def": {
@@ -5603,8 +5666,8 @@
       "creator": "jan Sonja",
       "ku_data": "medication\u00b3, medicine\u00b3, cure\u00b2, pill\u00b2, medical\u00b2",
       "recognition": {
-        "2021-10": "71",
-        "2020-04": "21"
+        "2020-04": "21",
+        "2021-10": "71"
       },
       "def": {
         "en": "medicine, medical",
@@ -5674,6 +5737,7 @@
         "zh_hant": "\u5403\u3001\u559d\u3001\u9032\u98df\u3001\u541e\u4e0b\u3001\u54bd\u4e0b",
         "zh_hans": "\u5403\u3001\u559d\u3001\u8fdb\u98df\u3001\u541e\u4e0b\u3001\u54bd\u4e0b",
         "fi": "sy\u00f6d\u00e4, juoda, niell\u00e4",
+        "uk": "\u0457\u0441\u0442\u0438, \u043f\u0438\u0442\u0438, \u043a\u043e\u0432\u0442\u0430\u0442\u0438",
         "tkl": "kai, he meakai",
         "haw": "\u02bbai, he mea\u02bbai",
         "hr": "jesti, piti, konzumirati, progutati",
@@ -5723,6 +5787,7 @@
         "zh_hant": "\u6b7b\u7684\u3001\u53bb\u4e16\u7684",
         "zh_hans": "\u6b7b\u7684\u3001\u53bb\u4e16\u7684",
         "fi": "kuollut, kuoleva",
+        "uk": "\u043c\u0435\u0440\u0442\u0432\u0438\u0439, \u0432\u043c\u0438\u0440\u0430\u044e\u0447\u0438\u0439",
         "tkl": "mate, oti",
         "haw": "make",
         "hr": "mrtvo, umiru\u0107e",
@@ -5799,6 +5864,7 @@
         "zh_hant": "\u5f8c\u9762\u3001\u5f8c\u65b9\u3001\u5f8c\u90e8",
         "zh_hans": "\u540e\u9762\u3001\u540e\u65b9\u3001\u540e\u90e8",
         "fi": "takana, takapuolella",
+        "uk": "\u0445\u0440\u0435\u0431\u0435\u0442, \u0441\u043f\u0438\u043d\u0430, \u0437\u0430\u0434",
         "tkl": "tua, muli",
         "haw": "hope, muli",
         "hr": "iza, stra\u017enja strana, stra\u017enjica",
@@ -5827,8 +5893,8 @@
       "creator": "jan Sonja",
       "ku_data": "scary\u00b3, fear\u00b3, monster\u00b3, horror\u00b3, scare\u00b2, disturbing\u00b2, terror\u00b2, beast\u00b2, afraid\u00b2, demon\u00b2",
       "recognition": {
-        "2021-10": "88",
-        "2020-04": "74"
+        "2020-04": "74",
+        "2021-10": "88"
       },
       "def": {
         "en": "fear, dread; monster, predator; threat, danger",
@@ -5895,6 +5961,7 @@
         "zh_hant": "\uff08\u52d5\u7269\u8072\u97f3\u6216\u4ea4\u969b\uff09 | ALT \uff08\u975e\u4eba\u985e\u8072\u97f3\uff09",
         "zh_hans": "\uff08\u52a8\u7269\u58f0\u97f3\u6216\u4ea4\u9645\uff09 | ALT \uff08\u975e\u4eba\u7c7b\u58f0\u97f3\uff09",
         "fi": "(el\u00e4imen \u00e4\u00e4ni tai viestint\u00e4) | ALT (\u00e4\u00e4ntely, joka ei ole puhetta)",
+        "uk": "(\u0437\u0432\u0443\u043a \u0430\u0431\u043e \u0440\u043e\u0437\u043c\u043e\u0432\u0430 \u0442\u0432\u0430\u0440\u0438\u043d) | ALT (\u043d\u0435\u0440\u043e\u0437\u0431\u0456\u0440\u043b\u0438\u0432\u0430 \u043c\u043e\u0432\u0430)",
         "tkl": "(te kalaga a n\u0101 meaola) | ALT (te kalaga a te tagata)",
         "haw": "(ke kani a n\u0101 holoholona) | ALT (ke kani a ke kanaka)",
         "hr": "(\u017eivotinjski zvuk ili glasanje) | ALT (neartikulirano glasanje)",
@@ -5917,8 +5984,8 @@
       "creator": "jan Sonja",
       "ku_data": "pizza\u00b2",
       "recognition": {
-        "2021-10": "39",
-        "2020-04": "32"
+        "2020-04": "32",
+        "2021-10": "39"
       },
       "see_also": "pan",
       "def": {
@@ -5990,6 +6057,7 @@
         "zh_hant": "\u6708\u4eae\u3001\u6708\u7403\u3001\u5728\u591c\u7a7a\u88e1\u7684\u7269\u9ad4\u3001\u661f\u3001\u6046\u661f | ALT \u6697\u6de1\u7684\u5149\u3001\u9583\u8000\u7684\u5149\u3001\u5728\u9ed1\u6697\u88e1\u7684\u5149",
         "zh_hans": "\u6708\u4eae\u3001\u6708\u7403\u3001\u5728\u591c\u7a7a\u91cc\u7684\u7269\u4f53\u3001\u661f\u3001\u6052\u661f | ALT \u6697\u6de1\u7684\u5149\u3001\u95ea\u8000\u7684\u5149\u3001\u5728\u9ed1\u6697\u91cc\u7684\u5149",
         "fi": "kuu, jokin asia y\u00f6taivaalla, t\u00e4hti | ALT hehku, hehkuva valo, valo pime\u00e4ss\u00e4",
+        "uk": "\u043c\u0456\u0441\u044f\u0446\u044c, \u043e\u0431'\u0454\u043a\u0442 \u043d\u0456\u0447\u043d\u043e\u0433\u043e \u043d\u0435\u0431\u0430, \u0437\u0456\u0440\u043a\u0430 | ALT \u0441\u0432\u0456\u0442\u043b\u043e, \u0441\u0432\u0456\u0442\u043b\u043e \u0432 \u0442\u0435\u043c\u0440\u044f\u0432\u0456",
         "tkl": "he m\u0101hina, he mea i te lagi i te p\u014d, he fet\u016b | ALT gigila, he m\u0101lamalama",
         "haw": "he mahina, he mea i ka lani i ka p\u014d, he h\u014dk\u016b | ALT makali, he lama",
         "hr": "mjesec, predmet vidljiv na no\u0107nom nebu, zvijezda | ALT sjati, sjaju\u0107e, svjetlo, svjetlost u tami",
@@ -6037,6 +6105,7 @@
         "zh_hant": "\u85dd\u8853\u7684\u3001\u6709\u8da3\u7684\u3001\u5a1b\u6a02\u7684\u3001\u8f15\u6d6e\u7684\u3001\u4f11\u9591\u7684",
         "zh_hans": "\u827a\u672f\u7684\u3001\u6709\u8da3\u7684\u3001\u5a31\u4e50\u7684\u3001\u8f7b\u6d6e\u7684\u3001\u4f11\u95f2\u7684",
         "fi": "taiteellinen, viihdytt\u00e4v\u00e4, kevytmielinen, leikkis\u00e4, virkistys",
+        "uk": "\u0445\u0443\u0434\u043e\u0436\u043d\u0456\u0439, \u0437\u0430\u0431\u0430\u0432\u043d\u0438\u0439, \u0440\u043e\u0437\u0432\u0430\u0436\u0430\u043b\u044c\u043d\u0438\u0439, \u0440\u043e\u0437\u0432\u0430\u0433\u0430",
         "tkl": "fakafiafia, fakakata, t\u0101kalo",
         "haw": "he hana no\u02bbeau, hoihoi, p\u0101\u02bbani",
         "hr": "umjetni\u010dki, zabavno, neozbiljno, razigrano, rekreacija",
@@ -6085,6 +6154,7 @@
         "zh_hant": "\u591a\u3001\u8a31\u591a\u3001\u5927\u91cf\u7684\u3001\u975e\u5e38\u3001\u5341\u5206\uff1b\u6578\u91cf | ALT \u4e09\uff08\u6216\u4ee5\u4e0a\uff09\u300120",
         "zh_hans": "\u591a\u3001\u8bb8\u591a\u3001\u5927\u91cf\u7684\u3001\u975e\u5e38\u3001\u5341\u5206\uff1b\u6570\u91cf | ALT \u4e09\uff08\u6216\u4ee5\u4e0a\uff09\u300120",
         "fi": "monta, paljon, enemm\u00e4n, useita, eritt\u00e4in; m\u00e4\u00e4r\u00e4 | ALT kolme (tai enemm\u00e4n), 20",
+        "uk": "\u0431\u0430\u0433\u0430\u0442\u043e, \u0449\u0435, \u0434\u0435\u043a\u0456\u043b\u044c\u043a\u0430, \u0434\u0443\u0436\u0435; \u043a\u0456\u043b\u044c\u043a\u0456\u0441\u0442\u044c | ALT \u0442\u0440\u0438 (\u0430\u0431\u043e \u0431\u0456\u043b\u044c\u0448\u0435), 20 ",
         "tkl": "lahi, tokalahi, ni, lahi lele; he aofai | ALT tolu (pe lahi ake), 20",
         "haw": "kini, mano, lehu, nui, kekahi mau | ALT \u02bbekolu (\u0101 i \u02bbole nui a\u02bbe), 20",
         "hr": "puno, vi\u0161e, mnogo, nekoliko, vrlo; koli\u010dina | ALT tri (ili vi\u0161e), 20",
@@ -6146,8 +6216,8 @@
       "creator": "jan Sonja",
       "ku_data": "spice\u2075, extra\u2074, adornment\u00b3, additional\u00b3, extension\u00b2, bonus\u00b2, salt\u00b2, fancy\u00b2, special\u00b2",
       "recognition": {
-        "2021-10": "90",
-        "2020-04": "74"
+        "2020-04": "74",
+        "2021-10": "90"
       },
       "see_also": "sin",
       "tags": "pre-pu ALT",
@@ -6215,6 +6285,7 @@
         "zh_hant": "\u7b2c\uff08\u7528\u65bc\u69cb\u6210\u5e8f\u6578\uff09\uff1b\u6578\u5b57",
         "zh_hans": "\u7b2c\uff08\u7528\u4e8e\u6784\u6210\u5e8f\u6570\uff09\uff1b\u6570\u5b57",
         "fi": "(j\u00e4rjestysluvuissa); numerot, luvut",
+        "uk": "(\u043f\u043e\u0440\u044f\u0434\u043a\u043e\u0432\u0438\u0439 \u0447\u0438\u0441\u043b\u0456\u0432\u043d\u0438\u043a); \u0447\u0438\u0441\u043b\u043e",
         "tkl": "he n\u016bmela",
         "haw": "he helu",
         "hr": "(redni broj); broj",
@@ -6327,7 +6398,7 @@
       "recognition": {
         "2021-10": "25"
       },
-      "see_also": "wan",
+      "see_also": "wan, sama, linja",
       "def": {
         "en": "relationship, correlation, commonality; cross, knot, junction, intersection; to overlap, to fold; to overstep, to exceed to a point",
         "pl": "zwi\u0105zek, korelacja, cecha wsp\u00f3lna; krzy\u017c, w\u0119ze\u0142, skrzy\u017cowanie; nak\u0142ada\u0107 si\u0119, sk\u0142ada\u0107; przekroczy\u0107, przewy\u017csza\u0107",
@@ -6361,8 +6432,8 @@
       "etymology": "nelj\u00e4 \u2018four\u2019",
       "creator": "jan inwin",
       "recognition": {
-        "2021-10": "23",
-        "2020-04": "13"
+        "2020-04": "13",
+        "2021-10": "23"
       },
       "tags": "nimi nanpa",
       "def": {
@@ -6650,8 +6721,8 @@
       "etymology": "\u00d8",
       "creator": "jan Sonja",
       "recognition": {
-        "2021-10": "28",
-        "2020-04": "14"
+        "2020-04": "14",
+        "2021-10": "28"
       },
       "def": {
         "en": "(word reserved for future use by Sonja Lang)",
@@ -6839,8 +6910,8 @@
       "creator": "?",
       "ku_data": "OK\u2070, alright\u2070, fine\u2070",
       "recognition": {
-        "2021-10": "40",
-        "2020-04": "25"
+        "2020-04": "25",
+        "2021-10": "40"
       },
       "see_also": "pona, ke, n",
       "def": {
@@ -6880,8 +6951,8 @@
       "etymology": "okay boomer",
       "creator": "jan Elijo",
       "recognition": {
-        "2021-10": "24",
-        "2020-04": "21"
+        "2020-04": "21",
+        "2021-10": "24"
       },
       "def": {
         "en": "boomer, Baby Boomer, inconsiderate elder; [interjection/insult]",
@@ -6926,8 +6997,8 @@
       "creator": "jan Sonja",
       "ku_data": "eye\u2074, vision\u00b2",
       "recognition": {
-        "2021-10": "88",
-        "2020-04": "77"
+        "2020-04": "77",
+        "2021-10": "88"
       },
       "see_also": "lukin",
       "tags": "pre-pu ALT",
@@ -7052,8 +7123,8 @@
       "etymology": "o.m.e.m. \u2190 o moli e mi {cf. English kill me}",
       "creator": "jan inwin",
       "recognition": {
-        "2021-10": "19",
-        "2020-04": "19"
+        "2020-04": "19",
+        "2021-10": "19"
       },
       "def": {
         "en": "sarcasm, irony",
@@ -7246,8 +7317,8 @@
       "etymology": "bruh",
       "creator": "jan Jan, jan Lija",
       "recognition": {
-        "2021-10": "21",
-        "2020-04": "21"
+        "2020-04": "21",
+        "2021-10": "21"
       },
       "def": {
         "en": "[interjection] bruh; expression of disbelief, exasperation, or excitement",
@@ -7333,8 +7404,8 @@
       "creator": "jan Sonja",
       "ku_data": "prevent\u00b2, stop\u00b2, lock\u00b9, forbid\u00b9, wall\u00b9, interrupt\u00b9, intervention\u00b9, deny\u00b9, limitation\u00b9, cease\u00b9, restrict\u00b9",
       "recognition": {
-        "2021-10": "48",
-        "2020-04": "34"
+        "2020-04": "34",
+        "2021-10": "48"
       },
       "see_also": "pini",
       "def": {
@@ -7563,8 +7634,8 @@
       "etymology": "Acadian French facile \u2018easy\u2019 or Esperanto facila \u2018easy\u2019",
       "creator": "jan Sonja",
       "recognition": {
-        "2021-10": "31",
-        "2020-04": "25"
+        "2020-04": "25",
+        "2021-10": "31"
       },
       "see_also": "pona",
       "def": {
@@ -7604,8 +7675,8 @@
       "creator": "jan Sonja",
       "ku_data": "sibling\u2070, cousin\u2070",
       "recognition": {
-        "2021-10": "36",
-        "2020-04": "28"
+        "2020-04": "28",
+        "2021-10": "36"
       },
       "see_also": "sama",
       "def": {
@@ -7719,8 +7790,8 @@
       "creator": "jan Kiwa, kulupu kasi",
       "ku_data": "cry\u2070",
       "recognition": {
-        "2021-10": "28",
-        "2020-04": "20"
+        "2020-04": "20",
+        "2021-10": "28"
       },
       "commentary": "This word is deprecated by the creator.",
       "def": {
@@ -8055,8 +8126,8 @@
       "etymology": "pipi {cf. English bug}",
       "creator": "jan Ejewa, jan inwin",
       "recognition": {
-        "2021-10": "21",
-        "2020-04": "19"
+        "2020-04": "19",
+        "2021-10": "21"
       },
       "def": {
         "en": "annoy, annoyance, bothersome, boring",
@@ -8093,8 +8164,8 @@
       "creator": "jan Sonja",
       "ku_data": "four\u2070",
       "recognition": {
-        "2021-10": "34",
-        "2020-04": "25"
+        "2020-04": "25",
+        "2021-10": "34"
       },
       "tags": "nimi nanpa",
       "def": {
@@ -8227,8 +8298,8 @@
       "etymology": "bowling pin",
       "creator": "jan Kisinja",
       "recognition": {
-        "2021-10": "21",
-        "2020-04": "14"
+        "2020-04": "14",
+        "2021-10": "21"
       },
       "def": {
         "en": "bowling pin",
@@ -8268,8 +8339,8 @@
       "creator": "jan Kawa",
       "ku_data": "tomato\u2070",
       "recognition": {
-        "2021-10": "21",
-        "2020-04": "14"
+        "2020-04": "14",
+        "2021-10": "21"
       },
       "commentary": "From the time management method developed by Francesco Cirillo in Berlin in the 1980s, for which people often used tomato-shaped timers. In ku, \"pomotolo\" was given as one of the translations of \"tomato\", presumably due to speakers misusing or misunderstanding the word.",
       "def": {
@@ -8384,8 +8455,8 @@
       "creator": "jan Sonja",
       "ku_data": "fake\u00b2, pretend\u00b2, trick\u00b2, false\u00b2, myth\u00b2, lie (saying untruth)\u00b2, fraud\u00b9, trap\u00b9, illusion\u00b9, fantasy\u00b9",
       "recognition": {
-        "2021-10": "56",
-        "2020-04": "31"
+        "2020-04": "31",
+        "2021-10": "56"
       },
       "see_also": "ike",
       "def": {
@@ -8555,8 +8626,8 @@
       "creator": "jan Sonja",
       "ku_data": "wanting to create new words\u00b2",
       "recognition": {
-        "2021-10": "29",
-        "2020-04": "16"
+        "2020-04": "16",
+        "2021-10": "29"
       },
       "commentary": "Coined in reference to jan Samu, a Facebook user who attempted to propose a new word.",
       "def": {
@@ -8595,8 +8666,8 @@
       "creator": "jan Lenoka, jan Wesu",
       "ku_data": "three\u2070",
       "recognition": {
-        "2021-10": "33",
-        "2020-04": "15"
+        "2020-04": "15",
+        "2021-10": "33"
       },
       "see_also": "mute, tuli",
       "tags": "nimi nanpa",
@@ -8944,8 +9015,8 @@
       "etymology": "sicko mode",
       "creator": "jan Lija, jan Wesu",
       "recognition": {
-        "2021-10": "22",
-        "2020-04": "19"
+        "2020-04": "19",
+        "2021-10": "22"
       },
       "see_also": "epiku",
       "commentary": "Coined in reference to the Travis Scott song \u2018Sicko Mode\u2019.",
@@ -9230,8 +9301,8 @@
       "creator": "jan inwin, kala kala/jan Salan",
       "ku_data": "mushroom\u00b3, fungus\u00b3",
       "recognition": {
-        "2021-10": "77",
-        "2020-04": "17"
+        "2020-04": "17",
+        "2021-10": "77"
       },
       "see_also": "kili",
       "def": {
@@ -9319,8 +9390,8 @@
       "creator": "jan inwin",
       "ku_data": "left (not right)\u2070",
       "recognition": {
-        "2021-10": "34",
-        "2020-04": "22"
+        "2020-04": "22",
+        "2021-10": "34"
       },
       "see_also": "poka. teje",
       "def": {
@@ -9403,8 +9474,8 @@
       "etymology": "\u00d8",
       "creator": "jan Sonja",
       "recognition": {
-        "2021-10": "28",
-        "2020-04": "14"
+        "2020-04": "14",
+        "2021-10": "28"
       },
       "def": {
         "en": "(word reserved for future use by Sonja Lang)",
@@ -9934,8 +10005,8 @@
       "creator": "kala kala/jan Salan, jan Lakuse",
       "ku_data": "(opening quotation particle)\u2070",
       "recognition": {
-        "2021-10": "40",
-        "2020-04": "22"
+        "2020-04": "22",
+        "2021-10": "40"
       },
       "see_also": "to",
       "commentary": "May be paired with \"to\", or used on its own. It is unclear how accepted either approach is among te / to users.",
@@ -10058,8 +10129,8 @@
       "etymology": "tenpo",
       "creator": "jan Kisinja",
       "recognition": {
-        "2021-10": "19",
-        "2020-04": "14"
+        "2020-04": "14",
+        "2021-10": "19"
       },
       "commentary": "Out of use.",
       "def": {
@@ -10343,8 +10414,8 @@
       "creator": "jan inwin",
       "ku_data": "non-binary person\u00b3, transgender person\u00b3, gender non-conforming person\u00b3, intersex person\u00b2",
       "recognition": {
-        "2021-10": "89",
-        "2020-04": "57"
+        "2020-04": "57",
+        "2021-10": "89"
       },
       "see_also": "meli, mije, kule",
       "commentary": "Widely regarded in the community to be a crucial addition to toki pona. Occasionally referred to as an \"honorary pu word\" to highlight its status, or equated to a pu word outright.",
@@ -10435,8 +10506,8 @@
       "etymology": "three",
       "creator": "jan Sonja",
       "recognition": {
-        "2021-10": "31",
-        "2020-04": "26"
+        "2020-04": "26",
+        "2021-10": "31"
       },
       "see_also": "san",
       "tags": "nimi nanpa",
@@ -10789,8 +10860,8 @@
       "creator": "jan inwin",
       "ku_data": "context\u00b9, circumstance\u00b9, attention\u2070, theme\u2070, situation\u2070, background\u2070, emphasize\u2070, emphasis\u2070, topic\u2070, case\u2070, subject\u2070, premise\u2070",
       "recognition": {
-        "2021-10": "34",
-        "2020-04": "19"
+        "2020-04": "19",
+        "2021-10": "34"
       },
       "see_also": "tenpo",
       "commentary": "May be used as a preposition, e.g. \"lipu waleja toki pona = a book about toki pona\". However, this usage is very rare.",
@@ -11040,8 +11111,8 @@
       "etymology": "wuwojiti",
       "creator": "jan Tolin",
       "recognition": {
-        "2021-10": "24",
-        "2020-04": "18"
+        "2020-04": "18",
+        "2021-10": "24"
       },
       "commentary": "Coined in reference to wuwojiti, a sequence of all phonotactically unviable CV syllables in toki pona.",
       "def": {
@@ -11274,8 +11345,8 @@
       "creator": "jan Sonja",
       "ku_data": "change a creative work and unintentionally make it worse\u00b3",
       "recognition": {
-        "2021-10": "40",
-        "2020-04": "27"
+        "2020-04": "27",
+        "2021-10": "40"
       },
       "commentary": "Coined as a random keystroke. It is presumed jan Sonja used \"y\" by mistake, but then make it part of the joke by adding \"nobody knows how to pronounce the y\".",
       "def": {
