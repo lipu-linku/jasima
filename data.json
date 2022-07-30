@@ -312,8 +312,8 @@
       "name_english": "Ukrainian",
       "name_toki_pona": "toki Ukawina",
       "credits": "kije Enki",
-      "completeness_percent": "34",
-      "completeness_percent_pu": "72"
+      "completeness_percent": "35",
+      "completeness_percent_pu": "73"
     },
     "ur": {
       "id_long": "urdu",
@@ -8797,6 +8797,7 @@
         "zh_hant": "\u706b\uff1b\u70f9\u98ea\u5143\u7d20\u3001\u5316\u5b78\u53cd\u61c9\u3001\u71b1\u6e90",
         "zh_hans": "\u706b\uff1b\u70f9\u996a\u5143\u7d20\u3001\u5316\u5b66\u53cd\u5e94\u3001\u70ed\u6e90",
         "fi": "tuli; kemiallinen reaktio, l\u00e4mm\u00f6nl\u00e4hde",
+        "uk": "\u0432\u043e\u0433\u043e\u043d\u044c; \u043d\u0430\u0433\u0440\u0456\u0432\u0430\u043b\u044c\u043d\u0438\u0439 \u0435\u043b\u0435\u043c\u0435\u043d\u0442, \u0445\u0456\u043c\u0456\u0447\u043d\u0430 \u0440\u0435\u0430\u043a\u0446\u0456\u044f, \u0434\u0436\u0435\u0440\u0435\u043b\u043e \u0442\u0435\u043f\u043b\u0430",
         "tkl": "he afi, m\u016b, vevela; he m\u0101fuaga vevela",
         "haw": "he ahi, \u02bb\u0101, wela; he m\u014d\u02bbaui kemika, he kumu wela",
         "hr": "vatra; kemijska reakcija, izvor topline",
@@ -11454,7 +11455,7 @@
       "last_updated": "2022-07",
       "filename": "fairfax.ttf",
       "style": "pixelated",
-      "features": "codepoints only, UCSUR-compliant, supports combining extension characters only (NO OpenType features)"
+      "features": "codepoints only, UCSUR-compliant, supports combining extension characters only (NO OpenType features), supports all ku lili and extensively more"
     },
     "Fairfax HD": {
       "name_short": "FairfaxHD",
@@ -11470,7 +11471,7 @@
       "last_updated": "2022-07",
       "filename": "fairfax-hd.ttf",
       "style": "uniform line weight",
-      "features": "codepoints only, UCSUR-compliant, supports cartouches, extended glyphs, combined glyphs, ZWJ sequences, character variants, randomized jaki"
+      "features": "codepoints only, UCSUR-compliant, supports cartouches, extended glyphs, combined glyphs, ZWJ sequences, character variants, randomized jaki, supports all ku lili and extensively more"
     },
     "Fairfax Pona HD": {
       "name_short": "FairfaxPonaHD",
@@ -11486,7 +11487,7 @@
       "last_updated": "2022-07",
       "filename": "fairfax-pona-hd.ttf",
       "style": "uniform line weight",
-      "features": "ASCII transcription and codepoints, UCSUR-compliant, supports cartouches, extended glyphs, combined glyphs, ZWJ sequences, character variants, randomized jaki"
+      "features": "ASCII transcription and codepoints, UCSUR-compliant, supports cartouches, extended glyphs, combined glyphs, ZWJ sequences, character variants, randomized jaki, supports all ku lili and extensively more"
     },
     "insa pi supa lape": {
       "name_short": "insa pi supa lape",
@@ -11972,7 +11973,7 @@
       "last_updated": "2022-07",
       "filename": "sitelenselikiwenasuki.ttf",
       "style": "handwritten",
-      "features": "ASCII transcription and codepoints, UCSUR-compliant, supports cartouches, extended glyphs, combined glyphs, ZWJ sequences, character variants, randomized jaki"
+      "features": "ASCII transcription and codepoints, UCSUR-compliant, supports cartouches, extended glyphs, combined glyphs, ZWJ sequences, character variants, randomized jaki, supports all ku lili and extensively more"
     },
     "sitelen seli kiwen juniko": {
       "name_short": "sitelen seli kiwen juniko",
@@ -11988,7 +11989,7 @@
       "last_updated": "2022-07",
       "filename": "sitelenselikiwenjuniko.ttf",
       "style": "handwritten",
-      "features": "codepoints only, UCSUR-compliant, supports cartouches, extended glyphs, combined glyphs, ZWJ sequences, character variants, randomized jaki"
+      "features": "codepoints only, UCSUR-compliant, supports cartouches, extended glyphs, combined glyphs, ZWJ sequences, character variants, randomized jaki, supports all ku lili and extensively more"
     },
     "sitelen suwi ko": {
       "name_short": "sitelen suwi ko",
