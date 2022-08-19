@@ -517,8 +517,8 @@
       "name_toki_pona": "toki Ukawina",
       "credits": "kije Enki",
       "completeness_percent": {
-        "obscure": "96",
-        "rare": "98",
+        "obscure": "100",
+        "rare": "100",
         "uncommon": "100",
         "common": "100",
         "widespread": "100",
@@ -982,7 +982,8 @@
       },
       "commentary": "Coined humorously as the \"final nimisin\" - any newer word would semantically be included in alente, so it can be refuted for being \"alente but even nicher\".",
       "def": {
-        "en": "the set of every possible human concept subtracted from the set of concepts already covered by established toki pona words weighted by their relative usage"
+        "en": "the set of every possible human concept subtracted from the set of concepts already covered by established toki pona words weighted by their relative usage",
+        "uk": "\u043d\u0430\u0431\u0456\u0440 \u0443\u0441\u0456\u0445 \u043c\u043e\u0436\u043b\u0438\u0432\u0438\u0445 \u043a\u043e\u043d\u0446\u0435\u043f\u0446\u0456\u0439, \u0449\u043e \u043d\u0435 \u043f\u043e\u043a\u0440\u0438\u0432\u0430\u0454 \u0440\u0435\u043b\u0430\u0442\u0438\u0432\u043d\u0435 \u0432\u0438\u043a\u043e\u0440\u0438\u0441\u0442\u0430\u043d\u043d\u044f \u0456\u0441\u043d\u0443\u044e\u0447\u043e\u0433\u043e \u0441\u043f\u0438\u0441\u043a\u0430 \u0448\u0438\u0440\u043e\u043a\u043e\u0432\u0438\u043a\u043e\u0440\u0438\u0441\u0442\u043e\u0432\u0430\u043d\u0438\u0445 \u0442\u043e\u043a\u0456 \u043f\u043e\u043d\u0430 \u0441\u043b\u0456\u0432"
       }
     },
     "ali": {
@@ -2746,7 +2747,8 @@
       "etymology": "\u63fa\u308c\u308b yureru 'shake, vibrate, oscillate, waver'",
       "creator": "kulupu pi kon ilo",
       "def": {
-        "en": "vibrate, shake, wobble, tremble; swing, oscillate; wave, tide"
+        "en": "vibrate, shake, wobble, tremble; swing, oscillate; wave, tide",
+        "uk": "\u0432\u0456\u0431\u0440\u0443\u0432\u0430\u0442\u0438, \u0442\u0440\u044f\u0441\u0442\u0438\u0441\u044f; \u0433\u043e\u0439\u0434\u0430\u0442\u0438\u0441\u044f; \u0445\u0432\u0438\u043b\u044f"
       }
     },
     "jume": {
@@ -2945,7 +2947,8 @@
         "2022-08": "1"
       },
       "def": {
-        "en": "member of the order Caryophyllales, including all cacti as well as carnations, beets, and many carnivorous plants"
+        "en": "member of the order Caryophyllales, including all cacti as well as carnations, beets, and many carnivorous plants",
+        "uk": "\u0440\u043e\u0441\u043b\u0438\u043d\u0430 \u0437 \u0433\u0440\u0443\u043f\u0438 Caryophyllales, \u0432\u043a\u043b\u044e\u0447\u0430\u044e\u0447\u0438 \u0432\u0441\u0456 \u043a\u0430\u043a\u0442\u0443\u0441\u0438, \u0430 \u0442\u0430\u043a\u043e\u0436 \u0433\u0432\u043e\u0437\u0434\u0438\u043a\u0438, \u0431\u0443\u0440\u044f\u043a \u0442\u0430 \u0431\u0430\u0433\u0430\u0442\u043e \u043c\u2019\u044f\u0441\u043e\u0457\u0434\u043d\u0438\u0445 \u0440\u043e\u0441\u043b\u0438\u043d"
       }
     },
     "kama": {
@@ -3390,8 +3393,10 @@
         "2022-08": "1"
       },
       "see_also": "kepeken",
+      "commentary": "coined as a shortened kepeken by jan Tomen in 2017, but really started being used in 2020",
       "def": {
-        "en": "(shortened variant of kepeken)"
+        "en": "(shortened variant of kepeken)",
+        "uk": "(\u0441\u043a\u043e\u0440\u043e\u0447\u0435\u043d\u043d\u044f kepeken)"
       }
     },
     "kese": {
@@ -6785,7 +6790,8 @@
       },
       "see_also": "loje, jelo",
       "def": {
-        "en": "orange (colour)"
+        "en": "orange (colour)",
+        "uk": "\u043f\u043e\u043c\u0430\u0440\u0430\u043d\u0447\u0435\u0432\u0438\u0439 \u043a\u043e\u043b\u0456\u0440"
       }
     },
     "namako": {
@@ -7284,7 +7290,8 @@
       },
       "commentary": "Mostly used in conversations in English. Likely was popularised by the :nimisin: emote in ma pona, which was originally used to notify Atawan (maintainer of \"nimi ale\") about newly coined words. In common speech, the meaning got extended to include most or all non-pu words, regardless if they were coined recently or not.",
       "def": {
-        "en": "any non-pu word; any new word; any joke word"
+        "en": "any non-pu word; any new word; any joke word",
+        "uk": "\u0431\u0443\u0434\u044c-\u044f\u043a\u0435 \u0441\u043b\u043e\u0432\u043e, \u044f\u043a\u043e\u0433\u043e \u043d\u0435\u043c\u0430 \u0432 pu; \u0431\u0443\u0434\u044c-\u044f\u043a\u0435 \u043d\u043e\u0432\u0435 \u0441\u043b\u043e\u0432\u043e; \u0431\u0443\u0434\u044c-\u044f\u043a\u0435 \u0441\u043b\u043e\u0432\u043e-\u0436\u0430\u0440\u0442"
       }
     },
     "nja": {
@@ -7480,7 +7487,8 @@
         "2022-08": "2"
       },
       "def": {
-        "en": "toki pona adaptation of English meme \"ligma\""
+        "en": "toki pona adaptation of English meme \"ligma\"",
+        "uk": "\u0430\u0434\u0430\u043f\u0442\u0430\u0446\u0456\u044f \u0430\u043d\u0433\u043b\u0456\u0439\u0441\u044c\u043a\u043e\u0433\u043e \u0436\u0430\u0440\u0442\u0443 \"\u043b\u0456\u0433\u043c\u0430\" \u0443 \u0442\u043e\u043a\u0456 \u043f\u043e\u043d\u0456"
       }
     },
     "oke": {
@@ -7579,8 +7587,10 @@
       "recognition": {
         "2022-08": "1"
       },
+      "commentary": "Though it may have many possible origins, it was first coined in a small group chat. It is mostly used as a variant of the toki pona words \"oke\" and \"ke\"",
       "def": {
-        "en": "(acknowledgement or acceptance)"
+        "en": "(acknowledgement or acceptance)",
+        "uk": "(\u043f\u0456\u0434\u0442\u0432\u0435\u0440\u0434\u0436\u0435\u043d\u043d\u044f)"
       }
     },
     "oko": {
@@ -7704,7 +7714,8 @@
         "2022-08": "5"
       },
       "def": {
-        "en": "(proper name) a song by jan Usawi"
+        "en": "(proper name) a song by jan Usawi",
+        "uk": "\u043d\u0430\u0437\u0432\u0430 \u043f\u0456\u0441\u043d\u0456 \u0432\u0456\u0434 jan Usawi"
       }
     },
     "omekapo": {
@@ -12260,7 +12271,8 @@
       },
       "commentary": "May be seen not as a word in toki pona, but as a kind of memorisation tool in English to refer to the \"banned\" syllables.",
       "def": {
-        "en": "to use one or more of the \"banned\" syllables wu, wo, ji, or ti; to break toki pona phonotactics"
+        "en": "to use one or more of the \"banned\" syllables wu, wo, ji, or ti; to break toki pona phonotactics",
+        "uk": "\u0441\u043a\u043b\u0430\u0434\u0438 wu, wo, ji \u0456 ti"
       }
     },
     "yupekosi": {
