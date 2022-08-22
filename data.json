@@ -618,7 +618,7 @@
   "data": {
     "a": {
       "word": "a",
-      "sitelen_pona": "a a2",
+      "sitelen_pona": "a",
       "sitelen_pona_etymology": "exclamation radical + Latin lowercase letter A; radical from exclamation point (!), without the full stop at the bottom. compare o",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_a.jpg",
       "sitelen_emosi": "\u2757",
@@ -971,7 +971,6 @@
     },
     "alente": {
       "word": "alente",
-      "sitelen_pona": "alente",
       "coined_year": "2022",
       "coined_era": "post-ku",
       "book": "none",
@@ -2748,7 +2747,6 @@
     },
     "jule": {
       "word": "jule",
-      "sitelen_pona": "jule",
       "coined_year": "2022",
       "coined_era": "post-ku",
       "book": "none",
@@ -3401,7 +3399,7 @@
     },
     "kepen": {
       "word": "kepen",
-      "sitelen_pona": "kepen",
+      "sitelen_pona": "kepeken",
       "coined_year": "2017",
       "coined_era": "post-pu",
       "book": "none",
@@ -5220,7 +5218,7 @@
     },
     "lo": {
       "word": "lo",
-      "sitelen_pona": "lu",
+      "sitelen_pona": "lo",
       "coined_year": "2020",
       "coined_era": "post-pu",
       "book": "none",
@@ -5704,7 +5702,7 @@
     },
     "majuna": {
       "word": "majuna",
-      "sitelen_pona": "majuna",
+      "sitelen_pona": "majuna majuna2",
       "sitelen_emosi": "\ud83d\udc75",
       "audio": {
         "jan_lakuse": "http://antetokipona.infinityfreeapp.com/kalama/jlakuse/majuna.mp3"
@@ -6809,7 +6807,6 @@
     },
     "nalanja": {
       "word": "nalanja",
-      "sitelen_pona": "nalanja",
       "coined_year": "2021",
       "coined_era": "post-ku",
       "book": "none",
@@ -7314,7 +7311,6 @@
     },
     "nimisin": {
       "word": "nimisin",
-      "sitelen_pona": "nimisin",
       "coined_year": "2020",
       "coined_era": "post-pu",
       "book": "none",
@@ -7463,7 +7459,7 @@
     },
     "o": {
       "word": "o",
-      "sitelen_pona": "oo",
+      "sitelen_pona": "o",
       "sitelen_pona_etymology": "exclamation radical + Latin lowercase letter O. compare a",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_o.jpg",
       "sitelen_emosi": "\ud83d\udc4b",
@@ -7517,7 +7513,6 @@
     },
     "ojuta": {
       "word": "ojuta",
-      "sitelen_pona": "ojuta",
       "coined_year": "2021",
       "coined_era": "post-pu",
       "book": "none",
@@ -7752,7 +7747,6 @@
     },
     "omekalike": {
       "word": "omekalike",
-      "sitelen_pona": "omekalike",
       "coined_year": "2021",
       "coined_era": "post-pu",
       "book": "none",
@@ -7913,7 +7907,7 @@
     },
     "oni": {
       "word": "oni",
-      "sitelen_pona": "oni",
+      "sitelen_pona": "oni oni2",
       "coined_year": "2021",
       "coined_era": "post-pu",
       "book": "none",
@@ -10377,7 +10371,6 @@
     },
     "suke": {
       "word": "suke",
-      "sitelen_pona": "suke",
       "coined_year": "2021",
       "coined_era": "post-pu",
       "book": "ku lili",
@@ -11211,7 +11204,6 @@
     },
     "toma": {
       "word": "toma",
-      "sitelen_pona": "toma",
       "coined_year": "2021",
       "coined_era": "post-pu",
       "book": "ku lili",
@@ -12324,7 +12316,6 @@
     },
     "wuwojiti": {
       "word": "wuwojiti",
-      "sitelen_pona": "wuwojiti",
       "coined_year": "2018",
       "coined_era": "post-pu",
       "book": "none",
