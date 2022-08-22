@@ -618,7 +618,7 @@
   "data": {
     "a": {
       "word": "a",
-      "sitelen_pona": "aa",
+      "sitelen_pona": "a a2",
       "sitelen_pona_etymology": "exclamation radical + Latin lowercase letter A; radical from exclamation point (!), without the full stop at the bottom. compare o",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_a.jpg",
       "sitelen_emosi": "\u2757",
@@ -675,7 +675,7 @@
     },
     "aka": {
       "word": "aka",
-      "sitelen_pona": "natu",
+      "sitelen_pona": "aka",
       "coined_year": "2021",
       "coined_era": "post-ku",
       "book": "none",
@@ -767,6 +767,7 @@
     },
     "ako": {
       "word": "ako",
+      "sitelen_pona": "ako",
       "sitelen_pona_etymology": "exclamation radical + Hangul syllable \uc544 (a); radical from exclamation point (!), without the full stop at the bottom. compare a, o",
       "book": "none",
       "usage_category": "obscure",
@@ -970,6 +971,7 @@
     },
     "alente": {
       "word": "alente",
+      "sitelen_pona": "alente",
       "coined_year": "2022",
       "coined_era": "post-ku",
       "book": "none",
@@ -1399,7 +1401,7 @@
     },
     "e": {
       "word": "e",
-      "sitelen_pona": "ee",
+      "sitelen_pona": "e",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_e.jpg",
       "sitelen_emosi": "\u23e9",
       "audio": {
@@ -1452,6 +1454,7 @@
     },
     "eki": {
       "word": "eki",
+      "sitelen_pona": "eki",
       "coined_year": "2021",
       "coined_era": "post-pu",
       "book": "none",
@@ -1543,7 +1546,7 @@
     },
     "enko": {
       "word": "enko",
-      "sitelen_pona": "enko",
+      "sitelen_pona": "enko enko2",
       "sitelen_emosi": "\ud83e\udded",
       "coined_year": "2021",
       "coined_era": "post-pu",
@@ -1576,7 +1579,7 @@
     },
     "epiku": {
       "word": "epiku",
-      "sitelen_pona": "epiku",
+      "sitelen_pona": "epiku epiku1",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_epiku.jpg",
       "sitelen_emosi": "\ud83d\ude0e",
       "audio": {
@@ -1683,7 +1686,7 @@
     },
     "ete": {
       "word": "ete",
-      "sitelen_pona": "ete ete1",
+      "sitelen_pona": "ete ete2",
       "sitelen_emosi": "\ud83d\udd03",
       "coined_year": "2019",
       "coined_era": "post-pu",
@@ -1769,6 +1772,7 @@
     },
     "i": {
       "word": "i",
+      "sitelen_pona": "i",
       "coined_year": "2002",
       "coined_era": "pre-pu",
       "book": "none",
@@ -2450,6 +2454,7 @@
     },
     "jans": {
       "word": "jans",
+      "sitelen_pona": "jans",
       "coined_era": "post-pu",
       "book": "none",
       "usage_category": "obscure",
@@ -2708,6 +2713,7 @@
     },
     "ju": {
       "word": "ju",
+      "sitelen_pona": "ju",
       "coined_year": "2021",
       "coined_era": "post-pu",
       "book": "ku lili",
@@ -2742,6 +2748,7 @@
     },
     "jule": {
       "word": "jule",
+      "sitelen_pona": "jule",
       "coined_year": "2022",
       "coined_era": "post-ku",
       "book": "none",
@@ -2759,6 +2766,7 @@
     },
     "jume": {
       "word": "jume",
+      "sitelen_pona": "jume",
       "coined_year": "2021",
       "coined_era": "post-pu",
       "book": "none",
@@ -2794,7 +2802,7 @@
     },
     "kala": {
       "word": "kala",
-      "sitelen_pona": "kala kala1",
+      "sitelen_pona": "kala kala2",
       "sitelen_pona_etymology": "pictogram of a fish",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_kala.jpg",
       "sitelen_emosi": "\ud83d\udc1f",
@@ -2942,6 +2950,7 @@
     },
     "kalijopilale": {
       "word": "kalijopilale",
+      "sitelen_pona": "kalijopilale",
       "coined_year": "2020",
       "coined_era": "post-pu",
       "book": "none",
@@ -3140,7 +3149,7 @@
     },
     "kapesi": {
       "word": "kapesi",
-      "sitelen_pona": "kapesi kapesi1",
+      "sitelen_pona": "kapesi kapesi2",
       "sitelen_emosi": "\ud83d\udfe4",
       "coined_year": "2001",
       "coined_era": "pre-pu",
@@ -3392,6 +3401,7 @@
     },
     "kepen": {
       "word": "kepen",
+      "sitelen_pona": "kepen",
       "coined_year": "2017",
       "coined_era": "post-pu",
       "book": "none",
@@ -3750,6 +3760,7 @@
     },
     "kisa": {
       "word": "kisa",
+      "sitelen_pona": "kisa",
       "coined_year": "2021",
       "coined_era": "post-pu",
       "book": "none",
@@ -3899,7 +3910,7 @@
     },
     "kokosila": {
       "word": "kokosila",
-      "sitelen_pona": "kokosila kokosila1",
+      "sitelen_pona": "kokosila kokosila2",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_kokosila.jpg",
       "audio": {
         "jan_lakuse": "http://antetokipona.infinityfreeapp.com/kalama/jlakuse/kokosila.mp3"
@@ -3998,6 +4009,7 @@
     },
     "konsi": {
       "word": "konsi",
+      "sitelen_pona": "konsi",
       "sitelen_pona_etymology": "hand modifier + sona",
       "book": "none",
       "usage_category": "obscure",
@@ -4026,6 +4038,7 @@
     },
     "konwe": {
       "word": "konwe",
+      "sitelen_pona": "konwe",
       "coined_year": "2021",
       "coined_era": "post-ku",
       "book": "none",
@@ -4088,7 +4101,7 @@
     },
     "ku": {
       "word": "ku",
-      "sitelen_pona": "ku ku3",
+      "sitelen_pona": "ku",
       "audio": {
         "jan_lakuse": "http://antetokipona.infinityfreeapp.com/kalama/jlakuse/ku.mp3"
       },
@@ -4188,6 +4201,7 @@
     },
     "kulijo": {
       "word": "kulijo",
+      "sitelen_pona": "kulijo",
       "coined_year": "2020",
       "coined_era": "post-pu",
       "book": "ku lili",
@@ -4420,6 +4434,7 @@
     },
     "kutopoma": {
       "word": "kutopoma",
+      "sitelen_pona": "kutopoma",
       "sitelen_pona_etymology": "kulupu, with the bottom-left circle being the composite glyph for toki pona, and the bottom-right circle being a Taegeuk as on the flag of South Korea",
       "coined_year": "2021",
       "coined_era": "post-pu",
@@ -4503,7 +4518,7 @@
     },
     "lanpan": {
       "word": "lanpan",
-      "sitelen_pona": "lanpan lanpan1",
+      "sitelen_pona": "lanpan lanpan3",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_lanpan.jpg",
       "sitelen_emosi": "\ud83d\udce5",
       "audio": {
@@ -4925,6 +4940,7 @@
     },
     "lijokuku": {
       "word": "lijokuku",
+      "sitelen_pona": "lijokuku lijokuku2",
       "book": "none",
       "usage_category": "obscure",
       "source_language": "Korean",
@@ -5106,7 +5122,7 @@
     },
     "linluwi": {
       "word": "linluwi",
-      "sitelen_pona": "linluwi",
+      "sitelen_pona": "linluwi linluwi2",
       "sitelen_emosi": "\ud83c\udf10",
       "coined_year": "2017",
       "coined_era": "post-pu",
@@ -5292,6 +5308,7 @@
     },
     "loka": {
       "word": "loka",
+      "sitelen_pona": "loka",
       "coined_year": "2021",
       "coined_era": "post-pu",
       "book": "ku lili",
@@ -5428,6 +5445,7 @@
     },
     "lu": {
       "word": "lu",
+      "sitelen_pona": "lu",
       "coined_year": "2021",
       "coined_era": "post-pu",
       "book": "ku lili",
@@ -5844,7 +5862,7 @@
     },
     "meli": {
       "word": "meli",
-      "sitelen_pona": "meli meli1",
+      "sitelen_pona": "meli meli2",
       "sitelen_pona_etymology": "head radical with long hair",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_meli.jpg",
       "sitelen_emosi": "\ud83d\udc67",
@@ -5942,7 +5960,7 @@
     },
     "meso": {
       "word": "meso",
-      "sitelen_pona": "meso meso1",
+      "sitelen_pona": "meso meso2",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_meso.jpg",
       "luka_pona": {
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/meso.mp4",
@@ -6047,7 +6065,7 @@
     },
     "mije": {
       "word": "mije",
-      "sitelen_pona": "mije mije1",
+      "sitelen_pona": "mije mije2",
       "sitelen_pona_etymology": "head radical with perhaps wide shoulders. compare jan",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_mije.jpg",
       "sitelen_emosi": "\ud83d\udc68",
@@ -6349,6 +6367,7 @@
     },
     "molusa": {
       "word": "molusa",
+      "sitelen_pona": "molusa",
       "coined_year": "2021",
       "coined_era": "post-ku",
       "book": "none",
@@ -6485,7 +6504,7 @@
     },
     "mu": {
       "word": "mu",
-      "sitelen_pona": "mu",
+      "sitelen_pona": "mu mu2",
       "sitelen_pona_etymology": "pictogram of a mammal",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_mu.jpg",
       "sitelen_emosi": "\ud83d\ude39",
@@ -6750,7 +6769,7 @@
     },
     "n": {
       "word": "n",
-      "sitelen_pona": "\ue561",
+      "sitelen_pona": "n",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_n.jpg",
       "audio": {
         "jan_lakuse": "http://antetokipona.infinityfreeapp.com/kalama/jlakuse/n.mp3"
@@ -6790,6 +6809,7 @@
     },
     "nalanja": {
       "word": "nalanja",
+      "sitelen_pona": "nalanja",
       "coined_year": "2021",
       "coined_era": "post-ku",
       "book": "none",
@@ -6811,7 +6831,7 @@
     },
     "namako": {
       "word": "namako",
-      "sitelen_pona": "namako",
+      "sitelen_pona": "namako namako2",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_namako.jpg",
       "sitelen_emosi": "\ud83e\uddc2",
       "audio": {
@@ -7100,6 +7120,7 @@
     },
     "nele": {
       "word": "nele",
+      "sitelen_pona": "nele",
       "coined_year": "2021",
       "coined_era": "post-ku",
       "book": "none",
@@ -7183,7 +7204,7 @@
     },
     "ni": {
       "word": "ni",
-      "sitelen_pona": "ni",
+      "sitelen_pona": "ni ni2",
       "sitelen_pona_etymology": "an arrow",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_ni.jpg",
       "sitelen_emosi": "\ud83d\udc47",
@@ -7293,6 +7314,7 @@
     },
     "nimisin": {
       "word": "nimisin",
+      "sitelen_pona": "nimisin",
       "coined_year": "2020",
       "coined_era": "post-pu",
       "book": "none",
@@ -7405,6 +7427,7 @@
     },
     "nu": {
       "word": "nu",
+      "sitelen_pona": "nu",
       "coined_year": "2021",
       "coined_era": "post-pu",
       "book": "ku lili",
@@ -7494,6 +7517,7 @@
     },
     "ojuta": {
       "word": "ojuta",
+      "sitelen_pona": "ojuta",
       "coined_year": "2021",
       "coined_era": "post-pu",
       "book": "none",
@@ -7598,6 +7622,7 @@
     },
     "oki": {
       "word": "oki",
+      "sitelen_pona": "oki",
       "coined_year": "2020",
       "coined_era": "post-pu",
       "book": "none",
@@ -7673,7 +7698,7 @@
     },
     "olin": {
       "word": "olin",
-      "sitelen_pona": "olin olin1",
+      "sitelen_pona": "olin olin2",
       "sitelen_pona_etymology": "two heart symbols (\u2661), perhaps to distinguish from pilin",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_olin.jpg",
       "sitelen_emosi": "\ud83d\udc95",
@@ -7727,6 +7752,7 @@
     },
     "omekalike": {
       "word": "omekalike",
+      "sitelen_pona": "omekalike",
       "coined_year": "2021",
       "coined_era": "post-pu",
       "book": "none",
@@ -7975,6 +8001,7 @@
     },
     "owe": {
       "word": "owe",
+      "sitelen_pona": "owe",
       "coined_era": "post-pu",
       "book": "none",
       "usage_category": "obscure",
@@ -8444,6 +8471,7 @@
     },
     "peta": {
       "word": "peta",
+      "sitelen_pona": "peta",
       "sitelen_emosi": "\ud83d\udfe2",
       "coined_year": "2019",
       "coined_era": "post-pu",
@@ -8582,6 +8610,7 @@
     },
     "pika": {
       "word": "pika",
+      "sitelen_pona": "pika",
       "coined_year": "2021",
       "coined_era": "post-pu",
       "book": "none",
@@ -9192,6 +9221,7 @@
     },
     "poni": {
       "word": "poni",
+      "sitelen_pona": "poni",
       "coined_year": "2020",
       "coined_era": "post-pu",
       "book": "none",
@@ -9652,7 +9682,7 @@
     },
     "sewi": {
       "word": "sewi",
-      "sitelen_pona": "sewi sewi1",
+      "sitelen_pona": "sewi sewi2",
       "sitelen_pona_etymology": "from arabic \u0661\u0651\u0644\u0644\u064e\u0647\u200e \u201callah\u201d",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_sewi.jpg",
       "sitelen_emosi": "\u2b06\ufe0f",
@@ -9997,6 +10027,7 @@
     },
     "sipi": {
       "word": "sipi",
+      "sitelen_pona": "sipi",
       "coined_year": "2007",
       "coined_era": "pre-pu",
       "book": "none",
@@ -10311,6 +10342,7 @@
     },
     "su": {
       "word": "su",
+      "sitelen_pona": "su",
       "coined_year": "2021",
       "coined_era": "post-pu",
       "book": "ku lili",
@@ -10345,6 +10377,7 @@
     },
     "suke": {
       "word": "suke",
+      "sitelen_pona": "suke",
       "coined_year": "2021",
       "coined_era": "post-pu",
       "book": "ku lili",
@@ -10625,7 +10658,7 @@
     },
     "taki": {
       "word": "taki",
-      "sitelen_pona": "taki taki1",
+      "sitelen_pona": "taki taki2",
       "coined_year": "2020",
       "coined_era": "post-pu",
       "book": "ku lili",
@@ -11048,7 +11081,7 @@
     },
     "to": {
       "word": "to",
-      "sitelen_pona": "to",
+      "sitelen_pona": "to to2",
       "coined_year": "2020",
       "coined_era": "post-pu",
       "book": "ku lili",
@@ -11091,6 +11124,7 @@
     },
     "tokana": {
       "word": "tokana",
+      "sitelen_pona": "tokana",
       "coined_year": "2020",
       "coined_era": "post-pu",
       "book": "none",
@@ -11177,6 +11211,7 @@
     },
     "toma": {
       "word": "toma",
+      "sitelen_pona": "toma",
       "coined_year": "2021",
       "coined_era": "post-pu",
       "book": "ku lili",
@@ -11410,6 +11445,7 @@
     },
     "u": {
       "word": "u",
+      "sitelen_pona": "u",
       "coined_year": "2021",
       "coined_era": "post-pu",
       "book": "ku lili",
@@ -11610,7 +11646,7 @@
     },
     "uta": {
       "word": "uta",
-      "sitelen_pona": "uta uta1",
+      "sitelen_pona": "uta uta2",
       "sitelen_pona_etymology": "\u201cmouth\u201d with a dot below",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_uta.jpg",
       "sitelen_emosi": "\ud83d\udc44",
@@ -11947,6 +11983,7 @@
     },
     "wasoweli": {
       "word": "wasoweli",
+      "sitelen_pona": "wasoweli",
       "coined_year": "2020",
       "coined_era": "post-pu",
       "book": "ku lili",
@@ -12197,6 +12234,7 @@
     },
     "wi": {
       "word": "wi",
+      "sitelen_pona": "wi",
       "sitelen_emosi": "\ud83d\ude4b",
       "coined_year": "2017",
       "coined_era": "post-pu",
@@ -12235,7 +12273,7 @@
     },
     "wile": {
       "word": "wile",
-      "sitelen_pona": "wile wile1",
+      "sitelen_pona": "wile wile2",
       "sitelen_pona_etymology": "perhaps from Latin letter W",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_wile.jpg",
       "sitelen_emosi": "\ud83d\udcad",
@@ -12286,6 +12324,7 @@
     },
     "wuwojiti": {
       "word": "wuwojiti",
+      "sitelen_pona": "wuwojiti",
       "coined_year": "2018",
       "coined_era": "post-pu",
       "book": "none",
@@ -12349,6 +12388,7 @@
     },
     "yutu": {
       "word": "yutu",
+      "sitelen_pona": "yutu",
       "coined_year": "2021",
       "coined_era": "post-ku",
       "book": "none",
