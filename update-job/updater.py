@@ -4,7 +4,7 @@ import urllib.request
 import re
 import json
 import sys
-from git import Git
+from git import Git, Repo
 
 
 import os
@@ -57,5 +57,6 @@ if __name__ == "__main__":
 
     git = Git("..")
     git.add("-A")
+    print(Repo("..").is_dirty(untracked_files=True))
     git.commit("-m", "Updating repo")
     git.push(f"https://{GITHUB_TOKEN}@github.com/lipu-linku/jasima.git")
