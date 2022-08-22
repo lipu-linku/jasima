@@ -4,6 +4,7 @@ import urllib.request
 import re
 import json
 import sys
+from datetime import datetime as dt
 from git import Git, Repo
 
 
@@ -48,15 +49,20 @@ def build_dict_from_sheet(link):
     return data
 
 
+def commit_push(path):
+    git = Git(path)
+    git.add("-A")
+    if not Repo(path).is_dirty(untracked_files=True):
+        # Nothing to commit, up to date
+        return
+    git.commit("-m", f"Autosync for {dt.now().strftime('%Y-%m-%d')}")
+    git.push(f"https://{GITHUB_TOKEN}@github.com/lipu-linku/jasima.git")
+
+
 if __name__ == "__main__":
     with open("sheets.json") as file:
         sheets = json.load(file)
     bundle = {key: build_dict_from_sheet(value) for key, value in sheets.items()}
     with open("../data.json", 'w') as f:
         json.dump(bundle, f, indent=2)
-
-    git = Git("..")
-    git.add("-A")
-    print(Repo("..").is_dirty(untracked_files=True))
-    git.commit("-m", "Updating repo")
-    git.push(f"https://{GITHUB_TOKEN}@github.com/lipu-linku/jasima.git")
+    commit_push("..")
