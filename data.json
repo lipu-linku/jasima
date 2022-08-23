@@ -2754,6 +2754,9 @@
       "source_language": "Japanese",
       "etymology": "\u63fa\u308c\u308b yureru 'shake, vibrate, oscillate, waver'",
       "creator": "kulupu pi kon ilo",
+      "recognition": {
+        "2022-08": "1"
+      },
       "def": {
         "en": "vibrate, shake, wobble, tremble; swing, oscillate; wave, tide",
         "ru": "\u0432\u0438\u0431\u0440\u0438\u0440\u043e\u0432\u0430\u0442\u044c, \u0442\u0440\u044f\u0441\u0442\u0438\u0441\u044c, \u0434\u0440\u043e\u0436\u0430\u0442\u044c; \u043a\u0430\u0447\u0430\u0442\u044c\u0441\u044f, \u043a\u043e\u043b\u0435\u0431\u0430\u0442\u044c\u0441\u044f; \u0432\u043e\u043b\u043d\u0430, \u043f\u0440\u0438\u043b\u0438\u0432",
@@ -3021,6 +3024,7 @@
     "kamalawala": {
       "word": "kamalawala",
       "sitelen_pona": "kamalawala",
+      "sitelen_pona_etymology": "circle-A, an anarchy symbol",
       "sitelen_emosi": "\ud83d\udca3",
       "coined_year": "2018",
       "coined_era": "post-pu",
@@ -3498,6 +3502,7 @@
     "kijetesantakalu": {
       "word": "kijetesantakalu",
       "sitelen_pona": "kijetesantakalu",
+      "sitelen_pona_etymology": "a drawing of a raccoon with a tail",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_kijetesantakalu.jpg",
       "sitelen_emosi": "\ud83e\udd9d",
       "luka_pona": {
@@ -6768,6 +6773,7 @@
     "n": {
       "word": "n",
       "sitelen_pona": "n",
+      "sitelen_pona_etymology": "exclamation radical with the lowercase letter \u201cn\u201d",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_n.jpg",
       "audio": {
         "jan_lakuse": "http://antetokipona.infinityfreeapp.com/kalama/jlakuse/n.mp3"
@@ -7640,6 +7646,7 @@
     "oko": {
       "word": "oko",
       "sitelen_pona": "oko",
+      "sitelen_pona_etymology": "eye from a side",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_oko.jpg",
       "sitelen_emosi": "\ud83d\udc41\ufe0f",
       "luka_pona": {
@@ -8926,6 +8933,7 @@
     "po": {
       "word": "po",
       "sitelen_pona": "po",
+      "sitelen_pona_etymology": "Arabic numeral 4",
       "sitelen_emosi": "\ud83c\udf40",
       "coined_year": "2001",
       "coined_era": "pre-pu",
@@ -10140,6 +10148,7 @@
     "soko": {
       "word": "soko",
       "sitelen_pona": "soko",
+      "sitelen_pona_etymology": "mushroom",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_soko.jpg",
       "sitelen_emosi": "\ud83c\udf44",
       "audio": {
@@ -11074,7 +11083,7 @@
     },
     "to": {
       "word": "to",
-      "sitelen_pona": "to to2",
+      "sitelen_pona": "to",
       "coined_year": "2020",
       "coined_era": "post-pu",
       "book": "ku lili",
