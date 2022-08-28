@@ -12865,6 +12865,19 @@
       "style": "pixelated",
       "features": "-"
     },
+    "sitelen lili": {
+      "name_short": "sitelen lili",
+      "writing_system": "sitelen pona",
+      "links": {
+        "fontfile": "https://cdn.discordapp.com/attachments/340307145373253642/1013156104999534603/sitelen-lili.ttf"
+      },
+      "license": "all rights reserved",
+      "version": "1.000",
+      "last_updated": "2022-08",
+      "filename": "sitelen-lili.ttf",
+      "style": "uniform line weight, alternate design",
+      "features": "codepoints only, UCSUR-compliant, supports ku suli and rest of the UCSUR characters, cartouches, long pi"
+    },
     "sitelen palisa sewi": {
       "name_short": "sitelen palisa sewi",
       "writing_system": "alphabet",
