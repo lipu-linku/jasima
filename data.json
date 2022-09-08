@@ -382,8 +382,8 @@
       "name_toki_pona": "toki Posuka",
       "credits": "jan Alonola, jan Kita, Zy",
       "completeness_percent": {
-        "obscure": "96",
-        "rare": "98",
+        "obscure": "100",
+        "rare": "100",
         "uncommon": "100",
         "common": "100",
         "widespread": "100",
@@ -984,6 +984,7 @@
       "commentary": "Coined humorously as the \"final nimisin\" - any newer word would semantically be included in alente, so it can be refuted for being \"alente but even nicher\".",
       "def": {
         "en": "the set of every possible human concept subtracted from the set of concepts already covered by established toki pona words weighted by their relative usage",
+        "pl": "zbi\u00f3r wszystkich mo\u017cliwych ludzkich poj\u0119\u0107 minus zbi\u00f3r poj\u0119\u0107 ju\u017c obj\u0119tych przez przyj\u0119te s\u0142owa tokipo\u0144skie, wa\u017cony ich wzgl\u0119dnym wykorzystywaniem",
         "ru": "\u043c\u043d\u043e\u0436\u0435\u0441\u0442\u0432\u043e \u0432\u0441\u0435\u0445 \u0432\u043e\u0437\u043c\u043e\u0436\u043d\u044b\u0445 \u043f\u043e\u043d\u044f\u0442\u0438\u0439 \u043c\u0438\u043d\u0443\u0441 \u043c\u043d\u043e\u0436\u0435\u0441\u0442\u0432\u043e \u043f\u043e\u043d\u044f\u0442\u0438\u0439, \u0443\u0436\u0435 \u043f\u043e\u043a\u0440\u044b\u0442\u044b\u0445 \u0441\u0443\u0449\u0435\u0441\u0442\u0432\u0443\u044e\u0449\u0438\u043c\u0438 \u0441\u043b\u043e\u0432\u0430\u043c\u0438 \u0442\u043e\u043a\u0438 \u043f\u043e\u043d\u044b, \u0432\u0437\u0432\u0435\u0448\u0435\u043d\u043d\u044b\u0445 \u043f\u043e \u0438\u0445 \u043e\u0442\u043d\u043e\u0441\u0438\u0442\u0435\u043b\u044c\u043d\u043e\u0439 \u043f\u043e\u043f\u0443\u043b\u044f\u0440\u043d\u043e\u0441\u0442\u0438",
         "zh_hant": "\u6240\u6709\u4eba\u985e\u53ef\u4ee5\u8868\u9054\u7684\u6982\u5ff5\uff0c\u53bb\u9664\u5df2\u78ba\u7acb\u9053\u672c\u8a9e\u55ae\u8a5e\u6309\u76f8\u5c0d\u4f7f\u7528\u983b\u7387\u52a0\u91cd\u7684\u53ef\u4ee5\u8868\u9054\u7684\u6982\u5ff5",
         "zh_hans": "\u6240\u6709\u4eba\u7c7b\u53ef\u4ee5\u8868\u8fbe\u7684\u6982\u5ff5\uff0c\u53bb\u9664\u5df2\u786e\u7acb\u9053\u672c\u8bed\u5355\u8bcd\u6309\u76f8\u5bf9\u4f7f\u7528\u9891\u7387\u52a0\u91cd\u7684\u53ef\u4ee5\u8868\u8fbe\u7684\u6982\u5ff5",
@@ -2371,7 +2372,7 @@
       "commentary": "Often used for \"stim\".",
       "def": {
         "en": "yummy; eliciting or stimulating a positive sensory experience",
-        "pl": "smaczny",
+        "pl": "smaczny; wywo\u0142uj\u0105cy lub stymuluj\u0105cy pozytywne doznanie zmys\u0142owe",
         "ru": "\u0432\u043a\u0443\u0441\u043d\u044b\u0439; \u0441\u0442\u0438\u043c\u0443\u043b\u0438\u0440\u0443\u044e\u0449\u0438\u0439 \u043f\u043e\u043b\u043e\u0436\u0438\u0442\u0435\u043b\u044c\u043d\u043e\u0435 \u0441\u0435\u043d\u0441\u043e\u0440\u043d\u043e\u0435 \u043e\u0449\u0443\u0449\u0435\u043d\u0438\u0435",
         "eo": "bongusta; estiganta a\u016d stimulanta pozitivan sensan sperton",
         "de": "lecker, toll",
@@ -2544,7 +2545,7 @@
       "see_also": "a; wa",
       "def": {
         "en": "[interjection] (indicating excitement)",
-        "pl": "(oznacza podekscytowanie)",
+        "pl": "[wykrzyknik] (oznacza podekscytowanie)",
         "ru": "(\u0443\u043a\u0430\u0437\u044b\u0432\u0430\u0435\u0442 \u043d\u0430 \u0432\u043e\u043b\u043d\u0435\u043d\u0438\u0435, \u0432\u043e\u0437\u0431\u0443\u0436\u0434\u0435\u043d\u0438\u0435)",
         "eo": "(indikas entuziasmon)",
         "de": "(Aufregung, Begeisterung)",
@@ -2761,6 +2762,7 @@
       },
       "def": {
         "en": "vibrate, shake, wobble, tremble; swing, oscillate; wave, tide",
+        "pl": "wibrowa\u0107, trz\u0119\u015b\u0107 si\u0119, chwia\u0107 si\u0119, dr\u017ce\u0107; waha\u0107 si\u0119, oscylowa\u0107; fala",
         "ru": "\u0432\u0438\u0431\u0440\u0438\u0440\u043e\u0432\u0430\u0442\u044c, \u0442\u0440\u044f\u0441\u0442\u0438\u0441\u044c, \u0434\u0440\u043e\u0436\u0430\u0442\u044c; \u043a\u0430\u0447\u0430\u0442\u044c\u0441\u044f, \u043a\u043e\u043b\u0435\u0431\u0430\u0442\u044c\u0441\u044f; \u0432\u043e\u043b\u043d\u0430, \u043f\u0440\u0438\u043b\u0438\u0432",
         "zh_hant": "\u632f\u52d5\u3001\u9707\u52d5\u3001\u9707\u76ea\u3001\u6416\u6643\u3001\u986b\u6296\u3001\u986b\u52d5\uff1b\u6416\u64fa\u3001\u64fa\u52d5\uff1b\u6ce2\u3001\u6ce2\u6d6a\u3001\u6f6e\u6c50",
         "zh_hans": "\u632f\u52a8\u3001\u9707\u52a8\u3001\u9707\u8361\u3001\u6447\u6643\u3001\u98a4\u6296\u3001\u98a4\u52a8\uff1b\u6447\u6446\u3001\u6446\u52a8\uff1b\u6ce2\u3001\u6ce2\u6d6a\u3001\u6f6e\u6c50",
@@ -2967,6 +2969,7 @@
       },
       "def": {
         "en": "member of the order Caryophyllales, including all cacti as well as carnations, beets, and many carnivorous plants",
+        "pl": "cz\u0142onek rz\u0119du Caryphyllales, wliczaj\u0105c wszystkie kaktusy, a tak\u017ce go\u017adziki, buraki i wiele",
         "ru": "\u0440\u0430\u0441\u0442\u0435\u043d\u0438\u0435 \u043f\u043e\u0440\u044f\u0434\u043a\u0430 \u0413\u0432\u043e\u0437\u0434\u0438\u0447\u043d\u043e\u0446\u0432\u0435\u0442\u043d\u044b\u0445, \u0432\u043a\u043b\u044e\u0447\u0430\u044f \u0432\u0441\u0435 \u043a\u0430\u043a\u0442\u0443\u0441\u044b, \u0430 \u0442\u0430\u043a \u0436\u0435 \u0433\u0432\u043e\u0437\u0434\u0438\u043a\u0438, \u0441\u0432\u0451\u043a\u043b\u044b \u0438 \u043c\u043d\u043e\u0433\u0438\u0435 \u043f\u043b\u043e\u0442\u043e\u044f\u0434\u043d\u044b\u0435 \u0440\u0430\u0441\u0442\u0435\u043d\u0438\u044f",
         "zh_hant": "\u77f3\u7af9\u76ee\u690d\u7269\uff0c\u5305\u62ec\u6240\u6709\u4ed9\u4eba\u638c\u4ee5\u53ca\u5eb7\u4e43\u99a8\u3001\u751c\u83dc\u548c\u8a31\u591a\u98df\u8089\u690d\u7269",
         "zh_hans": "\u77f3\u7af9\u76ee\u690d\u7269\uff0c\u5305\u62ec\u6240\u6709\u4ed9\u4eba\u638c\u4ee5\u53ca\u5eb7\u4e43\u99a8\u3001\u751c\u83dc\u548c\u8bb8\u591a\u98df\u8089\u690d\u7269",
@@ -3132,7 +3135,7 @@
       "see_also": "nena",
       "def": {
         "en": "extrusion, protrusion, hill, mountain, button",
-        "pl": "g\u00f3ra, wzg\u00f3rze, guzik, wybrzuszenie, wzniesienie, wypuk\u0142o\u015b\u0107 [alternatywna forma s\u0142owa nena]",
+        "pl": "g\u00f3ra, wzg\u00f3rze, guzik, wybrzuszenie, wzniesienie, wypuk\u0142o\u015b\u0107",
         "ru": "\u0432\u044b\u0441\u0442\u0443\u043f, \u0445\u043e\u043b\u043c, \u0433\u043e\u0440\u0430, \u043a\u043d\u043e\u043f\u043a\u0430, \u043f\u0443\u0433\u043e\u0432\u0438\u0446\u0430",
         "eo": "elstara malebena\u0135o, elstara\u0135o, monteto, monto, butono",
         "de": "Berg, H\u00fcgel, Knopf, Beule, Erh\u00f6hung [Alternativform von nena]",
@@ -3421,6 +3424,7 @@
       "commentary": "coined as a shortened kepeken by jan Tomen in 2017, but really started being used in 2020",
       "def": {
         "en": "(shortened variant of kepeken)",
+        "pl": "(skr\u00f3cona wersja kepeken)",
         "ru": "(\u0443\u043a\u043e\u0440\u043e\u0447\u0435\u043d\u043d\u044b\u0439 \u0432\u0430\u0440\u0438\u0430\u043d\u0442 kepeken)",
         "zh_hant": "\uff08kepeken \u7684\u7e2e\u5beb\uff09",
         "zh_hans": "\uff08kepeken \u7684\u7f29\u5199\uff09",
@@ -3534,7 +3538,7 @@
       "commentary": "Coined as an April Fools joke in 2009.",
       "def": {
         "en": "any animal from the Procyonidae family, such as raccoons, coatis, kinkajous, olingos, ringtails and cacomistles | ALT any animal from the Musteloidea superfamily, including raccoons, weasels, otters, skunks, and red pandas",
-        "pl": "zwierz\u0119 z rodziny szopowatych, na przyk\u0142ad: szop pracz, ostronos, kinka\u017cu, olingo lub kotofretka.",
+        "pl": "zwierz\u0119 z rodziny szopowatych, na przyk\u0142ad: szop pracz, ostronos, kinka\u017cu, olingo lub kotofretka | ALT zwierz\u0119 z parvordo \u0142asicokszta\u0142tnych, w tym szop pracz, \u0142asica, wydra, skunk i czerwona panda",
         "ru": "\u043b\u044e\u0431\u043e\u0435 \u0436\u0438\u0432\u043e\u0442\u043d\u043e\u0435 \u0438\u0437 \u0441\u0435\u043c\u0435\u0439\u0441\u0442\u0432\u0430 \u0435\u043d\u043e\u0442\u043e\u0432\u044b\u0445, \u0442\u0430\u043a\u0438\u0435 \u043a\u0430\u043a \u0435\u043d\u043e\u0442\u044b, \u043e\u043b\u0438\u043d\u0433\u043e, \u043a\u0430\u043a\u043e\u043c\u0438\u0442\u0446\u043b\u0438, \u043d\u043e\u0441\u0443\u0445\u0438, \u043a\u0438\u043d\u043a\u0430\u0436\u0443",
         "eo": "iu ajn besto en la familio de procionedoj, kiel lavursoj, koatioj, kinkajuoj, basaricionoj, basariskoj kaj kakomistloj",
         "de": "Tiere der Familie der Kleinb\u00e4ren, u.a. Waschb\u00e4ren, Nasenb\u00e4ren, Wickelb\u00e4ren, Makib\u00e4ren, Katzenfrette",
@@ -3690,7 +3694,7 @@
       "commentary": "In common usage (both before and after pu), \"a\" and \"kin\" are separate words, each with their own meaning. In pu, they are considered synonyms. Underwent significant changes in usage in 2002, alongside \"en\" and (now obsolete) \"kan\".",
       "def": {
         "en": "{see a} | ALT indeed, too, also, as well",
-        "pl": "w rzeczy samej; tak\u017ce, r\u00f3wnie\u017c; nawet",
+        "pl": "{patrz a} | ALT w rzeczy samej; tak\u017ce, r\u00f3wnie\u017c; nawet",
         "ru": "{\u0441\u043c. a} | ALT \u0434\u0435\u0439\u0441\u0442\u0432\u0438\u0442\u0435\u043b\u044c\u043d\u043e, \u0442\u043e\u0436\u0435, \u0442\u0430\u043a\u0436\u0435, \u043a\u0440\u043e\u043c\u0435 \u0442\u043e\u0433\u043e",
         "eo": "{vidu a} | ALT ja, anka\u016d, certe",
         "de": "jawohl, in der Tat; auch, ebenfalls, au\u00dferdem; sogar",
@@ -4225,7 +4229,7 @@
       "see_also": "oke",
       "def": {
         "en": "[interjection] casual expression of appreciation or acknowledgement; cool, fine, okay",
-        "pl": "fajowo, git",
+        "pl": "[interjection] nieformalne wyra\u017cenie uznania lub potwierdzenia; fajowo, git, okej",
         "ru": "[\u043c\u0435\u0436\u0434\u043e\u043c\u0435\u0442\u0438\u0435] \u043f\u043e\u0432\u0441\u0435\u0434\u043d\u0435\u0432\u043d\u043e\u0435 \u0432\u044b\u0440\u0430\u0436\u0435\u043d\u0438\u0435 \u043f\u043e\u0434\u0442\u0432\u0435\u0440\u0436\u0434\u0435\u043d\u0438\u044f \u0438\u043b\u0438 \u043f\u0440\u0438\u0437\u043d\u0430\u0442\u0435\u043b\u044c\u043d\u043e\u0441\u0442\u0438; \u043a\u0440\u0443\u0442\u043e, \u043e\u043a\u0435\u0439, \u0445\u043e\u0440\u043e\u0448\u043e",
         "eo": "[interjekcio] malformala esprimo de aprezo a\u016d agnosko; bone, en ordo, o kej",
         "de": "cool, knorke, k\u00fchl",
@@ -5514,7 +5518,7 @@
       "tags": "pre-pu ALT",
       "def": {
         "en": "arm, hand, tactile organ; five | ALT touch/feel physically, interact, press",
-        "pl": "r\u0119ka, d\u0142o\u0144, organ dotykowy; pi\u0119\u0107 | ALT dotkn\u0105\u0107/czu\u0107 fizycznie, wej\u015b\u0107 w interakcj\u0119 z(?), nacisn\u0105\u0107",
+        "pl": "r\u0119ka, d\u0142o\u0144, organ dotykowy; pi\u0119\u0107 | ALT dotkn\u0105\u0107/czu\u0107 fizycznie, oddzia\u0142ywa\u0107, nacisn\u0105\u0107",
         "ru": "\u0440\u0443\u043a\u0430, \u043a\u0438\u0441\u0442\u044c, \u0442\u0430\u043a\u0442\u0438\u043b\u044c\u043d\u044b\u0439 \u043e\u0440\u0433\u0430\u043d; \u043f\u044f\u0442\u044c | ALT \u043a\u043e\u0441\u043d\u0443\u0442\u044c\u0441\u044f / \u043f\u043e\u0447\u0443\u0432\u0441\u0442\u0432\u043e\u0432\u0430\u0442\u044c \u0444\u0438\u0437\u0438\u0447\u0435\u0441\u043a\u0438, \u0432\u0437\u0430\u0438\u043c\u043e\u0434\u0435\u0439\u0441\u0442\u0432\u043e\u0432\u0430\u0442\u044c, \u043d\u0430\u0436\u0430\u0442\u044c",
         "isv_l": "ruka, dlanj, taktilny organ; pet | ALT dotknuti / fizi\u010dno \u010duti, vzajemod\u011bjati, natisknuti",
         "isv_c": "\u0440\u0443\u043a\u0430, \u0434\u043b\u0430\u045a, \u0442\u0430\u043a\u0442\u0438\u043b\u043d\u044b \u043e\u0440\u0433\u0430\u043d; \u043f\u0435\u0442 | ALT \u0434\u043e\u0442\u043a\u043d\u0443\u0442\u0438 / \u0444\u0438\u0437\u0438\u0447\u043d\u043e \u0447\u0443\u0442\u0438, \u0432\u0437\u0430\u0458\u0435\u043c\u043e\u0434\u0454\u0458\u0430\u0442\u0438, \u043d\u0430\u0442\u0438\u0441\u043a\u043d\u0443\u0442\u0438",
@@ -6833,6 +6837,7 @@
       "see_also": "loje, jelo",
       "def": {
         "en": "orange (colour)",
+        "pl": "pomara\u0144czowy",
         "ru": "\u043e\u0440\u0430\u043d\u0436\u0435\u0432\u044b\u0439",
         "zh_hant": "\u6a59\u8272",
         "zh_hans": "\u6a59\u8272",
@@ -6867,7 +6872,7 @@
       "commentary": "In common usage (both before and after pu), \"sin\" and \"namako\" are separate words, each with their own meaning. In pu, they are considered synonyms. Those who consider them synonyms typically don't use \"namako\" at all, preferring \"sin\" in all circumstances.",
       "def": {
         "en": "{see sin} | ALT embellishment, spice; extra, additional",
-        "pl": "dodatek, przyprawa; dodatkowy",
+        "pl": "{patrz sin} | ALT dodatek, przyprawa; dodatkowy",
         "ru": "{\u0441\u043c. sin} | ALT \u0443\u043a\u0440\u0430\u0448\u0435\u043d\u0438\u044f, \u0441\u043f\u0435\u0446\u0438\u0438; \u0434\u043e\u043f\u043e\u043b\u043d\u0438\u0442\u0435\u043b\u044c\u043d\u044b\u0439, \u0434\u043e\u0431\u0430\u0432\u043e\u0447\u043d\u044b\u0439",
         "eo": "salo, spico, vinagro; akcesora\u0135o; kroma\u0135o; sali, spici; ornami, plibeligi; stimuli, eksciti",
         "de": "Ausschm\u00fcckung, Gew\u00fcrz; extra, zus\u00e4tzlich; hinzuf\u00fcgen",
@@ -7338,6 +7343,7 @@
       "commentary": "Mostly used in conversations in English. Likely was popularised by the :nimisin: emote in ma pona, which was originally used to notify Atawan (maintainer of \"nimi ale\") about newly coined words. In common speech, the meaning got extended to include most or all non-pu words, regardless if they were coined recently or not.",
       "def": {
         "en": "any non-pu word; any new word; any joke word",
+        "pl": "jakiekolwiek s\u0142owo spoza pu; nowe s\u0142owo; s\u0142owo \u017cartobliwe",
         "ru": "\u043b\u044e\u0431\u043e\u0435 \u0441\u043b\u043e\u0432\u043e, \u043a\u043e\u0442\u043e\u0440\u043e\u0433\u043e \u043d\u0435\u0442 \u0432 pu; \u043b\u044e\u0431\u043e\u0435 \u043d\u043e\u0432\u043e\u0435 \u0441\u043b\u043e\u0432\u043e; \u043b\u044e\u0431\u043e\u0435 \u0448\u0443\u0442\u043e\u0447\u043d\u043e\u0435 \u0441\u043b\u043e\u0432\u043e",
         "zh_hant": "\u4efb\u4f55\u975e pu \u55ae\u8a5e\uff1b\u4efb\u4f55\u65b0\u8a5e\uff1b\u4efb\u4f55\u73a9\u7b11\u55ae\u8a5e",
         "zh_hans": "\u4efb\u4f55\u975e pu \u5355\u8bcd\uff1b\u4efb\u4f55\u65b0\u8bcd\uff1b\u4efb\u4f55\u73a9\u7b11\u5355\u8bcd",
@@ -7540,6 +7546,7 @@
       },
       "def": {
         "en": "toki pona adaptation of English meme \"ligma\"",
+        "pl": "tokipo\u0144ska adaptacja angielskiego memu \"ligma\"",
         "ru": "\u0430\u0434\u0430\u043f\u0442\u0430\u0446\u0438\u044f \u0430\u043d\u0433\u043b\u0438\u0439\u0441\u043a\u043e\u0433\u043e \u043c\u0435\u043c\u0430 \"ligma\" \u0432 \u0442\u043e\u043a\u0438 \u043f\u043e\u043d\u0443",
         "zh_hant": "\u82f1\u8a9e\u6897\"ligma\"\u7684\u9053\u672c\u8a9e\u7248\u672c",
         "zh_hans": "\u82f1\u8bed\u6897\"ligma\"\u7684\u9053\u672c\u8bed\u7248\u672c",
@@ -7647,6 +7654,7 @@
       "commentary": "Though it may have many possible origins, it was first coined in a small group chat. It is mostly used as a variant of the toki pona words \"oke\" and \"ke\"",
       "def": {
         "en": "(acknowledgement or acceptance)",
+        "pl": "(zrozumienie lub zgoda)",
         "ru": "(\u043f\u043e\u0434\u0442\u0432\u0435\u0440\u0436\u0434\u0435\u043d\u0438\u0435 \u0438\u043b\u0438 \u043f\u0440\u0438\u043d\u044f\u0442\u0438\u0435)",
         "zh_hant": "\uff08\u77e5\u6089\u6216\u540c\u610f\uff09",
         "zh_hans": "\uff08\u77e5\u6089\u6216\u540c\u610f\uff09",
@@ -7686,7 +7694,7 @@
       "commentary": "In common usage (both before and after pu), \"lukin\" and \"oko\" are separate words, each with their own meaning. In pu, they are considered synonyms. Those who consider them synonyms typically don't use \"oko\" at all, preferring \"lukin\" in all circumstances.",
       "def": {
         "en": "{see lukin} | ALT eye, ocular, visual {cf. lukin}",
-        "pl": "oko, oczny",
+        "pl": "{patrz lukin} | ALT oko, oczny, wzrokowy {por\u00f3wnaj lukin}",
         "ru": "{\u0441\u043c. lukin} | ALT \u0433\u043b\u0430\u0437, \u0433\u043b\u0430\u0437\u043d\u043e\u0439, \u0437\u0440\u0438\u0442\u0435\u043b\u044c\u043d\u044b\u0439 {\u0441\u0440. lukin}",
         "eo": "{vidu lukin} | ALT okulo, okula, vida {kp. lukin}",
         "de": "Auge, Okular",
@@ -7777,6 +7785,7 @@
       },
       "def": {
         "en": "(proper name) a song by jan Usawi",
+        "pl": "(nazwa w\u0142asna) piosenka od jan Usawi",
         "ru": "(\u0438\u043c\u044f \u0441\u043e\u0431\u0441\u0442\u0432\u0435\u043d\u043d\u043e\u0435) \u043d\u0430\u0437\u0432\u0430\u043d\u0438\u0435 \u043f\u0435\u0441\u043d\u0438 \u043e\u0442 jan Usawi",
         "zh_hant": "\uff08\u5c08\u6709\u540d\u8a5e\uff09jan Usawi \u7684\u4e00\u9996\u6b4c\u66f2",
         "zh_hans": "\uff08\u4e13\u6709\u540d\u8bcd\uff09jan Usawi \u7684\u4e00\u9996\u6b4c\u66f2",
@@ -8060,7 +8069,7 @@
       },
       "def": {
         "en": "[interjection] bruh; expression of disbelief, exasperation, or excitement",
-        "pl": "bruh, \u201ego\u015bciu...\u201d, \u201e\u017ce co prosz\u0119?\u201d",
+        "pl": "[wykrzyknik] bruh, \u201ego\u015bciu...\u201d, \u201e\u017ce co prosz\u0119?\u201d",
         "ru": "[\u043c\u0435\u0436\u0434\u043e\u043c\u0435\u0442\u0438\u0435] bruh; \u0432\u044b\u0440\u0430\u0436\u0435\u043d\u0438\u0435 \u043d\u0435\u0432\u0435\u0440\u0438\u044f, \u0440\u0430\u0437\u0434\u0440\u0430\u0436\u0435\u043d\u0438\u044f \u0438\u043b\u0438 \u0432\u043e\u043b\u043d\u0435\u043d\u0438\u044f",
         "eo": "[interjekcio] angla bruh; esprimas senton de nekredebleco, \u0109agrenon, a\u016d entuziasmon",
         "de": "bruh, \"ernsthaft?\", \"Oh Mann...\"",
@@ -11333,7 +11342,7 @@
       "commentary": "Widely regarded in the community to be a crucial addition to toki pona. Occasionally referred to as an \"honorary pu word\" to highlight its status, or equated to a pu word outright.",
       "def": {
         "en": "non-binary, gender-non-conforming | ALT trans, non-cisgender",
-        "pl": "niebinarny, p\u0142ciowo nonkonformuj\u0105cy (?) | ALT trans, nie cis",
+        "pl": "niebinarny, nonkonformuj\u0105cy p\u0142ciowo | ALT trans, nie cis",
         "ru": "\u043d\u0435\u0431\u0438\u043d\u0430\u0440\u043d\u044b\u0439, \u0433\u0435\u043d\u0434\u0435\u0440\u043d\u043e-\u043d\u0435\u043a\u043e\u043d\u0444\u043e\u0440\u043c\u043d\u044b\u0439 | ALT \u0442\u0440\u0430\u043d\u0441\u0433\u0435\u043d\u0434\u0435\u0440\u043d\u044b\u0439, \u043d\u0435\u0446\u0438\u0441\u0433\u0435\u043d\u0434\u0435\u0440\u044b\u0439",
         "eo": "neduuma, genre nekonforma | ALT transseksa, transgenra, necisseksa",
         "de": "divers (Geschlechter)",
@@ -12350,6 +12359,7 @@
       "commentary": "May be seen not as a word in toki pona, but as a kind of memorisation tool in English to refer to the \"banned\" syllables.",
       "def": {
         "en": "to use one or more of the \"banned\" syllables wu, wo, ji, or ti; to break toki pona phonotactics",
+        "pl": "u\u017cywa\u0107 jednej lub wi\u0119cej z \"zabronionych sylab\" wu, wo, ji oraz ti; \u0142ama\u0107 zasady fonotaktyczne toki pony",
         "ru": "\u0438\u0441\u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u044c \u043e\u0434\u0438\u043d \u0438\u043b\u0438 \u0431\u043e\u043b\u0435\u0435 \u0438\u0437 \"\u0437\u0430\u043f\u0440\u0435\u0449\u0451\u043d\u043d\u044b\u0445\" \u0441\u043b\u043e\u0433\u043e\u0432 wu, wo, ji \u0438\u043b\u0438 ti; \u043d\u0430\u0440\u0443\u0448\u0430\u0442\u044c \u0444\u043e\u043d\u043e\u0442\u0430\u043a\u0442\u0438\u043a\u0443 \u0442\u043e\u043a\u0438 \u043f\u043e\u043d\u044b",
         "zh_hant": "\u4f7f\u7528\u4e00\u500b\u6216\u4ee5\u4e0a\u300c\u7981\u7528\u300d\u97f3\u7bc0 wu\u3001wo\u3001ji \u6216 ti\uff1b\u7834\u58de\u9053\u672c\u8a9e\u7684\u8a9e\u97f3\u7d44\u5408\u6cd5",
         "zh_hans": "\u4f7f\u7528\u4e00\u4e2a\u6216\u4ee5\u4e0a\u201c\u7981\u7528\u201d\u97f3\u8282 wu\u3001wo\u3001ji \u6216 ti\uff1b\u7834\u574f\u9053\u672c\u8bed\u7684\u8bed\u97f3\u7ec4\u5408\u6cd5",
@@ -12458,11 +12468,11 @@
       },
       "creator": "jan Lepeka",
       "license": "OFL",
-      "version": "2022.07.10",
-      "last_updated": "2022-07",
+      "version": "2022.09.04",
+      "last_updated": "2022-09",
       "filename": "fairfax.ttf",
       "style": "pixelated",
-      "features": "codepoints only, UCSUR-compliant, supports combining extension characters only (NO OpenType features), supports all ku lili and extensively more"
+      "features": "codepoints only, UCSUR-compliant, supports cartouches, extended glyphs, combined glyphs, ZWJ sequences, character variants, randomized jaki, supports all ku lili and extensively more"
     },
     "Fairfax HD": {
       "name_short": "FairfaxHD",
@@ -12474,11 +12484,27 @@
       },
       "creator": "jan Lepeka",
       "license": "OFL",
-      "version": "2022.07.10",
-      "last_updated": "2022-07",
+      "version": "2022.09.04",
+      "last_updated": "2022-09",
       "filename": "fairfax-hd.ttf",
       "style": "uniform line weight",
       "features": "codepoints only, UCSUR-compliant, supports cartouches, extended glyphs, combined glyphs, ZWJ sequences, character variants, randomized jaki, supports all ku lili and extensively more"
+    },
+    "Fairfax Pona": {
+      "name_short": "FairfaxPona",
+      "writing_system": "sitelen pona",
+      "links": {
+        "fontfile": "https://github.com/kreativekorp/open-relay/raw/master/Fairfax/FairfaxPona.ttf",
+        "repo": "https://github.com/kreativekorp/open-relay/tree/master/Fairfax",
+        "webpage": "https://www.kreativekorp.com/software/fonts/fairfaxpona/"
+      },
+      "creator": "jan Lepeka",
+      "license": "OFL",
+      "version": "2022.09.04",
+      "last_updated": "2022-09",
+      "filename": "fairfax-pona.ttf",
+      "style": "pixelated",
+      "features": "ASCII transcription and codepoints, UCSUR-compliant, supports cartouches, extended glyphs, combined glyphs, ZWJ sequences, character variants, randomized jaki, supports all ku lili and extensively more"
     },
     "Fairfax Pona HD": {
       "name_short": "FairfaxPonaHD",
@@ -12490,8 +12516,8 @@
       },
       "creator": "jan Lepeka",
       "license": "OFL",
-      "version": "2022.07.10",
-      "last_updated": "2022-07",
+      "version": "2022.09.04",
+      "last_updated": "2022-09",
       "filename": "fairfax-pona-hd.ttf",
       "style": "uniform line weight",
       "features": "ASCII transcription and codepoints, UCSUR-compliant, supports cartouches, extended glyphs, combined glyphs, ZWJ sequences, character variants, randomized jaki, supports all ku lili and extensively more"
@@ -13000,12 +13026,12 @@
       "links": {
         "fontfile": "https://github.com/kreativekorp/sitelen-seli-kiwen/raw/main/sitelenselikiwenasuki.ttf",
         "repo": "https://github.com/kreativekorp/sitelen-seli-kiwen",
-        "webpage": "http://www.kreativekorp.com/software/fonts/sitelenselikiwen/"
+        "webpage": "https://www.kreativekorp.com/software/fonts/sitelenselikiwen/"
       },
       "creator": "jan Lepeka",
       "license": "OFL",
-      "version": "1.0",
-      "last_updated": "2022-07",
+      "version": "1.1",
+      "last_updated": "2022-09",
       "filename": "sitelenselikiwenasuki.ttf",
       "style": "handwritten",
       "features": "ASCII transcription and codepoints, UCSUR-compliant, supports cartouches, extended glyphs, combined glyphs, ZWJ sequences, character variants, randomized jaki, supports all ku lili and extensively more"
@@ -13016,12 +13042,12 @@
       "links": {
         "fontfile": "https://github.com/kreativekorp/sitelen-seli-kiwen/raw/main/sitelenselikiwenjuniko.ttf",
         "repo": "https://github.com/kreativekorp/sitelen-seli-kiwen",
-        "webpage": "http://www.kreativekorp.com/software/fonts/sitelenselikiwen/"
+        "webpage": "https://www.kreativekorp.com/software/fonts/sitelenselikiwen/"
       },
       "creator": "jan Lepeka",
       "license": "OFL",
-      "version": "1.0",
-      "last_updated": "2022-07",
+      "version": "1.1",
+      "last_updated": "2022-09",
       "filename": "sitelenselikiwenjuniko.ttf",
       "style": "handwritten",
       "features": "codepoints only, UCSUR-compliant, supports cartouches, extended glyphs, combined glyphs, ZWJ sequences, character variants, randomized jaki, supports all ku lili and extensively more"
