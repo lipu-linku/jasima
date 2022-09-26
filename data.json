@@ -12535,7 +12535,7 @@
       "version": "0.6",
       "last_updated": "2022-02",
       "filename": "supa-lape.otf",
-      "style": "pixelated",
+      "style": "uniform line weight, pixelated",
       "features": "supports cartouches and extended pi, UCSUR-compliant"
     },
     "leko lili 15x15": {
@@ -12553,15 +12553,6 @@
       "style": "pixelated",
       "features": "all ku suli, UCSUR-compliant"
     },
-    "lili pona": {
-      "name_short": "lili pona",
-      "writing_system": "sitelen pona",
-      "links": {
-        "fontfile": "https://cdn.discordapp.com/attachments/340307145373253642/631627365004607498/lili_pona4Medium.ttf"
-      },
-      "last_updated": "2022-07",
-      "style": "pixelated"
-    },
     "linja ante": {
       "name_short": "linja ante",
       "writing_system": "sitelen pona",
@@ -12575,6 +12566,36 @@
       "last_updated": "2021-01",
       "filename": "linja-ante.ttf",
       "style": "serif",
+      "features": "-"
+    },
+    "linja lape suwi": {
+      "name_short": "sitelen lape",
+      "writing_system": "alphabet",
+      "links": {
+        "fontfile": "https://greenguy5294.github.io/linjalapesuwi/linjalapesuwi.otf",
+        "repo": "https://github.com/greenguy5294/linjalapesuwi/",
+        "webpage": "https://greenguy5294.github.io/linjalapesuwi/"
+      },
+      "creator": "jan Ali, jan Sa",
+      "license": "all rights reserved",
+      "version": "1.000",
+      "last_updated": "2022-09",
+      "filename": "linjalapesuwi.otf",
+      "style": "uniform line weight",
+      "features": "-"
+    },
+    "linja leko / lili pona": {
+      "name_short": "linja leko",
+      "writing_system": "sitelen pona",
+      "links": {
+        "fontfile": "https://github.com/pguimier/pali-sitelen/raw/master/plugins/linjaleko/linja_leko.ttf",
+        "repo": "https://github.com/pguimier/pali-sitelen/tree/master/plugins/linjaleko"
+      },
+      "creator": "Jervik Hsien Serrano",
+      "license": "CC BY 4.0",
+      "last_updated": "2022-09",
+      "filename": "linja_leko.ttf",
+      "style": "pixelated",
       "features": "-"
     },
     "linja leko pi luka tu": {
@@ -12605,6 +12626,52 @@
       "filename": "linja-luka.otf",
       "style": "handwritten",
       "features": "supports all ku suli and some others"
+    },
+    "linja pi kama wan": {
+      "name_short": "linja pi kama wan",
+      "writing_system": "alphabet",
+      "links": {
+        "fontfile": "https://github.com/pguimier/pali-sitelen/raw/master/plugins/linjapikamawan/linja-pi-kama-wan.ttf",
+        "repo": "https://github.com/pguimier/pali-sitelen/tree/master/plugins/linjapikamawan"
+      },
+      "creator": "increpare / jan Inkepa",
+      "license": "OFL",
+      "version": "1.0",
+      "last_updated": "2022-09",
+      "filename": "linja-pi-kama-wan.ttf",
+      "style": "pixelated",
+      "features": "-"
+    },
+    "linja pi kute mute": {
+      "name_short": "linja pi kute mute",
+      "writing_system": "alphabet",
+      "links": {
+        "fontfile": "https://cdn.discordapp.com/attachments/316066233755631616/1023623906860478494/linja-pi-kute-mute.otf",
+        "repo": "https://github.com/increpare/linja_pi_kute_mute",
+        "webpage": "https://fontstruct.com/fontstructions/show/1678777/linja-pi-kute-mute"
+      },
+      "creator": "increpare / jan Inkepa",
+      "license": "CC BY-NC-SA 3.0",
+      "version": "1.0",
+      "last_updated": "2022-09",
+      "filename": "linja-pi-kute-mute.otf",
+      "style": "pixelated",
+      "features": "-"
+    },
+    "linja pi kute mute tu": {
+      "name_short": "linja pi kute mute tu",
+      "writing_system": "alphabet",
+      "links": {
+        "fontfile": "https://cdn.discordapp.com/attachments/316066233755631616/1023629608224039023/linja-pi-kute-mute-tu.ttf",
+        "repo": "https://github.com/increpare/linja_pi_kute_mute"
+      },
+      "creator": "increpare / jan Inkepa",
+      "license": "CC BY-NC-SA 3.0",
+      "version": "1.0",
+      "last_updated": "2022-09",
+      "filename": "linja-pi-kute-mute-tu.ttf",
+      "style": "uniform line weight, pixelated",
+      "features": "-"
     },
     "linja pi pu lukin": {
       "name_short": "linja pi pu lukin",
@@ -12699,6 +12766,21 @@
       "filename": "linja-sike.otf",
       "style": "uniform line weight",
       "features": "supports cartouches, combined glyphs, most or all nimi ku lili, extended pi and more extended lines, diacritic glyphs, ligature combination of glyphs"
+    },
+    "linja sike pi kute mute": {
+      "name_short": "linja sike pi kute mute",
+      "writing_system": "alphabet",
+      "links": {
+        "fontfile": "https://cdn.discordapp.com/attachments/316066233755631616/1023629607917867048/linjasikepikutemute-Regular.ttf",
+        "repo": "https://github.com/increpare/linja_pi_kute_mute"
+      },
+      "creator": "increpare / jan Inkepa",
+      "license": "all rights reserved",
+      "version": "3.001",
+      "last_updated": "2022-09",
+      "filename": "linjasikepikutemute-Regular.ttf",
+      "style": "uniform line weight",
+      "features": "-"
     },
     "linja suwi": {
       "name_short": "linja suwi",
@@ -12917,6 +12999,20 @@
       "style": "pixelated",
       "features": "-"
     },
+    "sitelen pi linja ko": {
+      "name_short": "sitelen pi linja ko",
+      "writing_system": "sitelen pona",
+      "links": {
+        "fontfile": "https://lp.plop.me/fonts/sitelen_pi_linja_ko.ttf",
+        "repo": "https://web.archive.org/web/20201015070330/https://github.com/increpare/pixel-fonts-for-sitelen-pona"
+      },
+      "creator": "increpare / jan Inkepa",
+      "license": "CC0",
+      "last_updated": "2022-09",
+      "filename": "sitelen_pi_linja_ko.ttf",
+      "style": "pixelated",
+      "features": "-"
+    },
     "sitelen poka / sitelen luka tu tu": {
       "name_short": "sitelen luka tu tu",
       "writing_system": "sitelen pona",
@@ -13112,6 +13208,18 @@
       "style": "pixelated",
       "features": "-"
     },
+    "sitelenlili": {
+      "name_short": "sitelenlili",
+      "writing_system": "alphabet",
+      "links": {
+        "fontfile": "https://lp.plop.me/fonts/sitelenlili.ttf"
+      },
+      "version": "1.0",
+      "last_updated": "2022-09",
+      "filename": "sitelenlili.ttf",
+      "style": "uniform line weight",
+      "features": "-"
+    },
     "Toki Pona Bubble": {
       "name_short": "Toki Pona Bubble",
       "writing_system": "sitelen pona",
@@ -13148,6 +13256,21 @@
       },
       "last_updated": "2022-07",
       "style": "pixelated"
+    },
+    "TokiTengwar": {
+      "name_short": "toki tengwar",
+      "writing_system": "alphabet",
+      "links": {
+        "fontfile": "https://cdn.discordapp.com/attachments/316066233755631616/1023632212018614363/TokiTengwar.ttf",
+        "webpage": "https://web.archive.org/web/20200126172548/http://tokipona.net/tp/janpije/tengwar.php"
+      },
+      "creator": "jan Pije",
+      "license": "all rights reserved",
+      "version": "1.0",
+      "last_updated": "2022-09",
+      "filename": "TokiTengwar.ttf",
+      "style": "serif",
+      "features": "-"
     },
     "Unifont CSUR": {
       "name_short": "Unifont CSUR",
