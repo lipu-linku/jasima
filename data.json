@@ -630,7 +630,7 @@
       "book": "pu",
       "usage_category": "core",
       "source_language": "onomatopoeia",
-      "etymology": "\u00d8",
+      "etymology": "\u2205",
       "creator": "jan Sonja",
       "ku_data": "ah\u2075, oh\u2075, ha\u2075, ooh\u2074, uh\u2074, gosh\u2074, whoa\u2074, wow\u2074, um\u00b3, huh\u00b3, uh-huh\u00b2, quite\u00b2, gasp\u00b2, really\u00b2, mm-hmm\u00b2, hmm\u00b2, sigh\u00b2",
       "recognition": {
@@ -1417,7 +1417,7 @@
       "book": "pu",
       "usage_category": "core",
       "source_language": "a priori",
-      "etymology": "\u00d8",
+      "etymology": "\u2205",
       "creator": "jan Sonja",
       "recognition": {
         "2022-08": "100"
@@ -2726,7 +2726,7 @@
       "book": "ku lili",
       "usage_category": "obscure",
       "source_language": "a priori",
-      "etymology": "\u00d8",
+      "etymology": "\u2205",
       "creator": "jan Sonja",
       "recognition": {
         "2021-10": "28",
@@ -3584,7 +3584,7 @@
       "book": "ku lili",
       "usage_category": "uncommon",
       "source_language": "a priori",
-      "etymology": "\u00d8",
+      "etymology": "\u2205",
       "creator": "jan Olipija, akesi kon Nalasuni",
       "ku_data": "spiky\u00b2, sharp\u00b9, angle\u2070, point\u2070",
       "recognition": {
@@ -4135,7 +4135,7 @@
       "book": "ku suli",
       "usage_category": "widespread",
       "source_language": "a priori",
-      "etymology": "\u00d8",
+      "etymology": "\u2205",
       "creator": "jan Sonja",
       "recognition": {
         "2021-10": "85",
@@ -5476,7 +5476,7 @@
       "book": "ku lili",
       "usage_category": "obscure",
       "source_language": "a priori",
-      "etymology": "\u00d8",
+      "etymology": "\u2205",
       "creator": "jan Sonja",
       "recognition": {
         "2021-10": "29",
@@ -6550,7 +6550,7 @@
       "book": "pu",
       "usage_category": "core",
       "source_language": "onomatopoeia",
-      "etymology": "\u00d8",
+      "etymology": "\u2205",
       "creator": "jan Sonja",
       "ku_data": "woof\u2075, meow\u2075, animal vocalization\u2075, ribbit\u2075, purr\u2075, neigh\u2075, cock-a-doodle-doo\u00b3",
       "recognition": {
@@ -6599,7 +6599,7 @@
       "book": "ku lili",
       "usage_category": "obscure",
       "source_language": "a priori ",
-      "etymology": "\u00d8",
+      "etymology": "\u2205",
       "creator": "jan Sonja",
       "ku_data": "pizza\u00b2",
       "recognition": {
@@ -6812,7 +6812,7 @@
       "book": "ku suli",
       "usage_category": "common",
       "source_language": "onomatopoeia",
-      "etymology": "\u00d8",
+      "etymology": "\u2205",
       "creator": "kala kala",
       "ku_data": "um\u00b3, mmm\u00b2, hmm\u00b2",
       "recognition": {
@@ -7474,7 +7474,7 @@
       "book": "ku lili",
       "usage_category": "obscure",
       "source_language": "a priori",
-      "etymology": "\u00d8",
+      "etymology": "\u2205",
       "creator": "jan Sonja",
       "recognition": {
         "2020-04": "14",
@@ -8803,7 +8803,7 @@
       "book": "ku lili",
       "usage_category": "obscure",
       "source_language": "a priori",
-      "etymology": "\u00d8",
+      "etymology": "\u2205",
       "creator": "jan Likipi",
       "ku_data": "car\u2070",
       "recognition": {
@@ -10410,7 +10410,7 @@
       "book": "ku lili",
       "usage_category": "obscure",
       "source_language": "a priori",
-      "etymology": "\u00d8",
+      "etymology": "\u2205",
       "creator": "jan Sonja",
       "recognition": {
         "2020-04": "14",
@@ -11516,7 +11516,7 @@
       "book": "ku lili",
       "usage_category": "obscure",
       "source_language": "a priori",
-      "etymology": "\u00d8",
+      "etymology": "\u2205",
       "creator": "jan Sonja",
       "recognition": {
         "2021-10": "28",
@@ -11592,7 +11592,7 @@
       "book": "pu",
       "usage_category": "core",
       "source_language": "onomatopoeia",
-      "etymology": "\u00d8",
+      "etymology": "\u2205",
       "creator": "jan Sonja",
       "ku_data": "sex\u2075, sexual\u2075, sexually\u2075, fucking\u00b3, fuck\u00b2",
       "recognition": {
@@ -11820,7 +11820,7 @@
       "book": "ku lili",
       "usage_category": "rare",
       "source_language": "onomatopoeia",
-      "etymology": "\u00d8",
+      "etymology": "\u2205",
       "creator": "mama mama pi jan Lakuse",
       "ku_data": "whoa\u00b2, wow\u00b9",
       "recognition": {
@@ -12423,7 +12423,7 @@
       "book": "ku lili",
       "usage_category": "rare",
       "source_language": "a priori ",
-      "etymology": "\u00d8",
+      "etymology": "\u2205",
       "creator": "jan Sonja",
       "ku_data": "change a creative work and unintentionally make it worse\u00b3",
       "recognition": {
@@ -12879,7 +12879,7 @@
       "name_short": "nasin nanpa",
       "writing_system": "sitelen pona",
       "links": {
-        "fontfile": "https://github.com/ETBCOR/nasin-nanpa/raw/main/versions/nasin-nanpa-2.5.1.otf",
+        "fontfile": "https://github.com/ETBCOR/nasin-nanpa/raw/main/versions/nasin-nanpa-2.5.1-lasina-kin.otf",
         "repo": "https://github.com/ETBCOR/linja-nanpa"
       },
       "creator": "jan Itan",
