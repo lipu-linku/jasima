@@ -13368,6 +13368,21 @@
       "filename": "unifont-csur.otf",
       "style": "pixelated",
       "features": "codepoints only"
+    },
+    "\u306b\u3057\u304d\u7684\u30d5\u30a9\u30f3\u30c8 \u300e Nishiki-teki \u300f": {
+      "name_short": "Nishiki-teki",
+      "writing_system": "sitelen pona",
+      "links": {
+        "fontfile": "https://cdn.discordapp.com/attachments/999566667187228673/1036804386531332116/nishiki-teki-lili.ttf",
+        "webpage": "https://umihotaru.work/"
+      },
+      "creator": "Umihotaru",
+      "license": "custom license",
+      "version": "3.95",
+      "last_updated": "2022-10",
+      "filename": "nishiki-teki-lili.ttf",
+      "style": "uniform line weight",
+      "features": "codepoints only, UCSUR-compliant, supports cartouches, extended glyphs, combined glyphs, ZWJ sequences, supports all ku suli and the rest of UCSUR"
     }
   }
 }
