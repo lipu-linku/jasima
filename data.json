@@ -12800,6 +12800,7 @@
       "name_short": "5x5 sitelen pona",
       "writing_system": "sitelen pona",
       "links": {
+        "fontfile": "https://cdn.discordapp.com/attachments/999566667187228673/1042092594722775060/5x5-sitelen-pona.ttf",
         "webpage": "https://fontstruct.com/fontstructions/show/1798201/5x5-sitelen-pona"
       },
       "creator": "jan Sewaka / jan Weko",
@@ -12954,6 +12955,7 @@
       "name_short": "linja leko pi luka tu",
       "writing_system": "sitelen pona",
       "links": {
+        "fontfile": "https://cdn.discordapp.com/attachments/999566667187228673/1042092595024773210/linja-leko-pi-luka-tu.ttf",
         "webpage": "https://fontstruct.com/fontstructions/show/2002090/linja-leko-pi-luka-tu"
       },
       "creator": "AgentMuffin",
@@ -13076,7 +13078,7 @@
       "name_short": "linja pimeja pona",
       "writing_system": "sitelen pona",
       "links": {
-        "fontfile": "http://antetokipona.infinityfreeapp.com/font/linjapimejapona.ttf",
+        "fontfile": "https://cdn.discordapp.com/attachments/999566667187228673/1042092595582607402/linjapimejapona.ttf",
         "repo": "https://github.com/RetSamys/linja-pimeja-pona",
         "webpage": "http://antetokipona.infinityfreeapp.com/font/"
       },
@@ -13330,6 +13332,7 @@
       "name_short": "sitelen leko ko",
       "writing_system": "alphabet",
       "links": {
+        "fontfile": "https://cdn.discordapp.com/attachments/999566667187228673/1042092595880411256/sitelen-leko-ko.ttf",
         "webpage": "https://fontstruct.com/fontstructions/show/2107711/sitelen-leko-ko"
       },
       "creator": "jan Kanon",
@@ -13399,6 +13402,7 @@
       "name_short": "sitelen pona 7x7",
       "writing_system": "sitelen pona",
       "links": {
+        "fontfile": "https://cdn.discordapp.com/attachments/999566667187228673/1042092595289002064/sitelen-pona-7x7.ttf",
         "webpage": "https://fontstruct.com/fontstructions/show/1797824/sitelen-pona-7x7"
       },
       "creator": "jan Sewaka / jan Weko",
