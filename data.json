@@ -262,11 +262,11 @@
       "name_toki_pona": "toki Mesulojanki (sitelen Kililisa)",
       "credits": "kala Asi",
       "completeness_percent": {
-        "obscure": "71",
-        "rare": "84",
-        "uncommon": "88",
-        "common": "91",
-        "widespread": "93",
+        "obscure": "76",
+        "rare": "91",
+        "uncommon": "96",
+        "common": "100",
+        "widespread": "100",
         "core": "100"
       }
     },
@@ -277,11 +277,11 @@
       "name_toki_pona": "toki Mesulojanki (sitelen Lasina)",
       "credits": "kala Asi",
       "completeness_percent": {
-        "obscure": "71",
-        "rare": "84",
-        "uncommon": "88",
-        "common": "91",
-        "widespread": "93",
+        "obscure": "76",
+        "rare": "91",
+        "uncommon": "96",
+        "common": "100",
+        "widespread": "100",
         "core": "100"
       }
     },
@@ -634,6 +634,7 @@
     "a": {
       "word": "a",
       "sitelen_pona": "a",
+      "ucsur": "U+F1900",
       "sitelen_pona_etymology": "exclamation radical + Latin lowercase letter A; radical from exclamation point (!), without the full stop at the bottom. compare o",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_a.jpg",
       "sitelen_emosi": "\u2757",
@@ -727,6 +728,7 @@
     "akesi": {
       "word": "akesi",
       "sitelen_pona": "akesi",
+      "ucsur": "U+F1901",
       "sitelen_pona_etymology": "animal radical; pictogram of a lizard. radical represents eyes",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_akesi.jpg",
       "sitelen_emosi": "\ud83e\udd8e",
@@ -815,6 +817,7 @@
     "ala": {
       "word": "ala",
       "sitelen_pona": "ala",
+      "ucsur": "U+F1902",
       "sitelen_pona_etymology": "X mark, a crosslinguistic symbol for negation",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_ala.jpg",
       "sitelen_emosi": "\u274c",
@@ -875,6 +878,7 @@
     "alasa": {
       "word": "alasa",
       "sitelen_pona": "alasa",
+      "ucsur": "U+F1903",
       "sitelen_pona_etymology": "pictogram of a bow and an arrow",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_alasa.jpg",
       "sitelen_emosi": "\ud83c\udff9",
@@ -936,6 +940,7 @@
     "ale": {
       "word": "ale",
       "sitelen_pona": "ale",
+      "ucsur": "U+F1904",
       "sitelen_pona_etymology": "infinity symbol (\u221e)",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_ale.jpg",
       "sitelen_emosi": "\u267e\ufe0f",
@@ -1123,6 +1128,7 @@
     "anpa": {
       "word": "anpa",
       "sitelen_pona": "anpa",
+      "ucsur": "U+F1905",
       "sitelen_pona_etymology": "location radical + \"container\"; the latter perhaps from a truncated square for a general object (compare sinpin) or a container (compare poki). for the radical, see also how dots are used in blissymbols; compare blissymbol \"below\"",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_anpa.jpg",
       "sitelen_emosi": "\u2b07\ufe0f",
@@ -1183,6 +1189,7 @@
     "ante": {
       "word": "ante",
       "sitelen_pona": "ante",
+      "ucsur": "U+F1906",
       "sitelen_pona_etymology": "perhaps alteration from sama, or a combination of sama and ala. perhaps an ideogram representing a diversion of two lines",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_ante.jpg",
       "sitelen_emosi": "\ud83d\udd00",
@@ -1243,6 +1250,7 @@
     "anu": {
       "word": "anu",
       "sitelen_pona": "anu",
+      "ucsur": "U+F1907",
       "sitelen_pona_etymology": "perhaps from mathematical symbol \"or\" (\u2228)",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_anu.jpg",
       "sitelen_emosi": "\u262f\ufe0f",
@@ -1305,6 +1313,7 @@
     "apeja": {
       "word": "apeja",
       "sitelen_pona": "apeja",
+      "ucsur": "U+F19A1",
       "sitelen_emosi": "\ud83d\ude22",
       "coined_year": "2009",
       "coined_era": "pre-pu",
@@ -1384,6 +1393,7 @@
     "awen": {
       "word": "awen",
       "sitelen_pona": "awen",
+      "ucsur": "U+F1908",
       "sitelen_pona_etymology": "motion radical; legs facing against each other, implying standing",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_awen.jpg",
       "sitelen_emosi": "\u2693",
@@ -1442,6 +1452,7 @@
     "e": {
       "word": "e",
       "sitelen_pona": "e",
+      "ucsur": "U+F1909",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_e.jpg",
       "sitelen_emosi": "\u23e9",
       "audio": {
@@ -1531,6 +1542,7 @@
     "en": {
       "word": "en",
       "sitelen_pona": "en",
+      "ucsur": "U+F190A",
       "sitelen_pona_etymology": "from plus sign (+); compare blissymbol \u201cand\u201d.",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_en.jpg",
       "sitelen_emosi": "\u2795",
@@ -1625,6 +1637,7 @@
     "epiku": {
       "word": "epiku",
       "sitelen_pona": "epiku epiku1",
+      "ucsur": "U+F1983",
       "sitelen_pona_etymology": "pona with emitters; [alternate] rotated ni",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_epiku.jpg",
       "sitelen_emosi": "\ud83d\ude0e",
@@ -1677,6 +1690,7 @@
     "esun": {
       "word": "esun",
       "sitelen_pona": "esun",
+      "ucsur": "U+F190B",
       "sitelen_pona_etymology": "not from a currency symbol (sonja confirmed; said \u201ci think that one is from Mikmaq\u201d but couldn't find a mikmaq symbol similar to it).",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_esun.jpg",
       "sitelen_emosi": "\ud83d\uded2",
@@ -1868,6 +1882,7 @@
     "ijo": {
       "word": "ijo",
       "sitelen_pona": "ijo",
+      "ucsur": "U+F190C",
       "sitelen_pona_etymology": "a circle, for a general object",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_ijo.jpg",
       "sitelen_emosi": "\ud83d\udc1a",
@@ -1928,6 +1943,7 @@
     "ike": {
       "word": "ike",
       "sitelen_pona": "ike",
+      "ucsur": "U+F190D",
       "sitelen_pona_etymology": "pictogram of a frowning mouth. compare pona",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_ike.jpg",
       "sitelen_emosi": "\ud83d\udc4e",
@@ -2032,6 +2048,7 @@
     "ilo": {
       "word": "ilo",
       "sitelen_pona": "ilo",
+      "ucsur": "U+F190E",
       "sitelen_pona_etymology": "perhaps a pictogram of a hammer",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_ilo.jpg",
       "sitelen_emosi": "\u2699\ufe0f",
@@ -2091,6 +2108,7 @@
     "insa": {
       "word": "insa",
       "sitelen_pona": "insa",
+      "ucsur": "U+F190F",
       "sitelen_pona_etymology": "location radical + \u201ccontainer\u201d; compare blissymbol \u201cin\u201d",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_insa.jpg",
       "sitelen_emosi": "\u23fa\ufe0f",
@@ -2280,6 +2298,7 @@
     "jaki": {
       "word": "jaki",
       "sitelen_pona": "jaki",
+      "ucsur": "U+F1910",
       "sitelen_pona_etymology": "a scribble",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_jaki.jpg",
       "sitelen_emosi": "\ud83d\udca9",
@@ -2463,6 +2482,7 @@
     "jan": {
       "word": "jan",
       "sitelen_pona": "jan",
+      "ucsur": "U+F1911",
       "sitelen_pona_etymology": "head radical; pictogram of a person showing the shoulders",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_jan.jpg",
       "sitelen_emosi": "\ud83d\udc64",
@@ -2556,6 +2576,7 @@
     "jasima": {
       "word": "jasima",
       "sitelen_pona": "jasima",
+      "ucsur": "U+F197F",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_jasima.jpg",
       "audio": {
         "jan_lakuse": "http://antetokipona.infinityfreeapp.com/kalama/jlakuse/jasima.mp3"
@@ -2635,6 +2656,7 @@
     "jelo": {
       "word": "jelo",
       "sitelen_pona": "jelo",
+      "ucsur": "U+F1912",
       "sitelen_pona_etymology": "color radical + suno",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_jelo.jpg",
       "sitelen_emosi": "\ud83d\udc9b",
@@ -2697,6 +2719,7 @@
     "jo": {
       "word": "jo",
       "sitelen_pona": "jo",
+      "ucsur": "U+F1913",
       "sitelen_pona_etymology": "perhaps a pictogram of a person pointing at themself or holding something",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_jo.jpg",
       "sitelen_emosi": "\ud83d\udc5c",
@@ -2891,6 +2914,7 @@
     "kala": {
       "word": "kala",
       "sitelen_pona": "kala kala2",
+      "ucsur": "U+F1914",
       "sitelen_pona_etymology": "pictogram of a fish",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_kala.jpg",
       "sitelen_emosi": "\ud83d\udc1f",
@@ -2949,6 +2973,7 @@
     "kalama": {
       "word": "kalama",
       "sitelen_pona": "kalama",
+      "ucsur": "U+F1915",
       "sitelen_pona_etymology": "emission modifier + \u201cmouth\u201d",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_kalama.jpg",
       "sitelen_emosi": "\ud83d\udd08",
@@ -3067,6 +3092,7 @@
     "kama": {
       "word": "kama",
       "sitelen_pona": "kama",
+      "ucsur": "U+F1916",
       "sitelen_pona_etymology": "motion radical; legs facing to the left. compare tawa and blissymbol \u201cwalk\u201d",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_kama.jpg",
       "sitelen_emosi": "\ud83d\udeb6",
@@ -3296,6 +3322,7 @@
     "kasi": {
       "word": "kasi",
       "sitelen_pona": "kasi",
+      "ucsur": "U+F1917",
       "sitelen_pona_etymology": "pictogram of a sprout",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_kasi.jpg",
       "sitelen_emosi": "\ud83c\udf34",
@@ -3397,6 +3424,7 @@
     "ken": {
       "word": "ken",
       "sitelen_pona": "ken",
+      "ucsur": "U+F1918",
       "sitelen_pona_etymology": "perhaps from Latin letter K",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_ken.jpg",
       "sitelen_emosi": "\ud83d\udcaa",
@@ -3452,6 +3480,7 @@
     "kepeken": {
       "word": "kepeken",
       "sitelen_pona": "kepeken",
+      "ucsur": "U+F1919",
       "sitelen_pona_etymology": "hand modifier + ilo",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_kepeken.jpg",
       "sitelen_emosi": "\ud83d\udd27",
@@ -3614,6 +3643,7 @@
     "kijetesantakalu": {
       "word": "kijetesantakalu",
       "sitelen_pona": "kijetesantakalu",
+      "ucsur": "U+F1980",
       "sitelen_pona_etymology": "a drawing of a raccoon with a tail",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_kijetesantakalu.jpg",
       "sitelen_emosi": "\ud83e\udd9d",
@@ -3643,6 +3673,8 @@
         "en": "any animal from the Procyonidae family, such as raccoons, coatis, kinkajous, olingos, ringtails and cacomistles | ALT any animal from the Musteloidea superfamily, including raccoons, weasels, otters, skunks, and red pandas",
         "pl": "zwierz\u0119 z rodziny szopowatych, na przyk\u0142ad: szop pracz, ostronos, kinka\u017cu, olingo lub kotofretka | ALT zwierz\u0119 z parvordo \u0142asicokszta\u0142tnych, w tym szop pracz, \u0142asica, wydra, skunk i czerwona panda",
         "ru": "\u043b\u044e\u0431\u043e\u0435 \u0436\u0438\u0432\u043e\u0442\u043d\u043e\u0435 \u0438\u0437 \u0441\u0435\u043c\u0435\u0439\u0441\u0442\u0432\u0430 \u0435\u043d\u043e\u0442\u043e\u0432\u044b\u0445, \u0442\u0430\u043a\u0438\u0435 \u043a\u0430\u043a \u0435\u043d\u043e\u0442\u044b, \u043e\u043b\u0438\u043d\u0433\u043e, \u043a\u0430\u043a\u043e\u043c\u0438\u0442\u0446\u043b\u0438, \u043d\u043e\u0441\u0443\u0445\u0438, \u043a\u0438\u043d\u043a\u0430\u0436\u0443",
+        "isv_l": "ktora-libo \u017eivotina iz rodiny Procyonidae, napr. jenot, koati, kinka\u017eu, olingo, kotofretka, kakomicli | ALT ktora-libo \u017eivotina iz nadrodiny Musteloidea, vklju\u010dno jenot, lasica, vydra, skunks, \u010drvena panda",
+        "isv_c": "\u043a\u0442\u043e\u0440\u0430-\u043b\u0438\u0431\u043e \u0436\u0438\u0432\u043e\u0442\u0438\u043d\u0430 \u0438\u0437 \u0440\u043e\u0434\u0438\u043d\u044b Procyonidae, \u043d\u0430\u043f\u0440. \u0458\u0435\u043d\u043e\u0442, \u043a\u043e\u0430\u0442\u0438, \u043a\u0438\u043d\u043a\u0430\u0436\u0443, \u043e\u043b\u0438\u043d\u0433\u043e, \u043a\u043e\u0442\u043e\u0444\u0440\u0435\u0442\u043a\u0430, \u043a\u0430\u043a\u043e\u043c\u0438\u0446\u043b\u0438 | ALT \u043a\u0442\u043e\u0440\u0430-\u043b\u0438\u0431\u043e \u0436\u0438\u0432\u043e\u0442\u0438\u043d\u0430 \u0438\u0437 \u043d\u0430\u0434\u0440\u043e\u0434\u0438\u043d\u044b Musteloidea, \u0432\u043a\u0459\u0443\u0447\u043d\u043e \u0458\u0435\u043d\u043e\u0442, \u043b\u0430\u0441\u0438\u0446\u0430, \u0432\u044b\u0434\u0440\u0430, \u0441\u043a\u0443\u043d\u043a\u0441, \u0447\u0440\u0432\u0435\u043d\u0430 \u043f\u0430\u043d\u0434\u0430",
         "eo": "iu ajn besto en la familio de procionedoj, kiel lavursoj, koatioj, kinkajuoj, basaricionoj, basariskoj kaj kakomistloj",
         "de": "Tiere der Familie der Kleinb\u00e4ren, u.a. Waschb\u00e4ren, Nasenb\u00e4ren, Wickelb\u00e4ren, Makib\u00e4ren, Katzenfrette",
         "tok": "kijetesantakalu li soweli. ona li jo e sinpin pimeja e monsi linja. ona li kepeken luka ona.",
@@ -3716,6 +3748,7 @@
     "kili": {
       "word": "kili",
       "sitelen_pona": "kili",
+      "ucsur": "U+F191A",
       "sitelen_pona_etymology": "pictogram of a fruit, perhaps an apple",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_kili.jpg",
       "sitelen_emosi": "\ud83c\udf4e",
@@ -3777,6 +3810,7 @@
     "kin": {
       "word": "kin",
       "sitelen_pona": "kin",
+      "ucsur": "U+F1979",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_kin.jpg",
       "sitelen_emosi": "\u2755",
       "audio": {
@@ -3803,6 +3837,8 @@
         "en": "{see a} | ALT indeed, too, also, as well",
         "pl": "{patrz a} | ALT w rzeczy samej; tak\u017ce, r\u00f3wnie\u017c; nawet",
         "ru": "{\u0441\u043c. a} | ALT \u0434\u0435\u0439\u0441\u0442\u0432\u0438\u0442\u0435\u043b\u044c\u043d\u043e, \u0442\u043e\u0436\u0435, \u0442\u0430\u043a\u0436\u0435, \u043a\u0440\u043e\u043c\u0435 \u0442\u043e\u0433\u043e",
+        "isv_l": "{vidi a} | ALT zaisto, tako\u017ee, to\u017e",
+        "isv_c": "{\u0432\u0438\u0434\u0438 a} | ALT \u0437\u0430\u0438\u0441\u0442\u043e, \u0442\u0430\u043a\u043e\u0436\u0435, \u0442\u043e\u0436",
         "eo": "{vidu a} | ALT ja, anka\u016d, certe",
         "de": "jawohl, in der Tat; auch, ebenfalls, au\u00dferdem; sogar",
         "tok": "taso ala; nimi kin li toki e ni: ijo ante li lon. ijo ante en ijo kin li sama.",
@@ -3829,6 +3865,7 @@
     "kipisi": {
       "word": "kipisi",
       "sitelen_pona": "kipisi",
+      "ucsur": "U+F197B",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_kipisi.jpg",
       "sitelen_emosi": "\u2702\ufe0f",
       "luka_pona": {
@@ -3857,6 +3894,8 @@
         "en": "split, cut, slice, sever; sharp",
         "pl": "podzieli\u0107, wyci\u0105\u0107, oddzieli\u0107; ostry",
         "ru": "\u0440\u0430\u0437\u0434\u0435\u043b\u044f\u0442\u044c, \u043e\u0442\u0440\u0435\u0437\u0430\u0442\u044c, \u0440\u0430\u0437\u0440\u0435\u0437\u0430\u0442\u044c, \u043e\u0442\u0434\u0435\u043b\u044f\u0442\u044c; \u043e\u0441\u0442\u0440\u044b\u0439, \u0437\u0430\u0442\u043e\u0447\u0435\u043d\u043d\u044b\u0439",
+        "isv_l": "klati, r\u011bzati, s\u011bkti, nar\u011bzati, d\u011bliti; ostry, nato\u010deny",
+        "isv_c": "\u043a\u043b\u0430\u0442\u0438, \u0440\u0454\u0437\u0430\u0442\u0438, \u0441\u0454\u043a\u0442\u0438, \u043d\u0430\u0440\u0454\u0437\u0430\u0442\u0438, \u0434\u0454\u043b\u0438\u0442\u0438; \u043e\u0441\u0442\u0440\u044b, \u043d\u0430\u0442\u043e\u0447\u0435\u043d\u044b",
         "eo": "apartigi, dividi, fendi, tran\u0109i",
         "de": "teilen, schneiden, trennen; scharf",
         "tok": "mi tu e kasi mi, taso mi jo ala e kasi tu. mi pakala e selo kasi. mi kipisi e kasi mi.",
@@ -3924,6 +3963,7 @@
     "kiwen": {
       "word": "kiwen",
       "sitelen_pona": "kiwen",
+      "ucsur": "U+F191B",
       "sitelen_pona_etymology": "pictogram of a rock or a gem",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_kiwen.jpg",
       "sitelen_emosi": "\ud83d\udc8e",
@@ -3980,6 +4020,7 @@
     "ko": {
       "word": "ko",
       "sitelen_pona": "ko",
+      "ucsur": "U+F191C",
       "sitelen_pona_etymology": "pictogram of splashed goo",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_ko.jpg",
       "sitelen_emosi": "\ud83c\udf66",
@@ -4036,6 +4077,7 @@
     "kokosila": {
       "word": "kokosila",
       "sitelen_pona": "kokosila kokosila2",
+      "ucsur": "U+F1984",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_kokosila.jpg",
       "audio": {
         "jan_lakuse": "http://antetokipona.infinityfreeapp.com/kalama/jlakuse/kokosila.mp3"
@@ -4083,6 +4125,7 @@
     "kon": {
       "word": "kon",
       "sitelen_pona": "kon",
+      "ucsur": "U+F191D",
       "sitelen_pona_etymology": "ideogram; wavy lines to indicate the fluidity of gas. compare telo",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_kon.jpg",
       "sitelen_emosi": "\ud83d\udca8",
@@ -4234,6 +4277,7 @@
     "ku": {
       "word": "ku",
       "sitelen_pona": "ku",
+      "ucsur": "U+F1988",
       "audio": {
         "jan_lakuse": "http://antetokipona.infinityfreeapp.com/kalama/jlakuse/ku.mp3"
       },
@@ -4254,6 +4298,8 @@
         "en": "interacting with the Toki Pona Dictionary by Sonja Lang",
         "pl": "wchodz\u0105cy w interakcj\u0119 ze s\u0142ownikiem toki pony Sonji Lang",
         "ru": "\u0432\u0437\u0430\u0438\u043c\u043e\u0434\u0435\u0439\u0441\u0442\u0432\u043e\u0432\u0430\u0442\u044c \u0441\u043e \u0441\u043b\u043e\u0432\u0430\u0440\u0435\u043c Toki Pona \u0421\u043e\u043d\u0438 \u041b\u0430\u043d\u0433",
+        "isv_l": "vzajemod\u011bjstvuju\u010di, interaguju\u010di s oficialnym slovnikom toki pony Sonji Lang",
+        "isv_c": "\u0432\u0437\u0430\u0458\u0435\u043c\u043e\u0434\u0454\u0458\u0441\u0442\u0432\u0443\u0458\u0443\u0447\u0438, \u0438\u043d\u0442\u0435\u0440\u0430\u0433\u0443\u0458\u0443\u0447\u0438 \u0441 \u043e\u0444\u0438\u0446\u0438\u0430\u043b\u043d\u044b\u043c \u0441\u043b\u043e\u0432\u043d\u0438\u043a\u043e\u043c \u0442\u043e\u043a\u0438 \u043f\u043e\u043d\u044b \u0421\u043e\u045a\u0438 \u041b\u0430\u043d\u0433",
         "eo": "interagante kun la Tokipona Vortaro de Sonja Lang",
         "de": "interagieren mit dem Toki Pona W\u00f6rterbuch von Sonja Lang",
         "tok": "lipu nanpa tu pi jan Sonja la, sina lukin e ona la sina ku. sina kepeken ona la sina ku.",
@@ -4279,6 +4325,7 @@
     "kule": {
       "word": "kule",
       "sitelen_pona": "kule",
+      "ucsur": "U+F191E",
       "sitelen_pona_etymology": "color radical; perhaps the horizontal line indicates the sense of \u201cthe concept itself\u201d. or perhaps a pictogram of light passing through a prism (color radical)",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_kule.jpg",
       "sitelen_emosi": "\ud83c\udf08",
@@ -4417,6 +4464,7 @@
     "kulupu": {
       "word": "kulupu",
       "sitelen_pona": "kulupu",
+      "ucsur": "U+F191F",
       "sitelen_pona_etymology": "pictogram of a group consisting of three members represented by circles",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_kulupu.jpg",
       "sitelen_emosi": "\ud83d\udc65",
@@ -4518,6 +4566,7 @@
     "kute": {
       "word": "kute",
       "sitelen_pona": "kute",
+      "ucsur": "U+F1920",
       "sitelen_pona_etymology": "pictogram of an ear. compare blissymbol \u201cear\u201d",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_kute.jpg",
       "sitelen_emosi": "\ud83d\udc42",
@@ -4605,6 +4654,7 @@
     "la": {
       "word": "la",
       "sitelen_pona": "la",
+      "ucsur": "U+F1921",
       "sitelen_pona_etymology": "perhaps related to blissymbol \u201clater\u201d and \u201cago\u201d, or perhaps a parenthesis",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_la.jpg",
       "sitelen_emosi": "\ud83d\udd3c",
@@ -4660,6 +4710,7 @@
     "lanpan": {
       "word": "lanpan",
       "sitelen_pona": "lanpan lanpan3",
+      "ucsur": "U+F1985",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_lanpan.jpg",
       "sitelen_emosi": "\ud83d\udce5",
       "audio": {
@@ -4683,6 +4734,8 @@
         "en": "take, seize, catch, receive, get",
         "pl": "wzi\u0105\u0107, przej\u0105\u0107, odebra\u0107, z\u0142apa\u0107, otrzyma\u0107, dosta\u0107",
         "ru": "\u0432\u0437\u044f\u0442\u044c, \u0441\u0445\u0432\u0430\u0442\u0438\u0442\u044c, \u0437\u0430\u0431\u0440\u0430\u0442\u044c, \u043f\u043e\u0439\u043c\u0430\u0442\u044c, \u043f\u043e\u043b\u0443\u0447\u0438\u0442\u044c",
+        "isv_l": "vzeti, brati, loviti, dostati",
+        "isv_c": "\u0432\u0437\u0435\u0442\u0438, \u0431\u0440\u0430\u0442\u0438, \u043b\u043e\u0432\u0438\u0442\u0438, \u0434\u043e\u0441\u0442\u0430\u0442\u0438",
         "eo": "preni, kapti, ricevi",
         "de": "nehmen, erobern, fangen, bekommen, kriegen",
         "tok": "tenpo pi kama jo wawa li tenpo lanpan. ",
@@ -4708,6 +4761,7 @@
     "lape": {
       "word": "lape",
       "sitelen_pona": "lape",
+      "ucsur": "U+F1922",
       "sitelen_pona_etymology": "pictogram of a lying person",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_lape.jpg",
       "sitelen_emosi": "\ud83d\ude34",
@@ -4765,6 +4819,7 @@
     "laso": {
       "word": "laso",
       "sitelen_pona": "laso",
+      "ucsur": "U+F1923",
       "sitelen_pona_etymology": "color radical + kasi",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_laso.jpg",
       "sitelen_emosi": "\ud83d\udd35",
@@ -4823,6 +4878,7 @@
     "lawa": {
       "word": "lawa",
       "sitelen_pona": "lawa",
+      "ucsur": "U+F1924",
       "sitelen_pona_etymology": "head radical; perhaps the horizontal line for the same reason as in kule. alternatively, perhaps a pictogram of a person wearing a cap",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_lawa.jpg",
       "sitelen_emosi": "\ud83d\ude36",
@@ -4878,6 +4934,7 @@
     "leko": {
       "word": "leko",
       "sitelen_pona": "leko",
+      "ucsur": "U+F197C",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_leko.jpg",
       "sitelen_emosi": "\ud83e\uddf1",
       "luka_pona": {
@@ -4904,6 +4961,8 @@
         "en": "stairs, square, block, corner, cube",
         "pl": "schody, kwadrat, kostka, sze\u015bcian",
         "ru": "\u043b\u0435\u0441\u0442\u043d\u0438\u0446\u0430, \u043a\u0432\u0430\u0434\u0440\u0430\u0442, \u0431\u043b\u043e\u043a, \u0443\u0433\u043e\u043b, \u043a\u0443\u0431",
+        "isv_l": "stupeni\u0161\u010de, kvadrat, kostka, kut, vugol, kub",
+        "isv_c": "\u0441\u0442\u0443\u043f\u0435\u043d\u0438\u0448\u0447\u0435, \u043a\u0432\u0430\u0434\u0440\u0430\u0442, \u043a\u043e\u0441\u0442\u043a\u0430, \u043a\u0443\u0442, \u0432\u0443\u0433\u043e\u043b, \u043a\u0443\u0431",
         "eo": "\u0161tuparo, kvadrato, bloko, angulo",
         "de": "Treppen, Klotz, W\u00fcrfel, Quadrat",
         "tok": "sitelen la, leko li ijo pi poka tu tu. ",
@@ -4929,6 +4988,7 @@
     "len": {
       "word": "len",
       "sitelen_pona": "len",
+      "ucsur": "U+F1925",
       "sitelen_pona_etymology": "perhaps a pictogram of a piece of fabric",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_len.jpg",
       "sitelen_emosi": "\ud83d\udc55",
@@ -4984,6 +5044,7 @@
     "lete": {
       "word": "lete",
       "sitelen_pona": "lete",
+      "ucsur": "U+F1926",
       "sitelen_pona_etymology": "pictogram of a snowflake",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_lete.jpg",
       "sitelen_emosi": "\u2744\ufe0f",
@@ -5040,6 +5101,7 @@
     "li": {
       "word": "li",
       "sitelen_pona": "li",
+      "ucsur": "U+F1927",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_li.jpg",
       "sitelen_emosi": "\u25b6\ufe0f",
       "audio": {
@@ -5163,6 +5225,7 @@
     "lili": {
       "word": "lili",
       "sitelen_pona": "lili",
+      "ucsur": "U+F1928",
       "sitelen_pona_etymology": "ideogram showing smaller size compared to suli",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_lili.jpg",
       "sitelen_emosi": "\ud83d\udc2d",
@@ -5219,6 +5282,7 @@
     "linja": {
       "word": "linja",
       "sitelen_pona": "linja",
+      "ucsur": "U+F1929",
       "sitelen_pona_etymology": "pictogram of a string",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_linja.jpg",
       "sitelen_emosi": "\u3030\ufe0f",
@@ -5320,6 +5384,7 @@
     "lipu": {
       "word": "lipu",
       "sitelen_pona": "lipu",
+      "ucsur": "U+F192A",
       "sitelen_pona_etymology": "pictogram of a sheet of paper. compare blissymbol \u201cpaper\u201d",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_lipu.jpg",
       "sitelen_emosi": "\ud83d\udcc4",
@@ -5409,6 +5474,7 @@
     "loje": {
       "word": "loje",
       "sitelen_pona": "loje",
+      "ucsur": "U+F192B",
       "sitelen_pona_etymology": "color radical + \u201cmouth\u201d",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_loje.jpg",
       "sitelen_emosi": "\ud83d\udd34",
@@ -5550,6 +5616,7 @@
     "lon": {
       "word": "lon",
       "sitelen_pona": "lon",
+      "ucsur": "U+F192C",
       "sitelen_pona_etymology": "location radical above a line. compare blissymbol \u201cover\u201d",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_lon.jpg",
       "sitelen_emosi": "\ud83d\udccd",
@@ -5643,6 +5710,7 @@
     "luka": {
       "word": "luka",
       "sitelen_pona": "luka",
+      "ucsur": "U+F192D",
       "sitelen_pona_etymology": "pictogram of a hand",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_luka.jpg",
       "sitelen_emosi": "\u270b",
@@ -5700,6 +5768,7 @@
     "lukin": {
       "word": "lukin",
       "sitelen_pona": "lukin",
+      "ucsur": "U+F192E",
       "sitelen_pona_etymology": "pictogram of an eye. compare blissymbol \u201ceye\u201d",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_lukin.jpg",
       "sitelen_emosi": "\ud83d\udc40",
@@ -5759,6 +5828,7 @@
     "lupa": {
       "word": "lupa",
       "sitelen_pona": "lupa",
+      "ucsur": "U+F192F",
       "sitelen_pona_etymology": "pictogram of a concave surface. compare nena",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_lupa.jpg",
       "sitelen_emosi": "\ud83d\udd73\ufe0f",
@@ -5815,6 +5885,7 @@
     "ma": {
       "word": "ma",
       "sitelen_pona": "ma",
+      "ucsur": "U+F1930",
       "sitelen_pona_etymology": "perhaps from modern astronomical symbol \u201cearth\u201d (\u2295)",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_ma.jpg",
       "sitelen_emosi": "\ud83c\udfdd\ufe0f",
@@ -5871,6 +5942,7 @@
     "majuna": {
       "word": "majuna",
       "sitelen_pona": "majuna majuna2",
+      "ucsur": "U+F19A2",
       "sitelen_emosi": "\ud83d\udc75",
       "audio": {
         "jan_lakuse": "http://antetokipona.infinityfreeapp.com/kalama/jlakuse/majuna.mp3"
@@ -5920,6 +5992,7 @@
     "mama": {
       "word": "mama",
       "sitelen_pona": "mama",
+      "ucsur": "U+F1931",
       "sitelen_pona_etymology": "head radical; perhaps the smaller circle representing the child",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_mama.jpg",
       "sitelen_emosi": "\ud83d\udc6a",
@@ -5976,6 +6049,7 @@
     "mani": {
       "word": "mani",
       "sitelen_pona": "mani",
+      "ucsur": "U+F1932",
       "sitelen_pona_etymology": "a pictogram of a large domestic animal, such as a cow (sonja confirmed)",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_mani.jpg",
       "sitelen_emosi": "\ud83d\udcb0",
@@ -6032,6 +6106,7 @@
     "meli": {
       "word": "meli",
       "sitelen_pona": "meli meli2",
+      "ucsur": "U+F1933",
       "sitelen_pona_etymology": "head radical with long hair",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_meli.jpg",
       "sitelen_emosi": "\ud83d\udc67",
@@ -6134,6 +6209,7 @@
     "meso": {
       "word": "meso",
       "sitelen_pona": "meso meso2",
+      "ucsur": "U+F1982",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_meso.jpg",
       "luka_pona": {
         "mp4": "http://antetokipona.infinityfreeapp.com/lukapona/mp4/meso.mp4",
@@ -6159,6 +6235,8 @@
         "en": "midpoint, medium, mediocre; neither one not the other, neither fully is nor isn't",
         "pl": "\u015brodek, centrum, \u015bredni, przeci\u0119tny; \u017caden z nich; ani taki, ani taki",
         "ru": "\u0441\u0440\u0435\u0434\u043d\u0438\u0439, \u043f\u043e\u0441\u0440\u0435\u0434\u0441\u0442\u0432\u0435\u043d\u043d\u044b\u0439; \u043d\u0438 \u0442\u043e \u043d\u0438 \u0434\u0440\u0443\u0433\u043e\u0435",
+        "isv_l": "sr\u011bdina, centr, sr\u011bdnji, posr\u011bdnji; ni taky ni taky",
+        "isv_c": "\u0441\u0440\u0454\u0434\u0438\u043d\u0430, \u0446\u0435\u043d\u0442\u0440, \u0441\u0440\u0454\u0434\u045a\u0438, \u043f\u043e\u0441\u0440\u0454\u0434\u045a\u0438; \u043d\u0438 \u0442\u0430\u043a\u044b \u043d\u0438 \u0442\u0430\u043a\u044b",
         "eo": "mezo, mezkvalita, mezbona, nek unu nek alia",
         "de": "mittel, mittelgut, mittem\u00e4\u00dfig; weder eins oder das andere",
         "tok": "moku mi li seli ala li lete ala. ona li meso tawa mi. lipu sina li pona ala li ike ala. ona li meso.",
@@ -6184,6 +6262,7 @@
     "mi": {
       "word": "mi",
       "sitelen_pona": "mi",
+      "ucsur": "U+F1934",
       "sitelen_pona_etymology": "perhaps a hand pointing towards the speaker. compare sina and ona",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_mi.jpg",
       "sitelen_emosi": "\ud83d\udc48",
@@ -6242,6 +6321,7 @@
     "mije": {
       "word": "mije",
       "sitelen_pona": "mije mije2",
+      "ucsur": "U+F1935",
       "sitelen_pona_etymology": "head radical with perhaps wide shoulders. compare jan",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_mije.jpg",
       "sitelen_emosi": "\ud83d\udc68",
@@ -6387,6 +6467,7 @@
     "misikeke": {
       "word": "misikeke",
       "sitelen_pona": "misikeke",
+      "ucsur": "U+F1987",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_misekeke.jpg",
       "sitelen_emosi": "\ud83d\udc8a",
       "luka_pona": {
@@ -6441,6 +6522,7 @@
     "moku": {
       "word": "moku",
       "sitelen_pona": "moku",
+      "ucsur": "U+F1936",
       "sitelen_pona_etymology": "hand modifier + \u201cmouth\u201d",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_moku.jpg",
       "sitelen_emosi": "\ud83c\udf7d\ufe0f",
@@ -6497,6 +6579,7 @@
     "moli": {
       "word": "moli",
       "sitelen_pona": "moli",
+      "ucsur": "U+F1937",
       "sitelen_pona_etymology": "head radical; a dead person, represented by the crossed eyes",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_moli.jpg",
       "sitelen_emosi": "\ud83d\udc80",
@@ -6586,6 +6669,7 @@
     "monsi": {
       "word": "monsi",
       "sitelen_pona": "monsi",
+      "ucsur": "U+F1938",
       "sitelen_pona_etymology": "location radical + rotate \u201ccontainer\u201d. compare sinpin",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_monsi.jpg",
       "sitelen_emosi": "\u2b05\ufe0f",
@@ -6642,6 +6726,7 @@
     "monsuta": {
       "word": "monsuta",
       "sitelen_pona": "monsuta",
+      "ucsur": "U+F197D",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_monsuta.jpg",
       "sitelen_emosi": "\ud83d\udc79",
       "luka_pona": {
@@ -6669,6 +6754,8 @@
         "en": "fear, dread; monster, predator; threat, danger",
         "pl": "strach, przera\u017cenie; potw\u00f3r, drapie\u017cca; zagro\u017cenie, niebezpiecze\u0144stwo",
         "ru": "\u0441\u0442\u0440\u0430\u0445, \u0443\u0436\u0430\u0441; \u043c\u043e\u043d\u0441\u0442\u0440, \u0445\u0438\u0449\u043d\u0438\u043a; \u0443\u0433\u0440\u043e\u0437\u0430, \u043e\u043f\u0430\u0441\u043d\u043e\u0441\u0442\u044c",
+        "isv_l": "strah, bojaznj, u\u017eas; \u010dudovi\u0161\u010de, predator; grozba, nebezpe\u010dnost, opasnost",
+        "isv_c": "\u0441\u0442\u0440\u0430\u0445, \u0431\u043e\u0458\u0430\u0437\u045a, \u0443\u0436\u0430\u0441; \u0447\u0443\u0434\u043e\u0432\u0438\u0448\u0447\u0435, \u043f\u0440\u0435\u0434\u0430\u0442\u043e\u0440; \u0433\u0440\u043e\u0437\u0431\u0430, \u043d\u0435\u0431\u0435\u0437\u043f\u0435\u0447\u043d\u043e\u0441\u0442, \u043e\u043f\u0430\u0441\u043d\u043e\u0441\u0442",
         "eo": "monstro, krea\u0135o, kiu persekutas homojn, rabobesto; minaco; ka\u016dzo de timo, timigilo",
         "de": "Angst, Furcht; Monster; Gefahr",
         "tok": "pilin ike pi ken moli; pilin ike pi ken pakala; ijo ni: ona li pana e pilin ni",
@@ -6694,6 +6781,7 @@
     "mu": {
       "word": "mu",
       "sitelen_pona": "mu mu2",
+      "ucsur": "U+F1939",
       "sitelen_pona_etymology": "pictogram of a mammal",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_mu.jpg",
       "sitelen_emosi": "\ud83d\ude39",
@@ -6801,6 +6889,7 @@
     "mun": {
       "word": "mun",
       "sitelen_pona": "mun",
+      "ucsur": "U+F193A",
       "sitelen_pona_etymology": "pictogram of a crescent moon. compare blissymbol \u201cmoon\u201d",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_mun.jpg",
       "sitelen_emosi": "\ud83c\udf19",
@@ -6857,6 +6946,7 @@
     "musi": {
       "word": "musi",
       "sitelen_pona": "musi",
+      "ucsur": "U+F193B",
       "sitelen_pona_etymology": "perhaps a pictogram of a smile with rosy cheeks or a lyre",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_musi.jpg",
       "sitelen_emosi": "\ud83d\ude03",
@@ -6911,6 +7001,7 @@
     "mute": {
       "word": "mute",
       "sitelen_pona": "mute",
+      "ucsur": "U+F193C",
       "sitelen_pona_etymology": "ideogram consisting of three tally marks. compare wan and tu",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_mute.jpg",
       "sitelen_emosi": "\ud83d\udc50",
@@ -6966,6 +7057,7 @@
     "n": {
       "word": "n",
       "sitelen_pona": "n",
+      "ucsur": "U+F1986",
       "sitelen_pona_etymology": "exclamation radical with the lowercase letter \u201cn\u201d",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_n.jpg",
       "audio": {
@@ -6987,6 +7079,8 @@
         "en": "(indicates thinking, pondering, recognition, agreement, or humming)",
         "pl": "(oznacza my\u015blenie, rozwa\u017canie, uznanie, zgod\u0119 lub nucenie)",
         "ru": "(\u0443\u043a\u0430\u0437\u044b\u0432\u0430\u0435\u0442 \u043d\u0430 \u0440\u0430\u0437\u043c\u044b\u0448\u043b\u0435\u043d\u0438\u0435, \u043f\u0440\u0438\u0437\u043d\u0430\u043d\u0438\u0435, \u0441\u043e\u0433\u043b\u0430\u0441\u0438\u0435 \u0438\u043b\u0438 \u0431\u043e\u0440\u043c\u043e\u0442\u0430\u043d\u0438\u0435)",
+        "isv_l": "(ozna\u010daje mysljenje, razva\u017eanje, poznanje, soglasnost abo mrmjanje)",
+        "isv_c": "(\u043e\u0437\u043d\u0430\u0447\u0430\u0458\u0435 \u043c\u044b\u0441\u0459\u0435\u045a\u0435, \u0440\u0430\u0437\u0432\u0430\u0436\u0430\u045a\u0435, \u043f\u043e\u0437\u043d\u0430\u045a\u0435, \u0441\u043e\u0433\u043b\u0430\u0441\u043d\u043e\u0441\u0442 \u0430\u0431\u043e \u043c\u0440\u043c\u0458\u0430\u045a\u0435)",
         "eo": "(indikas pensadon, pripensadon, rekonon, interkonsenton, a\u016d zumadon)",
         "de": "(zeigt Nachdenken, Gr\u00fcbeln, Anerkennung, Zustimmung oder Summen an)",
         "tok": "a; kalama pi sona ala; kalama pi toki insa",
@@ -7036,6 +7130,7 @@
     "namako": {
       "word": "namako",
       "sitelen_pona": "namako namako2",
+      "ucsur": "U+F1978",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_namako.jpg",
       "sitelen_emosi": "\ud83e\uddc2",
       "audio": {
@@ -7062,6 +7157,8 @@
         "en": "{see sin} | ALT embellishment, spice; extra, additional",
         "pl": "{patrz sin} | ALT dodatek, przyprawa; dodatkowy",
         "ru": "{\u0441\u043c. sin} | ALT \u0443\u043a\u0440\u0430\u0448\u0435\u043d\u0438\u044f, \u0441\u043f\u0435\u0446\u0438\u0438; \u0434\u043e\u043f\u043e\u043b\u043d\u0438\u0442\u0435\u043b\u044c\u043d\u044b\u0439, \u0434\u043e\u0431\u0430\u0432\u043e\u0447\u043d\u044b\u0439",
+        "isv_l": "{vidi sin} | ALT dodatok, ukra\u0161enje, priprava; dodatny",
+        "isv_c": "{\u0432\u0438\u0434\u0438 \u0441\u0438\u043d} | \u0410\u041b\u0422 \u0434\u043e\u0434\u0430\u0442\u043e\u043a, \u0443\u043a\u0440\u0430\u0448\u0435\u045a\u0435, \u043f\u0440\u0438\u043f\u0440\u0430\u0432\u0430; \u0434\u043e\u0434\u0430\u0442\u043d\u044b",
         "eo": "salo, spico, vinagro; akcesora\u0135o; kroma\u0135o; sali, spici; ornami, plibeligi; stimuli, eksciti",
         "de": "Ausschm\u00fcckung, Gew\u00fcrz; extra, zus\u00e4tzlich; hinzuf\u00fcgen",
         "tok": "mi moku e pan, taso ona o jo e ijo sin. mi pona e ona kepeken ni: mi pana e ijo sin tawa moku mi. ijo ni li namako.",
@@ -7087,6 +7184,7 @@
     "nanpa": {
       "word": "nanpa",
       "sitelen_pona": "nanpa",
+      "ucsur": "U+F193D",
       "sitelen_pona_etymology": "from number sign (#). compare blissymbol \u201cnumber\u201d",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_nanpa.jpg",
       "sitelen_emosi": "#\ufe0f\u20e3",
@@ -7140,6 +7238,7 @@
     "nasa": {
       "word": "nasa",
       "sitelen_pona": "nasa",
+      "ucsur": "U+F193E",
       "sitelen_pona_etymology": "perhaps spiral representing \u201cdizziness\u201d, as can be commonly seen in Japanese manga and anime",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_nasa.jpg",
       "sitelen_emosi": "\ud83c\udf00",
@@ -7194,6 +7293,7 @@
     "nasin": {
       "word": "nasin",
       "sitelen_pona": "nasin",
+      "ucsur": "U+F193F",
       "sitelen_pona_etymology": "ideogram consisting of an arrow along a vertical line",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_nasin.jpg",
       "sitelen_emosi": "\ud83d\udee3\ufe0f",
@@ -7365,6 +7465,7 @@
     "nena": {
       "word": "nena",
       "sitelen_pona": "nena",
+      "ucsur": "U+F1940",
       "sitelen_pona_etymology": "pictogram of a convex surface. compare lupa",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_nena.jpg",
       "sitelen_emosi": "\ud83d\uddfb",
@@ -7420,6 +7521,7 @@
     "ni": {
       "word": "ni",
       "sitelen_pona": "ni ni2",
+      "ucsur": "U+F1941",
       "sitelen_pona_etymology": "an arrow",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_ni.jpg",
       "sitelen_emosi": "\ud83d\udc47",
@@ -7476,6 +7578,7 @@
     "nimi": {
       "word": "nimi",
       "sitelen_pona": "nimi",
+      "ucsur": "U+F1942",
       "sitelen_pona_etymology": "perhaps a pictogram of a nametag or sitelen pona cartouche",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_nimi.jpg",
       "sitelen_emosi": "\ud83d\udcac",
@@ -7596,6 +7699,7 @@
     "noka": {
       "word": "noka",
       "sitelen_pona": "noka",
+      "ucsur": "U+F1943",
       "sitelen_pona_etymology": "pictogram of a foot with an ankle",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_noka.jpg",
       "sitelen_emosi": "\ud83e\uddb5",
@@ -7689,6 +7793,7 @@
     "o": {
       "word": "o",
       "sitelen_pona": "o",
+      "ucsur": "U+F1944",
       "sitelen_pona_etymology": "exclamation radical + Latin lowercase letter O. compare a",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_o.jpg",
       "sitelen_emosi": "\ud83d\udc4b",
@@ -7881,6 +7986,7 @@
     "oko": {
       "word": "oko",
       "sitelen_pona": "oko",
+      "ucsur": "U+F197A",
       "sitelen_pona_etymology": "eye from a side",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_oko.jpg",
       "sitelen_emosi": "\ud83d\udc41\ufe0f",
@@ -7912,6 +8018,8 @@
         "en": "{see lukin} | ALT eye, ocular, visual {cf. lukin}",
         "pl": "{patrz lukin} | ALT oko, oczny, wzrokowy {por\u00f3wnaj lukin}",
         "ru": "{\u0441\u043c. lukin} | ALT \u0433\u043b\u0430\u0437, \u0433\u043b\u0430\u0437\u043d\u043e\u0439, \u0437\u0440\u0438\u0442\u0435\u043b\u044c\u043d\u044b\u0439 {\u0441\u0440. lukin}",
+        "isv_l": "{vidi lukin} | ALT oko, o\u010dny, vizualny {sr. lukin}",
+        "isv_c": "{\u0432\u0438\u0434\u0438 lukin} | ALT \u043e\u043a\u043e, \u043e\u0447\u043d\u044b, \u0432\u0438\u0437\u0443\u0430\u043b\u043d\u044b {\u0441\u0440. lukin}",
         "eo": "{vidu lukin} | ALT okulo, okula, vida {kp. lukin}",
         "de": "Auge, Okular",
         "tok": "oko li insa lukin pi sijelo jan. jan li lukin kepeken oko ona.",
@@ -7937,6 +8045,7 @@
     "olin": {
       "word": "olin",
       "sitelen_pona": "olin olin2",
+      "ucsur": "U+F1945",
       "sitelen_pona_etymology": "two heart symbols (\u2661), perhaps to distinguish from pilin",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_olin.jpg",
       "sitelen_emosi": "\ud83d\udc95",
@@ -8104,6 +8213,7 @@
     "ona": {
       "word": "ona",
       "sitelen_pona": "ona",
+      "ucsur": "U+F1946",
       "sitelen_pona_etymology": "perhaps a hand pointing sideways. compare mi and sina",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_ona.jpg",
       "sitelen_emosi": "\ud83d\udc46",
@@ -8196,6 +8306,7 @@
     "open": {
       "word": "open",
       "sitelen_pona": "open",
+      "ucsur": "U+F1947",
       "sitelen_pona_etymology": "perhaps a pictogram of an opened container",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_open.jpg",
       "sitelen_emosi": "\ud83d\udd13",
@@ -8324,6 +8435,7 @@
     "pakala": {
       "word": "pakala",
       "sitelen_pona": "pakala",
+      "ucsur": "U+F1948",
       "sitelen_pona_etymology": "pictogram of a cracked object",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_pakala.jpg",
       "sitelen_emosi": "\ud83d\udca5",
@@ -8378,6 +8490,7 @@
     "pake": {
       "word": "pake",
       "sitelen_pona": "pake",
+      "ucsur": "U+F19A0",
       "sitelen_emosi": "\ud83d\udea7",
       "audio": {
         "jan_lakuse": "http://antetokipona.infinityfreeapp.com/kalama/jlakuse/pake.mp3"
@@ -8427,6 +8540,7 @@
     "pali": {
       "word": "pali",
       "sitelen_pona": "pali",
+      "ucsur": "U+F1949",
       "sitelen_pona_etymology": "hand modifier + ijo",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_pali.jpg",
       "sitelen_emosi": "\u270a",
@@ -8480,6 +8594,7 @@
     "palisa": {
       "word": "palisa",
       "sitelen_pona": "palisa",
+      "ucsur": "U+F194A",
       "sitelen_pona_etymology": "pictogram of a stick",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_palisa.jpg",
       "sitelen_emosi": "\ud83d\udccf",
@@ -8534,6 +8649,7 @@
     "pan": {
       "word": "pan",
       "sitelen_pona": "pan",
+      "ucsur": "U+F194B",
       "sitelen_pona_etymology": "perhaps a pictogram of a grain crop",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_pan.jpg",
       "sitelen_emosi": "\ud83c\udf5e",
@@ -8589,6 +8705,7 @@
     "pana": {
       "word": "pana",
       "sitelen_pona": "pana",
+      "ucsur": "U+F194C",
       "sitelen_pona_etymology": "emission modifier + luka",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_pana.jpg",
       "sitelen_emosi": "\ud83d\udce4",
@@ -8821,6 +8938,7 @@
     "pi": {
       "word": "pi",
       "sitelen_pona": "pi",
+      "ucsur": "U+F194D",
       "sitelen_pona_etymology": "perhaps from tilted blissymbol \u201cby\u201d",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_pi.jpg",
       "sitelen_emosi": "\u23f9\ufe0f",
@@ -8907,6 +9025,7 @@
     "pilin": {
       "word": "pilin",
       "sitelen_pona": "pilin",
+      "ucsur": "U+F194E",
       "sitelen_pona_etymology": "from heart symbol (\u2661). compare blissymbol \u201cfeeling\u201d",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_pilin.jpg",
       "sitelen_emosi": "\u2764\ufe0f",
@@ -8961,6 +9080,7 @@
     "pimeja": {
       "word": "pimeja",
       "sitelen_pona": "pimeja",
+      "ucsur": "U+F194F",
       "sitelen_pona_etymology": "color radical; perhaps the cross representing the absence of light",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_pimeja.jpg",
       "sitelen_emosi": "\u26ab",
@@ -9054,6 +9174,7 @@
     "pini": {
       "word": "pini",
       "sitelen_pona": "pini",
+      "ucsur": "U+F1950",
       "sitelen_pona_etymology": "perhaps a blocking wall",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_pini.jpg",
       "sitelen_emosi": "\ud83c\udfc1",
@@ -9109,6 +9230,7 @@
     "pipi": {
       "word": "pipi",
       "sitelen_pona": "pipi",
+      "ucsur": "U+F1951",
       "sitelen_pona_etymology": "animal radical; pictogram of a bug",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_pipi.jpg",
       "sitelen_emosi": "\ud83d\udc1e",
@@ -9255,6 +9377,7 @@
     "poka": {
       "word": "poka",
       "sitelen_pona": "poka",
+      "ucsur": "U+F1952",
       "sitelen_pona_etymology": "location radical + \u201ccontainer\u201d",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_poka.jpg",
       "sitelen_emosi": "\u2194\ufe0f",
@@ -9309,6 +9432,7 @@
     "poki": {
       "word": "poki",
       "sitelen_pona": "poki",
+      "ucsur": "U+F1953",
       "sitelen_pona_etymology": "pictogram of a container",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_poki.jpg",
       "sitelen_emosi": "\ud83d\udce6",
@@ -9452,6 +9576,7 @@
     "pona": {
       "word": "pona",
       "sitelen_pona": "pona",
+      "ucsur": "U+F1954",
       "sitelen_pona_etymology": "pictogram of a smiling mouth. compare ike",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_pona.jpg",
       "sitelen_emosi": "\ud83d\udc4d",
@@ -9537,6 +9662,7 @@
     "powe": {
       "word": "powe",
       "sitelen_pona": "powe",
+      "ucsur": "U+F19A3",
       "sitelen_emosi": "\ud83e\uddde",
       "audio": {
         "jan_lakuse": "http://antetokipona.infinityfreeapp.com/kalama/jlakuse/powe.mp3"
@@ -9585,6 +9711,7 @@
     "pu": {
       "word": "pu",
       "sitelen_pona": "pu",
+      "ucsur": "U+F1955",
       "sitelen_pona_etymology": "pictogram of the cover of the book \u201cToki Pona: The Language of Good\u201d. Alternatively a semantic compound glyph of lipu and toki pona",
       "sitelen_emosi": "\ud83d\udcd6",
       "audio": {
@@ -9674,6 +9801,7 @@
     "sama": {
       "word": "sama",
       "sitelen_pona": "sama",
+      "ucsur": "U+F1956",
       "sitelen_pona_etymology": "from equal sign (=). compare blissymbol \u201csame\u201d",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_sama.jpg",
       "sitelen_emosi": "\u2696\ufe0f",
@@ -9824,6 +9952,7 @@
     "seli": {
       "word": "seli",
       "sitelen_pona": "seli",
+      "ucsur": "U+F1957",
       "sitelen_pona_etymology": "perhaps a pictogram of a lit campfire or a simplified pictogram of a fire",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_seli.jpg",
       "sitelen_emosi": "\ud83d\udd25",
@@ -9876,6 +10005,7 @@
     "selo": {
       "word": "selo",
       "sitelen_pona": "selo",
+      "ucsur": "U+F1958",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_selo.jpg",
       "sitelen_emosi": "\ud83d\udd32",
       "luka_pona": {
@@ -9926,6 +10056,7 @@
     "seme": {
       "word": "seme",
       "sitelen_pona": "seme",
+      "ucsur": "U+F1959",
       "sitelen_pona_etymology": "from question mark (?). compare blissymbol \u201cwhat\u201d",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_seme.jpg",
       "sitelen_emosi": "\u2753",
@@ -9980,6 +10111,7 @@
     "sewi": {
       "word": "sewi",
       "sitelen_pona": "sewi sewi2",
+      "ucsur": "U+F195A",
       "sitelen_pona_etymology": "from arabic \u0661\u0651\u0644\u0644\u064e\u0647\u200e \u201callah\u201d",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_sewi.jpg",
       "sitelen_emosi": "\u2b06\ufe0f",
@@ -10031,6 +10163,7 @@
     "sijelo": {
       "word": "sijelo",
       "sitelen_pona": "sijelo",
+      "ucsur": "U+F195B",
       "sitelen_pona_etymology": "perhaps a pictogram of a torso",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_sijelo.jpg",
       "sitelen_emosi": "\ud83c\udfcb\ufe0f",
@@ -10082,6 +10215,7 @@
     "sike": {
       "word": "sike",
       "sitelen_pona": "sike",
+      "ucsur": "U+F195C",
       "sitelen_pona_etymology": "two circles, perhaps to distinguish from ijo. alternatively outline of a thick empty circle",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_sike.jpg",
       "sitelen_emosi": "\u2b55",
@@ -10175,6 +10309,7 @@
     "sin": {
       "word": "sin",
       "sitelen_pona": "sin",
+      "ucsur": "U+F195D",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_sin.jpg",
       "sitelen_emosi": "\ud83c\udf81",
       "luka_pona": {
@@ -10228,6 +10363,7 @@
     "sina": {
       "word": "sina",
       "sitelen_pona": "sina",
+      "ucsur": "U+F195E",
       "sitelen_pona_etymology": "perhaps a hand pointing towards the listener. compare mi and ona",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_sina.jpg",
       "sitelen_emosi": "\ud83d\udc49",
@@ -10283,6 +10419,7 @@
     "sinpin": {
       "word": "sinpin",
       "sitelen_pona": "sinpin",
+      "ucsur": "U+F195F",
       "sitelen_pona_etymology": "location radical + rotate \u201ccontainer\u201d. compare monsi",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_sinpin.jpg",
       "sitelen_emosi": "\u27a1\ufe0f",
@@ -10370,6 +10507,7 @@
     "sitelen": {
       "word": "sitelen",
       "sitelen_pona": "sitelen",
+      "ucsur": "U+F1960",
       "sitelen_pona_etymology": "perhaps a representation of symbols on a piece of paper (lipu)",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_sitelen.jpg",
       "sitelen_emosi": "\ud83d\uddbc\ufe0f",
@@ -10455,6 +10593,7 @@
     "soko": {
       "word": "soko",
       "sitelen_pona": "soko",
+      "ucsur": "U+F1981",
       "sitelen_pona_etymology": "mushroom",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_soko.jpg",
       "sitelen_emosi": "\ud83c\udf44",
@@ -10508,6 +10647,7 @@
     "sona": {
       "word": "sona",
       "sitelen_pona": "sona",
+      "ucsur": "U+F1961",
       "sitelen_pona_etymology": "emission modifier + lipu",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_sona.jpg",
       "sitelen_emosi": "\ud83e\udde0",
@@ -10606,6 +10746,7 @@
     "soweli": {
       "word": "soweli",
       "sitelen_pona": "soweli",
+      "ucsur": "U+F1962",
       "sitelen_pona_etymology": "animal radical; pictogram of a mammal",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_soweli.jpg",
       "sitelen_emosi": "\ud83d\udc12",
@@ -10731,6 +10872,7 @@
     "suli": {
       "word": "suli",
       "sitelen_pona": "suli",
+      "ucsur": "U+F1963",
       "sitelen_pona_etymology": "ideogram showing bigger size compared to lili",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_suli.jpg",
       "sitelen_emosi": "\ud83d\udc18",
@@ -10784,6 +10926,7 @@
     "suno": {
       "word": "suno",
       "sitelen_pona": "suno",
+      "ucsur": "U+F1964",
       "sitelen_pona_etymology": "pictogram of the sun",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_suno.jpg",
       "sitelen_emosi": "\u2600\ufe0f",
@@ -10836,6 +10979,7 @@
     "supa": {
       "word": "supa",
       "sitelen_pona": "supa",
+      "ucsur": "U+F1965",
       "sitelen_pona_etymology": "pictogram of a table. compare blissymbol \u201ctable\u201d",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_supa.jpg",
       "sitelen_emosi": "\ud83d\udecf\ufe0f",
@@ -10933,6 +11077,7 @@
     "suwi": {
       "word": "suwi",
       "sitelen_pona": "suwi",
+      "ucsur": "U+F1966",
       "sitelen_pona_etymology": "perhaps a pictogram of a smiling face",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_suwi.jpg",
       "sitelen_emosi": "\ud83c\udf6d",
@@ -11027,6 +11172,7 @@
     "tan": {
       "word": "tan",
       "sitelen_pona": "tan",
+      "ucsur": "U+F1967",
       "sitelen_pona_etymology": "a leaping arrow pointing from right to left, implying derivation or cause",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_tan.jpg",
       "sitelen_emosi": "\u21a9\ufe0f",
@@ -11078,6 +11224,7 @@
     "taso": {
       "word": "taso",
       "sitelen_pona": "taso",
+      "ucsur": "U+F1968",
       "sitelen_pona_etymology": "from blissymbol \u201cbut\u201d",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_taso.jpg",
       "sitelen_emosi": "\ud83e\udd14",
@@ -11131,6 +11278,7 @@
     "tawa": {
       "word": "tawa",
       "sitelen_pona": "tawa",
+      "ucsur": "U+F1969",
       "sitelen_pona_etymology": "motion radical; legs facing to the right. compare kama and blissymbol \u201cwalk\u201d",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_tawa.jpg",
       "sitelen_emosi": "\u21aa\ufe0f",
@@ -11272,6 +11420,7 @@
     "telo": {
       "word": "telo",
       "sitelen_pona": "telo",
+      "ucsur": "U+F196A",
       "sitelen_pona_etymology": "pictogram of wave. compare blissymbol \u201cwater\u201d",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_telo.jpg",
       "sitelen_emosi": "\ud83d\udca7",
@@ -11366,6 +11515,7 @@
     "tenpo": {
       "word": "tenpo",
       "sitelen_pona": "tenpo",
+      "ucsur": "U+F196B",
       "sitelen_pona_etymology": "pictogram of a clock. compare blissymbol \u201ctime\u201d",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_tenpo.jpg",
       "sitelen_emosi": "\u23f0",
@@ -11500,6 +11650,7 @@
     "toki": {
       "word": "toki",
       "sitelen_pona": "toki",
+      "ucsur": "U+F196C",
       "sitelen_pona_etymology": "emission modifier + ijo or a general circle",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_toki.jpg",
       "sitelen_emosi": "\ud83d\udde3\ufe0f",
@@ -11587,6 +11738,7 @@
     "tomo": {
       "word": "tomo",
       "sitelen_pona": "tomo",
+      "ucsur": "U+F196D",
       "sitelen_pona_etymology": "pictogram of a house. compare blissymbol \u201chouse\u201d",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_tomo.jpg",
       "sitelen_emosi": "\ud83c\udfe0",
@@ -11638,6 +11790,7 @@
     "tonsi": {
       "word": "tonsi",
       "sitelen_pona": "tonsi",
+      "ucsur": "U+F197E",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_tonsi.jpg",
       "sitelen_emosi": "\u2650",
       "audio": {
@@ -11663,6 +11816,8 @@
         "en": "non-binary, gender-non-conforming | ALT trans, non-cisgender",
         "pl": "niebinarny, nonkonformuj\u0105cy p\u0142ciowo | ALT trans, nie cis",
         "ru": "\u043d\u0435\u0431\u0438\u043d\u0430\u0440\u043d\u044b\u0439, \u0433\u0435\u043d\u0434\u0435\u0440\u043d\u043e-\u043d\u0435\u043a\u043e\u043d\u0444\u043e\u0440\u043c\u043d\u044b\u0439 | ALT \u0442\u0440\u0430\u043d\u0441\u0433\u0435\u043d\u0434\u0435\u0440\u043d\u044b\u0439, \u043d\u0435\u0446\u0438\u0441\u0433\u0435\u043d\u0434\u0435\u0440\u044b\u0439",
+        "isv_l": "nebinarny, ne konformuju\u010di do pola | ALT transgenderny, ne cisgenderny",
+        "isv_c": "\u043d\u0435\u0431\u0438\u043d\u0430\u0440\u043d\u044b, \u043d\u0435 \u043a\u043e\u043d\u0444\u043e\u0440\u043c\u0443\u0458\u0443\u0447\u0438 \u0434\u043e \u043f\u043e\u043b\u0430 | ALT \u0442\u0440\u0430\u043d\u0441\u0433\u0435\u043d\u0434\u0435\u0440\u043d\u044b, \u043d\u0435 \u0446\u0438\u0441\u0433\u0435\u043d\u0434\u0435\u0440\u043d\u044b",
         "eo": "neduuma, genre nekonforma | ALT transseksa, transgenra, necisseksa",
         "de": "divers (Geschlechter)",
         "tok": "jan li mije ala li meli ala la, ona li tonsi. jan li mije tawa meli anu meli tawa mije la, ona li tonsi.",
@@ -11689,6 +11844,7 @@
     "tu": {
       "word": "tu",
       "sitelen_pona": "tu",
+      "ucsur": "U+F196E",
       "sitelen_pona_etymology": "two tally marks. compare mute and wan",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_tu.jpg",
       "sitelen_emosi": "\u270c\ufe0f",
@@ -11861,6 +12017,7 @@
     "unpa": {
       "word": "unpa",
       "sitelen_pona": "unpa",
+      "ucsur": "U+F196F",
       "sitelen_pona_etymology": "perhaps a derivation of heart symbol (especially visible from the original drawing of the character), or a knot pattern implying intercourse, or perhaps a pictogram of a genitalia",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_unpa.jpg",
       "sitelen_emosi": "\ud83c\udf46",
@@ -12000,6 +12157,7 @@
     "uta": {
       "word": "uta",
       "sitelen_pona": "uta uta2",
+      "ucsur": "U+F1970",
       "sitelen_pona_etymology": "\u201cmouth\u201d with a dot below",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_uta.jpg",
       "sitelen_emosi": "\ud83d\udc44",
@@ -12052,6 +12210,7 @@
     "utala": {
       "word": "utala",
       "sitelen_pona": "utala",
+      "ucsur": "U+F1971",
       "sitelen_pona_etymology": "perhaps from crossed swords symbol (\u2694\ufe0f)",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_utala.jpg",
       "sitelen_emosi": "\u2694\ufe0f",
@@ -12190,6 +12349,7 @@
     "walo": {
       "word": "walo",
       "sitelen_pona": "walo",
+      "ucsur": "U+F1972",
       "sitelen_pona_etymology": "color radical; perhaps the reverse of pimeja, the color radical cutting of the cross instead of vice versa",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_walo.jpg",
       "sitelen_emosi": "\u26aa",
@@ -12241,6 +12401,7 @@
     "wan": {
       "word": "wan",
       "sitelen_pona": "wan",
+      "ucsur": "U+F1973",
       "sitelen_pona_etymology": "one tally mark or Indo-Arabic numeral 1, perhaps to make it more distinct",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_wan.jpg",
       "sitelen_emosi": "\u261d\ufe0f",
@@ -12293,6 +12454,7 @@
     "waso": {
       "word": "waso",
       "sitelen_pona": "waso",
+      "ucsur": "U+F1974",
       "sitelen_pona_etymology": "animal radical; pictogram of a bird",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_waso.jpg",
       "sitelen_emosi": "\ud83e\udd85",
@@ -12380,6 +12542,7 @@
     "wawa": {
       "word": "wawa",
       "sitelen_pona": "wawa",
+      "ucsur": "U+F1975",
       "sitelen_pona_etymology": "perhaps a pictogram of a person with raised arms, to signify strength",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_wawa.jpg",
       "sitelen_emosi": "\u26a1",
@@ -12513,6 +12676,7 @@
     "weka": {
       "word": "weka",
       "sitelen_pona": "weka",
+      "ucsur": "U+F1976",
       "sitelen_pona_etymology": "\u201cpoof lines\u201d; indicating the movement of something disappearing",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_weka.jpg",
       "sitelen_emosi": "\ud83d\udeeb",
@@ -12642,6 +12806,7 @@
     "wile": {
       "word": "wile",
       "sitelen_pona": "wile wile2",
+      "ucsur": "U+F1977",
       "sitelen_pona_etymology": "perhaps from Latin letter W",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_wile.jpg",
       "sitelen_emosi": "\ud83d\udcad",
