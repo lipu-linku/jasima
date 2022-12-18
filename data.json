@@ -397,12 +397,12 @@
       "name_toki_pona": "toki Nosiki sin",
       "credits": "jan Okun",
       "completeness_percent": {
-        "obscure": "25",
-        "rare": "40",
-        "uncommon": "45",
-        "common": "48",
-        "widespread": "50",
-        "core": "54"
+        "obscure": "36",
+        "rare": "59",
+        "uncommon": "65",
+        "common": "70",
+        "widespread": "73",
+        "core": "79"
       }
     },
     "nob": {
@@ -412,12 +412,12 @@
       "name_toki_pona": "toki Nosiki",
       "credits": "jan Okun",
       "completeness_percent": {
-        "obscure": "25",
-        "rare": "40",
-        "uncommon": "45",
-        "common": "48",
-        "widespread": "50",
-        "core": "54"
+        "obscure": "36",
+        "rare": "59",
+        "uncommon": "65",
+        "common": "70",
+        "widespread": "73",
+        "core": "79"
       }
     },
     "pa": {
@@ -942,7 +942,7 @@
         "ja": "\u5b58\u5728\u3057\u306a\u3044\u3001\uff5e\u3067\u306a\u3044\u3001\u96f6; [~ ala ~] (\u80af\u5b9a\uff0f\u5426\u5b9a\u3092\u554f\u3046\u7591\u554f\u6587\u3092\u3064\u304f\u308b); \u7121",
         "ko": "\ubc18\ub300\ud558\ub294 \ud45c\ud604 (\ud639\uc740 0); \ucc2c\ubc18 \uc9c8\ubb38\uc5d0\ub3c4 \uc4f0\uc784 (~ ala ~)",
         "cs": "ne, nikoliv, nula; [~ ala ~] (pro konstrukci ot\u00e1zky \"ano-ne\"); nic",
-        "nno": "nei, ikkje, null; (brukast til \u00e5 formulera ja-nei-sp\u00f8rsm\u00e5l); ingenting",
+        "nno": "nei, ikkje, null; (brukast til \u00e5 formulere ja-nei-sp\u00f8rsm\u00e5l); ingenting",
         "nob": "nei, ikke, null; (brukes til \u00e5 formulere ja-nei-sp\u00f8rsm\u00e5l); ingenting",
         "lt": "(ne, n\u0117ra, niekas, nulis, da\u017eniausiai naudojamas taip ar ne klausimuose)"
       }
@@ -1075,8 +1075,8 @@
         "ja": "\u5168\u90e8\u306e; \u5168\u4f53\u306e\u3001\u3042\u3089\u3086\u308b\u3001\u7121\u6570\u306e\u3001\u5927\u91cf\u306e; \u3059\u3079\u3066\u3001\u4eba\u751f\u3001\u5b87\u5b99; \u767e",
         "ko": "\ubaa8\ub450; \ubaa8\ub4e0 \uac83. \uc778\uc0dd, \uc6b0\uc8fc, \ub9ce\uc740 (\ud639\uc740 \uc22b\uc790 100)",
         "cs": "v\u0161e; hojn\u00fd, vydatn\u00fd, ka\u017ed\u00fd, mnoh\u00fd; hojnost, v\u0161e, \u017eivot, vesm\u00edr; sto | ALT 100",
-        "nno": "alle; dr\u00f8ssevis, tusenvis, rikeleg, overflod; alt, liv, univers | ALT 100",
-        "nob": "alle; tallrik, utallig, tusenvis, rikelig, overflod; alt, liv, univers | ALT 100",
+        "nno": "alle; talrik, dr\u00f8ssevis, tusenvis, rikeleg, overflod; alt, liv, univers | ALT ett hundre",
+        "nob": "alle; tallrik, dr\u00f8ssevis, tusenvis, rikelig, overflod; alt, liv, univers | ALT ett hundre",
         "lt": "(Viskas, daug, nesuskai\u010diuojama, gyvyb\u0117, visata | ALT \u0161imtas)"
       }
     },
@@ -1331,8 +1331,8 @@
         "ja": "\u7570\u306a\u308b\u3001\u5225\u306e\u3001\u4ee3\u66ff\u306e\u3001\u307b\u304b\u306e\u3001\u66ff\u3048\u308b",
         "ko": "\ub2e4\ub974\ub2e4, \ubc14\uafb8\ub2e4, \ub2ec\ub9ac \ud558\ub2e4",
         "cs": "jin\u00fd, zm\u011bn\u011bn\u00fd, r\u016fzn\u00fd",
-        "nno": "forskjellig, ulik, annan; forandre, endre",
-        "nob": "forskjellig, annerledes, forandret, endret, annen",
+        "nno": "forskjellig, annleis, annan; forandra, endra",
+        "nob": "forskjellig, annerledes, annen; forandret, endret",
         "lt": "(Pasikeit\u0119s, pakeistas, kitoks, kitas)"
       }
     },
@@ -2223,8 +2223,8 @@
         "ja": "\u9053\u5177\u3001\u8a2d\u5099\u3001\u6a5f\u68b0\u3001\u88c5\u7f6e",
         "ko": "\ub3c4\uad6c; \uae30\uacc4",
         "cs": "n\u00e1stroj, n\u00e1\u0159ad\u00ed, p\u0159\u00edstroj, za\u0159\u00edzen\u00ed",
-        "nno": "verkt\u00f8y, reiskap, instrument, maskin, eining",
-        "nob": "verkt\u00f8y, redskap, instrument, maskin, enhet"
+        "nno": "verkt\u00f8y, reiskap, instrument, maskin, apparat",
+        "nob": "verkt\u00f8y, redskap, instrument, maskin, apparat"
       }
     },
     "insa": {
@@ -2285,8 +2285,8 @@
         "ja": "\u4e2d\u5fc3\u3001\u5185\u90e8\u3001\u4e2d\u9593\u3001\u5185\u5bb9; \u5185\u81d3\u3001\u8179",
         "ko": "\uc911\uc2ec, \uc548\ucabd, \ub0b4\uc6a9; \uc704\uc7a5",
         "cs": "st\u0159ed, obsah, vnit\u0159ek, uvnit\u0159, mezi; vnit\u0159nosti, \u017ealudek",
-        "nno": "sentrum, innhald, innside; inni, mellom; indre organ, mage",
-        "nob": "sentrum, innhold, innside; inni, mellom; indre organ, mage"
+        "nno": "sentrum, innhald, innside, inni, mellom; indre organ, mage",
+        "nob": "sentrum, innhold, innside, inni, mellom; indre organ, mage"
       }
     },
     "ipi": {
@@ -3300,7 +3300,7 @@
         "ko": "\ub3c4\ucc29\ud558\ub2e4, \uc624\ub2e4, \ubbf8\ub798; (pv.) \uc131\uacf5\ud558\ub2e4, \ubcc0\uc2e0\ud558\ub2e4",
         "cs": "p\u0159\u00edchoz\u00ed, bl\u00ed\u017e\u00edc\u00ed se, budouc\u00ed, p\u0159ivolan\u00fd; (p\u0159edsl.) st\u00e1t se, dok\u00e1zat, zdolat",
         "nno": "komande, fremtidig, p\u00e5kalla; (pv.) \u00e5 verte (til), klare \u00e5, lykkast i",
-        "nob": "kommende, ankommende, fremtidig, p\u00e5kalt; (pv.) \u00e5 bli (til), klare \u00e5, lykkes i"
+        "nob": "kommende, fremtidig, p\u00e5kalt; (pv.) \u00e5 bli (til), klare \u00e5, lykkes i"
       }
     },
     "kamalawala": {
@@ -7962,7 +7962,9 @@
         "sv": "namn, ord",
         "ja": "\u540d\u524d\u3001\u8a00\u8449\u3001\u5358\u8a9e",
         "ko": "\uc774\ub984, \ub0b1\ub9d0",
-        "cs": "jm\u00e9no, slovo"
+        "cs": "jm\u00e9no, slovo",
+        "nno": "namn, ord",
+        "nob": "navn, ord"
       }
     },
     "nimisin": {
@@ -8086,7 +8088,9 @@
         "sv": "fot, ben, r\u00f6relseorgan; botten, nedre bit |ALT tio; tjugo; minus fem",
         "ja": "\u8db3\u3001\u811a\u3001\u79fb\u52d5\u5668\u5b98; \u4e0b\u3001\u4e0b\u90e8 | ALT \u5341; \u4e8c\u5341; \u30de\u30a4\u30ca\u30b9\u4e94",
         "ko": "\ubc1c, \ub2e4\ub9ac; \uc544\ub7ab\ubd80\ubd84 | ALT 10; 20; -5",
-        "cs": "noha, chodidlo, pohybov\u00e1 kon\u010detina; spodn\u00ed, doln\u00ed | ALT deset; dvacet; minus p\u011bt"
+        "cs": "noha, chodidlo, pohybov\u00e1 kon\u010detina; spodn\u00ed, doln\u00ed | ALT deset; dvacet; minus p\u011bt",
+        "nno": "fot, bein, ganglem; botn, nedre del | ALT ti; tjue; minus fem",
+        "nob": "fot, bein, ganglem; bunn, nedre del | ALT ti; tjue; minus fem"
       }
     },
     "nu": {
@@ -8181,7 +8185,9 @@
         "sv": "hall\u00e5! O! (vokativ, imperativ eller optativ)",
         "ja": "(\u547c\u3073\u304b\u3051\u306e\u58f0) (\u8ff0\u8a9e\u306e\u524d\u306b li \u306e\u4ee3\u308a\u306b\u304a\u304f\u3053\u3068\u3067\u547d\u4ee4\u6587/\u610f\u5fd7\u6587\u3092\u3064\u304f\u308b)",
         "ko": "\uc57c!",
-        "cs": "hej! (osloven\u00ed, rozkaz, pob\u00eddnut\u00ed)"
+        "cs": "hej! (osloven\u00ed, rozkaz, pob\u00eddnut\u00ed)",
+        "nno": "hei! \u00e5! (vokativ, imperativ, eller optativ)",
+        "nob": "hei! \u00e5! (vokativ, imperativ, eller optativ)"
       }
     },
     "ojuta": {
@@ -8439,7 +8445,9 @@
         "sv": "k\u00e4rlek, ha medk\u00e4nsla f\u00f6r, respektera, visa \u00f6mhet till",
         "ja": "\u611b\u3059\u308b\u3001\u604b\u3059\u308b\u3001\u540c\u60c5\u3059\u308b\u3001\u656c\u611b\u3059\u308b\u3001\u611b\u60c5\u3092\u793a\u3059 (\u611f\u60c5\u7684\u306a\u7e6b\u304c\u308a\u30fb\u7d46\u3092\u542b\u610f\u3059\u308b\u306e\u3067\u3001\u5358\u306b\u597d\u307e\u3057\u3044\u3068\u3044\u3046\u610f\u5473\u3067\u306f\u4f7f\u308f\u308c\u306a\u3044)",
         "ko": "\uc0ac\ub791, \uc874\uacbd",
-        "cs": "l\u00e1ska, souc\u00edtit, v\u00e1\u017eit si, projevovat n\u00e1klonnost"
+        "cs": "l\u00e1ska, souc\u00edtit, v\u00e1\u017eit si, projevovat n\u00e1klonnost",
+        "nno": "elske, ha medkjensle med, respektere, vise kj\u00e6rleik for",
+        "nob": "elske, medlide, respektere, vise kj\u00e6rlighet for"
       }
     },
     "omekalike": {
@@ -8614,7 +8622,9 @@
         "sv": "han, hon, hen, den, de",
         "ja": "\u5f7c\u3001\u5f7c\u5973\u3001\u5f7c\u3089\u3001\u305d\u308c\u3001\u305d\u308c\u3089",
         "ko": "\uadf8, \uadf8\ub140, \uadf8\uac83, \uadf8\ub4e4",
-        "cs": "on, ona, ono, oni, ony"
+        "cs": "on, ona, ono, oni, ony",
+        "nno": "han, ho, hen, den, det, dei",
+        "nob": "han, hun, hen, den, det, de"
       }
     },
     "oni": {
@@ -8708,7 +8718,9 @@
         "sv": "b\u00f6rja, starta; \u00f6ppna; s\u00e4tta p\u00e5",
         "ja": "\u59cb\u3081\u308b\u3001\u59cb\u307e\u308b; \u958b\u304f; \u958b\u3051\u308b",
         "ko": "\uc2dc\uc791\ud558\ub2e4; \uc5f4\ub2e4; \ucf1c\ub2e4",
-        "cs": "za\u010d\u00edt; otev\u0159\u00edt; zapnout"
+        "cs": "za\u010d\u00edt; otev\u0159\u00edt; zapnout",
+        "nno": "byrje, starte; opne; skru p\u00e5",
+        "nob": "begynne, starte; \u00e5pne; skru p\u00e5"
       }
     },
     "owe": {
@@ -8837,7 +8849,9 @@
         "sv": "misslyckande, trasig, bruten, skadad, upptrasslad | ALT (svordom, e.g. fan!)",
         "ja": "\u58ca\u308c\u305f\u3001\u50b7\u3064\u3044\u305f\u3001\u5931\u6557\u3057\u305f\u3001\u58ca\u3059\u3001\u50b7\u3064\u3051\u308b | ALT (\u300c\u304f\u305d\uff01\u300d\u306e\u3088\u3046\u306a\u7f75\u58f0)",
         "ko": "\uc190\uc0c1\ub418\ub2e4, \ubd80\uc218\ub2e4, \ub9dd\uce58\ub2e4 | ALT (\uc695, \uc608: \uc544\uc774\uc528!)",
-        "cs": "nevyda\u0159en\u00fd, rozbit\u00fd, po\u0161kozen\u00fd, zran\u011bn\u00fd, zane\u0159\u00e1d\u011bn\u00fd | ALT (nad\u00e1vka, nap\u0159. sakra!)"
+        "cs": "nevyda\u0159en\u00fd, rozbit\u00fd, po\u0161kozen\u00fd, zran\u011bn\u00fd, zane\u0159\u00e1d\u011bn\u00fd | ALT (nad\u00e1vka, nap\u0159. sakra!)",
+        "nno": "\u00f8ydelagd, knust, skadd, s\u00e5ra, rota til, slurva; (som banneord, t.d. faen!)",
+        "nob": "\u00f8delagt, knust, skadet, s\u00e5ret, rotet til, slurvet; (som banneord, f.eks. faen!)"
       }
     },
     "pake": {
@@ -8943,7 +8957,9 @@
         "sv": "g\u00f6ra, att vidta \u00e5tg\u00e4rder, jobba p\u00e5, skapa, f\u00f6rbreda",
         "ja": "\u3059\u308b\u3001\u884c\u52d5\u3059\u308b\u3001\u50cd\u304f; \u4f5c\u308b\u3001\u69cb\u7bc9\u3059\u308b\u3001\u7528\u610f\u3059\u308b",
         "ko": "\ud558\ub2e4; \uac74\uc124\ud558\ub2e4, \ub9cc\ub4e4\ub2e4, \uc900\ube44\ud558\ub2e4",
-        "cs": "d\u011blat, pracovat (na); stav\u011bt, vyr\u00e1b\u011bt, vytv\u00e1\u0159et"
+        "cs": "d\u011blat, pracovat (na); stav\u011bt, vyr\u00e1b\u011bt, vytv\u00e1\u0159et",
+        "nno": "gjere, f\u00f8reta, jobbe med; byggje, lage, forberede",
+        "nob": "gj\u00f8re, foreta, jobbe med; bygge, lage, forberede"
       }
     },
     "palisa": {
@@ -8999,7 +9015,9 @@
         "sv": "l\u00e5ng h\u00e5rd sak; kvist, stav, pinne",
         "ja": "\u9577\u304f\u3066\u5805\u3044\u3082\u306e; \u679d\u3001\u68d2",
         "ko": "\uae38\uace0  \ub531\ub531\ud55c \ubb3c\uccb4; \ub098\ubb47\uac00\uc9c0, \ub09a\uc2dc\ub300, \ub9c9\ub300",
-        "cs": "dlouh\u00e1 pevn\u00e1 v\u011bc; klacek, v\u011btev, h\u016fl, h\u016flka"
+        "cs": "dlouh\u00e1 pevn\u00e1 v\u011bc; klacek, v\u011btev, h\u016fl, h\u016flka",
+        "nno": "l\u00e5ng og hard ting, stokk, stav, kjepp, kvist",
+        "nob": "lang og hard ting, stokk, stav, kjepp, kvist"
       }
     },
     "pan": {
@@ -9056,7 +9074,9 @@
         "sv": "flingor, korn; ris, vete; br\u00f6d, pasta",
         "ja": "\u7a40\u985e\u3001\u7a40\u7269; \u3054\u306f\u3093\u3001\u9ea6\u3001\u7c73; \u30d1\u30f3\u3001\u9eb5",
         "ko": "\uc2dc\ub9ac\uc5bc, \uace1\uc2dd; \uc625\uc218\uc218, \ubc25, \ube75, \ud30c\uc2a4\ud0c0",
-        "cs": "obil\u00ed, zrn\u00ed; je\u010dmen, kuku\u0159ice, r\u00fd\u017ee, p\u0161enice; chl\u00e9b, t\u011bstoviny"
+        "cs": "obil\u00ed, zrn\u00ed; je\u010dmen, kuku\u0159ice, r\u00fd\u017ee, p\u0161enice; chl\u00e9b, t\u011bstoviny",
+        "nno": "korn, gryn, kornblanding; bygg, mais, havre, ris, kveite; br\u00f8d, pasta",
+        "nob": "korn, gryn, kornblanding; bygg, mais, havre, ris, hvete; br\u00f8d, pasta"
       }
     },
     "pana": {
@@ -9111,7 +9131,9 @@
         "sv": "att ge, skicka, avge, f\u00f6rse, st\u00e4lla, sl\u00e4ppa",
         "ja": "\u4e0e\u3048\u308b\u3001\u9001\u308b\u3001\u767a\u3059\u308b\u3001\u6388\u3051\u308b\u3001\u7f6e\u304f\u3001\u653e\u3059",
         "ko": "\uc8fc\ub2e4, \ubcf4\ub0b4\ub2e4, \uc804\uc1a1\ud558\ub2e4, \ub123\ub2e4",
-        "cs": "d\u00e1t, poslat, vyslat, vydat, poskytnout, polo\u017eit"
+        "cs": "d\u00e1t, poslat, vyslat, vydat, poskytnout, polo\u017eit",
+        "nno": "gje, utgje, sende, forsyne, putte, sleppe",
+        "nob": "gi, utgi, sende, forsyne, putte, slippe"
       }
     },
     "pasila": {
@@ -9350,7 +9372,9 @@
         "hr": "od (dijeli drugu skupinu imenica koja opisuje prvu) | ALT (ozna\u010dava imenicu u genitivu)",
         "sv": "av (anv\u00e4nt f\u00f6r att indikera den andra gruppen substantiv som beskriver den f\u00f6rsta gruppen substantiv | ALT (introducerar ett genitivt substantiv)",
         "ja": "\uff5e\u306e (\u76f4\u524d\u306e\u540d\u8a5e(\u53e5)\u3068\u3001\u305d\u308c\u3092\u4fee\u98fe\u3059\u308b\u540d\u8a5e\u53e5\u3068\u306e\u533a\u5207\u308a\u3092\u793a\u3059) | ALT (\u5c5e\u683c\u306e\u8a9e\u3092\u4f5c\u308b)",
-        "cs": "(odd\u011bluje popisn\u00e9 skupiny) | ALT (uv\u00e1d\u00ed dopln\u011bk)"
+        "cs": "(odd\u011bluje popisn\u00e9 skupiny) | ALT (uv\u00e1d\u00ed dopln\u011bk)",
+        "nno": "av (introduserer eit substantivuttrykk som beskriv/utdyper f\u00f8reg\u00e5ande uttrykk) | ALT (introduserer eit genitivisk substantivuttrykk)",
+        "nob": "av (introduserer et substantivuttrykk som beskriver/utdyper foreg\u00e5ende uttrykk) | ALT (introduserer et genitivisk substantivuttrykk)"
       }
     },
     "pika": {
@@ -9439,7 +9463,9 @@
         "sv": "hj\u00e4rta (fysiskt eller emotionellt); k\u00e4nsla (en k\u00e4nsla, en upplevelse)",
         "ja": "\u5fc3\u3001\u5fc3\u81d3; \u611f\u60c5\u3001\u6c17\u6301\u3061\u3001\u611f\u3058",
         "ko": "\uc2ec\uc7a5, \ud558\ud2b8; \uac10\uc815",
-        "cs": "srdce (org\u00e1n i symbol); pocit, emoce, z\u00e1\u017eitek"
+        "cs": "srdce (org\u00e1n i symbol); pocit, emoce, z\u00e1\u017eitek",
+        "nno": "hjarta (fysisk eller emosjonelt); f\u00f8lelse, emosjon",
+        "nob": "hjerte (fysisk eller emosjonelt); f\u00f8lelse, emosjon"
       }
     },
     "pimeja": {
@@ -9494,7 +9520,9 @@
         "sv": "svart, m\u00f6rk, obelyst",
         "ja": "\u9ed2\u3044\u3001\u6697\u3044\u3001\u95c7\u3001\u5f71",
         "ko": "\uae4c\ub9e3\ub2e4, \uae5c\uae5c\ud558\ub2e4",
-        "cs": "\u010dern\u00fd, tmav\u00fd, temn\u00fd"
+        "cs": "\u010dern\u00fd, tmav\u00fd, temn\u00fd",
+        "nno": "svart, m\u00f8rk, m\u00f8rklagt",
+        "nob": "svart, m\u00f8rk, m\u00f8rklagt"
       }
     },
     "Pingo": {
@@ -9592,7 +9620,9 @@
         "sv": "sedan, klar, slut, forntid",
         "ja": "\u7d42\u308f\u3063\u305f\u3001\u4ed5\u4e0a\u304c\u3063\u305f\u3001\u6e08\u3093\u3060\u3001\u904e\u53bb\u306e\u3001\u4ee5\u524d\u306e",
         "ko": "\ub05d\ub0b4\ub2e4, \uc644\uc131\ud558\ub2e4, \uacfc\uac70",
-        "cs": "p\u0159ed (\u010dasem), ukon\u010den\u00fd, \u00fapln\u00fd, minul\u00fd"
+        "cs": "p\u0159ed (\u010dasem), ukon\u010den\u00fd, \u00fapln\u00fd, minul\u00fd",
+        "nno": "sidan, ferdig, slutt, avslutta, fortidig",
+        "nob": "siden, ferdig, slutt, avsluttet, fortidig"
       }
     },
     "pipi": {
@@ -9649,7 +9679,9 @@
         "sv": "insekt, kryp, myra, spindel",
         "ja": "\u866b\u3001\u5fae\u5c0f\u306a\u751f\u7269\u3001\u6606\u866b\u3001\u8718\u86db",
         "ko": "\ubc8c\ub808, \uace4\ucda9, \uac1c\ubbf8, \uac70\ubbf8",
-        "cs": "brouk, hmyz, mravenec, pavouk"
+        "cs": "brouk, hmyz, mravenec, pavouk",
+        "nno": "insekt, maur, edderkopp",
+        "nob": "insekt, maur, edderkopp"
       }
     },
     "pipo": {
@@ -9798,7 +9830,9 @@
         "sv": "h\u00f6ft, sida; bredvid, n\u00e4ra, vid sidan av | ALT med (komitativ)",
         "ja": "\u8170\u3001\u5074; \u96a3\u3001\u305d\u3070\u3001\u8fd1\u304f | ALT \uff5e\u3068\u3068\u3082\u306b\u3001\uff5e\u306e\u305d\u3070\u306b",
         "ko": "\uc606\uad6c\ub9ac; \uc606, \uadfc\ucc98 | ALT -\uc640 \ud568\uaed8",
-        "cs": "bok, strana; vedle, pobl\u00ed\u017e, bl\u00edzkost | ALT spolu s (komitativ)"
+        "cs": "bok, strana; vedle, pobl\u00ed\u017e, bl\u00edzkost | ALT spolu s (komitativ)",
+        "nno": "hofte, side; ved sida av, n\u00e6re, n\u00e6rleik | ALT saman med (komitativ), jamsides",
+        "nob": "hofte, side; ved siden av, n\u00e6r, n\u00e6romr\u00e5de | ALT sammen med (komitativ), jamsides"
       }
     },
     "poki": {
@@ -9852,7 +9886,9 @@
         "hr": "posuda, vre\u0107a, kutija, \u010da\u0161a, \u0161alica, ormari\u0107, ladica",
         "sv": "beh\u00e5llare, container, p\u00e5se, sk\u00e5l, l\u00e5da, kopp, sk\u00e5p, k\u00e4rl",
         "ja": "\u5bb9\u308c\u7269\u3001\u888b\u3001\u5668\u3001\u7bb1\u3001\u30ab\u30c3\u30d7\u3001\u53ce\u7d0d\u5bb6\u5177",
-        "cs": "n\u00e1doba, ta\u0161ka, krabice, m\u00edsa, hrnek, sk\u0159\u00ed\u0148, \u0161upl\u00edk"
+        "cs": "n\u00e1doba, ta\u0161ka, krabice, m\u00edsa, hrnek, sk\u0159\u00ed\u0148, \u0161upl\u00edk",
+        "nno": "behaldar, pose, bolle, boks, kopp, skap, skuff",
+        "nob": "beholder, pose, bolle, boks, kopp, skap, skuff"
       }
     },
     "polinpin": {
@@ -10000,7 +10036,9 @@
         "hr": "dobro, pozitivno, korisno; prijateljski, mirno; jednostavno",
         "sv": "bra, positiv, anv\u00e4ndbar; v\u00e4nlig, fredlig; enkel",
         "ja": "\u3088\u3044\u3001\u597d\u307e\u3057\u3044\u3001\u5f79\u7acb\u3064; \u53cb\u597d\u7684\u306a\u3001\u512a\u3057\u3044; \u308f\u304b\u308a\u3084\u3059\u3044",
-        "cs": "dobr\u00fd, kladn\u00fd, u\u017eite\u010dn\u00fd; p\u0159\u00edv\u011btiv\u00fd, p\u0159\u00e1telsk\u00fd; snadn\u00fd, prost\u00fd"
+        "cs": "dobr\u00fd, kladn\u00fd, u\u017eite\u010dn\u00fd; p\u0159\u00edv\u011btiv\u00fd, p\u0159\u00e1telsk\u00fd; snadn\u00fd, prost\u00fd",
+        "nno": "god, positiv, nyttig; venleg, fredeleg; enkel, likefram",
+        "nob": "bra, positiv, nyttig; vennlig, fredelig; enkel, likefrem"
       }
     },
     "poni": {
@@ -10135,7 +10173,9 @@
         "hr": "interakcija sa slu\u017ebenom Toki Pona knjigom",
         "sv": "att interagera med den officiella Toki Pona-boken (Toki Pona: The Language of Good)",
         "ja": "\u516c\u5f0f\u30c8\u30ad\u30dd\u30ca\u66f8\u306b\u901a\u3058\u3066\u3044\u308b",
-        "cs": "vztahuj\u00edc\u00ed se k ofici\u00e1ln\u00ed knize o Toki Pona"
+        "cs": "vztahuj\u00edc\u00ed se k ofici\u00e1ln\u00ed knize o Toki Pona",
+        "nno": "\u00e5 interagere med den offisielle boka Toki Pona: The Language of Good",
+        "nob": "\u00e5 interagere med den offisielle boka Toki Pona: The Language of Good"
       }
     },
     "puwa": {
@@ -10229,7 +10269,9 @@
         "haw": "like; kekahi i kekahi; he kua\u02bbana, he kaina, he hoa; like me",
         "hr": "isto, sli\u010dno; jedno drugo; brat/sestra, vr\u0161njak; kao, poput",
         "ja": "\u540c\u3058\u3001\u4f3c\u3066\u3044\u308b; \u4e92\u3044\u306b; \u304d\u3087\u3046\u3060\u3044\u3001\u540c\u80de\u3001\u540c\u8f29; \uff5e\u3068\u3057\u3066\u3001\uff5e\u306e\u3088\u3046\u306a",
-        "cs": "stejn\u00fd, podobn\u00fd; navz\u00e1jem; sourozenec, vrstevn\u00edk, kolega; jako"
+        "cs": "stejn\u00fd, podobn\u00fd; navz\u00e1jem; sourozenec, vrstevn\u00edk, kolega; jako",
+        "nno": "same, lik; kvarandre; sysken, likemann, kollega; som, liksom",
+        "nob": "samme, lik; hverandre; s\u00f8sken likemann, kollega; som, liksom"
       }
     },
     "samu": {
@@ -10383,7 +10425,9 @@
         "haw": "he ahi, \u02bb\u0101, wela; he m\u014d\u02bbaui kemika, he kumu wela",
         "hr": "vatra; kemijska reakcija, izvor topline",
         "ja": "\u706b; \u52a0\u71b1 (\u8abf\u7406)\u3001\u5316\u5b66\u53cd\u5fdc\u3001\u71b1\u6e90",
-        "cs": "ohe\u0148; topn\u00e9 t\u011bleso, chemick\u00e1 reakce, zdroj tepla"
+        "cs": "ohe\u0148; topn\u00e9 t\u011bleso, chemick\u00e1 reakce, zdroj tepla",
+        "nno": "eld, kjemisk reaksjon, varmekjelde; \u00e5 koke, steike",
+        "nob": "ild, kjemisk reaksjon, varmekilde; \u00e5 koke, steke"
       }
     },
     "selo": {
@@ -10435,7 +10479,9 @@
         "haw": "waho; he \u02bbili, he p\u016bp\u016b; he kapa",
         "hr": "vanjska forma, vanjski sloj; kora, guliti, ljuska, ko\u017ea; granica",
         "ja": "\u8868\u9762\u3001\u5916\u9762\u3001\u5916\u5c64; \u76ae\u3001\u6a39\u76ae\u3001\u6bbb\u3001\u808c; \u5883\u754c",
-        "cs": "zevn\u00ed vrstva, vn\u011bj\u0161ek; k\u016fra, slupka, sko\u0159\u00e1pka, poko\u017eka; hranice"
+        "cs": "zevn\u00ed vrstva, vn\u011bj\u0161ek; k\u016fra, slupka, sko\u0159\u00e1pka, poko\u017eka; hranice",
+        "nno": "ytre form, ytre lag; bork, skal, skinn, hud, skjel; grense, omkrins",
+        "nob": "ytre form, ytre lag; bark, skall, skinn, hud, skjell; grense, omkrets"
       }
     },
     "seme": {
@@ -10491,7 +10537,9 @@
         "hr": "\u0161to? koje?",
         "cy": "beth? pa?",
         "ja": "\u4f55\uff1f\u3000\u3069\u308c\uff1f",
-        "cs": "co? kter\u00fd? jak\u00fd?"
+        "cs": "co? kter\u00fd? jak\u00fd?",
+        "nno": "kva? kva for ein?",
+        "nob": "hva? hvilken?"
       }
     },
     "sewi": {
@@ -10544,7 +10592,9 @@
         "haw": "luna, ki\u02bbeki\u02bbe, he mea i luna; ho\u02bb\u0101no, kapu",
         "hr": "prostor iznad, najvi\u0161i dio, povi\u0161eno; sveto, bo\u017eansko, nadnaravno",
         "ja": "\u4e0a\u65b9\u3001\u6700\u4e0a\u90e8\u3001\u9ad8\u3044\u3001\u7a7a; \u754f\u656c\u3059\u3079\u304d\u3001\u795e\u306e\u3001\u795e\u8056\u306a\u3001\u8d85\u81ea\u7136\u306e",
-        "cs": "v\u00fd\u0161e, nad, nejvy\u0161\u0161\u00ed \u010d\u00e1st, n\u011bco na vrchu; vzne\u0161en\u00fd, bo\u017esk\u00fd, svat\u00fd, nadp\u0159irozen\u00fd"
+        "cs": "v\u00fd\u0161e, nad, nejvy\u0161\u0161\u00ed \u010d\u00e1st, n\u011bco na vrchu; vzne\u0161en\u00fd, bo\u017esk\u00fd, svat\u00fd, nadp\u0159irozen\u00fd",
+        "nno": "over, overdel, topp, opph\u00f8gd; vyrdeleg, guddomleg, heilag, overnaturleg",
+        "nob": "over, overdel, topp, opph\u00f8yet; \u00e6rverdig, guddommelig, hellig, overnaturlig"
       }
     },
     "sijelo": {
@@ -10597,7 +10647,9 @@
         "haw": "he kino, he k\u016blana o ke kino",
         "hr": "tijelo, fizi\u010dko stanje, trup, torzo",
         "ja": "(\u4eba\u3084\u52d5\u7269\u306e) \u8eab\u4f53\u3001\u8089\u4f53\u3001\u7269\u7406\u7684\u72b6\u614b\u3001\u80f4\u4f53",
-        "cs": "t\u011blo, trup, t\u011blesn\u00fd, hmotn\u00fd, fyzick\u00fd"
+        "cs": "t\u011blo, trup, t\u011blesn\u00fd, hmotn\u00fd, fyzick\u00fd",
+        "nno": "kropp (av person eller dyr), fysisk form, overkropp",
+        "nob": "kropp (av person eller dyr), fysisk form, overkropp"
       }
     },
     "sike": {
@@ -10650,7 +10702,9 @@
         "haw": "he mea poepoe; he kinip\u014dp\u014d, huli, he apo, he huila; he makahiki",
         "hr": "okrugli predmet; lopta, krug, ciklus, kugla, kota\u010d; jednogodi\u0161nje",
         "ja": "\u5186\u3044\u3082\u306e\u3001\u5faa\u74b0\u3059\u308b\u3082\u306e; \u30dc\u30fc\u30eb\u3001\u7403\u3001\u5186\u3001\u5468\u671f\u3001\u8f2a; \u4e00\u5e74\u306e",
-        "cs": "kulat\u00fd p\u0159edm\u011bt; m\u00ed\u010d, kruh, kolo, koule; ro\u010dn\u00ed"
+        "cs": "kulat\u00fd p\u0159edm\u011bt; m\u00ed\u010d, kruh, kolo, koule; ro\u010dn\u00ed",
+        "nno": "rund eller sirkul\u00e6r ting; ball, sirkel, kule, hjul; eitt \u00e5r",
+        "nob": "rund eller sirkul\u00e6r ting; ball, sirkel, kule, hjul; ett \u00e5r"
       }
     },
     "sikomo": {
@@ -10748,7 +10802,9 @@
         "haw": "hou; h\u014d\u02bbulu\u02bbulu, kekahi aku, \u02bb\u0113",
         "hr": "novo, fri\u0161ko; dodatno, dodatak",
         "ja": "\u65b0\u3057\u3044\u3001\u65b0\u9bae\u306a\u3001\u3067\u304d\u305f\u3066\u306e; \u8ffd\u52a0\u306e\u3001\u3055\u3089\u306a\u308b\u3001\u4f59\u5206\u306e",
-        "cs": "nov\u00fd, \u010derstv\u00fd; dodate\u010dn\u00fd, dal\u0161\u00ed"
+        "cs": "nov\u00fd, \u010derstv\u00fd; dodate\u010dn\u00fd, dal\u0161\u00ed",
+        "nno": "ny, fersk; i tillegg, enda ein, ekstra",
+        "nob": "ny, fersk; i tillegg, enda en, ekstra"
       }
     },
     "sina": {
@@ -10805,7 +10861,9 @@
         "hr": "ti",
         "cy": "ti, chi, chwi",
         "ja": "\u3042\u306a\u305f\u3001\u3042\u306a\u305f\u304c\u305f",
-        "cs": "ty, vy"
+        "cs": "ty, vy",
+        "nno": "du",
+        "nob": "du"
       }
     },
     "sinpin": {
@@ -10858,7 +10916,9 @@
         "haw": "he maka, mua, he p\u0101",
         "hr": "lice, prednja strana, zid",
         "ja": "\u9854\u3001\u524d\u3001\u5148\u982d\u306e\u3001\u524d\u90e8\u3001\u58c1",
-        "cs": "\u010delit, st\u00e1t p\u0159ed, p\u0159edek, st\u011bna"
+        "cs": "\u010delit, st\u00e1t p\u0159ed, p\u0159edek, st\u011bna",
+        "nno": "fjes, andlet, fremst, framside, front, vegg",
+        "nob": "fjes, ansikt, fremst, forside, front, vegg"
       }
     },
     "sipi": {
