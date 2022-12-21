@@ -397,11 +397,11 @@
       "name_toki_pona": "toki Nosiki sin",
       "credits": "jan Okun",
       "completeness_percent": {
-        "obscure": "46",
-        "rare": "74",
-        "uncommon": "82",
-        "common": "88",
-        "widespread": "91",
+        "obscure": "52",
+        "rare": "84",
+        "uncommon": "93",
+        "common": "100",
+        "widespread": "100",
         "core": "100"
       }
     },
@@ -412,11 +412,11 @@
       "name_toki_pona": "toki Nosiki",
       "credits": "jan Okun",
       "completeness_percent": {
-        "obscure": "46",
-        "rare": "74",
-        "uncommon": "82",
-        "common": "88",
-        "widespread": "91",
+        "obscure": "52",
+        "rare": "84",
+        "uncommon": "93",
+        "common": "100",
+        "widespread": "100",
         "core": "100"
       }
     },
@@ -3874,7 +3874,9 @@
         "hr": "\u017eivotinja iz porodice Procyonidae (rakuni i dr.) | ALT \u017eivotinja iz natporodice Musteloidea (kune, lasice, rakuni, vidre, tvorovi, crvene pande i dr.)",
         "io": "bestii simila ratoni",
         "ja": "\u30a2\u30e9\u30a4\u30b0\u30de\u79d1\u306e\u52d5\u7269\u5168\u822c (\u30a2\u30e9\u30a4\u30b0\u30de\u3001\u30cf\u30ca\u30b0\u30de\u3001\u30ad\u30f3\u30ab\u30b8\u30e5\u30fc\u3001\u30aa\u30ea\u30f3\u30b4\u3001\u30ab\u30b3\u30df\u30b9\u30eb\u306a\u3069) | ALT \u30a4\u30bf\u30c1\u4e0a\u79d1\u306e\u52d5\u7269\u5168\u822c (\u30a2\u30e9\u30a4\u30b0\u30de\u3001\u30a4\u30bf\u30c1\u3001\u30ab\u30ef\u30a6\u30bd\u3001\u30b9\u30ab\u30f3\u30af\u3001\u30ec\u30c3\u30b5\u30fc\u30d1\u30f3\u30c0\u3092\u542b\u3080)",
-        "cs": "\u0161elma z \u010deledi medv\u00eddkovit\u00fdch, nap\u0159.: m\u00fdval, nos\u00e1l, kynka\u017eu, \u010di olingu | ALT \u0161elma z \u010deledi lasicovit\u00fdch, nap\u0159.: jezevec, kuna, tcho\u0159, norek"
+        "cs": "\u0161elma z \u010deledi medv\u00eddkovit\u00fdch, nap\u0159.: m\u00fdval, nos\u00e1l, kynka\u017eu, \u010di olingu | ALT \u0161elma z \u010deledi lasicovit\u00fdch, nap\u0159.: jezevec, kuna, tcho\u0159, norek",
+        "nno": "dyr fr\u00e5 halvbj\u00f8rnfamilien (Procyonidae, td. vaskebj\u00f8rn, olingo, eller viklebj\u00f8rn) | ALT m\u00e5rliknande rovpattedyr (Musteloidea, td. vaskebj\u00f8rn, r\u00f8yskatt, grevling, jerv, oter, stinkdyr, eller raudpanda)",
+        "nob": "dyr fra halvbj\u00f8rnfamilien (Procyonidae, feks. vaskebj\u00f8rn, olingo, eller viklebj\u00f8rn) | ALT m\u00e5rlignende rovpattedyr (Musteloidea, feks. vaskebj\u00f8rn, r\u00f8yskatt, grevling, jerv, oter, stinkdyr, eller r\u00f8dpanda)"
       }
     },
     "kiki": {
@@ -4043,7 +4045,9 @@
         "hr": "{pogledajte \"a\"} | ALT uistinu, isto, tako\u0111er",
         "io": "ya, vere, anke",
         "ja": "{a \u3092\u53c2\u7167} | ALT \u78ba\u304b\u306b\u3001\u3058\u3064\u306b\u3001\uff5e\u3082\u3001\uff5e\u3082\u307e\u305f",
-        "cs": "{viz a} | ALT vskutku, tak\u00e9, stejn\u011b tak"
+        "cs": "{viz a} | ALT vskutku, tak\u00e9, stejn\u011b tak",
+        "nno": "(synonymt til a) | ALT sanneleg, \u00f2g, ogs\u00e5, au",
+        "nob": "(synonymt til a) | ALT sannelig, \u00f2g, ogs\u00e5"
       }
     },
     "kipisi": {
@@ -4100,7 +4104,9 @@
         "hr": "rezati, sje\u0107i, odrezati; o\u0161tro",
         "io": "fendar, krevisar, hakar, separar, desjuntar, tranchar; akuta",
         "ja": "\u5206\u5272\u3059\u308b\u3001\u5207\u65ad\u3059\u308b\u3001\u5207\u308a\u53d6\u308b\u3001\u5206\u96e2\u3059\u308b; \u92ed\u3044",
-        "cs": "rozd\u011blit, roz\u0159\u00edznout, nakr\u00e1jet; ostr\u00fd"
+        "cs": "rozd\u011blit, roz\u0159\u00edznout, nakr\u00e1jet; ostr\u00fd",
+        "nno": "\u00e5 dele, splitte, skjere (av); skarp, kvass",
+        "nob": "\u00e5 dele, splitte, skj\u00e6re (av); skarp, kvass"
       }
     },
     "kisa": {
@@ -4519,7 +4525,9 @@
         "hr": "interakcija sa slu\u017ebenim Toki Pona Rje\u010dnikom",
         "io": "interagar kun la Toki Pona vortolibro da Sonja Lang",
         "ja": "\u30bd\u30cb\u30e3\u30fb\u30e9\u30f3\u30b0\u6c0f\u306b\u3088\u308b\u30c8\u30ad\u30dd\u30ca\u8f9e\u66f8\u306b\u901a\u3058\u3066\u3044\u308b",
-        "cs": "vztahuj\u00edc\u00ed se k ofici\u00e1ln\u00edmu slovn\u00edku Toki Pona od Sonji Lang"
+        "cs": "vztahuj\u00edc\u00ed se k ofici\u00e1ln\u00edmu slovn\u00edku Toki Pona od Sonji Lang",
+        "nno": "\u00e5 interagere med den offisielle boka Toki Pona Dictionary av Sonja Lang",
+        "nob": "\u00e5 interagere med den offisielle boka Toki Pona Dictionary av Sonja Lang"
       }
     },
     "kule": {
@@ -4972,7 +4980,9 @@
         "hr": "uzeti, uhvatiti, primiti, dobiti",
         "io": "prenar, sizar, kaptar, recevar, aquirar, prokurar",
         "ja": "\u53d6\u308b\u3001\u6451\u307f\u53d6\u308b\u3001\u76d7\u3080\u3001\u6355\u3089\u3048\u308b\u3001\u624b\u306b\u5165\u308c\u308b",
-        "cs": "vz\u00edt, sebrat, dostat, chytnout"
+        "cs": "vz\u00edt, sebrat, dostat, chytnout",
+        "nno": "\u00e5 ta, fange, motta, f\u00e5",
+        "nob": "\u00e5 ta, fange, motta, f\u00e5"
       }
     },
     "lape": {
@@ -5209,7 +5219,9 @@
         "hr": "stube, kvadrat, kocka, kut",
         "io": "gradi, quadrato, bloko, kubo",
         "ja": "\u56db\u89d2\u3001\u30d6\u30ed\u30c3\u30af\u3001\u304b\u3069\u3001\u968e\u6bb5\u3001\u7acb\u65b9\u4f53\u3001\u591a\u9762\u4f53",
-        "cs": "schody, \u010dtverec, kostka, hrana, roh"
+        "cs": "schody, \u010dtverec, kostka, hrana, roh",
+        "nno": "trapp, kvadrat, blokk, kloss, hj\u00f8rne, kube",
+        "nob": "trapp, kvadrat, blokk, kloss, hj\u00f8rne, kube"
       }
     },
     "len": {
@@ -5327,8 +5339,8 @@
         "ja": "\u51b7\u305f\u3044\u3001\u5bd2\u3044\u3001\u51cd\u3063\u305f\u3001\u6dbc\u3057\u3044; \u672a\u8abf\u7406\u306e\u3001\u751f\u306e",
         "ko": "\ucc28\uac11\ub2e4, \uc2dc\uc6d0\ud558\ub2e4; \uc775\uc9c0 \uc54a\uc740",
         "cs": "chladn\u00fd, studen\u00fd; syrov\u00fd",
-        "nno": "kald, kj\u00f8lig; r\u00e5, ukoka",
-        "nob": "kald, kj\u00f8lig; r\u00e5, ukokt"
+        "nno": "kald, kj\u00f8lig; r\u00e5, som ikkje er kokt eller stekt",
+        "nob": "kald, kj\u00f8lig; r\u00e5, som ikke er kokt eller stekt"
       }
     },
     "li": {
@@ -6437,7 +6449,9 @@
         "sv": "kvinna, feminin person; fru",
         "ja": "\u5973\u6027\u3001\u96cc; \u59bb",
         "ko": "\uc5ec\uc790, \uc5ec\uc131; \uc544\ub0b4",
-        "cs": "\u017eena, \u017eensk\u00fd, samice; man\u017eelka"
+        "cs": "\u017eena, \u017eensk\u00fd, samice; man\u017eelka",
+        "nno": "kvinne, kvinneleg, feminin person; kone",
+        "nob": "kvinne, kvinnelig person, feminin person; kone"
       }
     },
     "melome": {
@@ -6536,7 +6550,9 @@
         "hr": "sredina, osrednje, prosje\u010dno; ni jedno ni drugo, nijedno u cijelosti",
         "io": "meza, mediatajo, pasabla, mezvalora",
         "ja": "\u4e2d\u9593\u70b9\u3001\u4e2d\u9593\u3001\u4e2d\u3050\u3089\u3044\u306e\u3001\u4e26\u307f\u306e; \u3069\u3063\u3061\u3064\u304b\u305a\u3001\u4e2d\u9014\u534a\u7aef",
-        "cs": "st\u0159ed, st\u0159edn\u00ed, pr\u016fm\u011brn\u00fd; ani jedno \u010di druh\u00e9, ani takov\u00fd \u010di makov\u00fd"
+        "cs": "st\u0159ed, st\u0159edn\u00ed, pr\u016fm\u011brn\u00fd; ani jedno \u010di druh\u00e9, ani takov\u00fd \u010di makov\u00fd",
+        "nno": "balansepunkt; middels, m\u00e5teleg; verken det eine eller andre",
+        "nob": "balansepunkt; middels, m\u00e5telig; hverken det ene eller andre"
       }
     },
     "mi": {
@@ -6658,7 +6674,9 @@
         "sv": "man, maskulin person; make",
         "ja": "\u7537\u6027\u3001\u96c4; \u592b",
         "ko": "\ub0a8\uc790, \ub0a8\uc131; \ub0a8\ud3b8",
-        "cs": "mu\u017e, mu\u017esk\u00fd, samec; man\u017eel"
+        "cs": "mu\u017e, mu\u017esk\u00fd, samec; man\u017eel",
+        "nno": "mann, mannleg, maskulin person; ektemann",
+        "nob": "mann, mannlig, maskulin person; ektemann"
       }
     },
     "mijomi": {
@@ -6803,7 +6821,9 @@
         "hr": "medicina, lijek, medicinski, tableta/pilula",
         "io": "medicino, medicinala, medikamento",
         "ja": "\u85ac\u3001\u533b\u7642",
-        "cs": "l\u00e9k, l\u00e9\u010divo, l\u00e9ka\u0159sk\u00fd"
+        "cs": "l\u00e9k, l\u00e9\u010divo, l\u00e9ka\u0159sk\u00fd",
+        "nno": "medisin, medisinsk",
+        "nob": "medisin, medisinsk"
       }
     },
     "moku": {
@@ -7073,7 +7093,9 @@
         "hr": "strah; \u010dudovi\u0161te, predator; prijetnja, opasnost",
         "io": "timo, teroro, pavoro; monstro; minaco, danjero",
         "ja": "\u6050\u308c\u308b\u3001\u6016\u304c\u308b; \u602a\u7269\u3001\u6355\u98df\u8005; \u8105\u5a01\u3001\u5371\u967a",
-        "cs": "strach, d\u011bs; obluda, monstrum; hrozba, nebezpe\u010d\u00ed"
+        "cs": "strach, d\u011bs; obluda, monstrum; hrozba, nebezpe\u010d\u00ed",
+        "nno": "frykt, redsle, gru; monster, rovdyr; trussel, fare",
+        "nob": "frykt, redsel, gru; monster, rovdyr; trussel, fare"
       }
     },
     "mu": {
@@ -7408,7 +7430,9 @@
         "hr": "(zvuk koji ispunjava stanku u govoru dok osoba ne razmisli \u0161to \u0107e slijede\u0107e re\u0107i, potvrda, pjevu\u0161enje)",
         "io": "(indikas pensado, reflektado, meditado, agnosko, asento, o murmurado)",
         "ja": "(\u601d\u6848\u3059\u308b\u3001\u719f\u8003\u3059\u308b\u3001\u6c17\u3065\u304f\u3001\u540c\u610f\u3059\u308b\u3001\u53e3\u3054\u3082\u308b\u3068\u304d\u306e\u58f0)",
-        "cs": "(zna\u010d\u00ed p\u0159em\u00fd\u0161len\u00ed, uva\u017eov\u00e1n\u00ed, uzn\u00e1n\u00ed, souhlas, hmm)"
+        "cs": "(zna\u010d\u00ed p\u0159em\u00fd\u0161len\u00ed, uva\u017eov\u00e1n\u00ed, uzn\u00e1n\u00ed, souhlas, hmm)",
+        "nno": "(indikerer tenking, undring, aning, einigheit, eller nynning)",
+        "nob": "(indikerer tenking, undring, anelse, enighet, eller nynning)"
       }
     },
     "nalanja": {
@@ -7492,7 +7516,9 @@
         "hr": "{pogledajte \"sin\"} | ALT uljep\u0161avanje, za\u010din; dodatak, dodatno",
         "io": "garnituro, spico; extra, adjuntita",
         "ja": "{sin \u3092\u53c2\u7167} | ALT \u88c5\u98fe\u3001\u8abf\u5473\u6599\u3001\u304a\u307e\u3051; \u8ffd\u52a0\u306e\u3001\u4f59\u5206\u306e",
-        "cs": "{viz sin} | ALT ozdoba, ko\u0159en\u00ed; dodatek, nav\u00edc"
+        "cs": "{viz sin} | ALT ozdoba, ko\u0159en\u00ed; dodatek, nav\u00edc",
+        "nno": "(synonymt til sin) | ALT utsmykking, pynt, krydder; ekstra, tillegg",
+        "nob": "(synonymt til sin) | ALT utsmykning, pynt, krydder; ekstra, tillegg"
       }
     },
     "nanpa": {
@@ -8388,7 +8414,9 @@
         "hr": "{pogledajte \"lukin\" } | ALT oko, o\u010dno, vidno {cf. lukin}",
         "io": "okulo, okula",
         "ja": "{lukin \u3092\u53c2\u7167} | ALT \u76ee\u3001\u8996\u899a\u306e",
-        "cs": "{viz lukin} | ALT oko, o\u010dn\u00ed, zrak {srov. lukin}"
+        "cs": "{viz lukin} | ALT oko, o\u010dn\u00ed, zrak {srov. lukin}",
+        "nno": "(synonymt med lukin) | ALT auge, okul\u00e6r, optisk (jamf\u00f8r lukin)",
+        "nob": "(synonymt med lukin) | ALT auge, okul\u00e6r, optisk (jamf\u00f8r lukin)"
       }
     },
     "olin": {
@@ -11100,7 +11128,9 @@
         "cy": "ffwng, ffyngau",
         "io": "fungo, fungi",
         "ja": "\u8338\u3001\u83cc\u985e",
-        "cs": "houba"
+        "cs": "houba",
+        "nno": "sopp, fungi",
+        "nob": "sopp, fungi"
       }
     },
     "sona": {
@@ -11760,7 +11790,7 @@
         "ja": "\u3057\u304b\u3057\u3001\u3051\u308c\u3069\u3082; \uff5e\u3060\u3051\u3001\uff5e\u306e\u307f",
         "cs": "ale, av\u0161ak; pouze, jedin\u011b",
         "nno": "men, likevel; berre, \u00e5leine",
-        "nob": "men, likevel; bare, kun"
+        "nob": "men, likevel; bare, kun, alene"
       }
     },
     "tawa": {
@@ -12061,8 +12091,8 @@
         "hr": "vrijeme, trajanje, trenutak, period, situacija",
         "ja": "\u6642\u3001\u6642\u9593\u3001\u671f\u9593\u3001\u77ac\u9593\u3001\u6a5f\u4f1a\u3001\u6642\u671f\u3001\u60c5\u52e2",
         "cs": "\u010das, trv\u00e1n\u00ed, okam\u017eik, doba, obdob\u00ed",
-        "nno": "tid, tidsrom, varigheit, augeblink, h\u00f8ve, periode, situasjon",
-        "nob": "tid, tidsrom, varighet, \u00f8yeblikk, anledning, periode, situasjon"
+        "nno": "tid, tidsrom, varigheit, augeblink, periode, h\u00f8ve, situasjon",
+        "nob": "tid, tidsrom, varighet, \u00f8yeblikk, periode, anledning, situasjon"
       }
     },
     "to": {
@@ -12348,7 +12378,9 @@
         "hr": "nebinarno, rodno nesukladno | ALT transseksualno, necisrodno",
         "io": "nebinaria; intergenra",
         "ja": "\u30ce\u30f3\u30d0\u30a4\u30ca\u30ea\u30fc\u3001\u65e7\u6765\u306e\u6027\u5225\u306e\u898f\u7bc4\u306b\u5c5e\u3055\u306a\u3044 | ALT \u30c8\u30e9\u30f3\u30b9\u30b8\u30a7\u30f3\u30c0\u30fc\u3001\u9593\u6027",
-        "cs": "nebin\u00e1rn\u00ed, genderov\u011b diverzivn\u00ed | ALT trans (osoba), opak cis"
+        "cs": "nebin\u00e1rn\u00ed, genderov\u011b diverzivn\u00ed | ALT trans (osoba), opak cis",
+        "nno": "ikkje-bin\u00e6r, som ikkje retter seg etter kj\u00f8nnsroller | ALT trans, ikkje-ciskj\u00f8nna",
+        "nob": "ikke-bin\u00e6r, som ikke retter seg etter kj\u00f8nnsroller | ALT trans, ikke-ciskj\u00f8nnet"
       }
     },
     "tu": {
@@ -12783,7 +12815,7 @@
         "cy": "brwydr, brwydro \u00e2; her, cystadlu \u00e2",
         "ja": "\u6226\u3046\u3001\u4e89\u3046\u3001\u6311\u3080\u3001\u7af6\u3046\u3001\u653b\u6483\u3059\u308b",
         "cs": "bitva, boj, souboj, sout\u011b\u017e, z\u00e1pas",
-        "nno": "kamp, utfordring, \u00e5 konkurrere mot, kjempe mot",
+        "nno": "kamp, utfordring, \u00e5 tevle med, kjempe mot",
         "nob": "kamp, utfordring, \u00e5 konkurrere mot, kjempe mot"
       }
     },
