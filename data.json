@@ -367,12 +367,12 @@
       "name_toki_pona": "toki Lijutawa",
       "credits": "jan Simona",
       "completeness_percent": {
-        "obscure": "3",
-        "rare": "6",
-        "uncommon": "6",
-        "common": "7",
-        "widespread": "7",
-        "core": "8"
+        "obscure": "7",
+        "rare": "11",
+        "uncommon": "13",
+        "common": "14",
+        "widespread": "14",
+        "core": "15"
       }
     },
     "mi": {
@@ -853,7 +853,7 @@
         "cs": "nehezk\u00e9 zv\u00ed\u0159e; plaz, oboj\u017eiveln\u00edk",
         "nno": "reptil, amfibium",
         "nob": "reptil, amfibium",
-        "lt": "(Roplys, varliagyvis)"
+        "lt": "Roplys, varliagyvis"
       }
     },
     "ako": {
@@ -944,7 +944,7 @@
         "cs": "ne, nikoliv, nula; [~ ala ~] (pro konstrukci ot\u00e1zky \"ano-ne\"); nic",
         "nno": "nei, ikkje, null; (brukast til \u00e5 formulere ja-nei-sp\u00f8rsm\u00e5l); ingenting",
         "nob": "nei, ikke, null; (brukes til \u00e5 formulere ja-nei-sp\u00f8rsm\u00e5l); ingenting",
-        "lt": "(ne, n\u0117ra, niekas, nulis, da\u017eniausiai naudojamas taip ar ne klausimuose)"
+        "lt": "ne, n\u0117ra, niekas, nulis, da\u017eniausiai naudojamas taip ar ne klausimuose"
       }
     },
     "alasa": {
@@ -1010,7 +1010,7 @@
         "cs": "lovit, sb\u00edrat, hledat | ALT (p\u0159edsl.) zkusit, pokusit se",
         "nno": "\u00e5 jakte, sanke, s\u00f8kje | ALT (pv.) \u00e5 pr\u00f8ve, fors\u00f8kje",
         "nob": "\u00e5 jakte, sanke, s\u00f8ke | ALT (pv.) \u00e5 pr\u00f8ve, fors\u00f8ke",
-        "lt": "(Med\u017eioti, s\u0117linti, ie\u0161koti maisto | ALT bandyti, stengtis)"
+        "lt": "Med\u017eioti, s\u0117linti, ie\u0161koti maisto | ALT bandyti, stengtis"
       }
     },
     "ale": {
@@ -1077,7 +1077,7 @@
         "cs": "v\u0161e; hojn\u00fd, vydatn\u00fd, ka\u017ed\u00fd, mnoh\u00fd; hojnost, v\u0161e, \u017eivot, vesm\u00edr; sto | ALT 100",
         "nno": "alle; talrik, dr\u00f8ssevis, tusenvis, rikeleg, overflod; alt, liv, univers | ALT ett hundre",
         "nob": "alle; tallrik, dr\u00f8ssevis, tusenvis, rikelig, overflod; alt, liv, univers | ALT ett hundre",
-        "lt": "(Viskas, daug, nesuskai\u010diuojama, gyvyb\u0117, visata | ALT \u0161imtas)"
+        "lt": "Viskas, daug, nesuskai\u010diuojama, gyvyb\u0117, visata | ALT \u0161imtas"
       }
     },
     "alente": {
@@ -1269,7 +1269,7 @@
         "cs": "uklonit se, pokorn\u00fd, skromn\u00fd, n\u00edzk\u00fd, z\u00e1visl\u00fd | ALT spodek, spodn\u00ed \u010d\u00e1st, pod, podlaha; n\u00edzk\u00fd, ni\u017e\u0161\u00ed, dol\u016f, dolej\u0161ek",
         "nno": "undergjeven, vendt nedover, audmjuk, bukkande, avhenging | ALT bunn, nedre del, golv; under, lav, ned",
         "nob": "underdanig, vendt nedover, ydmyk, bukkende, avhenging | ALT bunn, nedre del, gulv; under, lav, ned",
-        "lt": "(Lenkiasi, \u012f apa\u010di\u0105, kuklus, priklausomas | ALT \u017eemas, \u017eemutinis, grindys, po, apa\u010dia, u\u017epakalis)"
+        "lt": "Lenkiasi, \u012f apa\u010di\u0105, kuklus, priklausomas | ALT \u017eemas, \u017eemutinis, grindys, po, apa\u010dia, u\u017epakalis"
       }
     },
     "ante": {
@@ -1333,7 +1333,7 @@
         "cs": "jin\u00fd, zm\u011bn\u011bn\u00fd, r\u016fzn\u00fd",
         "nno": "forskjellig, annleis, annan; forandra, endra",
         "nob": "forskjellig, annerledes, annen; forandret, endret",
-        "lt": "(Pasikeit\u0119s, pakeistas, kitoks, kitas)"
+        "lt": "Pasikeit\u0119s, pakeistas, kitoks, kitas"
       }
     },
     "anu": {
@@ -1400,7 +1400,7 @@
         "cs": "nebo, \u010di | ALT vybrat, rozhodnout (se)",
         "nno": "eller | ALT velje, avgjere",
         "nob": "eller | ALT velge, avgj\u00f8re",
-        "lt": "(ar, arba | ALT pasirink, nuspresk, apsispresk)"
+        "lt": "ar, arba | ALT pasirink, nuspresk, apsispresk"
       }
     },
     "apeja": {
@@ -1545,7 +1545,7 @@
         "cs": "vytrval\u00fd, zachoval\u00fd, chr\u00e1n\u011bn\u00fd, bezpe\u010dn\u00fd, \u010dekaj\u00edc\u00ed, setrv\u00e1vaj\u00edc\u00ed; (p\u0159edsl.) pokra\u010dovat, zachovat, ponechat",
         "nno": "varig, forvara, verna, trygg, ventande; (pv.) \u00e5 halde fram med",
         "nob": "varig, forvaret, beskyttet, trygg, ventende; (pv.) \u00e5 fortsette \u00e5",
-        "lt": "(Laikomas, saugomas, saugus, laukiantis,)"
+        "lt": "Laikomas, saugomas, saugus, laukiantis"
       }
     },
     "e": {
@@ -1603,7 +1603,8 @@
         "ko": "(\ubaa9\uc801\uc5b4 \uc804\uc5d0 \uc624\ub294 \ub2e8\uc5b4)",
         "cs": "(p\u0159ed p\u0159\u00edm\u00fdm p\u0159edm\u011btem)",
         "nno": "(brukast foran eit direkte objekt)",
-        "nob": "(brukes foran et direkte objekt)"
+        "nob": "(brukes foran et direkte objekt)",
+        "lt": "(Prie\u0161 nurodom\u0105 \u017eod\u012f)"
       }
     },
     "eki": {
@@ -1701,7 +1702,8 @@
         "ko": "(\uc5ec\ub7ec \uc8fc\uc5b4\ub97c \uc5f0\uacb0\ud558\ub294 \ub2e8\uc5b4)",
         "cs": "(mezi n\u011bkolika podm\u011bty)",
         "nno": "(brukast mellom fleire subjekt)",
-        "nob": "(brukes mellom flere subjekt)"
+        "nob": "(brukes mellom flere subjekt)",
+        "lt": "(Naudojamas tarp keli\u0173 subjekt\u0173)"
       }
     },
     "enko": {
@@ -1855,7 +1857,8 @@
         "ko": "\uac00\uac8c, \uac70\ub798",
         "cs": "trh, obchod (m\u00edsto i transakce)",
         "nno": "marknad, butikk, basar, handel, transaksjon",
-        "nob": "marked, butikk, basar, handel, transaksjon"
+        "nob": "marked, butikk, basar, handel, transaksjon",
+        "lt": "Parduotuv\u0117, turgus, verslo sandoris"
       }
     },
     "ete": {
@@ -2052,7 +2055,8 @@
         "ko": "\ubb3c\uccb4",
         "cs": "v\u011bc, jev, objekt, z\u00e1le\u017eitost",
         "nno": "ting, sak, fenomen, greie, objekt, materie",
-        "nob": "ting, sak, fenomen, greie, objekt, materie"
+        "nob": "ting, sak, fenomen, greie, objekt, materie",
+        "lt": "daiktas, dalykas, objektas, materija, fenomena, rei\u0161kinys"
       }
     },
     "ike": {
@@ -2116,7 +2120,8 @@
         "ko": "\ub098\uc058\ub2e4, \uc911\uc694\ud558\uc9c0 \uc54a\ub2e4, \ubd80\uc815\uc801 (\ud639\uc740 \ubcf5\uc7a1\ud558\ub2e4)",
         "cs": "zl\u00fd, \u0161patn\u00fd, negativn\u00ed; nepot\u0159ebn\u00fd, nepodstatn\u00fd | ALT slo\u017eit\u00fd, spletit\u00fd, komplikovan\u00fd",
         "nno": "d\u00e5rleg, negativ; uviktig, irrelevant | ALT komplisert, innvikla, innfl\u00f8kt",
-        "nob": "d\u00e5rlig, negativ; uviktig, irrelevant | ALT komplisert, innviklet, innfl\u00f8kt"
+        "nob": "d\u00e5rlig, negativ; uviktig, irrelevant | ALT komplisert, innviklet, innfl\u00f8kt",
+        "lt": "Blogis, blogas, negatyvus, negatyvas, nesvarbus, neaktuolus | ALT sud\u0117tingas"
       }
     },
     "iki": {
@@ -2224,7 +2229,8 @@
         "ko": "\ub3c4\uad6c; \uae30\uacc4",
         "cs": "n\u00e1stroj, n\u00e1\u0159ad\u00ed, p\u0159\u00edstroj, za\u0159\u00edzen\u00ed",
         "nno": "verkt\u00f8y, reiskap, instrument, maskin, apparat",
-        "nob": "verkt\u00f8y, redskap, instrument, maskin, apparat"
+        "nob": "verkt\u00f8y, redskap, instrument, maskin, apparat",
+        "lt": "\u012erankis, ma\u0161ina, \u012frenginys, \u012franga"
       }
     },
     "insa": {
@@ -2286,7 +2292,8 @@
         "ko": "\uc911\uc2ec, \uc548\ucabd, \ub0b4\uc6a9; \uc704\uc7a5",
         "cs": "st\u0159ed, obsah, vnit\u0159ek, uvnit\u0159, mezi; vnit\u0159nosti, \u017ealudek",
         "nno": "sentrum, innhald, innside, inni, mellom; indre organ, mage",
-        "nob": "sentrum, innhold, innside, inni, mellom; indre organ, mage"
+        "nob": "sentrum, innhold, innside, inni, mellom; indre organ, mage",
+        "lt": "centras, vidus (ka\u017eko), viduje (ka\u017eko), tarp (ka\u017eko), vidaus organas, skrandis"
       }
     },
     "ipi": {
@@ -2483,7 +2490,8 @@
         "ko": "\ub354\ub7ec\uc6b4, \uc9c0\ub3c5\ud55c, \ub3c5\uc131 \uc788\ub294",
         "cs": "odporn\u00fd, nemravn\u00fd, nehezk\u00fd, ne\u010dist\u00fd, nezdrav\u00fd",
         "nno": "ekkel, stygg, motbydeleg, sjukeleg, giftig, skiten, uhygienisk",
-        "nob": "ekkel, stygg, motbydelig, sykelig, giftig, skitten, uhygienisk"
+        "nob": "ekkel, stygg, motbydelig, sykelig, giftig, skitten, uhygienisk",
+        "lt": "\u0161lyk\u0161tus, toksi\u0161kas, ne\u0161varus, nepadorus, nehigieni\u0161kas"
       }
     },
     "jaku": {
@@ -2856,7 +2864,8 @@
         "ko": "\ub178\ub791",
         "cs": "\u017elut\u00fd, na\u017eloutl\u00fd",
         "nno": "gul, gulaktig",
-        "nob": "gul, gulaktig"
+        "nob": "gul, gulaktig",
+        "lt": "(Geltonas, turintis gelton\u0105 atspalv\u012f)"
       }
     },
     "jo": {
