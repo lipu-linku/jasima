@@ -398,8 +398,8 @@
       "credits": "jan Okun",
       "completeness_percent": {
         "obscure": "52",
-        "rare": "84",
-        "uncommon": "93",
+        "rare": "85",
+        "uncommon": "94",
         "common": "100",
         "widespread": "100",
         "core": "100"
@@ -413,8 +413,8 @@
       "credits": "jan Okun",
       "completeness_percent": {
         "obscure": "52",
-        "rare": "84",
-        "uncommon": "93",
+        "rare": "85",
+        "uncommon": "94",
         "common": "100",
         "widespread": "100",
         "core": "100"
@@ -1161,7 +1161,9 @@
         "ar": "[ \u0634\u0643\u0644 \u0627\u062e\u0631 \u0645\u0646 ale ]",
         "ja": "[ale \u306e\u5225\u4f53]",
         "ko": "[ale \ub300\uc2e0 \uc0ac\uc6a9 \uac00\ub2a5]",
-        "cs": "[alternativa k ale]"
+        "cs": "[alternativa k ale]",
+        "nno": "(alternativ form av ale)",
+        "nob": "(alternativ form av ale)"
       }
     },
     "alu": {
