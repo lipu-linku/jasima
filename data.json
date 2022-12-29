@@ -13652,7 +13652,23 @@
       "last_updated": "2022-02",
       "filename": "supa-lape.otf",
       "style": "uniform line weight, pixelated",
-      "features": "supports cartouches and extended pi, UCSUR-compliant"
+      "features": "ASCII transcription, supports cartouches and extended pi, UCSUR-compliant"
+    },
+    "kiku upi ala": {
+      "name_short": "kiku upi ala",
+      "writing_system": "tokiponido logography",
+      "links": {
+        "fontfile": "https://kelseyhigham.github.io/kiku-upi-ala/kiku%20upi%20ala.ttf",
+        "repo": "https://github.com/KelseyHigham/kelseyhigham.github.io/tree/main/kiku-upi-ala",
+        "webpage": "https://kelseyhigham.github.io/kiku-upi-ala/"
+      },
+      "creator": "waso Keli (Kelsey Higham)",
+      "license": "OFL",
+      "version": "1.0",
+      "last_updated": "2022-12",
+      "filename": "kiku upi ala.ttf",
+      "style": "pixelated",
+      "features": "ASCII transcription"
     },
     "leko lili 15x15": {
       "name_short": "leko lili",
@@ -13667,7 +13683,7 @@
       "last_updated": "2022-05",
       "filename": "leko-lili-15x15.ttf",
       "style": "pixelated",
-      "features": "all ku suli, UCSUR-compliant"
+      "features": "ASCII transcription, all ku suli, UCSUR-compliant"
     },
     "linja ante": {
       "name_short": "linja ante",
@@ -13682,7 +13698,7 @@
       "last_updated": "2021-01",
       "filename": "linja-ante.ttf",
       "style": "serif",
-      "features": "-"
+      "features": "ASCII transcription"
     },
     "linja lape suwi": {
       "name_short": "sitelen lape",
@@ -13712,7 +13728,7 @@
       "last_updated": "2022-09",
       "filename": "linja_leko.ttf",
       "style": "pixelated",
-      "features": "-"
+      "features": "ASCII transcription"
     },
     "linja leko pi luka tu": {
       "name_short": "linja leko pi luka tu",
@@ -13742,7 +13758,7 @@
       "last_updated": "2022-02",
       "filename": "linja-luka.otf",
       "style": "handwritten",
-      "features": "supports all ku suli and some others"
+      "features": "ASCII transcription, supports all ku suli and some others"
     },
     "linja pi kama wan": {
       "name_short": "linja pi kama wan",
@@ -13804,7 +13820,7 @@
       "last_updated": "2021-08",
       "filename": "pu-lukin.otf",
       "style": "handwritten",
-      "features": "supports all ku lili"
+      "features": "ASCII transcription, supports all ku lili"
     },
     "linja pi tomo lipu": {
       "name_short": "linja pi tomo lipu",
@@ -13820,7 +13836,7 @@
       "last_updated": "2021-12",
       "filename": "linja-pi-tomo-lipu.ttf",
       "style": "uniform line weight",
-      "features": "supports cartouches"
+      "features": "ASCII transcription, supports cartouches"
     },
     "linja pimeja": {
       "name_short": "linja pimeja",
@@ -13835,7 +13851,7 @@
       "last_updated": "2020-04",
       "filename": "linja-pimeja.ttf",
       "style": "handwritten",
-      "features": "-"
+      "features": "ASCII transcription"
     },
     "linja pimeja pona": {
       "name_short": "linja pimeja pona",
@@ -13851,7 +13867,7 @@
       "last_updated": "2022-05",
       "filename": "linja-pimeja-pona.otf",
       "style": "handwritten",
-      "features": "unrecognised words turn into cartouched latin characters"
+      "features": "ASCII transcription, unrecognised words turn into cartouched latin characters"
     },
     "linja pona": {
       "name_short": "linja pona",
@@ -13867,7 +13883,7 @@
       "last_updated": "2021-08",
       "filename": "linja-pona.otf",
       "style": "uniform line weight",
-      "features": "supports cartouches, combined glyphs, nimi ku suli, extended pi"
+      "features": "ASCII transcription, supports cartouches, combined glyphs, nimi ku suli, extended pi"
     },
     "linja sike": {
       "name_short": "linja sike",
@@ -13882,7 +13898,7 @@
       "last_updated": "2021-09",
       "filename": "linja-sike.otf",
       "style": "uniform line weight",
-      "features": "supports cartouches, combined glyphs, most or all nimi ku lili, extended pi and more extended lines, diacritic glyphs, ligature combination of glyphs"
+      "features": "ASCII transcription, supports cartouches, combined glyphs, most or all nimi ku lili, extended pi and more extended lines, diacritic glyphs, ligature combination of glyphs"
     },
     "linja sike pi kute mute": {
       "name_short": "linja sike pi kute mute",
@@ -13913,7 +13929,7 @@
       "last_updated": "2021-08",
       "filename": "linja-suwi.otf",
       "style": "uniform line weight",
-      "features": "supports combined glyphs, nimi ku suli"
+      "features": "ASCII transcription, supports combined glyphs, nimi ku suli"
     },
     "linja waso lili": {
       "name_short": "linja waso",
@@ -13928,7 +13944,7 @@
       "last_updated": "2022-07",
       "filename": "linja-waso_lili.ttf",
       "style": "serif",
-      "features": "UCSUR-compliant, ku suli, supports cartouches, extended pi"
+      "features": "ASCII transcription, UCSUR-compliant, ku suli, supports cartouches, extended pi"
     },
     "linja wawa": {
       "name_short": "linja wawa",
@@ -13943,7 +13959,7 @@
       "last_updated": "2021-12",
       "filename": "linja-wawa.ttf",
       "style": "uniform line weight",
-      "features": "supports cartouches, nimi ku suli, extended pi and more extended lines"
+      "features": "ASCII transcription, supports cartouches, nimi ku suli, extended pi and more extended lines"
     },
     "nasin nanpa": {
       "name_short": "nasin nanpa",
@@ -13972,7 +13988,7 @@
       "last_updated": "2022-05",
       "filename": "nasin-sitelen-pu-mono.otf",
       "style": "handwritten",
-      "features": "UCSUR-compliant, extended pi, cartouches"
+      "features": "ASCII transcription, UCSUR-compliant, extended pi, cartouches"
     },
     "Neoletters": {
       "name_short": "Neoletters",
@@ -14016,7 +14032,7 @@
       "last_updated": "2022-08",
       "filename": "sike_en_linja1-3.otf",
       "style": "uniform line weight",
-      "features": "ku suli"
+      "features": "ASCII transcription, ku suli"
     },
     "sitelen Antowi": {
       "name_short": "sitelen Antowi",
@@ -14031,7 +14047,7 @@
       "last_updated": "2022-05",
       "filename": "sitelen-antowi.otf",
       "style": "alternate design",
-      "features": "UCSUR-compliant, extended pi, cartouches, ku suli, cartouches, autocartouches capitalised latin words "
+      "features": "ASCII transcription, UCSUR-compliant, extended pi, cartouches, ku suli, cartouches, autocartouches capitalised latin words "
     },
     "sitelen Komalin": {
       "name_short": "sitelen Komalin",
@@ -14075,7 +14091,7 @@
       "version": "1.3.6",
       "last_updated": "2022-01",
       "filename": "sitelen-latin.ttf",
-      "features": "supports all containers and nimi ku suli (misikeke is misspelled as misekeke)"
+      "features": "ASCII transcription, supports all containers and nimi ku suli (misikeke is misspelled as misekeke)"
     },
     "sitelen leko kiki": {
       "name_short": "sitelen leko kiki",
@@ -14144,7 +14160,7 @@
       "last_updated": "2022-09",
       "filename": "sitelen_pi_linja_ko.ttf",
       "style": "pixelated",
-      "features": "-"
+      "features": "ASCII transcription"
     },
     "sitelen poka / sitelen luka tu tu": {
       "name_short": "sitelen luka tu tu",
@@ -14159,7 +14175,7 @@
       "last_updated": "2019-11",
       "filename": "sitelen-luka-tu-tu.otf",
       "style": "pixelated",
-      "features": "-"
+      "features": "ASCII transcription"
     },
     "sitelen pona 7x7": {
       "name_short": "sitelen pona 7x7",
@@ -14233,7 +14249,7 @@
       "last_updated": "2020-06",
       "filename": "sitelen-pona-pona.otf",
       "style": "alternate design",
-      "features": "unrecognised words turn into cartouched latin characters"
+      "features": "ASCII transcription, unrecognised words turn into cartouched latin characters"
     },
     "sitelen Sans": {
       "name_short": "sitelen Sans",
@@ -14248,7 +14264,7 @@
       "last_updated": "2020-12",
       "filename": "sitelen-sans.otf",
       "style": "serif",
-      "features": "supports extended pi"
+      "features": "ASCII transcription, supports extended pi"
     },
     "sitelen seli kiwen asuki": {
       "name_short": "sitelen seli kiwen asuki",
@@ -14311,7 +14327,7 @@
       "last_updated": "2020-10",
       "filename": "sitelen-telo.otf",
       "style": "handwritten",
-      "features": "-"
+      "features": "ASCII transcription"
     },
     "sitelen telo Momo": {
       "name_short": "sitelen telo Momo",
@@ -14326,7 +14342,7 @@
       "last_updated": "2022-01",
       "filename": "sitelen-telo-momo.ttf",
       "style": "handwritten, alternate design",
-      "features": "supports all nimi ku suli and nimi ku lili"
+      "features": "ASCII transcription, supports all nimi ku suli and nimi ku lili"
     },
     "sitelen uta": {
       "name_short": "sitelen uta",
@@ -14365,7 +14381,7 @@
       "version": "1.1",
       "last_updated": "2022-02",
       "filename": "toki-pona-bubble.otf",
-      "features": "supports all nimi ku suli"
+      "features": "ASCII transcription, supports all nimi ku suli"
     },
     "toki pona OTF": {
       "name_short": "toki pona OTF",
@@ -14380,7 +14396,7 @@
       "last_updated": "2014-07",
       "filename": "toki-pona-otf.otf",
       "style": "uniform line weight",
-      "features": "-"
+      "features": "ASCII transcription"
     },
     "toki pona PixelFonts": {
       "name_short": "toki pona PixelFonts",
@@ -14389,7 +14405,8 @@
         "fontfile": "https://cdn.discordapp.com/attachments/340307145373253642/631510265455706132/tokiponaPixelFonts12Medium.ttf"
       },
       "last_updated": "2022-07",
-      "style": "pixelated"
+      "style": "pixelated",
+      "features": "ASCII transcription"
     },
     "TokiTengwar": {
       "name_short": "toki tengwar",
