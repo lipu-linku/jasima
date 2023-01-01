@@ -572,7 +572,7 @@
     },
     "tr": {
       "id_long": "turkish",
-      "name_endonym": "T\u00fcrk\u00e7e ",
+      "name_endonym": "T\u00fcrk\u00e7e",
       "name_english": "Turkish",
       "name_toki_pona": "toki Tuki",
       "credits": "razorlovesbaba, anomyq",
@@ -1011,7 +1011,7 @@
         "fi": "mets\u00e4st\u00e4\u00e4, pyydyst\u00e4\u00e4, etsi\u00e4 | ALT (pv.) yritt\u00e4\u00e4",
         "uk": "\u043f\u043e\u043b\u044e\u0432\u0430\u0442\u0438, \u0437\u0431\u0438\u0440\u0430\u0442\u0438, \u0448\u0443\u043a\u0430\u0442\u0438 | ALT (pv.) \u043f\u0440\u043e\u0431\u0443\u0432\u0430\u0442\u0438",
         "tkl": "hakili | ALT (pv.) taumafai",
-        "da": "at jage, fouragere, s\u00f8ge | ALT fors\u00f8g, ",
+        "da": "at jage, fouragere, s\u00f8ge | ALT fors\u00f8g,",
         "haw": "hahai, \u02bbimi | ALT (pv.) ho\u02bboikaika, k\u016blia",
         "hr": "loviti, tra\u017eiti | ALT (pv.) poku\u0161ati, probati",
         "ith_n": "up\u0163ral, ap\u0163al | ALT (pv.) psalaekpa",
@@ -1053,9 +1053,9 @@
       "see_also": "ali",
       "tags": "pre-pu ALT",
       "pu_verbatim": {
-        "en": "ADJECTIVE all; abundant, countless, bountiful, every, plentiful NOUN abundance, everything, life, universe NUMBER 100"
+        "en": "ADJECTIVE all; abundant, countless, bountiful, every, plentiful\nNOUN abundance, everything, life, universe\nNUMBER 100"
       },
-      "commentary": "\"ali\" is an alternative to \"ale\", coined in a poll in 2002 in order to avoid confusion with \"ala\". However, the usage of \"ale\" over \"ali\" remains more common. The majority of speakers report not understanding the \"abundant, bountiful, plentiful\" meaning, at least out of context. \"20, 120\" were non-pu meanings previously in use in the community alongside 100; they are virtually unheard of nowadays.",
+      "commentary": "\"ali\" is an alternative to \"ale\", coined in a poll in 2002 in order to avoid confusion with \"ala\". However, the usage of \"ale\" over \"ali\" remains more common.\nThe majority of speakers report not understanding the \"abundant, bountiful, plentiful\" meaning, at least out of context.\n\"20, 120\" were non-pu meanings previously in use in the community alongside 100; they are virtually unheard of nowadays.",
       "def": {
         "en": "all; abundant, countless, bountiful, every, plentiful; abundance, everything, life, universe; one hundred | ALT 100",
         "pl": "wszystko; obfity, niezliczalny, ka\u017cdy; obfito\u015b\u0107, multum, \u017cycie, wszech\u015bwiat; sto | ALT 100",
@@ -1268,7 +1268,7 @@
         "ceb_l": "duko, paubos, mapaubsanon, ubos, nagasalig | ALT ubos nga bahin, ilalum, salog, sa ubos",
         "la": "sub, \u012bnfr\u0101, humus, fundus",
         "it": "inchinarsi, verso il basso, umile, dipendente | ALT fondo, parte inferiore, sotto, pavimento, al di sotto; basso, inferiore, gi\u00f9",
-        "pt": "curvando-se,  para baixo, humilde, baixo status, dependente | ALT baixo, parte  inferior, debaixo, abaixo de, piso, embaixo; abaixo, baixo, mais baixo,  para baixo",
+        "pt": "curvando-se,\npara baixo, humilde, baixo status, dependente | ALT baixo, parte\ninferior, debaixo, abaixo de, piso, embaixo; abaixo, baixo, mais baixo,\npara baixo",
         "tl_l": "yumuyuko, pababa, mapagpakumbaba, mababa, umaasa | ALT bab\u00e2, ibabang bahagi, ilalim, ibaba, sahig; mababa, ibaba, pababa",
         "fr": "inclin\u00e9, en bas, humble, modeste, d\u00e9pendent | ALT bas, partie inf\u00e9rieure, sous, dessous, sol ; inf\u00e9rieur, fond, descendant",
         "tr": "a\u015fa\u011f\u0131, a\u015fa\u011f\u0131ya, al\u00e7ak | ALT alt, alt\u0131nda, a\u015fa\u011f\u0131 k\u0131s\u0131m, zemin",
@@ -1537,7 +1537,7 @@
         "2022-08": "98"
       },
       "pu_verbatim": {
-        "en": "ADJECTIVE enduring, kept, protected, safe, waiting, staying PRE-VERB to continue to"
+        "en": "ADJECTIVE enduring, kept, protected, safe, waiting, staying\nPRE-VERB to continue to"
       },
       "def": {
         "en": "enduring, kept, protected, safe, waiting, staying; (pv.) to continue to, to keep",
@@ -1714,7 +1714,7 @@
         "de": "(zwischen mehreren Subjekten)",
         "tok": "ijo nanpa wan li pali. ijo nanpa tu kin li pali. ni la ijo nanpa wan en ijo nanpa tu li pali.",
         "es": "(entre m\u00faltiples sujetos) | ALT (coordina modificadores en una frase con pi u objetos en una preposici\u00f3n)",
-        "id": " (memisahkan lebih dari satu subjek)",
+        "id": "(memisahkan lebih dari satu subjek)",
         "ceb_l": "(tunga sa lainlain nga hilisgutan) | ALT (tigtabang sa mga pulong nga tigbag-o sa mga pi nga bahin o butang sa mga pulong nga naghulagway sa mga dapit)",
         "la": "(inter subjecta pl\u016bra)",
         "it": "(tra pi\u00f9 soggetti) | ALT (coordina i modificatori in una frase con pi o gli oggetti di una preposizione)",
@@ -1968,7 +1968,7 @@
         "ru": "\u0433\u043e\u0440\u043d\u0430\u044f \u043f\u043e\u0440\u043e\u0434\u0430, \u0433\u0440\u0430\u0432\u0438\u0439, \u043a\u0430\u043c\u0435\u043d\u044c, \u0433\u0430\u043b\u044c\u043a\u0430, \u043b\u0430\u0432\u0430, \u043c\u0430\u0433\u043c\u0430",
         "eo": "\u015dtono, gruzo, roko, \u015dtoneto, lafo, magmo",
         "de": "Stein, Kies, Lava, Magma",
-        "tok": "mi ken pali e kiwen kepeken e ewe e seli. kiwen li tan jan, taso ewe li tan ma. ",
+        "tok": "mi ken pali e kiwen kepeken e ewe e seli. kiwen li tan jan, taso ewe li tan ma.",
         "es": "piedra, grava, roca, guijarro; lava, magma",
         "hi": "\u092a\u0924\u094d\u0925\u0930, \u091a\u091f\u094d\u091f\u093e\u0928, \u0932\u093e\u0935\u093e, \u092d\u0941\u0930\u093e\u0932",
         "ur": "\u067e\u062a\u06be\u0631 \u060c \u0686\u0679\u0627\u0646 \u060c \u0644\u0627\u0648\u0627",
@@ -1984,7 +1984,7 @@
         "uk": "\u0433\u0456\u0440\u043d\u0430 \u043f\u043e\u0440\u043e\u0434\u0430, \u0433\u0440\u0430\u0432\u0456\u0439, \u043a\u0430\u043c\u0456\u043d\u044c, \u0433\u0430\u043b\u044c\u043a\u0430, \u043b\u0430\u0432\u0430, \u043c\u0430\u0433\u043c\u0430",
         "da": "sten, grus, klippe, sten, sm\u00e5sten, lava, magma",
         "hr": "kamen, \u0161ljunak, kamen\u010di\u0107, lava, magma",
-        "io": "petro, gravio, roko, stono; lavo ",
+        "io": "petro, gravio, roko, stono; lavo",
         "ja": "\u77f3\u3001\u7802\u5229\u3001\u5ca9\u3001\u792b\u3001\u7194\u5ca9\u3001\u30de\u30b0\u30de",
         "cs": "k\u00e1men, \u0161t\u011brk, sk\u00e1la, obl\u00e1zek, l\u00e1va, magma"
       }
@@ -2412,7 +2412,7 @@
       },
       "see_also": "pilin, toki, insa",
       "def": {
-        "en": "to think, brainstorm, rationalize, conclude, ponder ",
+        "en": "to think, brainstorm, rationalize, conclude, ponder",
         "pl": "my\u015ble\u0107, wyobra\u017ca\u0107 sobie, wierzy\u0107, uwa\u017ca\u0107, pami\u0119ta\u0107, przypomnie\u0107 sobie; my\u015bl, pomys\u0142",
         "ru": "\u0434\u0443\u043c\u0430\u0442\u044c, \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u044c \u043c\u043e\u0437\u0433\u043e\u0432\u043e\u0439 \u0448\u0442\u0443\u0440\u043c, \u0440\u0430\u0446\u0438\u043e\u043d\u0430\u043b\u0438\u0437\u0438\u0440\u043e\u0432\u0430\u0442\u044c, \u0434\u0435\u043b\u0430\u0442\u044c \u0432\u044b\u0432\u043e\u0434, \u0440\u0430\u0437\u043c\u044b\u0448\u043b\u044f\u0442\u044c",
         "eo": "pensi, imagi, kredi",
@@ -2466,7 +2466,7 @@
         "hi": "\u0924\u093e\u0928\u093e \u092e\u093e\u0930\u0928\u093e",
         "ur": "\u0637\u0639\u0646\u06c1 \u0645\u0627\u0631\u0646\u0627",
         "pa": "\u0a24\u0a3e\u0a28\u0a3e \u0a2e\u0a3e\u0a30\u0a28\u0a3e",
-        "id": "senang lihat orang lain susah, ejekan tidak langsung, ",
+        "id": "senang lihat orang lain susah, ejekan tidak langsung,",
         "it": "Schadenfreude, insulto indiretto o mancanza di rispetto, ombra",
         "fr": "schadenfreude, insulte indirecte ou irrespect, tacle",
         "tr": "ba\u015fkas\u0131n\u0131n \u00fcz\u00fcnt\u00fcs\u00fcne sevinme, dolayl\u0131 yoldan hakaret ya da sayg\u0131s\u0131zl\u0131k",
@@ -2598,7 +2598,7 @@
       "book": "none",
       "usage_category": "obscure",
       "source_language": "Finnish",
-      "etymology": " jalan \u2018afoot\u2019 (\u2190 jalka \u2018foot\u2019)",
+      "etymology": "jalan \u2018afoot\u2019 (\u2190 jalka \u2018foot\u2019)",
       "creator": "jan Sonja",
       "recognition": {
         "2020-04": "13",
@@ -2606,7 +2606,7 @@
         "2022-08": "1"
       },
       "see_also": "noka",
-      "commentary": "In a poll in 2002, \"jalan\" was proposed as a replacement for \"noka\". However, \"jalan\" failed to get enough votes. ",
+      "commentary": "In a poll in 2002, \"jalan\" was proposed as a replacement for \"noka\". However, \"jalan\" failed to get enough votes.",
       "def": {
         "en": "foot [alternate form of noka]",
         "pl": "stopa [alternatywna forma s\u0142owa noka]",
@@ -3346,7 +3346,7 @@
         "2022-08": "99"
       },
       "pu_verbatim": {
-        "en": "ADJECTIVE arriving, coming, future, summoned PRE-VERB to become, manage to, succeed in"
+        "en": "ADJECTIVE arriving, coming, future, summoned\nPRE-VERB to become, manage to, succeed in"
       },
       "def": {
         "en": "arriving, coming, future, summoned; (pv.) to become, manage to, succeed in",
@@ -3401,7 +3401,7 @@
         "2021-10": "29",
         "2022-08": "8"
       },
-      "commentary": "The word is from a story called \"jan pi Kamalawala\". A character's name is described as \"nimi Jan pi Kama e Lawa Ala\", and a shortened version given as \"nimi Kamalawala\". jan Kipo is responsible for it becoming a word instead of just a name. ",
+      "commentary": "The word is from a story called \"jan pi Kamalawala\". A character's name is described as \"nimi Jan pi Kama e Lawa Ala\", and a shortened version given as \"nimi Kamalawala\". jan Kipo is responsible for it becoming a word instead of just a name.",
       "def": {
         "en": "anarchy, uprising, revolt, rebellion",
         "pl": "anarchia, powstanie, bunt, rebelia",
@@ -3600,7 +3600,7 @@
         "isv_c": "\u0440\u0430\u0441\u0442\u043b\u0438\u043d\u0430, \u0431\u044b\u043b\u0438\u043d\u0430, \u0432\u0435\u0433\u0435\u0442\u0430\u0446\u0438\u0458\u0430; \u0442\u0440\u0430\u0432\u0430, \u043b\u0438\u0441\u0442",
         "eo": "planto, vegeta\u0135o; spicherbo, folio",
         "de": "Pflanze, Vegetation, Baum, Kraut, Blatt",
-        "tok": "kasi li soweli pi tawa ala; ona li moku  e suno kepeken lipu laso li moku e ijo ma kepeken noka ona",
+        "tok": "kasi li soweli pi tawa ala; ona li moku e suno kepeken lipu laso li moku e ijo ma kepeken noka ona",
         "es": "planta, vegetaci\u00f3n, hierbas, hoja",
         "id": "tumbuhan; herba, daun",
         "la": "herba, arbor, planta, stirps",
@@ -3646,7 +3646,7 @@
       "see_also": "oke, n",
       "def": {
         "en": "(acknowledgement or acceptance)",
-        "pl": "(uznanie lub akceptacja) ",
+        "pl": "(uznanie lub akceptacja)",
         "ru": "(\u043f\u043e\u0434\u0442\u0432\u0435\u0440\u0436\u0434\u0435\u043d\u0438\u0435 \u0438\u043b\u0438 \u043f\u0440\u0438\u043d\u044f\u0442\u0438\u0435)",
         "isv_l": "(priznanje abo prijetje)",
         "isv_c": "(\u043f\u0440\u0438\u0437\u043d\u0430\u045a\u0435 \u0430\u0431\u043e \u043f\u0440\u0438\u0458\u0435\u0442\u0458\u0435)",
@@ -3699,7 +3699,7 @@
         "2022-08": "99"
       },
       "pu_verbatim": {
-        "en": "PRE-VERB to be able to, be allowed to, can, may ADJECTIVE possible"
+        "en": "PRE-VERB to be able to, be allowed to, can, may\nADJECTIVE possible"
       },
       "def": {
         "en": "to be able to, be allowed to, can, may; possible",
@@ -4112,7 +4112,7 @@
       "pu_verbatim": {
         "en": "PARTICLE (emphasis, emotion or confirmation)"
       },
-      "commentary": "In common usage (both before and after pu), \"a\" and \"kin\" are separate words, each with their own meaning. In pu, they are considered synonyms. Underwent significant changes in usage in 2002, alongside \"en\" and (now obsolete) \"kan\".",
+      "commentary": "In common usage (both before and after pu), \"a\" and \"kin\" are separate words, each with their own meaning. In pu, they are considered synonyms.\nUnderwent significant changes in usage in 2002, alongside \"en\" and (now obsolete) \"kan\".",
       "def": {
         "en": "{see a} | ALT indeed, too, also, as well",
         "pl": "{patrz a} | ALT w rzeczy samej; tak\u017ce, r\u00f3wnie\u017c; nawet",
@@ -4529,7 +4529,7 @@
         "2021-10": "25",
         "2022-08": "6"
       },
-      "commentary": "Conway refers to John Horton Conway, creator of the cellular automaton Game of Life. konwe's intended meaning extends beyond just \"living\" and \"life.\" It can be used to describe rocks or rivers or other nonliving things",
+      "commentary": "Conway refers to John Horton Conway, creator of the cellular automaton Game of Life.\nkonwe's intended meaning extends beyond just \"living\" and \"life.\" It can be used to describe rocks or rivers or other nonliving things",
       "def": {
         "en": "animacy, life, autonomy; autonomous being, living thing, organism; alive, animate, dynamic; to animate, to bring to life",
         "pl": "o\u017cywiono\u015b\u0107, \u017cycie, autonomiczno\u015b\u0107; istota autonomiczna, co\u015b \u017cyj\u0105cego, organizm; \u017cywy, dynamiczny; o\u017cywi\u0107",
@@ -4540,11 +4540,11 @@
         "la": "v\u012bvus, v\u012bvere, aet\u0101s, v\u012bv\u0101cit\u0101s, anim\u0101re",
         "it": "animazione, vita, autonomia; essere autonomo, cosa vivente, organismo; vivo, animato, dinamico; animare, portare alla vita",
         "fr": "anim\u00e9it\u00e9, vie, autonomie ; \u00eatre autonome, chose vivante, organisme; vivant, anim\u00e9, dynamique; animer, donner vie",
-        "tr": "dirilik,  hayat, otonomi; \u00f6zerk varl\u0131k, canl\u0131 \u015fey, organizma; canl\u0131, diri, dinamik; diriltmek, hayata getirmek",
+        "tr": "dirilik, hayat, otonomi; \u00f6zerk varl\u0131k, canl\u0131 \u015fey, organizma; canl\u0131, diri, dinamik; diriltmek, hayata getirmek",
         "zh_hant": "\u751f\u547d\u3001\u751f\u6c23\u3001\u81ea\u4e3b\uff1b\u751f\u7269\u3001\u6709\u6a5f\u9ad4\uff1b\u6d3b\u7684\u3001\u6709\u751f\u547d\u7684\u3001\u7cbe\u529b\u5145\u6c9b\u7684\uff1b\u4f7f\u6709\u751f\u6c23\u3001\u4f7f\u6d3b\u8457",
         "zh_hans": "\u751f\u547d\u3001\u751f\u6c14\u3001\u81ea\u4e3b\uff1b\u751f\u7269\u3001\u6709\u673a\u4f53\uff1b\u6d3b\u7684\u3001\u6709\u751f\u547d\u7684\u3001\u7cbe\u529b\u5145\u6c9b\u7684\uff1b\u4f7f\u6709\u751f\u6c14\u3001\u4f7f\u6d3b\u7740",
         "uk": "\u0430\u043d\u0456\u043c\u0430\u0446\u0456\u044f, \u0436\u0438\u0442\u0442\u044f, \u0441\u0430\u043c\u043e\u0441\u0442\u0456\u0439\u043d\u0456\u0441\u0442\u044c; \u0430\u0432\u0442\u043e\u043d\u043e\u043c\u043d\u0430 \u0456\u0441\u0442\u043e\u0442\u0430, \u0436\u0438\u0432\u0430 \u0456\u0441\u0442\u043e\u0442\u0430, \u043e\u0440\u0433\u0430\u043d\u0456\u0437\u043c; \u0436\u0432\u0430\u0432\u0438\u0439, \u0430\u043d\u0456\u043c\u043e\u0432\u0430\u043d\u0438\u0439, \u0434\u0438\u043d\u0430\u043c\u0456\u0447\u043d\u0438\u0439; \u0432\u0456\u0434\u043d\u043e\u0432\u043b\u044e\u0432\u0430\u0442\u0438",
-        "da": "animacy, liv, autonomi; selvst\u00e6ndigt v\u00e6sen, levende ting, organisme; levende, animeret, dynamisk; at levendeg\u00f8re, at bringe  til live",
+        "da": "animacy, liv, autonomi; selvst\u00e6ndigt v\u00e6sen, levende ting, organisme; levende, animeret, dynamisk; at levendeg\u00f8re, at bringe til live",
         "hr": "animitet, \u017eivot, autonomija; autonomno bi\u0107e; \u017eivo bi\u0107e, organizam; \u017eivo, animirano, dinami\u010dno; animirati, o\u017eiviti",
         "ja": "\u6709\u751f\u6027\u3001\u751f\u547d\u3001\u81ea\u5f8b\u6027; \u81ea\u5f8b\u7684\u5b58\u5728\u3001\u751f\u7269\u3001\u6709\u6a5f\u4f53; \u751f\u304d\u3066\u3044\u308b\u3001\u6709\u751f\u306e\u3001\u52d5\u7684\u306a; \u751f\u304b\u3059\u3001\u751f\u547d\u3092\u3082\u305f\u3089\u3059",
         "cs": "\u017eivotnost, \u017eivot, samostatnost; autonomn\u00ed bytost, \u017eij\u00edc\u00ed v\u011bc, organismus; \u017eiv\u00fd; ob\u017eivit"
@@ -4916,7 +4916,7 @@
         "2022-08": "99"
       },
       "pu_verbatim": {
-        "en": "NOUN ear VERB to hear, listen; pay attention to, obey"
+        "en": "NOUN ear\nVERB to hear, listen; pay attention to, obey"
       },
       "def": {
         "en": "ear; to hear, listen; pay attention to, obey",
@@ -5078,7 +5078,7 @@
         "isv_c": "\u0432\u0437\u0435\u0442\u0438, \u0431\u0440\u0430\u0442\u0438, \u043b\u043e\u0432\u0438\u0442\u0438, \u0434\u043e\u0441\u0442\u0430\u0442\u0438",
         "eo": "preni, kapti, ricevi",
         "de": "nehmen, erobern, fangen, bekommen, kriegen",
-        "tok": "tenpo pi kama jo wawa li tenpo lanpan. ",
+        "tok": "tenpo pi kama jo wawa li tenpo lanpan.",
         "es": "tomar, coger, agarrar, capturar, recibir, obtener, conseguir",
         "hi": "\u0932\u0947\u0928\u093e, \u091b\u0940\u0928 \u0932\u0947\u0928\u093e, \u092a\u0915\u0921\u093c\u0928\u093e, \u092e\u093f\u0932\u0928\u093e",
         "ur": "\u0644\u06cc\u0646\u0627\u060c \u067e\u06a9\u0691\u0646\u0627\u060c \u0686\u06be\u06cc\u0646 \u0644\u06cc\u0646\u0627\u060c \u0645\u0644\u0646\u0627",
@@ -5326,7 +5326,7 @@
         "isv_c": "\u0441\u0442\u0443\u043f\u0435\u043d\u0438\u0448\u0447\u0435, \u043a\u0432\u0430\u0434\u0440\u0430\u0442, \u043a\u043e\u0441\u0442\u043a\u0430, \u043a\u0443\u0442, \u0432\u0443\u0433\u043e\u043b, \u043a\u0443\u0431",
         "eo": "\u0161tuparo, kvadrato, bloko, angulo",
         "de": "Treppen, Klotz, W\u00fcrfel, Quadrat",
-        "tok": "sitelen la, leko li ijo pi poka tu tu. ",
+        "tok": "sitelen la, leko li ijo pi poka tu tu.",
         "es": "escalaras, cuadrado, casilla, bloque, cubo",
         "hi": "\u0938\u0940\u0922\u093c\u0940, \u0935\u0930\u094d\u0917, \u0921\u092c\u094d\u092c\u093e",
         "ur": "\u0633\u06cc\u0691\u06be\u06cc\u0627\u06ba \u060c \u0645\u0631\u0628\u0639 \u060c \u0628\u0644\u0627\u06a9 \u060c \u0645\u06a9\u0639\u0628\u060c \u0688\u0628\u0651\u0627",
@@ -5443,8 +5443,8 @@
         "en": "cold, cool; uncooked, raw",
         "pl": "zimny, ch\u0142odny; nieugotowany, surowy",
         "ru": "\u0445\u043e\u043b\u043e\u0434\u043d\u044b\u0439, \u043f\u0440\u043e\u0445\u043b\u0430\u0434\u043d\u044b\u0439; \u0441\u044b\u0440\u043e\u0439, \u043d\u0435\u043f\u0440\u0438\u0433\u043e\u0442\u043e\u0432\u043b\u0435\u043d\u043d\u044b\u0439",
-        "isv_l": "hladny, prohladny;  nevarjeny, surovy",
-        "isv_c": "\u0445\u043b\u0430\u0434\u043d\u044b, \u043f\u0440\u043e\u0445\u043b\u0430\u0434\u043d\u044b;  \u043d\u0435\u0432\u0430\u0440\u0458\u0435\u043d\u044b, \u0441\u0443\u0440\u043e\u0432\u044b",
+        "isv_l": "hladny, prohladny;\nnevarjeny, surovy",
+        "isv_c": "\u0445\u043b\u0430\u0434\u043d\u044b, \u043f\u0440\u043e\u0445\u043b\u0430\u0434\u043d\u044b;\n\u043d\u0435\u0432\u0430\u0440\u0458\u0435\u043d\u044b, \u0441\u0443\u0440\u043e\u0432\u044b",
         "eo": "malvarma; nekuirita, kruda",
         "de": "kalt, k\u00fchl; ungekocht, roh",
         "tok": "seli ala; suno li weka mute la telo li ken kama kiwen tan lete",
@@ -5528,7 +5528,7 @@
         "ko": "(\"mi\"\uc640 \"sina\"\ub97c \uc81c\uc678\ud55c \ubaa8\ub4e0 \uc8fc\uc5b4\uc640 \ub3d9\uc0ac \uc0ac\uc774; \uac19\uc740 \uc8fc\uc5b4\uc5d0 \ub300\ud574 \uc0c8 \ub3d9\uc0ac\ub97c \ub123\uc744 \ub54c\ub3c4 \uc0ac\uc6a9 \uac00\ub2a5)",
         "cs": "(mezi podm\u011btem [krom\u011b samotn\u00e9ho mi \u010di samotn\u00e9ho sina] a p\u0159\u00edsudkem; t\u00e9\u017e uv\u00e1d\u00ed n\u011bkolikan\u00e1sobn\u00fd p\u0159\u00edsudek)",
         "nno": "(brukast mellom subjekt som ikkje er berre \"mi\" eller berre \"sina\" og verb; introduserer nytt verb for same subjekt)",
-        "nob": "(brukes mellom subjekt som ikke er bare \"mi\" eller bare \"sina\" og verb; introduserer nytt verb for samme subjekt) "
+        "nob": "(brukes mellom subjekt som ikke er bare \"mi\" eller bare \"sina\" og verb; introduserer nytt verb for samme subjekt)"
       }
     },
     "lijokuku": {
@@ -5759,7 +5759,7 @@
         "de": "Netzwerk, Internet, Verbindung",
         "tok": "linluwi li kulupu pi ilo sona. lipu \"nimi ali epiku\" li lon linluwi.",
         "es": "red, Internet, conexi\u00f3n; tejer, entrelazar, trenzar",
-        "hi": "\u0928\u0947\u091f\u0935\u0930\u094d\u0915, \u0907\u0902\u091f\u0930\u0928\u0947\u091f; \u091c\u093e\u0932, (\u092c\u093e\u0932\u094b\u0902 \u0915\u0940) \u091a\u094b\u091f\u0940, ",
+        "hi": "\u0928\u0947\u091f\u0935\u0930\u094d\u0915, \u0907\u0902\u091f\u0930\u0928\u0947\u091f; \u091c\u093e\u0932, (\u092c\u093e\u0932\u094b\u0902 \u0915\u0940) \u091a\u094b\u091f\u0940,",
         "ur": "\u0646\u06cc\u0679\u0648\u0631\u06a9 \u060c \u0627\u0646\u0679\u0631\u0646\u06cc\u0679\u060c \u0646\u06cc\u0679 \u060c (\u0628\u0627\u0644) \u0686\u0648\u0679\u06cc \u060c \u062c\u0627\u0644\u060c \u062c\u0627\u0644\u06cc",
         "pa": "\u0a28\u0a47\u0a1f\u0a35\u0a30\u0a15, \u0a07\u0a70\u0a1f\u0a30\u0a28\u0a47\u0a1f; \u0a1c\u0a3e\u0a32, (\u0a35\u0a3e\u0a32\u0a3e\u0a02 \u0a26\u0a40) \u0a1a\u0a4b\u0a1f\u0a40",
         "id": "jejaring, internet, koneksi; memintal, mengepang, menganyam",
@@ -5974,7 +5974,7 @@
         "zh_hant": "\u80a2\u9ad4",
         "zh_hans": "\u80a2\u4f53",
         "fi": "raaja",
-        "uk": "\u043a\u043e\u043d\u0435\u0447\u043d\u0456\u0441\u0442\u044c ",
+        "uk": "\u043a\u043e\u043d\u0435\u0447\u043d\u0456\u0441\u0442\u044c",
         "da": "lem",
         "hr": "ud",
         "ja": "\u80a2\u3001\u624b\u8db3",
@@ -6020,7 +6020,7 @@
         "uk": "(\u043a\u043e\u043c\u043f\u0440\u043e\u043c\u0456\u0441 \u043c\u0456\u0436 lukin \u0456 oko)",
         "da": "{et kompromis mellem lukin & oko}",
         "hr": "{kompromis izme\u0111u \"lukin\" i \"oko\"}",
-        "io": "(konceso inter la vorti lukin ed oko) ",
+        "io": "(konceso inter la vorti lukin ed oko)",
         "ja": "{lukin \u3068 oko \u306e\u6298\u8877}",
         "cs": "(kompromis mezi lukin a oko)"
       }
@@ -6153,7 +6153,7 @@
       },
       "tags": "pre-pu ALT",
       "pu_verbatim": {
-        "en": "NOUN arm, hand, tactile organ NUMBER five"
+        "en": "NOUN arm, hand, tactile organ\nNUMBER five"
       },
       "def": {
         "en": "arm, hand, tactile organ; five | ALT touch/feel physically, interact, press",
@@ -6218,7 +6218,7 @@
       },
       "see_also": "oko, alasa",
       "pu_verbatim": {
-        "en": "NOUN eye VERB to look at, see, examine, observe, read, watch PRE-VERB to seek, look for, try to"
+        "en": "NOUN eye\nVERB to look at, see, examine, observe, read, watch\nPRE-VERB to seek, look for, try to"
       },
       "commentary": "In common usage (both before and after pu), \"lukin\" and \"oko\" are separate words, each with their own meaning. In pu, they are considered synonyms. Those who consider them synonyms typically don't use \"oko\" at all, preferring \"lukin\" in all circumstances. The usage of \"alasa\" as a preverb meaning \"try to\" is more common than \"lukin\". In pu, only \"lukin\" has this meaning.",
       "def": {
@@ -6412,7 +6412,7 @@
         "isv_c": "\u0441\u0442\u0430\u0440\u044b, \u0441\u0442\u0430\u0440\u0438\u043d\u043d\u044b, \u0441\u0442\u0430\u0440\u043e\u0434\u0430\u0432\u043d\u044b, \u0434\u0440\u0454\u0432\u043d\u044b",
         "eo": "maljuna, a\u011da, antikva",
         "de": "alt, betagt, antik",
-        "tok": "tenpo mute la, sina li lon. ni la, sina jan majuna. ",
+        "tok": "tenpo mute la, sina li lon. ni la, sina jan majuna.",
         "es": "viejo, antiguo, anciano, a\u00f1ejo",
         "hi": "\u092a\u0941\u0930\u093e\u0928\u093e, \u092c\u0942\u0922\u093c\u093e, \u092c\u0941\u091c\u093c\u0941\u0930\u094d\u0917, \u092a\u094d\u0930\u093e\u091a\u0940\u0928",
         "ur": "\u0628\u0648\u0691\u06be\u0627\u060c \u0628\u0632\u0631\u06af \u060c \u0642\u062f\u06cc\u0645\u06cc",
@@ -6922,7 +6922,7 @@
         "ru": "\u0433\u0440\u044b\u0437\u0443\u043d\u043e\u043e\u0431\u0440\u0430\u0437\u043d\u044b\u0435 \u0438\u043b\u0438 \u043d\u0430\u0441\u0435\u043a\u043e\u043c\u043e\u044f\u0434\u043d\u044b\u0435; \u043a\u0440\u044b\u0441\u0430, \u043c\u044b\u0448\u044c, \u0431\u0435\u043b\u043a\u0430, \u043a\u0440\u043e\u043b\u0438\u043a, \u0433\u0440\u044b\u0437\u0443\u043d; {~ suli} \u043a\u0430\u043f\u0438\u0431\u0430\u0440\u0430",
         "eo": "Glires a\u016d Eulipotyphla; rato, muso, sciuro, kuniklo, ron\u011dulo; {~ suli} kapibaro",
         "de": "Ratte, Maus, Eichh\u00f6rnchen, Kaninchen, Nagetier",
-        "tok": "misa li soweli lili. ona li lon poka pi tomo jan. ona li ike tawa jan mute.  ",
+        "tok": "misa li soweli lili. ona li lon poka pi tomo jan. ona li ike tawa jan mute.",
         "es": "rata, rat\u00f3n, ardilla, conejo, roedor",
         "hi": "\u091a\u0942\u0939\u093e, \u092e\u0942\u0937\u0915, \u0917\u093f\u0932\u0939\u0930\u0940, \u0916\u093c\u0930\u0917\u094b\u0936",
         "ur": "\u0686\u0648\u06c1\u0627\u060c \u06af\u0644\u06c1\u0631\u06cc\u060c \u062e\u0631\u06af\u0648\u0634",
@@ -7123,7 +7123,7 @@
         "hr": "mrtvo, umiru\u0107e",
         "sv": "d\u00f6d, d\u00f6ende",
         "ja": "\u6b7b\u306c\u3001\u6b7b\u306e\u3001\u6bba\u3059",
-        "ko": " \uc8fd\ub2e4, \uc8fd\uc74c",
+        "ko": "\uc8fd\ub2e4, \uc8fd\uc74c",
         "cs": "mrtv\u00fd, um\u0159\u00edt",
         "nno": "daud, d\u00f8yande",
         "nob": "d\u00f8d, d\u00f8ende"
@@ -7314,7 +7314,7 @@
       "def": {
         "en": "(animal noise or communication) | ALT (non-speech vocalization)",
         "pl": "(zwierz\u0119cy d\u017awi\u0119k lub komunikacja) | ALT (wokalizacja nieb\u0119d\u0105ca mow\u0105)",
-        "ru": "(\u0437\u0432\u0443\u043a, \u0438\u0437\u0434\u0430\u0432\u0430\u0435\u043c\u044b\u0439 \u0436\u0438\u0432\u043e\u0442\u043d\u044b\u043c, \u0438\u043b\u0438 \u043e\u0431\u0449\u0435\u043d\u0438\u0435 \u0436\u0438\u0432\u043e\u0442\u043d\u044b\u0445) | ALT (\u043d\u0435\u0440\u0435\u0447\u0435\u0432\u0430\u044f \u0432\u043e\u043a\u0430\u043b\u0438\u0437\u0430\u0446\u0438\u044f) ",
+        "ru": "(\u0437\u0432\u0443\u043a, \u0438\u0437\u0434\u0430\u0432\u0430\u0435\u043c\u044b\u0439 \u0436\u0438\u0432\u043e\u0442\u043d\u044b\u043c, \u0438\u043b\u0438 \u043e\u0431\u0449\u0435\u043d\u0438\u0435 \u0436\u0438\u0432\u043e\u0442\u043d\u044b\u0445) | ALT (\u043d\u0435\u0440\u0435\u0447\u0435\u0432\u0430\u044f \u0432\u043e\u043a\u0430\u043b\u0438\u0437\u0430\u0446\u0438\u044f)",
         "isv_l": "(\u017eivotinsky zvuk ili komunikacija) | ALT (vokalizacija bez govora)",
         "isv_c": "(\u0436\u0438\u0432\u043e\u0442\u0438\u043d\u0441\u043a\u044b \u0437\u0432\u0443\u043a \u0438\u043b\u0438 \u043a\u043e\u043c\u0443\u043d\u0438\u043a\u0430\u0446\u0438\u0458\u0430) | ALT (\u0432\u043e\u043a\u0430\u043b\u0438\u0437\u0430\u0446\u0438\u0458\u0430 \u0431\u0435\u0437 \u0433\u043e\u0432\u043e\u0440\u0430)",
         "eo": "(besta sono a\u016d komunika\u0135o) | ALT (neparola vo\u0109a sono)",
@@ -7357,7 +7357,7 @@
       "coined_era": "post-pu",
       "book": "ku lili",
       "usage_category": "obscure",
-      "source_language": "a priori ",
+      "source_language": "a priori",
       "etymology": "\u2205",
       "creator": "jan Sonja",
       "ku_data": "pizza\u00b2",
@@ -7375,7 +7375,7 @@
         "isv_c": "\u043f\u0438\u0446\u0430",
         "eo": "pico",
         "de": "Pizza",
-        "tok": "mulapisu li pan sike loje tan ma Italija. ",
+        "tok": "mulapisu li pan sike loje tan ma Italija.",
         "es": "pizza",
         "hi": "\u092a\u0940\u091c\u093c\u093e",
         "ur": "\u067e\u06cc\u0632\u0627",
@@ -7549,7 +7549,7 @@
       },
       "tags": "nimi nanpa",
       "pu_verbatim": {
-        "en": "ADJECTIVE many, a lot, more, much, several, very NOUN quantity"
+        "en": "ADJECTIVE many, a lot, more, much, several, very\nNOUN quantity"
       },
       "def": {
         "en": "many, a lot, more, much, several, very; quantity | ALT three (or more), 20",
@@ -7571,7 +7571,7 @@
         "zh_hant": "\u591a\u3001\u8a31\u591a\u3001\u591a\u6578\u3001\u5927\u91cf\u7684\u3001\u975e\u5e38\u3001\u5341\u5206\uff1b\u6578\u91cf | ALT \u4e09\uff08\u6216\u4ee5\u4e0a\uff09\u300120",
         "zh_hans": "\u591a\u3001\u8bb8\u591a\u3001\u591a\u6570\u3001\u5927\u91cf\u7684\u3001\u975e\u5e38\u3001\u5341\u5206\uff1b\u6570\u91cf | ALT \u4e09\uff08\u6216\u4ee5\u4e0a\uff09\u300120",
         "fi": "monta, paljon, enemm\u00e4n, useita, eritt\u00e4in; m\u00e4\u00e4r\u00e4 | ALT kolme (tai enemm\u00e4n), 20",
-        "uk": "\u0431\u0430\u0433\u0430\u0442\u043e, \u0449\u0435, \u0434\u0435\u043a\u0456\u043b\u044c\u043a\u0430, \u0434\u0443\u0436\u0435; \u043a\u0456\u043b\u044c\u043a\u0456\u0441\u0442\u044c | ALT \u0442\u0440\u0438 (\u0430\u0431\u043e \u0431\u0456\u043b\u044c\u0448\u0435), 20 ",
+        "uk": "\u0431\u0430\u0433\u0430\u0442\u043e, \u0449\u0435, \u0434\u0435\u043a\u0456\u043b\u044c\u043a\u0430, \u0434\u0443\u0436\u0435; \u043a\u0456\u043b\u044c\u043a\u0456\u0441\u0442\u044c | ALT \u0442\u0440\u0438 (\u0430\u0431\u043e \u0431\u0456\u043b\u044c\u0448\u0435), 20",
         "tkl": "lahi, tokalahi, ni, lahi lele; he aofai | ALT tolu (pe lahi ake), 20",
         "da": "mange, meget, mere, flere; m\u00e6ngde | ALT tre (eller flere), 20",
         "haw": "kini, mano, lehu, nui, kekahi mau | ALT \u02bbekolu (\u0101 i \u02bbole nui a\u02bbe), 20",
@@ -7747,7 +7747,7 @@
         "2022-08": "99"
       },
       "pu_verbatim": {
-        "en": "PARTICLE -th (ordinal number) NOUN numbers"
+        "en": "PARTICLE -th (ordinal number)\nNOUN numbers"
       },
       "def": {
         "en": "-th (ordinal number); numbers",
@@ -7910,7 +7910,7 @@
       "coined_era": "post-pu",
       "book": "none",
       "usage_category": "obscure",
-      "source_language": "Vietnamese ",
+      "source_language": "Vietnamese",
       "etymology": "ng\u00e3 t\u01b0 \u2018crossroads, four-way intersection\u2019",
       "creator": "jan Lakuse",
       "recognition": {
@@ -7927,7 +7927,7 @@
         "tok": "natu li nasin pilin pi jan tu, anu ni: palisa tu li lon la, ona li kama wan lon ma lili wan. ni li sama sitelen pi nimi \"ala.\"",
         "es": "relaci\u00f3n, correlaci\u00f3n, similitud; cruz, nudo, cruce, intersecci\u00f3n; superponerse, doblar, plegar; traspasar, sobrepasar, excederse",
         "hi": "\u0928\u093e\u0924\u093e, \u0930\u093f\u0936\u094d\u0924\u093e, \u0938\u092e\u093e\u0928\u0924\u093e; \u091a\u094c\u0930\u093e\u0939\u093e, \u091a\u094c\u0915, \u0917\u093e\u0902\u0920; \u0905\u0924\u093f\u0935\u094d\u092f\u093e\u092a\u0928 \u0915\u0930\u0928\u093e, \u0915\u093f\u0938\u0940 \u0939\u0926 \u0915\u094b \u092a\u093e\u0930 \u0915\u0930\u0928\u093e",
-        "ur": "\u0646\u0627\u062a\u06c1\u060c \u0631\u0634\u062a\u06c1\u060c \u0645\u0645\u0627\u062b\u0644\u062a\u061b \u0686\u0648\u0631\u0627\u062d\u0627\u060c \u0686\u0648\u06a9\u060c \u06af\u0627\u06ba\u0679\u06be\u061b \u06a9\u0633\u06cc \u062d\u062f \u06a9\u0648 \u067e\u0627\u0631 \u06a9\u0631\u0646\u0627 ",
+        "ur": "\u0646\u0627\u062a\u06c1\u060c \u0631\u0634\u062a\u06c1\u060c \u0645\u0645\u0627\u062b\u0644\u062a\u061b \u0686\u0648\u0631\u0627\u062d\u0627\u060c \u0686\u0648\u06a9\u060c \u06af\u0627\u06ba\u0679\u06be\u061b \u06a9\u0633\u06cc \u062d\u062f \u06a9\u0648 \u067e\u0627\u0631 \u06a9\u0631\u0646\u0627",
         "pa": "\u0a28\u0a3e\u0a24\u0a3e, \u0a30\u0a3f\u0a36\u0a24\u0a3e, \u0a38\u0a2e\u0a3e\u0a32\u0a24\u0a3e; \u0a1a\u0a4c\u0a15, \u0a1a\u0a4b\u0a30\u0a3e\u0a39\u0a3e, \u0a17\u0a3e\u0a02\u0a20; \u0a05\u0a24\u0a3f\u0a35\u0a2f\u0a3e\u0a2a\u0a28 \u0a15\u0a30\u0a28\u0a3e, \u0a15\u0a3f\u0a38\u0a40 \u0a39\u0a26 \u0a28\u0a42\u0a70 \u0a2a\u0a3e\u0a30 \u0a15\u0a30\u0a28\u0a3e",
         "id": "hubungan, korelasi, kesamaan; simpul, percabangan, persimpangan; tumpang tindih, melipat; melewati batas",
         "la": "crux",
@@ -8486,7 +8486,7 @@
       "see_also": "pona, ke, n",
       "def": {
         "en": "(acknowledgement or acceptance)",
-        "pl": "(uznanie lub akceptacja) ",
+        "pl": "(uznanie lub akceptacja)",
         "ru": "(\u043f\u043e\u0434\u0442\u0432\u0435\u0440\u0436\u0434\u0435\u043d\u0438\u0435 \u0438\u043b\u0438 \u043f\u0440\u0438\u043d\u044f\u0442\u0438\u0435), \"\u043e\u043a\u0435\u0439\"",
         "isv_l": "(priznanje abo prijetje)",
         "isv_c": "(\u043f\u0440\u0438\u0437\u043d\u0430\u045a\u0435 \u0430\u0431\u043e \u043f\u0440\u0438\u0458\u0435\u0442\u0458\u0435)",
@@ -8535,7 +8535,7 @@
         "ru": "\u0431\u0443\u043c\u0435\u0440, \u0431\u044d\u0431\u0438-\u0431\u0443\u043c\u0435\u0440, \u043d\u0435\u0431\u043b\u0430\u0433\u043e\u0440\u0430\u0437\u0443\u043c\u043d\u044b\u0439 \u043f\u043e\u0436\u0438\u043b\u043e\u0439 \u0447\u0435\u043b\u043e\u0432\u0435\u043a; [\u043c\u0435\u0436\u0434\u043e\u043c\u0435\u0442\u0438\u0435/\u043e\u0441\u043a\u043e\u0440\u0431\u043b\u0435\u043d\u0438\u0435]",
         "eo": "bumero, senkonsidera oldulo, iu kun malmodernaj a\u016d maljunulecaj sintenoj; [interjekcio/insulto]",
         "de": "(Baby) Boomer, r\u00fccksichtslose \u00c4ltere",
-        "tok": "nimi \"okepuma\" li nimi pi pana ike tawa jan pi tenpo mute. ",
+        "tok": "nimi \"okepuma\" li nimi pi pana ike tawa jan pi tenpo mute.",
         "es": "la persona nacida durante el boom de natalidad de la posguerra, anciano grosero",
         "hi": "\u092c\u0942\u092e\u0930, \u092c\u0947\u092c\u0940 \u092c\u0942\u092e\u0930 (\u0905\u092e\u0930\u0940\u0915\u0940 \u0905\u0902\u0917\u094d\u0930\u0947\u091c\u093c\u0940), \u090f\u0915 \u092c\u0947\u0932\u093f\u0939\u093e\u091c\u093c \u092c\u0941\u091c\u093c\u0941\u0930\u094d\u0917",
         "ur": "\u0628\u0652\u0648\u0645\u0631\u060c \u0628\u06cc\u0628\u06cc \u0628\u0652\u0648\u0645\u0631 (\u0627\u0645\u0631\u06cc\u06a9\u06cc \u0627\u0646\u06af\u0631\u06cc\u0632\u06cc)\u060c \u0627\u06cc\u06a9 \u0628\u06d2\u0644\u062d\u0627\u0638 \u0628\u0632\u0631\u06af",
@@ -8612,7 +8612,7 @@
       "see_also": "lukin",
       "tags": "pre-pu ALT",
       "pu_verbatim": {
-        "en": "NOUN eye VERB to look at, see, examine, observe, read, watch PRE-VERB to seek, look for, try to"
+        "en": "NOUN eye\nVERB to look at, see, examine, observe, read, watch\nPRE-VERB to seek, look for, try to"
       },
       "commentary": "In common usage (both before and after pu), \"lukin\" and \"oko\" are separate words, each with their own meaning. In pu, they are considered synonyms. Those who consider them synonyms typically don't use \"oko\" at all, preferring \"lukin\" in all circumstances.",
       "def": {
@@ -8903,7 +8903,7 @@
         "2022-08": "1"
       },
       "see_also": "insa, lape, musi, sitelen, jume",
-      "commentary": "This word is deprecated by the creator; it is considered part of the \"toki oni\" tokiponido instead. The pronunciation of the second syllable was due to personal preferences of the creator, not modern Greek.",
+      "commentary": "This word is deprecated by the creator; it is considered part of the \"toki oni\" tokiponido instead.\nThe pronunciation of the second syllable was due to personal preferences of the creator, not modern Greek.",
       "def": {
         "en": "dream, daydream, imaginative play, vision, mystical state; to entrance",
         "pl": "sen, fantazja, zabawa w wyobra\u017ani, wizja, stan mistyczny; wprawia\u0107 w trans",
@@ -9151,7 +9151,7 @@
         "isv_c": "\u0437\u0430\u0443\u0441\u0442\u0430\u0432\u0438\u0442\u0438, \u043f\u0440\u0454\u0441\u0442\u0430\u0442\u0438; \u0437\u0430\u0431\u043b\u043e\u043a\u043e\u0432\u0430\u0442\u0438, \u043f\u0440\u0454\u0440\u0432\u0430\u0442\u0438; \u043e\u0434\u0432\u0440\u0430\u0442\u0438\u0442\u0438",
         "eo": "halti, \u0109esi; bari la vojon, interrompi; preventi",
         "de": "stoppen, an-, aufhalten; den Weg versprerren, st\u00f6ren; verhindern",
-        "tok": "sina pini moku lon tenpo lili. sina pake moku, taso sina moku lon tenpo ni. ",
+        "tok": "sina pini moku lon tenpo lili. sina pake moku, taso sina moku lon tenpo ni.",
         "es": "parar, detener, dejar de; bloquear, interrumpir; prevenir, impedir",
         "hi": "\u0930\u0941\u0915\u0928\u093e, \u0930\u094b\u0915\u0928\u093e, \u091f\u094b\u0915\u0928\u093e, \u092c\u0940\u091a \u092e\u0947\u0902 \u0930\u094b\u0915\u0928\u093e, \u092c\u093e\u0927\u093e \u092c\u0928\u0928\u093e, \u092c\u093e\u0927\u093e \u0921\u093e\u0932\u0928\u093e, \u0939\u094b\u0928\u0947 \u0928 \u0926\u0947\u0928\u093e",
         "ur": "\u0631\u06a9\u0646\u0627\u060c \u0631\u0648\u06a9\u0646\u0627\u060c \u0679\u0648\u06a9\u0646\u0627\u060c \u0628\u06cc\u0686 \u0645\u06cc\u06ba \u0631\u0648\u06a9\u0646\u0627\u060c \u0628\u0627\u062f\u06be\u0627 \u0628\u0646\u0646\u0627\u060c \u0628\u0627\u062f\u06be\u0627 \u0688\u0627\u0644\u0646\u0627\u060c \u06c1\u0648\u0646\u06d2 \u0646\u06c1 \u062f\u06cc\u0646\u0627\u061b \u06c1\u0648\u0646\u06d2 \u0646\u06c1 \u062f\u06cc\u0646\u0627",
@@ -9287,7 +9287,7 @@
         "hr": "palica; grana, \u0161tap",
         "sv": "l\u00e5ng h\u00e5rd sak; kvist, stav, pinne",
         "ja": "\u9577\u304f\u3066\u5805\u3044\u3082\u306e; \u679d\u3001\u68d2",
-        "ko": "\uae38\uace0  \ub531\ub531\ud55c \ubb3c\uccb4; \ub098\ubb47\uac00\uc9c0, \ub09a\uc2dc\ub300, \ub9c9\ub300",
+        "ko": "\uae38\uace0 \ub531\ub531\ud55c \ubb3c\uccb4; \ub098\ubb47\uac00\uc9c0, \ub09a\uc2dc\ub300, \ub9c9\ub300",
         "cs": "dlouh\u00e1 pevn\u00e1 v\u011bc; klacek, v\u011btev, h\u016fl, h\u016flka",
         "nno": "lang og hard ting, stokk, stav, kjepp, kvist",
         "nob": "lang og hard ting, stokk, stav, kjepp, kvist"
@@ -9636,7 +9636,7 @@
         "isv_c": "(\u043a\u043e\u0440\u0438\u0441\u0442\u0430\u0458\u0435 \u0441\u0435, \u0434\u0430 \u0431\u044b \u043e\u0434\u0434\u0454\u043b\u0438\u0442\u0438 \u0434\u0440\u0443\u0433\u0443 \u0433\u0440\u0443\u043f\u0443 \u0438\u043c\u0435\u043d\u043d\u0438\u043a\u043e\u0432, \u043a\u0442\u043e\u0440\u0430 \u043e\u043f\u0438\u0441\u044b\u0432\u0430\u0458\u0435 \u043f\u0440\u0432\u0443 \u0433\u0440\u0443\u043f\u0443 \u0438\u043c\u0435\u043d\u043d\u0438\u043a\u043e\u0432) | ALT (\u0432\u0432\u043e\u0434\u0438 \u0433\u0435\u043d\u0435\u0442\u0438\u0432\u043d\u044b \u0438\u043c\u0435\u043d\u043d\u0438\u043a)",
         "eo": "de (uzata por dividi duan substantivan grupon, kiu priskribas la duan substantivan grupon) | ALT (enkondukas genitivan substantivon)",
         "de": "(trennt eine zweite Wortgruppe ab, die die erste Wortgruppe beschreibt) | ALT (f\u00fchrt ein Wort im Genetiv ein)",
-        "tok": "nimi ni li kulupu e nimi mute sama ni: jan li pona li mute la ona li jan pona mute. jan li pona mute la ona li jan pi pona mute.",
+        "tok": "nimi ni li kulupu e nimi mute sama ni:\njan li pona li mute la ona li jan pona mute. jan li pona mute la ona li jan pi pona mute.",
         "id": "dari (digunakan untuk memisahkan kelompok nomina kedua yang menguraikan kelompok nomina pertama) | ALT (memasukkan nomina genitif)",
         "la": "(verbum pr\u012bmum \u0101 d\u0113scr\u012bbente articul\u014d compl\u016brium verb\u014drum dismembrat)",
         "it": "di (usato per dividere un secondo gruppo di sostantivi che descrive un primo gruppo di sostantivi) | ALT (introduce un genitivo sostantivato)",
@@ -9718,7 +9718,7 @@
         "2022-08": "100"
       },
       "pu_verbatim": {
-        "en": "NOUN heart (physical or emotional) ADJECTIVE feeling (an emotion, a direct experience)"
+        "en": "NOUN heart (physical or emotional)\nADJECTIVE feeling (an emotion, a direct experience)"
       },
       "def": {
         "en": "heart (physical or emotional); feeling (an emotion, a direct experience)",
@@ -10360,8 +10360,8 @@
       "see_also": "soweli",
       "commentary": "Occasionally comes up as a jokish corruption of \"pona\" (especially in a phrase \"toki poni\").",
       "def": {
-        "en": "pony, horse",
-        "pl": "kucyk, ko\u0144",
+        "en": "pony",
+        "pl": "kucyk",
         "ru": "\u043f\u043e\u043d\u0438, \u043b\u043e\u0448\u0430\u0434\u044c",
         "isv_l": "poni, konj",
         "isv_c": "\u043f\u043e\u043d\u0438, \u043a\u043e\u045a",
@@ -10407,7 +10407,7 @@
         "isv_c": "\u0444\u0430\u043b\u0448\u0438\u0432\u044b, \u043b\u043e\u0436\u043d\u044b, \u043d\u0435\u043f\u0440\u0430\u0432\u0434\u0438\u0432\u044b; \u043f\u0440\u0438\u0442\u0432\u0430\u0440\u0458\u0430\u0442\u0438 \u0441\u0435, \u043c\u0430\u043c\u0438\u0442\u0438",
         "eo": "nereala, falsa, malvera; \u015dajnigi; trompi",
         "de": "Trick, T\u00e4uschung, F\u00e4lschung; t\u00e4uschen; falsch, unwahr, irreal",
-        "tok": "ijo li lon ala la, ijo li powe. ",
+        "tok": "ijo li lon ala la, ijo li powe.",
         "es": "irreal, falso, equivocado, de mentira; fingir, simular; enga\u00f1ar",
         "hi": "\u091d\u0942\u091f, \u0928\u0915\u0932\u0940, \u0905\u0938\u0924\u094d\u092f; \u091a\u0915\u092e\u093e \u0926\u0947\u0928\u093e, \u0927\u094b\u0916\u093c\u093e \u0926\u0947\u0928\u093e",
         "ur": "\u062c\u06be\u0648\u0679\u060c \u0646\u0642\u0644\u06cc\u060c \u0628\u06d2 \u062d\u0642\u06cc\u0642\u062a \u061b \u0686\u06a9\u0645\u0627 \u062f\u06cc\u0646\u0627\u060c \u062f\u06be\u0648\u06a9\u0627 \u062f\u06cc\u0646\u0627",
@@ -10551,7 +10551,7 @@
       },
       "see_also": "pata",
       "pu_verbatim": {
-        "en": "ADJECTIVE same, similar; each other; sibling, peer, fellow PREPOSITION as, like"
+        "en": "ADJECTIVE same, similar; each other; sibling, peer, fellow\nPREPOSITION as, like"
       },
       "def": {
         "en": "same, similar; each other; sibling, peer, fellow; as, like",
@@ -10651,7 +10651,7 @@
       },
       "see_also": "mute, tuli",
       "tags": "nimi nanpa",
-      "commentary": "More popular than the synonymous (and older) tuli. san was also part of a set of 10 digit words created by jan Lenoka: lenke, jatu, ini, san, se, nun, loku, take, patu, kajo (0 through 9). All of these coinages except for san lack notability to be included in the dictionary.",
+      "commentary": "More popular than the synonymous (and older) tuli.\nsan was also part of a set of 10 digit words created by jan Lenoka: lenke, jatu, ini, san, se, nun, loku, take, patu, kajo (0 through 9). All of these coinages except for san lack notability to be included in the dictionary.",
       "def": {
         "en": "three",
         "pl": "trzy",
@@ -10886,7 +10886,7 @@
         "2022-08": "100"
       },
       "pu_verbatim": {
-        "en": "NOUN area above, highest part, something elevated ADJECTIVE awe-inspiring, divine, sacred, supernatural"
+        "en": "NOUN area above, highest part, something elevated\nADJECTIVE awe-inspiring, divine, sacred, supernatural"
       },
       "def": {
         "en": "area above, highest part, something elevated; awe-inspiring, divine, sacred, supernatural",
@@ -11002,7 +11002,7 @@
         "2022-08": "99"
       },
       "pu_verbatim": {
-        "en": "NOUN round or circular thing; ball, circle, cycle, sphere, wheel ADJECTIVE of one year"
+        "en": "NOUN round or circular thing; ball, circle, cycle, sphere, wheel\nADJECTIVE of one year"
       },
       "def": {
         "en": "round or circular thing; ball, circle, cycle, sphere, wheel; of one year",
@@ -11072,7 +11072,7 @@
         "uk": "\u0431\u0456\u043b\u044c\u0448 \u0432\u0438\u0441\u043e\u043a\u043e\u0433\u043e \u0440\u0456\u0432\u043d\u044f, \u043f\u0440\u043e\u0441\u0432\u0456\u0447\u0435\u043d\u0438\u0439, \u0435\u043f\u0456\u0447\u043d\u0438\u0439; \u0443 \u0437\u0430\u043d\u0430\u0434\u0442\u043e \u0432\u0435\u043b\u0438\u043a\u0456\u0439 \u043c\u0456\u0440\u0456",
         "da": "p\u00e5 et h\u00f8jere niveau/plan, oplyst(e), episk; i overordentlig h\u00f8j grad",
         "hr": "na vi\u0161oj razini, prosvijetljeno",
-        "io": "saja, esar en supera plano ",
+        "io": "saja, esar en supera plano",
         "ja": "\u9ad8\u6b21\u5143\u306e\u3001\u609f\u308a\u306b\u9054\u3057\u305f\u3001\u30e4\u30d0\u3044; \u3068\u307b\u3046\u3082\u306a\u3044\u3001\u8d85\u7d76",
         "cs": "na vy\u0161\u0161\u00edm stupni/\u00farovni, osv\u00edcen\u00ed, osv\u00edcen\u00fd"
       }
@@ -11470,7 +11470,7 @@
         "2022-08": "100"
       },
       "pu_verbatim": {
-        "en": "VERB to know, be skilled in, be wise about, have information on PRE-VERB to know how to"
+        "en": "VERB to know, be skilled in, be wise about, have information on\nPRE-VERB to know how to"
       },
       "def": {
         "en": "know, be skilled in, be wise about, have information on; (pv.) know how to",
@@ -11837,7 +11837,7 @@
         "ru": "\u0433\u043e\u0440\u0438\u0437\u043e\u043d\u0442\u0430\u043b\u044c\u043d\u0430\u044f \u043f\u043e\u0432\u0435\u0440\u0445\u043d\u043e\u0441\u0442\u044c, \u043f\u0440\u0435\u0434\u043c\u0435\u0442, \u043d\u0430 \u043a\u043e\u0442\u043e\u0440\u044b\u0439 \u043c\u043e\u0436\u043d\u043e \u0447\u0442\u043e-\u0442\u043e \u043f\u043e\u0441\u0442\u0430\u0432\u0438\u0442\u044c \u0438\u043b\u0438 \u043e\u043f\u0435\u0440\u0435\u0442\u044c\u0441\u044f",
         "isv_l": "horizontalna povrhnost; pr\u011bdmet, na ktory jest mo\u017eno n\u011b\u010dto polo\u017eiti",
         "isv_c": "\u0445\u043e\u0440\u0438\u0437\u043e\u043d\u0442\u0430\u043b\u043d\u0430 \u043f\u043e\u0432\u0440\u0445\u043d\u043e\u0441\u0442; \u043f\u0440\u0454\u0434\u043c\u0435\u0442, \u043d\u0430 \u043a\u0442\u043e\u0440\u044b \u0458\u0435\u0441\u0442 \u043c\u043e\u0436\u043d\u043e \u043d\u0454\u0447\u0442\u043e \u043f\u043e\u043b\u043e\u0436\u0438\u0442\u0438",
-        "eo": " horizontala surfaco, io sur kio oni metas ion alian",
+        "eo": "horizontala surfaco, io sur kio oni metas ion alian",
         "de": "waagerechte Oberfl\u00e4che, Ding f\u00fcr das Abstellen von anderen Dingen",
         "tok": "supa li sama lipu suli li sama sinpin anpa; supa la jan li ken lape li ken lon monsi li ken moku li ken pali",
         "id": "permukaan datar, tempat meletakkan sesuatu",
@@ -12094,7 +12094,7 @@
         "2022-08": "99"
       },
       "pu_verbatim": {
-        "en": "PARTICLE but, however ADJECTIVE only"
+        "en": "PARTICLE but, however\nADJECTIVE only"
       },
       "commentary": "Many proficient speakers use taso as a connector between sentences (X taso Y), similar to \"X, but Y,\" though others do not use this method.",
       "def": {
@@ -12154,7 +12154,7 @@
         "2022-08": "99"
       },
       "pu_verbatim": {
-        "en": "PREPOSITION going to, toward; for; from the perspective of ADJECTIVE moving"
+        "en": "PREPOSITION going to, toward; for; from the perspective of\nADJECTIVE moving"
       },
       "def": {
         "en": "going to, toward; for; from the perspective of; moving | ALT (pv.) going to",
@@ -13055,7 +13055,7 @@
         "tr": "sihir, b\u00fcy\u00fc; efsun; b\u00fcy\u00fcl\u00fc, do\u011fa\u00fcst\u00fc, esrarl\u0131, ak\u0131l almaz",
         "zh_hant": "\u9b54\u6cd5\u3001\u5deb\u8853\uff1b\u5c0d\u2026\u2026\u4f7f\u7528\u9b54\u6cd5\uff1b\u6709\u9b54\u529b\u7684\u3001\u8d85\u81ea\u7136\u7684\u3001\u795e\u7955\u7684\u3001\u7384\u5999\u7684\u3001\u96e3\u4ee5\u7406\u89e3\u7684",
         "zh_hans": "\u9b54\u6cd5\u3001\u5deb\u672f\uff1b\u5bf9\u2026\u2026\u4f7f\u7528\u9b54\u6cd5\uff1b\u6709\u9b54\u529b\u7684\u3001\u8d85\u81ea\u7136\u7684\u3001\u795e\u79d8\u7684\u3001\u7384\u5999\u7684\u3001\u96be\u4ee5\u7406\u89e3\u7684",
-        "uk": "\u043c\u0430\u0433\u0456\u044f, \u0447\u0430\u043a\u043b\u0443\u043d\u0441\u0442\u0432\u043e;  \u0437\u0430\u0447\u0430\u0440\u043e\u0432\u0443\u0432\u0430\u0442\u0438; \u043c\u0430\u0433\u0456\u0447\u043d\u0438\u0439, \u043d\u0430\u0434\u043f\u0440\u0438\u0440\u043e\u0434\u043d\u0438\u0439, \u043e\u043a\u0443\u043b\u044c\u0442\u043d\u0438\u0439, \u043d\u0435\u0437\u0431\u0430\u0433\u043d\u0435\u043d\u043d\u0438\u0439",
+        "uk": "\u043c\u0430\u0433\u0456\u044f, \u0447\u0430\u043a\u043b\u0443\u043d\u0441\u0442\u0432\u043e; \u0437\u0430\u0447\u0430\u0440\u043e\u0432\u0443\u0432\u0430\u0442\u0438; \u043c\u0430\u0433\u0456\u0447\u043d\u0438\u0439, \u043d\u0430\u0434\u043f\u0440\u0438\u0440\u043e\u0434\u043d\u0438\u0439, \u043e\u043a\u0443\u043b\u044c\u0442\u043d\u0438\u0439, \u043d\u0435\u0437\u0431\u0430\u0433\u043d\u0435\u043d\u043d\u0438\u0439",
         "da": "magi, trolddom; fortryllelse; magisk, overnaturlig, okkult, uforst\u00e5elig",
         "hr": "\u010darolija, \u010darobnja\u0161tvo; za\u010darati; \u010darobno, nadnaravno, okultno, neshvatljivo",
         "io": "magio, sorco; sorcar; magiatro, supernatura, okulta, arkana",
@@ -13354,7 +13354,7 @@
       },
       "tags": "nimi nanpa",
       "pu_verbatim": {
-        "en": "ADJECTIVE unique, united NUMBER one"
+        "en": "ADJECTIVE unique, united\nNUMBER one"
       },
       "def": {
         "en": "unique, united; one",
@@ -13618,7 +13618,7 @@
         "uk": "(\u043f\u0440\u0430\u0446\u044e\u0454 \u044f\u043a \u043f\u0435\u0440\u0435\u0445\u0456\u0434 \u043c\u0456\u0436 \u043e\u0434\u043d\u0438\u043c \u043f\u043e\u0432\u043d\u0438\u043c \u0440\u0435\u0447\u0435\u043d\u043d\u044f\u043c \u0434\u043e \u0456\u043d\u0448\u043e\u0433\u043e)",
         "da": "(fungerer som en overgang fra en komplet s\u00e6tning til en anden)",
         "hr": "(prijelaz izme\u0111u jedne potpune re\u010denice u drugu)",
-        "io": "(inter du kompleta frazi) ",
+        "io": "(inter du kompleta frazi)",
         "ja": "(\u3042\u308b\u5b8c\u5168\u306a\u6587\u304b\u3089\u5225\u306e\u6587\u3078\u306e\u8ee2\u63db\u3068\u3057\u3066\u7528\u3044\u308b)",
         "cs": "(p\u0159echod od jedn\u00e9 v\u011bty k druh\u00e9)"
       }
@@ -13712,7 +13712,7 @@
         "tr": "gidip gelmek, geri d\u00f6nme mazereti ile ge\u00e7ici s\u00fcreli\u011fine uzakta olmak",
         "zh_hant": "\u96e2\u958b\u7136\u5f8c\u56de\u4f86\uff1b\u5728\u6253\u7b97\u56de\u4f86\u7684\u60c5\u6cc1\u4e0b\u66ab\u6642\u96e2\u958b",
         "zh_hans": "\u79bb\u5f00\u7136\u540e\u56de\u6765\uff1b\u5728\u6253\u7b97\u56de\u6765\u7684\u60c5\u51b5\u4e0b\u6682\u65f6\u79bb\u5f00",
-        "uk": "\u0432\u0438\u0439\u0442\u0438 \u0456 \u043f\u043e\u0432\u0435\u0440\u043d\u0443\u0442\u0438\u0441\u044f, ",
+        "uk": "\u0432\u0438\u0439\u0442\u0438 \u0456 \u043f\u043e\u0432\u0435\u0440\u043d\u0443\u0442\u0438\u0441\u044f,",
         "da": "rejse og komme tilbage, v\u00e6re midlertidigt frav\u00e6rende med forventning om at vende tilbage",
         "hr": "oti\u0107i i vratiti se, privremeno oti\u0107i s namjerom vra\u0107anja",
         "io": "livar e retrovenar, esar tempale absenta",
@@ -13855,7 +13855,7 @@
       "coined_era": "post-pu",
       "book": "ku lili",
       "usage_category": "rare",
-      "source_language": "a priori ",
+      "source_language": "a priori",
       "etymology": "\u2205",
       "creator": "jan Sonja",
       "ku_data": "change a creative work and unintentionally make it worse\u00b3",
@@ -14416,7 +14416,7 @@
       "last_updated": "2022-05",
       "filename": "sitelen-antowi.otf",
       "style": "alternate design",
-      "features": "ASCII transcription, UCSUR-compliant, extended pi, cartouches, ku suli, cartouches, autocartouches capitalised latin words "
+      "features": "ASCII transcription, UCSUR-compliant, extended pi, cartouches, ku suli, cartouches, autocartouches capitalised latin words"
     },
     "sitelen Komalin": {
       "name_short": "sitelen Komalin",
