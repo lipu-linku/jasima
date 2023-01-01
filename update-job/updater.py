@@ -80,4 +80,4 @@ if __name__ == "__main__":
     bundle = {key: build_dict_from_sheet(value) for key, value in sheets.items()}
     with open("../data.json", "w") as f:
         json.dump(bundle, f, indent=2)
-    # commit_push("..")
+    commit_push("..")
