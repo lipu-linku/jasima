@@ -14517,6 +14517,20 @@
       "style": "pixelated",
       "features": "-"
     },
+    "sitelen pi jan Soja": {
+      "name_short": "sitelen pi jan Soja",
+      "writing_system": "sitelen pona",
+      "links": {
+        "fontfile": "https://cdn.discordapp.com/attachments/948449040008347649/1059337306445709342/sitelen-pi-jan-Soja.ttf"
+      },
+      "creator": "jan Soja",
+      "license": "OFL",
+      "version": "1.0",
+      "last_updated": "2023-01",
+      "filename": "sitelen-pi-jan-Soja.ttf",
+      "style": "pixelated",
+      "features": "ASCII transcription"
+    },
     "sitelen pi linja ko": {
       "name_short": "sitelen pi linja ko",
       "writing_system": "sitelen pona",
