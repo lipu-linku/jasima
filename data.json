@@ -14330,6 +14330,36 @@
       "style": "uniform line weight",
       "features": "ASCII transcription, supports cartouches, nimi ku suli, extended pi and more extended lines"
     },
+    "nasin leko suwi": {
+      "name_short": "nasin leko suwi",
+      "writing_system": "sitelen pona",
+      "links": {
+        "fontfile": "https://nasin.leko.la/assets/fonts/nasin%20leko%20suwi.ttf",
+        "webpage": "https://nasin.leko.la/"
+      },
+      "creator": "jan Mika en jan Poman",
+      "license": "CC BY 4.0",
+      "version": "1.0",
+      "last_updated": "2023-01",
+      "filename": "nasin leko suwi.ttf",
+      "style": "pixelated",
+      "features": "codepoints only, UCSUR-compliant,supports ku suli and the rest of the UCSUR characters, cartouches, long pi"
+    },
+    "nasin leko suwi (Lasina)": {
+      "name_short": "nasin leko suwi (Lasina)",
+      "writing_system": "sitelen pona",
+      "links": {
+        "fontfile": "https://nasin.leko.la/assets/fonts/nasin%20leko%20suwi%20(lasina).ttf",
+        "webpage": "https://nasin.leko.la/"
+      },
+      "creator": "jan Mika en jan Poman",
+      "license": "CC BY 4.0",
+      "version": "1.0",
+      "last_updated": "2023-01",
+      "filename": "nasin leko suwi (lasina).ttf",
+      "style": "pixelated",
+      "features": "ASCII transcription, UCSUR-compliant,supports ku suli and the rest of the UCSUR characters, cartouches, long pi"
+    },
     "nasin nanpa": {
       "name_short": "nasin nanpa",
       "writing_system": "sitelen pona",
@@ -14521,7 +14551,7 @@
       "name_short": "sitelen pi jan Soja",
       "writing_system": "sitelen pona",
       "links": {
-        "fontfile": "https://cdn.discordapp.com/attachments/948449040008347649/1059337306445709342/sitelen-pi-jan-Soja.ttf"
+        "fontfile": "https://cdn.discordapp.com/attachments/948449040008347649/1059574539551514714/sitelen_pi_jan_Soja.ttf"
       },
       "creator": "jan Soja",
       "license": "OFL",
