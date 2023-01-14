@@ -14783,6 +14783,21 @@
       "style": "uniform line weight",
       "features": "-"
     },
+    "tama ka Tumu": {
+      "name_short": "tama ka Tumu",
+      "writing_system": "tokiponido logography",
+      "links": {
+        "fontfile": "https://github.com/RetSamys/tama-ka-Tumu/raw/main/tama-ka-Tumu.ttf",
+        "repo": "https://github.com/RetSamys/tama-ka-Tumu"
+      },
+      "creator": "ka Tumu & ka Ke Tami & Kelsey Higham",
+      "license": "OFL",
+      "version": "1.0",
+      "last_updated": "2023-01",
+      "filename": "tama-ka-Tumu.ttf",
+      "style": "handwritten",
+      "features": "ASCII transcription, cartouches"
+    },
     "Toki Pona Bubble": {
       "name_short": "Toki Pona Bubble",
       "writing_system": "sitelen pona",
