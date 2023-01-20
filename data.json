@@ -14114,6 +14114,21 @@
       "style": "pixelated",
       "features": "codepoints only"
     },
+    "linja lipamanka sike-lili": {
+      "name_short": "linja lipamanka",
+      "writing_system": "sitelen pona",
+      "links": {
+        "fontfile": "https://github.com/lipamanka/linja-lipamanka-0/raw/main/linjalipamanka-sikelili.ttf",
+        "repo": "https://github.com/lipamanka/linja-lipamanka-0"
+      },
+      "creator": "lipamanka",
+      "license": "OFL",
+      "version": "0.0",
+      "last_updated": "2023-01",
+      "filename": "linjalipamanka-sikelili.ttf",
+      "style": "uniform line weight",
+      "features": "UCSUR-compliant, supports ku suli and the rest of the UCSUR characters"
+    },
     "linja luka": {
       "name_short": "linja luka",
       "writing_system": "sitelen pona",
