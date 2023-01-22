@@ -14549,6 +14549,19 @@
       "style": "uniform line weight, alternate design",
       "features": "codepoints only, UCSUR-compliant, supports ku suli and rest of the UCSUR characters, cartouches, long pi"
     },
+    "sitelen nasin luka": {
+      "name_short": "sitelen nasin luka",
+      "writing_system": "alphabet",
+      "links": {
+        "fontfile": "https://cdn.discordapp.com/attachments/340307145373253642/1066234111624237067/sitelennasinluka.otf"
+      },
+      "creator": "akesi kon Nalasuni",
+      "license": "all rights reserved",
+      "version": "1.0",
+      "last_updated": "2023-01",
+      "filename": "sitelennasinluka.otf",
+      "style": "uniform line weight"
+    },
     "sitelen palisa sewi": {
       "name_short": "sitelen palisa sewi",
       "writing_system": "alphabet",
