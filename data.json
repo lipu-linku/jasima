@@ -14037,7 +14037,7 @@
       "last_updated": "2022-12",
       "filename": "kiku upi ala.ttf",
       "style": "pixelated",
-      "features": "ASCII transcription"
+      "features": "ASCII transcription, tuki tiki"
     },
     "leko lili 15x15": {
       "name_short": "leko lili",
@@ -14127,7 +14127,7 @@
       "last_updated": "2023-01",
       "filename": "linjalipamanka-sikelili.ttf",
       "style": "uniform line weight",
-      "features": "UCSUR-compliant, supports ku suli and the rest of the UCSUR characters"
+      "features": "codepoints only, UCSUR-compliant, supports ku suli and the rest of the UCSUR characters"
     },
     "linja luka": {
       "name_short": "linja luka",
@@ -14374,6 +14374,20 @@
       "filename": "nasin leko suwi lasina.ttf",
       "style": "pixelated",
       "features": "ASCII transcription, UCSUR-compliant,supports ku suli and the rest of the UCSUR characters, cartouches, long pi"
+    },
+    "nasin luka": {
+      "name_short": "nasin luka",
+      "writing_system": "sitelen pona",
+      "links": {
+        "fontfile": "https://cdn.discordapp.com/attachments/952797418381000806/1069284265860276254/nasin_luka_1.1.otf"
+      },
+      "creator": "trollbreeder",
+      "license": "OFL",
+      "version": "1.1",
+      "last_updated": "2023-01",
+      "filename": "nasinluka.otf",
+      "style": "handwritten",
+      "features": "codepoints only, UCSUR-compliant, cartouches, long pi, supports ku suli and the rest of the UCSUR characters and more, tuki tiki"
     },
     "nasin nanpa": {
       "name_short": "nasin nanpa",
@@ -14824,7 +14838,7 @@
       "last_updated": "2023-01",
       "filename": "tama-ka-Tumu.ttf",
       "style": "handwritten",
-      "features": "ASCII transcription, cartouches"
+      "features": "ASCII transcription, cartouches, tuki tiki"
     },
     "Toki Pona Bubble": {
       "name_short": "Toki Pona Bubble",
