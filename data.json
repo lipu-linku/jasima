@@ -14114,20 +14114,20 @@
       "style": "pixelated",
       "features": "codepoints only"
     },
-    "linja lipamanka sike-lili": {
+    "linja lipamanka normal": {
       "name_short": "linja lipamanka",
       "writing_system": "sitelen pona",
       "links": {
-        "fontfile": "https://github.com/lipamanka/linja-lipamanka-0/raw/main/linjalipamanka-sikelili.ttf",
+        "fontfile": "https://github.com/lipamanka/linja-lipamanka-0/raw/main/linjalipamanka-normal.ttf",
         "repo": "https://github.com/lipamanka/linja-lipamanka-0"
       },
       "creator": "lipamanka",
       "license": "OFL",
       "version": "0.0",
       "last_updated": "2023-01",
-      "filename": "linjalipamanka-sikelili.ttf",
+      "filename": "linjalipamanka-normal.ttf",
       "style": "uniform line weight",
-      "features": "codepoints only, UCSUR-compliant, supports ku suli and the rest of the UCSUR characters"
+      "features": "ASCII transcription, UCSUR-compliant,supports ku suli and the rest of the UCSUR characters, cartouches, long pi"
     },
     "linja luka": {
       "name_short": "linja luka",
