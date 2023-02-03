@@ -14567,14 +14567,15 @@
       "name_short": "sitelen nasin luka",
       "writing_system": "alphabet",
       "links": {
-        "fontfile": "https://cdn.discordapp.com/attachments/340307145373253642/1066234111624237067/sitelennasinluka.otf"
+        "fontfile": "https://cdn.discordapp.com/attachments/999566667187228673/1070719858326646925/sitelennasinluka-Regular.otf"
       },
       "creator": "akesi kon Nalasuni",
-      "license": "all rights reserved",
+      "license": "CC BY 4.0",
       "version": "1.0",
-      "last_updated": "2023-01",
+      "last_updated": "2023-02",
       "filename": "sitelennasinluka.otf",
-      "style": "uniform line weight"
+      "style": "uniform line weight",
+      "features": "ASCII transcription"
     },
     "sitelen palisa sewi": {
       "name_short": "sitelen palisa sewi",
