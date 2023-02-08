@@ -706,7 +706,6 @@
       "book": "pu",
       "usage_category": "core",
       "source_language": "onomatopoeia",
-      "etymology": "\u2205",
       "creator": "jan Sonja",
       "ku_data": "ah\u2075, oh\u2075, ha\u2075, ooh\u2074, uh\u2074, gosh\u2074, whoa\u2074, wow\u2074, um\u00b3, huh\u00b3, uh-huh\u00b2, quite\u00b2, gasp\u00b2, really\u00b2, mm-hmm\u00b2, hmm\u00b2, sigh\u00b2",
       "recognition": {
@@ -766,7 +765,7 @@
       "book": "none",
       "usage_category": "obscure",
       "source_language": "multiple",
-      "etymology": "Mandarin \u8fc7 gu\u00f2 \u2018to cross, to pass\u2019, or English cross, across",
+      "etymology": "Mandarin: \u8fc7 gu\u00f2 \u2018to cross, to pass\u2019; English: cross, across",
       "creator": "kulupu Eki, oni Tewi",
       "recognition": {
         "2022-08": "0"
@@ -1591,7 +1590,6 @@
       "book": "pu",
       "usage_category": "core",
       "source_language": "a priori",
-      "etymology": "\u2205",
       "creator": "jan Sonja",
       "recognition": {
         "2022-08": "100"
@@ -1908,7 +1906,7 @@
       "book": "ku lili",
       "usage_category": "obscure",
       "source_language": "multiple",
-      "etymology": "Turkish \u00f6te \u2018beyond, further, over\u2019 & Quenya ett\u00eb \u2018outside\u2019",
+      "etymology": "Turkish: \u00f6te \u2018beyond, further, over\u2019; Quenya: ett\u00eb \u2018outside\u2019",
       "creator": "jan inwin",
       "ku_data": "exceed\u00b9, beyond\u00b9",
       "recognition": {
@@ -1953,7 +1951,7 @@
       "book": "ku lili",
       "usage_category": "obscure",
       "source_language": "multiple",
-      "etymology": "Japanese \u5ca9 iwa \u2018rock, boulder\u2019 & toki pona kiwen",
+      "etymology": "Japanese: \u5ca9 iwa \u2018rock, boulder\u2019; toki pona: kiwen",
       "creator": "jan ko",
       "ku_data": "stone\u2070",
       "recognition": {
@@ -1997,7 +1995,7 @@
       "book": "none",
       "usage_category": "obscure",
       "source_language": "unknown",
-      "etymology": "?",
+      "etymology": "unknown",
       "creator": "jan Sonja",
       "recognition": {
         "2022-08": "1"
@@ -2176,7 +2174,7 @@
       "book": "none",
       "usage_category": "obscure",
       "source_language": "unknown",
-      "etymology": "?",
+      "etymology": "unknown",
       "creator": "jan Sonja",
       "recognition": {
         "2020-04": "15",
@@ -2354,7 +2352,7 @@
       "book": "none",
       "usage_category": "obscure",
       "source_language": "unknown",
-      "etymology": "?",
+      "etymology": "unknown",
       "creator": "jan Sonja",
       "recognition": {
         "2020-04": "13",
@@ -2751,7 +2749,8 @@
       "book": "none",
       "usage_category": "obscure",
       "source_language": "multiple",
-      "etymology": "toki pona jan and English -/z/ \u2018[plural]\u2019",
+      "etymology": "toki pona: jan; English: -/z/ \u2018[plural]\u2019",
+      "creator": "unknown",
       "recognition": {
         "2020-04": "13",
         "2022-08": "1"
@@ -2832,7 +2831,7 @@
       "usage_category": "obscure",
       "source_language": "English",
       "etymology": "yay",
-      "creator": "?",
+      "creator": "unknown",
       "recognition": {
         "2021-10": "20",
         "2022-08": "1"
@@ -3038,7 +3037,6 @@
       "book": "ku lili",
       "usage_category": "obscure",
       "source_language": "a priori",
-      "etymology": "\u2205",
       "creator": "jan Sonja",
       "recognition": {
         "2021-10": "28",
@@ -3216,7 +3214,7 @@
       "book": "pu",
       "usage_category": "core",
       "source_language": "Serbo-Croatian",
-      "etymology": "galama \u0433\u0430\u043b\u0430\u043c\u0430 \u2018noise of many human voices\u2019",
+      "etymology": "\u0433\u0430\u043b\u0430\u043c\u0430 galama \u2018noise of many human voices\u2019",
       "creator": "jan Sonja",
       "ku_data": "sound\u2075, noise\u2074, tone\u00b3, bang\u00b2",
       "recognition": {
@@ -3269,7 +3267,7 @@
       "book": "ku lili",
       "usage_category": "obscure",
       "source_language": "multiple",
-      "etymology": "toki pona kalama and English arr \u2018(imitation of pirates)\u2019",
+      "etymology": "toki pona: kalama; English: arr \u2018(imitation of pirates)\u2019",
       "recognition": {
         "2020-04": "13",
         "2022-08": "4"
@@ -3440,7 +3438,7 @@
       "book": "ku lili",
       "usage_category": "obscure",
       "source_language": "multiple possibilities",
-      "etymology": "Finnish kanssa \u2018with\u2019 or Esperanto kun \u2018with\u2019 (\u2190 Latin cum)",
+      "etymology": "Finnish: kanssa \u2018with\u2019; Esperanto: kun \u2018with\u2019 (\u2190 Latin cum)",
       "creator": "jan Sonja",
       "ku_data": "alongside\u00b9, together\u00b9, with\u00b9, associated\u2070, involved\u2070, amid\u2070",
       "recognition": {
@@ -3484,7 +3482,7 @@
       "book": "none",
       "usage_category": "obscure",
       "source_language": "multiple possibilities",
-      "etymology": "Dutch kop \u2018head, cup\u2019 or Esperanto kapo \u2018head\u2019 (\u2190 Latin caput)",
+      "etymology": "Dutch: kop \u2018head, cup\u2019; Esperanto: kapo \u2018head\u2019 (\u2190 Latin caput)",
       "creator": "jan Sonja",
       "recognition": {
         "2020-04": "13",
@@ -3526,7 +3524,7 @@
       "book": "ku lili",
       "usage_category": "rare",
       "source_language": "multiple possibilities",
-      "etymology": "Cantonese \u5496\u5561\u8272 gaa\u00b3 fe\u00b9 sik\u00b9 or Mandarin \u5496\u5561\u8272 k\u0101f\u0113is\u00e8 \u2018brown, coffee (colour)\u2019",
+      "etymology": "Cantonese: \u5496\u5561\u8272 gaa\u00b3 fe\u00b9 sik\u00b9; Mandarin: \u5496\u5561\u8272 k\u0101f\u0113is\u00e8 \u2018brown, coffee (colour)\u2019",
       "creator": "jan Sonja",
       "ku_data": "brown\u00b2, grey\u2070",
       "recognition": {
@@ -3980,7 +3978,6 @@
       "book": "ku lili",
       "usage_category": "uncommon",
       "source_language": "a priori",
-      "etymology": "\u2205",
       "creator": "jan Olipija, akesi kon Nalasuni",
       "ku_data": "spiky\u00b2, sharp\u00b9, angle\u2070, point\u2070",
       "recognition": {
@@ -4523,7 +4520,7 @@
       "book": "none",
       "usage_category": "obscure",
       "source_language": "multiple",
-      "etymology": "English Conway & toki pona kon wile",
+      "etymology": "English: Conway; toki pona: kon wile",
       "creator": "jan Emalan",
       "recognition": {
         "2021-10": "25",
@@ -4595,7 +4592,6 @@
       "book": "ku suli",
       "usage_category": "widespread",
       "source_language": "a priori",
-      "etymology": "\u2205",
       "creator": "jan Sonja",
       "recognition": {
         "2021-10": "85",
@@ -5004,7 +5000,7 @@
       "book": "pu",
       "usage_category": "core",
       "source_language": "multiple possibilities",
-      "etymology": "Esperanto la \u2018(definite article)\u2019 (\u2190 Romance la \u2018(feminine singular definite article)\u2019) or Acadian French -la \u2018(proximal & topical suffix)\u2019",
+      "etymology": "Esperanto: la \u2018(definite article)\u2019 (\u2190 Romance la \u2018(feminine singular definite article)\u2019); Acadian French: -la \u2018(proximal & topical suffix)\u2019",
       "creator": "jan Sonja",
       "ku_data": "if\u2075, while\u00b3, depending\u00b3, regarding\u00b2, than\u00b2",
       "recognition": {
@@ -5310,7 +5306,7 @@
       "book": "ku suli",
       "usage_category": "widespread",
       "source_language": "multiple possibilities",
-      "etymology": "English Lego (\u2190 Danish Lego \u2190 \u2018leg godt\u2019 \u2018play well\u2019) or Finnish lohko \u2018block, section\u2019",
+      "etymology": "English: Lego (\u2190 Danish Lego \u2190 \u2018leg godt\u2019 \u2018play well\u2019); Finnish: lohko \u2018block, section\u2019",
       "creator": "jan Sonja",
       "ku_data": "square\u2074, cube\u00b3, block\u00b3, stair\u00b2, brick\u00b2, polyhedron\u00b2",
       "recognition": {
@@ -5949,7 +5945,7 @@
       "usage_category": "obscure",
       "source_language": "toki pona",
       "etymology": "luka & noka",
-      "creator": "?",
+      "creator": "unknown",
       "ku_data": "limb\u00b9",
       "recognition": {
         "2021-10": "22",
@@ -6097,7 +6093,6 @@
       "book": "ku lili",
       "usage_category": "obscure",
       "source_language": "a priori",
-      "etymology": "\u2205",
       "creator": "jan Sonja",
       "recognition": {
         "2021-10": "29",
@@ -6145,7 +6140,7 @@
       "book": "pu",
       "usage_category": "core",
       "source_language": "Serbo-Croatian",
-      "etymology": "ruka \u0440\u0443\u043a\u0430 \u2018hand, arm\u2019",
+      "etymology": "\u0440\u0443\u043a\u0430 ruka \u2018hand, arm\u2019",
       "creator": "jan Sonja",
       "ku_data": "hand\u2075, arm\u2074, five\u2074, wrist\u00b3, touch\u00b2, palm\u00b2, handful\u00b2, gesture\u00b2, tap\u00b2, reach\u00b2, elbow\u00b2",
       "recognition": {
@@ -7137,7 +7132,7 @@
       "book": "none",
       "usage_category": "obscure",
       "source_language": "multiple",
-      "etymology": "English mollusk & scientific nomenclature Mollusca \u2018mollusks\u2019 (\u2190 Latin mollusca \u2018a soft nut with a thin shell\u2019)",
+      "etymology": "English: mollusk; scientific nomenclature: Mollusca \u2018mollusks\u2019 (\u2190 Latin mollusca \u2018a soft nut with a thin shell\u2019)",
       "creator": "jan soweli Apen",
       "recognition": {
         "2021-10": "25",
@@ -7302,7 +7297,6 @@
       "book": "pu",
       "usage_category": "core",
       "source_language": "onomatopoeia",
-      "etymology": "\u2205",
       "creator": "jan Sonja",
       "ku_data": "woof\u2075, meow\u2075, animal vocalization\u2075, ribbit\u2075, purr\u2075, neigh\u2075, cock-a-doodle-doo\u00b3",
       "recognition": {
@@ -7358,7 +7352,6 @@
       "book": "ku lili",
       "usage_category": "obscure",
       "source_language": "a priori",
-      "etymology": "\u2205",
       "creator": "jan Sonja",
       "ku_data": "pizza\u00b2",
       "recognition": {
@@ -7598,7 +7591,6 @@
       "book": "ku suli",
       "usage_category": "common",
       "source_language": "onomatopoeia",
-      "etymology": "\u2205",
       "creator": "kala kala",
       "ku_data": "um\u00b3, mmm\u00b2, hmm\u00b2",
       "recognition": {
@@ -7676,7 +7668,7 @@
       "book": "ku suli",
       "usage_category": "widespread",
       "source_language": "multiple possibilities",
-      "etymology": "Hindi \u0928\u092e\u0915 namak \u2018salt\u2019 (\u2190 Persian \u0646\u0645\u06a9 namak \u2018salt\u2019) or Persian \u0646\u0645\u06a9 namak \u2018salt\u2019",
+      "etymology": "Hindi: \u0928\u092e\u0915 namak \u2018salt\u2019 (\u2190 Persian \u0646\u0645\u06a9 namak \u2018salt\u2019); Persian: \u0646\u0645\u06a9 namak \u2018salt\u2019",
       "creator": "jan Sonja",
       "ku_data": "spice\u2075, extra\u2074, adornment\u00b3, additional\u00b3, extension\u00b2, bonus\u00b2, salt\u00b2, fancy\u00b2, special\u00b2",
       "recognition": {
@@ -7861,7 +7853,7 @@
       "book": "pu",
       "usage_category": "core",
       "source_language": "Serbo-Croatian",
-      "etymology": "na\u010din \u043d\u0430\u0447\u0438\u043d \u2018way, method\u2019",
+      "etymology": "\u043d\u0430\u0447\u0438\u043d na\u010din \u2018way, method\u2019",
       "creator": "jan Sonja",
       "ku_data": "road\u2075, way\u2075, doctrine\u2075, method\u2075, path\u2075, avenue\u2074, manner\u2074, route\u2074, direction\u2074, street\u2074, trail\u2074, orientation\u2074, mode\u2074, technique\u2074, system\u00b3, layout\u00b3, course\u00b3, passage\u00b3, process\u00b3, track\u00b3, format\u00b3, ideology\u00b3, tactic\u00b3, custom\u00b3, aisle\u00b3, journey\u00b3, lane\u00b3, norm\u00b2, guideline\u00b2, style\u00b2, regular\u00b2, procedure\u00b2, protocol\u00b2, order\u00b2, plan\u00b2, channel\u00b2, routine\u00b2, strategy\u00b2, pattern\u00b2, theme\u00b2, composition\u00b2, policy\u00b2, angle\u00b2, tendency\u00b2",
       "recognition": {
@@ -8104,7 +8096,7 @@
       "book": "pu",
       "usage_category": "core",
       "source_language": "Cantonese",
-      "etymology": "\u5462 ni\u00b9 \u2018this\u2019 (\u2190 substrate, cf. Tai, Mon-Khmer, Hmong-Mien, Austronesian) or \u54e9 le\u00b9 \u2018[continuation of a state/action]\u2019",
+      "etymology": "\u5462 ni\u00b9 \u2018this\u2019 \u2190 substrate, cf. Tai, Mon-Khmer, Hmong-Mien, Austronesian; \u54e9 le\u00b9 \u2018[continuation of a state/action]\u2019",
       "creator": "jan Sonja",
       "ku_data": "this\u2075, that\u2075, these\u2075, those\u2074, particular\u00b2, specifically\u00b2, there\u00b2",
       "recognition": {
@@ -8220,7 +8212,7 @@
       "usage_category": "rare",
       "source_language": "toki pona",
       "etymology": "nimi sin",
-      "creator": "?",
+      "creator": "unknown",
       "recognition": {
         "2022-08": "13"
       },
@@ -8247,7 +8239,7 @@
       "book": "none",
       "usage_category": "obscure",
       "source_language": "Japanese",
-      "etymology": "\u30cb\u30e3\u30fc ny\u0101 \u2018meow\u2019 (onomatopoetic)",
+      "etymology": "\u30cb\u30e3\u30fc ny\u0101 \u2018meow\u2019 (onomatopoeia)",
       "creator": "jan Kita",
       "recognition": {
         "2022-08": "5"
@@ -8296,7 +8288,7 @@
       "book": "pu",
       "usage_category": "core",
       "source_language": "Serbo-Croatian",
-      "etymology": "noga \u043d\u043e\u0433\u0430 \u2018foot, leg\u2019",
+      "etymology": "\u043d\u043e\u0433\u0430 noga \u2018foot, leg\u2019",
       "creator": "jan Sonja",
       "ku_data": "leg\u2075, foot\u2074, lap\u00b3, ankle\u00b3, kick\u00b3, heel\u00b2, knee\u00b2, base\u00b2",
       "recognition": {
@@ -8348,7 +8340,6 @@
       "book": "ku lili",
       "usage_category": "obscure",
       "source_language": "a priori",
-      "etymology": "\u2205",
       "creator": "jan Sonja",
       "recognition": {
         "2020-04": "14",
@@ -8476,7 +8467,7 @@
       "usage_category": "rare",
       "source_language": "English",
       "etymology": "okay",
-      "creator": "?",
+      "creator": "unknown",
       "ku_data": "OK\u2070, alright\u2070, fine\u2070",
       "recognition": {
         "2020-04": "25",
@@ -8563,7 +8554,7 @@
       "usage_category": "obscure",
       "source_language": "English",
       "etymology": "okie \u2190 okay",
-      "creator": "?",
+      "creator": "unknown",
       "recognition": {
         "2022-08": "1"
       },
@@ -8665,7 +8656,7 @@
       "book": "pu",
       "usage_category": "core",
       "source_language": "Serbo-Croatian",
-      "etymology": "volim \u0432\u043e\u043b\u0438\u043c \u2018I love\u2019",
+      "etymology": "\u0432\u043e\u043b\u0438\u043c volim \u2018I love\u2019",
       "creator": "jan Sonja",
       "ku_data": "loving\u2075, love\u2075, romance\u2074, romantic\u00b3, compassion\u00b3, attraction\u00b2, intimate\u00b2, passion\u00b2, beloved\u00b2, loyalty\u00b2, loyal\u00b9, faithful\u00b9, dear\u00b9, mercy\u00b9, darling\u00b9, passionate\u00b9, care\u00b9, appreciation\u00b9, crush\u00b9, respect\u00b9",
       "recognition": {
@@ -8842,7 +8833,7 @@
       "book": "pu",
       "usage_category": "core",
       "source_language": "Serbo-Croatian",
-      "etymology": "ona \u043e\u043d\u0430 \u2018she\u2019",
+      "etymology": "\u043e\u043d\u0430 ona \u2018she\u2019",
       "creator": "jan Sonja",
       "ku_data": "its\u2075, her\u2075, them\u2075, their\u2075, him\u2074, he\u2074, she\u2074, they\u2074, his\u2074, it\u2074, themselves\u00b3, itself\u00b3, himself\u00b2, herself\u00b2",
       "recognition": {
@@ -9251,7 +9242,7 @@
       "book": "pu",
       "usage_category": "core",
       "source_language": "Serbo-Croatian",
-      "etymology": "palica \u043f\u0430\u043b\u0438\u0446\u0430 \u2018bat, rod, cane\u2019",
+      "etymology": "\u043f\u0430\u043b\u0438\u0446\u0430 palica \u2018bat, rod, cane\u2019",
       "creator": "jan Sonja",
       "ku_data": "stick\u2075, rod\u2075, stake\u2074, pole\u2074, branch\u00b3, staff\u00b3, straight\u00b2, bar\u00b2, stem\u00b9, beam\u00b9",
       "recognition": {
@@ -9312,7 +9303,7 @@
       "book": "pu",
       "usage_category": "core",
       "source_language": "multiple",
-      "etymology": "Romance pan \u2018bread\u2019 & Japanese \u30d1\u30f3 pan \u2018bread\u2019 (\u2190 Portuguese p\u00e3o)",
+      "etymology": "Romance: pan \u2018bread\u2019; Japanese: \u30d1\u30f3 pan \u2018bread\u2019 (\u2190 Portuguese p\u00e3o)",
       "creator": "jan Sonja",
       "ku_data": "bread\u2075, grain\u2075, wheat\u2074, rice\u00b3, corn\u00b2, carbohydrate\u00b2",
       "recognition": {
@@ -9374,7 +9365,7 @@
       "book": "pu",
       "usage_category": "core",
       "source_language": "multiple possibilities",
-      "etymology": "Finnish panna \u2018put, set, place\u2019 or Swahili pana \u2018give to each other\u2019",
+      "etymology": "Finnish: panna \u2018put, set, place\u2019; Swahili: pana \u2018give to each other\u2019",
       "creator": "jan Sonja",
       "ku_data": "give\u2075, put\u2075, deliver\u2075, grant\u2075, delivery\u2075, send\u2074, submit\u2074, provide\u2074, transfer\u2074, distribute\u2074, distribution\u00b3, donate\u00b3, appoint\u00b3, contribute\u00b3, output\u00b3, given\u00b3, publishing\u00b3, yield\u00b3, share\u00b3, offering\u00b3, assign\u00b3, deploy\u00b3, deposit\u00b3, convey\u00b3, offer\u00b2, input\u00b2, emission\u00b2, lend\u00b2, supply\u00b2, release\u00b2, pour\u00b2, publish\u00b2, provision\u00b2, gift\u00b2, export\u00b2, shared\u00b2, serve\u00b2, spend\u00b2, spread\u00b2, attach\u00b2, administer\u00b2, devote\u00b2, serving\u00b2, donation\u00b2, contribution\u00b2, added\u00b2, post\u00b2, toss\u00b2, apply\u00b2, transmission\u00b2, present\u00b2, bring\u00b2, add\u00b2, install\u00b2, show\u00b2, introduce\u00b2, dedicate\u00b2, exhibit\u00b2, insert\u00b2",
       "recognition": {
@@ -9424,7 +9415,7 @@
       "book": "none",
       "usage_category": "obscure",
       "source_language": "multiple possibilities",
-      "etymology": "Acadian French facile \u2018easy\u2019 or Esperanto facila \u2018easy\u2019",
+      "etymology": "Acadian French: facile \u2018easy\u2019; Esperanto facila \u2018easy\u2019",
       "creator": "jan Sonja",
       "recognition": {
         "2020-04": "25",
@@ -9469,7 +9460,7 @@
       "book": "ku lili",
       "usage_category": "obscure",
       "source_language": "multiple possibilities",
-      "etymology": "Serbo-Croatian brat \u0431\u0440\u0430\u0442 \u2018brother\u2019 or Tok Pisin brata \u2018sibling or cousin of the same gender\u2019 (\u2190 English brother)",
+      "etymology": "Serbo-Croatian: \u0431\u0440\u0430\u0442 brat \u2018brother\u2019; Tok Pisin: brata \u2018sibling or cousin of the same gender\u2019 (\u2190 English brother)",
       "creator": "jan Sonja",
       "ku_data": "sibling\u2070, cousin\u2070",
       "recognition": {
@@ -9821,7 +9812,6 @@
       "book": "ku lili",
       "usage_category": "obscure",
       "source_language": "a priori",
-      "etymology": "\u2205",
       "creator": "jan Likipi",
       "ku_data": "car\u2070",
       "recognition": {
@@ -9873,7 +9863,7 @@
       "book": "pu",
       "usage_category": "core",
       "source_language": "multiple possibilities",
-      "etymology": "Acadian French fini \u2018finished, completed\u2019 & Tok Pisin pinis \u2018(perfective aspect)\u2019\u2190 English finish",
+      "etymology": "Acadian French: fini \u2018finished, completed\u2019; Tok Pisin: pinis \u2018(perfective aspect)\u2019(\u2190 English finish)",
       "creator": "jan Sonja",
       "ku_data": "end\u2075, finish\u2075, shut\u2075, ending\u2074, cease\u2074, outcome\u2074, conclude\u2074, close (v)\u2074, closed\u2074, quit\u00b3, latter\u00b3, final\u00b3, complete\u00b3, stop\u00b3, off\u00b3, cancel\u00b3, conclusion\u00b2, result\u00b2, previous\u00b2, pause\u00b2, interrupt\u00b2, lock\u00b2, over\u00b2",
       "recognition": {
@@ -10441,7 +10431,7 @@
       "book": "pu",
       "usage_category": "core",
       "source_language": "multiple possibilities",
-      "etymology": "Mandarin \u6a38 p\u01d4 \u2018unworked wood; sincere, honest; inherent quality; simple\u2019 or English book",
+      "etymology": "Mandarin: \u6a38 p\u01d4 \u2018unworked wood; sincere, honest; inherent quality; simple\u2019; English: book",
       "creator": "jan Sonja",
       "ku_data": "interact with Toki Pona: The Language of Good\u2075, officially\u00b2",
       "recognition": {
@@ -10493,7 +10483,7 @@
       "book": "none",
       "usage_category": "rare",
       "source_language": "Japanese",
-      "etymology": "\u3075\u308f\u3075\u308f fuwafuwa \u2018onomatopoeia for fluffy things\u2019",
+      "etymology": "\u3075\u308f\u3075\u308f fuwafuwa \u2018(onomatopoeia) fluffy things\u2019",
       "creator": "jan Seli",
       "recognition": {
         "2021-10": "31",
@@ -10543,7 +10533,7 @@
       "book": "pu",
       "usage_category": "core",
       "source_language": "multiple",
-      "etymology": "Finnish sama \u2018same\u2019 (\u2190 Proto-Germanic *samaz \u2018same, alike\u2019) & Esperanto sama \u2018same\u2019 (\u2190 English same)",
+      "etymology": "Finnish: sama \u2018same\u2019 (\u2190 Proto-Germanic *samaz \u2018same, alike\u2019); Esperanto: sama \u2018same\u2019 (\u2190 English same)",
       "creator": "jan Sonja",
       "ku_data": "alike\u2075, equal\u2075, similar\u2075, equivalent\u2075, as\u2074, similarly\u2074, equality\u00b3, equally\u00b3, like\u00b3, identical\u00b3, likewise\u00b2, related\u00b2, relation\u00b2, constant\u00b2, associated\u00b2, relate\u00b2, seem\u00b2, even\u00b2, copy\u00b2, mutual\u00b2, equity\u00b2, resemble\u00b2, fellow\u00b2",
       "recognition": {
@@ -10641,7 +10631,7 @@
       "book": "ku lili",
       "usage_category": "obscure",
       "source_language": "multiple possibilities",
-      "etymology": "Japanese \u4e09 san \u2018three\u2019 & Cantonese \u4e09/\u53c1 s\u0101am",
+      "etymology": "Japanese: \u4e09 san \u2018three\u2019; Cantonese: \u4e09/\u53c1 s\u0101am",
       "creator": "jan Lenoka, jan Wesu",
       "ku_data": "three\u2070",
       "recognition": {
@@ -10937,7 +10927,7 @@
       "book": "pu",
       "usage_category": "core",
       "source_language": "Serbo-Croatian",
-      "etymology": "tijelo \u0442\u0438\u0458\u0435\u043b\u043e \u2018body\u2019",
+      "etymology": "\u0442\u0438\u0458\u0435\u043b\u043e tijelo \u2018body\u2019",
       "creator": "jan Sonja",
       "ku_data": "body\u2075, torso\u2074, flesh\u00b3, physically\u00b2, form\u00b2, figure\u00b2, self\u00b2, physical\u00b2",
       "recognition": {
@@ -11360,7 +11350,7 @@
       "book": "none",
       "usage_category": "obscure",
       "source_language": "multiple",
-      "etymology": "toki pona lape and English sleep",
+      "etymology": "toki pona: lape; English: sleep",
       "recognition": {
         "2020-04": "12",
         "2022-08": "1"
@@ -11618,7 +11608,6 @@
       "book": "ku lili",
       "usage_category": "obscure",
       "source_language": "a priori",
-      "etymology": "\u2205",
       "creator": "jan Sonja",
       "recognition": {
         "2020-04": "14",
@@ -11868,7 +11857,7 @@
       "coined_era": "pre-pu",
       "book": "ku lili",
       "usage_category": "obscure",
-      "source_language": "Croatian",
+      "source_language": "Serbo-Croatian",
       "etymology": "\u010dudnovati kljuna\u0161 \u2018platypus, lit. strange beak\u2019",
       "creator": "Alexandre Baudry",
       "ku_data": "platypus\u00b9",
@@ -12752,7 +12741,7 @@
       "book": "pu",
       "usage_category": "core",
       "source_language": "multiple",
-      "etymology": "English two & Esperanto du",
+      "etymology": "English: two; Esperanto: du",
       "creator": "jan Sonja",
       "ku_data": "two\u2075, pair\u2075, double\u2074, both\u2074, twice\u00b3, couple\u00b3, cut\u00b2, divide\u00b2",
       "recognition": {
@@ -12853,7 +12842,6 @@
       "book": "ku lili",
       "usage_category": "obscure",
       "source_language": "a priori",
-      "etymology": "\u2205",
       "creator": "jan Sonja",
       "recognition": {
         "2021-10": "28",
@@ -12934,7 +12922,6 @@
       "book": "pu",
       "usage_category": "core",
       "source_language": "onomatopoeia",
-      "etymology": "\u2205",
       "creator": "jan Sonja",
       "ku_data": "sex\u2075, sexual\u2075, sexually\u2075, fucking\u00b3, fuck\u00b2",
       "recognition": {
@@ -13082,7 +13069,7 @@
       "book": "pu",
       "usage_category": "core",
       "source_language": "Serbo-Croatian",
-      "etymology": "usta \u0443\u0441\u0442\u0430 \u2018mouth\u2019",
+      "etymology": "\u0443\u0441\u0442\u0430 usta \u2018mouth\u2019",
       "creator": "jan Sonja",
       "ku_data": "mouth\u2075, lip\u00b3, kiss\u00b3, jaw\u00b3, bite\u00b2, chew\u00b2",
       "recognition": {
@@ -13141,7 +13128,7 @@
       "book": "pu",
       "usage_category": "core",
       "source_language": "Serbo-Croatian",
-      "etymology": "udarati \u0443\u0434\u0430\u0440\u0430\u0442\u0438 \u2018strike, hit, beat\u2019",
+      "etymology": "\u0443\u0434\u0430\u0440\u0430\u0442\u0438 udarati \u2018strike, hit, beat\u2019",
       "creator": "jan Sonja",
       "ku_data": "battle\u2075, fight\u2075, fighting\u2075, combat\u2075, conflict\u2075, contend\u2075, assault\u2075, attack\u2075, versus\u2074, compete\u2074, violent\u2074, challenge\u2074, hit\u2074, violence\u2074, struggle\u00b3, war\u00b3, contest\u00b3, oppose\u00b3, dispute\u00b3, competitive\u00b2, tackle\u00b2, competition\u00b2, aggressive\u00b2, resist\u00b2, beat\u00b2, opposed\u00b2, punch\u00b2, hostile\u00b2, confront\u00b2, riot\u00b2, opposition\u00b2, against\u00b2, strike\u00b2",
       "recognition": {
@@ -13189,7 +13176,6 @@
       "book": "ku lili",
       "usage_category": "rare",
       "source_language": "onomatopoeia",
-      "etymology": "\u2205",
       "creator": "mama mama pi jan Lakuse",
       "ku_data": "whoa\u00b2, wow\u00b9",
       "recognition": {
@@ -13829,7 +13815,7 @@
       "usage_category": "rare",
       "source_language": "toki pona",
       "etymology": "syllables wu, wo, ji, and ti",
-      "creator": "?",
+      "creator": "unknown",
       "recognition": {
         "2022-08": "13"
       },
@@ -13856,7 +13842,6 @@
       "book": "ku lili",
       "usage_category": "rare",
       "source_language": "a priori",
-      "etymology": "\u2205",
       "creator": "jan Sonja",
       "ku_data": "change a creative work and unintentionally make it worse\u00b3",
       "recognition": {
