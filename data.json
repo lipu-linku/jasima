@@ -14438,8 +14438,7 @@
       "name_short": "seta sans",
       "writing_system": "alphabet",
       "links": {
-        "fontfile": "https://jcdietrich.github.io/TokiPonaSetaSans-Regular2.otf",
-        "webpage": "https://codepen.io/NMCcCoy/full/jOMdZYq"
+        "fontfile": "https://jcdietrich.github.io/TokiPonaSetaSans-Regular2.otf"
       },
       "creator": "Eschar / Nathan McCoy",
       "license": "?",
@@ -14760,7 +14759,8 @@
       "writing_system": "alphabet",
       "links": {
         "fontfile": "https://cdn.discordapp.com/attachments/999566667187228673/1004664202742476800/sitelensuwiko_4.otf",
-        "repo": "https://drive.google.com/file/d/1iwcSyEEJlGbzOl62r3uW7TMHiD_uR046/view"
+        "repo": "https://drive.google.com/file/d/1iwcSyEEJlGbzOl62r3uW7TMHiD_uR046/view",
+        "webpage": "https://www.reddit.com/r/tokipona/comments/ko4kid/sitelen_suwi_ko_a_soft_cute_sitelen_for_wet_sand/"
       },
       "creator": "qazw",
       "license": "CC BY 4.0",
