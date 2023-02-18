@@ -14652,6 +14652,19 @@
       "name_short": "sitelen pona kiwen",
       "writing_system": "sitelen pona",
       "links": {
+        "fontfile": "https://cdn.discordapp.com/attachments/316066233755631616/1076293310559289485/sitelen-pona-kiwen.ttf",
+        "webpage": "https://fontstruct.com/fontstructions/show/1795634/sitelen-pona-kiwen"
+      },
+      "creator": "jan Sewaka(jan Weko)",
+      "license": "CC BY-SA 3.0",
+      "filename": "sitelen-pona-kiwen.ttf",
+      "style": "pixelated, serif",
+      "features": "codepoints only"
+    },
+    "sitelen pona kiwen nanpa tu": {
+      "name_short": "sitelen pona kiwen nanpa tu",
+      "writing_system": "sitelen pona",
+      "links": {
         "fontfile": "https://cdn.discordapp.com/attachments/907173530192461864/918454687294963802/sitelen-pona-kiwen-nanpa-tu.ttf",
         "webpage": "https://fontstruct.com/fontstructions/show/1936881/sitelen-pona-kiwen-nanpa-tu"
       },
@@ -14659,7 +14672,7 @@
       "license": "CC BY-SA 3.0",
       "version": "1",
       "last_updated": "2021-05",
-      "filename": "sitelen-pona-kiwen.ttf",
+      "filename": "sitelen-pona-kiwen-2.ttf",
       "style": "pixelated, serif",
       "features": "codepoints only, supports nimi ku suli"
     },
@@ -14772,7 +14785,7 @@
     },
     "sitelen telo": {
       "name_short": "sitelen telo",
-      "writing_system": "sitelen telo",
+      "writing_system": "logography",
       "links": {
         "fontfile": "https://drive.google.com/file/d/1Y39JfjAfbthyECdTgcCZaKGR5i0Q7VUr",
         "repo": "https://drive.google.com/drive/folders/1KDVbtq8_GaC2DqOUrb10IXlVgp7DJIJi",
@@ -14879,6 +14892,19 @@
       "last_updated": "2022-07",
       "style": "pixelated",
       "features": "ASCII transcription"
+    },
+    "toki pona updated": {
+      "name_short": "toki pona updated",
+      "writing_system": "logography",
+      "links": {
+        "fontfile": "https://cdn.discordapp.com/attachments/316066233755631616/1076295088516370532/toki-pona-updated.ttf",
+        "webpage": "https://fontstruct.com/fontstructions/show/716817/toki_pona_updated"
+      },
+      "creator": "ashcrash9",
+      "license": "CC BY-SA 3.0",
+      "filename": "toki-pona-updated.ttf",
+      "style": "serif",
+      "features": "codepoints only"
     },
     "TokiTengwar": {
       "name_short": "toki tengwar",
