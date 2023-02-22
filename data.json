@@ -14055,6 +14055,22 @@
       "style": "pixelated",
       "features": "ASCII transcription, all ku suli, UCSUR-compliant"
     },
+    "leko majuna": {
+      "name_short": "leko majuna",
+      "writing_system": "sitelen pona",
+      "links": {
+        "fontfile": "https://kelseyhigham.github.io/leko-majuna/leko%20majuna.ttf",
+        "repo": "https://github.com/KelseyHigham/kelseyhigham.github.io/blob/main/leko-majuna/leko%20majuna.ttf",
+        "webpage": "https://kelseyhigham.github.io/leko-majuna/"
+      },
+      "creator": "waso Keli (Kelsey Higham)",
+      "license": "OFL",
+      "version": "1.0",
+      "last_updated": "2023-02",
+      "filename": "leko-majuna",
+      "style": "pixelated",
+      "features": "ASCII transcription, UCSUR-compliant, supports ku suli and the rest of the UCSUR characters"
+    },
     "linja ante": {
       "name_short": "linja ante",
       "writing_system": "sitelen pona",
@@ -14119,7 +14135,7 @@
       "name_short": "linja lipamanka",
       "writing_system": "sitelen pona",
       "links": {
-        "fontfile": "https://github.com/lipamanka/linja-lipamanka-0/raw/main/linjalipamanka-normal.ttf",
+        "fontfile": "https://github.com/lipamanka/linja-lipamanka-0/raw/main/linjalipamanka-normal.otf",
         "repo": "https://github.com/lipamanka/linja-lipamanka-0"
       },
       "creator": "lipamanka",
@@ -14128,7 +14144,7 @@
       "last_updated": "2023-01",
       "filename": "linjalipamanka-normal.ttf",
       "style": "uniform line weight",
-      "features": "ASCII transcription, UCSUR-compliant,supports ku suli and the rest of the UCSUR characters, cartouches, long pi"
+      "features": "ASCII transcription, UCSUR-compliant,supports ku suli and the rest of the UCSUR characters, cartouches, long pi, name glyphs, community requested nimisin"
     },
     "linja luka": {
       "name_short": "linja luka",
@@ -14657,6 +14673,7 @@
       },
       "creator": "jan Sewaka(jan Weko)",
       "license": "CC BY-SA 3.0",
+      "last_updated": "2023-02",
       "filename": "sitelen-pona-kiwen.ttf",
       "style": "pixelated, serif",
       "features": "codepoints only"
@@ -14902,6 +14919,7 @@
       },
       "creator": "ashcrash9",
       "license": "CC BY-SA 3.0",
+      "last_updated": "2023-02",
       "filename": "toki-pona-updated.ttf",
       "style": "serif",
       "features": "codepoints only"
