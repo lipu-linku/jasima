@@ -14067,7 +14067,7 @@
       "license": "OFL",
       "version": "1.0",
       "last_updated": "2023-02",
-      "filename": "leko-majuna",
+      "filename": "leko-majuna.ttf",
       "style": "pixelated",
       "features": "ASCII transcription, UCSUR-compliant, supports ku suli and the rest of the UCSUR characters"
     },
@@ -14391,6 +14391,19 @@
       "filename": "nasin leko suwi lasina.ttf",
       "style": "pixelated",
       "features": "ASCII transcription, UCSUR-compliant,supports ku suli and the rest of the UCSUR characters, cartouches, long pi"
+    },
+    "nasin leko suwi lili": {
+      "name_short": "nasin leko suwi lili",
+      "writing_system": "sitelen pona",
+      "links": {
+        "fontfile": "https://cdn.discordapp.com/attachments/952797418381000806/1078714229034590238/nasin-leko-suwi-lili.ttf"
+      },
+      "license": "Fontstruct ND NC",
+      "version": "1.0",
+      "last_updated": "2023-02",
+      "filename": "nasin-leko-suwi-lili.ttf",
+      "style": "pixelated",
+      "features": "UCSUR-compliant, supports ku suli and the rest of the UCSUR characters"
     },
     "nasin luka": {
       "name_short": "nasin luka",
