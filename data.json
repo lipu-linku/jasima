@@ -13954,6 +13954,20 @@
       "style": "pixelated",
       "features": "codepoints only"
     },
+    "CraftyPE": {
+      "name_short": "CraftyPE",
+      "writing_system": "sitelen pona",
+      "links": {
+        "fontfile": "https://cdn.discordapp.com/attachments/952797418381000806/1079225611832283166/CraftyPE.otf"
+      },
+      "creator": "ParanormalChicken / Erek Butcher",
+      "license": "OFL",
+      "version": "beta 5",
+      "last_updated": "2023-03",
+      "filename": "CraftyPE.otf",
+      "style": "uniform line weight",
+      "features": "codepoints only, UCSUR-compliant, supports ku suli and the rest of the UCSUR characters"
+    },
     "Fairfax": {
       "name_short": "Fairfax",
       "writing_system": "sitelen pona",
@@ -14408,12 +14422,13 @@
       "links": {
         "fontfile": "https://cdn.discordapp.com/attachments/952797418381000806/1078714229034590238/nasin-leko-suwi-lili.ttf"
       },
+      "creator": "Bo_Tie",
       "license": "Fontstruct ND NC",
       "version": "1.0",
       "last_updated": "2023-02",
       "filename": "nasin-leko-suwi-lili.ttf",
       "style": "pixelated",
-      "features": "UCSUR-compliant, supports ku suli and the rest of the UCSUR characters"
+      "features": "codepoints only, UCSUR-compliant, supports ku suli and the rest of the UCSUR characters"
     },
     "nasin luka": {
       "name_short": "nasin luka",
