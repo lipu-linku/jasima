@@ -13964,7 +13964,7 @@
       "license": "OFL",
       "version": "beta 5",
       "last_updated": "2023-03",
-      "filename": "CraftyPE.otf",
+      "filename": "craftype.otf",
       "style": "uniform line weight",
       "features": "codepoints only, UCSUR-compliant, supports ku suli and the rest of the UCSUR characters"
     },
@@ -14136,7 +14136,7 @@
       "creator": "Jervik Hsien Serrano",
       "license": "CC BY 4.0",
       "last_updated": "2022-09",
-      "filename": "linja_leko.ttf",
+      "filename": "linja-leko.ttf",
       "style": "pixelated",
       "features": "ASCII transcription"
     },
@@ -14336,7 +14336,7 @@
       "license": "all rights reserved",
       "version": "3.001",
       "last_updated": "2022-09",
-      "filename": "linjasikepikutemute-Regular.ttf",
+      "filename": "linjasikepikutemute-regular.ttf",
       "style": "uniform line weight",
       "features": "-"
     },
@@ -14367,7 +14367,7 @@
       "license": "OFL",
       "version": "1",
       "last_updated": "2022-07",
-      "filename": "linja-waso_lili.ttf",
+      "filename": "linja-waso-lili.ttf",
       "style": "serif",
       "features": "ASCII transcription, UCSUR-compliant, ku suli, supports cartouches, extended pi"
     },
@@ -14397,7 +14397,7 @@
       "license": "CC BY 4.0",
       "version": "1.0",
       "last_updated": "2023-01",
-      "filename": "nasin leko suwi.ttf",
+      "filename": "nasin-leko-suwi.ttf",
       "style": "pixelated",
       "features": "codepoints only, UCSUR-compliant,supports ku suli and the rest of the UCSUR characters, cartouches, long pi"
     },
@@ -14412,7 +14412,7 @@
       "license": "CC BY 4.0",
       "version": "1.0",
       "last_updated": "2023-01",
-      "filename": "nasin leko suwi lasina.ttf",
+      "filename": "nasin-leko-suwi-lasina.ttf",
       "style": "pixelated",
       "features": "ASCII transcription, UCSUR-compliant,supports ku suli and the rest of the UCSUR characters, cartouches, long pi"
     },
@@ -14512,7 +14512,7 @@
       "license": "OFL",
       "version": "1.3",
       "last_updated": "2022-08",
-      "filename": "sike_en_linja1-3.otf",
+      "filename": "sike-en-linja.otf",
       "style": "uniform line weight",
       "features": "ASCII transcription, ku suli"
     },
@@ -14668,7 +14668,7 @@
       "creator": "increpare / jan Inkepa",
       "license": "CC0",
       "last_updated": "2022-09",
-      "filename": "sitelen_pi_linja_ko.ttf",
+      "filename": "sitelen-pi-linja-ko.ttf",
       "style": "pixelated",
       "features": "ASCII transcription"
     },
@@ -14906,7 +14906,7 @@
       "license": "OFL",
       "version": "1.0",
       "last_updated": "2023-01",
-      "filename": "tama-ka-Tumu.ttf",
+      "filename": "tama-ka-tumu.ttf",
       "style": "handwritten",
       "features": "ASCII transcription, cartouches, tuki tiki"
     },
@@ -14973,7 +14973,7 @@
       "license": "all rights reserved",
       "version": "1.0",
       "last_updated": "2022-09",
-      "filename": "TokiTengwar.ttf",
+      "filename": "tokitengwar.ttf",
       "style": "serif",
       "features": "-"
     },
