@@ -14459,11 +14459,11 @@
       "style": "uniform line weight",
       "features": "codepoints only, supports nimi ku suli, UCSUR-compliant"
     },
-    "nasin nanpa ligatures": {
-      "name_short": "nasin nanpa ligatures",
+    "nasin nanpa asuki": {
+      "name_short": "nasin nanpa asuki",
       "writing_system": "sitelen pona",
       "links": {
-        "fontfile": "https://github.com/ETBCOR/nasin-nanpa/raw/main/versions/nn.otf",
+        "fontfile": "https://github.com/RetSamys/nasin-nanpa/raw/main/versions/nn.otf",
         "repo": "https://github.com/ETBCOR/nasin-nanpa/tree/main/versions"
       },
       "creator": "jan Itan",
