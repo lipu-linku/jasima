@@ -14457,7 +14457,7 @@
       "last_updated": "2022-05",
       "filename": "nasin-nanpa.otf",
       "style": "uniform line weight",
-      "features": "codepoints only, supports nimi ku suli, UCSUR-compliant"
+      "features": "codepoints only, supports nimi ku suli, UCSUR-compliant, combined glyphs"
     },
     "nasin nanpa asuki": {
       "name_short": "nasin nanpa asuki",
@@ -14472,7 +14472,7 @@
       "last_updated": "2023-03",
       "filename": "nn.otf",
       "style": "uniform line weight",
-      "features": "ASCII transcription, UCSUR-compliant, supports ku suli and the rest of the UCSUR characters"
+      "features": "ASCII transcription, UCSUR-compliant, supports ku suli and the rest of the UCSUR characters, combined glyphs"
     },
     "nasin sitelen pu mono": {
       "name_short": "nasin sitelen pu mono",
