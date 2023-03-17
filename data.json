@@ -397,8 +397,8 @@
       "name_toki_pona": "toki Nosiki sin",
       "credits": "jan Okun",
       "completeness_percent": {
-        "obscure": "58",
-        "rare": "93",
+        "obscure": "62",
+        "rare": "100",
         "uncommon": "100",
         "common": "100",
         "widespread": "100",
@@ -412,8 +412,8 @@
       "name_toki_pona": "toki Nosiki",
       "credits": "jan Okun",
       "completeness_percent": {
-        "obscure": "58",
-        "rare": "93",
+        "obscure": "62",
+        "rare": "100",
         "uncommon": "100",
         "common": "100",
         "widespread": "100",
@@ -752,8 +752,8 @@
         "ja": "(\u5f37\u8abf\u3059\u308b\u3001\u611f\u60c5\u3092\u3053\u3081\u308b\u3001\u78ba\u8a8d\u306e\u610f\u3092\u3042\u3089\u308f\u3059)",
         "ko": "\uac15\uc870/\ud655\uc778\ud558\ub294 \ud45c\ud604",
         "cs": "(zd\u016frazn\u011bn\u00ed, emocion\u00e1ln\u00ed podkres \u010di potvrzen\u00ed)",
-        "nno": "(understreking, f\u00f8lelse, eller stadfesting)",
-        "nob": "(understreking, f\u00f8lelse, eller bekreftelse)",
+        "nno": "(indikerer understreking, f\u00f8lelse, eller stadfesting)",
+        "nob": "(indikerer understreking, f\u00f8lelse, eller bekreftelse)",
         "lt": "(Jaustukas)"
       }
     },
@@ -794,7 +794,7 @@
     },
     "akesi": {
       "word": "akesi",
-      "sitelen_pona": "akesi",
+      "sitelen_pona": "akesi akesi2",
       "ucsur": "U+F1901",
       "sitelen_pona_etymology": "animal radical; pictogram of a lizard. radical represents eyes",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_akesi.jpg",
@@ -1475,8 +1475,8 @@
         "io": "kulpanta, kulpoza, shamoza, shamanta, pudoro; shamigar, humiligar, expozar, deshonorizar",
         "ja": "\u6065\u3001\u7f6a\u60aa\u611f\u3001\u5fcc\u907f\u3001\u6c5a\u540d\u3001\u4e0d\u540d\u8a89; \u8cac\u3081\u308b\u3001\u7cfe\u5f3e\u3059\u308b\u3001\u66b4\u9732\u3059\u308b\u3001\u8fb1\u3081\u308b\u3001\u56f0\u3089\u305b\u308b",
         "cs": "vina, stud, hanba, nemilost; obvinit, odhalit, zostudit, uv\u00e9st do rozpak\u016f",
-        "nno": "skuld, skam, stigma, van\u00e6re; \u00e5 skulde, utst\u00f8yte, skjemme, van\u00e6re",
-        "nob": "skyld, skam, stigma, van\u00e6re; \u00e5 beskylde, utst\u00f8te, skjemme, van\u00e6re"
+        "nno": "skuld, ford\u00f8mming, skam, stigma, van\u00e6re; \u00e5 skulde, ford\u00f8mme, utst\u00f8yte, skjemme, van\u00e6re",
+        "nob": "skyld, ford\u00f8mmelse, skam, stigma, van\u00e6re; \u00e5 beskylde, ford\u00f8mme, utst\u00f8te, skjemme, van\u00e6re"
       }
     },
     "awase": {
@@ -3805,8 +3805,8 @@
         "ja": "\uff5e\u3092\u4f7f\u3046\u3001\uff5e\u3092\u7528\u3044\u3066\u3001\uff5e\u306b\u3088\u3063\u3066",
         "ko": "\uc0ac\uc6a9\ud558\ub2e4, \ud568\uaed8",
         "cs": "u\u017e\u00edvat, za pomoci (n\u011b\u010deho)",
-        "nno": "\u00e5 bruke, med, ved bruk av",
-        "nob": "\u00e5 bruke, med, ved bruk av"
+        "nno": "\u00e5 bruke; med, ved bruk av",
+        "nob": "\u00e5 bruke; med, ved bruk av"
       }
     },
     "kepen": {
@@ -5790,8 +5790,8 @@
         "io": "reto, interreto, konekto; texo, treso, plektajo, interajo, tresigajo",
         "ja": "\u30cd\u30c3\u30c8\u30ef\u30fc\u30af\u3001\u30a4\u30f3\u30bf\u30fc\u30cd\u30c3\u30c8\u3001\u7e6b\u304c\u308a\u3001\u7e54\u308b\u3001\u7de8\u3080\u3001\u7e54\u308a\u4ea4\u305c\u308b",
         "cs": "s\u00ed\u0165, internet, spojen\u00ed; pl\u00e9st, prol\u00ednat",
-        "nno": "nettverk, Internett, tilkopling; \u00e5 veve, flette",
-        "nob": "nettverk, Internett, tilkopling; \u00e5 veve, flette"
+        "nno": "nettverk, internett, tilkopling; \u00e5 veve, flette",
+        "nob": "nettverk, internett, tilkopling; \u00e5 veve, flette"
       }
     },
     "lipu": {
@@ -9195,7 +9195,9 @@
         "hr": "prekinuti, zaustaviti; blokirati (put); sprije\u010diti",
         "io": "stopar, cesar, haltar; obstruktar, impedar, interruptar; evitar",
         "ja": "\u6b62\u3081\u308b\u3001\u3084\u3081\u308b\u3001\u505c\u6b62\u3059\u308b\u3001\u4e2d\u6b62\u3059\u308b\u3001\u4e2d\u65ad\u3059\u308b; \u585e\u3050\u3001\u906e\u65ad\u3059\u308b\u3001\u7981\u6b62\u3059\u308b; \u9632\u6b62\u3059\u308b",
-        "cs": "p\u0159estat, zastavit; zablokovat, p\u0159eru\u0161it; zabr\u00e1nit"
+        "cs": "p\u0159estat, zastavit; zablokovat, p\u0159eru\u0161it; zabr\u00e1nit",
+        "nno": "\u00e5 stoppe, stanse, blokkere, avbryte, forhindre",
+        "nob": "\u00e5 stoppe, stanse, blokkere, avbryte, forhindre"
       }
     },
     "pali": {
@@ -9254,8 +9256,8 @@
         "ja": "\u3059\u308b\u3001\u884c\u52d5\u3059\u308b\u3001\u50cd\u304f; \u4f5c\u308b\u3001\u69cb\u7bc9\u3059\u308b\u3001\u7528\u610f\u3059\u308b",
         "ko": "\ud558\ub2e4; \uac74\uc124\ud558\ub2e4, \ub9cc\ub4e4\ub2e4, \uc900\ube44\ud558\ub2e4",
         "cs": "d\u011blat, pracovat (na); stav\u011bt, vyr\u00e1b\u011bt, vytv\u00e1\u0159et",
-        "nno": "gjere, f\u00f8reta, jobbe med; byggje, lage, forberede",
-        "nob": "gj\u00f8re, foreta, jobbe med; bygge, lage, forberede"
+        "nno": "\u00e5 gjere, f\u00f8reta, jobbe med; byggje, lage, forberede",
+        "nob": "\u00e5 gj\u00f8re, foreta, jobbe med; bygge, lage, forberede"
       }
     },
     "palisa": {
@@ -9437,8 +9439,8 @@
         "ja": "\u4e0e\u3048\u308b\u3001\u9001\u308b\u3001\u767a\u3059\u308b\u3001\u6388\u3051\u308b\u3001\u7f6e\u304f\u3001\u653e\u3059",
         "ko": "\uc8fc\ub2e4, \ubcf4\ub0b4\ub2e4, \uc804\uc1a1\ud558\ub2e4, \ub123\ub2e4",
         "cs": "d\u00e1t, poslat, vyslat, vydat, poskytnout, polo\u017eit",
-        "nno": "gje, utgje, sende, forsyne, putte, sleppe",
-        "nob": "gi, utgi, sende, forsyne, putte, slippe"
+        "nno": "\u00e5 gje, utgje, sende, forsyne, putte, sleppe",
+        "nob": "\u00e5 gi, utgi, sende, forsyne, putte, slippe"
       }
     },
     "pasila": {
@@ -10548,7 +10550,9 @@
         "hr": "meko, paperjasto (vra\u0107a se u originalni oblik nakon kompresije/deformacije)",
         "io": "mola, lanugatra, lanugoza",
         "ja": "\u3075\u308f\u3075\u308f\u3057\u305f\u3001\u67d4\u3089\u304b\u3044\u3001\u3076\u306b\u3087\u3076\u306b\u3087\u3057\u305f (\u5727\u3057\u3064\u3051\u3066\u3082\u5143\u306e\u5f62\u72b6\u306b\u623b\u308d\u3046\u3068\u3059\u308b\u3082\u306e)",
-        "cs": "nad\u00fdchan\u00fd, na\u010dechran\u00fd, hebk\u00fd, m\u011bkou\u010dk\u00fd (n\u011bco co lze zm\u00e1\u010dknout a vr\u00e1t\u00ed se do p\u016fvodn\u00edho tvaru)"
+        "cs": "nad\u00fdchan\u00fd, na\u010dechran\u00fd, hebk\u00fd, m\u011bkou\u010dk\u00fd (n\u011bco co lze zm\u00e1\u010dknout a vr\u00e1t\u00ed se do p\u016fvodn\u00edho tvaru)",
+        "nno": "fluffy, mjuk, elastisk",
+        "nob": "fluffy, myk, elastisk"
       }
     },
     "sama": {
@@ -11427,7 +11431,7 @@
     },
     "soko": {
       "word": "soko",
-      "sitelen_pona": "soko",
+      "sitelen_pona": "soko soko2",
       "ucsur": "U+F1981",
       "sitelen_pona_etymology": "mushroom",
       "sitelen_sitelen": "https://jonathangabel.com/images/t47_tokipona/nimi/t47_nimi_soko.jpg",
@@ -12049,7 +12053,9 @@
         "hr": "ljepljivo, magneti\u010dno; veza, privu\u0107i",
         "io": "glutinema, adherema; magneta, magnetala",
         "ja": "\u7c98\u7740\u6027\u306e\u3001\u78c1\u6c17\u306e; \u304f\u3063\u3064\u3051\u308b\u3001\u5f15\u304d\u3064\u3051\u308b\u3001\u53d6\u308a\u4ed8\u3051\u308b\u3001\u7559\u3081\u308b",
-        "cs": "lepkav\u00fd, magnetick\u00fd; p\u0159itahovat, p\u0159ilepit, p\u0159ipnout"
+        "cs": "lepkav\u00fd, magnetick\u00fd; p\u0159itahovat, p\u0159ilepit, p\u0159ipnout",
+        "nno": "kleimen, magnetisk; \u00e5 binde, tiltrekkje, feste",
+        "nob": "klebrig, magnetisk; \u00e5 binde, tiltrekke, feste"
       }
     },
     "tan": {
@@ -12271,7 +12277,9 @@
         "hr": "(\u010destica koja otvara citat)",
         "io": "(partikulo qua enduktas cito)",
         "ja": "(\u5f15\u7528\u53e5\u306e\u524d\u306b\u304a\u304f\u5c0f\u8a5e)",
-        "cs": "(\u010d\u00e1stice ukon\u010duj\u00edc\u00ed citaci)"
+        "cs": "(\u010d\u00e1stice ukon\u010duj\u00edc\u00ed citaci)",
+        "nno": "(indikerer starten av eit sitat)",
+        "nob": "(indikerer starten av et sitat)"
       }
     },
     "teje": {
@@ -12523,7 +12531,9 @@
         "hr": "(\u010destica koja zatvara citat)",
         "io": "(partikulo qua klozas cito)",
         "ja": "(\u5f15\u7528\u53e5\u306e\u5f8c\u306b\u304a\u304f\u5c0f\u8a5e)",
-        "cs": "(\u010d\u00e1stice uvozuj\u00edc\u00ed citaci)"
+        "cs": "(\u010d\u00e1stice uvozuj\u00edc\u00ed citaci)",
+        "nno": "(indikerer slutten av eit sitat)",
+        "nob": "(indikerer slutten av et sitat)"
       }
     },
     "tokana": {
@@ -13058,7 +13068,9 @@
         "hr": "ljubi\u010dasto",
         "io": "pupura",
         "ja": "\u7d2b\u8272\u306e",
-        "cs": "fialov\u00fd, nachov\u00fd"
+        "cs": "fialov\u00fd, nachov\u00fd",
+        "nno": "lilla, fiolett",
+        "nob": "lilla, fiolett"
       }
     },
     "usawi": {
@@ -13100,7 +13112,9 @@
         "hr": "\u010darolija, \u010darobnja\u0161tvo; za\u010darati; \u010darobno, nadnaravno, okultno, neshvatljivo",
         "io": "magio, sorco; sorcar; magiatro, supernatura, okulta, arkana",
         "ja": "\u9b54\u6cd5\u3001\u9b54\u8853; \u5e7b\u60d1\u3059\u308b; \u9b54\u529b\u306e\u3001\u8d85\u81ea\u7136\u306e\u3001\u795e\u79d8\u306e\u3001\u4e0d\u53ef\u89e3\u306a",
-        "cs": "kouzla, \u010d\u00e1ry, magie, o\u010darovat; nadp\u0159irozen\u00fd, nepochopiteln\u00fd"
+        "cs": "kouzla, \u010d\u00e1ry, magie, o\u010darovat; nadp\u0159irozen\u00fd, nepochopiteln\u00fd",
+        "nno": "magi, trolldom; \u00e5 fortrylle; magisk, overnaturleg, okkult, uforst\u00e5eleg",
+        "nob": "magi, trolldom; \u00e5 fortrylle; magisk, overnaturlig, okkult, uforst\u00e5elig"
       }
     },
     "uta": {
@@ -13260,7 +13274,9 @@
         "hr": "[usklik] zadivljenost ili strahopo\u0161tovanje",
         "io": "(indikas astoneso)",
         "ja": "[\u611f\u5606\u8a5e] (\u754f\u308c\u3084\u9a5a\u6b4e\u3092\u3042\u3089\u308f\u3059)",
-        "cs": "(citoslovce vyjad\u0159uj\u00edc\u00ed \u00fadiv \u010di \u00fa\u017eas)"
+        "cs": "(citoslovce vyjad\u0159uj\u00edc\u00ed \u00fadiv \u010di \u00fa\u017eas)",
+        "nno": "wow! j\u00f8ss! (indikerer age eller forbl\u00f8ffing)",
+        "nob": "wow! j\u00f8ss! (indikerer age eller forbl\u00f8ffelse)"
       }
     },
     "waleja": {
@@ -13884,7 +13900,9 @@
         "uk": "\u0441\u043a\u043b\u0430\u0434\u0438 wu, wo, ji \u0456 ti",
         "da": "at bruge en eller flere af de \"forbudte\" stavelser wu, wo, ji eller ti; at bryde toki pona fonotaktikken",
         "ja": "\u7981\u6b62\u97f3\u7bc0\u3067\u3042\u308b wu, wo, ji, ti \u306e\u3044\u3065\u308c\u304b\u3092\u4f7f\u3046; \u30c8\u30ad\u30dd\u30ca\u306e\u97f3\u7d20\u898f\u5247\u3092\u7834\u308b",
-        "cs": "pou\u017e\u00edvat jednu ze \"zak\u00e1zan\u00fdch\" slabik wu, wo, ji, \u010di ti; poru\u0161ovat z\u00e1sady fonotaktiky Toki Pona"
+        "cs": "pou\u017e\u00edvat jednu ze \"zak\u00e1zan\u00fdch\" slabik wu, wo, ji, \u010di ti; poru\u0161ovat z\u00e1sady fonotaktiky Toki Pona",
+        "nno": "\u00e5 bruke eitt eller fleire av dei forbodne stavingane wu, wo, ji, og ti; \u00e5 bryte med fonotaksen i Toki Pona",
+        "nob": "\u00e5 bruke ett eller flere av de forbudte stavelsene wu, wo, ji, og ti; \u00e5 bryte med fonotaksen i Toki Pona"
       }
     },
     "yupekosi": {
@@ -13927,7 +13945,9 @@
         "hr": "preraditi prija\u0161nja stvarala\u010dka djela i time ih upropastiti",
         "io": "kondutar simile George Lucas e ruinas vua kreanta kompozi kun revizado",
         "ja": "\u30b8\u30e7\u30fc\u30b8\u30fb\u30eb\u30fc\u30ab\u30b9\u306e\u3088\u3046\u306b\u3001\u81ea\u8eab\u306e\u6614\u306e\u5275\u4f5c\u7269\u3092\u30ea\u30e1\u30a4\u30af\u3057\u3066\u6539\u60aa\u3059\u308b",
-        "cs": "upravit d\u00edlo k hor\u0161\u00edmu (jako t\u0159eba George Lucas)"
+        "cs": "upravit d\u00edlo k hor\u0161\u00edmu (jako t\u0159eba George Lucas)",
+        "nno": "\u00e5 oppf\u00f8re seg som George Lucas ved \u00e5 revidere sine tidligere kreative verk og ende opp med \u00e5 forverre dei",
+        "nob": "\u00e5 oppf\u00f8re seg som George Lucas ved \u00e5 revidere sine tidligere kreative verk og ende opp med \u00e5 forverre dem"
       }
     },
     "yutu": {
