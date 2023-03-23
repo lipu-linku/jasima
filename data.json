@@ -390,6 +390,21 @@
         "core": "100"
       }
     },
+    "nl": {
+      "id_long": "dutch",
+      "name_endonym": "Nederlands",
+      "name_english": "Dutch",
+      "name_toki_pona": "toki Netelan",
+      "credits": "jan Jelo, jan Kasape",
+      "completeness_percent": {
+        "obscure": "28",
+        "rare": "45",
+        "uncommon": "50",
+        "common": "53",
+        "widespread": "55",
+        "core": "59"
+      }
+    },
     "nno": {
       "id_long": "norwegian_nynorsk",
       "name_endonym": "Norsk (Nynorsk)",
@@ -754,7 +769,8 @@
         "cs": "(zd\u016frazn\u011bn\u00ed, emocion\u00e1ln\u00ed podkres \u010di potvrzen\u00ed)",
         "nno": "(indikerer understreking, f\u00f8lelse, eller stadfesting)",
         "nob": "(indikerer understreking, f\u00f8lelse, eller bekreftelse)",
-        "lt": "(Jaustukas)"
+        "lt": "(Jaustukas)",
+        "nl": "(nadruk, bevestiging of emotie)"
       }
     },
     "aka": {
@@ -858,7 +874,8 @@
         "cs": "nehezk\u00e9 zv\u00ed\u0159e; plaz, oboj\u017eiveln\u00edk",
         "nno": "reptil, amfibium",
         "nob": "reptil, amfibium",
-        "lt": "Roplys, varliagyvis"
+        "lt": "Roplys, varliagyvis",
+        "nl": "reptiel, amfibie"
       }
     },
     "ako": {
@@ -952,7 +969,8 @@
         "cs": "ne, nikoliv, nula; [~ ala ~] (pro konstrukci ot\u00e1zky \"ano-ne\"); nic",
         "nno": "nei, ikkje, null; (brukast til \u00e5 formulere ja-nei-sp\u00f8rsm\u00e5l); ingenting",
         "nob": "nei, ikke, null; (brukes til \u00e5 formulere ja-nei-sp\u00f8rsm\u00e5l); ingenting",
-        "lt": "ne, n\u0117ra, niekas, nulis, da\u017eniausiai naudojamas taip ar ne klausimuose"
+        "lt": "ne, n\u0117ra, niekas, nulis, da\u017eniausiai naudojamas taip ar ne klausimuose",
+        "nl": "nee, niet; niets, nul; [~ ala ~](geeft een ja-neevraag aan)"
       }
     },
     "alasa": {
@@ -1021,7 +1039,8 @@
         "cs": "lovit, sb\u00edrat, hledat | ALT (p\u0159edsl.) zkusit, pokusit se",
         "nno": "\u00e5 jakte, sanke, s\u00f8kje | ALT (pv.) \u00e5 pr\u00f8ve, fors\u00f8kje",
         "nob": "\u00e5 jakte, sanke, s\u00f8ke | ALT (pv.) \u00e5 pr\u00f8ve, fors\u00f8ke",
-        "lt": "Med\u017eioti, s\u0117linti, ie\u0161koti maisto | ALT bandyti, stengtis"
+        "lt": "Med\u017eioti, s\u0117linti, ie\u0161koti maisto | ALT bandyti, stengtis",
+        "nl": "zoeken, jagen, verzamelen | ALT (hulpwerkwoord) proberen"
       }
     },
     "ale": {
@@ -1091,7 +1110,8 @@
         "cs": "v\u0161e; hojn\u00fd, vydatn\u00fd, ka\u017ed\u00fd, mnoh\u00fd; hojnost, v\u0161e, \u017eivot, vesm\u00edr; sto | ALT 100",
         "nno": "alle; talrik, dr\u00f8ssevis, tusenvis, rikeleg, overflod; alt, liv, univers | ALT ett hundre",
         "nob": "alle; tallrik, dr\u00f8ssevis, tusenvis, rikelig, overflod; alt, liv, univers | ALT ett hundre",
-        "lt": "Viskas, daug, nesuskai\u010diuojama, gyvyb\u0117, visata | ALT \u0161imtas"
+        "lt": "Viskas, daug, nesuskai\u010diuojama, gyvyb\u0117, visata | ALT \u0161imtas",
+        "nl": "alle, alles, geheel; universum; totaal, compleet; honderd, 100"
       }
     },
     "alente": {
@@ -1289,7 +1309,8 @@
         "cs": "uklonit se, pokorn\u00fd, skromn\u00fd, n\u00edzk\u00fd, z\u00e1visl\u00fd | ALT spodek, spodn\u00ed \u010d\u00e1st, pod, podlaha; n\u00edzk\u00fd, ni\u017e\u0161\u00ed, dol\u016f, dolej\u0161ek",
         "nno": "undergjeven, vendt nedover, audmjuk, bukkande, avhengig | ALT bunn, nedre del, golv; under, lav, ned",
         "nob": "underdanig, vendt nedover, ydmyk, bukkende, avhengig | ALT bunn, nedre del, gulv; under, lav, ned",
-        "lt": "Lenkiasi, \u012f apa\u010di\u0105, kuklus, priklausomas | ALT \u017eemas, \u017eemutinis, grindys, po, apa\u010dia, u\u017epakalis"
+        "lt": "Lenkiasi, \u012f apa\u010di\u0105, kuklus, priklausomas | ALT \u017eemas, \u017eemutinis, grindys, po, apa\u010dia, u\u017epakalis",
+        "nl": "beneden, onder; verlagen; vloer | ALT buigen; verslaan"
       }
     },
     "ante": {
@@ -1356,7 +1377,8 @@
         "cs": "jin\u00fd, zm\u011bn\u011bn\u00fd, r\u016fzn\u00fd",
         "nno": "forskjellig, annleis, annan; forandra, endra",
         "nob": "forskjellig, annerledes, annen; forandret, endret",
-        "lt": "Pasikeit\u0119s, pakeistas, kitoks, kitas"
+        "lt": "Pasikeit\u0119s, pakeistas, kitoks, kitas",
+        "nl": "anders, andere, veranderd, aangepast"
       }
     },
     "anu": {
@@ -1426,7 +1448,8 @@
         "cs": "nebo, \u010di | ALT vybrat, rozhodnout (se)",
         "nno": "eller | ALT velje, avgjere",
         "nob": "eller | ALT velge, avgj\u00f8re",
-        "lt": "ar, arba | ALT pasirink, nuspresk, apsispresk"
+        "lt": "ar, arba | ALT pasirink, nuspresk, apsispresk",
+        "nl": "of | ALT kiezen, beslissen"
       }
     },
     "apeja": {
@@ -1576,7 +1599,8 @@
         "cs": "vytrval\u00fd, zachoval\u00fd, chr\u00e1n\u011bn\u00fd, bezpe\u010dn\u00fd, \u010dekaj\u00edc\u00ed, setrv\u00e1vaj\u00edc\u00ed; (p\u0159edsl.) pokra\u010dovat, zachovat, ponechat",
         "nno": "varig, forvara, verna, trygg, ventande; (pv.) \u00e5 halde fram med",
         "nob": "varig, forvaret, beskyttet, trygg, ventende; (pv.) \u00e5 fortsette \u00e5",
-        "lt": "Laikomas, saugomas, saugus, laukiantis"
+        "lt": "Laikomas, saugomas, saugus, laukiantis",
+        "nl": "wachten, blijven, beveiligen, bewaren, (hulpwerkwoord) doorgaan, behouden"
       }
     },
     "e": {
@@ -1637,7 +1661,8 @@
         "cs": "(p\u0159ed p\u0159\u00edm\u00fdm p\u0159edm\u011btem)",
         "nno": "(brukast foran eit direkte objekt)",
         "nob": "(brukes foran et direkte objekt)",
-        "lt": "(Prie\u0161 nurodom\u0105 \u017eod\u012f)"
+        "lt": "(Prie\u0161 nurodom\u0105 \u017eod\u012f)",
+        "nl": "(voor het lijdend voorwerp)"
       }
     },
     "eki": {
@@ -1739,7 +1764,8 @@
         "cs": "(mezi n\u011bkolika podm\u011bty)",
         "nno": "(brukast mellom fleire subjekt)",
         "nob": "(brukes mellom flere subjekt)",
-        "lt": "(Naudojamas tarp keli\u0173 subjekt\u0173)"
+        "lt": "(Naudojamas tarp keli\u0173 subjekt\u0173)",
+        "nl": "(tussen meerdere onderwerpen)"
       }
     },
     "enko": {
@@ -1899,7 +1925,8 @@
         "cs": "trh, obchod (m\u00edsto i transakce)",
         "nno": "marknad, butikk, basar, handel, transaksjon",
         "nob": "marked, butikk, basar, handel, transaksjon",
-        "lt": "Parduotuv\u0117, turgus, verslo sandoris"
+        "lt": "Parduotuv\u0117, turgus, verslo sandoris",
+        "nl": "winkel, markt, handel, ruilen, kopen, verkopen, transactie"
       }
     },
     "ete": {
@@ -2100,7 +2127,8 @@
         "cs": "v\u011bc, jev, objekt, z\u00e1le\u017eitost",
         "nno": "ting, sak, fenomen, greie, objekt, materie",
         "nob": "ting, sak, fenomen, greie, objekt, materie",
-        "lt": "daiktas, dalykas, objektas, materija, fenomena, rei\u0161kinys"
+        "lt": "daiktas, dalykas, objektas, materija, fenomena, rei\u0161kinys",
+        "nl": "iets, ding, voorwerp, object, spul, materiaal"
       }
     },
     "ike": {
@@ -2168,7 +2196,8 @@
         "cs": "zl\u00fd, \u0161patn\u00fd, negativn\u00ed; nepot\u0159ebn\u00fd, nepodstatn\u00fd | ALT slo\u017eit\u00fd, spletit\u00fd, komplikovan\u00fd",
         "nno": "d\u00e5rleg, negativ; uviktig, irrelevant | ALT komplisert, innvikla, innfl\u00f8kt",
         "nob": "d\u00e5rlig, negativ; uviktig, irrelevant | ALT komplisert, innviklet, innfl\u00f8kt",
-        "lt": "Blogis, blogas, negatyvus, negatyvas, nesvarbus, neaktuolus | ALT sud\u0117tingas"
+        "lt": "Blogis, blogas, negatyvus, negatyvas, nesvarbus, neaktuolus | ALT sud\u0117tingas",
+        "nl": "slecht, negatief, gemeen, verkeerd, tragisch, probleem | ALT ingewikkeld, complex"
       }
     },
     "iki": {
@@ -2280,7 +2309,8 @@
         "cs": "n\u00e1stroj, n\u00e1\u0159ad\u00ed, p\u0159\u00edstroj, za\u0159\u00edzen\u00ed",
         "nno": "verkt\u00f8y, reiskap, instrument, maskin, apparat",
         "nob": "verkt\u00f8y, redskap, instrument, maskin, apparat",
-        "lt": "\u012erankis, ma\u0161ina, \u012frenginys, \u012franga"
+        "lt": "\u012erankis, ma\u0161ina, \u012frenginys, \u012franga",
+        "nl": "gereedschap, instrument, machine, apparaat, technologie"
       }
     },
     "insa": {
@@ -2346,7 +2376,8 @@
         "cs": "st\u0159ed, obsah, vnit\u0159ek, uvnit\u0159, mezi; vnit\u0159nosti, \u017ealudek",
         "nno": "sentrum, innhald, innside, inni, mellom; indre organ, mage",
         "nob": "sentrum, innhold, innside, inni, mellom; indre organ, mage",
-        "lt": "centras, vidus (ka\u017eko), viduje (ka\u017eko), tarp (ka\u017eko), vidaus organas, skrandis"
+        "lt": "centras, vidus (ka\u017eko), viduje (ka\u017eko), tarp (ka\u017eko), vidaus organas, skrandis",
+        "nl": "binnen, in, binnenkant, midden, centrum, tussen; buik, maag"
       }
     },
     "ipi": {
@@ -2549,7 +2580,8 @@
         "cs": "odporn\u00fd, nemravn\u00fd, nehezk\u00fd, ne\u010dist\u00fd, nezdrav\u00fd",
         "nno": "ekkel, stygg, motbydeleg, sjukeleg, giftig, skiten, uhygienisk",
         "nob": "ekkel, stygg, motbydelig, sykelig, giftig, skitten, uhygienisk",
-        "lt": "\u0161lyk\u0161tus, toksi\u0161kas, ne\u0161varus, nepadorus, nehigieni\u0161kas"
+        "lt": "\u0161lyk\u0161tus, toksi\u0161kas, ne\u0161varus, nepadorus, nehigieni\u0161kas",
+        "nl": "vies, smerig, gif, afval, rommel"
       }
     },
     "jaku": {
@@ -2746,7 +2778,8 @@
         "ko": "\uc778\uac04, \uc0ac\ub78c, \ub204\uad70\uac00",
         "cs": "\u010dlov\u011bk, osoba, n\u011bkdo",
         "nno": "menneskje, person, nokon",
-        "nob": "menneske, person, noen"
+        "nob": "menneske, person, noen",
+        "nl": "mens, persoon, iemand, karakter"
       }
     },
     "jans": {
@@ -2932,7 +2965,8 @@
         "cs": "\u017elut\u00fd, na\u017eloutl\u00fd",
         "nno": "gul, gulaktig",
         "nob": "gul, gulaktig",
-        "lt": "(Geltonas, turintis gelton\u0105 atspalv\u012f)"
+        "lt": "(Geltonas, turintis gelton\u0105 atspalv\u012f)",
+        "nl": "geel, geelig, goud"
       }
     },
     "jo": {
@@ -2999,7 +3033,8 @@
         "ko": "\uac00\uc9c0\ub2e4",
         "cs": "m\u00edt, n\u00e9st, obsahovat, dr\u017eet",
         "nno": "\u00e5 ha, bere, halde, innehalde",
-        "nob": "\u00e5 ha, b\u00e6re, holde, inneholde"
+        "nob": "\u00e5 ha, b\u00e6re, holde, inneholde",
+        "nl": "hebben, houden, vasthouden"
       }
     },
     "jonke": {
@@ -3202,7 +3237,8 @@
         "ko": "\ubb3c\uace0\uae30; \ubc14\ub2e4 \ub3d9\ubb3c",
         "cs": "ryba, vodn\u00ed zv\u00ed\u0159e",
         "nno": "fisk, sj\u00f8dyr, skapning som lever i vatn",
-        "nob": "fisk, sj\u00f8dyr, skapning som lever i vann"
+        "nob": "fisk, sj\u00f8dyr, skapning som lever i vann",
+        "nl": "vis, zeedier"
       }
     },
     "kalama": {
@@ -3266,7 +3302,8 @@
         "ko": "\uc18c\ub9ac\ub97c \ub0b4\ub2e4",
         "cs": "vyd\u00e1vat zvuk; p\u0159edn\u00e1\u0161et, mluvit nahlas",
         "nno": "\u00e5 lage lyd; resitere, ytre verbalt",
-        "nob": "\u00e5 lage lyd; resitere, ytre verbalt"
+        "nob": "\u00e5 lage lyd; resitere, ytre verbalt",
+        "nl": "geluid, toon, geluid maken"
       }
     },
     "kalamARR": {
@@ -3389,7 +3426,8 @@
         "ko": "\ub3c4\ucc29\ud558\ub2e4, \uc624\ub2e4, \ubbf8\ub798; (pv.) \uc131\uacf5\ud558\ub2e4, \ubcc0\uc2e0\ud558\ub2e4",
         "cs": "p\u0159\u00edchoz\u00ed, bl\u00ed\u017e\u00edc\u00ed se, budouc\u00ed, p\u0159ivolan\u00fd; (p\u0159edsl.) st\u00e1t se, dok\u00e1zat, zdolat",
         "nno": "komande, fremtidig, p\u00e5kalla; (pv.) \u00e5 verte (til), klare \u00e5, lykkast i",
-        "nob": "kommende, fremtidig, p\u00e5kalt; (pv.) \u00e5 bli (til), klare \u00e5, lykkes i"
+        "nob": "kommende, fremtidig, p\u00e5kalt; (pv.) \u00e5 bli (til), klare \u00e5, lykkes i",
+        "nl": "komen, aankomen, volgende; (hulpwerkwoord) worden, ontstaan; slagen"
       }
     },
     "kamalawala": {
@@ -3635,7 +3673,8 @@
         "ko": "\uc2dd\ubb3c, \ud5c8\ube0c, \ub098\ubb47\uc78e",
         "cs": "rostlina, kv\u011btina, strom; bylina, list",
         "nno": "plante, vegetasjon; urte, blad, lauv",
-        "nob": "plante, vegetasjon; urte, blad, l\u00f8v"
+        "nob": "plante, vegetasjon; urte, blad, l\u00f8v",
+        "nl": "plant, boom, kruid, blad, struik"
       }
     },
     "ke": {
@@ -3743,7 +3782,8 @@
         "ko": "\ud5c8\uc6a9\ub418\ub2e4, \uac00\ub2a5\ud558\ub2e4",
         "cs": "moci, b\u00fdt schopen, m\u00edt povoleno, um\u011bt; mo\u017en\u00fd",
         "nno": "\u00e5 vere i stand til, kunne, kjenne til, ha lov til; mogleg",
-        "nob": "\u00e5 v\u00e6re i stand til, kunne, kjenne til, ha tillatelse til; mulig"
+        "nob": "\u00e5 v\u00e6re i stand til, kunne, kjenne til, ha tillatelse til; mulig",
+        "nl": "kunnen, mogen; mogelijk, toegestaan; kans"
       }
     },
     "kepeken": {
@@ -3806,7 +3846,8 @@
         "ko": "\uc0ac\uc6a9\ud558\ub2e4, \ud568\uaed8",
         "cs": "u\u017e\u00edvat, za pomoci (n\u011b\u010deho)",
         "nno": "\u00e5 bruke; med, ved bruk av",
-        "nob": "\u00e5 bruke; med, ved bruk av"
+        "nob": "\u00e5 bruke; med, ved bruk av",
+        "nl": "gebruiken, met, via, door"
       }
     },
     "kepen": {
@@ -3977,7 +4018,8 @@
         "ja": "\u30a2\u30e9\u30a4\u30b0\u30de\u79d1\u306e\u52d5\u7269\u5168\u822c (\u30a2\u30e9\u30a4\u30b0\u30de\u3001\u30cf\u30ca\u30b0\u30de\u3001\u30ad\u30f3\u30ab\u30b8\u30e5\u30fc\u3001\u30aa\u30ea\u30f3\u30b4\u3001\u30ab\u30b3\u30df\u30b9\u30eb\u306a\u3069) | ALT \u30a4\u30bf\u30c1\u4e0a\u79d1\u306e\u52d5\u7269\u5168\u822c (\u30a2\u30e9\u30a4\u30b0\u30de\u3001\u30a4\u30bf\u30c1\u3001\u30ab\u30ef\u30a6\u30bd\u3001\u30b9\u30ab\u30f3\u30af\u3001\u30ec\u30c3\u30b5\u30fc\u30d1\u30f3\u30c0\u3092\u542b\u3080)",
         "cs": "\u0161elma z \u010deledi medv\u00eddkovit\u00fdch, nap\u0159.: m\u00fdval, nos\u00e1l, kynka\u017eu, \u010di olingu | ALT \u0161elma z \u010deledi lasicovit\u00fdch, nap\u0159.: jezevec, kuna, tcho\u0159, norek",
         "nno": "dyr fr\u00e5 halvbj\u00f8rnfamilien (Procyonidae, td. vaskebj\u00f8rn, olingo, eller viklebj\u00f8rn) | ALT m\u00e5rliknande rovpattedyr (Musteloidea, td. vaskebj\u00f8rn, r\u00f8yskatt, grevling, jerv, oter, stinkdyr, eller raudpanda)",
-        "nob": "dyr fra halvbj\u00f8rnfamilien (Procyonidae, feks. vaskebj\u00f8rn, olingo, eller viklebj\u00f8rn) | ALT m\u00e5rlignende rovpattedyr (Musteloidea, feks. vaskebj\u00f8rn, r\u00f8yskatt, grevling, jerv, oter, stinkdyr, eller r\u00f8dpanda)"
+        "nob": "dyr fra halvbj\u00f8rnfamilien (Procyonidae, feks. vaskebj\u00f8rn, olingo, eller viklebj\u00f8rn) | ALT m\u00e5rlignende rovpattedyr (Musteloidea, feks. vaskebj\u00f8rn, r\u00f8yskatt, grevling, jerv, oter, stinkdyr, eller r\u00f8dpanda)",
+        "nl": "wasbeer"
       }
     },
     "kiki": {
@@ -4094,7 +4136,8 @@
         "ko": "\uacfc\uc77c, \ucc44\uc18c, \ubc84\uc12f",
         "cs": "ovoce, zelenina, houba",
         "nno": "frukt, gr\u00f8nsak, sopp",
-        "nob": "frukt, gr\u00f8nnsak, sopp"
+        "nob": "frukt, gr\u00f8nnsak, sopp",
+        "nl": "fruit, vrucht, groente, paddestoel"
       }
     },
     "kin": {
@@ -4320,7 +4363,8 @@
         "ko": "\ub531\ub531\ud55c \ubb3c\uccb4; \ubc14\uc704, \ub3cc, \uae08\uc18d",
         "cs": "tvrd\u00fd p\u0159edm\u011bt, kov, sk\u00e1la, k\u00e1men",
         "nno": "hard ting, metall, stein",
-        "nob": "hard ting, metall, stein"
+        "nob": "hard ting, metall, stein",
+        "nl": "steen, hard voorwerp, metaal; hard"
       }
     },
     "ko": {
@@ -4383,7 +4427,8 @@
         "ko": "\uc810\ud1a0, \ubc18\uc8fd, \uace0\uccb4 \uac19\uc740 \ubb3c\uc9c8, \uac00\ub8e8",
         "cs": "hl\u00edna, lepkav\u00e1 hmota, t\u011bsto, ka\u0161e, pasta, pr\u00e1\u0161ek",
         "nno": "leire, kleimen form, deig, lim, halvfast form, pulver",
-        "nob": "leire, klebrig form, deig, lim, halvfast form, pulver"
+        "nob": "leire, klebrig form, deig, lim, halvfast form, pulver",
+        "nl": "klei, deeg, poeder, pasta, smeersel"
       }
     },
     "kokosila": {
@@ -4496,7 +4541,8 @@
         "ko": "\uacf5\uae30, \uc228; \uc601\ud63c",
         "cs": "vzduch, dech; podstata, du\u0161e; skryt\u00e1 realita, nevid\u011bn\u00e1 s\u00edla",
         "nno": "luft, pust; essens, \u00e5nd, sjel; skjult r\u00f8yndom",
-        "nob": "luft, pust; essens, \u00e5nd, sjel; skjult virkelighet"
+        "nob": "luft, pust; essens, \u00e5nd, sjel; skjult virkelighet",
+        "nl": "lucht, gas, adem; ziel, betekenis"
       }
     },
     "konsi": {
@@ -4709,7 +4755,8 @@
         "ko": "\uc54c\ub85d\ub2ec\ub85d\ud558\ub2e4 | ALT LGBT+\uc5d0 \uad00\ub828 \uc788\ub2e4",
         "cs": "barevn\u00fd, obarven\u00fd, pestr\u00fd | ALT souvisej\u00edc\u00ed s LGBT+ komunitou",
         "nno": "farga, fargerik, pigmentert, malen | ALT av eller relatert til LHBT+-samfunnet",
-        "nob": "farget, fargerik, pigmentert, malt | ALT av eller relatert til LHBT+-samfunnet"
+        "nob": "farget, fargerik, pigmentert, malt | ALT av eller relatert til LHBT+-samfunnet",
+        "nl": "kleur, kleurrijk, verf, pigment, geverft | ALT lhbti+"
       }
     },
     "kulijo": {
@@ -4855,7 +4902,8 @@
         "ko": "\ucee4\ubba4\ub2c8\ud2f0, \ud68c\uc0ac, \ubaa8\uc784, \ub098\ub77c, \uc0ac\ud68c, \uc885\uc871",
         "cs": "komunita, spole\u010dnost, skupina, n\u00e1rod, kmen",
         "nno": "samfunn, samankomst, gruppe, nasjon, stamme",
-        "nob": "samfunn, sammenkomst, gruppe, nasjon, stamme"
+        "nob": "samfunn, sammenkomst, gruppe, nasjon, stamme",
+        "nl": "groep, gemeenschap, organisatie, verzameling, team"
       }
     },
     "kuntu": {
@@ -4964,7 +5012,8 @@
         "ko": "\uadc0, \ub4e3\ub2e4; \uc9d1\uc911\ud558\ub2e4, (\uba85\ub839\uc744) \ub530\ub974\ub2e4",
         "cs": "ucho; sly\u0161et, poslouchat; poslu\u0161n\u00fd",
         "nno": "\u00f8yre; \u00e5 h\u00f8yre, lytte; vere merksam (p\u00e5), adlyde",
-        "nob": "\u00f8re; \u00e5 h\u00f8re, lytte; v\u00e6re oppmerksom (p\u00e5), adlyde"
+        "nob": "\u00f8re; \u00e5 h\u00f8re, lytte; v\u00e6re oppmerksom (p\u00e5), adlyde",
+        "nl": "oor; horen, luisteren"
       }
     },
     "kutopoma": {
@@ -5058,7 +5107,8 @@
         "ko": "(\ubb38\ub9e5\uacfc \ubcf8 \ubb38\uc7a5 \uc0ac\uc774)",
         "cs": "(mezi dopl\u0148kov\u00fdm spojen\u00edm a hlavn\u00ed v\u011btou)",
         "nno": "(mellom kontekstfrase og hovudsetning)",
-        "nob": "(mellom kontekstfrase og hovedsetning)"
+        "nob": "(mellom kontekstfrase og hovedsetning)",
+        "nl": "(tussen de contextzin en de hoofdzin)"
       }
     },
     "lanpan": {
@@ -5176,7 +5226,8 @@
         "ko": "\uc790\ub2e4, \uc26c\ub2e4",
         "cs": "sp\u00edc\u00ed; sp\u00e1t, odpo\u010d\u00edvat",
         "nno": "\u00e5 sove, kvile",
-        "nob": "\u00e5 sove, hvile"
+        "nob": "\u00e5 sove, hvile",
+        "nl": "slapen, rusten"
       }
     },
     "laso": {
@@ -5241,7 +5292,8 @@
         "ko": "\ud30c\ub791, \ucd08\ub85d",
         "cs": "modr\u00fd, zelen\u00fd",
         "nno": "bl\u00e5, gr\u00f8n",
-        "nob": "bl\u00e5, gr\u00f8nn"
+        "nob": "bl\u00e5, gr\u00f8nn",
+        "nl": "blauw, groen"
       }
     },
     "lawa": {
@@ -5303,7 +5355,8 @@
         "ko": "\uba38\ub9ac, \uc815\uc2e0; \uc81c\uc5b4\ud558\ub2e4, \ub3c4\uc6b0\ub2e4, \uc18c\uc720\ud558\ub2e4, \uacc4\ud68d\ud558\ub2e4, \uaddc\uce59\uc744 \uc815\ud558\ub2e4",
         "cs": "hlava, mysl; ovl\u00e1dat, v\u00e9st, vlastnit, chystat, upravovat, vl\u00e1dnout",
         "nno": "hovud, sinn; \u00e5 kontrollere, dirigere, f\u00f8re, eige, planleggje, regulere, herske",
-        "nob": "hode, sinn; \u00e5 kontrollere, dirigere, lede, eie, planlegge, regulere, herske"
+        "nob": "hode, sinn; \u00e5 kontrollere, dirigere, lede, eie, planlegge, regulere, herske",
+        "nl": "hoofd, hersenen; leider, leiden, regelen, besturen; regel, wet"
       }
     },
     "leko": {
@@ -5422,7 +5475,8 @@
         "ko": "\ucc9c, \uc637, \uba74; \ucee4\ubc84",
         "cs": "pl\u00e1tno, oble\u010den\u00ed, l\u00e1tka, tkanina; schovat, zakr\u00fdt",
         "nno": "t\u00f8y, klede, tekstil; sl\u00f8r, skjul",
-        "nob": "t\u00f8y, kl\u00e6r, tekstil; sl\u00f8r, skjul"
+        "nob": "t\u00f8y, kl\u00e6r, tekstil; sl\u00f8r, skjul",
+        "nl": "kleed, kleding, stof, textiel; bedekking"
       }
     },
     "lete": {
@@ -5485,7 +5539,8 @@
         "ko": "\ucc28\uac11\ub2e4, \uc2dc\uc6d0\ud558\ub2e4; \uc775\uc9c0 \uc54a\uc740",
         "cs": "chladn\u00fd, studen\u00fd; syrov\u00fd",
         "nno": "kald, kj\u00f8lig; r\u00e5, som ikkje er kokt eller stekt",
-        "nob": "kald, kj\u00f8lig; r\u00e5, som ikke er kokt eller stekt"
+        "nob": "kald, kj\u00f8lig; r\u00e5, som ikke er kokt eller stekt",
+        "nl": "koud, kou; onverhit, rauw"
       }
     },
     "li": {
@@ -5542,7 +5597,8 @@
         "ko": "(\"mi\"\uc640 \"sina\"\ub97c \uc81c\uc678\ud55c \ubaa8\ub4e0 \uc8fc\uc5b4\uc640 \ub3d9\uc0ac \uc0ac\uc774; \uac19\uc740 \uc8fc\uc5b4\uc5d0 \ub300\ud574 \uc0c8 \ub3d9\uc0ac\ub97c \ub123\uc744 \ub54c\ub3c4 \uc0ac\uc6a9 \uac00\ub2a5)",
         "cs": "(mezi podm\u011btem [krom\u011b samotn\u00e9ho mi \u010di samotn\u00e9ho sina] a p\u0159\u00edsudkem; t\u00e9\u017e uv\u00e1d\u00ed n\u011bkolikan\u00e1sobn\u00fd p\u0159\u00edsudek)",
         "nno": "(brukast mellom subjekt som ikkje er berre \"mi\" eller berre \"sina\" og verb; introduserer nytt verb for same subjekt)",
-        "nob": "(brukes mellom subjekt som ikke er bare \"mi\" eller bare \"sina\" og verb; introduserer nytt verb for samme subjekt)"
+        "nob": "(brukes mellom subjekt som ikke er bare \"mi\" eller bare \"sina\" og verb; introduserer nytt verb for samme subjekt)",
+        "nl": "(geeft het gezegde aan; komt niet voor als het onderwerp alleen \u2018mi\u2019 of alleen \u2018sina\u2019 is; geeft nieuwe gezegdes aan die bij hetzelfde onderwerp horen)"
       }
     },
     "lijokuku": {
@@ -5680,7 +5736,8 @@
         "ko": "\uc791\ub2e4, \uc9e7\ub2e4; \uc870\uae08; \uc5b4\ub9ac\ub2e4",
         "cs": "mal\u00fd, n\u00edzk\u00fd, kr\u00e1tk\u00fd; m\u00e1lo, trochu, mlad\u00fd",
         "nno": "liten, kort; f\u00e5; litt; yng",
-        "nob": "liten, kort; f\u00e5; litt; ung"
+        "nob": "liten, kort; f\u00e5; litt; ung",
+        "nl": "klein, weinig, een beetje; jong"
       }
     },
     "linja": {
@@ -5744,7 +5801,8 @@
         "ko": "\uae38\uace0 \uc720\uc5f0\ud55c \ubb3c\uccb4; \uba38\ub9ac\uce74\ub77d, \ubc27\uc904, \uc2e4 | ALT \uc120, \uc5f0\uacb0",
         "cs": "dlouh\u00e1 a ohebn\u00e1 v\u011bc; lano, provaz, vlas, nit, vl\u00e1kno | ALT \u010d\u00e1ra, spojen\u00ed",
         "nno": "lang og fleksibel ting; leidning, h\u00e5r, tau, tr\u00e5d, garn | ALT linje, tilkopling",
-        "nob": "lang og fleksibel ting; ledning, h\u00e5r, tau, tr\u00e5d, garn | ALT linje, tilkobling"
+        "nob": "lang og fleksibel ting; ledning, h\u00e5r, tau, tr\u00e5d, garn | ALT linje, tilkobling",
+        "nl": "lang en flexibel ding; haar, draad, snoer, garen | ALT lijn, verbinding"
       }
     },
     "linluwi": {
@@ -5854,7 +5912,8 @@
         "ko": "\ud3c9\ud3c9\ud55c \ubb3c\uccb4; \ucc45, \ubb38\uc11c, \uce74\ub4dc, \uc885\uc774, \uae30\ub85d, \uc6f9\uc0ac\uc774\ud2b8",
         "cs": "ploch\u00fd p\u0159edm\u011bt; kniha, dokument, karta, list pap\u00edru, z\u00e1znam, str\u00e1nka (pap\u00edrov\u00e1 i webov\u00e1)",
         "nno": "flat ting; bok, dokument, kort, papir, fil, nettside",
-        "nob": "flat ting; bok, dokument, kort, papir, fil, nettside"
+        "nob": "flat ting; bok, dokument, kort, papir, fil, nettside",
+        "nl": "plat ding; blad, vel, pagina, document, boek, webpagina"
       }
     },
     "lo": {
@@ -5953,7 +6012,8 @@
         "ko": "\ube68\uac15, \ubd88\uadf8\uc2a4\ub984\ud55c",
         "cs": "\u010derven\u00fd, na\u010dervenal\u00fd",
         "nno": "raud, raudleg",
-        "nob": "r\u00f8d, r\u00f8dlig"
+        "nob": "r\u00f8d, r\u00f8dlig",
+        "nl": "rood"
       }
     },
     "loka": {
@@ -6102,7 +6162,8 @@
         "ko": "\uc5b4\ub5a4 \uacf3\uc5d0 \uc788\ub2e4, \uc9c4\uc9dc, \ub9de\ub2e4, \uc874\uc7ac\ud558\ub2e4 | ALT (\uae0d\uc815\uc801\uc778 \ub2f5\ubcc0)",
         "cs": "um\u00edst\u011bn\u00fd n\u011bkde, b\u00fdt v/na, skute\u010dn\u00fd, opravdov\u00fd, jsouc\u00ed | ALT (souhlas)",
         "nno": "lokalisert i, finnast i, r\u00f8ynleg, sann, eksisterande | ALT (stadfestande svar)",
-        "nob": "lokalisert i, tilstede i, virkelig, sann, eksisterende | ALT (bekreftende svar)"
+        "nob": "lokalisert i, tilstede i, virkelig, sann, eksisterende | ALT (bekreftende svar)",
+        "nl": "in, bij, echt, waar, bestaand, bevindend | ALT (bevestigende reactie)"
       }
     },
     "lu": {
@@ -6202,7 +6263,8 @@
         "ko": "\ud314, \uc190; \ub2e4\uc12f | \ub9cc\uc9c0\ub2e4/\ub290\ub07c\ub2e4, \ub204\ub974\ub2e4",
         "cs": "ruka, dla\u0148, hmatov\u00fd org\u00e1n; p\u011bt | ALT dotknout se, s\u00e1hnout, p\u016fsobit na, tla\u010dit",
         "nno": "arm, hand, taktilt sanseorgan; fem | ALT r\u00f8re/f\u00f8le fysisk, interagere med, trykkje",
-        "nob": "arm, h\u00e5nd, taktilt sanseorgan; fem | ALT r\u00f8re/f\u00f8le fysisk, interagere med, trykke"
+        "nob": "arm, h\u00e5nd, taktilt sanseorgan; fem | ALT r\u00f8re/f\u00f8le fysisk, interagere med, trykke",
+        "nl": "arm, hand; vijf | ALT aanraken, fysiek voelen, indrukken"
       }
     },
     "lukin": {
@@ -6268,7 +6330,8 @@
         "ko": "\ub208; \ubcf4\ub2e4, \uc870\uc0ac\ud558\ub2e4, \uad00\ucc30\ud558\ub2e4, \uc77d\ub2e4, \uc9c0\ucf1c\ubcf4\ub2e4; \ucc3e\ub2e4; (pv.) \ub178\ub825\ud558\ub2e4",
         "cs": "oko; koukat na, vid\u011bt, prohl\u00ed\u017eet, pozorovat, \u010d\u00edst, sledovat; hledat, p\u00e1trat; (p\u0159edsl.) zkusit",
         "nno": "auge; \u00e5 sj\u00e5 (p\u00e5), unders\u00f8kje, observere, lese; sj\u00e5 etter, s\u00f8kje, lete; (pv.) pr\u00f8ve \u00e5, fors\u00f8kje \u00e5",
-        "nob": "\u00f8ye; \u00e5 se (p\u00e5), unders\u00f8ke, observere, lese; se etter, s\u00f8ke, lete; (pv.) pr\u00f8ve \u00e5, fors\u00f8ke \u00e5"
+        "nob": "\u00f8ye; \u00e5 se (p\u00e5), unders\u00f8ke, observere, lese; se etter, s\u00f8ke, lete; (pv.) pr\u00f8ve \u00e5, fors\u00f8ke \u00e5",
+        "nl": "oog; zien, kijken, onderzoeken, observeren, lezen; zoeken; (als hulpwerkwoord) proberen te"
       }
     },
     "lupa": {
@@ -6331,7 +6394,8 @@
         "ko": "\ubb38, \uad6c\uba4d, \ucc3d\ubb38",
         "cs": "dve\u0159e, d\u00edra, otvor, okno",
         "nno": "d\u00f8r, hol, opning, vindu",
-        "nob": "d\u00f8r, hull, \u00e5pning, vindu"
+        "nob": "d\u00f8r, hull, \u00e5pning, vindu",
+        "nl": "gat, deur, raam"
       }
     },
     "ma": {
@@ -6394,7 +6458,8 @@
         "ko": "\uc9c0\uad6c, \ub545; \uc2e4\uc678, \uc138\uacc4; \ub098\ub77c; \ud759",
         "cs": "zem\u011b, p\u016fda; venku, sv\u011bt; st\u00e1t, \u00fazem\u00ed; zemina, hl\u00edna",
         "nno": "jord, land, mark; utad\u00f8rs, verd; rike, territorium; mold, matjord",
-        "nob": "jord, land, mark; utend\u00f8rs, verden; rike, territorium; mold, matjord"
+        "nob": "jord, land, mark; utend\u00f8rs, verden; rike, territorium; mold, matjord",
+        "nl": "aarde, land, buiten, wereld; natiestaat, territorium; grond (aarde)"
       }
     },
     "majuna": {
@@ -6510,7 +6575,8 @@
         "ko": "\ubd80\ubaa8, \uc870\uc0c1; \ucc3d\uc870\uc790; \ubcf4\ud638\uc790, \uc720\uc9c0\uc790",
         "cs": "rodi\u010d, p\u0159edek; tv\u016frce; spr\u00e1vce, opatrovn\u00edk",
         "nno": "forelder, forfar, stamfar; skapar, utgjevar; fors\u00f8rgjar, f\u00f8resett",
-        "nob": "forelder, forfader, stamfar; skaper, utgiver; bes\u00f8rger, foresatt"
+        "nob": "forelder, forfader, stamfar; skaper, utgiver; bes\u00f8rger, foresatt",
+        "nl": "ouder, vader, moeder; oorsprong, bron; verzorger, onderhouder"
       }
     },
     "mani": {
@@ -6573,7 +6639,8 @@
         "ko": "\ub3c8, \ud604\uae08, \uc800\uae08, \uc7ac\uc0b0; \ud070 \uac00\ucd95 \ub3d9\ubb3c",
         "cs": "pen\u00edze, hotovost, \u00faspory, bohatstv\u00ed; dobytek",
         "nno": "pengar, kontantar, formue, rikdom; fe, stort husdyr",
-        "nob": "penger, kontanter, formue, rikdom; fe, stort husdyr"
+        "nob": "penger, kontanter, formue, rikdom; fe, stort husdyr",
+        "nl": "geld, rijkdom; vee"
       }
     },
     "meli": {
@@ -6804,7 +6871,8 @@
         "ko": "\ub098, \uc6b0\ub9ac",
         "cs": "j\u00e1, my, moje, na\u0161e",
         "nno": "eg, meg, vi, oss",
-        "nob": "jeg, meg, vi, oss"
+        "nob": "jeg, meg, vi, oss",
+        "nl": "ik, mij, wij, ons"
       }
     },
     "mije": {
@@ -7081,7 +7149,8 @@
         "ko": "\uc74c\uc2dd, \ub9c8\uc2dc\ub2e4, \uc12d\ucde8\ud558\ub2e4, \uc0bc\ud0a4\ub2e4, \uc18c\ud654\ud558\ub2e4",
         "cs": "j\u00edst, p\u00edt, str\u00e1vit, polknout, po\u017e\u00edt",
         "nno": "\u00e5 spise, drikke, forbruke, svelgje, ta inn",
-        "nob": "\u00e5 spise, drikke, forbruke, svelge, innta"
+        "nob": "\u00e5 spise, drikke, forbruke, svelge, innta",
+        "nl": "eten, drinken, innemen, slikken"
       }
     },
     "moli": {
@@ -7145,7 +7214,8 @@
         "ko": "\uc8fd\ub2e4, \uc8fd\uc74c",
         "cs": "mrtv\u00fd, um\u0159\u00edt",
         "nno": "daud, d\u00f8yande",
-        "nob": "d\u00f8d, d\u00f8ende"
+        "nob": "d\u00f8d, d\u00f8ende",
+        "nl": "dood, sterven, doden"
       }
     },
     "molusa": {
@@ -7241,7 +7311,8 @@
         "ko": "\ub4f1, \ub4a4",
         "cs": "z\u00e1da, vzadu, za",
         "nno": "bak, bakende, rygg, rauv",
-        "nob": "bak, bakdel, rygg, r\u00e6v"
+        "nob": "bak, bakdel, rygg, r\u00e6v",
+        "nl": "achterkant"
       }
     },
     "monsuta": {
@@ -7361,7 +7432,8 @@
         "ko": "(\ub3d9\ubb3c\uc758 \uc18c\ub9ac) | ALT (\ub9d0\uc774 \uc544\ub2cc \uc18c\ub9ac)",
         "cs": "(zv\u00ed\u0159ec\u00ed zvuky \u010di dorozum\u00edv\u00e1n\u00ed) | ALT (citoslovce)",
         "nno": "(lyd eller kommunikasjon fr\u00e5 dyr) | ALT (ikkje-spr\u00e5kleg vokalisering)",
-        "nob": "(lyd eller kommunikasjon fra dyr) | ALT (ikke-spr\u00e5klig vokalisering)"
+        "nob": "(lyd eller kommunikasjon fra dyr) | ALT (ikke-spr\u00e5klig vokalisering)",
+        "nl": "(dierengeluid of -communicatie)"
       }
     },
     "mulapisu": {
@@ -7475,7 +7547,8 @@
         "ko": "\ub2ec, \ubc24\ud558\ub298\uc758 \ubb3c\uccb4, \ubcc4 | ALT \ube5b",
         "cs": "m\u011bs\u00edc, no\u010dn\u00ed nebesk\u00e9 t\u011bleso, hv\u011bzda | ALT z\u00e1\u0159e, tlumen\u00e9 sv\u011btlo",
         "nno": "m\u00e5ne, objekt p\u00e5 nattehimmelen | ALT gl\u00f8d, gl\u00f8delys, lys i m\u00f8rket",
-        "nob": "m\u00e5ne, objekt p\u00e5 nattehimmelen | ALT gl\u00f8d, gl\u00f8delys, lys i m\u00f8rket"
+        "nob": "m\u00e5ne, objekt p\u00e5 nattehimmelen | ALT gl\u00f8d, gl\u00f8delys, lys i m\u00f8rket",
+        "nl": "maan, ster, ding dat \u2019s nachts in de lucht is | ALT gloeien"
       }
     },
     "musi": {
@@ -7536,7 +7609,8 @@
         "ko": "\uc608\uc220\uc801\uc778, \uc7ac\ubbf8\uc788\ub294, \ud574\ub9d1\uc740",
         "cs": "z\u00e1bavn\u00fd, rozpustil\u00fd, hrav\u00fd, odpo\u010dinkov\u00fd, vztahuj\u00edc\u00ed se k um\u011bn\u00ed",
         "nno": "kunstnarleg, artistisk, underhaldande, lettsindig, leikande, rekreasjonell",
-        "nob": "kunsterisk, artistisk, underholdende, lettsindig, lekende, rekreasjonell"
+        "nob": "kunsterisk, artistisk, underholdende, lettsindig, lekende, rekreasjonell",
+        "nl": "leuk, kunstig, vermakelijk, speels"
       }
     },
     "mute": {
@@ -7598,7 +7672,8 @@
         "ko": "\ub9ce\uc740, \ub354, \uac1c\uc218 | ALT 3 \uc774\uc0c1\uc758 \uc22b\uc790, \uc2a4\ubb3c",
         "cs": "mnoho, spoustu, v\u00edce, hodn\u011b, n\u011bkolik, velmi; mno\u017estv\u00ed | ALT t\u0159i (a v\u00edce), 20",
         "nno": "mange, mykje, meir, i fleirtal; s\u00e6rs; mengd | ALT tre eller fleire; tjue",
-        "nob": "mange, mye, mer, i flertall; veldig; mengde | ALT tre eller flere; tjue"
+        "nob": "mange, mye, mer, i flertall; veldig; mengde | ALT tre eller flere; tjue",
+        "nl": "veel, meerdere, hoeveelheid; heel erg | ALT drie of meer, 20"
       }
     },
     "n": {
@@ -7795,7 +7870,8 @@
         "ko": "-\ubc88\uc9f8; \uc22b\uc790",
         "cs": "n-t\u00fd (\u0159adov\u00e1 \u010d\u00edslovka); \u010d\u00edslo",
         "nno": "tal, nummer (ogs\u00e5 som ordenstal)",
-        "nob": "tall, nummer (ogs\u00e5 som ordenstall)"
+        "nob": "tall, nummer (ogs\u00e5 som ordenstall)",
+        "nl": "getal, cijfer, nummer; (geeft rangtelwoord aan)"
       }
     },
     "nasa": {
@@ -7856,7 +7932,8 @@
         "ko": "\uc774\uc0c1\ud55c; \uc220\uc5d0 \ucde8\ud55c",
         "cs": "nezvykl\u00fd, podivn\u00fd, bl\u00e1zniv\u00fd; opil\u00fd, om\u00e1men\u00fd",
         "nno": "uvanleg, rar; teit, dum; full, p\u00e5virka",
-        "nob": "uvanlig, rar; teit, dum; full, p\u00e5virket"
+        "nob": "uvanlig, rar; teit, dum; full, p\u00e5virket",
+        "nl": "raar, vreemd, ongewoon, gek; dronken"
       }
     },
     "nasin": {
@@ -7917,7 +7994,8 @@
         "ko": "\ubc29\ubc95, \ubc29\ud5a5, \uae38",
         "cs": "zp\u016fsob, zvyk, metoda, cesta, silnice",
         "nno": "m\u00e5te, skikk, doktrine, metode; veg, sti",
-        "nob": "m\u00e5te, skikk, doktrine, metode; vei, sti"
+        "nob": "m\u00e5te, skikk, doktrine, metode; vei, sti",
+        "nl": "weg, pad, straat; manier, wijze, methode, gewoonte"
       }
     },
     "natu": {
@@ -8099,7 +8177,8 @@
         "ko": "\ud639, \ub2e8\ucd94, \uc5b8\ub355, \ucf54",
         "cs": "tla\u010d\u00edtko, hrbolek, kopec, hora, nos, v\u00fd\u010dn\u011blek",
         "nno": "hump, knapp, \u00e5s, fjell, nese, utvekst",
-        "nob": "hump, knapp, \u00e5s, fjell, nese, utvekst"
+        "nob": "hump, knapp, \u00e5s, fjell, nese, utvekst",
+        "nl": "hobbel, heuvel, berg, uitsteeksel; neus; knoop, knop"
       }
     },
     "ni": {
@@ -8162,7 +8241,8 @@
         "ko": "\uc774\uac83, \uc800\uac83, \uadf8\uac83",
         "cs": "to, toto, tamto",
         "nno": "det, dette",
-        "nob": "det, dette"
+        "nob": "det, dette",
+        "nl": "dit, dat"
       }
     },
     "nimi": {
@@ -8225,7 +8305,8 @@
         "ko": "\uc774\ub984, \ub0b1\ub9d0",
         "cs": "jm\u00e9no, slovo",
         "nno": "namn, ord",
-        "nob": "navn, ord"
+        "nob": "navn, ord",
+        "nl": "naam, woord"
       }
     },
     "nimisin": {
@@ -8357,7 +8438,8 @@
         "ko": "\ubc1c, \ub2e4\ub9ac; \uc544\ub7ab\ubd80\ubd84",
         "cs": "noha, chodidlo, pohybov\u00e1 kon\u010detina; spodn\u00ed, doln\u00ed",
         "nno": "fot, bein, ganglem; botn, nedre del",
-        "nob": "fot, bein, ganglem; bunn, nedre del"
+        "nob": "fot, bein, ganglem; bunn, nedre del",
+        "nl": "voet, been, trap"
       }
     },
     "nu": {
@@ -8456,7 +8538,8 @@
         "ko": "\uc57c!",
         "cs": "hej! (osloven\u00ed, rozkaz, pob\u00eddnut\u00ed)",
         "nno": "hei! \u00e5! (vokativ, imperativ, eller optativ)",
-        "nob": "hei! \u00e5! (vokativ, imperativ, eller optativ)"
+        "nob": "hei! \u00e5! (vokativ, imperativ, eller optativ)",
+        "nl": "hee! oh! (vocatief, bevel, wens)"
       }
     },
     "ojuta": {
@@ -8728,7 +8811,8 @@
         "ko": "\uc0ac\ub791, \uc874\uacbd",
         "cs": "l\u00e1ska, souc\u00edtit, v\u00e1\u017eit si, projevovat n\u00e1klonnost",
         "nno": "elske, ha medkjensle med, respektere, vise kj\u00e6rleik for",
-        "nob": "elske, medlide, respektere, vise kj\u00e6rlighet for"
+        "nob": "elske, medlide, respektere, vise kj\u00e6rlighet for",
+        "nl": "liefde, compassie, respect, liefhebben"
       }
     },
     "omekalike": {
@@ -8911,7 +8995,8 @@
         "ko": "\uadf8, \uadf8\ub140, \uadf8\uac83, \uadf8\ub4e4",
         "cs": "on, ona, ono, oni, ony",
         "nno": "han, ho, hen, den, det, dei",
-        "nob": "han, hun, hen, den, det, de"
+        "nob": "han, hun, hen, den, det, de",
+        "nl": "hij, zij, het, hen, die, zij"
       }
     },
     "oni": {
@@ -9010,7 +9095,8 @@
         "ko": "\uc2dc\uc791\ud558\ub2e4; \uc5f4\ub2e4; \ucf1c\ub2e4",
         "cs": "za\u010d\u00edt; otev\u0159\u00edt; zapnout",
         "nno": "byrje, starte; opne; skru p\u00e5",
-        "nob": "begynne, starte; \u00e5pne; skru p\u00e5"
+        "nob": "begynne, starte; \u00e5pne; skru p\u00e5",
+        "nl": "begin, start; open; aanzetten"
       }
     },
     "owe": {
