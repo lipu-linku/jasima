@@ -397,12 +397,12 @@
       "name_toki_pona": "toki Netelan",
       "credits": "jan Jelo, jan Kasape",
       "completeness_percent": {
-        "obscure": "35",
-        "rare": "56",
-        "uncommon": "62",
-        "common": "66",
-        "widespread": "69",
-        "core": "74"
+        "obscure": "36",
+        "rare": "59",
+        "uncommon": "65",
+        "common": "70",
+        "widespread": "73",
+        "core": "78"
       }
     },
     "nno": {
@@ -11055,7 +11055,8 @@
         "ja": "\u4e0a\u65b9\u3001\u6700\u4e0a\u90e8\u3001\u9ad8\u3044\u3001\u7a7a; \u754f\u656c\u3059\u3079\u304d\u3001\u795e\u306e\u3001\u795e\u8056\u306a\u3001\u8d85\u81ea\u7136\u306e",
         "cs": "v\u00fd\u0161e, nad, nejvy\u0161\u0161\u00ed \u010d\u00e1st, n\u011bco na vrchu; vzne\u0161en\u00fd, bo\u017esk\u00fd, svat\u00fd, nadp\u0159irozen\u00fd",
         "nno": "over, overdel, topp, opph\u00f8gd; vyrdeleg, guddomleg, heilag, overnaturleg",
-        "nob": "over, overdel, topp, opph\u00f8yet; \u00e6rverdig, guddommelig, hellig, overnaturlig"
+        "nob": "over, overdel, topp, opph\u00f8yet; \u00e6rverdig, guddommelig, hellig, overnaturlig",
+        "nl": "boven, hoogste deel, verhoogd; bewonderingswaardig, heilig, bovennatuurlijk"
       }
     },
     "sijelo": {
@@ -11114,7 +11115,8 @@
         "ja": "(\u4eba\u3084\u52d5\u7269\u306e) \u8eab\u4f53\u3001\u8089\u4f53\u3001\u7269\u7406\u7684\u72b6\u614b\u3001\u80f4\u4f53",
         "cs": "t\u011blo, trup, t\u011blesn\u00fd, hmotn\u00fd, fyzick\u00fd",
         "nno": "kropp (av person eller dyr), fysisk form, overkropp",
-        "nob": "kropp (av person eller dyr), fysisk form, overkropp"
+        "nob": "kropp (av person eller dyr), fysisk form, overkropp",
+        "nl": "lichaam (van persoon of dier), fysieke toestand, bovenlichaam"
       }
     },
     "sike": {
@@ -11173,7 +11175,8 @@
         "ja": "\u5186\u3044\u3082\u306e\u3001\u5faa\u74b0\u3059\u308b\u3082\u306e; \u30dc\u30fc\u30eb\u3001\u7403\u3001\u5186\u3001\u5468\u671f\u3001\u8f2a; \u4e00\u5e74\u306e",
         "cs": "kulat\u00fd p\u0159edm\u011bt; m\u00ed\u010d, kruh, kolo, koule; ro\u010dn\u00ed",
         "nno": "rund eller sirkul\u00e6r ting; ball, sirkel, kule, hjul; eitt \u00e5r",
-        "nob": "rund eller sirkul\u00e6r ting; ball, sirkel, kule, hjul; ett \u00e5r"
+        "nob": "rund eller sirkul\u00e6r ting; ball, sirkel, kule, hjul; ett \u00e5r",
+        "nl": "rond ding; bal, cirkel, kring, bol, wiel; jaar"
       }
     },
     "sikomo": {
@@ -11277,7 +11280,8 @@
         "ja": "\u65b0\u3057\u3044\u3001\u65b0\u9bae\u306a\u3001\u3067\u304d\u305f\u3066\u306e; \u8ffd\u52a0\u306e\u3001\u3055\u3089\u306a\u308b\u3001\u4f59\u5206\u306e",
         "cs": "nov\u00fd, \u010derstv\u00fd; dodate\u010dn\u00fd, dal\u0161\u00ed",
         "nno": "ny, fersk; i tillegg, enda ein, ekstra",
-        "nob": "ny, fersk; i tillegg, enda en, ekstra"
+        "nob": "ny, fersk; i tillegg, enda en, ekstra",
+        "nl": "nieuw, vers; toevoeging, aanvullend, extra"
       }
     },
     "sina": {
@@ -11340,7 +11344,8 @@
         "ja": "\u3042\u306a\u305f\u3001\u3042\u306a\u305f\u304c\u305f",
         "cs": "ty, vy",
         "nno": "du",
-        "nob": "du"
+        "nob": "du",
+        "nl": "jij, jullie, u"
       }
     },
     "sinpin": {
