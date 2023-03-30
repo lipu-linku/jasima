@@ -14156,7 +14156,8 @@
       "name_short": "CraftyPE",
       "writing_system": "sitelen pona",
       "links": {
-        "fontfile": "https://cdn.discordapp.com/attachments/952797418381000806/1079225611832283166/CraftyPE.otf"
+        "fontfile": "https://github.com/ParanormalChicken/CraftyPE/blob/main/CraftyPE.otf?raw=true",
+        "repo": "https://github.com/ParanormalChicken/CraftyPE"
       },
       "creator": "ParanormalChicken / Erek Butcher",
       "license": "OFL",
@@ -14714,6 +14715,20 @@
       "filename": "seta-sans.otf",
       "style": "uniform line weight",
       "features": "-"
+    },
+    "Sevenish": {
+      "name_short": "Sevenish",
+      "writing_system": "sitelen pona",
+      "links": {
+        "fontfile": "https://saucedlx.neocities.org/Sevenish.otf"
+      },
+      "creator": "Nico \"SauceDLX\"",
+      "license": "MIT",
+      "version": "1.0",
+      "last_updated": "2023-03",
+      "filename": "sevenish.otf",
+      "style": "pixelated",
+      "features": "codepoints only, supports ku suli and the rest of the UCSUR characters"
     },
     "sike en linja": {
       "name_short": "sike en linja",
