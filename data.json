@@ -397,9 +397,9 @@
       "name_toki_pona": "toki Netelan",
       "credits": "jan Jelo, jan Kasape",
       "completeness_percent": {
-        "obscure": "52",
-        "rare": "85",
-        "uncommon": "94",
+        "obscure": "67",
+        "rare": "100",
+        "uncommon": "100",
         "common": "100",
         "widespread": "100",
         "core": "100"
@@ -1500,7 +1500,8 @@
         "ja": "\u6065\u3001\u7f6a\u60aa\u611f\u3001\u5fcc\u907f\u3001\u6c5a\u540d\u3001\u4e0d\u540d\u8a89; \u8cac\u3081\u308b\u3001\u7cfe\u5f3e\u3059\u308b\u3001\u66b4\u9732\u3059\u308b\u3001\u8fb1\u3081\u308b\u3001\u56f0\u3089\u305b\u308b",
         "cs": "vina, stud, hanba, nemilost; obvinit, odhalit, zostudit, uv\u00e9st do rozpak\u016f",
         "nno": "skuld, ford\u00f8mming, skam, stigma, van\u00e6re; \u00e5 skulde, ford\u00f8mme, utst\u00f8yte, skjemme, van\u00e6re",
-        "nob": "skyld, ford\u00f8mmelse, skam, stigma, van\u00e6re; \u00e5 beskylde, ford\u00f8mme, utst\u00f8te, skjemme, van\u00e6re"
+        "nob": "skyld, ford\u00f8mmelse, skam, stigma, van\u00e6re; \u00e5 beskylde, ford\u00f8mme, utst\u00f8te, skjemme, van\u00e6re",
+        "nl": "schuld, schaamte, spijt; beschuldigen"
       }
     },
     "awase": {
@@ -1857,7 +1858,8 @@
         "ja": "\u3059\u3054\u3044\u3001\u3059\u3066\u304d\u3001\u304b\u3063\u3053\u3044\u3044\u3001\u3059\u3070\u3089\u3057\u3044",
         "cs": "impozantn\u00ed, super, cool, hust\u00fd, epick\u00fd",
         "nno": "legendarisk, kult, fantastisk, utruleg, ageleg",
-        "nob": "legendarisk, kult, fantastisk, utrolig, storsl\u00e5tt"
+        "nob": "legendarisk, kult, fantastisk, utrolig, storsl\u00e5tt",
+        "nl": "tof, geweldig, episch"
       }
     },
     "esun": {
@@ -2472,7 +2474,8 @@
         "ja": "\u8003\u3048\u308b\u3001\u60f3\u50cf\u3059\u308b\u3001\u4fe1\u3058\u308b\u3001\u601d\u3044\u51fa\u3059; \u8003\u3048\u3001\u30a2\u30a4\u30c7\u30a3\u30a2",
         "cs": "myslet, p\u0159em\u00fd\u0161let, zva\u017eovat, soudit",
         "nno": "\u00e5 tenkje, brainstorme, rasjonalisere, konkludere, undre",
-        "nob": "\u00e5 tenke, brainstorme, rasjonalisere, konkludere, undre"
+        "nob": "\u00e5 tenke, brainstorme, rasjonalisere, konkludere, undre",
+        "nl": "denken, brainstormen, rationaliseren, concluderen, overwegen"
       }
     },
     "itomi": {
@@ -2863,7 +2866,8 @@
         "ja": "\u53cd\u5c04\u3059\u308b\u3001\u53cd\u97ff\u3059\u308b\u3001\u6620\u3059\u3001\u76f8\u5bfe\u3059\u308b\u3001\u5bfe\u6975\u7684\u306a",
         "cs": "odr\u00e1\u017eet, zrcadlit, b\u00fdt p\u0159esn\u011b naopak",
         "nno": "\u00e5 reflektere, spegle, vere p\u00e5 motsett side av",
-        "nob": "\u00e5 reflektere, speile, v\u00e6re p\u00e5 motsatt side av"
+        "nob": "\u00e5 reflektere, speile, v\u00e6re p\u00e5 motsatt side av",
+        "nl": "reflecteren, spiegel; tegenovergesteld"
       }
     },
     "je": {
@@ -3107,7 +3111,8 @@
         "da": "(ord reserveret til fremtidig brug af Sonja Lang)",
         "hr": "(Sonja Lang je rezervirala ovu rije\u010d i trenuta\u010dno nema zna\u010denja)",
         "ja": "(\u30bd\u30cb\u30e3\u30fb\u30e9\u30f3\u30b0\u6c0f\u306e\u4eca\u5f8c\u306e\u5229\u7528\u306e\u305f\u3081\u78ba\u4fdd\u3055\u308c\u308b\u5358\u8a9e)",
-        "cs": "(slovo zamluven\u00e9 Sonjou Lang pro pozd\u011bj\u0161\u00ed pou\u017eit\u00ed)"
+        "cs": "(slovo zamluven\u00e9 Sonjou Lang pro pozd\u011bj\u0161\u00ed pou\u017eit\u00ed)",
+        "nl": "(dit woord is gereserveerd voor toekomstig gebruik door Sonja Lang)"
       }
     },
     "jule": {
@@ -3611,7 +3616,8 @@
         "ja": "\u8336\u8272\u306e\u3001\u7070\u8272\u306e\u3001\u6697\u8272\u306e",
         "cs": "hn\u011bd\u00fd, \u0161ed\u00fd",
         "nno": "brun, gr\u00e5",
-        "nob": "brun, gr\u00e5"
+        "nob": "brun, gr\u00e5",
+        "nl": "bruin, grijs"
       }
     },
     "kasi": {
@@ -3919,7 +3925,8 @@
         "hr": "LGBT+",
         "cy": "cwiar, LHDT",
         "ja": "\u30af\u30a3\u30a2\u3001\u6027\u306e\u591a\u69d8\u6027(LGBT+)\u306e",
-        "cs": "queer, LGBT+"
+        "cs": "queer, LGBT+",
+        "nl": "queer, LHBTI+"
       }
     },
     "ki": {
@@ -4069,7 +4076,8 @@
         "ja": "\u5c16\u3063\u305f\u3001\u92ed\u3044\u3001\u304b\u3069\u3001\u70b9\u3001\u4e09\u89d2\u306e",
         "cs": "ostnat\u00fd, je\u017eat\u00fd, \u0161pi\u010dat\u00fd, hranat\u00fd, ostr\u00fd",
         "nno": "taggete, skarp, triangul\u00e6r; spiss, vinkel, punkt",
-        "nob": "taggete, skarp, triangul\u00e6r; spiss, vinkel, punkt"
+        "nob": "taggete, skarp, triangul\u00e6r; spiss, vinkel, punkt",
+        "nl": "puntig, scherp, hoek, stekel, driehoekig"
       }
     },
     "kili": {
@@ -4482,7 +4490,8 @@
         "ja": "\u30c8\u30ad\u30dd\u30ca\u7684\u306a\u5834\u3067\u30c8\u30ad\u30dd\u30ca\u4ee5\u5916\u306e\u8a00\u8a9e\u3092\u8a71\u3059\u3001\u30ef\u30cb\u308b",
         "cs": "pou\u017e\u00edvat jazyk jin\u00fd ne\u017e Toki Pona v prost\u0159ed\u00ed, kde se o\u010dek\u00e1v\u00e1 komunikace v Toki Pona",
         "nno": "\u00e5 bruke eit anna spr\u00e5k enn Toki Pona i eit milj\u00f8 kvar Toki Pona er meir passande",
-        "nob": "\u00e5 bruke et annet spr\u00e5k enn Toki Pona i et milj\u00f8 hvor Toki Pona er mer passende"
+        "nob": "\u00e5 bruke et annet spr\u00e5k enn Toki Pona i et milj\u00f8 hvor Toki Pona er mer passende",
+        "nl": "het spreken van een andere taal dan Toki Pona op een plaats waar Toki Pona geschikter is"
       }
     },
     "kon": {
@@ -4760,7 +4769,7 @@
         "cs": "barevn\u00fd, obarven\u00fd, pestr\u00fd | ALT souvisej\u00edc\u00ed s LGBT+ komunitou",
         "nno": "farga, fargerik, pigmentert, malen | ALT av eller relatert til LHBT+-samfunnet",
         "nob": "farget, fargerik, pigmentert, malt | ALT av eller relatert til LHBT+-samfunnet",
-        "nl": "kleur, kleurrijk, verf, pigment, geverfd | ALT lhbti+"
+        "nl": "kleur, kleurrijk, verf, pigment, geverft | ALT lhbti+"
       }
     },
     "kulijo": {
@@ -5855,7 +5864,8 @@
         "ja": "\u30cd\u30c3\u30c8\u30ef\u30fc\u30af\u3001\u30a4\u30f3\u30bf\u30fc\u30cd\u30c3\u30c8\u3001\u7e6b\u304c\u308a\u3001\u7e54\u308b\u3001\u7de8\u3080\u3001\u7e54\u308a\u4ea4\u305c\u308b",
         "cs": "s\u00ed\u0165, internet, spojen\u00ed; pl\u00e9st, prol\u00ednat",
         "nno": "nettverk, internett, tilkopling; \u00e5 veve, flette",
-        "nob": "nettverk, internett, tilkopling; \u00e5 veve, flette"
+        "nob": "nettverk, internett, tilkopling; \u00e5 veve, flette",
+        "nl": "netwerk, internet, verbinding; vlecht, weven"
       }
     },
     "lipu": {
@@ -6205,7 +6215,8 @@
         "da": "(ord reserveret til fremtidig brug af Sonja Lang)",
         "hr": "(Sonja Lang je rezervirala ovu rije\u010d i trenuta\u010dno nema zna\u010denja)",
         "ja": "(\u30bd\u30cb\u30e3\u30fb\u30e9\u30f3\u30b0\u6c0f\u306e\u4eca\u5f8c\u306e\u5229\u7528\u306e\u305f\u3081\u78ba\u4fdd\u3055\u308c\u308b\u5358\u8a9e)",
-        "cs": "(slovo zamluven\u00e9 Sonjou Lang pro pozd\u011bj\u0161\u00ed pou\u017eit\u00ed)"
+        "cs": "(slovo zamluven\u00e9 Sonjou Lang pro pozd\u011bj\u0161\u00ed pou\u017eit\u00ed)",
+        "nl": "(dit woord is gereserveerd voor toekomstig gebruik door Sonja Lang)"
       }
     },
     "luka": {
@@ -6518,7 +6529,8 @@
         "ja": "\u53e4\u3044\u3001\u8001\u3044\u305f\u3001\u6614\u306e\u3001\u53e4\u4ee3\u306e",
         "cs": "star\u00fd, prad\u00e1vn\u00fd, odv\u011bk\u00fd",
         "nno": "gammal, forelda",
-        "nob": "gammel, foreldet"
+        "nob": "gammel, foreldet",
+        "nl": "oud, bejaard, antiek"
       }
     },
     "mama": {
@@ -7037,7 +7049,8 @@
         "ja": "\u30b0\u30ea\u30ec\u30b9\u5927\u76ee (\u9f67\u6b6f\u76ee\u3001\u30a6\u30b5\u30ae\u76ee) \u307e\u305f\u306f\u771f\u7121\u76f2\u8178\u76ee (\u30cf\u30ea\u30cd\u30ba\u30df\u79d1\u3001\u30e2\u30b0\u30e9\u79d1\u306a\u3069) \u306e\u52d5\u7269; \u30cd\u30ba\u30df\u3001\u30ea\u30b9\u3001\u30a6\u30b5\u30ae; {~ suli} \u30ab\u30d4\u30d0\u30e9",
         "cs": "krysa, my\u0161, veverka, kr\u00e1l\u00edk, hlodavec",
         "nno": "dyr fr\u00e5 gruppa Glires (gnagere og haredyr) eller Eulipotyphla (insektetere); rotte, mus, ekorn, hare, gnager; flodsvin",
-        "nob": "dyr fra gruppen Glires (gnagere og haredyr) eller Eulipotyphla (insektetere); rotte, mus, ekorn, hare, gnager; flodsvin"
+        "nob": "dyr fra gruppen Glires (gnagere og haredyr) eller Eulipotyphla (insektetere); rotte, mus, ekorn, hare, gnager; flodsvin",
+        "nl": "rat, muis, eekhoorn, konijn, knaagdier"
       }
     },
     "misikeke": {
@@ -7495,7 +7508,8 @@
         "cy": "pitsa",
         "io": "pizza",
         "ja": "\u30d4\u30b6",
-        "cs": "pizza"
+        "cs": "pizza",
+        "nl": "pizza"
       }
     },
     "mun": {
@@ -7762,7 +7776,8 @@
         "da": "orange (farve)",
         "cy": "oren (lliw)",
         "ja": "\u6a59\u8272",
-        "cs": "oran\u017eov\u00fd"
+        "cs": "oran\u017eov\u00fd",
+        "nl": "oranje"
       }
     },
     "namako": {
@@ -8095,7 +8110,8 @@
         "cy": "pedwar",
         "io": "quar",
         "ja": "\u56db",
-        "cs": "\u010dty\u0159i"
+        "cs": "\u010dty\u0159i",
+        "nl": "4"
       }
     },
     "nele": {
@@ -8350,7 +8366,8 @@
         "ja": "\u975e\u516c\u5f0f\u306e\u5358\u8a9e\u3001\u65b0\u8a9e\u3001\u4fd7\u8a9e\u3001\u5197\u8ac7\u8a9e",
         "cs": "slovo neuveden\u00e9 v pu; nov\u00e9 slovo; \u017eertovn\u00e9 slovo",
         "nno": "ord som ikkje st\u00e5r i pu-ordboka; nytt ord; tulleord",
-        "nob": "ord som ikke st\u00e5r i pu-ordboka; nytt ord; tulleord"
+        "nob": "ord som ikke st\u00e5r i pu-ordboka; nytt ord; tulleord",
+        "nl": "een niet-pu woord; een nieuw woord; een woord voor de grap"
       }
     },
     "nja": {
@@ -8489,7 +8506,8 @@
         "da": "(ord reserveret til fremtidig brug af Sonja Lang)",
         "hr": "(Sonja Lang je rezervirala ovu rije\u010d i trenuta\u010dno nema zna\u010denja)",
         "ja": "(\u30bd\u30cb\u30e3\u30fb\u30e9\u30f3\u30b0\u6c0f\u306e\u4eca\u5f8c\u306e\u5229\u7528\u306e\u305f\u3081\u78ba\u4fdd\u3055\u308c\u308b\u5358\u8a9e)",
-        "cs": "(slovo zamluven\u00e9 Sonjou Lang pro pozd\u011bj\u0161\u00ed pou\u017eit\u00ed)"
+        "cs": "(slovo zamluven\u00e9 Sonjou Lang pro pozd\u011bj\u0161\u00ed pou\u017eit\u00ed)",
+        "nl": "(dit woord is gereserveerd voor toekomstig gebruik door Sonja Lang)"
       }
     },
     "o": {
@@ -8628,7 +8646,8 @@
         "ja": "\u30aa\u30fc\u30b1\u30fc (\u540c\u610f\u3001\u4e86\u627f\u3092\u3042\u3089\u308f\u3059)",
         "cs": "(uzn\u00e1n\u00ed \u010di souhlas)",
         "nno": "ok (stadfesting, godkjenning)",
-        "nob": "ok (bekreftelse, godkjenning)"
+        "nob": "ok (bekreftelse, godkjenning)",
+        "nl": "(erkenning of acceptatie)"
       }
     },
     "okepuma": {
@@ -8899,7 +8918,8 @@
         "ja": "\u3055\u3088\u3046\u306a\u3089\u3001\u304a\u5143\u6c17\u3067\u3001\u307e\u305f\u306d\u3001\u3044\u3044\u9b5a\u3092\u304a\u4e0a\u304c\u308a\u306a\u3055\u3044",
         "cs": "nashledanou, sbohem, tak zat\u00edm, dej si rybu!",
         "nno": "ha det, farvel, sj\u00e5ast, spis ein god fisk",
-        "nob": "ha det, farvel, sees senere, spis en god fisk"
+        "nob": "ha det, farvel, sees senere, spis en god fisk",
+        "nl": "doei, tot ziens, eet een lekkere vis"
       }
     },
     "omen": {
@@ -9298,7 +9318,8 @@
         "ja": "\u6b62\u3081\u308b\u3001\u3084\u3081\u308b\u3001\u505c\u6b62\u3059\u308b\u3001\u4e2d\u6b62\u3059\u308b\u3001\u4e2d\u65ad\u3059\u308b; \u585e\u3050\u3001\u906e\u65ad\u3059\u308b\u3001\u7981\u6b62\u3059\u308b; \u9632\u6b62\u3059\u308b",
         "cs": "p\u0159estat, zastavit; zablokovat, p\u0159eru\u0161it; zabr\u00e1nit",
         "nno": "\u00e5 stoppe, stanse, blokkere, avbryte, forhindre",
-        "nob": "\u00e5 stoppe, stanse, blokkere, avbryte, forhindre"
+        "nob": "\u00e5 stoppe, stanse, blokkere, avbryte, forhindre",
+        "nl": "stop, halt, ophouden; de weg versperren, onderbreken; voorkomen"
       }
     },
     "pali": {
@@ -10205,7 +10226,8 @@
         "cy": "pedwar",
         "io": "quar",
         "ja": "\u56db",
-        "cs": "\u010dty\u0159i"
+        "cs": "\u010dty\u0159i",
+        "nl": "4, vier"
       }
     },
     "poka": {
@@ -10566,7 +10588,8 @@
         "ja": "\u5b9f\u5728\u3057\u306a\u3044\u3001\u507d\u308a\u306e\u3001\u67b6\u7a7a\u306e\u3001\u5618\u306e\u3001\u865a\u507d\u306e; \u898b\u305b\u304b\u3051\u308b; \u6b3a\u304f\u3001\u9a19\u3059",
         "cs": "neskute\u010dn\u00fd, nepradiv\u00fd, l\u017eiv\u00fd; podv\u00e9st, obelhat",
         "nno": "uverkeleg, feil, usann; \u00e5 late som; \u00e5 bedra, lure, narre",
-        "nob": "uvirkelig, feil, usann; \u00e5 late som; \u00e5 bedra, lure, narre"
+        "nob": "uvirkelig, feil, usann; \u00e5 late som; \u00e5 bedra, lure, narre",
+        "nl": "nep, vals, onwaar; doen alsof; foppen, trucage"
       }
     },
     "pu": {
@@ -10666,7 +10689,8 @@
         "ja": "\u3075\u308f\u3075\u308f\u3057\u305f\u3001\u67d4\u3089\u304b\u3044\u3001\u3076\u306b\u3087\u3076\u306b\u3087\u3057\u305f (\u5727\u3057\u3064\u3051\u3066\u3082\u5143\u306e\u5f62\u72b6\u306b\u623b\u308d\u3046\u3068\u3059\u308b\u3082\u306e)",
         "cs": "nad\u00fdchan\u00fd, na\u010dechran\u00fd, hebk\u00fd, m\u011bkou\u010dk\u00fd (n\u011bco co lze zm\u00e1\u010dknout a vr\u00e1t\u00ed se do p\u016fvodn\u00edho tvaru)",
         "nno": "fluffy, mjuk, elastisk",
-        "nob": "fluffy, myk, elastisk"
+        "nob": "fluffy, myk, elastisk",
+        "nl": "zacht, pluizig"
       }
     },
     "sama": {
@@ -11551,7 +11575,8 @@
         "da": "[humoristisk synonym for lape]",
         "hr": "[\u0161aljivi sinonim s lape]",
         "ja": "[lape \u306e\u8ae7\u8b14\u7684\u306a\u540c\u7fa9\u8a9e]",
-        "cs": "[humorn\u00e9 synonymum k lape]"
+        "cs": "[humorn\u00e9 synonymum k lape]",
+        "nl": "[grappig synoniem van lape]"
       }
     },
     "soko": {
@@ -11815,7 +11840,8 @@
         "da": "(ord reserveret til fremtidig brug af Sonja Lang)",
         "hr": "(Sonja Lang je rezervirala ovu rije\u010d i trenuta\u010dno nema zna\u010denja)",
         "ja": "(\u30bd\u30cb\u30e3\u30fb\u30e9\u30f3\u30b0\u6c0f\u306e\u4eca\u5f8c\u306e\u5229\u7528\u306e\u305f\u3081\u78ba\u4fdd\u3055\u308c\u308b\u5358\u8a9e)",
-        "cs": "(slovo zamluven\u00e9 Sonjou Lang pro pozd\u011bj\u0161\u00ed pou\u017eit\u00ed)"
+        "cs": "(slovo zamluven\u00e9 Sonjou Lang pro pozd\u011bj\u0161\u00ed pou\u017eit\u00ed)",
+        "nl": "(dit woord is gereserveerd voor toekomstig gebruik door Sonja Lang)"
       }
     },
     "suke": {
@@ -12082,7 +12108,8 @@
         "cy": "hwyatbig",
         "io": "ornitorinko",
         "ja": "\u30ab\u30e2\u30ce\u30cf\u30b7",
-        "cs": "ptakopysk"
+        "cs": "ptakopysk",
+        "nl": "vogelbekdier"
       }
     },
     "suwi": {
@@ -12187,7 +12214,8 @@
         "ja": "\u7c98\u7740\u6027\u306e\u3001\u78c1\u6c17\u306e; \u304f\u3063\u3064\u3051\u308b\u3001\u5f15\u304d\u3064\u3051\u308b\u3001\u53d6\u308a\u4ed8\u3051\u308b\u3001\u7559\u3081\u308b",
         "cs": "lepkav\u00fd, magnetick\u00fd; p\u0159itahovat, p\u0159ilepit, p\u0159ipnout",
         "nno": "kleimen, magnetisk; \u00e5 binde, tiltrekkje, feste",
-        "nob": "klebrig, magnetisk; \u00e5 binde, tiltrekke, feste"
+        "nob": "klebrig, magnetisk; \u00e5 binde, tiltrekke, feste",
+        "nl": "plakkerig, magnetisch; verbinden, aantrekken, bevestigen, aanhaken"
       }
     },
     "tan": {
@@ -12414,7 +12442,8 @@
         "ja": "(\u5f15\u7528\u53e5\u306e\u524d\u306b\u304a\u304f\u5c0f\u8a5e)",
         "cs": "(\u010d\u00e1stice ukon\u010duj\u00edc\u00ed citaci)",
         "nno": "(indikerer starten av eit sitat)",
-        "nob": "(indikerer starten av et sitat)"
+        "nob": "(indikerer starten av et sitat)",
+        "nl": "(begint een citaat)"
       }
     },
     "teje": {
@@ -12670,7 +12699,8 @@
         "ja": "(\u5f15\u7528\u53e5\u306e\u5f8c\u306b\u304a\u304f\u5c0f\u8a5e)",
         "cs": "(\u010d\u00e1stice uvozuj\u00edc\u00ed citaci)",
         "nno": "(indikerer slutten av eit sitat)",
-        "nob": "(indikerer slutten av et sitat)"
+        "nob": "(indikerer slutten av et sitat)",
+        "nl": "(eindigt een citaat)"
       }
     },
     "tokana": {
@@ -13035,7 +13065,8 @@
         "cy": "tri",
         "io": "tri",
         "ja": "\u4e09",
-        "cs": "t\u0159i"
+        "cs": "t\u0159i",
+        "nl": "3, drie"
       }
     },
     "u": {
@@ -13070,7 +13101,8 @@
         "da": "(ord reserveret til fremtidig brug af Sonja Lang)",
         "hr": "(Sonja Lang je rezervirala ovu rije\u010d i trenuta\u010dno nema zna\u010denja)",
         "ja": "(\u30bd\u30cb\u30e3\u30fb\u30e9\u30f3\u30b0\u6c0f\u306e\u4eca\u5f8c\u306e\u5229\u7528\u306e\u305f\u3081\u78ba\u4fdd\u3055\u308c\u308b\u5358\u8a9e)",
-        "cs": "(slovo zamluven\u00e9 Sonjou Lang pro pozd\u011bj\u0161\u00ed pou\u017eit\u00ed)"
+        "cs": "(slovo zamluven\u00e9 Sonjou Lang pro pozd\u011bj\u0161\u00ed pou\u017eit\u00ed)",
+        "nl": "(dit woord is gereserveerd voor toekomstig gebruik door Sonja Lang)"
       }
     },
     "umesu": {
@@ -13212,7 +13244,8 @@
         "ja": "\u7d2b\u8272\u306e",
         "cs": "fialov\u00fd, nachov\u00fd",
         "nno": "lilla, fiolett",
-        "nob": "lilla, fiolett"
+        "nob": "lilla, fiolett",
+        "nl": "paars, violet, lila"
       }
     },
     "usawi": {
@@ -13256,7 +13289,8 @@
         "ja": "\u9b54\u6cd5\u3001\u9b54\u8853; \u5e7b\u60d1\u3059\u308b; \u9b54\u529b\u306e\u3001\u8d85\u81ea\u7136\u306e\u3001\u795e\u79d8\u306e\u3001\u4e0d\u53ef\u89e3\u306a",
         "cs": "kouzla, \u010d\u00e1ry, magie, o\u010darovat; nadp\u0159irozen\u00fd, nepochopiteln\u00fd",
         "nno": "magi, trolldom; \u00e5 fortrylle; magisk, overnaturleg, okkult, uforst\u00e5eleg",
-        "nob": "magi, trolldom; \u00e5 fortrylle; magisk, overnaturlig, okkult, uforst\u00e5elig"
+        "nob": "magi, trolldom; \u00e5 fortrylle; magisk, overnaturlig, okkult, uforst\u00e5elig",
+        "nl": "magie, toveren, hekserei; betoveren; magisch, bovennatuurlijk, onbegrijpbaar"
       }
     },
     "uta": {
@@ -13420,7 +13454,8 @@
         "ja": "[\u611f\u5606\u8a5e] (\u754f\u308c\u3084\u9a5a\u6b4e\u3092\u3042\u3089\u308f\u3059)",
         "cs": "(citoslovce vyjad\u0159uj\u00edc\u00ed \u00fadiv \u010di \u00fa\u017eas)",
         "nno": "wow! j\u00f8ss! (indikerer age eller forbl\u00f8ffing)",
-        "nob": "wow! j\u00f8ss! (indikerer age eller forbl\u00f8ffelse)"
+        "nob": "wow! j\u00f8ss! (indikerer age eller forbl\u00f8ffelse)",
+        "nl": "(duid verwondering of verbazing aan)"
       }
     },
     "waleja": {
@@ -14052,7 +14087,8 @@
         "ja": "\u7981\u6b62\u97f3\u7bc0\u3067\u3042\u308b wu, wo, ji, ti \u306e\u3044\u3065\u308c\u304b\u3092\u4f7f\u3046; \u30c8\u30ad\u30dd\u30ca\u306e\u97f3\u7d20\u898f\u5247\u3092\u7834\u308b",
         "cs": "pou\u017e\u00edvat jednu ze \"zak\u00e1zan\u00fdch\" slabik wu, wo, ji, \u010di ti; poru\u0161ovat z\u00e1sady fonotaktiky Toki Pona",
         "nno": "\u00e5 bruke eitt eller fleire av dei forbodne stavingane wu, wo, ji, og ti; \u00e5 bryte med fonotaksen i Toki Pona",
-        "nob": "\u00e5 bruke ett eller flere av de forbudte stavelsene wu, wo, ji, og ti; \u00e5 bryte med fonotaksen i Toki Pona"
+        "nob": "\u00e5 bruke ett eller flere av de forbudte stavelsene wu, wo, ji, og ti; \u00e5 bryte med fonotaksen i Toki Pona",
+        "nl": "het gebruiken van verboden lettergrepen: wu, wo, ji en ti"
       }
     },
     "yupekosi": {
@@ -14097,7 +14133,8 @@
         "ja": "\u30b8\u30e7\u30fc\u30b8\u30fb\u30eb\u30fc\u30ab\u30b9\u306e\u3088\u3046\u306b\u3001\u81ea\u8eab\u306e\u6614\u306e\u5275\u4f5c\u7269\u3092\u30ea\u30e1\u30a4\u30af\u3057\u3066\u6539\u60aa\u3059\u308b",
         "cs": "upravit d\u00edlo k hor\u0161\u00edmu (jako t\u0159eba George Lucas)",
         "nno": "\u00e5 oppf\u00f8re seg som George Lucas ved \u00e5 revidere sine tidligere kreative verk og ende opp med \u00e5 forverre dei",
-        "nob": "\u00e5 oppf\u00f8re seg som George Lucas ved \u00e5 revidere sine tidligere kreative verk og ende opp med \u00e5 forverre dem"
+        "nob": "\u00e5 oppf\u00f8re seg som George Lucas ved \u00e5 revidere sine tidligere kreative verk og ende opp med \u00e5 forverre dem",
+        "nl": "je gedragen zoals George Lucas: Je oude werken herzien en ze daarmee slechter maken"
       }
     },
     "yutu": {
