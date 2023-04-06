@@ -14765,7 +14765,21 @@
       "last_updated": "2023-03",
       "filename": "sevenish.otf",
       "style": "pixelated",
-      "features": "codepoints only, supports ku suli and the rest of the UCSUR characters"
+      "features": "codepoints only, UCSUR-compliant, supports ku suli and the rest of the UCSUR characters"
+    },
+    "Sevenish SP": {
+      "name_short": "Sevenish SP",
+      "writing_system": "sitelen pona",
+      "links": {
+        "fontfile": "https://saucedlx.neocities.org/SevenishSP.ttf"
+      },
+      "creator": "Nico \"SauceDLX\"",
+      "license": "MIT",
+      "version": "1.0",
+      "last_updated": "2023-03",
+      "filename": "sevenishsp.ttf",
+      "style": "pixelated",
+      "features": "ASCII transcription, UCSUR-compliant, supports ku suli and the rest of the UCSUR characters"
     },
     "sike en linja": {
       "name_short": "sike en linja",
