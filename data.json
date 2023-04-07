@@ -14740,6 +14740,21 @@
       "style": "pixelated",
       "features": "codepoints only"
     },
+    "Nishiki-teki-lili": {
+      "name_short": "Nishiki-teki-lili",
+      "writing_system": "sitelen pona",
+      "links": {
+        "fontfile": "https://github.com/RetSamys/nishiki-teki-lili/raw/main/nishiki-teki-lili.ttf",
+        "repo": "https://github.com/RetSamys/nishiki-teki-lili"
+      },
+      "creator": "Umihotaru / jan Ke Tami",
+      "license": "OFL",
+      "version": "3.95ze",
+      "last_updated": "2023-04",
+      "filename": "nishiki-teki-lili.ttf",
+      "style": "uniform line weight",
+      "features": "ASCII transcription, UCSUR-compliant, supports cartouches, extended glyphs, combined glyphs, ZWJ sequences, supports all ku suli and the rest of UCSUR"
+    },
     "seta sans": {
       "name_short": "seta sans",
       "writing_system": "alphabet",
@@ -15278,14 +15293,14 @@
       "name_short": "Nishiki-teki",
       "writing_system": "sitelen pona",
       "links": {
-        "fontfile": "https://cdn.discordapp.com/attachments/999566667187228673/1037002528002412674/nishiki-teki-lili.ttf",
+        "fontfile": "https://github.com/RetSamys/nishiki-teki-lili/raw/main/nishiki-teki.ttf",
         "webpage": "https://umihotaru.work/"
       },
       "creator": "Umihotaru",
       "license": "OFL",
-      "version": "3.95a",
-      "last_updated": "2022-11",
-      "filename": "nishiki-teki-lili.ttf",
+      "version": "3.95zj",
+      "last_updated": "2023-04",
+      "filename": "nishiki-teki.ttf",
       "style": "uniform line weight",
       "features": "codepoints only, UCSUR-compliant, supports cartouches, extended glyphs, combined glyphs, ZWJ sequences, supports all ku suli and the rest of UCSUR"
     }
