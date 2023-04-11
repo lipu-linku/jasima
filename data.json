@@ -14747,12 +14747,12 @@
       "name_short": "nasin luka",
       "writing_system": "sitelen pona",
       "links": {
-        "fontfile": "https://cdn.discordapp.com/attachments/952797418381000806/1069284265860276254/nasin_luka_1.1.otf"
+        "fontfile": "https://cdn.discordapp.com/attachments/952797418381000806/1095108756892811304/nasin_luka_1.2.otf"
       },
       "creator": "trollbreeder",
       "license": "OFL",
-      "version": "1.1",
-      "last_updated": "2023-01",
+      "version": "1.2",
+      "last_updated": "2023-04",
       "filename": "nasinluka.otf",
       "style": "handwritten",
       "features": "codepoints only, UCSUR-compliant, cartouches, long pi, supports ku suli and the rest of the UCSUR characters and more, tuki tiki"
@@ -14849,7 +14849,7 @@
       "name_short": "Sevenish",
       "writing_system": "sitelen pona",
       "links": {
-        "fontfile": "https://saucedlx.neocities.org/Sevenish.otf"
+        "fontfile": "https://saucedlx.neocities.org/Sevenish.ttf"
       },
       "creator": "Nico \"SauceDLX\"",
       "license": "MIT",
