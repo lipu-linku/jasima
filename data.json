@@ -532,7 +532,7 @@
       "name_toki_pona": "toki Sensa",
       "credits": "jan Lilin, jan Supantelaso",
       "completeness_percent": {
-        "obscure": "85",
+        "obscure": "100",
         "rare": "100",
         "uncommon": "100",
         "common": "100",
@@ -1143,7 +1143,7 @@
         "zh_hans": "\u6240\u6709\u4eba\u7c7b\u53ef\u4ee5\u8868\u8fbe\u7684\u6982\u5ff5\uff0c\u53bb\u9664\u5df2\u786e\u7acb\u9053\u672c\u8bed\u5355\u8bcd\u6309\u76f8\u5bf9\u4f7f\u7528\u9891\u7387\u52a0\u91cd\u7684\u53ef\u4ee5\u8868\u8fbe\u7684\u6982\u5ff5",
         "uk": "\u043d\u0430\u0431\u0456\u0440 \u0443\u0441\u0456\u0445 \u043c\u043e\u0436\u043b\u0438\u0432\u0438\u0445 \u043a\u043e\u043d\u0446\u0435\u043f\u0446\u0456\u0439, \u0449\u043e \u043d\u0435 \u043f\u043e\u043a\u0440\u0438\u0432\u0430\u0454 \u0440\u0435\u043b\u0430\u0442\u0438\u0432\u043d\u0435 \u0432\u0438\u043a\u043e\u0440\u0438\u0441\u0442\u0430\u043d\u043d\u044f \u0456\u0441\u043d\u0443\u044e\u0447\u043e\u0433\u043e \u0441\u043f\u0438\u0441\u043a\u0430 \u0448\u0438\u0440\u043e\u043a\u043e\u0432\u0438\u043a\u043e\u0440\u0438\u0441\u0442\u043e\u0432\u0430\u043d\u0438\u0445 \u0442\u043e\u043a\u0456 \u043f\u043e\u043d\u0430 \u0441\u043b\u0456\u0432",
         "da": "m\u00e6ngden af alle mulige menneskelige begreber fratrukket m\u00e6ngden af begreber, der allerede er d\u00e6kket af etablerede toki pona-ord, v\u00e6gtet efter deres relative brug",
-        "sv": "m\u00e4ngden av alla m\u00f6gliga m\u00e4nnskliga objekt subtraherat fr\u00e5n m\u00e4ngden koncept som etablerade ord i Toki Pona redan t\u00e4cker, v\u00e4gt efter deras relativa anv\u00e4ndning",
+        "sv": "m\u00e4ngden av alla m\u00f6jliga m\u00e4nnskliga objekt subtraherat fr\u00e5n m\u00e4ngden koncept som etablerade ord i Toki Pona redan t\u00e4cker, v\u00e4gt efter deras relativa anv\u00e4ndning",
         "ja": "\u76f8\u5bfe\u7684\u4f7f\u7528\u7387\u306b\u3088\u3063\u3066\u91cd\u307f\u3065\u3051\u3057\u305f\u65e2\u5b58\u306e\u30c8\u30ad\u30dd\u30ca\u5358\u8a9e\u3067\u8868\u73fe\u3067\u304d\u308b\u6982\u5ff5\u5168\u4f53\u304b\u3089\u6f0f\u308c\u305f\u3001\u4eba\u9593\u306e\u3082\u3064\u3042\u3089\u3086\u308b\u6982\u5ff5\u306e\u96c6\u5408",
         "cs": "rozd\u00edl mno\u017einy v\u0161ech mo\u017en\u00fdch pojm\u016f mezilidsk\u00e9 komunikace a mno\u017einy ust\u00e1len\u00fdch pojm\u016f v Toki Pona"
       }
@@ -1246,7 +1246,7 @@
         "uk": "(\u043c\u0456\u0436 \u0433\u043e\u043b\u043e\u0432\u043d\u0438\u043c \u0440\u0435\u0447\u0435\u043d\u043d\u044f\u043c \u0456 \u043a\u043e\u043d\u0442\u0435\u043a\u0441\u0442\u043d\u043e\u044e \u0444\u0440\u0430\u0437\u043e\u044e)",
         "da": "(mellem hoveds\u00e6tningen og kontekstudtrykket)",
         "hr": "(izme\u0111u glavne re\u010denice i kontekstualne fraze)",
-        "sv": "(mellan huvudsatsen och kontextfrasen",
+        "sv": "(mellan huvudsatsen och kontextfrasen)",
         "io": "(inter la precipua frazo e la kuntexta frazo)",
         "ja": "(\u4e3b\u6587\u3068\u6761\u4ef6\u7bc0\u306e\u9593\u306b\u304a\u304f)",
         "cs": "(mezi hlavn\u00ed v\u011btou a dopl\u0148kov\u00fdm spojen\u00edm)"
@@ -2210,7 +2210,7 @@
         "da": "d\u00e5rlig, negativ; ikke-v\u00e6sentlig | ALT (over)kompliceret, kompleks",
         "haw": "\u02bbino, maika\u02bbi \u02bbole; \u02bba\u02bbole e pili ana | ALT pohihihi",
         "hr": "lo\u0161e, negativno, nenu\u017eno, neva\u017eno | ALT slo\u017eeno, zamr\u0161eno",
-        "sv": "d\u00e5lig, negativ, inte n\u00f6dv\u00e4ndig, irrelevant | ALT komplicerad",
+        "sv": "d\u00e5lig, negativ, inte n\u00f6dv\u00e4ndig, orelevant | ALT komplicerad",
         "ar": "\u0633\u064a\u0621 \u060c \u0631\u062f\u064a\u0621 \u060c \u0643\u0631\u064a\u0647 \u060c \u0634\u0631\u064a\u0631 | \u0628\u062f\u064a\u0644: \u0645\u0639\u0642\u062f",
         "ja": "\u60aa\u3044\u3001\u307e\u3061\u304c\u3063\u305f\u3001\u4e0d\u5fc5\u8981\u306a\u3001\u554f\u984c\u306e\u3042\u308b\u3001\u9177\u3044 | ALT \u8907\u96d1\u306a\u3001\u56f0\u96e3\u306a",
         "ko": "\ub098\uc058\ub2e4, \uc911\uc694\ud558\uc9c0 \uc54a\ub2e4, \ubd80\uc815\uc801 (\ud639\uc740 \ubcf5\uc7a1\ud558\ub2e4)",
@@ -2391,7 +2391,7 @@
         "da": "centrum, indhold, inde, mellem; indre organ, mave",
         "haw": "loko, waena; he na\u02bbau, he \u02bb\u014dp\u016b",
         "hr": "sredina, sadr\u017eaj, unutar, izme\u0111u; unutarnji organ, stomak",
-        "sv": "mitten, inuti, emellan; internt organ, mage",
+        "sv": "mitten, inuti, emellan; inre organ, mage",
         "ar": "\u0648\u0633\u0637 \u060c \u0645\u062d\u062a\u0648\u0649 \u060c \u0628\u062f\u0627\u062e\u0644 \u060c \u0645\u0627 \u0628\u064a\u0646 \u061b \u0639\u0636\u0648 \u062f\u0627\u062e\u0644\u064a \u060c \u0645\u0639\u062f\u0629",
         "ja": "\u4e2d\u5fc3\u3001\u5185\u90e8\u3001\u4e2d\u9593\u3001\u5185\u5bb9; \u5185\u81d3\u3001\u8179",
         "ko": "\uc911\uc2ec, \uc548\ucabd, \ub0b4\uc6a9; \uc704\uc7a5",
@@ -3173,7 +3173,7 @@
         "zh_hans": "\u632f\u52a8\u3001\u9707\u52a8\u3001\u9707\u8361\u3001\u6447\u6643\u3001\u98a4\u6296\u3001\u98a4\u52a8\uff1b\u6447\u6446\u3001\u6446\u52a8\uff1b\u6ce2\u3001\u6ce2\u6d6a\u3001\u6f6e\u6c50",
         "uk": "\u0432\u0456\u0431\u0440\u0443\u0432\u0430\u0442\u0438, \u0442\u0440\u044f\u0441\u0442\u0438\u0441\u044f; \u0433\u043e\u0439\u0434\u0430\u0442\u0438\u0441\u044f; \u0445\u0432\u0438\u043b\u044f",
         "da": "vibrere, ryste, vakle, vakle, sk\u00e6lve; svinge, svinge; b\u00f8lge, tidevand",
-        "sv": "obest\u00e4md, ofullst\u00e4ndig, prelimin\u00e4r; of\u00f6ruts\u00e4gbar, ostabil, instabil; att vackla, att vibrera, att darra, att vingla, att skaka",
+        "sv": "obest\u00e4md, ofullst\u00e4ndig, prelimin\u00e4r; of\u00f6ruts\u00e4gbar, instabil; att vackla, att vibrera, att darra, att vingla, att skaka",
         "ja": "\u63fa\u308c\u308b\u3001\u632f\u52d5\u3059\u308b\u3001\u9707\u3048\u308b\u3001\u3075\u3089\u3075\u3089\u3059\u308b\u3001\u308f\u306a\u306a\u304f; \u3076\u3089\u3076\u3089\u3059\u308b\u3001\u63fa\u308c\u52d5\u304f; \u6ce2\u3001\u6f6e",
         "cs": "t\u0159\u00e1st, t\u0159epat, lomcovat, chv\u011bt se, houpat; vlna, p\u0159\u00edliv"
       }
@@ -3565,7 +3565,7 @@
         "uk": "\u0437, \u0441\u0435\u0440\u0435\u0434, \u0440\u0430\u0437\u043e\u043c \u0437",
         "da": "med, blandt, i selskab med",
         "hr": "s, me\u0111u, s (nekim)",
-        "sv": "(tillsammans) med, bland",
+        "sv": "tillsammans med, bland",
         "io": "kun, inter, che",
         "ja": "\uff5e\u3068\u3068\u3082\u306b\u3001\uff5e\u306e\u9593\u3067\u3001\uff5e\u3068\u3044\u3063\u3057\u3087\u306b",
         "cs": "s, mezi, ve spole\u010dnosti s"
@@ -4254,7 +4254,7 @@
         "uk": "\u0434\u0456\u0439\u0441\u043d\u043e, \u0442\u0435\u0436, \u0442\u0430\u043a\u043e\u0436, \u043e\u043a\u0440\u0456\u043c \u0442\u043e\u0433\u043e",
         "da": "{se a} | ALT ja, ogs\u00e5, ligeledes, desuden, samt",
         "hr": "{pogledajte \"a\"} | ALT uistinu, isto, tako\u0111er",
-        "sv": "{se a} | ALT verkligen, ocks\u00e5,",
+        "sv": "{se a} | ALT verkligen, ocks\u00e5",
         "io": "ya, vere, anke",
         "ja": "{a \u3092\u53c2\u7167} | ALT \u78ba\u304b\u306b\u3001\u3058\u3064\u306b\u3001\uff5e\u3082\u3001\uff5e\u3082\u307e\u305f",
         "cs": "{viz a} | ALT vskutku, tak\u00e9, stejn\u011b tak",
@@ -4487,7 +4487,7 @@
         "da": "ler, kl\u00e6bende (form), dej, halvfast, pasta, pulver",
         "haw": "he p\u0101lolo, he mea ho\u02bbopipili, he palaoa, he pauka",
         "hr": "glina, tijesto, polu-kruto, smjesa, prah",
-        "sv": "lera, kl\u00e4ngande form, deg, halvfast, smet, pulver",
+        "sv": "lera, klibbig form, deg, halvfast, smet, pulver",
         "ja": "\u7c98\u7740\u7269\u3001\u7c98\u571f\u3001\u7df4\u308a\u7269\u3001\u534a\u56fa\u4f53\u3001\u7cca\u3001\u7c89",
         "ko": "\uc810\ud1a0, \ubc18\uc8fd, \uace0\uccb4 \uac19\uc740 \ubb3c\uc9c8, \uac00\ub8e8",
         "cs": "hl\u00edna, lepkav\u00e1 hmota, t\u011bsto, ka\u0161e, pasta, pr\u00e1\u0161ek",
@@ -4540,7 +4540,7 @@
         "uk": "\u043d\u0435 \u0440\u043e\u0437\u043c\u043e\u0432\u043b\u044f\u0442\u0438 \u0442\u043e\u043a\u0456 \u043f\u043e\u043d\u043e\u044e \u0442\u0430\u043c \u0434\u0435 \u0442\u043e\u043a\u0456 \u043f\u043e\u043d\u0430 \u0431\u0456\u043b\u044c\u0448 \u0434\u043e\u0440\u0435\u0447\u043d\u0430",
         "da": "at tale et ikke-Toki Pona-sprog i et milj\u00f8, hvor Toki Pona er mere passende",
         "hr": "pri\u010dati jezikom koji nije Toki Pona u okoli\u0161u gdje je Toki Pona prikladniji",
-        "sv": "att prata n\u00e5got annat spr\u00e5k \u00e4n Toki Pona i ett sammanhang n\u00e4r Toki Pona hade varit mer l\u00e4mpligt",
+        "sv": "att prata n\u00e5got annat spr\u00e5k \u00e4n Toki Pona i ett sammanhang d\u00e4r Toki Pona hade varit mer l\u00e4mpligt",
         "io": "parolar linguo ito ne Toki Pona ube Toki Pona esas plu apta",
         "ja": "\u30c8\u30ad\u30dd\u30ca\u7684\u306a\u5834\u3067\u30c8\u30ad\u30dd\u30ca\u4ee5\u5916\u306e\u8a00\u8a9e\u3092\u8a71\u3059\u3001\u30ef\u30cb\u308b",
         "cs": "pou\u017e\u00edvat jazyk jin\u00fd ne\u017e Toki Pona v prost\u0159ed\u00ed, kde se o\u010dek\u00e1v\u00e1 komunikace v Toki Pona",
@@ -4677,7 +4677,7 @@
         "uk": "\u0430\u043d\u0456\u043c\u0430\u0446\u0456\u044f, \u0436\u0438\u0442\u0442\u044f, \u0441\u0430\u043c\u043e\u0441\u0442\u0456\u0439\u043d\u0456\u0441\u0442\u044c; \u0430\u0432\u0442\u043e\u043d\u043e\u043c\u043d\u0430 \u0456\u0441\u0442\u043e\u0442\u0430, \u0436\u0438\u0432\u0430 \u0456\u0441\u0442\u043e\u0442\u0430, \u043e\u0440\u0433\u0430\u043d\u0456\u0437\u043c; \u0436\u0432\u0430\u0432\u0438\u0439, \u0430\u043d\u0456\u043c\u043e\u0432\u0430\u043d\u0438\u0439, \u0434\u0438\u043d\u0430\u043c\u0456\u0447\u043d\u0438\u0439; \u0432\u0456\u0434\u043d\u043e\u0432\u043b\u044e\u0432\u0430\u0442\u0438",
         "da": "animacy, liv, autonomi; selvst\u00e6ndigt v\u00e6sen, levende ting, organisme; levende, animeret, dynamisk; at levendeg\u00f8re, at bringe til live",
         "hr": "animitet, \u017eivot, autonomija; autonomno bi\u0107e; \u017eivo bi\u0107e, organizam; \u017eivo, animirano, dinami\u010dno; animirati, o\u017eiviti",
-        "sv": "animacitet, liv; autonom varelse, , levande ting, organism; levande, dynamisk; att ge liv \u00e5t, att v\u00e4cka liv i",
+        "sv": "animacitet, liv; autonom varelse, levande ting, organism; levande, dynamisk; att ge liv \u00e5t, att v\u00e4cka liv i",
         "ja": "\u6709\u751f\u6027\u3001\u751f\u547d\u3001\u81ea\u5f8b\u6027; \u81ea\u5f8b\u7684\u5b58\u5728\u3001\u751f\u7269\u3001\u6709\u6a5f\u4f53; \u751f\u304d\u3066\u3044\u308b\u3001\u6709\u751f\u306e\u3001\u52d5\u7684\u306a; \u751f\u304b\u3059\u3001\u751f\u547d\u3092\u3082\u305f\u3089\u3059",
         "cs": "\u017eivotnost, \u017eivot, samostatnost; autonomn\u00ed bytost, \u017eij\u00edc\u00ed v\u011bc, organismus; \u017eiv\u00fd; ob\u017eivit"
       }
@@ -4712,7 +4712,7 @@
         "uk": "\u043e\u0445\u043e\u0440\u043e\u043d\u044f\u0442\u0438, \u0437\u0430\u0445\u0438\u0449\u0430\u0442\u0438, \u043e\u0431\u043e\u0440\u043e\u043d\u044f\u0442\u0438, \u0437\u0430\u0441\u043b\u043e\u043d\u044f\u0442\u0438, \u0443\u043a\u0440\u0456\u043f\u043b\u044f\u0442\u0438",
         "da": "bevogte, beskytte, forsvare, afsk\u00e6rme, sk\u00e6rme, afstive, bef\u00e6ste udefra",
         "hr": "stra\u017eariti, \u010duvati, braniti, \u0161tititi",
-        "sv": "vakte, beskydda, sk\u00f6ld, st\u00e5ls\u00e4tta sig, f\u00f6rst\u00e4rka utifr\u00e5n",
+        "sv": "vakta, beskydda, sk\u00f6ld, st\u00e5ls\u00e4tta sig, f\u00f6rst\u00e4rka utifr\u00e5n",
         "ja": "\u5b88\u308b\u3001\u4fdd\u8b77\u3059\u308b\u3001\u9632\u79a6\u3059\u308b\u3001\u76fe\u3001\u9632\u5177\u3001\u9632\u5099\u3092\u56fa\u3081\u308b",
         "cs": "chr\u00e1nit, br\u00e1nit, hl\u00eddat, h\u00e1jit, obrnit, ohradit"
       }
@@ -4825,7 +4825,7 @@
         "da": "farverige, pigmenterede, malede | ALT om eller relateret til LGBTQIA+ milj\u00f8et",
         "haw": "he waiho\u02bbolu\u02bbu, he pena | ALT e pili ana i ke kai\u0101ulu LGBT+",
         "hr": "\u0161areno, obojano | ALT od ili vezano za LGBT+ zajednicu",
-        "sv": "f\u00e4rgglad, pigmenterad, m\u00e5lad, |ALT av eller relaterat till HBTQ+-gemenskapen",
+        "sv": "f\u00e4rgglad, pigmenterad, m\u00e5lad, | ALT av eller relaterat till HBTQ+-gemenskapen",
         "ja": "\u8272\u3001\u8272\u9bae\u3084\u304b\u306a\u3001\u7740\u8272\u3057\u305f\u3001\u591a\u69d8\u306a | ALT \u6027\u306e\u591a\u69d8\u6027(LGBT+)\u306b\u95a2\u806f\u3057\u305f",
         "ko": "\uc54c\ub85d\ub2ec\ub85d\ud558\ub2e4 | ALT LGBT+\uc5d0 \uad00\ub828 \uc788\ub2e4",
         "cs": "barevn\u00fd, obarven\u00fd, pestr\u00fd | ALT souvisej\u00edc\u00ed s LGBT+ komunitou",
@@ -4871,7 +4871,7 @@
         "uk": "(\u043f\u043e\u0432\u0441\u044f\u043a\u0434\u0435\u043d\u043d\u0438\u0439 \u0432\u0438\u0440\u0430\u0437 \u043f\u0456\u0434\u0442\u0432\u0435\u0440\u0434\u0436\u0435\u043d\u043d\u044f \u0430\u0431\u043e \u043f\u0440\u0438\u0437\u043d\u0430\u043d\u043d\u044f); \u043a\u0440\u0443\u0442\u043e, \u043e'\u043a\u0435\u0439, \u0434\u043e\u0431\u0440\u0435",
         "da": "[interjektion] afslappet udtryk for p\u00e5sk\u00f8nnelse eller anerkendelse; cool, fint, okay",
         "hr": "[usklik] neformalni izraz za razumijevanje, priznanje, potvrdu; kul, u redu, ok",
-        "sv": "[interjektion] vardagligt utryck av uppskatning eller bekr\u00e4ftande; najs, fint ,okej",
+        "sv": "[interjektion] vardagligt utryck av uppskatning eller bekr\u00e4ftande; najs, fint, okej",
         "io": "acetebla",
         "ja": "[\u611f\u5606\u8a5e] (\u8b1d\u610f\u3001\u4e86\u627f\u3092\u3042\u3089\u308f\u3059\u304f\u3060\u3051\u305f\u8868\u73fe); \u3059\u3066\u304d\u3001\u3044\u3044\u306d\u3001\u30aa\u30fc\u30b1\u30fc",
         "cs": "(cistoslovce) neform\u00e1ln\u00ed vyj\u00e1d\u0159en\u00ed souhlasu; fajn, ok, cool"
@@ -4913,7 +4913,7 @@
         "uk": "\u0448\u0456\u0441\u0442\u044c",
         "da": "(forkortet variant af kulupu); seks (is\u00e6r i base seks)",
         "hr": "(skra\u0107enica rije\u010di \"kulupu\"); \u0161est (posebno u seksimalnom)",
-        "sv": "(f\u00f6rkortning av kulupu); sex (speciellt det sen\u00e4ra talsystemet)",
+        "sv": "(f\u00f6rkortning av kulupu); sex (speciellt i det sen\u00e4ra talsystemet)",
         "io": "kurtigita formo de la vorto kulupu); sis (partikulare en matematikala bazo)",
         "ja": "(kulupu \u306e\u7e2e\u7d04\u5f62); \u516d (\u7279\u306b\u516d\u9032\u6cd5\u306b\u304a\u3044\u3066)",
         "cs": "(zkr\u00e1cen\u00e1 varianta kulupu); \u0161est (p\u0159edev\u0161\u00edm v \u0161estkov\u00e9 soustav\u011b)"
@@ -5932,7 +5932,7 @@
         "uk": "\u043c\u0435\u0440\u0435\u0436\u0430, \u0456\u043d\u0442\u0435\u0440\u043d\u0435\u0442, \u0437\u0432'\u044f\u0437\u043e\u043a; \u043f\u043b\u0435\u0441\u0442\u0438, \u043f\u0435\u0440\u0435\u043f\u043b\u0456\u0442\u0430\u0442\u0438",
         "da": "netv\u00e6rk, internet, forbindelse; v\u00e6ve, binde, knytte, sammenflette",
         "hr": "mre\u017ea, internet, veza; plesti",
-        "sv": "n\u00e4tverk, internet, koppling; v\u00e4va, fl\u00e4ta (samman),",
+        "sv": "n\u00e4tverk, internet, koppling; v\u00e4va, fl\u00e4ta",
         "io": "reto, interreto, konekto; texo, treso, plektajo, interajo, tresigajo",
         "ja": "\u30cd\u30c3\u30c8\u30ef\u30fc\u30af\u3001\u30a4\u30f3\u30bf\u30fc\u30cd\u30c3\u30c8\u3001\u7e6b\u304c\u308a\u3001\u7e54\u308b\u3001\u7de8\u3080\u3001\u7e54\u308a\u4ea4\u305c\u308b",
         "cs": "s\u00ed\u0165, internet, spojen\u00ed; pl\u00e9st, prol\u00ednat",
@@ -6733,7 +6733,7 @@
         "da": "penge, kontanter, opsparing, rigdom; stort husdyr",
         "haw": "he k\u0101l\u0101, he moni, he uku k\u016b\u02bbike, he loa\u02bba h\u014d\u02bbili\u02bbili, he waiwai; he holoholona laka",
         "hr": "novac, u\u0161te\u0111evina, bogatstvo; stoka",
-        "sv": "pengar, st\u00e5lar, sparpengar, rikedom; stort domesticerat landdjur",
+        "sv": "pengar, kontanter, sparpengar, rikedom; stort domesticerat landdjur",
         "ja": "\u304a\u91d1\u3001\u8ca8\u5e63\u3001\u8ca1\u7523\u3001\u5bcc; \u5927\u578b\u306e\u5bb6\u755c",
         "ko": "\ub3c8, \ud604\uae08, \uc800\uae08, \uc7ac\uc0b0; \ud070 \uac00\ucd95 \ub3d9\ubb3c",
         "cs": "pen\u00edze, hotovost, \u00faspory, bohatstv\u00ed; dobytek",
@@ -7357,7 +7357,7 @@
         "uk": "\u043c'\u044f\u043a\u0430 \u0442\u0432\u0430\u0440\u0438\u043d\u0430, \u043d\u0430\u043f\u0440\u0438\u043a\u043b\u0430\u0434 \u0440\u0430\u0432\u043b\u0438\u043a, \u0441\u043b\u0438\u0437\u043d\u044f\u043a \u0430\u0431\u043e \u0433\u0443\u0431\u043a\u0430",
         "da": "et bl\u00f8dt dyr, f.eks. en snegl, en snegl eller en svamp",
         "hr": "mekana, vla\u017ena \u017eivotinja, npr. pu\u017e, pu\u017e gola\u0107, spu\u017eva",
-        "sv": "bl\u00f6ddjur, som sniglar, sn\u00e4ckor eller svampdjur",
+        "sv": "bl\u00f6tdjur, sniglar, sn\u00e4ckor eller svampdjur",
         "ja": "\u306c\u3081\u306c\u3081\u3057\u305f\u52d5\u7269 (\u30ab\u30bf\u30c4\u30e0\u30ea\u3001\u30ca\u30e1\u30af\u30b8\u3001\u6d77\u7dbf\u306a\u3069)",
         "cs": "m\u011bkk\u00e9 zv\u00ed\u0159\u00e1tko, nap\u0159. \u0161nek, slim\u00e1k, nebo mo\u0159sk\u00e1 houba"
       }
@@ -7782,7 +7782,7 @@
         "da": "mange, meget, mere, flere; m\u00e6ngde | ALT tre (eller flere), 20",
         "haw": "kini, mano, lehu, nui, kekahi mau | ALT \u02bbekolu (\u0101 i \u02bbole nui a\u02bbe), 20",
         "hr": "puno, vi\u0161e, mnogo, nekoliko, vrlo; koli\u010dina | ALT tri (ili vi\u0161e), 20",
-        "sv": "m\u00e5nga, mycket, mer, flera, v\u00e4ldigt; m\u00e4ngd |ALT tre (eller mer), 20",
+        "sv": "m\u00e5nga, mycket, mer, flera, v\u00e4ldigt; m\u00e4ngd | ALT tre (eller mer), 20",
         "ja": "\u305f\u304f\u3055\u3093\u306e\u3001\u591a\u3044\u3001\u3044\u304f\u3064\u304b\u306e\u3001\u3082\u3063\u3068\u3001\u3068\u3066\u3082\u3001\u975e\u5e38\u306b; \u91cf | ALT \u4e09\u4ee5\u4e0a\u3001\u4e8c\u5341",
         "ko": "\ub9ce\uc740, \ub354, \uac1c\uc218 | ALT 3 \uc774\uc0c1\uc758 \uc22b\uc790, \uc2a4\ubb3c",
         "cs": "mnoho, spoustu, v\u00edce, hodn\u011b, n\u011bkolik, velmi; mno\u017estv\u00ed | ALT t\u0159i (a v\u00edce), 20",
@@ -9183,6 +9183,7 @@
         "uk": "\u0441\u043e\u043d, \u043c\u0440\u0456\u044f, \u0432\u0438\u0433\u0430\u0434\u0430\u043d\u0430 \u0433\u0440\u0430, \u0431\u0430\u0447\u0435\u043d\u043d\u044f, \u043c\u0456\u0441\u0442\u0438\u0447\u043d\u0438\u0439 \u0441\u0442\u0430\u043d; \u0431\u0443\u0442\u0438 \u0443 \u0441\u0442\u0430\u043d\u0456 \u0442\u0440\u0430\u043d\u0441\u0443",
         "da": "dr\u00f8m, dagdr\u00f8m, fantasileg, vision, mystisk tilstand; at g\u00e5 ind",
         "hr": "san, sanjariti, ma\u0161tati, vizija, misti\u010dno stanje, misti\u010dnost",
+        "sv": "dr\u00f6m, dagdr\u00f6m, lek, vision, mystiskt tillst\u00e5nd; att f\u00f6rs\u00e4tta i trans",
         "ja": "\u5922\u3001\u767d\u663c\u5922\u3001\u5275\u4f5c\u904a\u3073\u3001\u5e7b\u8996\u3001\u795e\u79d8\u4f53\u9a13; \u9b45\u60d1\u3059\u308b",
         "cs": "sn\u00edt, fantaz\u00edrovat"
       }
@@ -9281,6 +9282,7 @@
         "uk": "\u041e\u0440\u0443\u0435\u043b\u0456\u0432\u0441\u044c\u043a\u0438\u0439, \u0442\u043e\u0442\u0430\u043b\u0456\u0442\u0430\u0440\u043d\u0438\u0439, \u0432\u0456\u0434\u043d\u043e\u0441\u044f\u0447\u0438\u0439\u0441\u044f \u0434\u043e \u0430\u0431\u043e \u043f\u043e\u0432'\u044f\u0437\u0430\u043d\u0438\u0439 \u0437 \u0412\u0435\u043b\u0438\u043a\u0438\u043c \u0411\u0440\u0430\u0442\u043e\u043c (\u0437 1984), \u0430\u043d\u0442\u043e\u043d\u0456\u043c kamalawala",
         "da": "orwellsk, totalit\u00e6r, af eller relateret til Big Brother (fra 1984), antonym til kamalawala",
         "hr": "Orwellijsko, totalitarijansko, vezano uz Big Brothera (iz knjige 1984), suprotno od \"kamalawala\"",
+        "sv": "Orwellsk, totalit\u00e4r, av eller releterad till Storebror (fr\u00e5n 1984), antonym till kamalawala",
         "ja": "\u30aa\u30fc\u30a6\u30a7\u30eb\u7684\u306a\u4e16\u754c\u50cf\u306e\u3001\u5168\u4f53\u4e3b\u7fa9\u306e\u3001\u300e1984\u5e74\u300f\u306e\u72ec\u88c1\u8005\u30fb\u30d3\u30c3\u30b0\u30fb\u30d6\u30e9\u30b6\u30fc\u306b\u95a2\u806f\u3057\u305f\u3001kamalawala \u306e\u5bfe\u7fa9\u8a9e",
         "cs": "orwelovsk\u00fd, totalitn\u00ed, vztahuj\u00edc\u00ed se k Velk\u00e9mu Bratru (z rom\u00e1nu 1984), opak ke kamalawala"
       }
@@ -9321,6 +9323,7 @@
         "uk": "(\u0432\u0438\u0433\u0443\u043a) bruh; \u0432\u0438\u0440\u0430\u0437 \u043d\u0435\u0434\u043e\u0432\u0456\u0440\u0438, \u0440\u043e\u0437\u0434\u0440\u0430\u0442\u0443\u0432\u0430\u043d\u043d\u044f \u0430\u0431\u043e \u0445\u0432\u0438\u043b\u044e\u0432\u0430\u043d\u043d\u044f",
         "da": "[bruh; udtryk for vantro, irritation eller ophidselse",
         "hr": "[usklik] \"bruh\" (eng.); izraz nevjerice, ogor\u010denja ili uzbu\u0111ensti",
+        "sv": "[interjektion] bruh; utryck av misstro, irritation, eller exaltering",
         "io": "(indikar apatio, ecito, o konfuzigeso)",
         "ja": "[\u611f\u5606\u8a5e] \u304a\u3044\u3061\u3087\u3063\u3068; \u4e0d\u4fe1\u611f\u3001\u3044\u3089\u3060\u3061\u3001\u8208\u596e\u306e\u8868\u73fe",
         "cs": "(citoslovce) eh, no; vyj\u00e1d\u0159en\u00ed ned\u016fv\u011bry, podr\u00e1\u017ed\u011bn\u00ed"
@@ -9380,7 +9383,7 @@
         "da": "forkludret, brudt, beskadiget, skadet, forstyrret, \u00f8delagt, smadret | ALT (bandeord, f.eks. fuck!)",
         "haw": "w\u0101hi, haku, ho\u02bbopilikia | ALT (he ho\u02bb\u014dho \u2014 \u201ctsa\u201d)",
         "hr": "pokvareno, pokidano, o\u0161te\u010deno, ozlije\u0111eno, zabrljano | ALT (psovka, npr. jebote!)",
-        "sv": "misslyckande, trasig, bruten, skadad, upptrasslad | ALT (svordom, e.g. fan!)",
+        "sv": "misslyckande, trasig, bruten, skadad, upptrasslad | ALT (svordom, t.ex. fan!)",
         "ja": "\u58ca\u308c\u305f\u3001\u50b7\u3064\u3044\u305f\u3001\u5931\u6557\u3057\u305f\u3001\u58ca\u3059\u3001\u50b7\u3064\u3051\u308b | ALT (\u300c\u304f\u305d\uff01\u300d\u306e\u3088\u3046\u306a\u7f75\u58f0)",
         "ko": "\uc190\uc0c1\ub418\ub2e4, \ubd80\uc218\ub2e4, \ub9dd\uce58\ub2e4 | ALT (\uc695, \uc608: \uc544\uc774\uc528!)",
         "cs": "nevyda\u0159en\u00fd, rozbit\u00fd, po\u0161kozen\u00fd, zran\u011bn\u00fd, zane\u0159\u00e1d\u011bn\u00fd | ALT (nad\u00e1vka, nap\u0159. sakra!)",
@@ -9435,7 +9438,7 @@
         "uk": "\u043f\u0435\u0440\u0435\u0441\u0442\u0430\u0442\u0438, \u0437\u0443\u043f\u0438\u043d\u0438\u0442\u0438, \u0437\u0443\u043f\u0438\u043d\u0438\u0442\u0438\u0441\u044f; \u043f\u0435\u0440\u0435\u0433\u043e\u0440\u043e\u0434\u0438\u0442\u0438 \u0448\u043b\u044f\u0445, \u043f\u0435\u0440\u0435\u0440\u0432\u0430\u0442\u0438; \u0437\u0430\u043f\u043e\u0431\u0456\u0433\u0442\u0438",
         "da": "stop, oph\u00f8re, standse; at blokere vejen, afbryde; at forhindre",
         "hr": "prekinuti, zaustaviti; blokirati (put); sprije\u010diti",
-        "sv": "stoppa, avbryta; att blockera, att avbryta; att f\u00f6rhindra",
+        "sv": "stoppa, avbryta; att blockera; att f\u00f6rhindra",
         "io": "stopar, cesar, haltar; obstruktar, impedar, interruptar; evitar",
         "ja": "\u6b62\u3081\u308b\u3001\u3084\u3081\u308b\u3001\u505c\u6b62\u3059\u308b\u3001\u4e2d\u6b62\u3059\u308b\u3001\u4e2d\u65ad\u3059\u308b; \u585e\u3050\u3001\u906e\u65ad\u3059\u308b\u3001\u7981\u6b62\u3059\u308b; \u9632\u6b62\u3059\u308b",
         "cs": "p\u0159estat, zastavit; zablokovat, p\u0159eru\u0161it; zabr\u00e1nit",
@@ -9733,6 +9736,7 @@
         "uk": "\u0433\u0430\u0440\u043d\u0438\u0439, \u043b\u0435\u0433\u043a\u0438\u0439; \u043f\u0440\u043e\u0441\u0442\u0438\u0439, \u0440\u043e\u0437\u0441\u043b\u0430\u0431\u043b\u0435\u043d\u0438\u0439, \u043c\u0438\u0440\u043d\u0438\u0439, \u043d\u0435\u0437\u0430\u043c\u0438\u0441\u043b\u0443\u0432\u0430\u0442\u0438\u0439",
         "da": "god, let; enkel, afslappet, fredelig, fredelig, ukompliceret",
         "hr": "dobro, lagano; jednostavno, opu\u0161teno, mirno, nekomplicirano",
+        "sv": "god, enkel; simpel, avslappnad, fridfull, okomplicerad",
         "io": "bona, facila; simpla, destensaba, pacoza, deskomplexa",
         "ja": "\u3088\u3044\u3001\u7c21\u5358\u306a; \u308f\u304b\u308a\u3084\u3059\u3044\u3001\u3086\u3063\u305f\u308a\u3057\u305f\u3001\u5b89\u3089\u304b\u306a\u3001\u8fbc\u307f\u5165\u3063\u3066\u3044\u306a\u3044",
         "cs": "dobr\u00fd, kladn\u00fd, u\u017eite\u010dn\u00fd; p\u0159\u00edv\u011btiv\u00fd, p\u0159\u00e1telsk\u00fd; snadn\u00fd, prost\u00fd"
@@ -9781,6 +9785,7 @@
         "uk": "\u0431\u0440\u0430\u0442, \u0441\u0435\u0441\u0442\u0440\u0430, \u0441\u0456\u0431\u043b\u0438\u043d\u0433",
         "da": "bror, s\u00f8ster, s\u00f8skende",
         "hr": "brat, sestra",
+        "sv": "bror, syster, syskon",
         "io": "fratulo, fratino, frato",
         "ja": "\u5144\u5f1f\u3001\u59c9\u59b9\u3001\u304d\u3087\u3046\u3060\u3044\u3001\u540c\u80de",
         "cs": "bratr, sestra, sourozenec"
@@ -9824,6 +9829,7 @@
         "uk": "\u0437\u0435\u043b\u0435\u043d\u0438\u0439, \u0437\u0435\u043b\u0435\u043d\u0443\u0432\u0430\u0442\u0438\u0439; \u0436\u0438\u0432\u0438\u0439; \u0435\u043a\u043e\u043b\u043e\u0433\u0456\u0447\u043d\u043e \u0447\u0438\u0441\u0442\u0438\u0439",
         "da": "gr\u00f8n, gr\u00f8nlig; gr\u00f8nlig, levende; milj\u00f8venlig",
         "hr": "zeleno, zelenkasto; \u017eivo; ekolo\u0161ki prihvatljivo",
+        "sv": "gr\u00f6n, gr\u00f6naktig; gr\u00f6nskande, levande; milj\u00f6v\u00e4nlig",
         "io": "verda, verdo, ekologia",
         "ja": "\u7dd1\u8272\u306e\u3001\u7dd1\u304c\u304b\u3063\u305f; \u9752\u3005\u3068\u3057\u305f\u3001\u751f\u304d\u751f\u304d\u3057\u305f; \u74b0\u5883\u306b\u3084\u3055\u3057\u3044",
         "cs": "zelen\u00fd, zelenav\u00fd; zelenaj\u00edc\u00ed se; \u0161etrn\u00fd k p\u0159\u00edrod\u011b"
@@ -9871,6 +9877,7 @@
         "uk": "\u043f\u043b\u0430\u043a\u0430\u0442\u0438, \u0441\u043b\u044c\u043e\u0437\u0438; \u0441\u0443\u043c\u043d\u0438\u0439, \u0441\u0443\u043c",
         "da": "cry, t\u00e5rer; trist, sorg, tristhed",
         "hr": "plakati, suza; tuga, tu\u017eno",
+        "sv": "gr\u00e5ta, t\u00e5rar; ledsen, sorg",
         "io": "plorar, lakrimi; trista, tristeso",
         "ja": "\u6ce3\u304f\u3001\u6d99; \u60b2\u3057\u3044\u3001\u60b2\u6b4e",
         "cs": "plakat, slzy; smutn\u00fd, smutek"
@@ -9931,7 +9938,7 @@
         "da": "(bruges til at opdele en anden navneordsgruppe, der beskriver en f\u00f8rste navneordsgruppe) | ALT (introducerer et genitivnomen)",
         "haw": "(e ho\u02bbohana \u02bbia ana no ka moku i ka p\u016b\u02bbulu hua\u02bb\u014dlelo \u02bbelua, i ka p\u016b\u02bbulu \u02bbekahi, e loli \u02bbia ka p\u016b\u02bbulu \u02bbekahi e ka p\u016b\u02bbulu \u02bbelua) | ALT (e ho\u02bbopuka i ka ha\u02bbiinoa o kekahi aku ha\u02bbiinoa)",
         "hr": "od (dijeli drugu skupinu imenica koja opisuje prvu) | ALT (ozna\u010dava imenicu u genitivu)",
-        "sv": "av (anv\u00e4nt f\u00f6r att indikera den andra gruppen substantiv som beskriver den f\u00f6rsta gruppen substantiv | ALT (introducerar ett genitivt substantiv)",
+        "sv": "av (anv\u00e4nt f\u00f6r att indikera den andra gruppen substantiv som beskriver den f\u00f6rsta gruppen substantiv) | ALT (introducerar ett genitivt substantiv)",
         "ja": "\uff5e\u306e (\u76f4\u524d\u306e\u540d\u8a5e(\u53e5)\u3068\u3001\u305d\u308c\u3092\u4fee\u98fe\u3059\u308b\u540d\u8a5e\u53e5\u3068\u306e\u533a\u5207\u308a\u3092\u793a\u3059) | ALT (\u5c5e\u683c\u306e\u8a9e\u3092\u4f5c\u308b)",
         "cs": "(odd\u011bluje popisn\u00e9 skupiny) | ALT (uv\u00e1d\u00ed dopln\u011bk)",
         "nno": "av (introduserer eit substantivuttrykk som beskriv/utdyper f\u00f8reg\u00e5ande uttrykk) | ALT (introduserer eit genitivisk substantivuttrykk)",
@@ -9969,6 +9976,7 @@
         "uk": "\u0435\u043b\u0435\u043a\u0442\u0440\u0438\u0447\u043d\u0438\u0439, \u0435\u043b\u0435\u043a\u0442\u0440\u043e\u043d\u043d\u0438\u0439, \u0442\u043e\u043a\u043e\u043f\u0440\u043e\u0432\u043e\u0434\u044f\u0447\u0438\u0439, \u043c\u0435\u0445\u0430\u043d\u0456\u0447\u043d\u0438\u0439, \u043e\u043d\u043b\u0430\u0439\u043d; \u0435\u043b\u0435\u043a\u0442\u0440\u0438\u043a\u0430, \u0431\u043b\u0438\u0441\u043a\u0430\u0432\u043a\u0430, \u0433\u0440\u0456\u043c, \u043c\u0435\u0440\u0435\u0436\u0430",
         "da": "elektrisk, elektronisk, ledende, mekanisk, online; elektricitet, lyn, torden, netv\u00e6rk",
         "hr": "elektri\u010dno, elektroni\u010dno, provodno, mehani\u010dko, on-line; elektricitet, munja, grmljavina, mre\u017ea",
+        "sv": "elektrisk, elektronisk, ledande, mekanisk, online; elektricitet, blixt, \u00e5ska, n\u00e4tverk",
         "ja": "\u96fb\u6c17\u306e\u3001\u96fb\u5b50\u306e\u3001\u4f1d\u5c0e\u6027\u306e\u3001\u6a5f\u68b0\u7684\u306a\u3001\u30aa\u30f3\u30e9\u30a4\u30f3\u306e; \u96fb\u6c17\u3001\u96fb\u5149\u3001\u96f7\u3001\u30cd\u30c3\u30c8\u30ef\u30fc\u30af",
         "cs": "elektrick\u00fd, elektronick\u00fd, vodiv\u00fd, mechanick\u00fd, online; elekt\u0159ina, blesk, hrom, s\u00ed\u0165"
       }
@@ -10134,6 +10142,7 @@
         "da": "bil",
         "hr": "automobil",
         "cy": "car",
+        "sv": "bil",
         "ja": "\u8eca",
         "cs": "auto"
       }
@@ -10302,6 +10311,7 @@
         "da": "irritere, irritation, generer, irriterende, kedelig",
         "hr": "smetati (nekomu), biti dosadan (nekomu), izdosa\u0111ivati (nekoga); gnjave\u017e",
         "cy": "blinderus, diflas",
+        "sv": "irritera, irritation, jobbig, tr\u00e5kig",
         "io": "agacar, agacanta, agaciva, boro",
         "ja": "\u60a9\u307e\u305b\u308b\u3001\u7169\u308f\u3057\u3044\u3001\u866b\u304c\u597d\u304b\u306a\u3044\u3001\u60a9\u307f\u306e\u7a2e\u3001\u5384\u4ecb\u306a\u3001\u3046\u3093\u3056\u308a\u3059\u308b",
         "cs": "zlost, mrzutost"
@@ -10353,6 +10363,7 @@
         "da": "fire",
         "hr": "\u010detiri",
         "cy": "pedwar",
+        "sv": "fyra",
         "io": "quar",
         "ja": "\u56db",
         "cs": "\u010dty\u0159i",
@@ -10524,6 +10535,7 @@
         "uk": "\u043a\u0435\u0433\u043b\u044f \u0434\u043b\u044f \u0431\u043e\u0443\u043b\u0456\u043d\u0433\u0443",
         "da": "bowlingkegle",
         "hr": "\u010dunj",
+        "sv": "bowlingk\u00e4gla",
         "io": "keglo",
         "ja": "\u30dc\u30a6\u30ea\u30f3\u30b0\u306e\u30d4\u30f3",
         "cs": "ku\u017eelka"
@@ -10571,6 +10583,7 @@
         "uk": "\u0435\u0444\u0435\u043a\u0442\u0438\u0432\u043d\u0438\u0439, \u043a\u043e\u0440\u0438\u0441\u043d\u0438\u0439, \u0434\u0430\u0432\u0430\u0442\u0438 \u0433\u0430\u0440\u043d\u0438\u0439 \u0440\u0435\u0437\u0443\u043b\u044c\u0442\u0430\u0442",
         "da": "effektiv, nyttig, giver gode resultater",
         "hr": "korisno, u\u010dinkovito, daje dobre rezultate",
+        "sv": "effektiv, anv\u00e4ndbar, ge goda resultat",
         "io": "efikiva, efikema, donar bona rezulti",
         "ja": "\u52b9\u679c\u7684\u306a\u3001\u6709\u76ca\u306a\u3001\u3088\u3044\u7d50\u679c\u3092\u3082\u305f\u3089\u3059",
         "cs": "\u00fa\u010dinn\u00fd, u\u017eite\u010dn\u00fd, d\u00e1vaj\u00edc\u00ed dobr\u00e9 v\u00fdsledky"
@@ -10667,6 +10680,7 @@
         "zh_hans": "\u9a6c\u3001\u5c0f\u9a6c",
         "uk": "\u043f\u043e\u043d\u0456, \u043a\u0456\u043d\u044c",
         "da": "pony, hest",
+        "sv": "ponny, h\u00e4st",
         "ja": "\u4ed4\u99ac\u3001\u99ac",
         "cs": "pon\u00edk"
       }
@@ -10716,7 +10730,7 @@
         "uk": "\u043d\u0435\u0441\u043f\u0440\u0430\u0432\u0436\u043d\u0456\u0439, \u0445\u0438\u0431\u043d\u0438\u0439, \u043d\u0435\u0432\u0456\u0440\u043d\u0438\u0439; \u043f\u0440\u0438\u0442\u0432\u043e\u0440\u044f\u0442\u0438\u0441\u044f; \u0431\u0440\u0435\u0445\u043d\u044f, \u0445\u0438\u0442\u0440\u043e\u0449\u0456",
         "da": "uvirkeligt, falsk, usandt; foregive; bedrage, snyde",
         "hr": "nestvarno, neistinito, la\u017eno; pretvarati se; prevariti",
-        "sv": "overklig, falsk,; l\u00e5tsas; lura",
+        "sv": "overklig, falsk; l\u00e5tsas; lura",
         "io": "nereala, nevera, falsa; finga; trompar, fraudar",
         "ja": "\u5b9f\u5728\u3057\u306a\u3044\u3001\u507d\u308a\u306e\u3001\u67b6\u7a7a\u306e\u3001\u5618\u306e\u3001\u865a\u507d\u306e; \u898b\u305b\u304b\u3051\u308b; \u6b3a\u304f\u3001\u9a19\u3059",
         "cs": "neskute\u010dn\u00fd, nepradiv\u00fd, l\u017eiv\u00fd; podv\u00e9st, obelhat",
@@ -10775,7 +10789,7 @@
         "da": "der interagerer med/vedr\u00f8rer den officielle Toki Pona-bog \"Toki Pona: The Language of Good\" af Sonja Lang",
         "haw": "ho\u02bbohana i ka puke mua o Toki Pona",
         "hr": "interakcija sa slu\u017ebenom Toki Pona knjigom",
-        "sv": "att interagera med den officiella Toki Pona-boken (Toki Pona: The Language of Good)",
+        "sv": "att interagera med den officiella Toki Pona-boken (\"Toki Pona: The Language of Good\" av Sonja Lang)",
         "ja": "\u516c\u5f0f\u30c8\u30ad\u30dd\u30ca\u66f8\u306b\u901a\u3058\u3066\u3044\u308b",
         "cs": "vztahuj\u00edc\u00ed se k ofici\u00e1ln\u00ed knize o Toki Pona",
         "nno": "\u00e5 interagere med den offisielle boka Toki Pona: The Language of Good",
@@ -10818,7 +10832,7 @@
         "uk": "\u043c'\u044f\u043a\u0438\u0439, \u0434\u0435\u043b\u0456\u043a\u0430\u0442\u043d\u0438\u0439, \u043f\u0443\u0445\u043d\u0430\u0441\u0442\u0438\u0439",
         "da": "fluffy, bl\u00f8d, squishy (noget, der kan komprimeres og vil fors\u00f8ge at vende tilbage til sin oprindelige form)",
         "hr": "meko, paperjasto (vra\u0107a se u originalni oblik nakon kompresije/deformacije)",
-        "sv": "fluffig, mjuk (n\u00e5got som han bli ihoptryckt och kommer f\u00f6rs\u00f6ka \u00e5terg\u00e5 till sin ursprungliga form)",
+        "sv": "fluffig, mjuk (n\u00e5got som kan bli ihoptryckt och kommer f\u00f6rs\u00f6ka \u00e5terg\u00e5 till sin ursprungliga form)",
         "io": "mola, lanugatra, lanugoza",
         "ja": "\u3075\u308f\u3075\u308f\u3057\u305f\u3001\u67d4\u3089\u304b\u3044\u3001\u3076\u306b\u3087\u3076\u306b\u3087\u3057\u305f (\u5727\u3057\u3064\u3051\u3066\u3082\u5143\u306e\u5f62\u72b6\u306b\u623b\u308d\u3046\u3068\u3059\u308b\u3082\u306e)",
         "cs": "nad\u00fdchan\u00fd, na\u010dechran\u00fd, hebk\u00fd, m\u011bkou\u010dk\u00fd (n\u011bco co lze zm\u00e1\u010dknout a vr\u00e1t\u00ed se do p\u016fvodn\u00edho tvaru)",
@@ -10934,6 +10948,7 @@
         "uk": "\u0445\u043e\u0442\u0456\u0442\u0438 \u0441\u0442\u0432\u043e\u0440\u044e\u0432\u0430\u0442\u0438 \u043d\u043e\u0432\u0456 \u0441\u043b\u043e\u0432\u0430",
         "da": "\u00f8nsker at skabe nye ord",
         "hr": "\u017eelja za stvarenjem novih rije\u010di",
+        "sv": "\u00f6nskan att skapa nya ord",
         "io": "dezirar krear nova vorti",
         "ja": "\u65b0\u8a9e\u3092\u9020\u308a\u305f\u304f\u306a\u308b\u6b32\u6c42",
         "cs": "cht\u00edt tvo\u0159it nov\u00e1 slova"
@@ -10984,6 +10999,7 @@
         "da": "tre",
         "hr": "tri",
         "cy": "tri",
+        "sv": "tre",
         "io": "tri",
         "ja": "\u4e09",
         "cs": "t\u0159i"
@@ -11395,6 +11411,7 @@
         "uk": "\u0431\u0456\u043b\u044c\u0448 \u0432\u0438\u0441\u043e\u043a\u043e\u0433\u043e \u0440\u0456\u0432\u043d\u044f, \u043f\u0440\u043e\u0441\u0432\u0456\u0447\u0435\u043d\u0438\u0439, \u0435\u043f\u0456\u0447\u043d\u0438\u0439; \u0443 \u0437\u0430\u043d\u0430\u0434\u0442\u043e \u0432\u0435\u043b\u0438\u043a\u0456\u0439 \u043c\u0456\u0440\u0456",
         "da": "p\u00e5 et h\u00f8jere niveau/plan, oplyst(e), episk; i overordentlig h\u00f8j grad",
         "hr": "na vi\u0161oj razini, prosvijetljeno",
+        "sv": "p\u00e5 en h\u00f6gre niv\u00e5/plan, upplyst, episk; i en v\u00e4lsigt stor utstr\u00e4ckning",
         "io": "saja, esar en supera plano",
         "ja": "\u9ad8\u6b21\u5143\u306e\u3001\u609f\u308a\u306b\u9054\u3057\u305f\u3001\u30e4\u30d0\u3044; \u3068\u307b\u3046\u3082\u306a\u3044\u3001\u8d85\u7d76",
         "cs": "na vy\u0161\u0161\u00edm stupni/\u00farovni, osv\u00edcen\u00ed, osv\u00edcen\u00fd"
@@ -11619,6 +11636,7 @@
         "zh_hans": "\u81ea\u6211\u3001\u81ea\u5df1",
         "uk": "\u0435\u0433\u043e, \u0441\u0435\u0431\u0435, \u0441\u0430\u043c, \u0441\u0430\u043c\u043e, \u0432\u043b\u0430\u0441\u043d\u0438\u0439",
         "da": "ego, selv, egen",
+        "sv": "ego, sj\u00e4lv, egen",
         "io": "ego, onua, su, propa",
         "ja": "\u81ea\u5df1\u3001\u81ea\u5206\u3001\u81ea\u8eab",
         "cs": "ego, j\u00e1, vlastn\u00ed osoba, sebe"
@@ -11716,6 +11734,7 @@
         "uk": "(\u043f\u0440\u0438\u043a\u043e\u043b\u044c\u043d\u0438\u0439 \u0441\u0438\u043d\u043e\u043d\u0456\u043c lape)",
         "da": "[humoristisk synonym for lape]",
         "hr": "[\u0161aljivi sinonim s lape]",
+        "sv": "[humoristisk synonym av lape]",
         "ja": "[lape \u306e\u8ae7\u8b14\u7684\u306a\u540c\u7fa9\u8a9e]",
         "cs": "[humorn\u00e9 synonymum k lape]",
         "nl": "[grappig synoniem van lape]"
@@ -11883,6 +11902,7 @@
         "uk": "\u043b\u0456\u0432\u0438\u0439, \u0437\u043b\u0456\u0432\u0430",
         "da": "venstre, venstre side, bagbord side",
         "hr": "lijevo, lijeva strana",
+        "sv": "v\u00e4nster, v\u00e4nstra sidan, babord",
         "io": "sinistra, sinistra flanko",
         "ja": "\u5de6\u3001\u5de6\u5074\u3001\u5de6\u8237",
         "cs": "lev\u00fd, lev\u00e1 strana"
@@ -11983,6 +12003,7 @@
         "uk": "(\u0441\u043b\u043e\u0432\u043e \u0437\u0430\u0440\u0435\u0437\u0435\u0440\u0432\u043e\u0432\u0430\u043d\u043e \u0434\u043b\u044f \u043c\u0430\u0439\u0431\u0443\u0442\u043d\u044c\u043e\u0433\u043e \u0432\u0438\u043a\u043e\u0440\u0438\u0441\u0442\u0430\u043d\u043d\u044f \u0421\u043e\u043d\u0435\u044e \u041b\u0430\u043d\u0433)",
         "da": "(ord reserveret til fremtidig brug af Sonja Lang)",
         "hr": "(Sonja Lang je rezervirala ovu rije\u010d i trenuta\u010dno nema zna\u010denja)",
+        "sv": "(reserverat ord f\u00f6r framtida anv\u00e4ndning av Sonja Lang)",
         "ja": "(\u30bd\u30cb\u30e3\u30fb\u30e9\u30f3\u30b0\u6c0f\u306e\u4eca\u5f8c\u306e\u5229\u7528\u306e\u305f\u3081\u78ba\u4fdd\u3055\u308c\u308b\u5358\u8a9e)",
         "cs": "(slovo zamluven\u00e9 Sonjou Lang pro pozd\u011bj\u0161\u00ed pou\u017eit\u00ed)",
         "nl": "(dit woord is gereserveerd voor toekomstig gebruik door Sonja Lang)"
@@ -12022,6 +12043,7 @@
         "uk": "(\u043f\u043e\u043c\u0438\u043b\u043a\u0430 \u0443 \u0441\u043b\u043e\u0432\u0456 sike)",
         "da": "[trykfejl af sike]",
         "hr": "[tipografska pogre\u0161ka pri pisanju rije\u010di \"sike\"]",
+        "sv": "[stavfel av sike]",
         "ja": "[sike \u306e\u8aa4\u690d]",
         "cs": "[p\u0159eklep v sike]"
       }
@@ -12253,6 +12275,7 @@
         "da": "platypus",
         "hr": "\u010dudnovati kljuna\u0161",
         "cy": "hwyatbig",
+        "sv": "n\u00e4bbdjur",
         "io": "ornitorinko",
         "ja": "\u30ab\u30e2\u30ce\u30cf\u30b7",
         "cs": "ptakopysk",
@@ -12312,7 +12335,7 @@
         "da": "s\u00f8d, duftende; nuttet, uskyldig, yndig",
         "haw": "mona, kuhikuhi; \u02bbauli\u02bbi, nani",
         "hr": "slatko, mirisno; nevino, neodoljivo",
-        "sv": "s\u00f6t, doftande; gullig, oskyldig, f\u00f6rtjusande",
+        "sv": "s\u00f6t, v\u00e4ldoftande; gullig, oskyldig, f\u00f6rtjusande",
         "ja": "\u7518\u3044\u3001\u9999\u3057\u3044; \u304b\u308f\u3044\u3044\u3001\u7d14\u771f\u306a\u3001\u611b\u3089\u3057\u3044",
         "cs": "sladk\u00fd, vonn\u00fd; roztomil\u00fd, rozko\u0161n\u00fd, nevinn\u00fd",
         "nno": "s\u00f8t, aromatisk; yndefull, nett, uskyldig",
@@ -12644,6 +12667,7 @@
         "uk": "\u043f\u0440\u0430\u0432\u0438\u0439, \u0441\u043f\u0440\u0430\u0432\u0430",
         "da": "h\u00f8jre, h\u00f8jre side, styrbord",
         "hr": "desno, desna strana",
+        "sv": "h\u00f6ger, h\u00f6ger sida, styrbord",
         "io": "dextra, dextra flanko",
         "ja": "\u53f3\u3001\u53f3\u5074\u3001\u53f3\u8237",
         "cs": "prav\u00fd, prav\u00e1 strana"
@@ -12702,7 +12726,7 @@
         "da": "vand, v\u00e6ske, fluid, v\u00e6ske, v\u00e5dt stof; drikkevarer",
         "haw": "he wai",
         "hr": "voda, teku\u0107ina, mokra tvar, pi\u0107e",
-        "sv": "watten, v\u00e4tska, v\u00e5t substans; dryck",
+        "sv": "vatten, v\u00e4tska, v\u00e5t substans; dryck",
         "ja": "\u6c34\u3001\u6db2\u4f53\u3001\u6d41\u308c\u3001\u6fe1\u308c\u305f; \u98f2\u307f\u7269",
         "cs": "voda, tekutina, kapalina, mokr\u00e1 l\u00e1tka; n\u00e1poj",
         "nno": "vatn, v\u00e6ske, flytande form, v\u00e5tt stoff; drikke",
@@ -12749,6 +12773,7 @@
         "uk": "(\u0441\u043a\u043e\u0440\u043e\u0447\u0435\u043d\u043d\u044f tenpo)",
         "da": "(forkortet variant af tenpo)",
         "hr": "(skra\u0107enica rije\u010di \"tenpo\")",
+        "sv": "(f\u00f6rkortad variant av tenpo)",
         "io": "(kurtigita formo de la vorto tenpo)",
         "ja": "(tenpo \u306e\u7e2e\u7d04\u5f62)",
         "cs": "(zkr\u00e1cen\u00e1 verze tenpo)"
@@ -12899,6 +12924,7 @@
         "uk": "\u0444\u043e\u043a\u0443\u0441, \u0443\u0432\u0430\u0433\u0430, \u043a\u043e\u043d\u0446\u0435\u043d\u0442\u0440\u0430\u0446\u0456\u044f, \u0432\u0438\u0437\u043d\u0430\u0447\u0435\u043d\u043d\u044f, \u0434\u043e\u0441\u043a\u043e\u043d\u0430\u043b\u0456\u0441\u0442\u044c; \u0437\u043e\u0441\u0435\u0440\u0435\u0434\u0436\u0443\u0432\u0430\u0442\u0438\u0441\u044f \u043d\u0430",
         "da": "fokus, opm\u00e6rksomhed, koncentrere sig, opl\u00f8sning, finesse; fokusere p\u00e5",
         "hr": "fokus, pa\u017enja, koncentracija; usredoto\u010diti se na ne\u0161to",
+        "sv": "fokus, uppm\u00e4rksamhet, konentreran uppl\u00f6sning, finhet; fokusera p\u00e5",
         "io": "foko, atenco, koncentrar, rezolvo, tenuesa; enfokigar",
         "ja": "\u7126\u70b9\u3001\u6ce8\u76ee\u3001\u96c6\u4e2d\u3055\u305b\u308b\u3001\u89e3\u50cf\u5ea6\u3001\u7cbe\u7d30\u3055; \u7126\u70b9\u3092\u5408\u308f\u305b\u308b",
         "cs": "pozornost, soust\u0159ed\u011bn\u00ed, koncentrace"
@@ -12999,6 +13025,7 @@
         "uk": "(\u043f\u043e\u043c\u0438\u043b\u043a\u0430 \u0443 \u0441\u043b\u043e\u0432\u0456 tomo)",
         "da": "[stavem\u00e5de af tomo]",
         "hr": "[tipografska pogre\u0161ka pri pisanju rije\u010di \"tomo\"]",
+        "sv": "[stavfel av tomo]",
         "ja": "[tomo \u306e\u8aa4\u690d]",
         "cs": "[p\u0159eklep v tomo]"
       }
@@ -13056,7 +13083,7 @@
         "da": "indend\u00f8rs rum; bygning, hjem, hus, stue, v\u00e6relse",
         "haw": "he hale, he home, he lumi",
         "hr": "unutra\u0161nji prostor; zgrada, dom, ku\u0107a, soba",
-        "sv": "innomhusutrymme; byggnad, hem, hus, rum",
+        "sv": "innomhusutrymme; byggnad, struktur, hem, hus, rum",
         "ja": "\u5c4b\u5185\u7a7a\u9593; \u5efa\u7269\u3001\u4f4f\u5b85\u3001\u5bb6\u3001\u90e8\u5c4b",
         "cs": "vnit\u0159n\u00ed, dom\u00e1c\u00ed, pod st\u0159echou; budova, domov, d\u016fm, m\u00edstnost",
         "nno": "innad\u00f8rs omr\u00e5de, rom; hus, heim, bygning",
@@ -13232,6 +13259,7 @@
         "da": "tre",
         "hr": "tri",
         "cy": "tri",
+        "sv": "tre",
         "io": "tri",
         "ja": "\u4e09",
         "cs": "t\u0159i",
@@ -13270,6 +13298,7 @@
         "uk": "(\u0441\u043b\u043e\u0432\u043e \u0437\u0430\u0440\u0435\u0437\u0435\u0440\u0432\u043e\u0432\u0430\u043d\u043e \u0434\u043b\u044f \u043c\u0430\u0439\u0431\u0443\u0442\u043d\u044c\u043e\u0433\u043e \u0432\u0438\u043a\u043e\u0440\u0438\u0441\u0442\u0430\u043d\u043d\u044f \u0421\u043e\u043d\u0435\u044e \u041b\u0430\u043d\u0433)",
         "da": "(ord reserveret til fremtidig brug af Sonja Lang)",
         "hr": "(Sonja Lang je rezervirala ovu rije\u010d i trenuta\u010dno nema zna\u010denja)",
+        "sv": "(reserverat ord f\u00f6r framtida anv\u00e4ndning av Sonja Lang)",
         "ja": "(\u30bd\u30cb\u30e3\u30fb\u30e9\u30f3\u30b0\u6c0f\u306e\u4eca\u5f8c\u306e\u5229\u7528\u306e\u305f\u3081\u78ba\u4fdd\u3055\u308c\u308b\u5358\u8a9e)",
         "cs": "(slovo zamluven\u00e9 Sonjou Lang pro pozd\u011bj\u0161\u00ed pou\u017eit\u00ed)",
         "nl": "(dit woord is gereserveerd voor toekomstig gebruik door Sonja Lang)"
@@ -13306,6 +13335,7 @@
         "uk": "\u0434\u0438\u0432\u0443\u0432\u0430\u0442\u0438 \u043b\u044e\u0434\u0435\u0439, \u043b\u0456\u0434\u0438\u0440\u0443\u044e\u0447\u0438 \u0443 \u0441\u043f\u0438\u0441\u043a\u0443 \u0433\u0440\u0430\u0432\u0446\u0456\u0432 \u0443 \u0433\u0440\u0456 \u043d\u0430 \u0442\u043e\u043a\u0456 \u043f\u043e\u043d\u0430",
         "da": "forbl\u00f8ffe folk ved at ligge \u00f8verst p\u00e5 ranglisten i et toki pona-spil",
         "hr": "zadiviti ljude svojim mjestom na plo\u010di s najboljim rezultatima u Toki Pona (video) igri",
+        "sv": "f\u00f6rv\u00e5na folk genom att vara \u00f6verst p\u00e5 topplistan i ett Toki Pona-spel",
         "ja": "\u30c8\u30ad\u30dd\u30ca\u306e\u30b2\u30fc\u30e0\u3067\u30c8\u30c3\u30d7\u306b\u8e8d\u308a\u51fa\u3066\u307f\u3093\u306a\u3092\u9a5a\u304b\u305b\u308b",
         "cs": "ohromit lidi t\u00edm, \u017ee jste na vrcholu \u017eeb\u0159\u00ed\u010dku hry v Toki Pona"
       }
@@ -13677,6 +13707,7 @@
         "uk": "\u043a\u043e\u043d\u0442\u0435\u043a\u0441\u0442, \u0442\u0435\u043c\u0430, \u0437\u043d\u0430\u0447\u0438\u043c\u0456\u0441\u0442\u044c, \u0434\u043e\u0440\u0435\u0447\u043d\u0456\u0441\u0442\u044c, \u0430\u043a\u0442\u0443\u0430\u043b\u044c\u043d\u0456\u0441\u0442\u044c, \u043c\u0430\u0442\u0438 \u0432\u0456\u0434\u043d\u043e\u0448\u0435\u043d\u043d\u044f, \u0431\u0443\u0442\u0438 \u0430\u043a\u0442\u0443\u0430\u043b\u044c\u043d\u0438\u043c",
         "da": "kontekst, emne, relevans, relevant, aktuelt, vedr\u00f8re, v\u00e6re relevant",
         "hr": "kontekst, tema, istaknutost, odnositi se na",
+        "sv": "kontext, \u00e4mne, framtr\u00e4dande, relevans, aktuell, h\u00e4nf\u00f6ra sig till, vara relevant",
         "io": "kuntexto, temo, saliajo, relativa, salianta, apartenar, relativar",
         "ja": "\u6587\u8108\u3001\u4e8b\u60c5\u3001\u4e3b\u984c\u3001\u8ad6\u70b9\u3001\u95a2\u806f\u3059\u308b\u3001\u4e3b\u984c\u306e\u3001\u95a2\u4fc2\u3057\u305f",
         "cs": "kontext, souvislost, relevance, p\u0159\u00edpadnost"
@@ -13900,6 +13931,7 @@
         "uk": "\u0442\u0432\u0430\u0440\u0438\u043d\u0430 \u0432\u043e\u0434\u043d\u043e\u0447\u0430\u0441 \u0437 \u044f\u043a\u043e\u0441\u0442\u044f\u043c\u0438 waso \u0456 soweli",
         "da": "dyr med egenskaber af b\u00e5de waso og soweli",
         "hr": "\u017eivotinja s karakteristikama \"waso\"-a i \"soweli\"-a",
+        "sv": "djur med egenskaper av b\u00e5de waso och soweli",
         "ja": "waso \u3068 soweli \u53cc\u65b9\u306e\u7279\u5fb4\u3092\u3082\u3064\u52d5\u7269 (\u30da\u30f3\u30ae\u30f3\u306a\u3069)",
         "cs": "zv\u00ed\u0159e odpov\u00eddaj\u00edc\u00ed jak definici waso, tak i soweli"
       }
@@ -13957,7 +13989,7 @@
         "da": "st\u00e6rk, kraftfuld; selvsikker, sikker; energisk, intens",
         "haw": "ikaika; koa; wiki, \u02bbeleu",
         "hr": "sna\u017eno, mo\u0107no; pouzdano; energeti\u010dno, \u017eestoko",
-        "sv": "stark, kraftfull, modig, s\u00e4ker: energisk, intens",
+        "sv": "stark, kraftfull, modig, s\u00e4ker; energisk, intens",
         "ja": "\u5f37\u3044\u3001\u6709\u529b\u306a; \u81ea\u4fe1\u304c\u3042\u308b\u3001\u4fe1\u983c\u3067\u304d\u308b; \u6d3b\u767a\u306a\u3001\u5f37\u70c8\u306a\u3001\u529b\u3001\u30a8\u30cd\u30eb\u30ae\u30fc",
         "cs": "siln\u00fd, mocn\u00fd; sebev\u011bdom\u00fd, jist\u00fd; r\u00e1zn\u00fd, intenzivn\u00ed",
         "nno": "sterk, kraftig; sikker, p\u00e5liteleg; energisk, intens",
@@ -14002,6 +14034,7 @@
         "uk": "\u0449\u043e\u0441\u044c, \u0449\u043e \u043d\u0456\u0431\u0438\u0442\u043e \u043f\u043e\u0440\u0443\u0448\u0443\u0454 \u043f\u0440\u0430\u0432\u0438\u043b\u0430, \u0430\u043b\u0435 \u0437\u043d\u0430\u0445\u043e\u0434\u0438\u0442\u044c\u0441\u044f \u0443 \u0457\u0445 \u043c\u0435\u0436\u0430\u0445; \u043f\u0440\u043e\u0432\u043e\u043a\u0430\u0446\u0456\u044f",
         "da": "noget, der ser ud til at bryde reglerne, men som ikke g\u00f8r det; falsk kantethed, provokation",
         "hr": "ne\u0161to \u0161to na prvi pogled kr\u0161i pravila, ali se u stvarnosti pona\u0161a u skladu s njima; provokacija",
+        "sv": "n\u00e5got som verkar bryta mot reglerna men som inte g\u00f6r det; falsk \"edginess\", provocering",
         "io": "provokajo",
         "ja": "\u898f\u5247\u3092\u7834\u3063\u3066\u3044\u308b\u3088\u3046\u3067\u7834\u3063\u3066\u3044\u306a\u3044\u3082\u306e; \u507d\u60aa\u8da3\u5473\u3001\u6311\u767a",
         "cs": "n\u011bco, co na prvn\u00ed pohled poru\u0161uje pravidla, ale ve skute\u010dnosti tomu tak nen\u00ed; provokace"
@@ -14043,6 +14076,7 @@
         "uk": "(\u043f\u0440\u0430\u0446\u044e\u0454 \u044f\u043a \u043f\u0435\u0440\u0435\u0445\u0456\u0434 \u043c\u0456\u0436 \u043e\u0434\u043d\u0438\u043c \u043f\u043e\u0432\u043d\u0438\u043c \u0440\u0435\u0447\u0435\u043d\u043d\u044f\u043c \u0434\u043e \u0456\u043d\u0448\u043e\u0433\u043e)",
         "da": "(fungerer som en overgang fra en komplet s\u00e6tning til en anden)",
         "hr": "(prijelaz izme\u0111u jedne potpune re\u010denice u drugu)",
+        "sv": "(fungerar som en \u00f6verg\u00e5ng fr\u00e5n en mening till en annan)",
         "io": "(inter du kompleta frazi)",
         "ja": "(\u3042\u308b\u5b8c\u5168\u306a\u6587\u304b\u3089\u5225\u306e\u6587\u3078\u306e\u8ee2\u63db\u3068\u3057\u3066\u7528\u3044\u308b)",
         "cs": "(p\u0159echod od jedn\u00e9 v\u011bty k druh\u00e9)"
@@ -14143,6 +14177,7 @@
         "uk": "\u0432\u0438\u0439\u0442\u0438 \u0456 \u043f\u043e\u0432\u0435\u0440\u043d\u0443\u0442\u0438\u0441\u044f,",
         "da": "rejse og komme tilbage, v\u00e6re midlertidigt frav\u00e6rende med forventning om at vende tilbage",
         "hr": "oti\u0107i i vratiti se, privremeno oti\u0107i s namjerom vra\u0107anja",
+        "sv": "l\u00e4mna och komma tillbaka, vara tempor\u00e4rt fr\u00e5nvarande med avsikten att \u00e5terv\u00e4nda",
         "io": "livar e retrovenar, esar tempale absenta",
         "ja": "\u884c\u3063\u3066\u623b\u3063\u3066\u304f\u308b\u3001\u623b\u3063\u3066\u304f\u308b\u3064\u3082\u308a\u3067\u4e00\u6642\u7684\u306b\u3044\u306a\u304f\u306a\u308b",
         "cs": "odej\u00edt a vr\u00e1tit, b\u00fdt do\u010dasn\u011b pry\u010d"
@@ -14184,6 +14219,7 @@
         "uk": "\u043c\u0438 (\u0431\u0435\u0437 \u0442\u0435\u0431\u0435)",
         "da": "vi (undtagen dig, dvs. 1. person eksklusiv)",
         "hr": "mi (isklju\u010duju\u0107i 2. lice jednine)",
+        "sv": "vi ( exklusive du/ni, d.v.s exklusiv 1:a person)",
         "io": "ni, ma vu ne",
         "ja": "\u308f\u308c\u308f\u308c (\u805e\u304d\u624b\u3092\u542b\u307e\u306a\u3044\u3002\u3059\u306a\u308f\u3061\u9664\u5916\u7684\u4e00\u4eba\u79f0\u8907\u6570\u5f62)",
         "cs": "my (exkluzivn\u00ed z\u00e1jmeno, tj. bez tebe)"
@@ -14361,6 +14397,7 @@
         "uk": "\u0435\u043c\u043e\u0434\u0437\u0456 \u0437\u0456\u0440\u043e\u0447\u043a\u0438 \u0443 #pona-kulupu",
         "da": "{p\u00e5 Discord} den stjerne-emoji, der bruges til styrbord (#pona-kulupu in ma pona)",
         "hr": "{na Discordu} emoji zvijezde kori\u0161ten za plo\u010du poruka koje ljudi \u017eele istaknuti (kanal #pona-kulupu u \"ma pona pi toki pona\" Discord serveru)",
+        "sv": "{p\u00e5 Discord} stj\u00e4rn-emojin som anv\u00e4nds i #pona-kulupu i ma pona Diskord-servern",
         "ja": "{Discord\u30b5\u30fc\u30f4\u30a1\u30fc\u300cma pona\u300d\u3067\u4f7f\u308f\u308c\u308b} \u661f\u306e\u7d75\u6587\u5b57\u2b50 (\u3053\u306e\u7d75\u6587\u5b57\u3067\u591a\u304f\u53cd\u5fdc\u3055\u308c\u305f\u30e1\u30c3\u30bb\u30fc\u30b8\u304c #pona-kulupu \u30c1\u30e3\u30f3\u30cd\u30eb\u306b\u63b2\u8f09\u3055\u308c\u308b)",
         "cs": "{na Discordu} emoji hv\u011bzdy pou\u017e\u00edvan\u00e9 v tabulce obl\u00edben\u00fdch (starboard, #pona-kulupu na ma pona)"
       }
