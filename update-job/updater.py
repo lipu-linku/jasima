@@ -1,15 +1,21 @@
 #!/bin/python3
-
-import urllib.request
-import re
-import json
 import csv
+import json
+import logging
+import os
+import re
+import urllib.request
 from io import StringIO
 from datetime import datetime as dt
+
+from dotenv import load_dotenv
 from git import Git, Repo
 
-import os
-from dotenv import load_dotenv
+LOG_FORMAT = (
+    "[%(asctime)s] [%(filename)22s:%(lineno)-4s] [%(levelname)8s]   %(message)s"
+)
+logging.basicConfig(level=logging.INFO, format=LOG_FORMAT)
+LOG = logging.getLogger()
 
 load_dotenv()
 GITHUB_TOKEN = os.getenv("GITHUB_TOKEN")
@@ -17,6 +23,14 @@ GITHUB_TOKEN = os.getenv("GITHUB_TOKEN")
 
 def get_site(link):
     return urllib.request.urlopen(link).read().decode("utf8")
+
+
+def clean_whitespace(s: str) -> str:
+    """Strip whitespace from beginning/end; strip duplicate whitespace other than newlines from middle"""
+    s = s.strip()
+    s = re.sub(r"\s*\n\s*", "\n", s)
+    s = re.sub(r"[ \t\r\f]+", " ", s)
+    return s
 
 
 def build_dict_from_sheet(link):
@@ -32,29 +46,43 @@ def build_dict_from_sheet(link):
     keys.pop(ID_COLUMN)
 
     data = {}
-    for line in datasheet:
+    for row in datasheet:
         entry = {}
-        entry_id = line.pop(ID_COLUMN)
+        entry_id = row.pop(ID_COLUMN)
 
-        for index, value in enumerate(line):
-            # remove excess whitespace from beginning and end
-            value = value.strip()
+        for index, cell in enumerate(row):
+            LOG.debug("Index: %s, Value: %s", index, cell)
+            cell = clean_whitespace(cell)
+            if not cell:
+                LOG.info("No data for key %s in entry %s", keys[index], entry_id)
+                continue
 
-            # remove excess whitespace from middle but preserve newlines
-            value = re.sub(r"\s*\n\s*", "\n", value)
-            value = re.sub(r"[ \t\r\f]+", " ", value)
+            if "/" not in keys[index]:
+                LOG.info("Inserting key %s for entry %s", keys[index], entry_id)
+                entry[keys[index]] = cell
+            else:
+                # e.g. 'def/en':
+                # outer = 'def'
+                # inner = 'en'
+                outer, inner = keys[index].split("/")
+                LOG.info(
+                    "Inserting nested key %s/%s for entry %s", outer, inner, entry_id
+                )
+                LOG.debug(entry)
+                if outer == "etymology_data":  # TODO: key agnostic logic?
+                    # TODO: assert children of etymology_data have equal # splits?
+                    splits = cell.split(";")
+                    LOG.debug(splits)
+                    splits = [clean_whitespace(split) for split in splits]
+                    cell = ";".join(splits)  # user would do this anyway
 
-            if value:
-                if "/" not in keys[index]:
-                    entry[keys[index]] = value
-                else:
-                    # e.g. 'def/en':
-                    # outer = 'def'
-                    # inner = 'en'
-                    outer, inner = keys[index].split("/")
-                    if outer not in entry:
-                        entry[outer] = {}
-                    entry[outer][inner] = value
+                if outer not in entry:
+                    entry[outer] = {}
+                assert isinstance(entry[outer], dict), (
+                    "Parent key %s has non-dict child. Is the sheet malformed?" % outer
+                )
+                # if parent key has same name as a normal key
+                entry[outer][inner] = cell
 
         data[entry_id] = entry
 
