@@ -7,9 +7,9 @@
 
 - All fields are stored as strings, even if an integer or float representation would be appropriate.
 - All immediate children of the top four keys (documented below) are stored alphabetically.
-- If a key exists but has no value in nimi Linku, it will not be in jasima Linku.
+- If a key exists but has no value in nimi Linku, it will not be in jasima Linku. <!-- unless it is a parent to another field (see below) -->
 - If a field's name contains a slash `/`, the word(s) before the slash is a parent key, and the word(s) after the slash is a child key. For example, the `Words` sheet or `data` parent key has `def/[language_code]` for all word definitions.
-- It is not possible for a parent key to have the same name as a normal key; the updater script would fail, as it would attempt to insert a string
+- It is not possible for a parent key to have the same name as a normal key; the updater script would fail, as it would attempt to insert to a string as though it were a dictionary.
 
 ## Reading the documentation
 
