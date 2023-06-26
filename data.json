@@ -16686,21 +16686,6 @@
       "style": "handwritten",
       "features": "ASCII transcription"
     },
-    "sitelen telo Momo": {
-      "name_short": "sitelen telo Momo",
-      "writing_system": "sitelen pona",
-      "links": {
-        "fontfile": "https://github.com/janMelon/sitelen-telo-Momo/raw/main/font-files/sitelen-telo-Momo-1.04.ttf",
-        "repo": "https://github.com/janMelon/sitelen-telo-Momo"
-      },
-      "creator": "jan Momo (MachiToons)",
-      "license": "OFL",
-      "version": "1.04",
-      "last_updated": "2022-01",
-      "filename": "sitelen-telo-momo.ttf",
-      "style": "handwritten, alternate design",
-      "features": "ASCII transcription, supports all nimi ku suli and nimi ku lili"
-    },
     "sitelen uta": {
       "name_short": "sitelen uta",
       "writing_system": "alphabet",
