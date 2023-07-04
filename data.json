@@ -786,10 +786,10 @@
       "source_language": "multiple",
       "etymology": "Mandarin: \u8fc7 gu\u00f2 \u2018to cross, to pass\u2019; English: cross, across",
       "etymology_data": {
-        "langs": "Mandarin; English",
-        "words": "\u8fc7; across",
+        "langs": "Mandarin;English",
+        "words": "\u8fc7;across",
         "alts": "gu\u00f2;",
-        "defs": "to cross, to pass; across"
+        "defs": "to cross, to pass;across"
       },
       "creator": "kulupu Eki, oni Tewi",
       "recognition": {
@@ -2063,9 +2063,9 @@
       "source_language": "multiple",
       "etymology": "Turkish: \u00f6te \u2018beyond, further, over\u2019; Quenya: ett\u00eb \u2018outside\u2019",
       "etymology_data": {
-        "langs": "Turkish; Quenya",
-        "words": "\u00f6te; ett\u00eb",
-        "defs": "beyond, further, over; outside"
+        "langs": "Turkish;Quenya",
+        "words": "\u00f6te;ett\u00eb",
+        "defs": "beyond, further, over;outside"
       },
       "creator": "jan inwin",
       "ku_data": "exceed\u00b9, beyond\u00b9",
@@ -2114,10 +2114,10 @@
       "source_language": "multiple",
       "etymology": "Japanese: \u5ca9 iwa \u2018rock, boulder\u2019; toki pona: kiwen",
       "etymology_data": {
-        "langs": "Japanese; toki pona",
-        "words": "\u5ca9; kiwen",
+        "langs": "Japanese;toki pona",
+        "words": "\u5ca9;kiwen",
         "alts": "iwa;",
-        "defs": "rock, boulder; kiwen"
+        "defs": "rock, boulder;kiwen"
       },
       "creator": "jan ko",
       "ku_data": "stone\u2070",
@@ -2225,9 +2225,9 @@
       "source_language": "Esperanto",
       "etymology": "io \u2018something\u2019 \u2190 Romance i- \u2018(relative pronoun root)\u2019",
       "etymology_data": {
-        "langs": "Esperanto; Romance",
-        "words": "io; i-",
-        "defs": "something; (relative pronoun root)"
+        "langs": "Esperanto;Romance",
+        "words": "io;i-",
+        "defs": "something;(relative pronoun root)"
       },
       "creator": "jan Sonja",
       "ku_data": "thing\u2075, stuff\u2075, item\u2075, something\u2075, object\u2075, entity\u2075, phenomenon\u2074, material\u2074, matter (n)\u2074, substance\u00b3, anything\u00b3, element\u00b2, asset\u00b2, being\u00b2, chemical\u00b2, subject\u00b2, product\u00b2, stock\u00b2, example\u00b2",
@@ -2424,9 +2424,9 @@
       "source_language": "Esperanto",
       "etymology": "ilo \u2018tool\u2019 \u2190 German -el \u2018(agent suffix)\u2019 {cf. Schl\u00fcssel \u2018key\u2019 ~ schlie\u00dfen \u2018lock, shut\u2019}",
       "etymology_data": {
-        "langs": "Esperanto; German",
-        "words": "ilo; -el",
-        "defs": "tool; (agent suffix)"
+        "langs": "Esperanto;German",
+        "words": "ilo;-el",
+        "defs": "tool;(agent suffix)"
       },
       "creator": "jan Sonja",
       "ku_data": "tool\u2075, device\u2075, equipment\u2075, machine\u2075, app\u2074, hardware\u2074, robot\u00b3, technological\u00b3, mechanical\u00b3, gear\u00b3, tech\u00b3, mechanism\u00b3, technical\u00b3, software\u00b3, utility\u00b2, instrument\u00b2, application\u00b2, technology\u00b2, computer\u00b2",
@@ -2497,9 +2497,9 @@
       "source_language": "Tok Pisin",
       "etymology": "insait \u2018inside, center, stomach\u2019 \u2190 English inside",
       "etymology_data": {
-        "langs": "Tok Pisin; English",
-        "words": "insait; inside",
-        "defs": "inside, center, stomach; inside"
+        "langs": "Tok Pisin;English",
+        "words": "insait;inside",
+        "defs": "inside, center, stomach;inside"
       },
       "creator": "jan Sonja",
       "ku_data": "internal\u2075, inner\u2075, interior\u2075, centre\u2075, guts\u2074, core\u2074, central\u00b3, inside\u00b3, middle\u00b3, belly\u00b3, stomach\u00b3, internal organ\u00b2, within\u00b2, insert\u00b2, content\u00b2, amid\u00b2, between\u00b2",
@@ -2836,9 +2836,9 @@
       "source_language": "Finnish",
       "etymology": "jalan \u2018afoot\u2019 (\u2190 jalka \u2018foot\u2019)",
       "etymology_data": {
-        "langs": "Finnish; Finnish",
-        "words": "jalan; jalka",
-        "defs": "afoot; foot"
+        "langs": "Finnish;Finnish",
+        "words": "jalan;jalka",
+        "defs": "afoot;foot"
       },
       "creator": "jan Sonja",
       "recognition": {
@@ -3008,9 +3008,9 @@
       "source_language": "multiple",
       "etymology": "toki pona: jan; English: -/z/ \u2018[plural]\u2019",
       "etymology_data": {
-        "langs": "toki pona; English",
-        "words": "jan; -/z/",
-        "defs": "jan; (plural)"
+        "langs": "toki pona;English",
+        "words": "jan;-/z/",
+        "defs": "jan;(plural)"
       },
       "creator": "unknown",
       "recognition": {
@@ -3605,9 +3605,9 @@
       "source_language": "multiple",
       "etymology": "toki pona: kalama; English: arr \u2018(imitation of pirates)\u2019",
       "etymology_data": {
-        "langs": "toki pona; English",
-        "words": "kalama; arr",
-        "defs": "kalama; (imitation of pirates)"
+        "langs": "toki pona;English",
+        "words": "kalama;arr",
+        "defs": "kalama;(imitation of pirates)"
       },
       "recognition": {
         "2020-04": "13",
@@ -3802,9 +3802,9 @@
       "source_language": "multiple possibilities",
       "etymology": "Finnish: kanssa \u2018with\u2019; Esperanto: kun \u2018with\u2019 (\u2190 Latin cum)",
       "etymology_data": {
-        "langs": "Finnish; Esperanto; Latin",
-        "words": "kanssa; kun; cum",
-        "defs": "with; with; with"
+        "langs": "Finnish;Esperanto;Latin",
+        "words": "kanssa;kun;cum",
+        "defs": "with;with;with"
       },
       "creator": "jan Sonja",
       "ku_data": "alongside\u00b9, together\u00b9, with\u00b9, associated\u2070, involved\u2070, amid\u2070",
@@ -3852,9 +3852,9 @@
       "source_language": "multiple possibilities",
       "etymology": "Dutch: kop \u2018head, cup\u2019; Esperanto: kapo \u2018head\u2019 (\u2190 Latin caput)",
       "etymology_data": {
-        "langs": "Dutch; Esperanto; Latin",
-        "words": "kop; kapo; caput",
-        "defs": "head, cup; head; head"
+        "langs": "Dutch;Esperanto;Latin",
+        "words": "kop;kapo;caput",
+        "defs": "head, cup;head;head"
       },
       "creator": "jan Sonja",
       "recognition": {
@@ -3900,10 +3900,10 @@
       "source_language": "multiple possibilities",
       "etymology": "Cantonese: \u5496\u5561\u8272 gaa\u00b3 fe\u00b9 sik\u00b9; Mandarin: \u5496\u5561\u8272 k\u0101f\u0113is\u00e8 \u2018brown, coffee (colour)\u2019",
       "etymology_data": {
-        "langs": "Cantonese; Mandarin",
-        "words": "\u5496\u5561\u8272; \u5496\u5561\u8272",
-        "alts": "gaa\u00b3 fe\u00b9 sik\u00b9; k\u0101f\u0113is\u00e8",
-        "defs": "brown, coffee (colour); brown, coffee (colour)"
+        "langs": "Cantonese;Mandarin",
+        "words": "\u5496\u5561\u8272;\u5496\u5561\u8272",
+        "alts": "gaa\u00b3 fe\u00b9 sik\u00b9;k\u0101f\u0113is\u00e8",
+        "defs": "brown, coffee (colour);brown, coffee (colour)"
       },
       "creator": "jan Sonja",
       "ku_data": "brown\u00b2, grey\u2070",
@@ -4026,9 +4026,9 @@
       "source_language": "English",
       "etymology": "\u2019kay \u2190 okay",
       "etymology_data": {
-        "langs": "English; English",
-        "words": "\u2019kay; okay",
-        "defs": "okay; okay"
+        "langs": "English;English",
+        "words": "\u2019kay;okay",
+        "defs": "okay;okay"
       },
       "creator": "jan Maliku, jan Kisinja",
       "ku_data": "alright\u2070",
@@ -4089,9 +4089,9 @@
       "source_language": "Tok Pisin",
       "etymology": "ken \u2190 English can",
       "etymology_data": {
-        "langs": "Tok Pisin; English",
-        "words": "ken; can",
-        "defs": "can; can"
+        "langs": "Tok Pisin;English",
+        "words": "ken;can",
+        "defs": "can;can"
       },
       "creator": "jan Sonja",
       "ku_data": "able\u2075, potential\u2075, ability\u2075, capability\u2075, capable\u2075, may\u2075, possible\u2075, could\u2075, eligible\u2074, can\u2074, possibility\u2074, permission\u2074, likelihood\u00b3, chance\u00b3, probability\u00b3, available\u00b3, opportunity\u00b3, maybe\u00b3, possibly\u00b3, odds\u00b3, patentially\u00b2, perhaps\u00b2, liberty\u00b2, might\u00b2, option\u00b2, viable\u00b2, enable\u00b2, privilege\u00b2, allow\u00b2, likely\u00b2, prospect\u00b2, freedom\u00b2",
@@ -4872,9 +4872,9 @@
       "source_language": "Esperanto",
       "etymology": "krokodilas \u2018[present of krokodili]\u2019 \u2190 krokodilo \u2018crocodile\u2019",
       "etymology_data": {
-        "langs": "Esperanto; Esperanto",
-        "words": "krokodilas; krokodilo",
-        "defs": "(present of krokodili); crocodile"
+        "langs": "Esperanto;Esperanto",
+        "words": "krokodilas;krokodilo",
+        "defs": "(present of krokodili);crocodile"
       },
       "creator": "jan Sonja",
       "ku_data": "speak another language in a Toki Pona only environment\u00b3",
@@ -5033,9 +5033,9 @@
       "source_language": "multiple",
       "etymology": "English: Conway; toki pona: kon wile",
       "etymology_data": {
-        "langs": "English; toki pona",
-        "words": "Conway; kon wile",
-        "defs": "John Conway, creator of The Game of Life; kon wile"
+        "langs": "English;toki pona",
+        "words": "Conway;kon wile",
+        "defs": "John Conway, creator of The Game of Life;kon wile"
       },
       "creator": "jan Emalan",
       "recognition": {
@@ -5576,9 +5576,9 @@
       "source_language": "multiple possibilities",
       "etymology": "Esperanto: la \u2018(definite article)\u2019 (\u2190 Romance la \u2018(feminine singular definite article)\u2019); Acadian French: -la \u2018(proximal & topical suffix)\u2019",
       "etymology_data": {
-        "langs": "Esperanto; Romance; Acadian French",
-        "words": "la; la; -la",
-        "defs": "(definite article); (feminine singular definite article); (proximal & topical suffix)"
+        "langs": "Esperanto;Romance;Acadian French",
+        "words": "la;la;-la",
+        "defs": "(definite article);(feminine singular definite article);(proximal & topical suffix)"
       },
       "creator": "jan Sonja",
       "ku_data": "if\u2075, while\u00b3, depending\u00b3, regarding\u00b2, than\u00b2",
@@ -5776,9 +5776,9 @@
       "source_language": "Welsh",
       "etymology": "glas \u2018blue, inexperienced\u2019 \u2190 Proto-Brythonic glas \u2018green, blue\u2019",
       "etymology_data": {
-        "langs": "Welsh; Proto-Brythonic",
-        "words": "glas; glas",
-        "defs": "blue, inexperienced; green, blue"
+        "langs": "Welsh;Proto-Brythonic",
+        "words": "glas;glas",
+        "defs": "blue, inexperienced;green, blue"
       },
       "creator": "jan Sonja",
       "ku_data": "blue\u2075, teal\u2074, green\u00b3",
@@ -5915,9 +5915,9 @@
       "source_language": "multiple possibilities",
       "etymology": "English: Lego (\u2190 Danish Lego \u2190 \u2018leg godt\u2019 \u2018play well\u2019); Finnish: lohko \u2018block, section\u2019",
       "etymology_data": {
-        "langs": "English; Danish; Finnish",
-        "words": "Lego; leg godt; lohko",
-        "defs": "Lego; play well; block, section"
+        "langs": "English;Danish;Finnish",
+        "words": "Lego;leg godt;lohko",
+        "defs": "Lego;play well;block, section"
       },
       "creator": "jan Sonja",
       "ku_data": "square\u2074, cube\u00b3, block\u00b3, stair\u00b2, brick\u00b2, polyhedron\u00b2",
@@ -6048,9 +6048,9 @@
       "source_language": "Acadian French",
       "etymology": "frette \u2018cold\u2019 \u2190 Old French freit \u2018cold\u2019",
       "etymology_data": {
-        "langs": "Acadian French; Old French",
-        "words": "frette; freit",
-        "defs": "cold; cold"
+        "langs": "Acadian French;Old French",
+        "words": "frette;freit",
+        "defs": "cold;cold"
       },
       "creator": "jan Sonja",
       "ku_data": "cold\u2075, raw\u00b3, frozen\u00b3, freeze\u00b2, cool\u00b2",
@@ -6112,9 +6112,9 @@
       "source_language": "Esperanto",
       "etymology": "li \u2018he\u2019 \u2190 Latin ille {cf. Tok Pisin i \u2190 English he}",
       "etymology_data": {
-        "langs": "Esperanto; Latin; Tok Pisin; English",
-        "words": "li; ille; i; he",
-        "defs": "he; he; he; he"
+        "langs": "Esperanto;Latin;Tok Pisin;English",
+        "words": "li;ille;i;he",
+        "defs": "he;he;he;he"
       },
       "creator": "jan Sonja",
       "recognition": {
@@ -6269,9 +6269,9 @@
       "source_language": "Tok Pisin",
       "etymology": "liklik \u2018small, little\u2019 \u2190 Ramoaaina liklik",
       "etymology_data": {
-        "langs": "Tok Pisin; Ramoaaina",
-        "words": "liklik; liklik",
-        "defs": "small, little; small, little"
+        "langs": "Tok Pisin;Ramoaaina",
+        "words": "liklik;liklik",
+        "defs": "small, little;small, little"
       },
       "creator": "jan Sonja",
       "ku_data": "small\u2075, little\u2075, slight\u2075, short\u2075, reduce\u2075, junior\u2075, slightly\u2074, minimize\u2074, narrow\u2074, bit\u2074, minor\u2074, partly\u2074, reduction\u2074, brief\u2074, young\u2074, fewer\u00b3, less\u00b3, diminish\u00b3, tiny\u00b3, barely\u00b3, decrease\u00b3, minimal\u00b3, partially\u00b3, somewhat\u00b3, thin\u00b3, inch\u00b3, shallow\u00b3, subtle\u00b3, lightly\u00b3, kinda\u00b3, hardly\u00b2, partial\u00b2, tight\u00b2, particle\u00b2, mere\u00b2, mild\u00b2, ounce\u00b2, quarter\u00b2, gram\u00b2, shortage\u00b2",
@@ -6338,9 +6338,9 @@
       "source_language": "Finnish",
       "etymology": "linja \u2018line\u2019 \u2190 Old Swedish linia",
       "etymology_data": {
-        "langs": "Finnish; Old Swedish",
-        "words": "linja; linia",
-        "defs": "line; line"
+        "langs": "Finnish;Old Swedish",
+        "words": "linja;linia",
+        "defs": "line;line"
       },
       "creator": "jan Sonja",
       "ku_data": "line\u2075, string\u2075, cord\u2075, rope\u2075, thread\u2074, fibre\u00b3, cable\u00b3, link\u00b3, connection\u00b2, ray\u00b2, streak\u00b2, row\u00b2, wire\u00b2, hair\u00b2, sequence\u00b2, chain\u00b2, connect\u00b2, straight\u00b2",
@@ -6741,9 +6741,9 @@
       "source_language": "Tok Pisin",
       "etymology": "long \u2018at, in, on, (spacial particle)\u2019 \u2190 English along",
       "etymology_data": {
-        "langs": "Tok Pisin; English",
-        "words": "long; along",
-        "defs": "at, in, on, (spacial particle); along"
+        "langs": "Tok Pisin;English",
+        "words": "long;along",
+        "defs": "at, in, on, (spacial particle);along"
       },
       "creator": "jan Sonja",
       "ku_data": "at\u2075, existing\u2075, real\u2075, exist\u2075, located\u2075, presence\u2075, yep\u2075, existence\u2075, actual\u2075, on\u2075, true\u2075, living\u2074, yes\u2074, truth\u2074, reality\u2074, physical\u2074, yeah\u2074, genuine\u00b3, upon\u00b3, truly\u00b3, in\u00b3, alive\u00b3, position\u00b3, accurate\u00b3, exactly\u00b3, occupy\u00b3, live\u00b3, attendance\u00b3, certainly\u00b3, attend\u00b3, indeed\u00b3, right (not wrong)\u00b3, life\u00b2, definitely\u00b2, legitimate\u00b2, honestly\u00b2, onto\u00b2, location\u00b2, correct\u00b2, validity\u00b2, correctly\u00b2, occur\u00b2, precisely\u00b2, certain\u00b2, status\u00b2, physically\u00b2, placement\u00b2, sure\u00b2, mm-hmm\u00b2, fact\u00b2, amid\u00b2, availability\u00b2, frankly\u00b2, of course\u00b2, regarding\u00b2",
@@ -6924,9 +6924,9 @@
       "source_language": "Tok Pisin",
       "etymology": "lukim \u2018see, look at\u2019 \u2190 luk \u2018look\u2019 (\u2190 English look) + -im \u2018(transitive suffix)\u2019 (\u2190 English him, \u2019em)",
       "etymology_data": {
-        "langs": "Tok Pisin; English; English",
-        "words": "lukim; look; him",
-        "defs": "see, look at; look; him"
+        "langs": "Tok Pisin;English;English",
+        "words": "lukim;look;him",
+        "defs": "see, look at;look;him"
       },
       "creator": "jan Sonja",
       "ku_data": "see\u2075, observe\u2075, look at\u2075, sight\u2075, gaze\u2075, observation\u2075, check\u2074, view\u2074, scan\u2074, watch\u2074, visual\u2074, examine\u00b3, inspection\u00b3, vision\u00b3, notice\u00b3, surveillance\u00b3, attention\u00b3, appearance\u00b3, examination\u00b3, detect\u00b3, assess\u00b2, stare\u00b2, perception\u00b2, perceive\u00b2, try\u00b2, glance\u00b2, impression\u00b2, reading\u00b2, regard (v)\u00b2, apparent\u00b2, visible\u00b2, read\u00b2, seek\u00b2, eye\u00b2, investigation\u00b2, monitor\u00b2, encounter\u00b2",
@@ -6996,10 +6996,10 @@
       "source_language": "Lojban",
       "etymology": "clupa \u2018loop\u2019 (\u2190 Mandarin \u5708 qu\u0101n, English loop, Hindi \u092a\u093e\u0936 p\u0101\u015b, Arabic \u0623\u0646\u0634\u0648\u0637\u0629\u200f \u02bean\u0161\u016b\u1e6da)",
       "etymology_data": {
-        "langs": "Lojban; Mandarin; English; Hindi; Arabic",
-        "words": "clupa; \u5708; loop; \u092a\u093e\u0936; \u0623\u0646\u0634\u0648\u0637\u0629\u200f",
-        "alts": "; qu\u0101n;; p\u0101\u015b; an\u0161\u016b\u1e6da",
-        "defs": "loop; loop; loop; loop; loop"
+        "langs": "Lojban;Mandarin;English;Hindi;Arabic",
+        "words": "clupa;\u5708;loop;\u092a\u093e\u0936;\u0623\u0646\u0634\u0648\u0637\u0629\u200f",
+        "alts": ";qu\u0101n;;p\u0101\u015b;an\u0161\u016b\u1e6da",
+        "defs": "loop;loop;loop;loop;loop"
       },
       "creator": "jan Sonja",
       "ku_data": "hole\u2075, door\u2075, orifice\u2074, pit\u2074, window\u00b3, gate\u00b3, entrance\u00b2, opening\u00b2, gap\u00b2, dig\u00b2",
@@ -7129,9 +7129,9 @@
       "source_language": "Esperanto",
       "etymology": "maljuna \u2018old\u2019 \u2190 mal- \u2018(opposite of)\u2019 (\u2190 Latin malus \u2018bad\u2019) + juna \u2018young\u2019 (\u2190 German jung & French jeune)",
       "etymology_data": {
-        "langs": "Esperanto; Latin; German; French",
-        "words": "maljuna; malus; jung; jeune",
-        "defs": "old (not young); bad; young; young"
+        "langs": "Esperanto;Latin;German;French",
+        "words": "maljuna;malus;jung;jeune",
+        "defs": "old (not young);bad;young;young"
       },
       "creator": "jan Sonja",
       "ku_data": "elderly\u00b2, old\u00b2, senior\u00b2, historical\u00b9, ancient\u00b9, elder\u00b9",
@@ -7265,9 +7265,9 @@
       "source_language": "English",
       "etymology": "money {cf. fee \u2190 Proto-Germanic *fehu \u2018livestock\u2019, and pecuniary \u2190 Latin pec\u016b \u2018cattle\u2019}",
       "etymology_data": {
-        "langs": "English; Proto-Germanic; Latin",
-        "words": "money; fehu; pec\u016b",
-        "defs": "money; livestock; cattle"
+        "langs": "English;Proto-Germanic;Latin",
+        "words": "money;fehu;pec\u016b",
+        "defs": "money;livestock;cattle"
       },
       "creator": "jan Sonja",
       "ku_data": "money\u2075, cash\u2075, monetary\u2075, currency\u2075, treasure\u2074, wealth\u2074, worth\u2074, cattle\u2074, dollar\u2074, financial\u2074, funding\u00b3, fiscal\u00b3, wage\u00b3, fee\u00b3, cost\u00b3, valuable\u00b3, pension\u00b2, expense\u00b2, economic\u00b2, fund\u00b2, revenue\u00b2, budget\u00b2, salary\u00b2, credit\u00b2, compensation\u00b2, earnings\u00b2, price\u00b2, value\u00b2, income\u00b2, subsidy\u00b2, profit\u00b2, cow\u00b2, toll\u00b2, payment\u00b2, large domesticated animal\u00b2, wealthy\u00b2",
@@ -7334,9 +7334,9 @@
       "source_language": "Tok Pisin",
       "etymology": "meri \u2018woman, wife, feminine\u2019 \u2190 Tolai mari \u2018pretty\u2019 & English Mary",
       "etymology_data": {
-        "langs": "Tok Pisin; Tolai; English",
-        "words": "meri; mari; Mary",
-        "defs": "woman, wife, feminine; pretty; Mary"
+        "langs": "Tok Pisin;Tolai;English",
+        "words": "meri;mari;Mary",
+        "defs": "woman, wife, feminine;pretty;Mary"
       },
       "creator": "jan Sonja",
       "ku_data": "female\u2075, lady\u2074, woman\u2074, girl\u00b3, wife\u00b2, cisgender woman\u00b2, transgender woman\u00b2, ma\u2019am\u00b2",
@@ -7520,9 +7520,9 @@
       "source_language": "Esperanto",
       "etymology": "mi \u2018I, me\u2019 \u2190 Romance m- \u2018(1st person singular oblique)\u2019",
       "etymology_data": {
-        "langs": "Esperanto; Romance",
-        "words": "mi; m-",
-        "defs": "I, me; (1st person singular oblique)"
+        "langs": "Esperanto;Romance",
+        "words": "mi;m-",
+        "defs": "I, me;(1st person singular oblique)"
       },
       "creator": "jan Sonja",
       "ku_data": "me\u2075, my\u2075, I\u2075, mine\u2074, our\u2074, myself\u00b3, us\u00b3, we\u00b2, self\u00b2, ours\u00b2, ourselves\u00b2",
@@ -7961,9 +7961,9 @@
       "source_language": "multiple",
       "etymology": "English: mollusk; scientific nomenclature: Mollusca \u2018mollusks\u2019 (\u2190 Latin mollusca \u2018a soft nut with a thin shell\u2019)",
       "etymology_data": {
-        "langs": "English; Latin",
-        "words": "mollusk; mollusca",
-        "defs": "Invertebrae related to snails, slugs, mussels, octopi (scientific nomenclature); thin shelled"
+        "langs": "English;Latin",
+        "words": "mollusk;mollusca",
+        "defs": "Invertebrae related to snails, slugs, mussels, octopi (scientific nomenclature);thin shelled"
       },
       "creator": "jan soweli Apen",
       "recognition": {
@@ -8081,10 +8081,10 @@
       "source_language": "Japanese",
       "etymology": "\u30e2\u30f3\u30b9\u30bf\u30fc monsut\u0101 \u2018monster\u2019 \u2190 English monster",
       "etymology_data": {
-        "langs": "Japanese; English",
-        "words": "\u30e2\u30f3\u30b9\u30bf\u30fc; monster",
+        "langs": "Japanese;English",
+        "words": "\u30e2\u30f3\u30b9\u30bf\u30fc;monster",
         "alts": "monsut\u0101;",
-        "defs": "monster; monster"
+        "defs": "monster;monster"
       },
       "creator": "jan Sonja",
       "ku_data": "scary\u00b3, fear\u00b3, monster\u00b3, horror\u00b3, scare\u00b2, disturbing\u00b2, terror\u00b2, beast\u00b2, afraid\u00b2, demon\u00b2",
@@ -8338,9 +8338,9 @@
       "source_language": "Esperanto",
       "etymology": "amuzi \u2018amuse, entertain\u2019 \u2190 French amuser",
       "etymology_data": {
-        "langs": "Esperanto; French",
-        "words": "amuzi; amuser",
-        "defs": "amuse, entertain; amuse, entertain"
+        "langs": "Esperanto;French",
+        "words": "amuzi;amuser",
+        "defs": "amuse, entertain;amuse, entertain"
       },
       "creator": "jan Sonja",
       "ku_data": "entertainment\u2075, fun\u2075, funny\u2075, play\u2075, game\u2075, comedy\u2075, art\u00b3, artistic\u00b3, fascinating\u00b2, humour\u00b2, interesting\u00b2, irony\u00b2, sport\u00b2, enjoy\u00b2, creative\u00b2, playoffs\u00b2",
@@ -8405,9 +8405,9 @@
       "source_language": "Esperanto",
       "etymology": "multe \u2018a lot\u2019 \u2190 Latin multus",
       "etymology_data": {
-        "langs": "Esperanto; Latin",
-        "words": "multe; multus",
-        "defs": "a lot; a lot"
+        "langs": "Esperanto;Latin",
+        "words": "multe;multus",
+        "defs": "a lot;a lot"
       },
       "creator": "jan Sonja",
       "ku_data": "plenty\u2075, multiple\u2075, many\u2075, much\u2075, very\u2075, lots\u2075, several\u2075, numerous\u2074, various\u2074, most\u2074, quantity\u2074, twenty\u00b3, fifty\u00b3, thousand\u00b3, nine\u00b3, majority\u00b3, incredibly\u00b3, million\u00b3, fifteen\u00b2, dozen\u00b2, amount\u00b2, twelve\u00b2, eight\u00b2, countless\u00b2, hundred\u00b2, billion\u00b2, greatly\u00b2, frequent\u00b2, mostly\u00b2, highly\u00b2, excessive\u00b2, exceed\u00b2, six\u00b2, trillion\u00b2, quite\u00b2, deeply\u00b2, thirty\u00b2, dose\u00b2, particularly\u00b2, increasingly\u00b2, ten\u00b2, extremely\u00b2",
@@ -8559,10 +8559,10 @@
       "source_language": "multiple possibilities",
       "etymology": "Hindi: \u0928\u092e\u0915 namak \u2018salt\u2019 (\u2190 Persian \u0646\u0645\u06a9 namak \u2018salt\u2019); Persian: \u0646\u0645\u06a9 namak \u2018salt\u2019",
       "etymology_data": {
-        "langs": "Hindi; Persian",
-        "words": "\u0928\u092e\u0915; \u0646\u0645\u06a9",
-        "alts": "namak; namak",
-        "defs": "salt; salt"
+        "langs": "Hindi;Persian",
+        "words": "\u0928\u092e\u0915;\u0646\u0645\u06a9",
+        "alts": "namak;namak",
+        "defs": "salt;salt"
       },
       "creator": "jan Sonja",
       "ku_data": "spice\u2075, extra\u2074, adornment\u00b3, additional\u00b3, extension\u00b2, bonus\u00b2, salt\u00b2, fancy\u00b2, special\u00b2",
@@ -8631,8 +8631,8 @@
       "source_language": "Tok Pisin",
       "etymology": "namba \u2018number, (ordinal marker)\u2019 \u2190 English number",
       "etymology_data": {
-        "langs": "Tok Pisin; English",
-        "words": "namba; number",
+        "langs": "Tok Pisin;English",
+        "words": "namba;number",
         "defs": "namba \u2018number, (ordinal marker)\u2019 \u2190 English number"
       },
       "creator": "jan Sonja",
@@ -9043,10 +9043,10 @@
       "source_language": "Cantonese",
       "etymology": "\u5462 ni\u00b9 \u2018this\u2019 \u2190 substrate, cf. Tai, Mon-Khmer, Hmong-Mien, Austronesian; \u54e9 le\u00b9 \u2018[continuation of a state/action]\u2019",
       "etymology_data": {
-        "langs": "Cantonese; Tai",
-        "words": "\u5462; \u54e9",
-        "alts": "ni; le",
-        "defs": "this; (continuation of a state/action)"
+        "langs": "Cantonese;Tai",
+        "words": "\u5462;\u54e9",
+        "alts": "ni;le",
+        "defs": "this;(continuation of a state/action)"
       },
       "creator": "jan Sonja",
       "ku_data": "this\u2075, that\u2075, these\u2075, those\u2074, particular\u00b2, specifically\u00b2, there\u00b2",
@@ -9575,9 +9575,9 @@
       "source_language": "English",
       "etymology": "okie \u2190 okay",
       "etymology_data": {
-        "langs": "English; English",
-        "words": "okie; okay",
-        "defs": "okay; okay"
+        "langs": "English;English",
+        "words": "okie;okay",
+        "defs": "okay;okay"
       },
       "creator": "unknown",
       "recognition": {
@@ -9752,9 +9752,9 @@
       "source_language": "toki pona",
       "etymology": "o moku e kala ike, by analogy with omekapo",
       "etymology_data": {
-        "langs": "toki pona; toki pona",
-        "words": "o moku e kala ike; o moku e kala pona",
-        "defs": "o moku e kala ike; o moku e kala pona"
+        "langs": "toki pona;toki pona",
+        "words": "o moku e kala ike;o moku e kala pona",
+        "defs": "o moku e kala ike;o moku e kala pona"
       },
       "creator": "jan Emalan",
       "recognition": {
@@ -10172,9 +10172,9 @@
       "source_language": "Tok Pisin",
       "etymology": "bagarap \u2018accident\u2019 \u2190 English bugger up",
       "etymology_data": {
-        "langs": "Tok Pisin; English",
-        "words": "bagarap; bugger up",
-        "defs": "accident; bugger up"
+        "langs": "Tok Pisin;English",
+        "words": "bagarap;bugger up",
+        "defs": "accident;bugger up"
       },
       "creator": "jan Sonja",
       "ku_data": "broken\u2075, destruction\u2075, mistake\u2075, damage\u2075, damn\u2074, goddamn\u2074, ruin\u2074, burst\u2074, accident\u2074, destroy\u2074, heck\u2074, error\u2074, hurt\u2074, injure\u2074, crash\u2074, fail\u2074, harm\u2074, break\u2074, failure\u00b3, fault\u00b3, injury\u00b3, flaw\u00b3, crack\u00b3, collapse\u00b3, snap\u00b3, fuck\u00b3, fucking\u00b3, trouble\u00b2, rip\u00b2, explode\u00b2, crush\u00b2, wound\u00b2, violate\u00b2, offense\u00b2, strike\u00b2, boom\u00b2, crap\u00b2",
@@ -10435,10 +10435,10 @@
       "source_language": "multiple",
       "etymology": "Romance: pan \u2018bread\u2019; Japanese: \u30d1\u30f3 pan \u2018bread\u2019 (\u2190 Portuguese p\u00e3o)",
       "etymology_data": {
-        "langs": "Romance; Japanese; Portuguese",
-        "words": "pan; \u30d1\u30f3; p\u00e3o",
-        "alts": "; pan;",
-        "defs": "bread; bread; bread"
+        "langs": "Romance;Japanese;Portuguese",
+        "words": "pan;\u30d1\u30f3;p\u00e3o",
+        "alts": ";pan;",
+        "defs": "bread;bread;bread"
       },
       "creator": "jan Sonja",
       "ku_data": "bread\u2075, grain\u2075, wheat\u2074, rice\u00b3, corn\u00b2, carbohydrate\u00b2",
@@ -10504,9 +10504,9 @@
       "source_language": "multiple possibilities",
       "etymology": "Finnish: panna \u2018put, set, place\u2019; Swahili: pana \u2018give to each other\u2019",
       "etymology_data": {
-        "langs": "Finnish; Swahili",
-        "words": "panna; pana",
-        "defs": "put, set, place; give to each other"
+        "langs": "Finnish;Swahili",
+        "words": "panna;pana",
+        "defs": "put, set, place;give to each other"
       },
       "creator": "jan Sonja",
       "ku_data": "give\u2075, put\u2075, deliver\u2075, grant\u2075, delivery\u2075, send\u2074, submit\u2074, provide\u2074, transfer\u2074, distribute\u2074, distribution\u00b3, donate\u00b3, appoint\u00b3, contribute\u00b3, output\u00b3, given\u00b3, publishing\u00b3, yield\u00b3, share\u00b3, offering\u00b3, assign\u00b3, deploy\u00b3, deposit\u00b3, convey\u00b3, offer\u00b2, input\u00b2, emission\u00b2, lend\u00b2, supply\u00b2, release\u00b2, pour\u00b2, publish\u00b2, provision\u00b2, gift\u00b2, export\u00b2, shared\u00b2, serve\u00b2, spend\u00b2, spread\u00b2, attach\u00b2, administer\u00b2, devote\u00b2, serving\u00b2, donation\u00b2, contribution\u00b2, added\u00b2, post\u00b2, toss\u00b2, apply\u00b2, transmission\u00b2, present\u00b2, bring\u00b2, add\u00b2, install\u00b2, show\u00b2, introduce\u00b2, dedicate\u00b2, exhibit\u00b2, insert\u00b2",
@@ -10561,9 +10561,9 @@
       "source_language": "multiple possibilities",
       "etymology": "Acadian French: facile \u2018easy\u2019; Esperanto facila \u2018easy\u2019",
       "etymology_data": {
-        "langs": "Acadian French; Esperanto",
-        "words": "facile; facila",
-        "defs": "easy; easy"
+        "langs": "Acadian French;Esperanto",
+        "words": "facile;facila",
+        "defs": "easy;easy"
       },
       "creator": "jan Sonja",
       "recognition": {
@@ -10612,10 +10612,10 @@
       "source_language": "multiple possibilities",
       "etymology": "Serbo-Croatian: \u0431\u0440\u0430\u0442 brat \u2018brother\u2019; Tok Pisin: brata \u2018sibling or cousin of the same gender\u2019 (\u2190 English brother)",
       "etymology_data": {
-        "langs": "Serbo-Croatian; Tok Pisin; English",
-        "words": "\u0431\u0440\u0430\u0442; brata; brother",
+        "langs": "Serbo-Croatian;Tok Pisin;English",
+        "words": "\u0431\u0440\u0430\u0442;brata;brother",
         "alts": "brat;;",
-        "defs": "brother; sibling or cousin of the same gender; brother"
+        "defs": "brother;sibling or cousin of the same gender;brother"
       },
       "creator": "jan Sonja",
       "ku_data": "sibling\u2070, cousin\u2070",
@@ -10779,9 +10779,9 @@
       "source_language": "Tok Pisin",
       "etymology": "bilong \u2018of\u2019 \u2190 English belong",
       "etymology_data": {
-        "langs": "Tok Pisin; English",
-        "words": "bilong; belong",
-        "defs": "of; belong"
+        "langs": "Tok Pisin;English",
+        "words": "bilong;belong",
+        "defs": "of;belong"
       },
       "creator": "jan Sonja",
       "ku_data": "concerning\u00b9, about\u2070",
@@ -10888,9 +10888,9 @@
       "source_language": "Tok Pisin",
       "etymology": "pilim \u2018feel\u2019 \u2190 pil \u2018feel\u2019 (\u2190 English feel) + -im \u2018(transitive suffix)\u2019 (\u2190 English him, \u2019em)",
       "etymology_data": {
-        "langs": "Tok Pisin; English; English",
-        "words": "pilim; -im; him",
-        "defs": "feel; him; him"
+        "langs": "Tok Pisin;English;English",
+        "words": "pilim;-im;him",
+        "defs": "feel;him;him"
       },
       "creator": "jan Sonja",
       "ku_data": "feeling\u2075, emotion\u2075, feel\u2075, sentiment\u2075, mood\u2074, emotionally\u2074, heart\u2074, sense\u2074, attitude\u2074, emotional\u2074, opinion\u00b3, notion\u00b3, assume\u00b3, impression\u00b3, hypothesis\u00b3, perceive\u00b3, deem\u00b3, thinking\u00b2, believe\u00b2, assumption\u00b2, thought\u00b2, speculation\u00b2, conscience\u00b2, suppose\u00b2, experience\u00b2, stimulus\u00b2, reaction\u00b2, suspicion\u00b2, belief\u00b2, perception\u00b2, touch\u00b2, idea\u00b2, estimated\u00b2, consider\u00b2, outlook\u00b2, think\u00b2, mentally\u00b2",
@@ -11067,9 +11067,9 @@
       "source_language": "multiple possibilities",
       "etymology": "Acadian French: fini \u2018finished, completed\u2019; Tok Pisin: pinis \u2018(perfective aspect)\u2019(\u2190 English finish)",
       "etymology_data": {
-        "langs": "Acadian French; Tok Pisin; English",
-        "words": "fini; pinis; finish",
-        "defs": "finished, completed; finish (perfective aspect); finish"
+        "langs": "Acadian French;Tok Pisin;English",
+        "words": "fini;pinis;finish",
+        "defs": "finished, completed;finish (perfective aspect);finish"
       },
       "creator": "jan Sonja",
       "ku_data": "end\u2075, finish\u2075, shut\u2075, ending\u2074, cease\u2074, outcome\u2074, conclude\u2074, close (v)\u2074, closed\u2074, quit\u00b3, latter\u00b3, final\u00b3, complete\u00b3, stop\u00b3, off\u00b3, cancel\u00b3, conclusion\u00b2, result\u00b2, previous\u00b2, pause\u00b2, interrupt\u00b2, lock\u00b2, over\u00b2",
@@ -11379,9 +11379,9 @@
       "source_language": "Tok Pisin",
       "etymology": "bokis \u2018box, {vulgar} female genitalia\u2019 \u2190 English box",
       "etymology_data": {
-        "langs": "Tok Pisin; English",
-        "words": "bokis; box",
-        "defs": "box, female genitalia (vulgar); box"
+        "langs": "Tok Pisin;English",
+        "words": "bokis;box",
+        "defs": "box, female genitalia (vulgar);box"
       },
       "creator": "jan Sonja",
       "ku_data": "container\u2075, jar\u2075, box\u2075, package\u2075, bag\u2075, basket\u2074, bucket\u2074, bottle\u2074, pot\u2074, cabinet\u2074, classify\u00b3, drawer\u00b3, locker\u00b3, storage\u00b3, case\u00b3, bowl\u00b3, sack\u00b2, cup\u00b2, pack\u00b2, cage\u00b2, purse\u00b2, trunk\u00b2, pitcher\u00b2, cell\u00b2",
@@ -11710,10 +11710,10 @@
       "source_language": "multiple possibilities",
       "etymology": "Mandarin: \u6a38 p\u01d4 \u2018unworked wood; sincere, honest; inherent quality; simple\u2019; English: book",
       "etymology_data": {
-        "langs": "Mandarin; English",
-        "words": "\u6a38; book",
+        "langs": "Mandarin;English",
+        "words": "\u6a38;book",
         "alts": "p\u01d4;",
-        "defs": "unworked wood, sincere, honest, inherent quality, simple; book"
+        "defs": "unworked wood, sincere, honest, inherent quality, simple;book"
       },
       "creator": "jan Sonja",
       "ku_data": "interact with Toki Pona: The Language of Good\u2075, officially\u00b2",
@@ -11829,9 +11829,9 @@
       "source_language": "multiple",
       "etymology": "Finnish: sama \u2018same\u2019 (\u2190 Proto-Germanic *samaz \u2018same, alike\u2019); Esperanto: sama \u2018same\u2019 (\u2190 English same)",
       "etymology_data": {
-        "langs": "Finnish; Proto-Germanic; Esperanto; English",
-        "words": "sama; *samaz; sama; same",
-        "defs": "same; same, alike; same; same"
+        "langs": "Finnish;Proto-Germanic;Esperanto;English",
+        "words": "sama;*samaz;sama;same",
+        "defs": "same;same, alike;same;same"
       },
       "creator": "jan Sonja",
       "ku_data": "alike\u2075, equal\u2075, similar\u2075, equivalent\u2075, as\u2074, similarly\u2074, equality\u00b3, equally\u00b3, like\u00b3, identical\u00b3, likewise\u00b2, related\u00b2, relation\u00b2, constant\u00b2, associated\u00b2, relate\u00b2, seem\u00b2, even\u00b2, copy\u00b2, mutual\u00b2, equity\u00b2, resemble\u00b2, fellow\u00b2",
@@ -11941,10 +11941,10 @@
       "source_language": "multiple possibilities",
       "etymology": "Japanese: \u4e09 san \u2018three\u2019; Cantonese: \u4e09/\u53c1 s\u0101am",
       "etymology_data": {
-        "langs": "Japanese; Cantonese; Cantonese",
-        "words": "\u4e09; \u4e09; \u53c1",
-        "alts": "san; s\u0101am; s\u0101am",
-        "defs": "three; three; three"
+        "langs": "Japanese;Cantonese;Cantonese",
+        "words": "\u4e09;\u4e09;\u53c1",
+        "alts": "san;s\u0101am;s\u0101am",
+        "defs": "three;three;three"
       },
       "creator": "jan Lenoka, jan Wesu",
       "ku_data": "three\u2070",
@@ -12076,9 +12076,9 @@
       "source_language": "Esperanto",
       "etymology": "\u015delo \u2018skin, peel\u2019 \u2190 German Schale \u2018peel, husk, shell\u2019",
       "etymology_data": {
-        "langs": "Esperanto; German",
-        "words": "\u015delo; schale",
-        "defs": "skin, peel; peel, husk, shell"
+        "langs": "Esperanto;German",
+        "words": "\u015delo;schale",
+        "defs": "skin, peel;peel, husk, shell"
       },
       "creator": "jan Sonja",
       "ku_data": "skin\u2075, boundary\u2074, surface\u00b3, peel\u00b3, outer\u00b3, shape\u00b3, layer\u00b3, outline\u00b2, edge\u00b2, external\u00b2, border\u00b2, frame\u00b2, margin\u00b2, shell\u00b2, barrier\u00b2, cover\u00b2, appearance\u00b9",
@@ -12762,9 +12762,9 @@
       "source_language": "multiple",
       "etymology": "toki pona: lape; English: sleep",
       "etymology_data": {
-        "langs": "toki pona; English",
-        "words": "lape; sleep",
-        "defs": "sleep; sleep"
+        "langs": "toki pona;English",
+        "words": "lape;sleep",
+        "defs": "sleep;sleep"
       },
       "recognition": {
         "2020-04": "12",
@@ -13287,9 +13287,9 @@
       "source_language": "Esperanto",
       "etymology": "surfaco \u2018surface\u2019 \u2190 Acadian French & English surface",
       "etymology_data": {
-        "langs": "Esperanto; Acadian French; English",
-        "words": "surfaco; surface; surface",
-        "defs": "surface; surface; surface"
+        "langs": "Esperanto;Acadian French;English",
+        "words": "surfaco;surface;surface",
+        "defs": "surface;surface;surface"
       },
       "creator": "jan Sonja",
       "ku_data": "platform\u2075, table\u2075, shelf\u2074, board\u2074, furniture\u00b3, flat\u00b3, lie (be in flat position)\u00b3, level\u00b3, desk\u00b3, deck\u00b2, couch\u00b2, stage\u00b2, seat\u00b2, bench\u00b2, tablet\u00b2, surface\u00b2, chair\u00b2, counter\u00b2, pad\u00b2",
@@ -13407,9 +13407,9 @@
       "source_language": "Tok Pisin",
       "etymology": "suwi \u2190 English sweet",
       "etymology_data": {
-        "langs": "Tok Pisin; English",
-        "words": "suwi; sweet",
-        "defs": "sweet; sweet"
+        "langs": "Tok Pisin;English",
+        "words": "suwi;sweet",
+        "defs": "sweet;sweet"
       },
       "creator": "jan Sonja",
       "ku_data": "sweet\u2075, cute\u2075, candy\u2074, sugar\u00b3, gentle\u00b2, dessert\u00b2, tender\u00b2, soft\u00b2, darling\u00b2, treat\u00b2",
@@ -13594,9 +13594,9 @@
       "source_language": "Tok Pisin",
       "etymology": "tasol \u2018just, only, but, however\u2019 \u2190 English that\u2019s all",
       "etymology_data": {
-        "langs": "Tok Pisin; English",
-        "words": "tasol; that\u2019s all",
-        "defs": "just, only, but, however; that\u2019s all"
+        "langs": "Tok Pisin;English",
+        "words": "tasol;that\u2019s all",
+        "defs": "just, only, but, however;that\u2019s all"
       },
       "creator": "jan Sonja",
       "ku_data": "only\u2075, but\u2075, solely\u2075, however\u2075, exclusively\u2074, although\u2074, though\u2074, just\u2074, exclusive\u2074, despite\u2074, nonetheless\u2074, mere\u2074, merely\u00b3, except\u00b3, yet\u00b3, sole\u00b3, nevertheless\u00b3, whereas\u00b3, regardless\u00b2, exception\u00b2",
@@ -13952,9 +13952,9 @@
       "source_language": "Esperanto",
       "etymology": "tempo \u2018time\u2019 \u2190 Latin tempus",
       "etymology_data": {
-        "langs": "Esperanto; Latin",
-        "words": "tempo; tempus",
-        "defs": "time; time"
+        "langs": "Esperanto;Latin",
+        "words": "tempo;tempus",
+        "defs": "time;time"
       },
       "creator": "jan Sonja",
       "ku_data": "time\u2075, timing\u2074, session\u2074, occasion\u2074, phase\u2074, moment\u00b3, date\u00b3, circumstance\u00b3, hour\u00b3, appointment\u00b3, scenario\u00b3, event\u00b2, season\u00b2, period\u00b2, interval\u00b2, situation\u00b2, instance\u00b2",
@@ -14119,9 +14119,9 @@
       "source_language": "Tok Pisin",
       "etymology": "tok \u2190 English talk",
       "etymology_data": {
-        "langs": "Tok Pisin; English",
-        "words": "tok; talk",
-        "defs": "talk; talk"
+        "langs": "Tok Pisin;English",
+        "words": "tok;talk",
+        "defs": "talk;talk"
       },
       "creator": "jan Sonja",
       "ku_data": "communicate\u2075, speak\u2075, say\u2075, conversation\u2075, communication\u2075, hello\u2075, speech\u2075, talk\u2075, language\u2075, tell\u2075, statement\u2075, hi\u2075, discuss\u2075, discussion\u2075, discourse\u2074, mention\u2074, comment\u2074, refer\u2074, message\u2074, express\u00b3, remark\u00b3, dialogue\u00b3, reporting\u00b3, call\u00b3, narrative\u00b3, contact\u00b3, respond\u00b3, commentary\u00b3, disclose\u00b3, proposal\u00b3, admit\u00b3, verbal\u00b3, tale\u00b3, story\u00b3, declare\u00b3, interview\u00b3, testify\u00b3, answer\u00b3, report\u00b3, expression\u00b3, phrase\u00b3, excuse\u00b2, hey\u00b2, response\u00b2, reply\u00b2, greet\u00b2, confess\u00b2, declaration\u00b2, interaction\u00b2, suggest\u00b2, quote\u00b2, state\u00b2, preach\u00b2, describe\u00b2, negotiate\u00b2, specify\u00b2, claim\u00b2, feedback\u00b2, counsel\u00b2, coverage\u00b2, proposition\u00b2, suggestion\u00b2, accuse\u00b2, consult\u00b2",
@@ -14228,9 +14228,9 @@
       "source_language": "Esperanto",
       "etymology": "domo \u2018house\u2019 \u2190 Polish dom, Latin domus, Ancient Greek \u03b4\u03cc\u03bc\u03bf\u03c2",
       "etymology_data": {
-        "langs": "Esperanto; Polish; Latin; Ancient Greek",
-        "words": "domo; dom; domus; \u03b4\u03cc\u03bc\u03bf\u03c2",
-        "defs": "house; house; house; house"
+        "langs": "Esperanto;Polish;Latin;Ancient Greek",
+        "words": "domo;dom;domus;\u03b4\u03cc\u03bc\u03bf\u03c2",
+        "defs": "house;house;house;house"
       },
       "creator": "jan Sonja",
       "ku_data": "building\u2075, house\u2075, housing\u2075, chamber\u2075, home\u2075, room\u2075, shelter\u2074, residence\u2074, suite\u00b3, domestic\u00b3, structural\u00b3, structure\u00b3, facility\u00b3, residential\u00b3, establishment\u00b3, household\u00b3, cabin\u00b3, apartment\u00b3, station\u00b2, hall\u00b2, venue\u00b2, institute\u00b2, construction\u00b2",
@@ -14359,9 +14359,9 @@
       "source_language": "multiple",
       "etymology": "English: two; Esperanto: du",
       "etymology_data": {
-        "langs": "English; Esperanto",
-        "words": "two; du",
-        "defs": "two; two"
+        "langs": "English;Esperanto",
+        "words": "two;du",
+        "defs": "two;two"
       },
       "creator": "jan Sonja",
       "ku_data": "two\u2075, pair\u2075, double\u2074, both\u2074, twice\u00b3, couple\u00b3, cut\u00b2, divide\u00b2",
@@ -14912,9 +14912,9 @@
       "source_language": "Quenya",
       "etymology": "valdea \u2018of moment, important\u2019 \u2190 valda \u2018worth, worthy, dear\u2019",
       "etymology_data": {
-        "langs": "Quenya; Quenya",
-        "words": "valdea; valda",
-        "defs": "of moment, important; worth, worthy, dear"
+        "langs": "Quenya;Quenya",
+        "words": "valdea;valda",
+        "defs": "of moment, important;worth, worthy, dear"
       },
       "creator": "jan inwin",
       "ku_data": "context\u00b9, circumstance\u00b9, attention\u2070, theme\u2070, situation\u2070, background\u2070, emphasize\u2070, emphasis\u2070, topic\u2070, case\u2070, subject\u2070, premise\u2070",
@@ -15319,9 +15319,9 @@
       "source_language": "Spanish",
       "etymology": "g\u00fcey \u2018man\u2019 {cf. English man (sentence tag)}",
       "etymology_data": {
-        "langs": "Spanish; English",
-        "words": "g\u00fcey; man",
-        "defs": "man; man (sentence tag)"
+        "langs": "Spanish;English",
+        "words": "g\u00fcey;man",
+        "defs": "man;man (sentence tag)"
       },
       "creator": "jan inwin",
       "recognition": {
@@ -15589,9 +15589,9 @@
       "source_language": "toki pona",
       "etymology": "syllables wu, wo, ji, and ti",
       "etymology_data": {
-        "langs": "toki pona; toki pona; toki pona; toki pona",
-        "words": "wu; wo; ji; ti",
-        "defs": "(sound); (sound); (sound); (sound)"
+        "langs": "toki pona;toki pona;toki pona;toki pona",
+        "words": "wu;wo;ji;ti",
+        "defs": "(sound);(sound);(sound);(sound)"
       },
       "creator": "unknown",
       "recognition": {
