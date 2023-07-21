@@ -16703,6 +16703,21 @@
       "style": "uniform line weight",
       "features": "ASCII transcription, ku suli"
     },
+    "sitelen": {
+      "name_short": "sitelen",
+      "writing_system": "sitelen pona",
+      "links": {
+        "fontfile": "https://cdn.discordapp.com/attachments/999566667187228673/1131563335612104806/sitelen.otf",
+        "repo": "https://fontstruct.com/fontstructions/show/2299763/sitelen-10"
+      },
+      "creator": "AidenFont",
+      "license": "Fontstruct ND NC",
+      "version": "1.0",
+      "last_updated": "2023-07",
+      "filename": "sitelen.otf",
+      "style": "pixelated",
+      "features": "codepoints only, incomplete"
+    },
     "sitelen Antowi": {
       "name_short": "sitelen Antowi",
       "writing_system": "sitelen pona",
