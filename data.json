@@ -747,7 +747,8 @@
       },
       "see_also": "kin",
       "pu_verbatim": {
-        "en": "PARTICLE (emphasis, emotion or confirmation)"
+        "en": "PARTICLE (emphasis, emotion or confirmation)",
+        "fr": "PARTICULE (accent, \u00e9motion ou confirmation)"
       },
       "commentary": "In common usage (both before and after pu), \"a\" and \"kin\" are separate words, each with their own meaning. In pu, they are considered synonyms.",
       "def": {
@@ -867,7 +868,8 @@
         "2022-08": "98"
       },
       "pu_verbatim": {
-        "en": "NOUN non-cute animal; reptile, amphibian"
+        "en": "NOUN non-cute animal; reptile, amphibian",
+        "fr": "NOM animal non-mignon ; remtile, amphibien"
       },
       "commentary": "akesi used to mean \"non-cute animal,\" and is defined this way in pu, but this definition has fallen out of use.",
       "def": {
@@ -974,7 +976,8 @@
         "2022-08": "100"
       },
       "pu_verbatim": {
-        "en": "ADJECTIVE no, not, zero"
+        "en": "ADJECTIVE no, not, zero",
+        "fr": "ADJECTIF non, ne, pas, acun, zero"
       },
       "commentary": "source_language",
       "def": {
@@ -1050,7 +1053,8 @@
         "2022-08": "97"
       },
       "pu_verbatim": {
-        "en": "VERB to hunt, forage"
+        "en": "VERB to hunt, forage",
+        "fr": "VERBE chasser, cueillir"
       },
       "commentary": "In some communities, the usage of \"alasa\" as a preverb meaning \"try to\" is equally or even more common than \"lukin\". In pu, only \"lukin\"/\"oko\" has this meaning.",
       "def": {
@@ -1127,7 +1131,8 @@
       "see_also": "ali",
       "tags": "pre-pu ALT",
       "pu_verbatim": {
-        "en": "ADJECTIVE all; abundant, countless, bountiful, every, plentiful\nNOUN abundance, everything, life, universe\nNUMBER 100"
+        "en": "ADJECTIVE all; abundant, countless, bountiful, every, plentiful\nNOUN abundance, everything, life, universe\nNUMBER 100",
+        "fr": "ADJECTIF tous, abondants, innombrables\nNOM tout, abondance, la vie, l'univers\nNOMBRE 100"
       },
       "commentary": "\"ali\" is an alternative to \"ale\", coined in a poll in 2002 in order to avoid confusion with \"ala\". However, the usage of \"ale\" over \"ali\" remains more common.\nThe majority of speakers report not understanding the \"abundant, bountiful, plentiful\" meaning, at least out of context.\n\"20, 120\" were non-pu meanings previously in use in the community alongside 100; they are virtually unheard of nowadays.",
       "def": {
@@ -1355,7 +1360,8 @@
       },
       "tags": "pre-pu ALT",
       "pu_verbatim": {
-        "en": "ADJECTIVE bowing down, downward, humble, lowly, dependent"
+        "en": "ADJECTIVE bowing down, downward, humble, lowly, dependent",
+        "fr": "ADJECTIF inclin\u00e9 vers le bas, humble, qui d\u00e9pend"
       },
       "commentary": "In common usage (both before and after pu), \"anpa\" has the meaning of \"place that is down\". In pu, \"noka\" has that meaning instead.",
       "def": {
@@ -1429,7 +1435,8 @@
         "2022-08": "99"
       },
       "pu_verbatim": {
-        "en": "ADJECTIVE different, altered, changed, other"
+        "en": "ADJECTIVE different, altered, changed, other",
+        "fr": "ADJECTIF diff\u00e9rent, chang\u00e9, autre"
       },
       "def": {
         "en": "different, altered, changed, other",
@@ -1504,7 +1511,8 @@
         "2022-08": "98"
       },
       "pu_verbatim": {
-        "en": "PARTICLE or"
+        "en": "PARTICLE or",
+        "fr": "PARTICULE ou"
       },
       "commentary": "The usage of \"anu\" as a content word meaning \"choose\" remains controversial.",
       "def": {
@@ -1683,7 +1691,8 @@
         "2022-08": "98"
       },
       "pu_verbatim": {
-        "en": "ADJECTIVE enduring, kept, protected, safe, waiting, staying\nPRE-VERB to continue to"
+        "en": "ADJECTIVE enduring, kept, protected, safe, waiting, staying\nPRE-VERB to continue to",
+        "fr": "ADJECTIF rest\u00e9, prot\u00e9g\u00e9, gard\u00e9, qui attend, qui persiste, conserv\u00e9\nAUXILIAIRE continuer \u00e0"
       },
       "def": {
         "en": "enduring, kept, protected, safe, waiting, staying; (pv.) to continue to, to keep",
@@ -1747,7 +1756,8 @@
         "2022-08": "100"
       },
       "pu_verbatim": {
-        "en": "PARTICLE (before the direct object)"
+        "en": "PARTICLE (before the direct object)",
+        "fr": "PARTICULE (avant l'objet direct)"
       },
       "def": {
         "en": "(before the direct object)",
@@ -1866,7 +1876,8 @@
       },
       "tags": "pre-pu ALT",
       "pu_verbatim": {
-        "en": "PARTICLE (between multiple subjects)"
+        "en": "PARTICLE (between multiple subjects)",
+        "fr": "PARTICULE (entre plusieurs sujets)"
       },
       "commentary": "There are various analyses of the syntactic role of \"en\". Originally intended to be used as \"and\", it was changed (via poll in 2002) to just be used with \"head nouns\". One of the more recent analyses (including 2021's April Fools) treats \"en\" as a subject marker.",
       "def": {
@@ -2048,7 +2059,8 @@
         "2022-08": "96"
       },
       "pu_verbatim": {
-        "en": "NOUN market, shop, fair, bazaar, business transaction"
+        "en": "NOUN market, shop, fair, bazaar, business transaction",
+        "fr": "NOM march\u00e9, boutique, foire, magasin, commerce"
       },
       "commentary": "According to jan Sonja, \"esun was told [to her] by a taxi driver who spoke a language from the Akan family in West Africa\".",
       "def": {
@@ -2278,7 +2290,8 @@
         "2022-08": "99"
       },
       "pu_verbatim": {
-        "en": "NOUN thing, phenomenon, object, matter"
+        "en": "NOUN thing, phenomenon, object, matter",
+        "fr": "NOM chose, ph\u00e9nom\u00e8ne, objet, mati\u00e8re"
       },
       "def": {
         "en": "thing, phenomenon, object, matter",
@@ -2354,7 +2367,8 @@
       },
       "tags": "pre-pu ALT",
       "pu_verbatim": {
-        "en": "ADJECTIVE bad, negative; non-essential, irrelevant"
+        "en": "ADJECTIVE bad, negative; non-essential, irrelevant",
+        "fr": "ADJECTIF mauvais, n\u00e9gatif ; superflu, non pertinent"
       },
       "def": {
         "en": "bad, negative; non-essential, irrelevant | ALT complicated, complex",
@@ -2480,7 +2494,8 @@
         "2022-08": "100"
       },
       "pu_verbatim": {
-        "en": "NOUN tool, implement, machine, device"
+        "en": "NOUN tool, implement, machine, device",
+        "fr": "NOM outil, instrument, \u00e9quipement, machine, appareil"
       },
       "def": {
         "en": "tool, implement, machine, device",
@@ -2554,7 +2569,8 @@
         "2022-08": "99"
       },
       "pu_verbatim": {
-        "en": "NOUN centre, content, inside, between; internal organ, stomach"
+        "en": "NOUN centre, content, inside, between; internal organ, stomach",
+        "fr": "NOM centre, contenu, int\u00e9rieur, entre ; estomac, visc\u00e8res"
       },
       "def": {
         "en": "centre, content, inside, between; internal organ, stomach",
@@ -2786,7 +2802,8 @@
         "2022-08": "99"
       },
       "pu_verbatim": {
-        "en": "ADJECTIVE disgusting, obscene, sickly, toxic, unclean, unsanitary"
+        "en": "ADJECTIVE disgusting, obscene, sickly, toxic, unclean, unsanitary",
+        "fr": "ADJECTIF d\u00e9go\u00fbtant, obsc\u00e8ne, maladif, toxique, impur, insalubre"
       },
       "def": {
         "en": "disgusting, obscene, sickly, toxic, unclean, unsanitary",
@@ -3010,7 +3027,8 @@
         "2022-08": "99"
       },
       "pu_verbatim": {
-        "en": "NOUN human being, person, somebody"
+        "en": "NOUN human being, person, somebody",
+        "fr": "NOM \u00eatre humain, personne, quelqu'un"
       },
       "commentary": "There are two sides to the concept, \"sentient entity\" and \"homo sapiens\", which matters for whether to use the word in edge cases (i.e. aliens, humans turned into werewolves, etc). Which sense is more central to the word remains controversial.",
       "def": {
@@ -3228,7 +3246,8 @@
         "2022-08": "98"
       },
       "pu_verbatim": {
-        "en": "ADJECTIVE yellow, yellowish"
+        "en": "ADJECTIVE yellow, yellowish",
+        "fr": "ADJECTIF jaune"
       },
       "commentary": "Some extend \"jelo\" to include lime green, but this usage is uncommon.",
       "def": {
@@ -3307,7 +3326,8 @@
       },
       "see_also": "lon, poki, lanpan",
       "pu_verbatim": {
-        "en": "VERB to have, carry, contain, hold"
+        "en": "VERB to have, carry, contain, hold",
+        "fr": "VERBE avoir, porter, contenir, tenir"
       },
       "def": {
         "en": "to have, carry, contain, hold",
@@ -3550,7 +3570,8 @@
         "2022-08": "99"
       },
       "pu_verbatim": {
-        "en": "NOUN fish, marine animal, sea creature"
+        "en": "NOUN fish, marine animal, sea creature",
+        "fr": "NOM poisson, animal sous-marin"
       },
       "def": {
         "en": "fish, marine animal, sea creature",
@@ -3624,7 +3645,8 @@
         "2022-08": "99"
       },
       "pu_verbatim": {
-        "en": "VERB to produce a sound; recite, utter aloud"
+        "en": "VERB to produce a sound; recite, utter aloud",
+        "fr": "VERBE \u00e9mettre un son ; r\u00e9citer, prof\u00e9rer"
       },
       "def": {
         "en": "to produce a sound; recite, utter aloud",
@@ -3770,7 +3792,8 @@
         "2022-08": "99"
       },
       "pu_verbatim": {
-        "en": "ADJECTIVE arriving, coming, future, summoned\nPRE-VERB to become, manage to, succeed in"
+        "en": "ADJECTIVE arriving, coming, future, summoned\nPRE-VERB to become, manage to, succeed in",
+        "fr": "ADJECTIF qui arrive, qui vent, futur, venu\nAUXILIAIRE devenir, arriver \u00e0, r\u00e9ussir \u00e0"
       },
       "def": {
         "en": "arriving, coming, future, summoned; (pv.) to become, manage to, succeed in",
@@ -4053,7 +4076,8 @@
         "2022-08": "99"
       },
       "pu_verbatim": {
-        "en": "NOUN plant, vegetation; herb, leaf"
+        "en": "NOUN plant, vegetation; herb, leaf",
+        "fr": "NOM plante, v\u00e9g\u00e9tation ; herbe, feuille"
       },
       "def": {
         "en": "plant, vegetation; herb, leaf",
@@ -4177,7 +4201,8 @@
         "2022-08": "99"
       },
       "pu_verbatim": {
-        "en": "PRE-VERB to be able to, be allowed to, can, may\nADJECTIVE possible"
+        "en": "PRE-VERB to be able to, be allowed to, can, may\nADJECTIVE possible",
+        "fr": "AUXILIAIRE pouvoir\nADJECTIF possible"
       },
       "def": {
         "en": "to be able to, be allowed to, can, may; possible",
@@ -4247,7 +4272,8 @@
         "2022-08": "99"
       },
       "pu_verbatim": {
-        "en": "PREPOSITION to use, with, by means of"
+        "en": "PREPOSITION to use, with, by means of",
+        "fr": "PR\u00c9POSITION en utilisant, avec, au moyen de"
       },
       "commentary": "Whether \"kepeken\" should be used with or without \"e\" in a predicative position (meaning \"to use\") remains controversial.",
       "def": {
@@ -4578,7 +4604,8 @@
       },
       "see_also": "soko",
       "pu_verbatim": {
-        "en": "NOUN fruit, vegetable, mushroom"
+        "en": "NOUN fruit, vegetable, mushroom",
+        "fr": "NOM fruit, l\u00e9gume, champignon"
       },
       "commentary": "In post-ku 2021, metaphorical definitions for kili have been suggested, including but not limited to \"offspring\" and \"product\", and are moderately popular. It is not yet clear whether this will remain in use long-term.",
       "def": {
@@ -4652,7 +4679,8 @@
       "see_also": "a",
       "tags": "pre-pu ALT",
       "pu_verbatim": {
-        "en": "PARTICLE (emphasis, emotion or confirmation)"
+        "en": "PARTICLE (emphasis, emotion or confirmation)",
+        "fr": "PARTICULE (accent, \u00e9motion ou confirmation)"
       },
       "commentary": "In common usage (both before and after pu), \"a\" and \"kin\" are separate words, each with their own meaning. In pu, they are considered synonyms.\nUnderwent significant changes in usage in 2002, alongside \"en\" and (now obsolete) \"kan\".",
       "def": {
@@ -4841,7 +4869,8 @@
         "2022-08": "99"
       },
       "pu_verbatim": {
-        "en": "NOUN hard object, metal, rock, stone"
+        "en": "NOUN hard object, metal, rock, stone",
+        "fr": "NOM objet dur, m\u00e9tal, pierre"
       },
       "commentary": "Coined in a poll in 2002.",
       "def": {
@@ -4912,7 +4941,8 @@
         "2022-08": "98"
       },
       "pu_verbatim": {
-        "en": "NOUN clay, clinging form, dough, semi-solid, paste, powder"
+        "en": "NOUN clay, clinging form, dough, semi-solid, paste, powder",
+        "fr": "NOM argule, p\u00e2te, poudre, substance collante, semi-solide"
       },
       "commentary": "The \"clinging form\" definition was elaborated to mean \"a shape or mass that sticks or clings; a clot, a thick or viscous lump, a clump that can be reshaped\".",
       "def": {
@@ -5043,7 +5073,8 @@
         "2022-08": "99"
       },
       "pu_verbatim": {
-        "en": "NOUN air, breath; essence, spirit, hidden reality, unseen agent"
+        "en": "NOUN air, breath; essence, spirit, hidden reality, unseen agent",
+        "fr": "NOM air, souffle ; essence, esprit ; r\u00e9alit\u00e9 cach\u00e9e, agent invisible"
       },
       "def": {
         "en": "air, breath; essence, spirit; hidden reality, unseen agent",
@@ -5293,7 +5324,8 @@
         "2022-08": "99"
       },
       "pu_verbatim": {
-        "en": "ADJECTIVE colourful, pigmented, painted"
+        "en": "ADJECTIVE colourful, pigmented, painted",
+        "fr": "ADJECTIF color\u00e9, pigment\u00e9, peint"
       },
       "commentary": "in addition to its pu-definitions, kule is sometimes used to talk about more general kinds of categories, like type, kind, flavour, gender, etc.",
       "def": {
@@ -5462,7 +5494,8 @@
         "2022-08": "99"
       },
       "pu_verbatim": {
-        "en": "NOUN community, company, group, nation, society, tribe"
+        "en": "NOUN community, company, group, nation, society, tribe",
+        "fr": "NOM communaut\u00e9, groupe, nation, soci\u00e9t\u00e9, tribu, compagnie"
       },
       "def": {
         "en": "community, company, group, nation, society, tribe",
@@ -5585,7 +5618,8 @@
         "2022-08": "99"
       },
       "pu_verbatim": {
-        "en": "NOUN ear\nVERB to hear, listen; pay attention to, obey"
+        "en": "NOUN ear\nVERB to hear, listen; pay attention to, obey",
+        "fr": "NOM oreille\nVERBE entendre, \u00e9couter ; faire attention \u00e0, ob\u00e9ir"
       },
       "def": {
         "en": "ear; to hear, listen; pay attention to, obey",
@@ -5695,7 +5729,8 @@
         "2022-08": "100"
       },
       "pu_verbatim": {
-        "en": "PARTICLE (between the context phrase and the main sentence)"
+        "en": "PARTICLE (between the context phrase and the main sentence)",
+        "fr": "PARTICULE (entre le contexte et la phrase principale)"
       },
       "def": {
         "en": "(between the context phrase and the main sentence)",
@@ -5828,7 +5863,8 @@
         "2022-08": "100"
       },
       "pu_verbatim": {
-        "en": "ADJECTIVE sleeping, resting"
+        "en": "ADJECTIVE sleeping, resting",
+        "fr": "ADJECTIF dormant, se reposant"
       },
       "def": {
         "en": "sleeping, resting",
@@ -5899,7 +5935,8 @@
         "2022-08": "98"
       },
       "pu_verbatim": {
-        "en": "ADJECTIVE blue, green"
+        "en": "ADJECTIVE blue, green",
+        "fr": "ADJECTIF bleu, vert"
       },
       "def": {
         "en": "blue, green",
@@ -5972,7 +6009,8 @@
         "2022-08": "99"
       },
       "pu_verbatim": {
-        "en": "NOUN head, mind VERB to control, direct, guide, lead, own, plan, regulate, rule"
+        "en": "NOUN head, mind VERB to control, direct, guide, lead, own, plan, regulate, rule",
+        "fr": "NOM t\u00eate\nVERBE dominer, diriger, guider, mener, poss\u00e9der, r\u00e9gler"
       },
       "def": {
         "en": "head, mind; to control, direct, guide, lead, own, plan, regulate, rule",
@@ -6107,7 +6145,8 @@
         "2022-08": "99"
       },
       "pu_verbatim": {
-        "en": "NOUN cloth, clothing, fabric, textile; cover, layer of privacy"
+        "en": "NOUN cloth, clothing, fabric, textile; cover, layer of privacy",
+        "fr": "NOM tissu, v\u00eatement, textile ; couverture, rideau d'intimit\u00e9"
       },
       "def": {
         "en": "cloth, clothing, fabric, textile; cover, layer of privacy",
@@ -6176,7 +6215,8 @@
         "2022-08": "98"
       },
       "pu_verbatim": {
-        "en": "ADJECTIVE cold, cool; uncooked, raw"
+        "en": "ADJECTIVE cold, cool; uncooked, raw",
+        "fr": "ADJECTIF froid, frais ; cru"
       },
       "def": {
         "en": "cold, cool; uncooked, raw",
@@ -6241,7 +6281,8 @@
       },
       "see_also": "o",
       "pu_verbatim": {
-        "en": "PARTICLE (between any subject except mi alone or sina alone and its verb; also to introduce a new verb for the same subject)"
+        "en": "PARTICLE (between any subject except mi alone or sina alone and its verb; also to introduce a new verb for the same subject)",
+        "fr": "PARTICULE (entre le sujet et son verbe, \u00e0 l'exception de mi ou sina tout seul ; sert aussi \u00e0 introduire un nouveau verbe pour le m\u00eame sujet)"
       },
       "def": {
         "en": "(between any subject except mi alone or sina alone and its verb; also to introduce a new verb for the same subject)",
@@ -6402,7 +6443,8 @@
         "2022-08": "100"
       },
       "pu_verbatim": {
-        "en": "ADJECTIVE little, small, short; few; a bit; young"
+        "en": "ADJECTIVE little, small, short; few; a bit; young",
+        "fr": "ADJECTIF petit, (un) peu, jeune"
       },
       "def": {
         "en": "little, small, short; few; a bit; young",
@@ -6473,7 +6515,8 @@
       },
       "tags": "pre-pu ALT",
       "pu_verbatim": {
-        "en": "NOUN long and flexible thing; cord, hair, rope, thread, yarn"
+        "en": "NOUN long and flexible thing; cord, hair, rope, thread, yarn",
+        "fr": "NOM objet long et flexible : corde, cheveu, fil, ligne"
       },
       "def": {
         "en": "long and flexible thing; cord, hair, rope, thread, yarn | ALT line, connection",
@@ -6599,7 +6642,8 @@
         "2022-08": "99"
       },
       "pu_verbatim": {
-        "en": "NOUN flat object; book, document, card, paper, record, website"
+        "en": "NOUN flat object; book, document, card, paper, record, website",
+        "fr": "NOM objet plat ; livre, document, carte, papier, site web"
       },
       "def": {
         "en": "flat object; book, document, card, paper, record, website",
@@ -6711,7 +6755,8 @@
         "2022-08": "98"
       },
       "pu_verbatim": {
-        "en": "ADJECTIVE red, reddish"
+        "en": "ADJECTIVE red, reddish",
+        "fr": "ADJECTIF rouge"
       },
       "def": {
         "en": "red, reddish",
@@ -6884,7 +6929,8 @@
       },
       "tags": "pre-pu ALT",
       "pu_verbatim": {
-        "en": "PREPOSITION located at, present at, real, true, existing"
+        "en": "PREPOSITION located at, present at, real, true, existing",
+        "fr": "PR\u00c9POSITION \u00e0, situ\u00e9 \u00e0, pr\u00e9sent \u00e0, dans, sur ; r\u00e9el, vrai, actuel"
       },
       "def": {
         "en": "located at, present at, real, true, existing | ALT (affirmative response)",
@@ -6999,7 +7045,8 @@
       },
       "tags": "pre-pu ALT",
       "pu_verbatim": {
-        "en": "NOUN arm, hand, tactile organ\nNUMBER five"
+        "en": "NOUN arm, hand, tactile organ\nNUMBER five",
+        "fr": "NOM bras, main, organe du toucher\nNOMBRE cinq"
       },
       "def": {
         "en": "arm, hand, tactile organ; five | ALT touch/feel physically, interact, press",
@@ -7071,7 +7118,8 @@
       },
       "see_also": "oko, alasa",
       "pu_verbatim": {
-        "en": "NOUN eye\nVERB to look at, see, examine, observe, read, watch\nPRE-VERB to seek, look for, try to"
+        "en": "NOUN eye\nVERB to look at, see, examine, observe, read, watch\nPRE-VERB to seek, look for, try to",
+        "fr": "NOM \u0153il\nVERBE regarder, voir, examiner, observer, lire, surveiller\nAUXILIAIRE chercher \u00e0, essayer de"
       },
       "commentary": "In common usage (both before and after pu), \"lukin\" and \"oko\" are separate words, each with their own meaning. In pu, they are considered synonyms. Those who consider them synonyms typically don't use \"oko\" at all, preferring \"lukin\" in all circumstances. The usage of \"alasa\" as a preverb meaning \"try to\" is more common than \"lukin\". In pu, only \"lukin\" has this meaning.",
       "def": {
@@ -7143,7 +7191,8 @@
         "2022-08": "98"
       },
       "pu_verbatim": {
-        "en": "NOUN door, hole, orifice, window"
+        "en": "NOUN door, hole, orifice, window",
+        "fr": "NOM porte, trou, orifice, fen\u00eatre"
       },
       "def": {
         "en": "door, hole, orifice, window",
@@ -7213,7 +7262,8 @@
         "2022-08": "100"
       },
       "pu_verbatim": {
-        "en": "NOUN earth, land; outdoors, world; country, territory; soil"
+        "en": "NOUN earth, land; outdoors, world; country, territory; soil",
+        "fr": "NOM terre, sol ; monde, lieu en plen air ; pays, territoire"
       },
       "def": {
         "en": "earth, land; outdoors, world; country, territory; soil",
@@ -7346,7 +7396,8 @@
         "2022-08": "99"
       },
       "pu_verbatim": {
-        "en": "NOUN parent, ancestor; creator, originator; caretaker, sustainer"
+        "en": "NOUN parent, ancestor; creator, originator; caretaker, sustainer",
+        "fr": "NOM parent, anc\u00eatre ; cr\u00e9ateur ; celui ou celle qui prend soin"
       },
       "def": {
         "en": "parent, ancestor; creator, originator; caretaker, sustainer",
@@ -7416,7 +7467,8 @@
         "2022-08": "97"
       },
       "pu_verbatim": {
-        "en": "NOUN money, cash, savings, wealth; large domesticated animal"
+        "en": "NOUN money, cash, savings, wealth; large domesticated animal",
+        "fr": "NOM argent, richesse ; grand animal domestiqu\u00e9"
       },
       "def": {
         "en": "money, cash, savings, wealth; large domesticated animal",
@@ -7487,7 +7539,8 @@
       },
       "see_also": "mije, tonsi",
       "pu_verbatim": {
-        "en": "NOUN woman, female, feminine person; wife"
+        "en": "NOUN woman, female, feminine person; wife",
+        "fr": "NOM femme, femelle ; \u00e9pouse"
       },
       "def": {
         "en": "woman, female, feminine person; wife",
@@ -7676,7 +7729,8 @@
         "2022-08": "100"
       },
       "pu_verbatim": {
-        "en": "NOUN I, me, we, us"
+        "en": "NOUN I, me, we, us",
+        "fr": "NOM je, moi, nous"
       },
       "def": {
         "en": "I, me, we, us",
@@ -7749,7 +7803,8 @@
       },
       "see_also": "meli, tonsi",
       "pu_verbatim": {
-        "en": "NOUN man, male, masculine person; husband"
+        "en": "NOUN man, male, masculine person; husband",
+        "fr": "NOM homme, m\u00e2le ; mari"
       },
       "def": {
         "en": "man, male, masculine person; husband",
@@ -7995,7 +8050,8 @@
         "2022-08": "100"
       },
       "pu_verbatim": {
-        "en": "VERB to eat, drink, consume, swallow, ingest"
+        "en": "VERB to eat, drink, consume, swallow, ingest",
+        "fr": "VERBE manger, boire, consommer, avaler"
       },
       "def": {
         "en": "to eat, drink, consume, swallow, ingest",
@@ -8065,7 +8121,8 @@
         "2022-08": "99"
       },
       "pu_verbatim": {
-        "en": "ADJECTIVE dead, dying"
+        "en": "ADJECTIVE dead, dying",
+        "fr": "ADJECTIF mort, mourant"
       },
       "def": {
         "en": "dead, dying",
@@ -8177,7 +8234,8 @@
         "2022-08": "97"
       },
       "pu_verbatim": {
-        "en": "NOUN back, behind, rear"
+        "en": "NOUN back, behind, rear",
+        "fr": "NOM dos, derri\u00e8re, arri\u00e8re"
       },
       "def": {
         "en": "back, behind, rear",
@@ -8312,7 +8370,8 @@
         "2022-08": "97"
       },
       "pu_verbatim": {
-        "en": "PARTICLE (animal noise or communication)"
+        "en": "PARTICLE (animal noise or communication)",
+        "fr": "PARTICULE (cri ou communication d'un animal)"
       },
       "def": {
         "en": "(animal noise or communication) | ALT (non-speech vocalization)",
@@ -8441,7 +8500,8 @@
       },
       "see_also": "suno",
       "pu_verbatim": {
-        "en": "NOUN moon, night sky object, star"
+        "en": "NOUN moon, night sky object, star",
+        "fr": "NOM lune, astre, \u00e9toile"
       },
       "def": {
         "en": "moon, night sky object, star | ALT glow, glowing light, light in the dark",
@@ -8510,7 +8570,8 @@
         "2022-08": "100"
       },
       "pu_verbatim": {
-        "en": "ADJECTIVE artistic, entertaining, frivolous, playful, recreational"
+        "en": "ADJECTIVE artistic, entertaining, frivolous, playful, recreational",
+        "fr": "ADJECTIF artistique, divertissant, frivole, pour s'amuser"
       },
       "def": {
         "en": "artistic, entertaining, frivolous, playful, recreation",
@@ -8580,7 +8641,8 @@
       },
       "tags": "nimi nanpa",
       "pu_verbatim": {
-        "en": "ADJECTIVE many, a lot, more, much, several, very\nNOUN quantity"
+        "en": "ADJECTIVE many, a lot, more, much, several, very\nNOUN quantity",
+        "fr": "ADJECTIF beaucoup de, plusieurs, plus de ; tr\u00e8s\nNOM quantit\u00e9"
       },
       "def": {
         "en": "many, a lot, more, much, several, very; quantity | ALT three (or more), 20",
@@ -8743,7 +8805,8 @@
       "see_also": "sin",
       "tags": "pre-pu ALT",
       "pu_verbatim": {
-        "en": "ADJECTIVE new, fresh; additional, another, extra"
+        "en": "ADJECTIVE new, fresh; additional, another, extra",
+        "fr": "ADJECTIF nouveau, frais ; encore un, de plus"
       },
       "commentary": "In common usage (both before and after pu), \"sin\" and \"namako\" are separate words, each with their own meaning. In pu, they are considered synonyms. Those who consider them synonyms typically don't use \"namako\" at all, preferring \"sin\" in all circumstances.",
       "def": {
@@ -8812,7 +8875,8 @@
         "2022-08": "99"
       },
       "pu_verbatim": {
-        "en": "PARTICLE -th (ordinal number)\nNOUN numbers"
+        "en": "PARTICLE -th (ordinal number)\nNOUN numbers",
+        "fr": "PARTICULE -i\u00e8me (nombre ordinal)\nNOM nombre"
       },
       "def": {
         "en": "-th (ordinal number); numbers",
@@ -8881,7 +8945,8 @@
         "2022-08": "99"
       },
       "pu_verbatim": {
-        "en": "ADJECTIVE unusual, strange; foolish, crazy; drunk, intoxicated"
+        "en": "ADJECTIVE unusual, strange; foolish, crazy; drunk, intoxicated",
+        "fr": "ADJECTIF \u00e9trange, insolite ; fou, b\u00eate, idiot ; ivre"
       },
       "def": {
         "en": "unusual, strange; silly; drunk, intoxicated",
@@ -8951,7 +9016,8 @@
         "2022-08": "99"
       },
       "pu_verbatim": {
-        "en": "NOUN way, custom, doctrine, method, path, road"
+        "en": "NOUN way, custom, doctrine, method, path, road",
+        "fr": "NOM chemin, voie ; mani\u00e9re, fa\u00e7on ; coutume, m\u00e9thode, doctrine"
       },
       "def": {
         "en": "way, custom, doctrine, method, path, road",
@@ -9165,7 +9231,8 @@
       },
       "see_also": "kapa",
       "pu_verbatim": {
-        "en": "NOUN bump, button, hill, mountain, nose, protuberance"
+        "en": "NOUN bump, button, hill, mountain, nose, protuberance",
+        "fr": "NOM nez ; bosse, colline, montagne ; bouton"
       },
       "def": {
         "en": "bump, button, hill, mountain, nose, protuberance",
@@ -9237,7 +9304,8 @@
       },
       "see_also": "ona",
       "pu_verbatim": {
-        "en": "ADJECTIVE that, this"
+        "en": "ADJECTIVE that, this",
+        "fr": "ADJECTIF ce, cette"
       },
       "def": {
         "en": "that, this",
@@ -9307,7 +9375,8 @@
         "2022-08": "99"
       },
       "pu_verbatim": {
-        "en": "NOUN name, word"
+        "en": "NOUN name, word",
+        "fr": "NOM mot, nom"
       },
       "def": {
         "en": "name, word",
@@ -9467,7 +9536,8 @@
       "see_also": "jalan",
       "tags": "nimi nanpa",
       "pu_verbatim": {
-        "en": "NOUN foot, leg, organ of locomotion; bottom, lower part"
+        "en": "NOUN foot, leg, organ of locomotion; bottom, lower part",
+        "fr": "NOM pied, jambe, organe de locomotion ; bas, dessous"
       },
       "commentary": "In a 2002 poll, \"jalan\" was proposed to replace \"noka\". However, it failed to get enough votes. In pu, \"noka\" has the meaning of \"place that is down\". In common usage (both before and after pu), \"anpa\" has that meaning instead. noka had speculative and/or joking use for numbers, comparable to luka: ten, twenty, negative five.",
       "def": {
@@ -9583,7 +9653,8 @@
       },
       "see_also": "li",
       "pu_verbatim": {
-        "en": "PARTICLE hey! O! (vocative or imperative)"
+        "en": "PARTICLE hey! O! (vocative or imperative)",
+        "fr": "PARTICULE h\u00e9 ! \u00f4 ! (vocatif ou imp\u00e9ratif)"
       },
       "def": {
         "en": "hey! O! (vocative, imperative, or optative)",
@@ -9834,7 +9905,8 @@
       "see_also": "lukin",
       "tags": "pre-pu ALT",
       "pu_verbatim": {
-        "en": "NOUN eye\nVERB to look at, see, examine, observe, read, watch\nPRE-VERB to seek, look for, try to"
+        "en": "NOUN eye\nVERB to look at, see, examine, observe, read, watch\nPRE-VERB to seek, look for, try to",
+        "fr": "NOM \u0153il\nVERBE regarder, voir, examiner, observer, lire, surveiller\nAUXILIAIRE chercher \u00e0, essayer de"
       },
       "commentary": "In common usage (both before and after pu), \"lukin\" and \"oko\" are separate words, each with their own meaning. In pu, they are considered synonyms. Those who consider them synonyms typically don't use \"oko\" at all, preferring \"lukin\" in all circumstances.",
       "def": {
@@ -9904,7 +9976,8 @@
         "2022-08": "99"
       },
       "pu_verbatim": {
-        "en": "VERB to love, have compassion for, respect, show affection to"
+        "en": "VERB to love, have compassion for, respect, show affection to",
+        "fr": "VERBE aimer, respecter, comparit, montrer de l'affection pour"
       },
       "commentary": "In english, \"love\" can be used to mean \"like a lot\", but in toki pona, \"olin\" doesn't work that way. It indicates an emotional connection or bond, not preference",
       "def": {
@@ -10117,7 +10190,8 @@
       },
       "see_also": "i, iki, ipi",
       "pu_verbatim": {
-        "en": "NOUN he, she, it, they"
+        "en": "NOUN he, she, it, they",
+        "fr": "NOM il(s), elle(s)"
       },
       "commentary": "Coined in a poll in 2002. Replaced \"iki\", which was deemed too similar to \"ike\". Other options in the poll included \"ipi\", as well as \"i\" in a previous poll.",
       "def": {
@@ -10233,7 +10307,8 @@
       },
       "see_also": "kama",
       "pu_verbatim": {
-        "en": "VERB to begin, start; open; turn on"
+        "en": "VERB to begin, start; open; turn on",
+        "fr": "VERBE commencer, ouvrir, allumer"
       },
       "commentary": "Some proficient speakers use open as a preverb that means \"to start,\" that goes along with the complimentary pini preverb \"to stop\"",
       "def": {
@@ -10393,7 +10468,8 @@
       },
       "tags": "pre-pu ALT",
       "pu_verbatim": {
-        "en": "ADJECTIVE botched, broken, damaged, harmed, messed up"
+        "en": "ADJECTIVE botched, broken, damaged, harmed, messed up",
+        "fr": "ADJECTIF bris\u00e9, cass\u00e9, ab\u00eem\u00e9, b\u00e2cl\u00e9, g\u00e2ch\u00e9"
       },
       "def": {
         "en": "botched, broken, damaged, harmed, messed up | ALT (curse expletive, e.g. fuck!)",
@@ -10523,7 +10599,8 @@
         "2022-08": "99"
       },
       "pu_verbatim": {
-        "en": "VERB to do, take action on, work on; build, make, prepare"
+        "en": "VERB to do, take action on, work on; build, make, prepare",
+        "fr": "VERBE fair, agir sur, travailler, construire, pr\u00e9parer"
       },
       "def": {
         "en": "do, take action on, work on; build, make, prepare",
@@ -10593,7 +10670,8 @@
         "2022-08": "99"
       },
       "pu_verbatim": {
-        "en": "NOUN long hard thing; branch, rod, stick"
+        "en": "NOUN long hard thing; branch, rod, stick",
+        "fr": "NOM objet long et dur : b\u00e2ton"
       },
       "def": {
         "en": "long hard thing; branch, rod, stick",
@@ -10664,7 +10742,8 @@
         "2022-08": "98"
       },
       "pu_verbatim": {
-        "en": "NOUN cereal, grain; barley, corn, oat, rice, wheat; bread, pasta"
+        "en": "NOUN cereal, grain; barley, corn, oat, rice, wheat; bread, pasta",
+        "fr": "NOM c\u00e9r\u00e9ale ; riz, bl\u00e9, orge, ma\u00efs, avoine ; pain, p\u00e2tes"
       },
       "def": {
         "en": "cereal, grain; barley, corn, oat, rice, wheat; bread, pasta",
@@ -10733,7 +10812,8 @@
         "2022-08": "99"
       },
       "pu_verbatim": {
-        "en": "VERB to give, send, emit, provide, put, release"
+        "en": "VERB to give, send, emit, provide, put, release",
+        "fr": "VERBE donner, envoyer, mettre, fournir, \u00e9mettre, l\u00e2cher"
       },
       "def": {
         "en": "give, send, emit, provide, put, release",
@@ -11015,7 +11095,8 @@
       },
       "tags": "pre-pu ALT",
       "pu_verbatim": {
-        "en": "PARTICLE of"
+        "en": "PARTICLE of",
+        "fr": "PARTICULE de"
       },
       "commentary": "The usage of \"pi\" to mean \"of\" (marking a possessor) is heavily discouraged nowadays, preferring it to only be used for regrouping within phrases.",
       "def": {
@@ -11126,7 +11207,8 @@
         "2022-08": "100"
       },
       "pu_verbatim": {
-        "en": "NOUN heart (physical or emotional)\nADJECTIVE feeling (an emotion, a direct experience)"
+        "en": "NOUN heart (physical or emotional)\nADJECTIVE feeling (an emotion, a direct experience)",
+        "fr": "NOM c\u0153ur (physique et psychologique)\nADJECTIF qui ressent (une \u00e9motion, une exp\u00e9rience directe"
       },
       "def": {
         "en": "heart (physical or emotional); feeling (an emotion, a direct experience)",
@@ -11194,7 +11276,8 @@
         "2022-08": "99"
       },
       "pu_verbatim": {
-        "en": "ADJECTIVE black, dark, unlit"
+        "en": "ADJECTIVE black, dark, unlit",
+        "fr": "ADJECTIF noir, fonc\u00e9, sombre"
       },
       "def": {
         "en": "black, dark, unlit",
@@ -11311,7 +11394,8 @@
       },
       "see_also": "pake, open, kama",
       "pu_verbatim": {
-        "en": "ADJECTIVE ago, completed, ended, finished, past"
+        "en": "ADJECTIVE ago, completed, ended, finished, past",
+        "fr": "ADJECTIF fini, pass\u00e9, termin\u00e9"
       },
       "commentary": "Some proficient speakers use pini as a preverb that means \"to stop,\" that goes along with the complimentary open preverb \"to start\"",
       "def": {
@@ -11381,7 +11465,8 @@
         "2022-08": "98"
       },
       "pu_verbatim": {
-        "en": "NOUN bug, insect, ant, spider"
+        "en": "NOUN bug, insect, ant, spider",
+        "fr": "NOM insecte, araign\u00e9e, fourmi"
       },
       "def": {
         "en": "bug, insect, ant, spider",
@@ -11562,7 +11647,8 @@
       "see_also": "kan",
       "tags": "pre-pu ALT",
       "pu_verbatim": {
-        "en": "NOUN hip, side; next to, nearby, vicinity"
+        "en": "NOUN hip, side; next to, nearby, vicinity",
+        "fr": "NOM hanche, c\u00f4t\u00e9 ; proximit\u00e9"
       },
       "def": {
         "en": "hip, side; next to, nearby, vicinity | ALT along with (comitative), beside",
@@ -11630,7 +11716,8 @@
         "2022-08": "99"
       },
       "pu_verbatim": {
-        "en": "NOUN container, bag, bowl, box, cup, cupboard, drawer, vessel"
+        "en": "NOUN container, bag, bowl, box, cup, cupboard, drawer, vessel",
+        "fr": "NOM sac, bol, r\u00e9cipient, tasse, placard, tiroir, vase"
       },
       "def": {
         "en": "container, bag, bowl, box, cup, cupboard, drawer, vessel",
@@ -11805,7 +11892,8 @@
         "2022-08": "100"
       },
       "pu_verbatim": {
-        "en": "ADJECTIVE good, positive, useful; friendly, peaceful; simple"
+        "en": "ADJECTIVE good, positive, useful; friendly, peaceful; simple",
+        "fr": "ADJECTIF bon, positif, utile ; sympa, paisible ; simple"
       },
       "def": {
         "en": "good, positive, useful; friendly, peaceful; simple",
@@ -11972,7 +12060,8 @@
         "2022-08": "94"
       },
       "pu_verbatim": {
-        "en": "ADJECTIVE interacting with the official Toki Pona book"
+        "en": "ADJECTIVE interacting with the official Toki Pona book",
+        "fr": "ADJECTIF interagissant avec le livre officiel du Toki Pona"
       },
       "commentary": "For ways to buy a copy of the book, visit the official Toki Pona website.",
       "def": {
@@ -12093,7 +12182,8 @@
       },
       "see_also": "pata",
       "pu_verbatim": {
-        "en": "ADJECTIVE same, similar; each other; sibling, peer, fellow\nPREPOSITION as, like"
+        "en": "ADJECTIVE same, similar; each other; sibling, peer, fellow\nPREPOSITION as, like",
+        "fr": "ADJECTIF m\u00eame, semblable; l'un l'autre ; fraternel, homologue\nPR\u00c9POSITION comme"
       },
       "def": {
         "en": "same, similar; each other; sibling, peer, fellow; as, like",
@@ -12277,7 +12367,8 @@
         "2022-08": "99"
       },
       "pu_verbatim": {
-        "en": "ADJECTIVE fire; cooking element, chemical reaction, heat source"
+        "en": "ADJECTIVE fire; cooking element, chemical reaction, heat source",
+        "fr": "NOM feu ; \u00e9l\u00e9ment de cuisson, r\u00e9action chimique, chaleur"
       },
       "commentary": "In pu, definitions of seli are described as adjectives. ku's pu corrections clarify that these refer to nouns instead.",
       "def": {
@@ -12345,7 +12436,8 @@
         "2022-08": "98"
       },
       "pu_verbatim": {
-        "en": "NOUN outer form, outer layer; bark, peel, shell, skin; boundary"
+        "en": "NOUN outer form, outer layer; bark, peel, shell, skin; boundary",
+        "fr": "NOM forme, couche ext\u00e9rieure, peau, \u00e9corce, pelure, peau, coquille ; limite"
       },
       "def": {
         "en": "outer form, outer layer; bark, peel, shell, skin; boundary",
@@ -12414,7 +12506,8 @@
         "2022-08": "100"
       },
       "pu_verbatim": {
-        "en": "PARTICLE what? which?"
+        "en": "PARTICLE what? which?",
+        "fr": "PARTICULE quoi ? quel ?"
       },
       "def": {
         "en": "what? which?",
@@ -12485,7 +12578,8 @@
         "2022-08": "100"
       },
       "pu_verbatim": {
-        "en": "NOUN area above, highest part, something elevated\nADJECTIVE awe-inspiring, divine, sacred, supernatural"
+        "en": "NOUN area above, highest part, something elevated\nADJECTIVE awe-inspiring, divine, sacred, supernatural",
+        "fr": "NOM dessus, le haut, chose \u00e9lev\u00e9e\nADJECTIF divin, sacr\u00e9, surnaturel, qui inspire le respect et la crainte"
       },
       "def": {
         "en": "area above, highest part, something elevated; awe-inspiring, divine, sacred, supernatural",
@@ -12554,7 +12648,8 @@
         "2022-08": "99"
       },
       "pu_verbatim": {
-        "en": "NOUN body (of person or animal), physical state, torso"
+        "en": "NOUN body (of person or animal), physical state, torso",
+        "fr": "NOM corps, \u00e9tat physique, torse"
       },
       "def": {
         "en": "body (of person or animal), physical state, torso",
@@ -12622,7 +12717,8 @@
         "2022-08": "99"
       },
       "pu_verbatim": {
-        "en": "NOUN round or circular thing; ball, circle, cycle, sphere, wheel\nADJECTIVE of one year"
+        "en": "NOUN round or circular thing; ball, circle, cycle, sphere, wheel\nADJECTIVE of one year",
+        "fr": "NOM objet rond : ballon, cercle, cycle, sph\u00e8re, roue, anneau\nADJECTIF annuel"
       },
       "def": {
         "en": "round or circular thing; ball, circle, cycle, sphere, wheel; of one year",
@@ -12741,7 +12837,8 @@
       },
       "see_also": "namako",
       "pu_verbatim": {
-        "en": "ADJECTIVE new, fresh; additional, another, extra"
+        "en": "ADJECTIVE new, fresh; additional, another, extra",
+        "fr": "ADJECTIF nouveau, frais ; encore un, de plus"
       },
       "commentary": "In common usage (both before and after pu), \"sin\" and \"namako\" are separate words, each with their own meaning. In pu, they are considered synonyms. Those who consider them synonyms typically don't use \"namako\" at all, preferring \"sin\" in all circumstances.",
       "def": {
@@ -12810,7 +12907,8 @@
         "2022-08": "100"
       },
       "pu_verbatim": {
-        "en": "NOUN you"
+        "en": "NOUN you",
+        "fr": "NOM tu, toi, vous"
       },
       "def": {
         "en": "you",
@@ -12881,7 +12979,8 @@
         "2022-08": "98"
       },
       "pu_verbatim": {
-        "en": "NOUN face, foremost, front, wall"
+        "en": "NOUN face, foremost, front, wall",
+        "fr": "NOM avant, visage, front, mur"
       },
       "def": {
         "en": "face, foremost, front, wall",
@@ -12993,7 +13092,8 @@
         "2022-08": "100"
       },
       "pu_verbatim": {
-        "en": "NOUN image, picture, representation, symbol, mark, writing"
+        "en": "NOUN image, picture, representation, symbol, mark, writing",
+        "fr": "NOM image, repr\u00e9sentation, symbole, marque, \u00e9criture"
       },
       "def": {
         "en": "image, picture, representation, symbol, mark, writing",
@@ -13172,7 +13272,8 @@
         "2022-08": "100"
       },
       "pu_verbatim": {
-        "en": "VERB to know, be skilled in, be wise about, have information on\nPRE-VERB to know how to"
+        "en": "VERB to know, be skilled in, be wise about, have information on\nPRE-VERB to know how to",
+        "fr": "VERBE savoir, conna\u00eetre\nAUXILIAIRE savoir"
       },
       "def": {
         "en": "know, be skilled in, be wise about, have information on; (pv.) know how to",
@@ -13295,7 +13396,8 @@
         "2022-08": "100"
       },
       "pu_verbatim": {
-        "en": "NOUN animal, beast, land mammal"
+        "en": "NOUN animal, beast, land mammal",
+        "fr": "NOM animal, mammif\u00e8re terrestre"
       },
       "def": {
         "en": "animal, beast, land mammal",
@@ -13451,7 +13553,8 @@
         "2022-08": "99"
       },
       "pu_verbatim": {
-        "en": "ADJECTIVE big, heavy, large, long, tall; important; adult"
+        "en": "ADJECTIVE big, heavy, large, long, tall; important; adult",
+        "fr": "ADJECTIF grand, lourd, long ; important ; adulte"
       },
       "def": {
         "en": "big, heavy, large, long, tall; important; adult",
@@ -13521,7 +13624,8 @@
       },
       "see_also": "mun",
       "pu_verbatim": {
-        "en": "NOUN sun; light brightness, glow, radiance, shine; light source"
+        "en": "NOUN sun; light brightness, glow, radiance, shine; light source",
+        "fr": "NOM soleil, lumi\u00e8re, lueur, brillant"
       },
       "def": {
         "en": "sun; light, brightness, glow, radiance, shine; light source",
@@ -13589,7 +13693,8 @@
         "2022-08": "98"
       },
       "pu_verbatim": {
-        "en": "NOUN horizontal surface, thing to put or rest something on"
+        "en": "NOUN horizontal surface, thing to put or rest something on",
+        "fr": "NOM surface horizontale sur laquelle on pose quelque chose"
       },
       "def": {
         "en": "horizontal surface, thing to put or rest something on",
@@ -13712,7 +13817,8 @@
         "2022-08": "100"
       },
       "pu_verbatim": {
-        "en": "ADJECTIVE sweet, fragrant; cute, innocent, adorable"
+        "en": "ADJECTIVE sweet, fragrant; cute, innocent, adorable",
+        "fr": "ADJECTIF doux, parfum\u00e9, mignon, innocent, adorable"
       },
       "def": {
         "en": "sweet, fragrant; cute, innocent, adorable",
@@ -13836,7 +13942,8 @@
         "2022-08": "99"
       },
       "pu_verbatim": {
-        "en": "PREPOSITION by, from, because of"
+        "en": "PREPOSITION by, from, because of",
+        "fr": "PR\u00c9POSITION de, provenant de, \u00e0 cause de"
       },
       "def": {
         "en": "by, from, because of; origin, cause",
@@ -13904,7 +14011,8 @@
         "2022-08": "99"
       },
       "pu_verbatim": {
-        "en": "PARTICLE but, however\nADJECTIVE only"
+        "en": "PARTICLE but, however\nADJECTIVE only",
+        "fr": "PARTICULE mais, cependant\nADJECTIF seulement"
       },
       "commentary": "Many proficient speakers use taso as a connector between sentences (X taso Y), similar to \"X, but Y,\" though others do not use this method.",
       "def": {
@@ -13974,7 +14082,8 @@
         "2022-08": "99"
       },
       "pu_verbatim": {
-        "en": "PREPOSITION going to, toward; for; from the perspective of\nADJECTIVE moving"
+        "en": "PREPOSITION going to, toward; for; from the perspective of\nADJECTIVE moving",
+        "fr": "PR\u00c9POSITION \u00e0, allant \u00e0, vers, pour, du point de vue de\nADJECTIF en mouvement, anim\u00e9"
       },
       "def": {
         "en": "going to, toward; for; from the perspective of; moving | ALT (pv.) going to",
@@ -14152,7 +14261,8 @@
         "2022-08": "100"
       },
       "pu_verbatim": {
-        "en": "NOUN water, liquid, fluid, wet substance; beverage"
+        "en": "NOUN water, liquid, fluid, wet substance; beverage",
+        "fr": "NOM eau, liquide, fluide, substance moull\u00e9e, boisson"
       },
       "def": {
         "en": "water, liquid, fluid, wet substance; beverages",
@@ -14272,7 +14382,8 @@
       },
       "see_also": "waleja",
       "pu_verbatim": {
-        "en": "NOUN time, duration, moment, occasion, period, situation"
+        "en": "NOUN time, duration, moment, occasion, period, situation",
+        "fr": "NOM temps, dur\u00e9e, moment, occasion, p\u00e9riode, situation"
       },
       "def": {
         "en": "time, duration, moment, occasion, period, situation",
@@ -14442,7 +14553,8 @@
         "2022-08": "100"
       },
       "pu_verbatim": {
-        "en": "VERB to communicate, say, speak, say, talk, use language, think"
+        "en": "VERB to communicate, say, speak, say, talk, use language, think",
+        "fr": "VERBE communiquer, dire, parler, penser"
       },
       "def": {
         "en": "communicate, say, speak, talk, use language, think; hello",
@@ -14554,7 +14666,8 @@
         "2022-08": "100"
       },
       "pu_verbatim": {
-        "en": "NOUN indoor space; building, home, house, room"
+        "en": "NOUN indoor space; building, home, house, room",
+        "fr": "NOM espace int\u00e9rieur, lieu couvert ; maison, b\u00e2timent, \u00e9difice, pi\u00e8ce, chambre, chez soi, demeure"
       },
       "def": {
         "en": "indoor space; building, home, house, room",
@@ -14692,7 +14805,8 @@
       "see_also": "kipisi",
       "tags": "nimi nanpa",
       "pu_verbatim": {
-        "en": "NUMBER two"
+        "en": "NUMBER two",
+        "fr": "NOMBRE deux"
       },
       "def": {
         "en": "two | ALT separate, cut",
@@ -14899,7 +15013,8 @@
         "2022-08": "97"
       },
       "pu_verbatim": {
-        "en": "VERB to have sexual or marital relations with"
+        "en": "VERB to have sexual or marital relations with",
+        "fr": "VERBE avoir des rapports sexuels our conjugaux avec"
       },
       "commentary": "Also defined as \"have marital relations with\" in pu; removed due to potential confusion.",
       "def": {
@@ -15077,7 +15192,8 @@
         "2022-08": "98"
       },
       "pu_verbatim": {
-        "en": "NOUN mouth,lips, oral cavity, jaw"
+        "en": "NOUN mouth,lips, oral cavity, jaw",
+        "fr": "NOM bouche, l\u00e8vres, cavit\u00e9 buccale, m\u00e2choire"
       },
       "commentary": "The dot in the \"uta\" sitelen pona is to distinguish luka-uta from moku.",
       "def": {
@@ -15147,7 +15263,8 @@
         "2022-08": "99"
       },
       "pu_verbatim": {
-        "en": "VERB to battle, challenge, compete against struggle against"
+        "en": "VERB to battle, challenge, compete against struggle against",
+        "fr": "VERBE se battre contre, lutter contre"
       },
       "def": {
         "en": "battle, challenge, compete against, struggle against",
@@ -15318,7 +15435,8 @@
         "2022-08": "98"
       },
       "pu_verbatim": {
-        "en": "ADJECTIVE white, whitish; light-coloured, pale"
+        "en": "ADJECTIVE white, whitish; light-coloured, pale",
+        "fr": "ADJECTIF blanc, clair, p\u00e2le"
       },
       "def": {
         "en": "white, whitish; light-coloured, pale",
@@ -15387,7 +15505,8 @@
       },
       "tags": "nimi nanpa",
       "pu_verbatim": {
-        "en": "ADJECTIVE unique, united\nNUMBER one"
+        "en": "ADJECTIVE unique, united\nNUMBER one",
+        "fr": "ADJECTIF unique, uni\nNOMBRE un"
       },
       "def": {
         "en": "unique, united; one",
@@ -15455,7 +15574,8 @@
         "2022-08": "99"
       },
       "pu_verbatim": {
-        "en": "NOUN bird, flying creature, winged animal"
+        "en": "NOUN bird, flying creature, winged animal",
+        "fr": "NOM oiseau, cr\u00e9ature volante, animal ail\u00e9"
       },
       "def": {
         "en": "bird, flying creature, winged animal",
@@ -15568,7 +15688,8 @@
         "2022-08": "99"
       },
       "pu_verbatim": {
-        "en": "ADJECTIVE strong, powerful; confident, sure; energetic, intense"
+        "en": "ADJECTIVE strong, powerful; confident, sure; energetic, intense",
+        "fr": "ADJECTIF fort, puissant ; s\u00fbr, confiant ; \u00e9nergique, intense"
       },
       "def": {
         "en": "strong, powerful; confident, sure; energetic, intense",
@@ -15732,7 +15853,8 @@
         "2022-08": "99"
       },
       "pu_verbatim": {
-        "en": "ADJECTIVE absent, away, ignored"
+        "en": "ADJECTIVE absent, away, ignored",
+        "fr": "ADJECTIF absent, enlev\u00e9, \u00e9loign\u00e9"
       },
       "def": {
         "en": "absent, away, ignored",
@@ -15894,7 +16016,8 @@
         "2022-08": "100"
       },
       "pu_verbatim": {
-        "en": "PRE-VERB must, need, require, should, want, wish"
+        "en": "PRE-VERB must, need, require, should, want, wish",
+        "fr": "AUXILIAIRE devoir, avoir besoin de, vouloir"
       },
       "def": {
         "en": "must, need, require, should, want, wish",
