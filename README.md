@@ -52,8 +52,8 @@ Some static files are derived from [ijo Linku](https://github.com/lipu-linku/ijo
 All children of `etymology_data` have the same list length once split on `;`.
 
 ```yml
-[word]:
-  word: Identical to [word].
+[word_id]: A unique identifier for the word which is often the word, but may have an integer suffix if the word has been coined multiple times.
+  word: The word as it would be written in toki pona using sitelen Lasina.
   sitelen_pona: A list of latin character strings that convert to all alternates for a given word. Usually identical to [word]; see "akesi".
   ucsur: The unicode codepoint assigned to the word.
   sitelen_pona_etymology: Human-readable description of the origin of the sitelen pona.
@@ -78,6 +78,10 @@ All children of `etymology_data` have the same list length once split on `;`.
   recognition:
     [date]:
       Integer percentage of survey respondents who recognize and use the word as of [date]. [date] is YYYY-MM format.
+  author_verbatim: Definition of the word as written by its original author. Defer to `pu_verbatim` if that is defined.
+  pu_verbatim:
+    [language_code]:
+      "Definition of the word in [language_code] as written in the corresponding translation of Toki Pona: The Language of Good."
   see_also: A list of words related to [word]. **Split on `,`.**
   commentary: Human-readable extra information about the word, such as historical usage, replacement, or clarifications.
   def:
