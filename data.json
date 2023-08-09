@@ -748,7 +748,9 @@
       "see_also": "kin",
       "pu_verbatim": {
         "en": "PARTICLE (emphasis, emotion or confirmation)",
-        "fr": "PARTICULE (accent, \u00e9motion ou confirmation)"
+        "fr": "PARTICULE (accent, \u00e9motion ou confirmation)",
+        "de": "PARTIKEL (Betonung, Emotion oder Best\u00e4tigung)",
+        "eo": "PARTIKULO (emfazo, emocio a\u016d konfirmo)"
       },
       "commentary": "In common usage (both before and after pu), \"a\" and \"kin\" are separate words, each with their own meaning. In pu, they are considered synonyms.",
       "def": {
@@ -869,7 +871,9 @@
       },
       "pu_verbatim": {
         "en": "NOUN non-cute animal; reptile, amphibian",
-        "fr": "NOM animal non-mignon ; reptile, amphibien"
+        "fr": "NOM animal non-mignon ; reptile, amphibien",
+        "de": "NOMEN nichts\u00fc\u00dfes Tier; Reptil, Amphibie",
+        "eo": "SUBSTANTIVO reptilio, amfibio"
       },
       "commentary": "akesi used to mean \"non-cute animal,\" and is defined this way in pu, but this definition has fallen out of use.",
       "def": {
@@ -977,7 +981,9 @@
       },
       "pu_verbatim": {
         "en": "ADJECTIVE no, not, zero",
-        "fr": "ADJECTIF non, ne, pas, aucun, z\u00e9ro"
+        "fr": "ADJECTIF non, ne, pas, aucun, z\u00e9ro",
+        "de": "ADJEKTIV nein, nicht, kein, nichts, Null",
+        "eo": "ADJEKTIVO ne, nul"
       },
       "commentary": "source_language",
       "def": {
@@ -1054,7 +1060,9 @@
       },
       "pu_verbatim": {
         "en": "VERB to hunt, forage",
-        "fr": "VERBE chasser, cueillir"
+        "fr": "VERBE chasser, cueillir",
+        "de": "VERB jagen, nach Nahrung suchen",
+        "eo": "VERBO \u0109asi, kolekti"
       },
       "commentary": "In some communities, the usage of \"alasa\" as a preverb meaning \"try to\" is equally or even more common than \"lukin\". In pu, only \"lukin\"/\"oko\" has this meaning.",
       "def": {
@@ -1132,7 +1140,9 @@
       "tags": "pre-pu ALT",
       "pu_verbatim": {
         "en": "ADJECTIVE all; abundant, countless, bountiful, every, plentiful\nNOUN abundance, everything, life, universe\nNUMBER 100",
-        "fr": "ADJECTIF tous, abondants, innombrables\nNOM tout, abondance, la vie, l'univers\nNOMBRE 100"
+        "fr": "ADJECTIF tous, abondants, innombrables\nNOM tout, abondance, la vie, l'univers\nNOMBRE 100",
+        "de": "ADJEKTIV alle, jede/r/s; im \u00dcberfluss, zahllos, reichlich\nNOMEN \u00dcberfluss, alles, Leben, Universum\nZAHL 100",
+        "eo": "ADJEKTIVO \u0109iuj; abunda, nenombrebla, \u0109iu\nSUBSTANTIVO abundo, \u0109io, vivo, universo\nNOMBRO 100"
       },
       "commentary": "\"ali\" is an alternative to \"ale\", coined in a poll in 2002 in order to avoid confusion with \"ala\". However, the usage of \"ale\" over \"ali\" remains more common.\nThe majority of speakers report not understanding the \"abundant, bountiful, plentiful\" meaning, at least out of context.\n\"20, 120\" were non-pu meanings previously in use in the community alongside 100; they are virtually unheard of nowadays.",
       "def": {
@@ -1361,7 +1371,9 @@
       "tags": "pre-pu ALT",
       "pu_verbatim": {
         "en": "ADJECTIVE bowing down, downward, humble, lowly, dependent",
-        "fr": "ADJECTIF inclin\u00e9 vers le bas, humble, qui d\u00e9pend"
+        "fr": "ADJECTIF inclin\u00e9 vers le bas, humble, qui d\u00e9pend",
+        "de": "ADJEKTIV sich unterwerfend, herunter, bescheiden, dem\u00fctig, abh\u00e4ngig",
+        "eo": "ADJEKTIVO klinanta sin, malsupren, humila, modesta, dependa"
       },
       "commentary": "In common usage (both before and after pu), \"anpa\" has the meaning of \"place that is down\". In pu, \"noka\" has that meaning instead.",
       "def": {
@@ -1436,7 +1448,9 @@
       },
       "pu_verbatim": {
         "en": "ADJECTIVE different, altered, changed, other",
-        "fr": "ADJECTIF diff\u00e9rent, chang\u00e9, autre"
+        "fr": "ADJECTIF diff\u00e9rent, chang\u00e9, autre",
+        "de": "ADJEKTIV unterschiedlich, ver\u00e4ndert, modifiziert, anders",
+        "eo": "ADJEKTIVO malsama, \u015dan\u011dita, alia"
       },
       "def": {
         "en": "different, altered, changed, other",
@@ -1512,7 +1526,9 @@
       },
       "pu_verbatim": {
         "en": "PARTICLE or",
-        "fr": "PARTICULE ou"
+        "fr": "PARTICULE ou",
+        "de": "PARTIKEL oder",
+        "eo": "PARTIKULO a\u016d"
       },
       "commentary": "The usage of \"anu\" as a content word meaning \"choose\" remains controversial.",
       "def": {
@@ -1692,7 +1708,9 @@
       },
       "pu_verbatim": {
         "en": "ADJECTIVE enduring, kept, protected, safe, waiting, staying\nPRE-VERB to continue to",
-        "fr": "ADJECTIF rest\u00e9, prot\u00e9g\u00e9, gard\u00e9, qui attend, qui persiste, conserv\u00e9\nAUXILIAIRE continuer \u00e0"
+        "fr": "ADJECTIF rest\u00e9, prot\u00e9g\u00e9, gard\u00e9, qui attend, qui persiste, conserv\u00e9\nAUXILIAIRE continuer \u00e0",
+        "de": "ADJEKTIV best\u00e4ndig, behalten, gesch\u00fctzt, sicher, wartend, bleibend\nHILFSVERB fortfahren, andauern",
+        "eo": "ADJEKTIVO da\u016dranta, tenata, gardata, protektita, sekura, atendanta, restanta\nANTA\u016cVERBO da\u016dre \u2026i, konstante \u2026i, plue"
       },
       "def": {
         "en": "enduring, kept, protected, safe, waiting, staying; (pv.) to continue to, to keep",
@@ -1757,7 +1775,9 @@
       },
       "pu_verbatim": {
         "en": "PARTICLE (before the direct object)",
-        "fr": "PARTICULE (avant l'objet direct)"
+        "fr": "PARTICULE (avant l'objet direct)",
+        "de": "PARTIKEL (vor dem direkten Objekt)",
+        "eo": "PARTIKULO (emfazo, emocio a\u016d konfirmo)"
       },
       "def": {
         "en": "(before the direct object)",
@@ -1877,7 +1897,9 @@
       "tags": "pre-pu ALT",
       "pu_verbatim": {
         "en": "PARTICLE (between multiple subjects)",
-        "fr": "PARTICULE (entre plusieurs sujets)"
+        "fr": "PARTICULE (entre plusieurs sujets)",
+        "de": "PARTIKEL (zwischen mehreren Subjekten)",
+        "eo": "PARTIKULO (inter pluraj subjektoj)"
       },
       "commentary": "There are various analyses of the syntactic role of \"en\". Originally intended to be used as \"and\", it was changed (via poll in 2002) to just be used with \"head nouns\". One of the more recent analyses (including 2021's April Fools) treats \"en\" as a subject marker.",
       "def": {
@@ -2060,7 +2082,9 @@
       },
       "pu_verbatim": {
         "en": "NOUN market, shop, fair, bazaar, business transaction",
-        "fr": "NOM march\u00e9, boutique, foire, magasin, commerce"
+        "fr": "NOM march\u00e9, boutique, foire, magasin, commerce",
+        "de": "NOMEN Markt, Laden, Basar, Gesch\u00e4ft, Handel",
+        "eo": "SUBSTANTIVO bazaro, vendejo, foiro, komerca transakcio"
       },
       "commentary": "According to jan Sonja, \"esun was told [to her] by a taxi driver who spoke a language from the Akan family in West Africa\".",
       "def": {
@@ -2291,7 +2315,9 @@
       },
       "pu_verbatim": {
         "en": "NOUN thing, phenomenon, object, matter",
-        "fr": "NOM chose, ph\u00e9nom\u00e8ne, objet, mati\u00e8re"
+        "fr": "NOM chose, ph\u00e9nom\u00e8ne, objet, mati\u00e8re",
+        "de": "NOMEN Ding, Ph\u00e4nomen, Objekt, Angelegenheit",
+        "eo": "SUBSTANTIVO a\u0135o, fenomeno, objekto, afero"
       },
       "def": {
         "en": "thing, phenomenon, object, matter",
@@ -2368,7 +2394,9 @@
       "tags": "pre-pu ALT",
       "pu_verbatim": {
         "en": "ADJECTIVE bad, negative; non-essential, irrelevant",
-        "fr": "ADJECTIF mauvais, n\u00e9gatif ; superflu, non pertinent"
+        "fr": "ADJECTIF mauvais, n\u00e9gatif ; superflu, non pertinent",
+        "de": "ADJEKTIV schlecht, negativ; nicht essenziell, irrelevant",
+        "eo": "ADJEKTIVO malbona, negativa; neesenca, malgrava"
       },
       "def": {
         "en": "bad, negative; non-essential, irrelevant | ALT complicated, complex",
@@ -2495,7 +2523,9 @@
       },
       "pu_verbatim": {
         "en": "NOUN tool, implement, machine, device",
-        "fr": "NOM outil, instrument, \u00e9quipement, machine, appareil"
+        "fr": "NOM outil, instrument, \u00e9quipement, machine, appareil",
+        "de": "NOMEN Werkzeug, Hilfsmittel, Maschine, Ger\u00e4t",
+        "eo": "SUBSTANTIVO ilo, ma\u015dino, aparato"
       },
       "def": {
         "en": "tool, implement, machine, device",
@@ -2570,7 +2600,9 @@
       },
       "pu_verbatim": {
         "en": "NOUN centre, content, inside, between; internal organ, stomach",
-        "fr": "NOM centre, contenu, int\u00e9rieur, entre ; estomac, visc\u00e8res"
+        "fr": "NOM centre, contenu, int\u00e9rieur, entre ; estomac, visc\u00e8res",
+        "de": "NOMEN Zentrum, Inhalt, Inneres, zwischen; inneres Organ, Magen",
+        "eo": "SUBSTANTIVO centro, enhavo, eno, inter; ena organo, ventro, stomako"
       },
       "def": {
         "en": "centre, content, inside, between; internal organ, stomach",
@@ -2803,7 +2835,9 @@
       },
       "pu_verbatim": {
         "en": "ADJECTIVE disgusting, obscene, sickly, toxic, unclean, unsanitary",
-        "fr": "ADJECTIF d\u00e9go\u00fbtant, obsc\u00e8ne, maladif, toxique, impur, insalubre"
+        "fr": "ADJECTIF d\u00e9go\u00fbtant, obsc\u00e8ne, maladif, toxique, impur, insalubre",
+        "de": "ADJEKTIV eklig, obsz\u00f6n, krank, giftig, unsauber, unhygienisch",
+        "eo": "ADJEKTIVO na\u016dza, obscena, malagrabla, toksa, malpura, malhigiena"
       },
       "def": {
         "en": "disgusting, obscene, sickly, toxic, unclean, unsanitary",
@@ -3028,7 +3062,9 @@
       },
       "pu_verbatim": {
         "en": "NOUN human being, person, somebody",
-        "fr": "NOM \u00eatre humain, personne, quelqu'un"
+        "fr": "NOM \u00eatre humain, personne, quelqu'un",
+        "de": "NOMEN Mensch, Person, jemand",
+        "eo": "SUBSTANTIVO homo, persono, iu"
       },
       "commentary": "There are two sides to the concept, \"sentient entity\" and \"homo sapiens\", which matters for whether to use the word in edge cases (i.e. aliens, humans turned into werewolves, etc). Which sense is more central to the word remains controversial.",
       "def": {
@@ -3247,7 +3283,9 @@
       },
       "pu_verbatim": {
         "en": "ADJECTIVE yellow, yellowish",
-        "fr": "ADJECTIF jaune"
+        "fr": "ADJECTIF jaune",
+        "de": "ADJEKTIV gelb, gelblich",
+        "eo": "ADJEKTIVO flava, flaveca"
       },
       "commentary": "Some extend \"jelo\" to include lime green, but this usage is uncommon.",
       "def": {
@@ -3327,7 +3365,9 @@
       "see_also": "lon, poki, lanpan",
       "pu_verbatim": {
         "en": "VERB to have, carry, contain, hold",
-        "fr": "VERBE avoir, porter, contenir, tenir"
+        "fr": "VERBE avoir, porter, contenir, tenir",
+        "de": "VERB haben, tragen, beinhalten, halten",
+        "eo": "VERBO havi, porti, enhavi, teni"
       },
       "def": {
         "en": "to have, carry, contain, hold",
@@ -3571,7 +3611,9 @@
       },
       "pu_verbatim": {
         "en": "NOUN fish, marine animal, sea creature",
-        "fr": "NOM poisson, animal sous-marin"
+        "fr": "NOM poisson, animal sous-marin",
+        "de": "NOMEN Fisch, Seetier, Meerestier",
+        "eo": "SUBSTANTIVO fi\u015do, mara besto, mara viva\u0135o"
       },
       "def": {
         "en": "fish, marine animal, sea creature",
@@ -3646,7 +3688,9 @@
       },
       "pu_verbatim": {
         "en": "VERB to produce a sound; recite, utter aloud",
-        "fr": "VERBE \u00e9mettre un son ; r\u00e9citer, prof\u00e9rer"
+        "fr": "VERBE \u00e9mettre un son ; r\u00e9citer, prof\u00e9rer",
+        "de": "VERB Ger\u00e4usche machen; vortragen, laut aussprechen",
+        "eo": "VERBO fari sonon; reciti, diri la\u016dte a\u016d vo\u0109e"
       },
       "def": {
         "en": "to produce a sound; recite, utter aloud",
@@ -3793,7 +3837,9 @@
       },
       "pu_verbatim": {
         "en": "ADJECTIVE arriving, coming, future, summoned\nPRE-VERB to become, manage to, succeed in",
-        "fr": "ADJECTIF qui arrive, qui vent, futur, venu\nAUXILIAIRE devenir, arriver \u00e0, r\u00e9ussir \u00e0"
+        "fr": "ADJECTIF qui arrive, qui vent, futur, venu\nAUXILIAIRE devenir, arriver \u00e0, r\u00e9ussir \u00e0",
+        "de": "ADJEKTIV ankommend, kommend, zuk\u00fcnftig, vorgeladen, beschworen\nHILFSVERB etw. werden, etw. schaffen, etw. erreichen",
+        "eo": "ADJEKTIVO alvenanta, venonta, estonteca, venigita\nANTA\u016cVERBO i\u011di, sukcesi, elturni\u011di pri"
       },
       "def": {
         "en": "arriving, coming, future, summoned; (pv.) to become, manage to, succeed in",
@@ -4077,7 +4123,9 @@
       },
       "pu_verbatim": {
         "en": "NOUN plant, vegetation; herb, leaf",
-        "fr": "NOM plante, v\u00e9g\u00e9tation ; herbe, feuille"
+        "fr": "NOM plante, v\u00e9g\u00e9tation ; herbe, feuille",
+        "de": "NOMEN Pflanze, Vegetation; Kraut, Blatt",
+        "eo": "SUBSTANTIVO planto, vegeta\u0135o; herbo, folio"
       },
       "def": {
         "en": "plant, vegetation; herb, leaf",
@@ -4202,7 +4250,9 @@
       },
       "pu_verbatim": {
         "en": "PRE-VERB to be able to, be allowed to, can, may\nADJECTIVE possible",
-        "fr": "AUXILIAIRE pouvoir\nADJECTIF possible"
+        "fr": "AUXILIAIRE pouvoir\nADJECTIF possible",
+        "de": "HILFSVERB etw. k\u00f6nnen, etw. d\u00fcrfen\nADJEKTIV m\u00f6glich",
+        "eo": "ANTA\u016cVERBO povi, rajti\nADJEKTIVO ebla"
       },
       "def": {
         "en": "to be able to, be allowed to, can, may; possible",
@@ -4273,7 +4323,9 @@
       },
       "pu_verbatim": {
         "en": "PREPOSITION to use, with, by means of",
-        "fr": "PR\u00c9POSITION en utilisant, avec, au moyen de"
+        "fr": "PR\u00c9POSITION en utilisant, avec, au moyen de",
+        "de": "PR\u00c4POSITION mittels, benutzen, mithilfe von, mit Hilfe",
+        "eo": "PREPOZICIO uzi, per, uzante"
       },
       "commentary": "Whether \"kepeken\" should be used with or without \"e\" in a predicative position (meaning \"to use\") remains controversial.",
       "def": {
@@ -4605,7 +4657,9 @@
       "see_also": "soko",
       "pu_verbatim": {
         "en": "NOUN fruit, vegetable, mushroom",
-        "fr": "NOM fruit, l\u00e9gume, champignon"
+        "fr": "NOM fruit, l\u00e9gume, champignon",
+        "de": "NOMEN Frucht, Gem\u00fcse, Pilz",
+        "eo": "SUBSTANTIVO frukto, legomo, man\u011debla fungo"
       },
       "commentary": "In post-ku 2021, metaphorical definitions for kili have been suggested, including but not limited to \"offspring\" and \"product\", and are moderately popular. It is not yet clear whether this will remain in use long-term.",
       "def": {
@@ -4680,7 +4734,9 @@
       "tags": "pre-pu ALT",
       "pu_verbatim": {
         "en": "PARTICLE (emphasis, emotion or confirmation)",
-        "fr": "PARTICULE (accent, \u00e9motion ou confirmation)"
+        "fr": "PARTICULE (accent, \u00e9motion ou confirmation)",
+        "de": "PARTIKEL (Betonung, Emotion oder Best\u00e4tigung)",
+        "eo": "PARTIKULO (emfazo, emocio a\u016d konfirmo)"
       },
       "commentary": "In common usage (both before and after pu), \"a\" and \"kin\" are separate words, each with their own meaning. In pu, they are considered synonyms.\nUnderwent significant changes in usage in 2002, alongside \"en\" and (now obsolete) \"kan\".",
       "def": {
@@ -4870,7 +4926,9 @@
       },
       "pu_verbatim": {
         "en": "NOUN hard object, metal, rock, stone",
-        "fr": "NOM objet dur, m\u00e9tal, pierre"
+        "fr": "NOM objet dur, m\u00e9tal, pierre",
+        "de": "NOMEN hartes Objekt, Metall, Fels, Stein",
+        "eo": "SUBSTANTIVO malmola\u0135o, metalo, roko, \u015dtono"
       },
       "commentary": "Coined in a poll in 2002.",
       "def": {
@@ -4942,7 +5000,9 @@
       },
       "pu_verbatim": {
         "en": "NOUN clay, clinging form, dough, semi-solid, paste, powder",
-        "fr": "NOM argle, p\u00e2te, poudre, substance collante, semi-solide"
+        "fr": "NOM argle, p\u00e2te, poudre, substance collante, semi-solide",
+        "de": "NOMEN Lehm, Haftendes, Knete, Teig, Halbfestes, Paste, Puder",
+        "eo": "SUBSTANTIVO argilo, kunteni\u011danta a\u016d glueca formo, pasto, duonsolida\u0135o, pulvoro"
       },
       "commentary": "The \"clinging form\" definition was elaborated to mean \"a shape or mass that sticks or clings; a clot, a thick or viscous lump, a clump that can be reshaped\".",
       "def": {
@@ -5074,7 +5134,9 @@
       },
       "pu_verbatim": {
         "en": "NOUN air, breath; essence, spirit, hidden reality, unseen agent",
-        "fr": "NOM air, souffle ; essence, esprit ; r\u00e9alit\u00e9 cach\u00e9e, agent invisible"
+        "fr": "NOM air, souffle ; essence, esprit ; r\u00e9alit\u00e9 cach\u00e9e, agent invisible",
+        "de": "NOMEN Luft, Atem; Essenz, Geist; versteckte Realit\u00e4t, ungesehener Akteur",
+        "eo": "SUBSTANTIVO aero, spiro; esenco, spirito; ka\u015dita reala\u0135o, io nevidata"
       },
       "def": {
         "en": "air, breath; essence, spirit; hidden reality, unseen agent",
@@ -5325,7 +5387,9 @@
       },
       "pu_verbatim": {
         "en": "ADJECTIVE colourful, pigmented, painted",
-        "fr": "ADJECTIF color\u00e9, pigment\u00e9, peint"
+        "fr": "ADJECTIF color\u00e9, pigment\u00e9, peint",
+        "de": "ADJEKTIV bunt, pigmentiert, gemalt",
+        "eo": "ADJEKTIVO kolora, pigmenta, pentrita"
       },
       "commentary": "in addition to its pu-definitions, kule is sometimes used to talk about more general kinds of categories, like type, kind, flavour, gender, etc.",
       "def": {
@@ -5495,7 +5559,9 @@
       },
       "pu_verbatim": {
         "en": "NOUN community, company, group, nation, society, tribe",
-        "fr": "NOM communaut\u00e9, groupe, nation, soci\u00e9t\u00e9, tribu, compagnie"
+        "fr": "NOM communaut\u00e9, groupe, nation, soci\u00e9t\u00e9, tribu, compagnie",
+        "de": "NOMEN Gemeinschaft, Firma, Gruppe, Nation, Gesellschaft, Stamm, Community",
+        "eo": "SUBSTANTIVO komunumo, kunularo, grupo, nacio, socio, tribo"
       },
       "def": {
         "en": "community, company, group, nation, society, tribe",
@@ -5619,7 +5685,9 @@
       },
       "pu_verbatim": {
         "en": "NOUN ear\nVERB to hear, listen; pay attention to, obey",
-        "fr": "NOM oreille\nVERBE entendre, \u00e9couter ; faire attention \u00e0, ob\u00e9ir"
+        "fr": "NOM oreille\nVERBE entendre, \u00e9couter ; faire attention \u00e0, ob\u00e9ir",
+        "de": "NOMEN Ohr\nVERB h\u00f6ren, zuh\u00f6ren; aufpassen, gehorchen",
+        "eo": "SUBSTANTIVO orelo\nVERBO a\u016ddi, a\u016dskulti; atenti, obei"
       },
       "def": {
         "en": "ear; to hear, listen; pay attention to, obey",
@@ -5730,7 +5798,9 @@
       },
       "pu_verbatim": {
         "en": "PARTICLE (between the context phrase and the main sentence)",
-        "fr": "PARTICULE (entre le contexte et la phrase principale)"
+        "fr": "PARTICULE (entre le contexte et la phrase principale)",
+        "de": "PARTIKEL (zwischen der Kontextphrase und dem Hauptsatz)",
+        "eo": "PARTIKULO (inter la kunteksta frazparto kaj la \u0109effrazo)"
       },
       "def": {
         "en": "(between the context phrase and the main sentence)",
@@ -5864,7 +5934,9 @@
       },
       "pu_verbatim": {
         "en": "ADJECTIVE sleeping, resting",
-        "fr": "ADJECTIF dormant, se reposant"
+        "fr": "ADJECTIF dormant, se reposant",
+        "de": "ADJEKTIV schlafend, ausruhend",
+        "eo": "ADJEKTIVO dormanta, ripozanta"
       },
       "def": {
         "en": "sleeping, resting",
@@ -5936,7 +6008,9 @@
       },
       "pu_verbatim": {
         "en": "ADJECTIVE blue, green",
-        "fr": "ADJECTIF bleu, vert"
+        "fr": "ADJECTIF bleu, vert",
+        "de": "ADJEKTIV blau, gr\u00fcn",
+        "eo": "ADJEKTIVO blua, verda"
       },
       "def": {
         "en": "blue, green",
@@ -6010,7 +6084,9 @@
       },
       "pu_verbatim": {
         "en": "NOUN head, mind VERB to control, direct, guide, lead, own, plan, regulate, rule",
-        "fr": "NOM t\u00eate\nVERBE dominer, diriger, guider, mener, poss\u00e9der, r\u00e9gler"
+        "fr": "NOM t\u00eate\nVERBE dominer, diriger, guider, mener, poss\u00e9der, r\u00e9gler",
+        "de": "NOMEN Kopf, Geist (Verstand)\nVERB kontrollieren, f\u00fchren, anleiten, besitzen, planen, regulieren, beherrschen",
+        "eo": "SUBSTANTIVO kapo, menso\nVERBO gvidi, direkti, estri, konduki, posedi, plani, reguligi, regi"
       },
       "def": {
         "en": "head, mind; to control, direct, guide, lead, own, plan, regulate, rule",
@@ -6146,7 +6222,9 @@
       },
       "pu_verbatim": {
         "en": "NOUN cloth, clothing, fabric, textile; cover, layer of privacy",
-        "fr": "NOM tissu, v\u00eatement, textile ; couverture, rideau d'intimit\u00e9"
+        "fr": "NOM tissu, v\u00eatement, textile ; couverture, rideau d'intimit\u00e9",
+        "de": "NOMEN Stoff, Kleidung, Gewebe, Textil; Abdeckung, Privatsph\u00e4re",
+        "eo": "SUBSTANTIVO \u015dtofo, vesta\u0135o, teksa\u0135o; kovra\u0135o, tavolo de privateco"
       },
       "def": {
         "en": "cloth, clothing, fabric, textile; cover, layer of privacy",
@@ -6216,7 +6294,9 @@
       },
       "pu_verbatim": {
         "en": "ADJECTIVE cold, cool; uncooked, raw",
-        "fr": "ADJECTIF froid, frais ; cru"
+        "fr": "ADJECTIF froid, frais ; cru",
+        "de": "ADJEKTIV kalt, k\u00fchl; ungekocht, roh",
+        "eo": "ADJEKTIVO malvarma; nekuirita, kruda"
       },
       "def": {
         "en": "cold, cool; uncooked, raw",
@@ -6282,7 +6362,9 @@
       "see_also": "o",
       "pu_verbatim": {
         "en": "PARTICLE (between any subject except mi alone or sina alone and its verb; also to introduce a new verb for the same subject)",
-        "fr": "PARTICULE (entre le sujet et son verbe, \u00e0 l'exception de mi ou sina tout seul ; sert aussi \u00e0 introduire un nouveau verbe pour le m\u00eame sujet)"
+        "fr": "PARTICULE (entre le sujet et son verbe, \u00e0 l'exception de mi ou sina tout seul ; sert aussi \u00e0 introduire un nouveau verbe pour le m\u00eame sujet)",
+        "de": "PARTIKEL (zwischen jedem Subjekt und dem zugeh\u00f6rigen Verb, au\u00dfer bei einzelnem mi oder einzelnem sina; auch um ein neues Verb f\u00fcr dasselbe Subjekt einzuleiten)",
+        "eo": "PARTIKULO (inter subjekto krom sola mi a\u016d sola sina kaj ties verbo; anka\u016d por enkonduki novan verbon de la sama subjekto)"
       },
       "def": {
         "en": "(between any subject except mi alone or sina alone and its verb; also to introduce a new verb for the same subject)",
@@ -6444,7 +6526,9 @@
       },
       "pu_verbatim": {
         "en": "ADJECTIVE little, small, short; few; a bit; young",
-        "fr": "ADJECTIF petit, (un) peu, jeune"
+        "fr": "ADJECTIF petit, (un) peu, jeune",
+        "de": "ADJEKTIV klein, kurz; wenige; ein bisschen; jung",
+        "eo": "ADJEKTIVO malgranda, malalta; malmulta; iomete; juna"
       },
       "def": {
         "en": "little, small, short; few; a bit; young",
@@ -6516,7 +6600,9 @@
       "tags": "pre-pu ALT",
       "pu_verbatim": {
         "en": "NOUN long and flexible thing; cord, hair, rope, thread, yarn",
-        "fr": "NOM objet long et flexible : corde, cheveu, fil, ligne"
+        "fr": "NOM objet long et flexible : corde, cheveu, fil, ligne",
+        "de": "NOMEN langes/flexibles Ding; Schnur, Haar, Seil, Faden, Garn",
+        "eo": "SUBSTANTIVO io longa kaj fleksebla; kordo, haro, \u015dnuro, fadeno"
       },
       "def": {
         "en": "long and flexible thing; cord, hair, rope, thread, yarn | ALT line, connection",
@@ -6643,7 +6729,9 @@
       },
       "pu_verbatim": {
         "en": "NOUN flat object; book, document, card, paper, record, website",
-        "fr": "NOM objet plat ; livre, document, carte, papier, site web"
+        "fr": "NOM objet plat ; livre, document, carte, papier, site web",
+        "de": "NOMEN flaches Objekt; Buch, Dokument, Karte, Papier, Aufzeichnung, Webseite",
+        "eo": "SUBSTANTIVO plata objekto; libro, dokumento, karto, papero, registro, retejo"
       },
       "def": {
         "en": "flat object; book, document, card, paper, record, website",
@@ -6756,7 +6844,9 @@
       },
       "pu_verbatim": {
         "en": "ADJECTIVE red, reddish",
-        "fr": "ADJECTIF rouge"
+        "fr": "ADJECTIF rouge",
+        "de": "ADJEKTIV rot, r\u00f6tlich",
+        "eo": "ADJEKTIVO ru\u011da, ru\u011deca"
       },
       "def": {
         "en": "red, reddish",
@@ -6930,7 +7020,9 @@
       "tags": "pre-pu ALT",
       "pu_verbatim": {
         "en": "PREPOSITION located at, present at, real, true, existing",
-        "fr": "PR\u00c9POSITION \u00e0, situ\u00e9 \u00e0, pr\u00e9sent \u00e0, dans, sur ; r\u00e9el, vrai, actuel"
+        "fr": "PR\u00c9POSITION \u00e0, situ\u00e9 \u00e0, pr\u00e9sent \u00e0, dans, sur ; r\u00e9el, vrai, actuel",
+        "de": "PR\u00c4POSITION befindlich in/auf/an, anwesend in/auf/an, real, wahr, existierend",
+        "eo": "PREPOZICIO estanta en iu loko, estanta \u0109e, reala, vera, ekzistanta"
       },
       "def": {
         "en": "located at, present at, real, true, existing | ALT (affirmative response)",
@@ -7046,7 +7138,9 @@
       "tags": "pre-pu ALT",
       "pu_verbatim": {
         "en": "NOUN arm, hand, tactile organ\nNUMBER five",
-        "fr": "NOM bras, main, organe du toucher\nNOMBRE cinq"
+        "fr": "NOM bras, main, organe du toucher\nNOMBRE cinq",
+        "de": "NOMEN Arm, Hand, Tastorgan\nZAHL F\u00fcnf",
+        "eo": "SUBSTANTIVO brako, mano, tu\u015dorgano\nNOMBRO kvin"
       },
       "def": {
         "en": "arm, hand, tactile organ; five | ALT touch/feel physically, interact, press",
@@ -7119,7 +7213,9 @@
       "see_also": "oko, alasa",
       "pu_verbatim": {
         "en": "NOUN eye\nVERB to look at, see, examine, observe, read, watch\nPRE-VERB to seek, look for, try to",
-        "fr": "NOM \u0153il\nVERBE regarder, voir, examiner, observer, lire, surveiller\nAUXILIAIRE chercher \u00e0, essayer de"
+        "fr": "NOM \u0153il\nVERBE regarder, voir, examiner, observer, lire, surveiller\nAUXILIAIRE chercher \u00e0, essayer de",
+        "de": "NOMEN Kopf, Geist (Verstand)\nVERB kontrollieren, f\u00fchren, anleiten, besitzen, planen, regulieren, beherrschen\nHILFSVERB suchen, anstreben, versuchen",
+        "eo": "SUBSTANTIVO okulo\nVERBO rigardi, vidi, ekzameni, observi, legi, spekti\nANTA\u016cVERBO provi"
       },
       "commentary": "In common usage (both before and after pu), \"lukin\" and \"oko\" are separate words, each with their own meaning. In pu, they are considered synonyms. Those who consider them synonyms typically don't use \"oko\" at all, preferring \"lukin\" in all circumstances. The usage of \"alasa\" as a preverb meaning \"try to\" is more common than \"lukin\". In pu, only \"lukin\" has this meaning.",
       "def": {
@@ -7192,7 +7288,9 @@
       },
       "pu_verbatim": {
         "en": "NOUN door, hole, orifice, window",
-        "fr": "NOM porte, trou, orifice, fen\u00eatre"
+        "fr": "NOM porte, trou, orifice, fen\u00eatre",
+        "de": "NOMEN T\u00fcr, Loch, \u00d6ffnung, Fenster",
+        "eo": "SUBSTANTIVO pordo, truo, korpa aperturo, fenestro"
       },
       "def": {
         "en": "door, hole, orifice, window",
@@ -7263,7 +7361,9 @@
       },
       "pu_verbatim": {
         "en": "NOUN earth, land; outdoors, world; country, territory; soil",
-        "fr": "NOM terre, sol ; monde, lieu en plien air ; pays, territoire"
+        "fr": "NOM terre, sol ; monde, lieu en plien air ; pays, territoire",
+        "de": "NOMEN Erde (Planet), Land; drau\u00dfen, Welt; Land (geo.), Territorium; Erde (Dreck)",
+        "eo": "SUBSTANTIVO tero, terpeco; eksterdoma sub\u0109iela loko, mondo; lando, \u015dtato, teritorio; tero (substanco)"
       },
       "def": {
         "en": "earth, land; outdoors, world; country, territory; soil",
@@ -7397,7 +7497,9 @@
       },
       "pu_verbatim": {
         "en": "NOUN parent, ancestor; creator, originator; caretaker, sustainer",
-        "fr": "NOM parent, anc\u00eatre ; cr\u00e9ateur ; celui ou celle qui prend soin"
+        "fr": "NOM parent, anc\u00eatre ; cr\u00e9ateur ; celui ou celle qui prend soin",
+        "de": "NOMEN Eltern, Elternteil, Vorfahr; Sch\u00f6pfer, Urheber; Betreuer, Erhalter",
+        "eo": "SUBSTANTIVO patro, patrino, gepatroj, praulo; kreinto, iniciatinto, fondinto; prizorganto, bontenanto"
       },
       "def": {
         "en": "parent, ancestor; creator, originator; caretaker, sustainer",
@@ -7468,7 +7570,9 @@
       },
       "pu_verbatim": {
         "en": "NOUN money, cash, savings, wealth; large domesticated animal",
-        "fr": "NOM argent, richesse ; grand animal domestiqu\u00e9"
+        "fr": "NOM argent, richesse ; grand animal domestiqu\u00e9",
+        "de": "NOMEN Geld, Bargeld, Erspartes, Reichtum; gro\u00dfes domestiziertes",
+        "eo": "SUBSTANTIVO mono, ri\u0109a\u0135oj, \u015dpara\u0135o, kontanta mono; bruto, granda"
       },
       "def": {
         "en": "money, cash, savings, wealth; large domesticated animal",
@@ -7540,7 +7644,9 @@
       "see_also": "mije, tonsi",
       "pu_verbatim": {
         "en": "NOUN woman, female, feminine person; wife",
-        "fr": "NOM femme, femelle ; \u00e9pouse"
+        "fr": "NOM femme, femelle ; \u00e9pouse",
+        "de": "NOMEN Frau, Weibchen, feminine Person; Ehefrau",
+        "eo": "SUBSTANTIVO virino, ino; edzino"
       },
       "def": {
         "en": "woman, female, feminine person; wife",
@@ -7730,7 +7836,9 @@
       },
       "pu_verbatim": {
         "en": "NOUN I, me, we, us",
-        "fr": "NOM je, moi, nous"
+        "fr": "NOM je, moi, nous",
+        "de": "NOMEN ich, mir, wir, uns",
+        "eo": "SUBSTANTIVO mi, ni"
       },
       "def": {
         "en": "I, me, we, us",
@@ -7804,7 +7912,9 @@
       "see_also": "meli, tonsi",
       "pu_verbatim": {
         "en": "NOUN man, male, masculine person; husband",
-        "fr": "NOM homme, m\u00e2le ; mari"
+        "fr": "NOM homme, m\u00e2le ; mari",
+        "de": "NOMEN Mann, M\u00e4nnchen, maskuline Person; Ehemann",
+        "eo": "SUBSTANTIVO viro, virseksulo; edzo"
       },
       "def": {
         "en": "man, male, masculine person; husband",
@@ -8051,7 +8161,9 @@
       },
       "pu_verbatim": {
         "en": "VERB to eat, drink, consume, swallow, ingest",
-        "fr": "VERBE manger, boire, consommer, avaler"
+        "fr": "VERBE manger, boire, consommer, avaler",
+        "de": "VERB essen, trinken, konsumieren, schlucken, einnehmen",
+        "eo": "VERBO man\u011di, trinki, konsumi, gluti"
       },
       "def": {
         "en": "to eat, drink, consume, swallow, ingest",
@@ -8122,7 +8234,9 @@
       },
       "pu_verbatim": {
         "en": "ADJECTIVE dead, dying",
-        "fr": "ADJECTIF mort, mourant"
+        "fr": "ADJECTIF mort, mourant",
+        "de": "ADJEKTIV tot, sterbend",
+        "eo": "ADJEKTIVO mortinta, mortanta"
       },
       "def": {
         "en": "dead, dying",
@@ -8235,7 +8349,9 @@
       },
       "pu_verbatim": {
         "en": "NOUN back, behind, rear",
-        "fr": "NOM dos, derri\u00e8re, arri\u00e8re"
+        "fr": "NOM dos, derri\u00e8re, arri\u00e8re",
+        "de": "NOMEN R\u00fccken, Hintern, R\u00fcckseite",
+        "eo": "SUBSTANTIVO dorso, malanta\u016do"
       },
       "def": {
         "en": "back, behind, rear",
@@ -8371,7 +8487,9 @@
       },
       "pu_verbatim": {
         "en": "PARTICLE (animal noise or communication)",
-        "fr": "PARTICULE (cri ou communication d'un animal)"
+        "fr": "PARTICULE (cri ou communication d'un animal)",
+        "de": "PARTIKEL (Tierlaut oder -kommunikation)",
+        "eo": "PARTIKULO (bleko, a\u016d alia besta sono a\u016d komunika\u0135o)"
       },
       "def": {
         "en": "(animal noise or communication) | ALT (non-speech vocalization)",
@@ -8501,7 +8619,9 @@
       "see_also": "suno",
       "pu_verbatim": {
         "en": "NOUN moon, night sky object, star",
-        "fr": "NOM lune, astre, \u00e9toile"
+        "fr": "NOM lune, astre, \u00e9toile",
+        "de": "NOMEN Mond, Objekt am Nachthimmel, Stern",
+        "eo": "SUBSTANTIVO luno, nokta \u0109iela objekto, stelo"
       },
       "def": {
         "en": "moon, night sky object, star | ALT glow, glowing light, light in the dark",
@@ -8571,7 +8691,9 @@
       },
       "pu_verbatim": {
         "en": "ADJECTIVE artistic, entertaining, frivolous, playful, recreational",
-        "fr": "ADJECTIF artistique, divertissant, frivole, pour s'amuser"
+        "fr": "ADJECTIF artistique, divertissant, frivole, pour s'amuser",
+        "de": "ADJEKTIV k\u00fcnstlerisch, unterhaltend, albern, verspielt, freizeitlich",
+        "eo": "ADJEKTIVO arta, amuza, frivola, ludeca, rilata al amuzi\u011do"
       },
       "def": {
         "en": "artistic, entertaining, frivolous, playful, recreation",
@@ -8642,7 +8764,9 @@
       "tags": "nimi nanpa",
       "pu_verbatim": {
         "en": "ADJECTIVE many, a lot, more, much, several, very\nNOUN quantity",
-        "fr": "ADJECTIF beaucoup de, plusieurs, plus de ; tr\u00e8s\nNOM quantit\u00e9"
+        "fr": "ADJECTIF beaucoup de, plusieurs, plus de ; tr\u00e8s\nNOM quantit\u00e9",
+        "de": "ADJEKTIV viele, h\u00e4ufig, mehr, einige, sehr\nNOMEN Menge",
+        "eo": "ADJEKTIVO multaj, multe, pluraj, tre\nSUBSTANTIVO kvanto"
       },
       "def": {
         "en": "many, a lot, more, much, several, very; quantity | ALT three (or more), 20",
@@ -8806,7 +8930,9 @@
       "tags": "pre-pu ALT",
       "pu_verbatim": {
         "en": "ADJECTIVE new, fresh; additional, another, extra",
-        "fr": "ADJECTIF nouveau, frais ; encore un, de plus"
+        "fr": "ADJECTIF nouveau, frais ; encore un, de plus",
+        "de": "ADJEKTIV neu, frisch; zus\u00e4tzlich, weitere/r/s, noch ein",
+        "eo": "ADJEKTIVO nova, fre\u015da; plia, aldona, kroma"
       },
       "commentary": "In common usage (both before and after pu), \"sin\" and \"namako\" are separate words, each with their own meaning. In pu, they are considered synonyms. Those who consider them synonyms typically don't use \"namako\" at all, preferring \"sin\" in all circumstances.",
       "def": {
@@ -8876,7 +9002,9 @@
       },
       "pu_verbatim": {
         "en": "PARTICLE -th (ordinal number)\nNOUN numbers",
-        "fr": "PARTICULE -i\u00e8me (nombre ordinal)\nNOM nombre"
+        "fr": "PARTICULE -i\u00e8me (nombre ordinal)\nNOM nombre",
+        "de": "PARTIKEL -te (Ordinalzahl)\nNOMEN Zahlen",
+        "eo": "PARTIKULO -a (kiel en \u201cunua\u201d, \u201cdua\u201d, ktp; indikas pozicion\nSUBSTANTIVO ciferoj, nombroj"
       },
       "def": {
         "en": "-th (ordinal number); numbers",
@@ -8946,7 +9074,9 @@
       },
       "pu_verbatim": {
         "en": "ADJECTIVE unusual, strange; foolish, crazy; drunk, intoxicated",
-        "fr": "ADJECTIF \u00e9trange, insolite ; fou, b\u00eate, idiot ; ivre"
+        "fr": "ADJECTIF \u00e9trange, insolite ; fou, b\u00eate, idiot ; ivre",
+        "de": "ADJEKTIV ungew\u00f6hnlich, seltsam, merkw\u00fcrdig, sonderbar; albern, n\u00e4rrisch; betrunken, berauscht",
+        "eo": "ADJEKTIVO nekutima, stranga; bufona, malserioza, stulteta; ebria"
       },
       "def": {
         "en": "unusual, strange; silly; drunk, intoxicated",
@@ -9017,7 +9147,9 @@
       },
       "pu_verbatim": {
         "en": "NOUN way, custom, doctrine, method, path, road",
-        "fr": "NOM chemin, voie ; mani\u00e8re, fa\u00e7on ; coutume, m\u00e9thode, doctrine"
+        "fr": "NOM chemin, voie ; mani\u00e8re, fa\u00e7on ; coutume, m\u00e9thode, doctrine",
+        "de": "NOMEN Art und Weise, Brauch, Doktrin, Methode, Weg, Pfad, Stra\u00dfe",
+        "eo": "SUBSTANTIVO maniero, kutimo, doktrino, metodo, vojo, irejo"
       },
       "def": {
         "en": "way, custom, doctrine, method, path, road",
@@ -9232,7 +9364,9 @@
       "see_also": "kapa",
       "pu_verbatim": {
         "en": "NOUN bump, button, hill, mountain, nose, protuberance",
-        "fr": "NOM nez ; bosse, colline, montagne ; bouton"
+        "fr": "NOM nez ; bosse, colline, montagne ; bouton",
+        "de": "NOMEN Delle, Knopf, H\u00fcgel, Berg, Nase, Vorsprung",
+        "eo": "SUBSTANTIVO elstara malebena\u0135o, elstara\u0135o, tubero, butono, monteto, monto, nazo"
       },
       "def": {
         "en": "bump, button, hill, mountain, nose, protuberance",
@@ -9305,7 +9439,9 @@
       "see_also": "ona",
       "pu_verbatim": {
         "en": "ADJECTIVE that, this",
-        "fr": "ADJECTIF ce, cette"
+        "fr": "ADJECTIF ce, cette",
+        "de": "ADJEKTIV diese, dieser, dieses, jene, jener, jenes",
+        "eo": "ADJEKTIVO (\u0109i) tiu, (\u0109i) tio"
       },
       "def": {
         "en": "that, this",
@@ -9376,7 +9512,9 @@
       },
       "pu_verbatim": {
         "en": "NOUN name, word",
-        "fr": "NOM mot, nom"
+        "fr": "NOM mot, nom",
+        "de": "NOMEN Name, Wort",
+        "eo": "SUBSTANTIVO nomo, vorto"
       },
       "def": {
         "en": "name, word",
@@ -9537,7 +9675,9 @@
       "tags": "nimi nanpa",
       "pu_verbatim": {
         "en": "NOUN foot, leg, organ of locomotion; bottom, lower part",
-        "fr": "NOM pied, jambe, organe de locomotion ; bas, dessous"
+        "fr": "NOM pied, jambe, organe de locomotion ; bas, dessous",
+        "de": "NOMEN Fu\u00df, Bein, Fortbewegungsorgan; Unterseite, Unterteil",
+        "eo": "SUBSTANTIVO piedo, kruro, movi\u011da organo; malsupro, malsupra"
       },
       "commentary": "In a 2002 poll, \"jalan\" was proposed to replace \"noka\". However, it failed to get enough votes. In pu, \"noka\" has the meaning of \"place that is down\". In common usage (both before and after pu), \"anpa\" has that meaning instead. noka had speculative and/or joking use for numbers, comparable to luka: ten, twenty, negative five.",
       "def": {
@@ -9654,7 +9794,9 @@
       "see_also": "li",
       "pu_verbatim": {
         "en": "PARTICLE hey! O! (vocative or imperative)",
-        "fr": "PARTICULE h\u00e9 ! \u00f4 ! (vocatif ou imp\u00e9ratif)"
+        "fr": "PARTICULE h\u00e9 ! \u00f4 ! (vocatif ou imp\u00e9ratif)",
+        "de": "PARTIKEL hey! O! (Vokativ oder Imperativ)",
+        "eo": "PARTIKULO he! (vokativo a\u016d imperativo)"
       },
       "def": {
         "en": "hey! O! (vocative, imperative, or optative)",
@@ -9906,7 +10048,9 @@
       "tags": "pre-pu ALT",
       "pu_verbatim": {
         "en": "NOUN eye\nVERB to look at, see, examine, observe, read, watch\nPRE-VERB to seek, look for, try to",
-        "fr": "NOM \u0153il\nVERBE regarder, voir, examiner, observer, lire, surveiller\nAUXILIAIRE chercher \u00e0, essayer de"
+        "fr": "NOM \u0153il\nVERBE regarder, voir, examiner, observer, lire, surveiller\nAUXILIAIRE chercher \u00e0, essayer de",
+        "de": "NOMEN Kopf, Geist (Verstand)\nVERB kontrollieren, f\u00fchren, anleiten, besitzen, planen, regulieren, beherrschen\nHILFSVERB suchen, anstreben, versuchen",
+        "eo": "SUBSTANTIVO okulo\nVERBO rigardi, vidi, ekzameni, observi, legi, spekti\nANTA\u016cVERBO provi"
       },
       "commentary": "In common usage (both before and after pu), \"lukin\" and \"oko\" are separate words, each with their own meaning. In pu, they are considered synonyms. Those who consider them synonyms typically don't use \"oko\" at all, preferring \"lukin\" in all circumstances.",
       "def": {
@@ -9977,7 +10121,9 @@
       },
       "pu_verbatim": {
         "en": "VERB to love, have compassion for, respect, show affection to",
-        "fr": "VERBE aimer, respecter, compatir, montrer de l'affection pour"
+        "fr": "VERBE aimer, respecter, compatir, montrer de l'affection pour",
+        "de": "VERB lieben, Mitgef\u00fchl haben, respektieren, Zuneigung zeigen",
+        "eo": "VERBO ami, simpatii kun, respekti, montri sian korinklinon al"
       },
       "commentary": "In english, \"love\" can be used to mean \"like a lot\", but in toki pona, \"olin\" doesn't work that way. It indicates an emotional connection or bond, not preference",
       "def": {
@@ -10191,7 +10337,9 @@
       "see_also": "i, iki, ipi",
       "pu_verbatim": {
         "en": "NOUN he, she, it, they",
-        "fr": "NOM il(s), elle(s)"
+        "fr": "NOM il(s), elle(s)",
+        "de": "NOMEN er, sie, es, sie (3. Person plural)",
+        "eo": "SUBSTANTIVO li, \u015di, (ri,) \u011di, ili"
       },
       "commentary": "Coined in a poll in 2002. Replaced \"iki\", which was deemed too similar to \"ike\". Other options in the poll included \"ipi\", as well as \"i\" in a previous poll.",
       "def": {
@@ -10308,7 +10456,9 @@
       "see_also": "kama",
       "pu_verbatim": {
         "en": "VERB to begin, start; open; turn on",
-        "fr": "VERBE commencer, ouvrir, allumer"
+        "fr": "VERBE commencer, ouvrir, allumer",
+        "de": "VERB beginnen, starten; \u00f6ffnen; anschalten",
+        "eo": "VERBO komenci; malfermi; \u015dalti"
       },
       "commentary": "Some proficient speakers use open as a preverb that means \"to start,\" that goes along with the complimentary pini preverb \"to stop\"",
       "def": {
@@ -10469,7 +10619,9 @@
       "tags": "pre-pu ALT",
       "pu_verbatim": {
         "en": "ADJECTIVE botched, broken, damaged, harmed, messed up",
-        "fr": "ADJECTIF bris\u00e9, cass\u00e9, ab\u00eem\u00e9, b\u00e2cl\u00e9, g\u00e2ch\u00e9"
+        "fr": "ADJECTIF bris\u00e9, cass\u00e9, ab\u00eem\u00e9, b\u00e2cl\u00e9, g\u00e2ch\u00e9",
+        "de": "ADJEKTIV kaputt, besch\u00e4digt, verletzt",
+        "eo": "ADJEKTIVO fu\u015dita, rompita, dama\u011dita, difektita"
       },
       "def": {
         "en": "botched, broken, damaged, harmed, messed up | ALT (curse expletive, e.g. fuck!)",
@@ -10600,7 +10752,9 @@
       },
       "pu_verbatim": {
         "en": "VERB to do, take action on, work on; build, make, prepare",
-        "fr": "VERBE fair, agir sur, travailler, construire, pr\u00e9parer"
+        "fr": "VERBE fair, agir sur, travailler, construire, pr\u00e9parer",
+        "de": "VERB tun, arbeiten an; bauen, machen, herstellen",
+        "eo": "VERBO fari, agi por atingi a\u016d plenumi ion, prilabori; konstrui, fari, prepari"
       },
       "def": {
         "en": "do, take action on, work on; build, make, prepare",
@@ -10671,7 +10825,9 @@
       },
       "pu_verbatim": {
         "en": "NOUN long hard thing; branch, rod, stick",
-        "fr": "NOM objet long et dur : b\u00e2ton"
+        "fr": "NOM objet long et dur : b\u00e2ton",
+        "de": "NOMEN langes hartes Ding; Ast, Stange, Stab",
+        "eo": "SUBSTANTIVO io longa kaj rigida; bran\u0109o, stango, bastono"
       },
       "def": {
         "en": "long hard thing; branch, rod, stick",
@@ -10743,7 +10899,9 @@
       },
       "pu_verbatim": {
         "en": "NOUN cereal, grain; barley, corn, oat, rice, wheat; bread, pasta",
-        "fr": "NOM c\u00e9r\u00e9ale ; riz, bl\u00e9, orge, ma\u00efs, avoine ; pain, p\u00e2tes"
+        "fr": "NOM c\u00e9r\u00e9ale ; riz, bl\u00e9, orge, ma\u00efs, avoine ; pain, p\u00e2tes",
+        "de": "NOMEN Getreide, Korn; Gerste, Mais, Hafer, Reis, Weizen; Brot, Nudeln",
+        "eo": "SUBSTANTIVO greno, cerealo; aveno, hordeo, maizo, rizo, tritiko; pano, pasta\u0135o"
       },
       "def": {
         "en": "cereal, grain; barley, corn, oat, rice, wheat; bread, pasta",
@@ -10813,7 +10971,9 @@
       },
       "pu_verbatim": {
         "en": "VERB to give, send, emit, provide, put, release",
-        "fr": "VERBE donner, envoyer, mettre, fournir, \u00e9mettre, l\u00e2cher"
+        "fr": "VERBE donner, envoyer, mettre, fournir, \u00e9mettre, l\u00e2cher",
+        "de": "VERB geben, senden, ausstrahlen, emittieren, liefern, setzen, stellen, legen, freilassen",
+        "eo": "VERBO doni, sendi, eligi, ellasi, provizi, meti"
       },
       "def": {
         "en": "give, send, emit, provide, put, release",
@@ -11096,7 +11256,9 @@
       "tags": "pre-pu ALT",
       "pu_verbatim": {
         "en": "PARTICLE of",
-        "fr": "PARTICULE de"
+        "fr": "PARTICULE de",
+        "de": "PARTIKEL von, des, der (teils wie Genitiv)",
+        "eo": "PARTIKULO de"
       },
       "commentary": "The usage of \"pi\" to mean \"of\" (marking a possessor) is heavily discouraged nowadays, preferring it to only be used for regrouping within phrases.",
       "def": {
@@ -11208,7 +11370,9 @@
       },
       "pu_verbatim": {
         "en": "NOUN heart (physical or emotional)\nADJECTIVE feeling (an emotion, a direct experience)",
-        "fr": "NOM c\u0153ur (physique et psychologique)\nADJECTIF qui ressent (une \u00e9motion, une exp\u00e9rience directe)"
+        "fr": "NOM c\u0153ur (physique et psychologique)\nADJECTIF qui ressent (une \u00e9motion, une exp\u00e9rience directe)",
+        "de": "NOMEN Herz (physisch oder emotional)\nADJEKTIV f\u00fchlend (eine Emotion, eine direkte Erfahrung)",
+        "eo": "SUBSTANTIVO koro (fizika a\u016d emocia)\nADJEKTIVO sentanta (emocion, rektan sperton)"
       },
       "def": {
         "en": "heart (physical or emotional); feeling (an emotion, a direct experience)",
@@ -11277,7 +11441,9 @@
       },
       "pu_verbatim": {
         "en": "ADJECTIVE black, dark, unlit",
-        "fr": "ADJECTIF noir, fonc\u00e9, sombre"
+        "fr": "ADJECTIF noir, fonc\u00e9, sombre",
+        "de": "ADJEKTIV schwarz, dunkel, unbeleuchtet",
+        "eo": "ADJEKTIVO nigra, malhela, malluma"
       },
       "def": {
         "en": "black, dark, unlit",
@@ -11395,7 +11561,9 @@
       "see_also": "pake, open, kama",
       "pu_verbatim": {
         "en": "ADJECTIVE ago, completed, ended, finished, past",
-        "fr": "ADJECTIF fini, pass\u00e9, termin\u00e9"
+        "fr": "ADJECTIF fini, pass\u00e9, termin\u00e9",
+        "de": "ADJEKTIV vorbei, vollendet, beendet, geendet, vergangen",
+        "eo": "ADJEKTIVO anta\u016da, finfarita, finita, fini\u011dinta, pasinta"
       },
       "commentary": "Some proficient speakers use pini as a preverb that means \"to stop,\" that goes along with the complimentary open preverb \"to start\"",
       "def": {
@@ -11466,7 +11634,9 @@
       },
       "pu_verbatim": {
         "en": "NOUN bug, insect, ant, spider",
-        "fr": "NOM insecte, araign\u00e9e, fourmi"
+        "fr": "NOM insecte, araign\u00e9e, fourmi",
+        "de": "NOMEN K\u00e4fer, Insekt, Ameise, Spinne",
+        "eo": "SUBSTANTIVO insekto, formiko, araneo, eta senvertebrulo"
       },
       "def": {
         "en": "bug, insect, ant, spider",
@@ -11648,7 +11818,9 @@
       "tags": "pre-pu ALT",
       "pu_verbatim": {
         "en": "NOUN hip, side; next to, nearby, vicinity",
-        "fr": "NOM hanche, c\u00f4t\u00e9 ; proximit\u00e9"
+        "fr": "NOM hanche, c\u00f4t\u00e9 ; proximit\u00e9",
+        "de": "NOMEN H\u00fcfte, Seite; nah bei, in der N\u00e4he, Umgebung",
+        "eo": "SUBSTANTIVO kokso, flanko; apud, proksime de, proksima\u0135o"
       },
       "def": {
         "en": "hip, side; next to, nearby, vicinity | ALT along with (comitative), beside",
@@ -11717,7 +11889,9 @@
       },
       "pu_verbatim": {
         "en": "NOUN container, bag, bowl, box, cup, cupboard, drawer, vessel",
-        "fr": "NOM sac, bol, r\u00e9cipient, tasse, placard, tiroir, vase"
+        "fr": "NOM sac, bol, r\u00e9cipient, tasse, placard, tiroir, vase",
+        "de": "NOMEN Beh\u00e4ltnis, Beutel, Schale, Kiste, Tasse, Karton, Schublade, Gef\u00e4\u00df",
+        "eo": "SUBSTANTIVO ujo, sako, bovlo, skatolo, taso, \u015dranko, tirkesto"
       },
       "def": {
         "en": "container, bag, bowl, box, cup, cupboard, drawer, vessel",
@@ -11893,7 +12067,9 @@
       },
       "pu_verbatim": {
         "en": "ADJECTIVE good, positive, useful; friendly, peaceful; simple",
-        "fr": "ADJECTIF bon, positif, utile ; sympa, paisible ; simple"
+        "fr": "ADJECTIF bon, positif, utile ; sympa, paisible ; simple",
+        "de": "ADJEKTIV gut, positiv, n\u00fctzlich; freundlich, friedlich; einfach, simpel",
+        "eo": "ADJEKTIVO bona, pozitiva, utila; amika, paca; simpla"
       },
       "def": {
         "en": "good, positive, useful; friendly, peaceful; simple",
@@ -12061,7 +12237,9 @@
       },
       "pu_verbatim": {
         "en": "ADJECTIVE interacting with the official Toki Pona book",
-        "fr": "ADJECTIF interagissant avec le livre officiel du Toki Pona"
+        "fr": "ADJECTIF interagissant avec le livre officiel du Toki Pona",
+        "de": "ADJEKTIV mit dem offiziellen Toki-Pona-Buch interagierend",
+        "eo": "ADJEKTIVO interaganta kun la oficiala libro de Tokipono"
       },
       "commentary": "For ways to buy a copy of the book, visit the official Toki Pona website.",
       "def": {
@@ -12183,7 +12361,9 @@
       "see_also": "pata",
       "pu_verbatim": {
         "en": "ADJECTIVE same, similar; each other; sibling, peer, fellow\nPREPOSITION as, like",
-        "fr": "ADJECTIF m\u00eame, semblable; l'un l'autre ; fraternel, homologue\nPR\u00c9POSITION comme"
+        "fr": "ADJECTIF m\u00eame, semblable; l'un l'autre ; fraternel, homologue\nPR\u00c9POSITION comme",
+        "de": "ADJEKTIV gleich, \u00e4hnlich; einander; geschwisterlich, gleichgesellt\nPR\u00c4POSITION wie, genau wie, \u00e4hnlich wie",
+        "eo": "ADJEKTIVO sama, simila; unu la alia; gefrata, kamarada, kunula\nPREPOZICIO kiel, simile al"
       },
       "def": {
         "en": "same, similar; each other; sibling, peer, fellow; as, like",
@@ -12368,7 +12548,9 @@
       },
       "pu_verbatim": {
         "en": "ADJECTIVE fire; cooking element, chemical reaction, heat source",
-        "fr": "NOM feu ; \u00e9l\u00e9ment de cuisson, r\u00e9action chimique, chaleur"
+        "fr": "NOM feu ; \u00e9l\u00e9ment de cuisson, r\u00e9action chimique, chaleur",
+        "de": "NOMEN Feuer; Kochelement, chemische Reaktion, Hitzequelle",
+        "eo": "SUBSTANTIVO fajro; varmiga elemento de kuirilo, kemia reago, fonto de varmo"
       },
       "commentary": "In pu, definitions of seli are described as adjectives. ku's pu corrections clarify that these refer to nouns instead.",
       "def": {
@@ -12437,7 +12619,9 @@
       },
       "pu_verbatim": {
         "en": "NOUN outer form, outer layer; bark, peel, shell, skin; boundary",
-        "fr": "NOM forme, couche ext\u00e9rieure, peau, \u00e9corce, pelure, peau, coquille ; limite"
+        "fr": "NOM forme, couche ext\u00e9rieure, peau, \u00e9corce, pelure, peau, coquille ; limite",
+        "de": "NOMEN \u00e4u\u00dfere Form, \u00e4u\u00dfere Schicht; Rinde, Schale, H\u00fclle, Haut; Grenzfl\u00e4che, Grenzlinie",
+        "eo": "SUBSTANTIVO ekstera formo, ekstera tavolo; \u015delo (de arbo, frukto, molusko), karapaco, ha\u016dto; limo"
       },
       "def": {
         "en": "outer form, outer layer; bark, peel, shell, skin; boundary",
@@ -12507,7 +12691,9 @@
       },
       "pu_verbatim": {
         "en": "PARTICLE what? which?",
-        "fr": "PARTICULE quoi ? quel ?"
+        "fr": "PARTICULE quoi ? quel ?",
+        "de": "PARTIKEL was? welche? welcher? welches?",
+        "eo": "PARTIKULO kio? kiu?"
       },
       "def": {
         "en": "what? which?",
@@ -12579,7 +12765,9 @@
       },
       "pu_verbatim": {
         "en": "NOUN area above, highest part, something elevated\nADJECTIVE awe-inspiring, divine, sacred, supernatural",
-        "fr": "NOM dessus, le haut, chose \u00e9lev\u00e9e\nADJECTIF divin, sacr\u00e9, surnaturel, qui inspire le respect et la crainte"
+        "fr": "NOM dessus, le haut, chose \u00e9lev\u00e9e\nADJECTIF divin, sacr\u00e9, surnaturel, qui inspire le respect et la crainte",
+        "de": "NOMEN Bereich \u00fcber etw., h\u00f6chster Teil, etwas hoch Gelegenes\nADJEKTIV ehrfurchtgebietend, g\u00f6ttlich, heilig, \u00fcbernat\u00fcrlich",
+        "eo": "SUBSTANTIVO spaco super io, plej alta parto de io, io pli alta\nADJEKTIVO miriga, dia, sankta, supernatura"
       },
       "def": {
         "en": "area above, highest part, something elevated; awe-inspiring, divine, sacred, supernatural",
@@ -12649,7 +12837,9 @@
       },
       "pu_verbatim": {
         "en": "NOUN body (of person or animal), physical state, torso",
-        "fr": "NOM corps, \u00e9tat physique, torse"
+        "fr": "NOM corps, \u00e9tat physique, torse",
+        "de": "NOMEN K\u00f6rper (einer Person oder eines Tieres), physische Form, Torso",
+        "eo": "SUBSTANTIVO korpo (de homo a\u016d besto), fizika stato, torso"
       },
       "def": {
         "en": "body (of person or animal), physical state, torso",
@@ -12718,7 +12908,9 @@
       },
       "pu_verbatim": {
         "en": "NOUN round or circular thing; ball, circle, cycle, sphere, wheel\nADJECTIVE of one year",
-        "fr": "NOM objet rond : ballon, cercle, cycle, sph\u00e8re, roue, anneau\nADJECTIF annuel"
+        "fr": "NOM objet rond : ballon, cercle, cycle, sph\u00e8re, roue, anneau\nADJECTIF annuel",
+        "de": "NOMEN rundes oder kreisf\u00f6rmiges Ding; Ball, Kreis, Zyklus, Kugel, Rad\nADJEKTIV ein Jahr betreffend",
+        "eo": "SUBSTANTIVO io ronda a\u016d cirkla; pilko, cirklo, ciklo, globo, sfero, rado\nADJEKTIVO de unu jaro"
       },
       "def": {
         "en": "round or circular thing; ball, circle, cycle, sphere, wheel; of one year",
@@ -12838,7 +13030,9 @@
       "see_also": "namako",
       "pu_verbatim": {
         "en": "ADJECTIVE new, fresh; additional, another, extra",
-        "fr": "ADJECTIF nouveau, frais ; encore un, de plus"
+        "fr": "ADJECTIF nouveau, frais ; encore un, de plus",
+        "de": "ADJEKTIV neu, frisch; zus\u00e4tzlich, weitere/r/s, noch ein",
+        "eo": "ADJEKTIVO nova, fre\u015da; plia, aldona, kroma"
       },
       "commentary": "In common usage (both before and after pu), \"sin\" and \"namako\" are separate words, each with their own meaning. In pu, they are considered synonyms. Those who consider them synonyms typically don't use \"namako\" at all, preferring \"sin\" in all circumstances.",
       "def": {
@@ -12908,7 +13102,9 @@
       },
       "pu_verbatim": {
         "en": "NOUN you",
-        "fr": "NOM tu, toi, vous"
+        "fr": "NOM tu, toi, vous",
+        "de": "NOMEN du, Sie, ihr",
+        "eo": "SUBSTANTIVO vi"
       },
       "def": {
         "en": "you",
@@ -12980,7 +13176,9 @@
       },
       "pu_verbatim": {
         "en": "NOUN face, foremost, front, wall",
-        "fr": "NOM avant, visage, front, mur"
+        "fr": "NOM avant, visage, front, mur",
+        "de": "NOMEN Gesicht, Vorderstes, Front, Wand",
+        "eo": "SUBSTANTIVO viza\u011do, anta\u016do, muro"
       },
       "def": {
         "en": "face, foremost, front, wall",
@@ -13093,7 +13291,9 @@
       },
       "pu_verbatim": {
         "en": "NOUN image, picture, representation, symbol, mark, writing",
-        "fr": "NOM image, repr\u00e9sentation, symbole, marque, \u00e9criture"
+        "fr": "NOM image, repr\u00e9sentation, symbole, marque, \u00e9criture",
+        "de": "NOMEN Bild, Abbildung, Repr\u00e4sentation, Symbol, Zeichen, Schrift",
+        "eo": "SUBSTANTIVO bildo, figuro, simbolo, marka\u0135o, skriba\u0135o"
       },
       "def": {
         "en": "image, picture, representation, symbol, mark, writing",
@@ -13273,7 +13473,9 @@
       },
       "pu_verbatim": {
         "en": "VERB to know, be skilled in, be wise about, have information on\nPRE-VERB to know how to",
-        "fr": "VERBE savoir, conna\u00eetre\nAUXILIAIRE savoir"
+        "fr": "VERBE savoir, conna\u00eetre\nAUXILIAIRE savoir",
+        "de": "VERB wissen, qualifiziert sein in, weise sein \u00fcber, Informationen\nHILFSVERB wissen wie man etw. tut",
+        "eo": "VERBO scii, koni, esti lerta pri, esti sa\u011da pri, havi informojn pri\nANTA\u016cVERBO scipovi"
       },
       "def": {
         "en": "know, be skilled in, be wise about, have information on; (pv.) know how to",
@@ -13397,7 +13599,9 @@
       },
       "pu_verbatim": {
         "en": "NOUN animal, beast, land mammal",
-        "fr": "NOM animal, mammif\u00e8re terrestre"
+        "fr": "NOM animal, mammif\u00e8re terrestre",
+        "de": "NOMEN Tier, Biest, Lands\u00e4ugetier",
+        "eo": "SUBSTANTIVO besto, surtera mamulo"
       },
       "def": {
         "en": "animal, beast, land mammal",
@@ -13554,7 +13758,9 @@
       },
       "pu_verbatim": {
         "en": "ADJECTIVE big, heavy, large, long, tall; important; adult",
-        "fr": "ADJECTIF grand, lourd, long ; important ; adulte"
+        "fr": "ADJECTIF grand, lourd, long ; important ; adulte",
+        "de": "ADJEKTIV gro\u00df, schwer, lang, hoch; wichtig; erwachsen",
+        "eo": "ADJEKTIVO granda, peza, longa, alta; grava; plenkreska"
       },
       "def": {
         "en": "big, heavy, large, long, tall; important; adult",
@@ -13625,7 +13831,9 @@
       "see_also": "mun",
       "pu_verbatim": {
         "en": "NOUN sun; light brightness, glow, radiance, shine; light source",
-        "fr": "NOM soleil, lumi\u00e8re, lueur, brillant"
+        "fr": "NOM soleil, lumi\u00e8re, lueur, brillant",
+        "de": "NOMEN Sonne; Licht, Helligkeit, (Licht-)Schein, Glanz; Lichtquelle",
+        "eo": "SUBSTANTIVO suno; lumo, heleco, ardeco, brilo; lumfonto"
       },
       "def": {
         "en": "sun; light, brightness, glow, radiance, shine; light source",
@@ -13694,7 +13902,9 @@
       },
       "pu_verbatim": {
         "en": "NOUN horizontal surface, thing to put or rest something on",
-        "fr": "NOM surface horizontale sur laquelle on pose quelque chose"
+        "fr": "NOM surface horizontale sur laquelle on pose quelque chose",
+        "de": "NOMEN horizontale Oberfl\u00e4che, Ding auf dem man etw. ablegt",
+        "eo": "SUBSTANTIVO horizontala surfaco, io sur kio oni metas ion alian"
       },
       "def": {
         "en": "horizontal surface, thing to put or rest something on",
@@ -13818,7 +14028,9 @@
       },
       "pu_verbatim": {
         "en": "ADJECTIVE sweet, fragrant; cute, innocent, adorable",
-        "fr": "ADJECTIF doux, parfum\u00e9, mignon, innocent, adorable"
+        "fr": "ADJECTIF doux, parfum\u00e9, mignon, innocent, adorable",
+        "de": "ADJEKTIV s\u00fc\u00df, wohlriechend; niedlich, unschuldig, liebenswert",
+        "eo": "ADJEKTIVO dol\u0109a, bonodora; \u0109arma, senkulpa, aminda"
       },
       "def": {
         "en": "sweet, fragrant; cute, innocent, adorable",
@@ -13943,7 +14155,9 @@
       },
       "pu_verbatim": {
         "en": "PREPOSITION by, from, because of",
-        "fr": "PR\u00c9POSITION de, provenant de, \u00e0 cause de"
+        "fr": "PR\u00c9POSITION de, provenant de, \u00e0 cause de",
+        "de": "PR\u00c4POSITION von, wegen",
+        "eo": "PREPOZICIO fare de, el, pro"
       },
       "def": {
         "en": "by, from, because of; origin, cause",
@@ -14012,7 +14226,9 @@
       },
       "pu_verbatim": {
         "en": "PARTICLE but, however\nADJECTIVE only",
-        "fr": "PARTICULE mais, cependant\nADJECTIF seulement"
+        "fr": "PARTICULE mais, cependant\nADJECTIF seulement",
+        "de": "PARTIKEL aber, jedoch\nADJEKTIV nur, lediglich, alleinig",
+        "eo": "PARTIKULO sed, tamen\nADJEKTIVO nur"
       },
       "commentary": "Many proficient speakers use taso as a connector between sentences (X taso Y), similar to \"X, but Y,\" though others do not use this method.",
       "def": {
@@ -14083,7 +14299,9 @@
       },
       "pu_verbatim": {
         "en": "PREPOSITION going to, toward; for; from the perspective of\nADJECTIVE moving",
-        "fr": "PR\u00c9POSITION \u00e0, allant \u00e0, vers, pour, du point de vue de\nADJECTIF en mouvement, anim\u00e9"
+        "fr": "PR\u00c9POSITION \u00e0, allant \u00e0, vers, pour, du point de vue de\nADJECTIF en mouvement, anim\u00e9",
+        "de": "PR\u00c4POSITION sich bewegend zu, gerichtet auf; um zu; aus der\nADJEKTIV sich bewegend, beweglich",
+        "eo": "PREPOZICIO al, iranta al, en la direkto al; por, al; la\u016d la vidpunkto\nADJEKTIVO movi\u011danta"
       },
       "def": {
         "en": "going to, toward; for; from the perspective of; moving | ALT (pv.) going to",
@@ -14262,7 +14480,9 @@
       },
       "pu_verbatim": {
         "en": "NOUN water, liquid, fluid, wet substance; beverage",
-        "fr": "NOM eau, liquide, fluide, substance mouill\u00e9e, boisson"
+        "fr": "NOM eau, liquide, fluide, substance mouill\u00e9e, boisson",
+        "de": "NOMEN Wasser, Fl\u00fcssigkeit, Fluid, nasse Substanz; Getr\u00e4nk",
+        "eo": "SUBSTANTIVO akvo, likvo, flua\u0135o, malseka substanco; trinka\u0135o"
       },
       "def": {
         "en": "water, liquid, fluid, wet substance; beverages",
@@ -14383,7 +14603,9 @@
       "see_also": "waleja",
       "pu_verbatim": {
         "en": "NOUN time, duration, moment, occasion, period, situation",
-        "fr": "NOM temps, dur\u00e9e, moment, occasion, p\u00e9riode, situation"
+        "fr": "NOM temps, dur\u00e9e, moment, occasion, p\u00e9riode, situation",
+        "de": "NOMEN Zeit, Dauer, Moment, Gelegenheit, Zeitraum, Situation",
+        "eo": "SUBSTANTIVO tempo, da\u016dro, momento, okazo, fojo, periodo, situacio"
       },
       "def": {
         "en": "time, duration, moment, occasion, period, situation",
@@ -14554,7 +14776,9 @@
       },
       "pu_verbatim": {
         "en": "VERB to communicate, say, speak, say, talk, use language, think",
-        "fr": "VERBE communiquer, dire, parler, penser"
+        "fr": "VERBE communiquer, dire, parler, penser",
+        "de": "VERB kommunizieren, sagen, sprechen, reden, Sprache nutzen, denken",
+        "eo": "VERBO komuniki, diri, paroli, uzi lingvon, pensi"
       },
       "def": {
         "en": "communicate, say, speak, talk, use language, think; hello",
@@ -14667,7 +14891,9 @@
       },
       "pu_verbatim": {
         "en": "NOUN indoor space; building, home, house, room",
-        "fr": "NOM espace int\u00e9rieur, lieu couvert ; maison, b\u00e2timent, \u00e9difice, pi\u00e8ce, chambre, chez soi, demeure"
+        "fr": "NOM espace int\u00e9rieur, lieu couvert ; maison, b\u00e2timent, \u00e9difice, pi\u00e8ce, chambre, chez soi, demeure",
+        "de": "NOMEN Inh\u00e4usiges; Geb\u00e4ude, Zuhause, Haus, Raum",
+        "eo": "SUBSTANTIVO endoma spaco; konstrua\u0135o, hejmo, domo, \u0109ambro"
       },
       "def": {
         "en": "indoor space; building, home, house, room",
@@ -14806,7 +15032,9 @@
       "tags": "nimi nanpa",
       "pu_verbatim": {
         "en": "NUMBER two",
-        "fr": "NOMBRE deux"
+        "fr": "NOMBRE deux",
+        "de": "ZAHL Zwei",
+        "eo": "NOMBRO du"
       },
       "def": {
         "en": "two | ALT separate, cut",
@@ -15014,7 +15242,9 @@
       },
       "pu_verbatim": {
         "en": "VERB to have sexual or marital relations with",
-        "fr": "VERBE avoir des rapports sexuels ou conjugaux avec"
+        "fr": "VERBE avoir des rapports sexuels ou conjugaux avec",
+        "de": "VERB Sex haben mit, Geschlechtsverkehr haben mit",
+        "eo": "VERBO seksumi, amori"
       },
       "commentary": "Also defined as \"have marital relations with\" in pu; removed due to potential confusion.",
       "def": {
@@ -15193,7 +15423,9 @@
       },
       "pu_verbatim": {
         "en": "NOUN mouth,lips, oral cavity, jaw",
-        "fr": "NOM bouche, l\u00e8vres, cavit\u00e9 buccale, m\u00e2choire"
+        "fr": "NOM bouche, l\u00e8vres, cavit\u00e9 buccale, m\u00e2choire",
+        "de": "NOMEN Mund, Lippen, Mundh\u00f6hle, Kiefer",
+        "eo": "SUBSTANTIVO bu\u015do, lipoj, bu\u015da kavo, makzeloj"
       },
       "commentary": "The dot in the \"uta\" sitelen pona is to distinguish luka-uta from moku.",
       "def": {
@@ -15264,7 +15496,9 @@
       },
       "pu_verbatim": {
         "en": "VERB to battle, challenge, compete against struggle against",
-        "fr": "VERBE se battre contre, lutter contre"
+        "fr": "VERBE se battre contre, lutter contre",
+        "de": "VERB bek\u00e4mpfen, herausfordern, antreten gegen, gegen etw.",
+        "eo": "VERBO batali, defii, konkuri kontra\u016d, lukti kontra\u016d"
       },
       "def": {
         "en": "battle, challenge, compete against, struggle against",
@@ -15436,7 +15670,9 @@
       },
       "pu_verbatim": {
         "en": "ADJECTIVE white, whitish; light-coloured, pale",
-        "fr": "ADJECTIF blanc, clair, p\u00e2le"
+        "fr": "ADJECTIF blanc, clair, p\u00e2le",
+        "de": "ADJEKTIV wei\u00df, wei\u00dflich; hellfarbig, blass",
+        "eo": "ADJEKTIVO blanka, blankeca; helkolora, pala"
       },
       "def": {
         "en": "white, whitish; light-coloured, pale",
@@ -15506,7 +15742,9 @@
       "tags": "nimi nanpa",
       "pu_verbatim": {
         "en": "ADJECTIVE unique, united\nNUMBER one",
-        "fr": "ADJECTIF unique, uni\nNOMBRE un"
+        "fr": "ADJECTIF unique, uni\nNOMBRE un",
+        "de": "ADJEKTIV einzigartig, vereint\nZAHL Eins",
+        "eo": "ADJEKTIVO unika, unueca\nNOMBRO unu"
       },
       "def": {
         "en": "unique, united; one",
@@ -15575,7 +15813,9 @@
       },
       "pu_verbatim": {
         "en": "NOUN bird, flying creature, winged animal",
-        "fr": "NOM oiseau, cr\u00e9ature volante, animal ail\u00e9"
+        "fr": "NOM oiseau, cr\u00e9ature volante, animal ail\u00e9",
+        "de": "NOMEN Vogel, fliegende Kreatur, gefl\u00fcgeltes Tier",
+        "eo": "SUBSTANTIVO birdo, fluganta viva\u0135o, besto kun flugiloj"
       },
       "def": {
         "en": "bird, flying creature, winged animal",
@@ -15689,7 +15929,9 @@
       },
       "pu_verbatim": {
         "en": "ADJECTIVE strong, powerful; confident, sure; energetic, intense",
-        "fr": "ADJECTIF fort, puissant ; s\u00fbr, confiant ; \u00e9nergique, intense"
+        "fr": "ADJECTIF fort, puissant ; s\u00fbr, confiant ; \u00e9nergique, intense",
+        "de": "ADJEKTIV stark, kr\u00e4ftig; zuversichtlich, sicher; energetisch, intensiv",
+        "eo": "ADJEKTIVO forta, potenca; memfida, nedubanta; energia, intensa"
       },
       "def": {
         "en": "strong, powerful; confident, sure; energetic, intense",
@@ -15854,7 +16096,9 @@
       },
       "pu_verbatim": {
         "en": "ADJECTIVE absent, away, ignored",
-        "fr": "ADJECTIF absent, enlev\u00e9, \u00e9loign\u00e9"
+        "fr": "ADJECTIF absent, enlev\u00e9, \u00e9loign\u00e9",
+        "de": "ADJEKTIV abwesend, weg, ignoriert",
+        "eo": "ADJEKTIVO ne\u0109eestanta, fora, ignorata"
       },
       "def": {
         "en": "absent, away, ignored",
@@ -16017,7 +16261,9 @@
       },
       "pu_verbatim": {
         "en": "PRE-VERB must, need, require, should, want, wish",
-        "fr": "AUXILIAIRE devoir, avoir besoin de, vouloir"
+        "fr": "AUXILIAIRE devoir, avoir besoin de, vouloir",
+        "de": "HILFSVERB m\u00fcssen, brauchen, sollen, wollen, w\u00fcnschen",
+        "eo": "ANTA\u016cVERBO devi, bezoni, devus \u2026i, voli, deziri"
       },
       "def": {
         "en": "must, need, require, should, want, wish",
