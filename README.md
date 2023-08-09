@@ -80,7 +80,8 @@ All children of `etymology_data` have the same list length once split on `;`.
       Integer percentage of survey respondents who recognize and use the word as of [date]. [date] is YYYY-MM format.
   author_verbatim: Definition of the word as written by its original author. Defer to `pu_verbatim` if that is defined.
   pu_verbatim:
-    [language_code]: "Definition of the word in [language_code] as written in the corresponding translation of Toki Pona: The Language of Good."
+    [language_code]:
+      "Definition of the word in [language_code] as written in the corresponding translation of Toki Pona: The Language of Good."
   see_also: A list of words related to [word]. **Split on `,`.**
   commentary: Human-readable extra information about the word, such as historical usage, replacement, or clarifications.
   def:
