@@ -52,7 +52,7 @@ Some static files are derived from [ijo Linku](https://github.com/lipu-linku/ijo
 All children of `etymology_data` have the same list length once split on `;`.
 
 ```yml
-[word]: A unique identifier for the word which is often the word, but may have an integer suffix if the word has been coined multiple times.
+[word_id]: A unique identifier for the word which is often the word, but may have an integer suffix if the word has been coined multiple times.
   word: The word as it would be written in toki pona using sitelen Lasina.
   sitelen_pona: A list of latin character strings that convert to all alternates for a given word. Usually identical to [word]; see "akesi".
   ucsur: The unicode codepoint assigned to the word.
