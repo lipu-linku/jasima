@@ -1446,6 +1446,7 @@
       "recognition": {
         "2022-08": "99"
       },
+      "see_also": "sama",
       "pu_verbatim": {
         "en": "ADJECTIVE different, altered, changed, other",
         "fr": "ADJECTIF diff\u00e9rent, chang\u00e9, autre",
@@ -2080,6 +2081,7 @@
         "2020-04": "97",
         "2022-08": "96"
       },
+      "see_also": "mani",
       "pu_verbatim": {
         "en": "NOUN market, shop, fair, bazaar, business transaction",
         "fr": "NOM march\u00e9, boutique, foire, magasin, commerce",
@@ -2901,6 +2903,7 @@
         "2021-10": "18",
         "2022-08": "1"
       },
+      "see_also": "mute",
       "def": {
         "en": "one hundred",
         "pl": "sto",
@@ -3130,6 +3133,7 @@
         "2020-04": "13",
         "2022-08": "1"
       },
+      "see_also": "jan",
       "def": {
         "en": "a particular group of early members of the ma pona Discord",
         "pl": "konkretna grupa wczesnych cz\u0142onk\u00f3w Discorda ma pona",
@@ -3473,6 +3477,7 @@
         "2021-10": "28",
         "2022-08": "1"
       },
+      "see_also": "pu, ku",
       "def": {
         "en": "(word reserved for future use by Sonja Lang)",
         "pl": "(s\u0142owo zarezerwowane do przysz\u0142ego u\u017cytku przez Sonj\u0119 Lang)",
@@ -3519,6 +3524,7 @@
       "recognition": {
         "2022-08": "1"
       },
+      "see_also": "tawa, poka",
       "def": {
         "en": "indeterminate, inconclusive, tentative; unpredictable, unstable, volatile; to waver; to vibrate, to tremble, to wobble, to shake",
         "pl": "wibrowa\u0107, trz\u0119\u015b\u0107 si\u0119, chwia\u0107 si\u0119, dr\u017ce\u0107; waha\u0107 si\u0119, oscylowa\u0107; fala",
@@ -3750,10 +3756,12 @@
         "words": "kalama;arr",
         "defs": "kalama;(imitation of pirates)"
       },
+      "creator": "(unknown ku surveyee)",
       "recognition": {
         "2020-04": "13",
         "2022-08": "4"
       },
+      "see_also": "kalama",
       "def": {
         "en": "pirate noise",
         "pl": "odg\u0142os pirata",
@@ -3798,6 +3806,7 @@
       "recognition": {
         "2022-08": "1"
       },
+      "see_also": "kijetesantakalu",
       "author_verbatim": "member of the order Caryophyllales, including all cacti as well as carnations, beets, and many carnivorous plants",
       "author_verbatim_source": "https://discord.com/channels/301377942062366741/337299887869657090/731769293699809300",
       "def": {
@@ -4064,6 +4073,7 @@
         "2021-10": "45",
         "2022-08": "14"
       },
+      "see_also": "pimeja",
       "def": {
         "en": "brown, gray",
         "pl": "br\u0105zowy, szary",
@@ -4598,6 +4608,7 @@
         "2021-10": "41",
         "2022-08": "21"
       },
+      "see_also": "kipisi",
       "commentary": "The word is loaned from the 2001 Vilanyur S Ramachandran & Edward Hubbard version of Wolfgang K\u00f6hler's 1912 psycholinguistic experiment. The experiment studied sound symbolism on the words \"bouba\" and \"kiki\".",
       "def": {
         "en": "spiky, sharp, angle, point, triangular",
@@ -5245,6 +5256,7 @@
         "2021-10": "25",
         "2022-08": "6"
       },
+      "see_also": "ma, tenpo",
       "commentary": "Conway refers to John Horton Conway, creator of the cellular automaton Game of Life.\nkonwe's intended meaning extends beyond just \"living\" and \"life.\" It can be used to describe rocks or rivers or other nonliving things",
       "def": {
         "en": "animacy, life, autonomy; autonomous being, living thing, organism; alive, animate, dynamic; to animate, to bring to life",
@@ -6167,6 +6179,7 @@
         "2021-10": "82",
         "2022-08": "72"
       },
+      "see_also": "sike",
       "def": {
         "en": "stairs, square, block, corner, cube",
         "pl": "schody, kwadrat, kostka, sze\u015bcian",
@@ -6304,6 +6317,7 @@
       "recognition": {
         "2022-08": "98"
       },
+      "see_also": "seli",
       "pu_verbatim": {
         "en": "ADJECTIVE cold, cool; uncooked, raw",
         "fr": "ADJECTIF froid, frais ; cru",
@@ -7091,6 +7105,7 @@
         "2021-10": "29",
         "2022-08": "1"
       },
+      "see_also": "pu, ku",
       "def": {
         "en": "(word reserved for future use by Sonja Lang)",
         "pl": "(s\u0142owo zarezerwowane do przysz\u0142ego u\u017cytku przez Sonj\u0119 Lang)",
@@ -7582,6 +7597,7 @@
       "recognition": {
         "2022-08": "97"
       },
+      "see_also": "esun",
       "pu_verbatim": {
         "en": "NOUN money, cash, savings, wealth; large domesticated animal",
         "fr": "NOM argent, richesse ; grand animal domestiqu\u00e9",
@@ -8309,6 +8325,7 @@
         "2021-10": "25",
         "2022-08": "3"
       },
+      "see_also": "pipi",
       "author_verbatim": "hm i am considering making a nimisin for mollusks, if that isn\u2019t already a thing",
       "author_verbatim_source": "https://discord.com/channels/301377942062366741/301377942062366741/861476478021533696",
       "def": {
@@ -8363,6 +8380,7 @@
       "recognition": {
         "2022-08": "97"
       },
+      "see_also": "sinpin",
       "pu_verbatim": {
         "en": "NOUN back, behind, rear",
         "fr": "NOM dos, derri\u00e8re, arri\u00e8re",
@@ -8501,6 +8519,7 @@
       "recognition": {
         "2022-08": "97"
       },
+      "see_also": "kalama",
       "pu_verbatim": {
         "en": "PARTICLE (animal noise or communication)",
         "fr": "PARTICULE (cri ou communication d'un animal)",
@@ -9590,6 +9609,7 @@
       "recognition": {
         "2022-08": "13"
       },
+      "see_also": "nimi, sin",
       "commentary": "Mostly used in conversations in English. Likely was popularised by the :nimisin: emote in ma pona, which was originally used to notify Atawan (maintainer of \"nimi ale\") about newly coined words. In common speech, the meaning got extended to include most or all non-pu words, regardless if they were coined recently or not.",
       "def": {
         "en": "any non-pu word; any new word; any joke word",
@@ -9751,6 +9771,7 @@
         "2021-10": "28",
         "2022-08": "1"
       },
+      "see_also": "pu, ku",
       "def": {
         "en": "(word reserved for future use by Sonja Lang)",
         "pl": "(s\u0142owo zarezerwowane do przysz\u0142ego u\u017cytku przez Sonj\u0119 Lang)",
@@ -10843,6 +10864,7 @@
       "recognition": {
         "2022-08": "99"
       },
+      "see_also": "linja",
       "pu_verbatim": {
         "en": "NOUN long hard thing; branch, rod, stick",
         "fr": "NOM objet long et dur : b\u00e2ton",
@@ -11769,6 +11791,7 @@
         "2021-10": "34",
         "2022-08": "5"
       },
+      "see_also": "mute",
       "tags": "nimi nanpa",
       "def": {
         "en": "four",
@@ -12027,6 +12050,7 @@
         "2021-10": "21",
         "2022-08": "3"
       },
+      "see_also": "pona, ken, wawa",
       "author_verbatim": "Effective, useful, \u201cto give [good] results\u201d",
       "author_verbatim_source": "https://discord.com/channels/301377942062366741/545467374254555137/545760733888118796",
       "commentary": "From the time management method developed by Francesco Cirillo in Berlin in the 1980s, for which people often used tomato-shaped timers. In ku, \"pomotolo\" was given as one of the translations of \"tomato\", presumably due to speakers misusing or misunderstanding the word.",
@@ -12326,6 +12350,7 @@
         "2021-10": "31",
         "2022-08": "14"
       },
+      "see_also": "suwi, ko",
       "def": {
         "en": "fluffy, soft, squishy (something that can be compressed and will try to go back to its original shape)",
         "pl": "mi\u0119kki, delikatny, puszysty, puchaty",
@@ -12453,6 +12478,7 @@
         "2021-10": "29",
         "2022-08": "3"
       },
+      "see_also": "nimisin",
       "commentary": "Coined in reference to jan Samu, a Facebook user who attempted to propose a new word.",
       "def": {
         "en": "wanting to create new words",
@@ -12934,6 +12960,7 @@
       "recognition": {
         "2022-08": "99"
       },
+      "see_also": "leko",
       "pu_verbatim": {
         "en": "NOUN round or circular thing; ball, circle, cycle, sphere, wheel\nADJECTIVE of one year",
         "fr": "NOM objet rond : ballon, cercle, cycle, sph\u00e8re, roue, anneau\nADJECTIF annuel",
@@ -13202,6 +13229,7 @@
       "recognition": {
         "2022-08": "98"
       },
+      "see_also": "monsi",
       "pu_verbatim": {
         "en": "NOUN face, foremost, front, wall",
         "fr": "NOM avant, visage, front, mur",
@@ -13374,10 +13402,12 @@
         "words": "lape;sleep",
         "defs": "sleep;sleep"
       },
+      "creator": "jan Kawa",
       "recognition": {
         "2020-04": "12",
         "2022-08": "1"
       },
+      "see_also": "lape",
       "def": {
         "en": "[humorous synonym of lape]",
         "pl": "[dowcipny synonim lape]",
@@ -13686,6 +13716,7 @@
         "2021-10": "28",
         "2022-08": "1"
       },
+      "see_also": "pu, ku",
       "def": {
         "en": "(word reserved for future use by Sonja Lang)",
         "pl": "(s\u0142owo zarezerwowane do przysz\u0142ego u\u017cytku przez Sonj\u0119 Lang)",
@@ -13786,6 +13817,7 @@
       "recognition": {
         "2022-08": "99"
       },
+      "see_also": "lili",
       "pu_verbatim": {
         "en": "ADJECTIVE big, heavy, large, long, tall; important; adult",
         "fr": "ADJECTIF grand, lourd, long ; important ; adulte",
@@ -13991,6 +14023,7 @@
         "2021-10": "33",
         "2022-08": "7"
       },
+      "see_also": "kijetesantakalu",
       "author_verbatim": "Dear Sonja, That's a great idea, but if you do so, you need also to add a special word forthe Platypus (Ornithorhynchus anatinus). I would suggest the word \"sutopatikuna\"from the croatian word \u00c8udnovati kljuna\u00b9. Bonega ideo, sed se vi farus tion, vi devus ankaux aldoni apartan vorton porla Ornitorinko (Ornithorhynchus anatinus). Mi proponus la vorton \"sutopatikuna\"prenita de la kroatan vorton \u00c8udnovati kljuna\u00b9.:P",
       "author_verbatim_source": "http://forums.tokipona.org/viewtopic.php?f=33&t=639&hilit=word+requests&sid=401a37e08cc5150e7a0738d068ea4a77&start=50#p2368",
       "commentary": "Coined by Alexandre Baudry in 2009 in response to jan Sonja coining \"kijetesantakalu\" as part of 2009's April Fools.",
@@ -14329,6 +14362,7 @@
       "recognition": {
         "2022-08": "99"
       },
+      "see_also": "awen",
       "pu_verbatim": {
         "en": "PREPOSITION going to, toward; for; from the perspective of\nADJECTIVE moving",
         "fr": "PR\u00c9POSITION \u00e0, allant \u00e0, vers, pour, du point de vue de\nADJECTIF en mouvement, anim\u00e9",
@@ -15337,6 +15371,7 @@
         "2021-10": "43",
         "2022-08": "12"
       },
+      "see_also": "laso, loje",
       "def": {
         "en": "purple",
         "pl": "fioletowy",
@@ -15392,6 +15427,7 @@
         "2021-10": "41",
         "2022-08": "16"
       },
+      "see_also": "wawa, nasa",
       "commentary": "Originally, usawi also included \"technology so complex it's impossible to tell apart from magic\" in its meaning, but this meaning has been deprecated by the creator.",
       "def": {
         "en": "magic, sorcery; enchant; magical, supernatural, occult, incomprehensible",
@@ -16024,6 +16060,7 @@
         "2021-10": "24",
         "2022-08": "2"
       },
+      "see_also": "wuwojiti",
       "author_verbatim": "\u2022Something that appears to break the rules but doesn't\n\u2022Faux edginess\n\u2022Provocation",
       "author_verbatim_source": "https://discord.com/channels/301377942062366741/375591429608570881/556942279227736064",
       "commentary": "Coined in reference to wuwojiti, a sequence of all phonotactically unviable CV syllables in toki pona.",
@@ -16192,6 +16229,7 @@
         "2021-10": "25",
         "2022-08": "5"
       },
+      "see_also": "weka, kama",
       "author_verbatim": "also, when i meant wekama, i meant weka, then kama",
       "author_verbatim_source": "https://discord.com/channels/301377942062366741/545467374254555137/732119749114331148",
       "def": {
