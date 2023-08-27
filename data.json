@@ -695,6 +695,9 @@
     "jan Lepeka": {
       "description": "poni entry"
     },
+    "jan Olipija, jan Juwan": {
+      "description": "luka pona"
+    },
     "jan Sonja": {
       "description": "free ku data"
     },
@@ -1624,7 +1627,7 @@
         "uk": "\u0432\u0438\u043d\u0430, \u0441\u043e\u0440\u043e\u043c; \u0432\u0438\u043d\u0438\u0442\u0438, \u0432\u0438\u043a\u0440\u0438\u0432\u0430\u0442\u0438, \u0431\u0435\u0437\u0447\u0435\u0441\u0442\u0456\u0442\u0438, \u0441\u0442\u0430\u0432\u0438\u0442\u0438 \u0432 \u043d\u0435\u0437\u0440\u0443\u0447\u043d\u0443 \u0441\u0438\u0442\u0443\u0430\u0446\u0456\u044e",
         "da": "skyld, skam, undg\u00e5, stigma, sk\u00e6ndsel; at anklage, at udpege, at afsl\u00f8re, at van\u00e6re, at bringe i forlegenhed",
         "hr": "krivnja, sramota, odbiti, stigma; optu\u017eiti, izdvojiti, razotkriti, obes\u010das\u010diti, osramotiti",
-        "sv": "skuld, skam, undvika, stigma; att anklage, att peka ut, att avsl\u00f6ja, att van\u00e4ra, att genera",
+        "sv": "skuld, skam, undvika, stigma; att anklaga, att peka ut, att avsl\u00f6ja, att van\u00e4ra, att genera",
         "io": "kulpanta, kulpoza, shamoza, shamanta, pudoro; shamigar, humiligar, expozar, deshonorizar",
         "ja": "\u6065\u3001\u7f6a\u60aa\u611f\u3001\u5fcc\u907f\u3001\u6c5a\u540d\u3001\u4e0d\u540d\u8a89; \u8cac\u3081\u308b\u3001\u7cfe\u5f3e\u3059\u308b\u3001\u66b4\u9732\u3059\u308b\u3001\u8fb1\u3081\u308b\u3001\u56f0\u3089\u305b\u308b",
         "cs": "vina, stud, hanba, nemilost; obvinit, odhalit, zostudit, uv\u00e9st do rozpak\u016f",
@@ -4577,7 +4580,7 @@
         "uk": "\u0431\u0443\u0434\u044c-\u044f\u043a\u0430 \u0442\u0432\u0430\u0440\u0438\u043d\u0430 \u0437 \u0441\u0456\u043c\u0435\u0439\u0441\u0442\u0432\u0430 \u0454\u043d\u043e\u0442\u043e\u0432\u0438\u0445, \u043d\u0430\u043f\u0440\u0438\u043a\u043b\u0430\u0434 \u0454\u043d\u043e\u0442\u0438, \u043e\u043b\u0456\u043d\u0433\u043e, \u043a\u0430\u043a\u043e\u043c\u0456\u0442\u0446\u043b\u0456, \u043d\u043e\u0441\u0443\u0445\u0438, \u043a\u0456\u043d\u043a\u0430\u0436\u0443",
         "da": "ethvert dyr fra Procyonidae-familien, s\u00e5som vaskebj\u00f8rne, n\u00e6sehorn, kinkajous, olingoer, ringhaler og kakimistler | ALT ethvert dyr fra Musteloidea-overfamilien, herunder vaskebj\u00f8rne, v\u00e6sler, oddere, stinkdyr og r\u00f8de pandaer",
         "hr": "\u017eivotinja iz porodice Procyonidae (rakuni i dr.) | ALT \u017eivotinja iz natporodice Musteloidea (kune, lasice, rakuni, vidre, tvorovi, crvene pande i dr.)",
-        "sv": "ett djur fr\u00e5n Procyonidae-familjen (halvbj\u00f6rnar), som t.ex. exempel tv\u00e4ttbj\u00f6rnar, n\u00e4sbj\u00f6rnar, veckelbj\u00f6rnar, olingobj\u00f6rnar, kattfretter och cacomixtler | ALT ett djur fr\u00e5n Musteloidea-\u00f6verfamiljen, t.ex. tv\u00e4ttbj\u00f6rnar, vesslor, uttrar, skunkar och kattbj\u00f6rnar (r\u00f6da pandor)",
+        "sv": "djur fr\u00e5n Procyonidae-familjen (halvbj\u00f6rnar), som t.ex. tv\u00e4ttbj\u00f6rnar, n\u00e4sbj\u00f6rnar, veckelbj\u00f6rnar, olingobj\u00f6rnar, kattfretter och cacomixtler | ALT djur fr\u00e5n Musteloidea-\u00f6verfamiljen, t.ex. tv\u00e4ttbj\u00f6rnar, vesslor, uttrar, skunkar och kattbj\u00f6rnar (r\u00f6da pandor)",
         "io": "bestii simila ratoni",
         "ja": "\u30a2\u30e9\u30a4\u30b0\u30de\u79d1\u306e\u52d5\u7269\u5168\u822c (\u30a2\u30e9\u30a4\u30b0\u30de\u3001\u30cf\u30ca\u30b0\u30de\u3001\u30ad\u30f3\u30ab\u30b8\u30e5\u30fc\u3001\u30aa\u30ea\u30f3\u30b4\u3001\u30ab\u30b3\u30df\u30b9\u30eb\u306a\u3069) | ALT \u30a4\u30bf\u30c1\u4e0a\u79d1\u306e\u52d5\u7269\u5168\u822c (\u30a2\u30e9\u30a4\u30b0\u30de\u3001\u30a4\u30bf\u30c1\u3001\u30ab\u30ef\u30a6\u30bd\u3001\u30b9\u30ab\u30f3\u30af\u3001\u30ec\u30c3\u30b5\u30fc\u30d1\u30f3\u30c0\u3092\u542b\u3080)",
         "cs": "\u0161elma z \u010deledi medv\u00eddkovit\u00fdch, nap\u0159.: m\u00fdval, nos\u00e1l, kynka\u017eu, \u010di olingu | ALT \u0161elma z \u010deledi lasicovit\u00fdch, nap\u0159.: jezevec, kuna, tcho\u0159, norek",
@@ -5544,7 +5547,7 @@
         "uk": "\u0448\u0456\u0441\u0442\u044c",
         "da": "(forkortet variant af kulupu); seks (is\u00e6r i base seks)",
         "hr": "(skra\u0107enica rije\u010di \"kulupu\"); \u0161est (posebno u seksimalnom)",
-        "sv": "(f\u00f6rkortning av kulupu); sex (speciellt i det sen\u00e4ra talsystemet)",
+        "sv": "(f\u00f6rkortning av kulupu); siffran sex (speciellt i det sen\u00e4ra talsystemet)",
         "io": "kurtigita formo de la vorto kulupu); sis (partikulare en matematikala bazo)",
         "ja": "(kulupu \u306e\u7e2e\u7d04\u5f62); \u516d (\u7279\u306b\u516d\u9032\u6cd5\u306b\u304a\u3044\u3066)",
         "cs": "(zkr\u00e1cen\u00e1 varianta kulupu); \u0161est (p\u0159edev\u0161\u00edm v \u0161estkov\u00e9 soustav\u011b)",
@@ -6351,7 +6354,7 @@
         "da": "kold, k\u00f8lig; r\u00e5, ubehandlet, ukogt",
         "haw": "anu, hu\u02bbihu\u02bbi",
         "hr": "hladno; nepe\u010deno, sirovo",
-        "sv": "kall, kyld; ostekad, r\u00e5",
+        "sv": "kall, kyld; ostekt, r\u00e5",
         "ja": "\u51b7\u305f\u3044\u3001\u5bd2\u3044\u3001\u51cd\u3063\u305f\u3001\u6dbc\u3057\u3044; \u672a\u8abf\u7406\u306e\u3001\u751f\u306e",
         "ko": "\ucc28\uac11\ub2e4, \uc2dc\uc6d0\ud558\ub2e4; \uc775\uc9c0 \uc54a\uc740",
         "cs": "chladn\u00fd, studen\u00fd; syrov\u00fd",
@@ -6419,7 +6422,7 @@
         "da": "(mellem et hvilket som helst subjekt undtagen \"mi\" eller \"sina\" alene og dets verbum; ogs\u00e5 for at introducere et nyt verbum for det samme subjekt)",
         "haw": "(i waena o ke kumu\u02bb\u014dlelo (koe \u201cmi\u201d wale, \u0101 i \u02bbole \u201csina\u201d wale) me ka ha\u02bbina; e ho\u02bbopuka ha\u02bbina hou ho\u02bbi i ka m\u0101mala\u02bb\u014dlelo, e k\u016b \u02bb\u0113 ai kekahi ha\u02bbina)",
         "hr": "(izme\u0111u subjekta (osim \"mi\" i \"sina\") i predikata; dodavanje drugog predikata istom subjektu)",
-        "sv": "(emellan ett subjekt f\u00f6rutom endast mi eller endast sina och dess verb; introducerar ett nytt verb f\u00f6r samma subjekt)",
+        "sv": "(mellan ett subjekt (f\u00f6rutom endast mi eller endast sina) och dess verb; introducerar ett nytt verb f\u00f6r samma subjekt)",
         "ja": "(\u4e3b\u8a9e\u304c mi \u304b sina \u306e\u307f\u3067\u3042\u308b\u5834\u5408\u3092\u9664\u304d\u3001\u4e3b\u8a9e\u3068\u8ff0\u8a9e\u306e\u9593\u306b\u304a\u304f; \u540c\u3058\u4e3b\u8a9e\u306b\u5bfe\u3057\u3066\u5225\u306e\u8ff0\u8a9e\u3092\u4e26\u7acb\u3059\u308b\u969b\u306b\u3082\u7528\u3044\u308b)",
         "ko": "(\"mi\"\uc640 \"sina\"\ub97c \uc81c\uc678\ud55c \ubaa8\ub4e0 \uc8fc\uc5b4\uc640 \ub3d9\uc0ac \uc0ac\uc774; \uac19\uc740 \uc8fc\uc5b4\uc5d0 \ub300\ud574 \uc0c8 \ub3d9\uc0ac\ub97c \ub123\uc744 \ub54c\ub3c4 \uc0ac\uc6a9 \uac00\ub2a5)",
         "cs": "(mezi podm\u011btem [krom\u011b samotn\u00e9ho mi \u010di samotn\u00e9ho sina] a p\u0159\u00edsudkem; t\u00e9\u017e uv\u00e1d\u00ed n\u011bkolikan\u00e1sobn\u00fd p\u0159\u00edsudek)",
