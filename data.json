@@ -8,11 +8,11 @@
       "credits": "Dox",
       "completeness_percent": {
         "obscure": "9",
-        "rare": "15",
-        "uncommon": "16",
-        "common": "17",
-        "widespread": "17",
-        "core": "19"
+        "rare": "12",
+        "uncommon": "13",
+        "common": "13",
+        "widespread": "13",
+        "core": "20"
       }
     },
     "ceb_l": {
@@ -23,11 +23,11 @@
       "credits": "jan Lakuwinsu",
       "completeness_percent": {
         "obscure": "9",
-        "rare": "15",
-        "uncommon": "17",
-        "common": "17",
-        "widespread": "18",
-        "core": "20"
+        "rare": "12",
+        "uncommon": "13",
+        "common": "14",
+        "widespread": "14",
+        "core": "21"
       }
     },
     "cs": {
@@ -37,12 +37,12 @@
       "name_toki_pona": "toki Seki",
       "credits": "jan Kataki",
       "completeness_percent": {
-        "obscure": "100",
-        "rare": "100",
-        "uncommon": "100",
-        "common": "100",
-        "widespread": "100",
-        "core": "100"
+        "obscure": "98",
+        "rare": "82",
+        "uncommon": "80",
+        "common": "79",
+        "widespread": "78",
+        "core": "106"
       }
     },
     "cy": {
@@ -53,11 +53,11 @@
       "credits": "jan Lali Lita (Ra'ees Richards)",
       "completeness_percent": {
         "obscure": "15",
-        "rare": "15",
-        "uncommon": "16",
-        "common": "17",
-        "widespread": "17",
-        "core": "18"
+        "rare": "12",
+        "uncommon": "13",
+        "common": "13",
+        "widespread": "13",
+        "core": "19"
       }
     },
     "da": {
@@ -67,12 +67,12 @@
       "name_toki_pona": "toki Tansi",
       "credits": "VikingCow, pan Waja",
       "completeness_percent": {
-        "obscure": "100",
-        "rare": "100",
-        "uncommon": "100",
-        "common": "100",
-        "widespread": "100",
-        "core": "100"
+        "obscure": "98",
+        "rare": "82",
+        "uncommon": "80",
+        "common": "79",
+        "widespread": "78",
+        "core": "106"
       }
     },
     "de": {
@@ -82,12 +82,12 @@
       "name_toki_pona": "toki Tosi",
       "credits": "jan Alonola, jan Ke Tami, jan Jonatan",
       "completeness_percent": {
-        "obscure": "94",
-        "rare": "98",
-        "uncommon": "100",
-        "common": "100",
-        "widespread": "100",
-        "core": "100"
+        "obscure": "93",
+        "rare": "81",
+        "uncommon": "79",
+        "common": "79",
+        "widespread": "78",
+        "core": "106"
       }
     },
     "el": {
@@ -97,12 +97,12 @@
       "name_toki_pona": "toki Elena",
       "credits": "jan Anesi",
       "completeness_percent": {
-        "obscure": "100",
-        "rare": "100",
-        "uncommon": "100",
-        "common": "100",
-        "widespread": "100",
-        "core": "100"
+        "obscure": "98",
+        "rare": "82",
+        "uncommon": "80",
+        "common": "79",
+        "widespread": "78",
+        "core": "106"
       }
     },
     "en": {
@@ -113,11 +113,11 @@
       "credits": "jan Sonja, jan inwin, jan Pensa, lipamanka, kapesi Pake",
       "completeness_percent": {
         "obscure": "100",
-        "rare": "100",
-        "uncommon": "100",
-        "common": "100",
-        "widespread": "100",
-        "core": "100"
+        "rare": "82",
+        "uncommon": "80",
+        "common": "79",
+        "widespread": "78",
+        "core": "106"
       }
     },
     "eo": {
@@ -127,12 +127,12 @@
       "name_toki_pona": "toki Epelanto",
       "credits": "jan Pensa, kapesi Pake",
       "completeness_percent": {
-        "obscure": "94",
-        "rare": "98",
-        "uncommon": "100",
-        "common": "100",
-        "widespread": "100",
-        "core": "100"
+        "obscure": "93",
+        "rare": "81",
+        "uncommon": "79",
+        "common": "79",
+        "widespread": "78",
+        "core": "106"
       }
     },
     "es": {
@@ -142,12 +142,12 @@
       "name_toki_pona": "toki Epanja",
       "credits": "kapesi Pake, kijete Ampo, akesi kasi Panime, Andrea Dolores, jan Kima, Jos\u00e9 Loera, F Anon, jan Sila, jan Telupiso, jan Lina",
       "completeness_percent": {
-        "obscure": "100",
-        "rare": "100",
-        "uncommon": "100",
-        "common": "100",
-        "widespread": "100",
-        "core": "100"
+        "obscure": "98",
+        "rare": "82",
+        "uncommon": "80",
+        "common": "79",
+        "widespread": "78",
+        "core": "106"
       }
     },
     "fi": {
@@ -157,12 +157,12 @@
       "name_toki_pona": "toki Sumi",
       "credits": "jan Asona",
       "completeness_percent": {
-        "obscure": "66",
-        "rare": "92",
-        "uncommon": "99",
-        "common": "100",
-        "widespread": "100",
-        "core": "100"
+        "obscure": "65",
+        "rare": "76",
+        "uncommon": "79",
+        "common": "79",
+        "widespread": "78",
+        "core": "106"
       }
     },
     "fr": {
@@ -172,12 +172,12 @@
       "name_toki_pona": "toki Kanse",
       "credits": "jan Nisu, jan Alekan, jan Aleko",
       "completeness_percent": {
-        "obscure": "100",
-        "rare": "100",
-        "uncommon": "100",
-        "common": "100",
-        "widespread": "100",
-        "core": "100"
+        "obscure": "98",
+        "rare": "82",
+        "uncommon": "80",
+        "common": "79",
+        "widespread": "78",
+        "core": "106"
       }
     },
     "haw": {
@@ -187,12 +187,12 @@
       "name_toki_pona": "toki Awaje",
       "credits": "jan Silisili, pan Wija",
       "completeness_percent": {
-        "obscure": "47",
-        "rare": "76",
-        "uncommon": "84",
-        "common": "89",
-        "widespread": "93",
-        "core": "100"
+        "obscure": "46",
+        "rare": "62",
+        "uncommon": "68",
+        "common": "71",
+        "widespread": "73",
+        "core": "106"
       }
     },
     "he": {
@@ -203,11 +203,11 @@
       "credits": "jan Jaten, ilo Kesija",
       "completeness_percent": {
         "obscure": "21",
-        "rare": "25",
-        "uncommon": "25",
-        "common": "24",
-        "widespread": "24",
-        "core": "23"
+        "rare": "21",
+        "uncommon": "21",
+        "common": "19",
+        "widespread": "19",
+        "core": "25"
       }
     },
     "hi": {
@@ -218,11 +218,11 @@
       "credits": "jan Sewi, jan Wato",
       "completeness_percent": {
         "obscure": "38",
-        "rare": "30",
-        "uncommon": "24",
-        "common": "20",
-        "widespread": "17",
-        "core": "11"
+        "rare": "25",
+        "uncommon": "18",
+        "common": "15",
+        "widespread": "13",
+        "core": "12"
       }
     },
     "hr": {
@@ -232,12 +232,12 @@
       "name_toki_pona": "toki Lowasi",
       "credits": "Zenithium",
       "completeness_percent": {
-        "obscure": "95",
-        "rare": "98",
-        "uncommon": "100",
-        "common": "100",
-        "widespread": "100",
-        "core": "100"
+        "obscure": "94",
+        "rare": "81",
+        "uncommon": "79",
+        "common": "79",
+        "widespread": "78",
+        "core": "106"
       }
     },
     "id": {
@@ -247,12 +247,12 @@
       "name_toki_pona": "toki Intonesija",
       "credits": "jan Melon, jan Lanu",
       "completeness_percent": {
-        "obscure": "80",
-        "rare": "96",
-        "uncommon": "97",
-        "common": "97",
-        "widespread": "98",
-        "core": "98"
+        "obscure": "79",
+        "rare": "79",
+        "uncommon": "78",
+        "common": "77",
+        "widespread": "76",
+        "core": "104"
       }
     },
     "io": {
@@ -263,10 +263,10 @@
       "credits": "kapesi Pake",
       "completeness_percent": {
         "obscure": "34",
-        "rare": "23",
-        "uncommon": "15",
-        "common": "11",
-        "widespread": "7",
+        "rare": "18",
+        "uncommon": "12",
+        "common": "8",
+        "widespread": "6",
         "core": "0"
       }
     },
@@ -277,12 +277,12 @@
       "name_toki_pona": "toki Mesulojanki (sitelen Kililisa)",
       "credits": "kala Asi",
       "completeness_percent": {
-        "obscure": "76",
-        "rare": "91",
-        "uncommon": "96",
-        "common": "100",
-        "widespread": "100",
-        "core": "100"
+        "obscure": "75",
+        "rare": "75",
+        "uncommon": "77",
+        "common": "78",
+        "widespread": "78",
+        "core": "106"
       }
     },
     "isv_l": {
@@ -292,12 +292,12 @@
       "name_toki_pona": "toki Mesulojanki (sitelen Lasina)",
       "credits": "kala Asi",
       "completeness_percent": {
-        "obscure": "76",
-        "rare": "91",
-        "uncommon": "96",
-        "common": "100",
-        "widespread": "100",
-        "core": "100"
+        "obscure": "75",
+        "rare": "75",
+        "uncommon": "77",
+        "common": "78",
+        "widespread": "78",
+        "core": "106"
       }
     },
     "it": {
@@ -307,12 +307,12 @@
       "name_toki_pona": "toki Italija",
       "credits": "jan Lopeto",
       "completeness_percent": {
-        "obscure": "94",
-        "rare": "98",
-        "uncommon": "100",
-        "common": "100",
-        "widespread": "100",
-        "core": "100"
+        "obscure": "93",
+        "rare": "81",
+        "uncommon": "79",
+        "common": "79",
+        "widespread": "78",
+        "core": "106"
       }
     },
     "ith_n": {
@@ -324,9 +324,9 @@
       "completeness_percent": {
         "obscure": "2",
         "rare": "3",
-        "uncommon": "4",
-        "common": "4",
-        "widespread": "4",
+        "uncommon": "3",
+        "common": "3",
+        "widespread": "3",
         "core": "5"
       }
     },
@@ -337,12 +337,12 @@
       "name_toki_pona": "toki Nijon",
       "credits": "jan Umijotalu",
       "completeness_percent": {
-        "obscure": "100",
-        "rare": "100",
-        "uncommon": "100",
-        "common": "100",
-        "widespread": "100",
-        "core": "100"
+        "obscure": "98",
+        "rare": "82",
+        "uncommon": "80",
+        "common": "79",
+        "widespread": "78",
+        "core": "106"
       }
     },
     "ko": {
@@ -353,11 +353,11 @@
       "credits": "jan Ijan",
       "completeness_percent": {
         "obscure": "32",
-        "rare": "52",
-        "uncommon": "58",
-        "common": "61",
-        "widespread": "63",
-        "core": "68"
+        "rare": "43",
+        "uncommon": "46",
+        "common": "48",
+        "widespread": "50",
+        "core": "72"
       }
     },
     "la": {
@@ -367,12 +367,12 @@
       "name_toki_pona": "toki Lasina",
       "credits": "jan Jonatan",
       "completeness_percent": {
-        "obscure": "77",
-        "rare": "98",
-        "uncommon": "100",
-        "common": "100",
-        "widespread": "100",
-        "core": "100"
+        "obscure": "76",
+        "rare": "80",
+        "uncommon": "79",
+        "common": "79",
+        "widespread": "78",
+        "core": "106"
       }
     },
     "lt": {
@@ -383,11 +383,11 @@
       "credits": "jan Simona",
       "completeness_percent": {
         "obscure": "7",
-        "rare": "11",
-        "uncommon": "13",
-        "common": "14",
-        "widespread": "14",
-        "core": "15"
+        "rare": "9",
+        "uncommon": "10",
+        "common": "11",
+        "widespread": "11",
+        "core": "16"
       }
     },
     "mi": {
@@ -397,12 +397,12 @@
       "name_toki_pona": "toki Mali",
       "credits": "jan Silisili",
       "completeness_percent": {
-        "obscure": "47",
-        "rare": "76",
-        "uncommon": "84",
-        "common": "89",
-        "widespread": "93",
-        "core": "100"
+        "obscure": "46",
+        "rare": "62",
+        "uncommon": "68",
+        "common": "71",
+        "widespread": "73",
+        "core": "106"
       }
     },
     "nl": {
@@ -412,12 +412,12 @@
       "name_toki_pona": "toki Netelan",
       "credits": "jan Jelo, jan Kasape",
       "completeness_percent": {
-        "obscure": "67",
-        "rare": "100",
-        "uncommon": "100",
-        "common": "100",
-        "widespread": "100",
-        "core": "100"
+        "obscure": "66",
+        "rare": "81",
+        "uncommon": "80",
+        "common": "79",
+        "widespread": "78",
+        "core": "106"
       }
     },
     "nno": {
@@ -427,12 +427,12 @@
       "name_toki_pona": "toki Nosiki sin",
       "credits": "jan Okun",
       "completeness_percent": {
-        "obscure": "62",
-        "rare": "100",
-        "uncommon": "100",
-        "common": "100",
-        "widespread": "100",
-        "core": "100"
+        "obscure": "61",
+        "rare": "81",
+        "uncommon": "80",
+        "common": "79",
+        "widespread": "78",
+        "core": "106"
       }
     },
     "nob": {
@@ -442,12 +442,12 @@
       "name_toki_pona": "toki Nosiki",
       "credits": "jan Okun",
       "completeness_percent": {
-        "obscure": "62",
-        "rare": "100",
-        "uncommon": "100",
-        "common": "100",
-        "widespread": "100",
-        "core": "100"
+        "obscure": "61",
+        "rare": "81",
+        "uncommon": "80",
+        "common": "79",
+        "widespread": "78",
+        "core": "106"
       }
     },
     "pa": {
@@ -458,10 +458,10 @@
       "credits": "jan Sewi",
       "completeness_percent": {
         "obscure": "33",
-        "rare": "22",
-        "uncommon": "15",
-        "common": "10",
-        "widespread": "7",
+        "rare": "18",
+        "uncommon": "11",
+        "common": "8",
+        "widespread": "5",
         "core": "0"
       }
     },
@@ -472,12 +472,12 @@
       "name_toki_pona": "toki Posuka",
       "credits": "jan Alonola, jan Kita, Zy",
       "completeness_percent": {
-        "obscure": "100",
-        "rare": "100",
-        "uncommon": "100",
-        "common": "100",
-        "widespread": "100",
-        "core": "100"
+        "obscure": "98",
+        "rare": "82",
+        "uncommon": "80",
+        "common": "79",
+        "widespread": "78",
+        "core": "106"
       }
     },
     "pt": {
@@ -488,11 +488,11 @@
       "credits": "MaroonShaded, soweli Anja, jan Wito",
       "completeness_percent": {
         "obscure": "52",
-        "rare": "79",
-        "uncommon": "87",
-        "common": "91",
-        "widespread": "94",
-        "core": "100"
+        "rare": "65",
+        "uncommon": "70",
+        "common": "72",
+        "widespread": "75",
+        "core": "106"
       }
     },
     "ro": {
@@ -503,11 +503,11 @@
       "credits": "Kayo",
       "completeness_percent": {
         "obscure": "18",
-        "rare": "29",
-        "uncommon": "32",
-        "common": "34",
-        "widespread": "35",
-        "core": "36"
+        "rare": "24",
+        "uncommon": "26",
+        "common": "27",
+        "widespread": "27",
+        "core": "39"
       }
     },
     "ru": {
@@ -517,12 +517,12 @@
       "name_toki_pona": "toki Losi",
       "credits": "kala Asi",
       "completeness_percent": {
-        "obscure": "100",
-        "rare": "100",
-        "uncommon": "100",
-        "common": "100",
-        "widespread": "100",
-        "core": "100"
+        "obscure": "98",
+        "rare": "82",
+        "uncommon": "80",
+        "common": "79",
+        "widespread": "78",
+        "core": "106"
       }
     },
     "sl": {
@@ -547,12 +547,12 @@
       "name_toki_pona": "toki Sensa",
       "credits": "jan Lilin, jan Supantelaso",
       "completeness_percent": {
-        "obscure": "100",
-        "rare": "100",
-        "uncommon": "100",
-        "common": "100",
-        "widespread": "100",
-        "core": "100"
+        "obscure": "98",
+        "rare": "82",
+        "uncommon": "80",
+        "common": "79",
+        "widespread": "78",
+        "core": "106"
       }
     },
     "tkl": {
@@ -562,12 +562,12 @@
       "name_toki_pona": "toki Tokela",
       "credits": "jan Silisili",
       "completeness_percent": {
-        "obscure": "47",
-        "rare": "76",
-        "uncommon": "84",
-        "common": "89",
-        "widespread": "93",
-        "core": "100"
+        "obscure": "46",
+        "rare": "62",
+        "uncommon": "68",
+        "common": "71",
+        "widespread": "73",
+        "core": "106"
       }
     },
     "tl_l": {
@@ -577,12 +577,12 @@
       "name_toki_pona": "toki Takalo (sitelen Lasina)",
       "credits": "jan Nikola, ok boye, ilo Anjo",
       "completeness_percent": {
-        "obscure": "56",
-        "rare": "90",
-        "uncommon": "99",
-        "common": "99",
-        "widespread": "99",
-        "core": "100"
+        "obscure": "55",
+        "rare": "73",
+        "uncommon": "79",
+        "common": "78",
+        "widespread": "78",
+        "core": "106"
       }
     },
     "tok": {
@@ -592,12 +592,12 @@
       "name_toki_pona": "toki pona",
       "credits": "jan Kita, kapesi Pake, jan Seli, anomyq, kili pan Juli, pan Wija",
       "completeness_percent": {
-        "obscure": "97",
-        "rare": "98",
-        "uncommon": "100",
-        "common": "100",
-        "widespread": "100",
-        "core": "100"
+        "obscure": "96",
+        "rare": "81",
+        "uncommon": "79",
+        "common": "79",
+        "widespread": "78",
+        "core": "106"
       }
     },
     "tr": {
@@ -607,12 +607,12 @@
       "name_toki_pona": "toki Tuki",
       "credits": "razorlovesbaba, anomyq",
       "completeness_percent": {
-        "obscure": "100",
-        "rare": "100",
-        "uncommon": "100",
-        "common": "100",
-        "widespread": "100",
-        "core": "100"
+        "obscure": "98",
+        "rare": "82",
+        "uncommon": "80",
+        "common": "79",
+        "widespread": "78",
+        "core": "106"
       }
     },
     "uk": {
@@ -622,12 +622,12 @@
       "name_toki_pona": "toki Ukawina",
       "credits": "kije Enki",
       "completeness_percent": {
-        "obscure": "100",
-        "rare": "100",
-        "uncommon": "100",
-        "common": "100",
-        "widespread": "100",
-        "core": "100"
+        "obscure": "98",
+        "rare": "82",
+        "uncommon": "80",
+        "common": "79",
+        "widespread": "78",
+        "core": "106"
       }
     },
     "ur": {
@@ -638,10 +638,10 @@
       "credits": "jan Sewi",
       "completeness_percent": {
         "obscure": "33",
-        "rare": "22",
-        "uncommon": "15",
-        "common": "10",
-        "widespread": "7",
+        "rare": "18",
+        "uncommon": "11",
+        "common": "8",
+        "widespread": "5",
         "core": "0"
       }
     },
@@ -652,12 +652,12 @@
       "name_toki_pona": "toki Sonko (sitelen Kansi pi ijo lili)",
       "credits": "ItMarki",
       "completeness_percent": {
-        "obscure": "100",
-        "rare": "100",
-        "uncommon": "100",
-        "common": "100",
-        "widespread": "100",
-        "core": "100"
+        "obscure": "98",
+        "rare": "82",
+        "uncommon": "80",
+        "common": "79",
+        "widespread": "78",
+        "core": "106"
       }
     },
     "zh_hant": {
@@ -667,12 +667,12 @@
       "name_toki_pona": "toki Sonko (sitelen Kansi pi ijo mute)",
       "credits": "ItMarki",
       "completeness_percent": {
-        "obscure": "100",
-        "rare": "100",
-        "uncommon": "100",
-        "common": "100",
-        "widespread": "100",
-        "core": "100"
+        "obscure": "98",
+        "rare": "82",
+        "uncommon": "80",
+        "common": "79",
+        "widespread": "78",
+        "core": "106"
       }
     }
   },
@@ -746,7 +746,8 @@
       "ku_data": "ah\u2075, oh\u2075, ha\u2075, ooh\u2074, uh\u2074, gosh\u2074, whoa\u2074, wow\u2074, um\u00b3, huh\u00b3, uh-huh\u00b2, quite\u00b2, gasp\u00b2, really\u00b2, mm-hmm\u00b2, hmm\u00b2, sigh\u00b2",
       "recognition": {
         "2020-04": "99",
-        "2022-08": "99"
+        "2022-08": "99",
+        "2023-09": "99"
       },
       "see_also": "kin",
       "pu_verbatim": {
@@ -818,7 +819,8 @@
       },
       "creator": "kulupu Eki, oni Tewi",
       "recognition": {
-        "2022-08": "0"
+        "2022-08": "0",
+        "2023-09": "1"
       },
       "see_also": "natu",
       "commentary": "This word is deprecated by the creator, replaced by \"natu\".",
@@ -873,7 +875,8 @@
       "creator": "jan Sonja",
       "ku_data": "reptile\u2075, frog\u00b3",
       "recognition": {
-        "2022-08": "98"
+        "2022-08": "98",
+        "2023-09": "99"
       },
       "pu_verbatim": {
         "en": "NOUN non-cute animal; reptile, amphibian",
@@ -934,7 +937,8 @@
       "book": "none",
       "usage_category": "obscure",
       "recognition": {
-        "2022-08": "0"
+        "2022-08": "0",
+        "2023-09": "0"
       },
       "see_also": "a",
       "commentary": "Virtually unknown outside the Korean toki pona community.",
@@ -986,7 +990,8 @@
       "creator": "jan Sonja",
       "ku_data": "not\u2075, none\u2075, zero\u2075, no\u2075, nothing\u2075, neither\u00b3, nor\u00b2, hardly\u00b2",
       "recognition": {
-        "2022-08": "100"
+        "2022-08": "100",
+        "2023-09": "100"
       },
       "pu_verbatim": {
         "en": "ADJECTIVE no, not, zero",
@@ -1064,7 +1069,8 @@
       "ku_data": "hunt\u2075, hunting\u2075, search\u2074, pursuit\u2074, pursue\u2074, gather\u2074, finding\u00b3, seek\u00b3, explore\u00b3, chase\u00b2, locate\u00b2, try\u00b2, collect\u00b2, quest\u00b2, catch\u00b2",
       "recognition": {
         "2020-04": "97",
-        "2022-08": "97"
+        "2022-08": "97",
+        "2023-09": "99"
       },
       "pu_verbatim": {
         "en": "VERB to hunt, forage",
@@ -1142,7 +1148,8 @@
       "creator": "jan Sonja",
       "ku_data": "every\u2074, everything\u2074, all\u2074, entire\u2074, universal\u00b3, completely\u00b3, total\u00b3, entirely\u00b3, universe\u00b3, altogether\u00b3, comprehensive\u00b3, full\u00b2, totally\u00b2, each\u00b2, fully\u00b2, any\u00b2, thoroughly\u00b2, absolute\u00b2, general\u00b2, countless\u00b2, complete\u00b2, whole\u00b2, hundred\u00b2",
       "recognition": {
-        "2022-08": "92"
+        "2022-08": "92",
+        "2023-09": "90"
       },
       "see_also": "ali",
       "tags": "pre-pu ALT",
@@ -1213,7 +1220,8 @@
       },
       "creator": "jan Pensamin",
       "recognition": {
-        "2022-08": "2"
+        "2022-08": "2",
+        "2023-09": "2"
       },
       "commentary": "Coined humorously as the \"final nimisin\" - any newer word would semantically be included in alente, so it can be refuted for being \"alente but even nicher\".",
       "def": {
@@ -1255,7 +1263,8 @@
       "creator": "jan Sonja",
       "ku_data": "all\u00b2, entire\u00b2, universe\u00b2",
       "recognition": {
-        "2022-08": "35"
+        "2022-08": "35",
+        "2023-09": "32"
       },
       "see_also": "ale",
       "commentary": "\"ali\" is an alternative to \"ale\", coined in a poll in 2002 in order to avoid confusion with \"ala\". However, the usage of \"ale\" over \"ali\" remains more common. Generally not considered a word in its own right.",
@@ -1320,7 +1329,8 @@
       "recognition": {
         "2020-04": "18",
         "2021-10": "24",
-        "2022-08": "3"
+        "2022-08": "3",
+        "2023-09": "3"
       },
       "see_also": "la",
       "def": {
@@ -1380,7 +1390,8 @@
       "creator": "jan Sonja",
       "ku_data": "down\u2075, bottom\u2074, lower\u2074, defeat\u00b3, below\u00b3, beneath\u00b3, under\u00b2, bow\u00b2, underlying\u00b2",
       "recognition": {
-        "2022-08": "99"
+        "2022-08": "99",
+        "2023-09": "99"
       },
       "tags": "pre-pu ALT",
       "pu_verbatim": {
@@ -1458,7 +1469,8 @@
       "creator": "jan Sonja",
       "ku_data": "other\u2075, changing\u2075, different\u2075, alter\u2075, modify\u2075, alternative\u2074, change\u2074, convert\u2074, edit\u2074, difference\u2074, transformation\u2074, distinct\u2074, differently\u2074, vary\u2074, transform\u00b3, variation\u00b3, contrast\u00b3, distinction\u00b3, replace\u00b3, switch\u00b3, else\u00b3, another\u00b3, conversion\u00b3, adjustment\u00b3, adapt\u00b2, affect\u00b2, distinguish\u00b2, adjust\u00b2, amendment\u00b2, transition\u00b2, opposed\u00b2, unlike\u00b2, separate\u00b2, counterpart\u00b2, diversity\u00b2, shift\u00b2, adaptation\u00b2",
       "recognition": {
-        "2022-08": "99"
+        "2022-08": "99",
+        "2023-09": "99"
       },
       "see_also": "sama",
       "pu_verbatim": {
@@ -1537,7 +1549,8 @@
       "creator": "jan Sonja",
       "ku_data": "or\u2075, whether\u00b3, choice\u00b3, selection\u00b2, decide\u00b2, either\u00b2, select\u00b2",
       "recognition": {
-        "2022-08": "98"
+        "2022-08": "98",
+        "2023-09": "99"
       },
       "pu_verbatim": {
         "en": "PARTICLE or",
@@ -1613,7 +1626,8 @@
       "recognition": {
         "2020-04": "44",
         "2021-10": "59",
-        "2022-08": "20"
+        "2022-08": "20",
+        "2023-09": "23"
       },
       "commentary": "According to jan Sonja, \"apeja\" never appeared in any pre-pu toki pona dictionary made by her and never promoted by her, instead it may have been \"just an experimental idea in a forum post\".",
       "def": {
@@ -1671,7 +1685,8 @@
       },
       "creator": "jan Lenoka",
       "recognition": {
-        "2022-08": "0"
+        "2022-08": "0",
+        "2023-09": "1"
       },
       "see_also": "utala, pakala, tawa",
       "commentary": "jan Lenoka further elaborated the semantics to imply \"to bump into, to make contact with\".",
@@ -1725,7 +1740,8 @@
       "creator": "jan Sonja",
       "ku_data": "stay\u2075, await\u2075, wait\u2075, preserve\u2075, remain\u2075, sustain\u2075, retain\u2074, defend\u2074, endure\u2074, continued\u2074, continue\u2074, secure\u2074, continuing\u2074, save\u2074, protect\u2074, keep\u2074, still\u00b3, reserve\u00b3, protection\u00b3, remaining\u00b3, continuous\u00b3, stability\u00b3, maintain\u00b3, safe\u00b3, security\u00b3, stable\u00b3, constant\u00b3, protective\u00b3, defence\u00b3, left (remaining)\u00b3, defensive\u00b2, maintenance\u00b2, rescue\u00b2, stand\u00b2, standing\u00b2, steady\u00b2, pause\u00b2, custody\u00b2, safely\u00b2, saving\u00b2, guard\u00b2, reservation\u00b2, suspend\u00b2, hang\u00b2, ongoing\u00b2, hesitate\u00b2, safety\u00b2, delay\u00b2, conservation\u00b2",
       "recognition": {
-        "2022-08": "98"
+        "2022-08": "98",
+        "2023-09": "99"
       },
       "pu_verbatim": {
         "en": "ADJECTIVE enduring, kept, protected, safe, waiting, staying\nPRE-VERB to continue to",
@@ -1792,7 +1808,8 @@
       },
       "creator": "jan Sonja",
       "recognition": {
-        "2022-08": "100"
+        "2022-08": "100",
+        "2023-09": "100"
       },
       "pu_verbatim": {
         "en": "PARTICLE (before the direct object)",
@@ -1861,7 +1878,8 @@
       },
       "creator": "jan Anselo",
       "recognition": {
-        "2022-08": "0"
+        "2022-08": "0",
+        "2023-09": "1"
       },
       "see_also": "natu",
       "commentary": "It is recommended to use \"natu\" instead.",
@@ -1886,6 +1904,31 @@
         "ja": "\u5341\u5b57\u5f62\u3001\u4ea4\u53c9\u3001\u91cd\u306a\u308a\u5408\u3046 [natu \u306e\u5225\u4f53]",
         "cs": "k\u0159\u00ed\u017e, k\u0159i\u017eovatka, p\u0159ekryv [alternativa k natu]",
         "el": "\u03a3\u03c7\u03ae\u03bc\u03b1 \u03c3\u03b1\u03bd \u03a3\u03c4\u03b1\u03c5\u03c1\u03cc, \u03b4\u03b9\u03b1\u03c3\u03c4\u03b1\u03cd\u03c1\u03c9\u03c3\u03ae, \u03b5\u03c0\u03b9\u03ba\u03ac\u03bb\u03c5\u03c8\u03b7 (\u03b4\u03b9\u03b1\u03c6\u03bf\u03c1\u03b5\u03c4\u03b9\u03ba\u03ae \u03bb\u03ad\u03be\u03b7 \u03b3\u03b9\u03b1 \u201cnatu\u201d)"
+      }
+    },
+    "eliki": {
+      "word": "eliki",
+      "audio": {
+        "kala_asi": "https://raw.githubusercontent.com/lipu-linku/ijo/main/kalama/kalaasi2023/eliki.mp3"
+      },
+      "coined_era": "post-ku",
+      "book": "none",
+      "usage_category": "obscure",
+      "source_language": "Tsalagi",
+      "etymology": "ehisdi \u2018pain, distress\u2019",
+      "etymology_data": {
+        "langs": "Tsalagi",
+        "words": "ehisdi",
+        "defs": "pain, distress"
+      },
+      "creator": "kala suno pi kulupu telo mun",
+      "recognition": {
+        "2023-09": "3"
+      },
+      "author_verbatim": "distress, affliction, adversity, pain",
+      "author_verbatim_source": "https://discord.com/channels/301377942062366741/375591429608570881/1072666397626335242",
+      "def": {
+        "en": "distress, affliction, adversity, pain"
       }
     },
     "en": {
@@ -1916,7 +1959,8 @@
       "creator": "jan Sonja",
       "ku_data": "and\u00b3, plus\u00b3",
       "recognition": {
-        "2022-08": "98"
+        "2022-08": "98",
+        "2023-09": "99"
       },
       "tags": "pre-pu ALT",
       "pu_verbatim": {
@@ -1987,7 +2031,8 @@
       "creator": "jan Seli",
       "recognition": {
         "2021-10": "28",
-        "2022-08": "4"
+        "2022-08": "4",
+        "2023-09": "4"
       },
       "see_also": "lon, ma",
       "def": {
@@ -2026,7 +2071,7 @@
       "coined_year": "2019",
       "coined_era": "post-pu",
       "book": "ku suli",
-      "usage_category": "uncommon",
+      "usage_category": "common",
       "source_language": "French",
       "etymology": "\u00e9pique \u2018epic\u2019",
       "etymology_data": {
@@ -2039,7 +2084,8 @@
       "recognition": {
         "2020-04": "29",
         "2021-10": "58",
-        "2022-08": "44"
+        "2022-08": "44",
+        "2023-09": "53"
       },
       "see_also": "pona",
       "def": {
@@ -2106,7 +2152,8 @@
       "ku_data": "trading\u2075, trade\u2075, shopping\u2075, deal\u2074, commerce\u2074, purchase\u2074, sales\u2074, buy\u2074, transaction\u2074, market\u2074, sale\u00b3, exchange\u00b3, sell\u00b3, retail\u00b3, business\u00b3, shop\u00b3, store\u00b2, commercial\u00b2, financial\u00b2, enterprise\u00b2, economy\u00b2, franchise\u00b2",
       "recognition": {
         "2020-04": "97",
-        "2022-08": "96"
+        "2022-08": "96",
+        "2023-09": "98"
       },
       "see_also": "mani",
       "pu_verbatim": {
@@ -2180,7 +2227,8 @@
       "recognition": {
         "2020-04": "17",
         "2021-10": "33",
-        "2022-08": "5"
+        "2022-08": "5",
+        "2023-09": "4"
       },
       "see_also": "suli, sewi",
       "def": {
@@ -2236,7 +2284,8 @@
       "recognition": {
         "2020-04": "11",
         "2021-10": "28",
-        "2022-08": "2"
+        "2022-08": "2",
+        "2023-09": "1"
       },
       "see_also": "kiwen",
       "def": {
@@ -2287,7 +2336,8 @@
       },
       "creator": "jan Sonja",
       "recognition": {
-        "2022-08": "1"
+        "2022-08": "1",
+        "2023-09": "1"
       },
       "see_also": "ona",
       "commentary": "\"i\" was proposed as a replacement for \"iki\" in a poll in 2002. However, \"i\" failed to get enough votes. \"iki\" was instead replaced by \"ona\".",
@@ -2349,7 +2399,8 @@
       "creator": "jan Sonja",
       "ku_data": "thing\u2075, stuff\u2075, item\u2075, something\u2075, object\u2075, entity\u2075, phenomenon\u2074, material\u2074, matter (n)\u2074, substance\u00b3, anything\u00b3, element\u00b2, asset\u00b2, being\u00b2, chemical\u00b2, subject\u00b2, product\u00b2, stock\u00b2, example\u00b2",
       "recognition": {
-        "2022-08": "99"
+        "2022-08": "99",
+        "2023-09": "100"
       },
       "pu_verbatim": {
         "en": "NOUN thing, phenomenon, object, matter",
@@ -2427,7 +2478,8 @@
       "creator": "jan Sonja",
       "ku_data": "bad\u2075, harsh\u2075, badly\u2075, mean (adj)\u2074, evil\u2074, negative\u2074, problem\u2074, horrible\u2074, terrible\u2074, unfortunate\u00b3, poorly\u00b3, offensive\u00b3, awful\u00b3, trouble\u00b3, tragic\u00b3, cruel\u00b3, wrong\u00b3, inappropriate\u00b3, issue\u00b3, complexity\u00b3, unfair\u00b2, awkward\u00b2, complicated\u00b2, vice\u00b2, hostile\u00b2, difficulty\u00b2, nasty\u00b2, corruption\u00b2, corrupt\u00b2, hard (difficult)\u00b2, harm\u00b2, complex\u00b2, danger\u00b2, cursed\u00b2, challenging\u00b2, toxic\u00b2, chaos\u00b2, difficult\u00b2, disorder\u00b2",
       "recognition": {
-        "2022-08": "100"
+        "2022-08": "100",
+        "2023-09": "100"
       },
       "tags": "pre-pu ALT",
       "pu_verbatim": {
@@ -2498,7 +2550,8 @@
       "recognition": {
         "2020-04": "15",
         "2021-10": "21",
-        "2022-08": "1"
+        "2022-08": "1",
+        "2023-09": "1"
       },
       "see_also": "ona",
       "commentary": "In a poll in 2002, \"iki\" was deemed too similar to \"ike\" and replaced by \"ona\".",
@@ -2560,7 +2613,8 @@
       "creator": "jan Sonja",
       "ku_data": "tool\u2075, device\u2075, equipment\u2075, machine\u2075, app\u2074, hardware\u2074, robot\u00b3, technological\u00b3, mechanical\u00b3, gear\u00b3, tech\u00b3, mechanism\u00b3, technical\u00b3, software\u00b3, utility\u00b2, instrument\u00b2, application\u00b2, technology\u00b2, computer\u00b2",
       "recognition": {
-        "2022-08": "100"
+        "2022-08": "100",
+        "2023-09": "100"
       },
       "pu_verbatim": {
         "en": "NOUN tool, implement, machine, device",
@@ -2637,7 +2691,8 @@
       "creator": "jan Sonja",
       "ku_data": "internal\u2075, inner\u2075, interior\u2075, centre\u2075, guts\u2074, core\u2074, central\u00b3, inside\u00b3, middle\u00b3, belly\u00b3, stomach\u00b3, internal organ\u00b2, within\u00b2, insert\u00b2, content\u00b2, amid\u00b2, between\u00b2",
       "recognition": {
-        "2022-08": "99"
+        "2022-08": "99",
+        "2023-09": "100"
       },
       "pu_verbatim": {
         "en": "NOUN centre, content, inside, between; internal organ, stomach",
@@ -2706,7 +2761,8 @@
       "recognition": {
         "2020-04": "13",
         "2021-10": "19",
-        "2022-08": "1"
+        "2022-08": "1",
+        "2023-09": "1"
       },
       "see_also": "ona",
       "commentary": "\"ipi\" was proposed as a replacement for \"iki\" in a poll in 2002. However, \"ipi\" failed to get enough votes. \"iki\" was instead replaced by \"ona\".",
@@ -2765,7 +2821,8 @@
       "ku_data": "think\u00b2, consciousness\u00b9, imagination\u00b9, theory\u00b9",
       "recognition": {
         "2021-10": "43",
-        "2022-08": "14"
+        "2022-08": "14",
+        "2023-09": "19"
       },
       "see_also": "pilin, toki, insa",
       "def": {
@@ -2823,7 +2880,8 @@
       "recognition": {
         "2020-04": "17",
         "2021-10": "19",
-        "2022-08": "1"
+        "2022-08": "1",
+        "2023-09": "1"
       },
       "commentary": "Coined in reference to the song \u2018Mia Khalifa\u2019 by iLOVEFRiDay, where \"hit or miss\" was a prominent lyric. Sources disagree on who coined the word.",
       "def": {
@@ -2881,7 +2939,8 @@
       "creator": "jan Sonja",
       "ku_data": "dirty\u2075, trash\u2075, gross\u2075, garbage\u2075, mess\u2075, disgusting\u2074, junk\u2074, bacteria\u2074, nasty\u2074, crap\u00b3, toxic\u00b3, waste\u00b3, infection\u00b3, disease\u00b2, shit\u00b2, virus\u00b2, pollution\u00b2, bullshit\u00b2, illness\u00b9",
       "recognition": {
-        "2022-08": "99"
+        "2022-08": "99",
+        "2023-09": "99"
       },
       "pu_verbatim": {
         "en": "ADJECTIVE disgusting, obscene, sickly, toxic, unclean, unsanitary",
@@ -2952,7 +3011,8 @@
       "recognition": {
         "2020-04": "14",
         "2021-10": "18",
-        "2022-08": "1"
+        "2022-08": "1",
+        "2023-09": "1"
       },
       "see_also": "mute",
       "def": {
@@ -3006,7 +3066,8 @@
       "recognition": {
         "2020-04": "13",
         "2021-10": "20",
-        "2022-08": "1"
+        "2022-08": "1",
+        "2023-09": "1"
       },
       "see_also": "noka",
       "commentary": "In a poll in 2002, \"jalan\" was proposed as a replacement for \"noka\". However, \"jalan\" failed to get enough votes.",
@@ -3058,7 +3119,8 @@
       "creator": "unknown",
       "recognition": {
         "2021-10": "29",
-        "2022-08": "5"
+        "2022-08": "5",
+        "2023-09": "6"
       },
       "see_also": "suwi",
       "author_verbatim": "also tp needs a specific interjection (i.e. not a or kin) for \"yum\"",
@@ -3120,7 +3182,8 @@
       "creator": "jan Sonja",
       "ku_data": "person\u2075, human\u2075, people\u2075, anybody\u2074, dude\u2074, anyone\u00b3, character\u00b3, somebody\u00b3, guy\u00b3, being\u00b3, individual\u00b2, civilian\u00b2, whoever\u00b2, citizen\u00b2, participant\u00b2, Hominidae\u00b2, personal\u00b2",
       "recognition": {
-        "2022-08": "99"
+        "2022-08": "99",
+        "2023-09": "100"
       },
       "pu_verbatim": {
         "en": "NOUN human being, person, somebody",
@@ -3191,7 +3254,8 @@
       "creator": "unknown",
       "recognition": {
         "2020-04": "13",
-        "2022-08": "1"
+        "2022-08": "1",
+        "2023-09": "1"
       },
       "see_also": "jan",
       "def": {
@@ -3241,7 +3305,8 @@
       "recognition": {
         "2020-04": "22",
         "2021-10": "71",
-        "2022-08": "47"
+        "2022-08": "47",
+        "2023-09": "43"
       },
       "def": {
         "en": "reflect, resound, mirror, be on the opposite/polar end of",
@@ -3296,7 +3361,8 @@
       "creator": "unknown",
       "recognition": {
         "2021-10": "20",
-        "2022-08": "1"
+        "2022-08": "1",
+        "2023-09": "3"
       },
       "see_also": "a, wa",
       "def": {
@@ -3349,7 +3415,8 @@
       "creator": "jan Sonja",
       "ku_data": "yellow\u2075, golden\u00b2",
       "recognition": {
-        "2022-08": "98"
+        "2022-08": "98",
+        "2023-09": "100"
       },
       "pu_verbatim": {
         "en": "ADJECTIVE yellow, yellowish",
@@ -3430,7 +3497,8 @@
       "creator": "jan Sonja",
       "ku_data": "have\u2075, possess\u2075, carry\u2075, contain\u2074, own\u2074, hold\u2074, possession\u2074, ownership\u2074, include\u00b3, consist\u00b3, comprise\u00b3, grasp\u00b2, equip\u00b2, bring\u00b2, grip\u00b2",
       "recognition": {
-        "2022-08": "98"
+        "2022-08": "98",
+        "2023-09": "99"
       },
       "see_also": "lon, poki, lanpan",
       "pu_verbatim": {
@@ -3498,7 +3566,8 @@
       },
       "creator": "cyanidesDuality",
       "recognition": {
-        "2022-08": "3"
+        "2022-08": "3",
+        "2023-09": "5"
       },
       "see_also": "mu, nja",
       "author_verbatim": "hj\u00f6nk \ud83e\udda2",
@@ -3545,7 +3614,8 @@
       "creator": "jan Sonja",
       "recognition": {
         "2021-10": "28",
-        "2022-08": "1"
+        "2022-08": "1",
+        "2023-09": "1"
       },
       "see_also": "pu, ku",
       "def": {
@@ -3595,7 +3665,8 @@
       },
       "creator": "pilin Powa",
       "recognition": {
-        "2022-08": "1"
+        "2022-08": "1",
+        "2023-09": "4"
       },
       "see_also": "tawa, poka",
       "def": {
@@ -3636,7 +3707,8 @@
       "creator": "jan Seli",
       "recognition": {
         "2021-10": "17",
-        "2022-08": "1"
+        "2022-08": "1",
+        "2023-09": "3"
       },
       "see_also": "oni, sitelen, lape, insa, powe",
       "author_verbatim": "isipin is kinda dumb so here's a better nimisin: jume, dream",
@@ -3695,7 +3767,8 @@
       "creator": "jan Sonja",
       "ku_data": "fish\u2075, sea creature\u2075, salmon\u2074",
       "recognition": {
-        "2022-08": "99"
+        "2022-08": "99",
+        "2023-09": "99"
       },
       "pu_verbatim": {
         "en": "NOUN fish, marine animal, sea creature",
@@ -3772,7 +3845,8 @@
       "creator": "jan Sonja",
       "ku_data": "sound\u2075, noise\u2074, tone\u00b3, bang\u00b2",
       "recognition": {
-        "2022-08": "99"
+        "2022-08": "99",
+        "2023-09": "100"
       },
       "pu_verbatim": {
         "en": "VERB to produce a sound; recite, utter aloud",
@@ -3838,7 +3912,8 @@
       "creator": "(unknown ku surveyee)",
       "recognition": {
         "2020-04": "13",
-        "2022-08": "4"
+        "2022-08": "4",
+        "2023-09": "4"
       },
       "see_also": "kalama",
       "def": {
@@ -3886,7 +3961,8 @@
       },
       "creator": "jan Likipi",
       "recognition": {
-        "2022-08": "1"
+        "2022-08": "1",
+        "2023-09": "2"
       },
       "see_also": "kijetesantakalu",
       "author_verbatim": "member of the order Caryophyllales, including all cacti as well as carnations, beets, and many carnivorous plants",
@@ -3932,7 +4008,8 @@
       "creator": "jan Sonja",
       "ku_data": "coming\u2075, come\u2075, arrival\u2075, arrive\u2075, become\u2074, upcoming\u2074, emerging\u2074, emerge\u2074, happen\u2074, occur\u00b3, next\u00b2, developmental\u00b2, arise\u00b2, visit\u00b2, induce\u00b2, trigger\u00b2, phenomenon\u00b2, event\u00b2",
       "recognition": {
-        "2022-08": "99"
+        "2022-08": "99",
+        "2023-09": "100"
       },
       "pu_verbatim": {
         "en": "ADJECTIVE arriving, coming, future, summoned\nPRE-VERB to become, manage to, succeed in",
@@ -3988,7 +4065,7 @@
       "coined_year": "2018",
       "coined_era": "post-pu",
       "book": "ku lili",
-      "usage_category": "obscure",
+      "usage_category": "rare",
       "source_language": "toki pona",
       "etymology": "kama pi lawa ala",
       "etymology_data": {
@@ -4001,7 +4078,8 @@
       "recognition": {
         "2020-04": "21",
         "2021-10": "29",
-        "2022-08": "8"
+        "2022-08": "8",
+        "2023-09": "10"
       },
       "commentary": "The word is from a story called \"jan pi Kamalawala\". A character's name is described as \"nimi Jan pi Kama e Lawa Ala\", and a shortened version given as \"nimi Kamalawala\". jan Kipo is responsible for it becoming a word instead of just a name.",
       "def": {
@@ -4058,7 +4136,8 @@
       "recognition": {
         "2020-04": "22",
         "2021-10": "34",
-        "2022-08": "7"
+        "2022-08": "7",
+        "2023-09": "4"
       },
       "see_also": "kepeken, poka, en",
       "def": {
@@ -4111,7 +4190,8 @@
       "recognition": {
         "2020-04": "13",
         "2021-10": "20",
-        "2022-08": "2"
+        "2022-08": "2",
+        "2023-09": "1"
       },
       "see_also": "nena",
       "def": {
@@ -4165,7 +4245,8 @@
       "recognition": {
         "2020-04": "29",
         "2021-10": "45",
-        "2022-08": "14"
+        "2022-08": "14",
+        "2023-09": "19"
       },
       "see_also": "pimeja",
       "def": {
@@ -4231,7 +4312,8 @@
       "creator": "jan Sonja",
       "ku_data": "plant\u2075, bush\u2074, herb\u00b2, tree\u00b2",
       "recognition": {
-        "2022-08": "99"
+        "2022-08": "99",
+        "2023-09": "100"
       },
       "pu_verbatim": {
         "en": "NOUN plant, vegetation; herb, leaf",
@@ -4299,7 +4381,8 @@
       "recognition": {
         "2020-04": "18",
         "2021-10": "23",
-        "2022-08": "4"
+        "2022-08": "4",
+        "2023-09": "2"
       },
       "see_also": "oke, n",
       "def": {
@@ -4361,7 +4444,8 @@
       "creator": "jan Sonja",
       "ku_data": "able\u2075, potential\u2075, ability\u2075, capability\u2075, capable\u2075, may\u2075, possible\u2075, could\u2075, eligible\u2074, can\u2074, possibility\u2074, permission\u2074, likelihood\u00b3, chance\u00b3, probability\u00b3, available\u00b3, opportunity\u00b3, maybe\u00b3, possibly\u00b3, odds\u00b3, patentially\u00b2, perhaps\u00b2, liberty\u00b2, might\u00b2, option\u00b2, viable\u00b2, enable\u00b2, privilege\u00b2, allow\u00b2, likely\u00b2, prospect\u00b2, freedom\u00b2",
       "recognition": {
-        "2022-08": "99"
+        "2022-08": "99",
+        "2023-09": "100"
       },
       "pu_verbatim": {
         "en": "PRE-VERB to be able to, be allowed to, can, may\nADJECTIVE possible",
@@ -4434,7 +4518,8 @@
       "creator": "jan Sonja",
       "ku_data": "use\u2075, utilize\u2074, via\u00b3, employ\u00b3, used\u00b2, operate\u00b2, interact\u00b2, equip\u00b2",
       "recognition": {
-        "2022-08": "99"
+        "2022-08": "99",
+        "2023-09": "100"
       },
       "pu_verbatim": {
         "en": "PREPOSITION to use, with, by means of",
@@ -4497,7 +4582,8 @@
         "defs": "kepeken"
       },
       "recognition": {
-        "2022-08": "1"
+        "2022-08": "1",
+        "2023-09": "3"
       },
       "see_also": "kepeken",
       "commentary": "coined as a shortened kepeken by jan Tomen in 2017, but really started being used in 2020",
@@ -4541,7 +4627,8 @@
       "ku_data": "LGBTQ+\u2070",
       "recognition": {
         "2021-10": "25",
-        "2022-08": "4"
+        "2022-08": "4",
+        "2023-09": "2"
       },
       "see_also": "kule, tonsi",
       "author_verbatim": "basically a wider version of tonsi, if you're not already using tonsi to mean LGBT+ in general",
@@ -4595,7 +4682,8 @@
       "creator": "akesi kon Nalasuni, jan Atenaja",
       "recognition": {
         "2021-10": "23",
-        "2022-08": "2"
+        "2022-08": "2",
+        "2023-09": "2"
       },
       "def": {
         "en": "(relative clause marker)",
@@ -4655,7 +4743,8 @@
       "recognition": {
         "2020-04": "62",
         "2021-10": "71",
-        "2022-08": "73"
+        "2022-08": "73",
+        "2023-09": "75"
       },
       "commentary": "Coined as an April Fools joke in 2009.",
       "def": {
@@ -4715,7 +4804,8 @@
       "ku_data": "spiky\u00b2, sharp\u00b9, angle\u2070, point\u2070",
       "recognition": {
         "2021-10": "41",
-        "2022-08": "21"
+        "2022-08": "21",
+        "2023-09": "29"
       },
       "see_also": "kipisi",
       "commentary": "The word is loaned from the 2001 Vilanyur S Ramachandran & Edward Hubbard version of Wolfgang K\u00f6hler's 1912 psycholinguistic experiment. The experiment studied sound symbolism on the words \"bouba\" and \"kiki\".",
@@ -4782,7 +4872,8 @@
       "creator": "jan Sonja",
       "ku_data": "fruit\u2075, vegetable\u2075, apple\u2075, kumquat\u00b3, fungus\u00b2, nut\u00b2, bean\u00b2, onion\u00b2, tomato\u00b2",
       "recognition": {
-        "2022-08": "99"
+        "2022-08": "99",
+        "2023-09": "99"
       },
       "see_also": "soko",
       "pu_verbatim": {
@@ -4858,7 +4949,8 @@
       "recognition": {
         "2020-04": "91",
         "2021-10": "97",
-        "2022-08": "89"
+        "2022-08": "89",
+        "2023-09": "83"
       },
       "see_also": "a",
       "tags": "pre-pu ALT",
@@ -4922,7 +5014,7 @@
       "coined_year": "2009",
       "coined_era": "pre-pu",
       "book": "ku suli",
-      "usage_category": "widespread",
+      "usage_category": "common",
       "source_language": "Inuktitut",
       "etymology": "kipisi- \u2018to cut (intrans.)\u2019",
       "etymology_data": {
@@ -4935,7 +5027,8 @@
       "recognition": {
         "2020-04": "68",
         "2021-10": "87",
-        "2022-08": "73"
+        "2022-08": "73",
+        "2023-09": "67"
       },
       "see_also": "tu, wan, pakala, mute",
       "def": {
@@ -4994,7 +5087,8 @@
       "creator": "kala Asi",
       "recognition": {
         "2021-10": "24",
-        "2022-08": "1"
+        "2022-08": "1",
+        "2023-09": "4"
       },
       "see_also": "soweli",
       "author_verbatim": "cat",
@@ -5057,7 +5151,8 @@
       "creator": "jan Sonja",
       "ku_data": "solid\u2075, rock\u2075, stone\u2075, hard object\u2074, concrete\u00b3, metal\u00b3, steel\u00b3, iron\u00b3, firm\u00b3, stiff\u00b3, silver\u00b2, plastic\u00b2",
       "recognition": {
-        "2022-08": "99"
+        "2022-08": "99",
+        "2023-09": "99"
       },
       "pu_verbatim": {
         "en": "NOUN hard object, metal, rock, stone",
@@ -5131,7 +5226,8 @@
       "creator": "jan Sonja",
       "ku_data": "goo\u2075, semisolid\u2075, paste\u2074, powder\u2074, clay\u00b3, sand\u00b2, dust\u00b2, substance\u00b2, cream\u00b2, dough\u00b2, mud\u00b2",
       "recognition": {
-        "2022-08": "98"
+        "2022-08": "98",
+        "2023-09": "99"
       },
       "pu_verbatim": {
         "en": "NOUN clay, clinging form, dough, semi-solid, paste, powder",
@@ -5200,7 +5296,8 @@
       "ku_data": "speak another language in a Toki Pona only environment\u00b3",
       "recognition": {
         "2021-10": "54",
-        "2022-08": "25"
+        "2022-08": "25",
+        "2023-09": "31"
       },
       "commentary": "In Esperanto, \"krokodili\" means to speak among Esperantists in a language besides Esperanto, and is an established bit of Esperanto culture.",
       "def": {
@@ -5266,7 +5363,8 @@
       "creator": "jan Sonja",
       "ku_data": "soul\u2075, air\u2075, spirit\u2075, gas\u2075, essence\u2074, atmosphere\u2074, oxygen\u00b3, breathe\u00b3, breath\u00b3, meaning\u00b3, intangible\u00b3, breathing\u00b3, invisible entity\u00b3, definition\u00b2, abstract\u00b2, breeze\u00b2, smell\u00b2",
       "recognition": {
-        "2022-08": "99"
+        "2022-08": "99",
+        "2023-09": "99"
       },
       "pu_verbatim": {
         "en": "NOUN air, breath; essence, spirit, hidden reality, unseen agent",
@@ -5328,7 +5426,8 @@
         "defs": "announcement, notice"
       },
       "recognition": {
-        "2022-08": "0"
+        "2022-08": "0",
+        "2023-09": "1"
       },
       "commentary": "Virtually unknown outside the Korean toki pona community. Apparently used humorously.",
       "def": {
@@ -5373,7 +5472,8 @@
       "creator": "jan Emalan",
       "recognition": {
         "2021-10": "25",
-        "2022-08": "6"
+        "2022-08": "6",
+        "2023-09": "7"
       },
       "see_also": "ma, tenpo",
       "commentary": "Conway refers to John Horton Conway, creator of the cellular automaton Game of Life.\nkonwe's intended meaning extends beyond just \"living\" and \"life.\" It can be used to describe rocks or rivers or other nonliving things",
@@ -5419,7 +5519,8 @@
       },
       "creator": "jan Seni, jan inwin",
       "recognition": {
-        "2022-08": "1"
+        "2022-08": "1",
+        "2023-09": "2"
       },
       "see_also": "awen",
       "def": {
@@ -5463,7 +5564,8 @@
       "creator": "jan Sonja",
       "recognition": {
         "2021-10": "85",
-        "2022-08": "80"
+        "2022-08": "80",
+        "2023-09": "70"
       },
       "see_also": "pu",
       "commentary": "For ways to buy a copy of the book, visit the official Toki Pona website.",
@@ -5530,7 +5632,8 @@
       "creator": "jan Sonja",
       "ku_data": "colour\u2075, diverse\u00b2, LGBTQ+\u00b2, paint\u00b2, lesbian\u00b2, gay\u00b2, spectrum\u00b2",
       "recognition": {
-        "2022-08": "99"
+        "2022-08": "99",
+        "2023-09": "99"
       },
       "pu_verbatim": {
         "en": "ADJECTIVE colourful, pigmented, painted",
@@ -5597,7 +5700,8 @@
       "creator": "jan pakala, kala pona Tonyu",
       "recognition": {
         "2021-10": "28",
-        "2022-08": "6"
+        "2022-08": "6",
+        "2023-09": "7"
       },
       "see_also": "oke",
       "def": {
@@ -5650,7 +5754,8 @@
       "recognition": {
         "2020-04": "14",
         "2021-10": "19",
-        "2022-08": "1"
+        "2022-08": "1",
+        "2023-09": "2"
       },
       "see_also": "kulupu",
       "def": {
@@ -5708,7 +5813,8 @@
       "creator": "jan Sonja",
       "ku_data": "group\u2075, organization\u2075, community\u2075, collective\u2075, tribe\u2075, squad\u2074, tribal\u2074, bunch\u2074, cluster\u2074, league\u2074, collection\u2074, society\u2074, association\u2074, crew\u2074, team\u00b3, club\u00b3, coalition\u00b3, set\u00b3, socially\u00b3, gathering\u00b3, category\u00b3, institution\u00b3, gang\u00b3, assembly\u00b3, meeting\u00b3, pile\u00b3, network\u00b3, crowd\u00b3, ethnic\u00b2, bureau\u00b2, partnership\u00b2, social\u00b2, class\u00b2, array\u00b2, stack\u00b2, committee\u00b2, public\u00b2, affiliation\u00b2, combination\u00b2, sequence\u00b2, pack\u00b2, establishment\u00b2, conference\u00b2, franchise\u00b2, demographic\u00b2, company\u00b2, rally\u00b2",
       "recognition": {
-        "2022-08": "99"
+        "2022-08": "99",
+        "2023-09": "100"
       },
       "pu_verbatim": {
         "en": "NOUN community, company, group, nation, society, tribe",
@@ -5776,7 +5882,8 @@
       "recognition": {
         "2020-04": "21",
         "2021-10": "31",
-        "2022-08": "7"
+        "2022-08": "7",
+        "2023-09": "3"
       },
       "def": {
         "en": "laughter, chuckle, laugh, comedy, humor",
@@ -5837,7 +5944,8 @@
       "creator": "jan Sonja",
       "ku_data": "hear\u2075, listen\u2075, ear\u2075, hearing\u2075",
       "recognition": {
-        "2022-08": "99"
+        "2022-08": "99",
+        "2023-09": "100"
       },
       "pu_verbatim": {
         "en": "NOUN ear\nVERB to hear, listen; pay attention to, obey",
@@ -5901,7 +6009,8 @@
         "defs": "(initialism)"
       },
       "recognition": {
-        "2022-08": "0"
+        "2022-08": "0",
+        "2023-09": "0"
       },
       "commentary": "Virtually unknown outside the Korean toki pona community.",
       "def": {
@@ -5953,7 +6062,8 @@
       "creator": "jan Sonja",
       "ku_data": "if\u2075, while\u00b3, depending\u00b3, regarding\u00b2, than\u00b2",
       "recognition": {
-        "2022-08": "100"
+        "2022-08": "100",
+        "2023-09": "100"
       },
       "pu_verbatim": {
         "en": "PARTICLE (between the context phrase and the main sentence)",
@@ -6024,7 +6134,8 @@
       "recognition": {
         "2020-04": "28",
         "2021-10": "71",
-        "2022-08": "52"
+        "2022-08": "52",
+        "2023-09": "58"
       },
       "see_also": "jo, alasa",
       "def": {
@@ -6090,7 +6201,8 @@
       "creator": "jan Sonja",
       "ku_data": "sleep\u2075, asleep\u2074, rest\u00b3, lay\u00b2, lie (be in flat position)\u00b2",
       "recognition": {
-        "2022-08": "100"
+        "2022-08": "100",
+        "2023-09": "100"
       },
       "pu_verbatim": {
         "en": "ADJECTIVE sleeping, resting",
@@ -6164,7 +6276,8 @@
       "creator": "jan Sonja",
       "ku_data": "blue\u2075, teal\u2074, green\u00b3",
       "recognition": {
-        "2022-08": "98"
+        "2022-08": "98",
+        "2023-09": "99"
       },
       "pu_verbatim": {
         "en": "ADJECTIVE blue, green",
@@ -6240,7 +6353,8 @@
       "creator": "jan Sonja",
       "ku_data": "govern\u2075, head\u2075, authority\u2074, control\u2074, ruling\u2074, regulatory\u2074, leading\u2074, manage\u2074, administrative\u2074, leadership\u2074, rule\u00b3, law\u00b3, lead\u00b3, management\u00b3, legal\u00b3, enforce\u00b3, oversee\u00b3, judicial\u00b3, mind\u00b3, conduct\u00b3, official\u00b3, regulate\u00b3, brain\u00b3, policy\u00b3, administer\u00b3, regulation\u00b2, executive\u00b2, cognitive\u00b2, guide\u00b2, drive\u00b2, mandate\u00b2, ownership\u00b2, administration\u00b2, government\u00b2, command\u00b2, dominate\u00b2, psychological\u00b2, institutional\u00b2, legislation\u00b2, jurisdiction\u00b2, main\u00b2, regime\u00b2",
       "recognition": {
-        "2022-08": "99"
+        "2022-08": "99",
+        "2023-09": "99"
       },
       "pu_verbatim": {
         "en": "NOUN head, mind VERB to control, direct, guide, lead, own, plan, regulate, rule",
@@ -6314,7 +6428,8 @@
       "recognition": {
         "2020-04": "52",
         "2021-10": "82",
-        "2022-08": "72"
+        "2022-08": "72",
+        "2023-09": "70"
       },
       "see_also": "sike",
       "def": {
@@ -6380,7 +6495,8 @@
       "creator": "jan Sonja",
       "ku_data": "clothing\u2075, cloth\u2075, clothes\u2075, fabric\u2075, outfit\u2074, privacy\u2074, cover\u2074, dress\u00b3, jacket\u00b3, wear\u00b3, shirt\u00b3, t-shirt\u00b2, hide\u00b2, blanket\u00b2, cotton\u00b2, private\u00b2, wrap\u00b2, costume\u00b2, silk\u00b2, suit (n)\u00b2, hidden\u00b2, underwear\u00b2, canvas\u00b2, coverage\u00b2, flag\u00b2",
       "recognition": {
-        "2022-08": "99"
+        "2022-08": "99",
+        "2023-09": "99"
       },
       "pu_verbatim": {
         "en": "NOUN cloth, clothing, fabric, textile; cover, layer of privacy",
@@ -6452,7 +6568,8 @@
       "creator": "jan Sonja",
       "ku_data": "cold\u2075, raw\u00b3, frozen\u00b3, freeze\u00b2, cool\u00b2",
       "recognition": {
-        "2022-08": "98"
+        "2022-08": "98",
+        "2023-09": "99"
       },
       "see_also": "seli",
       "pu_verbatim": {
@@ -6520,7 +6637,8 @@
       },
       "creator": "jan Sonja",
       "recognition": {
-        "2022-08": "100"
+        "2022-08": "100",
+        "2023-09": "100"
       },
       "see_also": "o",
       "pu_verbatim": {
@@ -6583,7 +6701,8 @@
         "defs": "Exactly!', lit. 'real LOL'"
       },
       "recognition": {
-        "2022-08": "0"
+        "2022-08": "0",
+        "2023-09": "0"
       },
       "commentary": "Virtually unknown outside the Korean toki pona community.",
       "def": {
@@ -6630,7 +6749,8 @@
       "recognition": {
         "2020-04": "13",
         "2021-10": "25",
-        "2022-08": "3"
+        "2022-08": "3",
+        "2023-09": "4"
       },
       "see_also": "kulupu, alasa",
       "tags": "nimi nanpa",
@@ -6691,7 +6811,8 @@
       "creator": "jan Sonja",
       "ku_data": "small\u2075, little\u2075, slight\u2075, short\u2075, reduce\u2075, junior\u2075, slightly\u2074, minimize\u2074, narrow\u2074, bit\u2074, minor\u2074, partly\u2074, reduction\u2074, brief\u2074, young\u2074, fewer\u00b3, less\u00b3, diminish\u00b3, tiny\u00b3, barely\u00b3, decrease\u00b3, minimal\u00b3, partially\u00b3, somewhat\u00b3, thin\u00b3, inch\u00b3, shallow\u00b3, subtle\u00b3, lightly\u00b3, kinda\u00b3, hardly\u00b2, partial\u00b2, tight\u00b2, particle\u00b2, mere\u00b2, mild\u00b2, ounce\u00b2, quarter\u00b2, gram\u00b2, shortage\u00b2",
       "recognition": {
-        "2022-08": "100"
+        "2022-08": "100",
+        "2023-09": "100"
       },
       "pu_verbatim": {
         "en": "ADJECTIVE little, small, short; few; a bit; young",
@@ -6764,7 +6885,8 @@
       "creator": "jan Sonja",
       "ku_data": "line\u2075, string\u2075, cord\u2075, rope\u2075, thread\u2074, fibre\u00b3, cable\u00b3, link\u00b3, connection\u00b2, ray\u00b2, streak\u00b2, row\u00b2, wire\u00b2, hair\u00b2, sequence\u00b2, chain\u00b2, connect\u00b2, straight\u00b2",
       "recognition": {
-        "2022-08": "99"
+        "2022-08": "99",
+        "2023-09": "99"
       },
       "tags": "pre-pu ALT",
       "pu_verbatim": {
@@ -6833,7 +6955,8 @@
       "recognition": {
         "2020-04": "31",
         "2021-10": "55",
-        "2022-08": "29"
+        "2022-08": "29",
+        "2023-09": "34"
       },
       "see_also": "len, ilo",
       "def": {
@@ -6897,7 +7020,8 @@
       "creator": "jan Sonja",
       "ku_data": "paper\u2075, book\u2075, ticket\u2075, document\u2075, article\u2075, card\u2075, page\u2075, magazine\u2074, sheet\u2074, file\u2074, website\u00b3, essay\u00b3, novel\u00b3, letter (in mail)\u00b3, sign\u00b3, publication\u00b3, doc\u00b2, certificate\u00b2, literature\u00b2, journal\u00b2, flat\u00b2, blog\u00b2, list\u00b2, pad\u00b2, poster\u00b2, newspaper\u00b2, form\u00b2, tag\u00b2",
       "recognition": {
-        "2022-08": "99"
+        "2022-08": "99",
+        "2023-09": "100"
       },
       "pu_verbatim": {
         "en": "NOUN flat object; book, document, card, paper, record, website",
@@ -6962,7 +7086,8 @@
       "creator": "Theepicosity, akesi kon Nalasuni",
       "recognition": {
         "2021-10": "20",
-        "2022-08": "0"
+        "2022-08": "0",
+        "2023-09": "1"
       },
       "commentary": "Previously known as lu. Most of those interested in the word have agreed to change it to lo, to avoid interfering with the reserved word.",
       "def": {
@@ -7015,7 +7140,8 @@
       "creator": "jan Sonja",
       "ku_data": "red\u2075",
       "recognition": {
-        "2022-08": "98"
+        "2022-08": "98",
+        "2023-09": "99"
       },
       "pu_verbatim": {
         "en": "ADJECTIVE red, reddish",
@@ -7083,7 +7209,8 @@
       "ku_data": "limb\u00b9",
       "recognition": {
         "2021-10": "22",
-        "2022-08": "2"
+        "2022-08": "2",
+        "2023-09": "1"
       },
       "see_also": "luka, noka",
       "commentary": "Coined in response to jan Sonja's survey, as a portmanteau, presumably as a joke.",
@@ -7136,7 +7263,8 @@
       "recognition": {
         "2020-04": "15",
         "2021-10": "20",
-        "2022-08": "0"
+        "2022-08": "0",
+        "2023-09": "1"
       },
       "see_also": "lukin, oko",
       "author_verbatim": "what about a compromise?",
@@ -7198,7 +7326,8 @@
       "creator": "jan Sonja",
       "ku_data": "at\u2075, existing\u2075, real\u2075, exist\u2075, located\u2075, presence\u2075, yep\u2075, existence\u2075, actual\u2075, on\u2075, true\u2075, living\u2074, yes\u2074, truth\u2074, reality\u2074, physical\u2074, yeah\u2074, genuine\u00b3, upon\u00b3, truly\u00b3, in\u00b3, alive\u00b3, position\u00b3, accurate\u00b3, exactly\u00b3, occupy\u00b3, live\u00b3, attendance\u00b3, certainly\u00b3, attend\u00b3, indeed\u00b3, right (not wrong)\u00b3, life\u00b2, definitely\u00b2, legitimate\u00b2, honestly\u00b2, onto\u00b2, location\u00b2, correct\u00b2, validity\u00b2, correctly\u00b2, occur\u00b2, precisely\u00b2, certain\u00b2, status\u00b2, physically\u00b2, placement\u00b2, sure\u00b2, mm-hmm\u00b2, fact\u00b2, amid\u00b2, availability\u00b2, frankly\u00b2, of course\u00b2, regarding\u00b2",
       "recognition": {
-        "2022-08": "100"
+        "2022-08": "100",
+        "2023-09": "100"
       },
       "tags": "pre-pu ALT",
       "pu_verbatim": {
@@ -7261,7 +7390,8 @@
       "creator": "jan Sonja",
       "recognition": {
         "2021-10": "29",
-        "2022-08": "1"
+        "2022-08": "1",
+        "2023-09": "1"
       },
       "see_also": "pu, ku",
       "def": {
@@ -7320,7 +7450,8 @@
       "creator": "jan Sonja",
       "ku_data": "hand\u2075, arm\u2074, five\u2074, wrist\u00b3, touch\u00b2, palm\u00b2, handful\u00b2, gesture\u00b2, tap\u00b2, reach\u00b2, elbow\u00b2",
       "recognition": {
-        "2022-08": "99"
+        "2022-08": "99",
+        "2023-09": "100"
       },
       "tags": "pre-pu ALT",
       "pu_verbatim": {
@@ -7395,7 +7526,8 @@
       "ku_data": "see\u2075, observe\u2075, look at\u2075, sight\u2075, gaze\u2075, observation\u2075, check\u2074, view\u2074, scan\u2074, watch\u2074, visual\u2074, examine\u00b3, inspection\u00b3, vision\u00b3, notice\u00b3, surveillance\u00b3, attention\u00b3, appearance\u00b3, examination\u00b3, detect\u00b3, assess\u00b2, stare\u00b2, perception\u00b2, perceive\u00b2, try\u00b2, glance\u00b2, impression\u00b2, reading\u00b2, regard (v)\u00b2, apparent\u00b2, visible\u00b2, read\u00b2, seek\u00b2, eye\u00b2, investigation\u00b2, monitor\u00b2, encounter\u00b2",
       "recognition": {
         "2020-04": "99",
-        "2022-08": "98"
+        "2022-08": "98",
+        "2023-09": "99"
       },
       "see_also": "oko, alasa",
       "pu_verbatim": {
@@ -7471,7 +7603,8 @@
       "creator": "jan Sonja",
       "ku_data": "hole\u2075, door\u2075, orifice\u2074, pit\u2074, window\u00b3, gate\u00b3, entrance\u00b2, opening\u00b2, gap\u00b2, dig\u00b2",
       "recognition": {
-        "2022-08": "98"
+        "2022-08": "98",
+        "2023-09": "99"
       },
       "pu_verbatim": {
         "en": "NOUN door, hole, orifice, window",
@@ -7544,7 +7677,8 @@
       "creator": "jan Sonja",
       "ku_data": "territory\u2075, country\u2075, land\u2075, realm\u2075, area\u2075, field\u2074, region\u2074, place\u2074, soil\u2074, earth\u2074, province\u2074, zone\u2074, ground\u2074, nation\u2074, environmental\u00b3, environment\u00b3, site\u00b3, location\u00b3, domain\u00b3, world\u00b3, national\u00b3, nature\u00b3, setting\u00b2, landscape\u00b2, continent\u00b2, outdoors\u00b2, habitat\u00b2, dirt\u00b2, sector\u00b2, yard\u00b2, kingdom\u00b2, venue\u00b2, outside\u00b2, acre\u00b2",
       "recognition": {
-        "2022-08": "100"
+        "2022-08": "100",
+        "2023-09": "100"
       },
       "pu_verbatim": {
         "en": "NOUN earth, land; outdoors, world; country, territory; soil",
@@ -7614,7 +7748,8 @@
       "recognition": {
         "2020-04": "38",
         "2021-10": "59",
-        "2022-08": "32"
+        "2022-08": "32",
+        "2023-09": "34"
       },
       "see_also": "suli",
       "def": {
@@ -7681,7 +7816,8 @@
       "creator": "jan Sonja",
       "ku_data": "parent\u2075, parental\u2075, mama\u2075, mommy\u2074, mom\u2074, creator\u00b3, mother\u00b3, foster\u00b3, originator\u00b3, father\u00b2, daddy\u00b2, founder\u00b2, dad\u00b2",
       "recognition": {
-        "2022-08": "99"
+        "2022-08": "99",
+        "2023-09": "100"
       },
       "pu_verbatim": {
         "en": "NOUN parent, ancestor; creator, originator; caretaker, sustainer",
@@ -7754,7 +7890,8 @@
       "creator": "jan Sonja",
       "ku_data": "money\u2075, cash\u2075, monetary\u2075, currency\u2075, treasure\u2074, wealth\u2074, worth\u2074, cattle\u2074, dollar\u2074, financial\u2074, funding\u00b3, fiscal\u00b3, wage\u00b3, fee\u00b3, cost\u00b3, valuable\u00b3, pension\u00b2, expense\u00b2, economic\u00b2, fund\u00b2, revenue\u00b2, budget\u00b2, salary\u00b2, credit\u00b2, compensation\u00b2, earnings\u00b2, price\u00b2, value\u00b2, income\u00b2, subsidy\u00b2, profit\u00b2, cow\u00b2, toll\u00b2, payment\u00b2, large domesticated animal\u00b2, wealthy\u00b2",
       "recognition": {
-        "2022-08": "97"
+        "2022-08": "97",
+        "2023-09": "99"
       },
       "see_also": "esun",
       "pu_verbatim": {
@@ -7828,7 +7965,8 @@
       "creator": "jan Sonja",
       "ku_data": "female\u2075, lady\u2074, woman\u2074, girl\u00b3, wife\u00b2, cisgender woman\u00b2, transgender woman\u00b2, ma\u2019am\u00b2",
       "recognition": {
-        "2022-08": "89"
+        "2022-08": "89",
+        "2023-09": "82"
       },
       "see_also": "mije, tonsi",
       "pu_verbatim": {
@@ -7897,7 +8035,8 @@
       "recognition": {
         "2020-04": "25",
         "2021-10": "36",
-        "2022-08": "7"
+        "2022-08": "7",
+        "2023-09": "7"
       },
       "see_also": "kule, meli",
       "def": {
@@ -7959,7 +8098,8 @@
       "ku_data": "average\u00b3, moderate\u00b3, medium\u00b3, intermediate\u00b2, ordinary\u00b2",
       "recognition": {
         "2021-10": "71",
-        "2022-08": "52"
+        "2022-08": "52",
+        "2023-09": "52"
       },
       "see_also": "insa",
       "def": {
@@ -8025,7 +8165,8 @@
       "creator": "jan Sonja",
       "ku_data": "me\u2075, my\u2075, I\u2075, mine\u2074, our\u2074, myself\u00b3, us\u00b3, we\u00b2, self\u00b2, ours\u00b2, ourselves\u00b2",
       "recognition": {
-        "2022-08": "100"
+        "2022-08": "100",
+        "2023-09": "100"
       },
       "pu_verbatim": {
         "en": "NOUN I, me, we, us",
@@ -8100,7 +8241,8 @@
       "creator": "jan Sonja",
       "ku_data": "male\u2075, man\u2075, husband\u00b3, cisgender man\u00b3, sir\u00b2, boyfriend\u00b2, guy\u00b2, gentleman\u00b2, transgender man\u00b9",
       "recognition": {
-        "2022-08": "89"
+        "2022-08": "89",
+        "2023-09": "82"
       },
       "see_also": "meli, tonsi",
       "pu_verbatim": {
@@ -8169,7 +8311,8 @@
       "recognition": {
         "2020-04": "25",
         "2021-10": "35",
-        "2022-08": "7"
+        "2022-08": "7",
+        "2023-09": "7"
       },
       "see_also": "kule, mije",
       "def": {
@@ -8224,7 +8367,8 @@
       "ku_data": "Glires or Eulipotyphla\u00b9, capybara\u2070",
       "recognition": {
         "2021-10": "35",
-        "2022-08": "10"
+        "2022-08": "10",
+        "2023-09": "13"
       },
       "see_also": "soweli",
       "def": {
@@ -8290,7 +8434,8 @@
       "recognition": {
         "2020-04": "21",
         "2021-10": "71",
-        "2022-08": "63"
+        "2022-08": "63",
+        "2023-09": "60"
       },
       "def": {
         "en": "medicine, medical",
@@ -8357,7 +8502,8 @@
       "creator": "jan Sonja",
       "ku_data": "food\u2075, eat\u2075, eating\u2075, consume\u2075, dining\u2075, meal\u2075, consumption\u2075, swallow\u2074, dinner\u00b3, nutrition\u00b3, drinking\u00b3, chew\u00b3, groceries\u00b3, absorb\u00b2, drink\u00b2, lunch\u00b2",
       "recognition": {
-        "2022-08": "100"
+        "2022-08": "100",
+        "2023-09": "100"
       },
       "pu_verbatim": {
         "en": "VERB to eat, drink, consume, swallow, ingest",
@@ -8430,7 +8576,8 @@
       "creator": "jan Sonja",
       "ku_data": "death\u2075, killing\u2075, dead\u2075, die\u2074, dying\u2074, kill\u2074, deadly\u00b2, execution\u00b2",
       "recognition": {
-        "2022-08": "99"
+        "2022-08": "99",
+        "2023-09": "99"
       },
       "pu_verbatim": {
         "en": "ADJECTIVE dead, dying",
@@ -8496,7 +8643,8 @@
       "creator": "jan soweli Apen",
       "recognition": {
         "2021-10": "25",
-        "2022-08": "3"
+        "2022-08": "3",
+        "2023-09": "4"
       },
       "see_also": "pipi",
       "author_verbatim": "hm i am considering making a nimisin for mollusks, if that isn\u2019t already a thing",
@@ -8551,7 +8699,8 @@
       "creator": "jan Sonja",
       "ku_data": "butt\u2075, back (anatomy)\u2074, ass\u2074, behind\u00b2",
       "recognition": {
-        "2022-08": "97"
+        "2022-08": "97",
+        "2023-09": "99"
       },
       "see_also": "sinpin",
       "pu_verbatim": {
@@ -8628,7 +8777,8 @@
       "recognition": {
         "2020-04": "74",
         "2021-10": "88",
-        "2022-08": "85"
+        "2022-08": "85",
+        "2023-09": "83"
       },
       "def": {
         "en": "fear, dread; monster, predator; threat, danger",
@@ -8690,7 +8840,8 @@
       "creator": "jan Sonja",
       "ku_data": "woof\u2075, meow\u2075, animal vocalization\u2075, ribbit\u2075, purr\u2075, neigh\u2075, cock-a-doodle-doo\u00b3",
       "recognition": {
-        "2022-08": "97"
+        "2022-08": "97",
+        "2023-09": "99"
       },
       "see_also": "kalama",
       "pu_verbatim": {
@@ -8758,7 +8909,8 @@
       "recognition": {
         "2020-04": "32",
         "2021-10": "39",
-        "2022-08": "7"
+        "2022-08": "7",
+        "2023-09": "6"
       },
       "see_also": "pan",
       "author_verbatim": "mulapisu now means pizza",
@@ -8825,7 +8977,8 @@
       "creator": "jan Sonja",
       "ku_data": "moon\u2075, celestial body\u2074, star\u00b2, planet\u00b9",
       "recognition": {
-        "2022-08": "99"
+        "2022-08": "99",
+        "2023-09": "99"
       },
       "see_also": "suno",
       "pu_verbatim": {
@@ -8898,7 +9051,8 @@
       "creator": "jan Sonja",
       "ku_data": "entertainment\u2075, fun\u2075, funny\u2075, play\u2075, game\u2075, comedy\u2075, art\u00b3, artistic\u00b3, fascinating\u00b2, humour\u00b2, interesting\u00b2, irony\u00b2, sport\u00b2, enjoy\u00b2, creative\u00b2, playoffs\u00b2",
       "recognition": {
-        "2022-08": "100"
+        "2022-08": "100",
+        "2023-09": "100"
       },
       "pu_verbatim": {
         "en": "ADJECTIVE artistic, entertaining, frivolous, playful, recreational",
@@ -8970,7 +9124,8 @@
       "creator": "jan Sonja",
       "ku_data": "plenty\u2075, multiple\u2075, many\u2075, much\u2075, very\u2075, lots\u2075, several\u2075, numerous\u2074, various\u2074, most\u2074, quantity\u2074, twenty\u00b3, fifty\u00b3, thousand\u00b3, nine\u00b3, majority\u00b3, incredibly\u00b3, million\u00b3, fifteen\u00b2, dozen\u00b2, amount\u00b2, twelve\u00b2, eight\u00b2, countless\u00b2, hundred\u00b2, billion\u00b2, greatly\u00b2, frequent\u00b2, mostly\u00b2, highly\u00b2, excessive\u00b2, exceed\u00b2, six\u00b2, trillion\u00b2, quite\u00b2, deeply\u00b2, thirty\u00b2, dose\u00b2, particularly\u00b2, increasingly\u00b2, ten\u00b2, extremely\u00b2",
       "recognition": {
-        "2022-08": "100"
+        "2022-08": "100",
+        "2023-09": "100"
       },
       "tags": "nimi nanpa",
       "pu_verbatim": {
@@ -9028,7 +9183,7 @@
       "coined_year": "2021",
       "coined_era": "post-pu",
       "book": "ku suli",
-      "usage_category": "common",
+      "usage_category": "widespread",
       "source_language": "onomatopoeia",
       "etymology_data": {
         "langs": "onomatopoeia"
@@ -9037,7 +9192,8 @@
       "ku_data": "um\u00b3, mmm\u00b2, hmm\u00b2",
       "recognition": {
         "2021-10": "60",
-        "2022-08": "68"
+        "2022-08": "68",
+        "2023-09": "70"
       },
       "def": {
         "en": "(indicates thinking, pondering, recognition, agreement, or humming)",
@@ -9089,7 +9245,8 @@
       },
       "creator": "kapesi Pake",
       "recognition": {
-        "2022-08": "1"
+        "2022-08": "1",
+        "2023-09": "3"
       },
       "see_also": "loje, jelo",
       "def": {
@@ -9139,7 +9296,8 @@
       "recognition": {
         "2020-04": "74",
         "2021-10": "90",
-        "2022-08": "75"
+        "2022-08": "75",
+        "2023-09": "70"
       },
       "see_also": "sin",
       "tags": "pre-pu ALT",
@@ -9213,7 +9371,8 @@
       "creator": "jan Sonja",
       "ku_data": "number\u2075, count\u2074, score\u00b3, rating\u00b3, rank\u00b3, measurement\u00b3, ranking\u00b3, statistical\u00b3, quantity\u00b2, calculate\u00b2, grade\u00b2, percentage\u00b2, edition\u00b2, percent\u00b2, statistics\u00b2, version\u00b2",
       "recognition": {
-        "2022-08": "99"
+        "2022-08": "99",
+        "2023-09": "100"
       },
       "pu_verbatim": {
         "en": "PARTICLE -th (ordinal number)\nNOUN numbers",
@@ -9285,7 +9444,8 @@
       "creator": "jan Sonja",
       "ku_data": "weird\u2075, unusual\u2075, strange\u2075, odd\u2075, drunk\u2074, silly\u00b3, wild\u00b3, ridiculous\u00b2, psychoactive\u00b2, nonsense\u00b2, confuse\u00b2, suspicious\u00b2",
       "recognition": {
-        "2022-08": "99"
+        "2022-08": "99",
+        "2023-09": "99"
       },
       "pu_verbatim": {
         "en": "ADJECTIVE unusual, strange; foolish, crazy; drunk, intoxicated",
@@ -9358,7 +9518,8 @@
       "creator": "jan Sonja",
       "ku_data": "road\u2075, way\u2075, doctrine\u2075, method\u2075, path\u2075, avenue\u2074, manner\u2074, route\u2074, direction\u2074, street\u2074, trail\u2074, orientation\u2074, mode\u2074, technique\u2074, system\u00b3, layout\u00b3, course\u00b3, passage\u00b3, process\u00b3, track\u00b3, format\u00b3, ideology\u00b3, tactic\u00b3, custom\u00b3, aisle\u00b3, journey\u00b3, lane\u00b3, norm\u00b2, guideline\u00b2, style\u00b2, regular\u00b2, procedure\u00b2, protocol\u00b2, order\u00b2, plan\u00b2, channel\u00b2, routine\u00b2, strategy\u00b2, pattern\u00b2, theme\u00b2, composition\u00b2, policy\u00b2, angle\u00b2, tendency\u00b2",
       "recognition": {
-        "2022-08": "99"
+        "2022-08": "99",
+        "2023-09": "100"
       },
       "pu_verbatim": {
         "en": "NOUN way, custom, doctrine, method, path, road",
@@ -9423,7 +9584,8 @@
       "creator": "jan Lakuse",
       "recognition": {
         "2021-10": "25",
-        "2022-08": "3"
+        "2022-08": "3",
+        "2023-09": "3"
       },
       "see_also": "wan, sama, linja",
       "def": {
@@ -9475,7 +9637,8 @@
       "recognition": {
         "2020-04": "13",
         "2021-10": "23",
-        "2022-08": "2"
+        "2022-08": "2",
+        "2023-09": "1"
       },
       "tags": "nimi nanpa",
       "def": {
@@ -9530,7 +9693,8 @@
       },
       "creator": "jan Emalan",
       "recognition": {
-        "2022-08": "1"
+        "2022-08": "1",
+        "2023-09": "2"
       },
       "commentary": "Meant to be antonymous to the 'cover, layer of privacy' meanings of 'len'. It can be applied both literally and metaphorically.",
       "def": {
@@ -9583,7 +9747,8 @@
       "creator": "jan Sonja",
       "ku_data": "hill\u2074, nose\u00b3, ridge\u00b2, button\u00b2, peak\u00b2, mountain\u00b2, pile\u00b2, breast\u00b9, mount\u00b9, fold\u00b9",
       "recognition": {
-        "2022-08": "97"
+        "2022-08": "97",
+        "2023-09": "99"
       },
       "see_also": "kapa",
       "pu_verbatim": {
@@ -9658,7 +9823,8 @@
       "creator": "jan Sonja",
       "ku_data": "this\u2075, that\u2075, these\u2075, those\u2074, particular\u00b2, specifically\u00b2, there\u00b2",
       "recognition": {
-        "2022-08": "100"
+        "2022-08": "100",
+        "2023-09": "100"
       },
       "see_also": "ona",
       "pu_verbatim": {
@@ -9732,7 +9898,8 @@
       "creator": "jan Sonja",
       "ku_data": "word\u2075, name\u2075, term\u00b3, title\u00b3, lyrics\u00b2, label\u00b2, brand\u00b2, so-called\u00b2",
       "recognition": {
-        "2022-08": "99"
+        "2022-08": "99",
+        "2023-09": "100"
       },
       "pu_verbatim": {
         "en": "NOUN name, word",
@@ -9787,7 +9954,7 @@
       "coined_year": "2020",
       "coined_era": "post-pu",
       "book": "none",
-      "usage_category": "rare",
+      "usage_category": "uncommon",
       "source_language": "toki pona",
       "etymology": "nimi sin",
       "etymology_data": {
@@ -9797,7 +9964,8 @@
       },
       "creator": "unknown",
       "recognition": {
-        "2022-08": "13"
+        "2022-08": "13",
+        "2023-09": "35"
       },
       "see_also": "nimi, sin",
       "commentary": "Mostly used in conversations in English. Likely was popularised by the :nimisin: emote in ma pona, which was originally used to notify Atawan (maintainer of \"nimi ale\") about newly coined words. In common speech, the meaning got extended to include most or all non-pu words, regardless if they were coined recently or not.",
@@ -9842,7 +10010,8 @@
       },
       "creator": "jan Kita",
       "recognition": {
-        "2022-08": "5"
+        "2022-08": "5",
+        "2023-09": "9"
       },
       "see_also": "mu, jonke",
       "def": {
@@ -9900,7 +10069,8 @@
       "creator": "jan Sonja",
       "ku_data": "leg\u2075, foot\u2074, lap\u00b3, ankle\u00b3, kick\u00b3, heel\u00b2, knee\u00b2, base\u00b2",
       "recognition": {
-        "2022-08": "98"
+        "2022-08": "98",
+        "2023-09": "99"
       },
       "see_also": "jalan",
       "tags": "nimi nanpa",
@@ -9965,7 +10135,8 @@
       "recognition": {
         "2020-04": "14",
         "2021-10": "28",
-        "2022-08": "1"
+        "2022-08": "1",
+        "2023-09": "1"
       },
       "see_also": "pu, ku",
       "def": {
@@ -10024,7 +10195,8 @@
       "creator": "jan Sonja",
       "ku_data": "hey\u00b3, shall\u00b3, should\u00b2, ought\u00b2, must\u00b2, please\u00b9, let\u2070, dare\u2070, mandate\u2070, dear\u2070",
       "recognition": {
-        "2022-08": "100"
+        "2022-08": "100",
+        "2023-09": "100"
       },
       "see_also": "li",
       "pu_verbatim": {
@@ -10088,7 +10260,8 @@
       },
       "creator": "soweli nata",
       "recognition": {
-        "2022-08": "2"
+        "2022-08": "2",
+        "2023-09": "6"
       },
       "def": {
         "en": "toki pona adaptation of English meme \"ligma\"",
@@ -10117,7 +10290,7 @@
       "coined_year": "2019",
       "coined_era": "post-pu",
       "book": "ku lili",
-      "usage_category": "rare",
+      "usage_category": "uncommon",
       "source_language": "English",
       "etymology": "okay",
       "etymology_data": {
@@ -10130,7 +10303,8 @@
       "recognition": {
         "2020-04": "25",
         "2021-10": "40",
-        "2022-08": "16"
+        "2022-08": "16",
+        "2023-09": "24"
       },
       "see_also": "pona, ke, n",
       "def": {
@@ -10189,7 +10363,8 @@
       "recognition": {
         "2020-04": "21",
         "2021-10": "24",
-        "2022-08": "3"
+        "2022-08": "3",
+        "2023-09": "2"
       },
       "author_verbatim": "interjection \"okay boomer\"",
       "author_verbatim_source": "https://discord.com/channels/301377942062366741/545467374254555137/641341684982218752",
@@ -10239,7 +10414,8 @@
       },
       "creator": "unknown",
       "recognition": {
-        "2022-08": "1"
+        "2022-08": "1",
+        "2023-09": "4"
       },
       "commentary": "Though it may have many possible origins, it was first coined in a small group chat. It is mostly used as a variant of the toki pona words \"oke\" and \"ke\"",
       "def": {
@@ -10291,7 +10467,8 @@
       "recognition": {
         "2020-04": "77",
         "2021-10": "88",
-        "2022-08": "62"
+        "2022-08": "62",
+        "2023-09": "57"
       },
       "see_also": "lukin",
       "tags": "pre-pu ALT",
@@ -10366,7 +10543,8 @@
       "creator": "jan Sonja",
       "ku_data": "loving\u2075, love\u2075, romance\u2074, romantic\u00b3, compassion\u00b3, attraction\u00b2, intimate\u00b2, passion\u00b2, beloved\u00b2, loyalty\u00b2, loyal\u00b9, faithful\u00b9, dear\u00b9, mercy\u00b9, darling\u00b9, passionate\u00b9, care\u00b9, appreciation\u00b9, crush\u00b9, respect\u00b9",
       "recognition": {
-        "2022-08": "99"
+        "2022-08": "99",
+        "2023-09": "100"
       },
       "pu_verbatim": {
         "en": "VERB to love, have compassion for, respect, show affection to",
@@ -10430,7 +10608,8 @@
       },
       "creator": "jan Emalan",
       "recognition": {
-        "2022-08": "5"
+        "2022-08": "5",
+        "2023-09": "3"
       },
       "def": {
         "en": "(proper name) a song by jan Usawi",
@@ -10459,7 +10638,7 @@
       "coined_year": "2020",
       "coined_era": "post-pu",
       "book": "none",
-      "usage_category": "rare",
+      "usage_category": "uncommon",
       "source_language": "toki pona",
       "etymology": "o.m.e.ka.po. \u2190 o moku e kala pona",
       "etymology_data": {
@@ -10470,7 +10649,8 @@
       "creator": "jan Maliku",
       "recognition": {
         "2021-10": "38",
-        "2022-08": "16"
+        "2022-08": "16",
+        "2023-09": "20"
       },
       "commentary": "Coined by jan Maliku in reference to the message \"o moku e kala pona\", which jan Sonja wrote on their copy of Toki Pona: The Language of Good during a Texas meetup.",
       "def": {
@@ -10528,7 +10708,8 @@
       "recognition": {
         "2020-04": "19",
         "2021-10": "19",
-        "2022-08": "1"
+        "2022-08": "1",
+        "2023-09": "2"
       },
       "see_also": "musi",
       "def": {
@@ -10590,7 +10771,8 @@
       "creator": "jan Sonja",
       "ku_data": "its\u2075, her\u2075, them\u2075, their\u2075, him\u2074, he\u2074, she\u2074, they\u2074, his\u2074, it\u2074, themselves\u00b3, itself\u00b3, himself\u00b2, herself\u00b2",
       "recognition": {
-        "2022-08": "99"
+        "2022-08": "99",
+        "2023-09": "100"
       },
       "see_also": "i, iki, ipi",
       "pu_verbatim": {
@@ -10658,7 +10840,8 @@
       "creator": "kulupu Eki",
       "recognition": {
         "2021-10": "26",
-        "2022-08": "1"
+        "2022-08": "1",
+        "2023-09": "2"
       },
       "see_also": "insa, lape, musi, sitelen, jume",
       "commentary": "This word is deprecated by the creator; it is considered part of the \"toki oni\" tokiponido instead.\nThe pronunciation of the second syllable was due to personal preferences of the creator, not modern Greek.",
@@ -10712,7 +10895,8 @@
       "creator": "jan Sonja",
       "ku_data": "open\u2075, begin\u2075, start\u2075, beginning\u2075, initiate\u2074, starting\u2074, opening\u00b3, initial\u00b2, access\u00b2, entry\u00b2, engage\u00b2, launch\u00b2, starter\u00b2, introduction\u00b2, origin\u00b2",
       "recognition": {
-        "2022-08": "99"
+        "2022-08": "99",
+        "2023-09": "100"
       },
       "see_also": "kama",
       "pu_verbatim": {
@@ -10778,7 +10962,8 @@
       "creator": "Ferret",
       "recognition": {
         "2021-10": "20",
-        "2022-08": "5"
+        "2022-08": "5",
+        "2023-09": "5"
       },
       "def": {
         "en": "Orwellian, totalitarian, of or relating to Big Brother (from 1984), antonym of kamalawala",
@@ -10824,7 +11009,8 @@
       "recognition": {
         "2020-04": "21",
         "2021-10": "21",
-        "2022-08": "3"
+        "2022-08": "3",
+        "2023-09": "3"
       },
       "def": {
         "en": "[interjection] bruh; expression of disbelief, exasperation, or excitement",
@@ -10881,7 +11067,8 @@
       "creator": "jan Sonja",
       "ku_data": "broken\u2075, destruction\u2075, mistake\u2075, damage\u2075, damn\u2074, goddamn\u2074, ruin\u2074, burst\u2074, accident\u2074, destroy\u2074, heck\u2074, error\u2074, hurt\u2074, injure\u2074, crash\u2074, fail\u2074, harm\u2074, break\u2074, failure\u00b3, fault\u00b3, injury\u00b3, flaw\u00b3, crack\u00b3, collapse\u00b3, snap\u00b3, fuck\u00b3, fucking\u00b3, trouble\u00b2, rip\u00b2, explode\u00b2, crush\u00b2, wound\u00b2, violate\u00b2, offense\u00b2, strike\u00b2, boom\u00b2, crap\u00b2",
       "recognition": {
-        "2022-08": "100"
+        "2022-08": "100",
+        "2023-09": "100"
       },
       "tags": "pre-pu ALT",
       "pu_verbatim": {
@@ -10951,7 +11138,8 @@
       "recognition": {
         "2020-04": "34",
         "2021-10": "48",
-        "2022-08": "13"
+        "2022-08": "13",
+        "2023-09": "13"
       },
       "see_also": "pini",
       "def": {
@@ -10988,6 +11176,29 @@
         "el": "\u039d\u03b1 \u03c3\u03c4\u03b1\u03bc\u03b1\u03c4\u03ac\u03c2 \u00b7 \u03bd\u03b1 \u03bc\u03c0\u03bb\u03bf\u03ba\u03ac\u03c1\u03b5\u03b9\u03c2, \u03bd\u03b1 \u03b4\u03b9\u03b1\u03ba\u03cc\u03c0\u03c4\u03b5\u03b9\u03c2 \u03bd\u03b1 \u03b1\u03c0\u03bf\u03c4\u03c1\u03ad\u03c0\u03b5\u03b9\u03c2, \u03bd\u03b1 \u03b4\u03b9\u03b1\u03ba\u03cc\u03c0\u03c4\u03b5\u03b9\u03c2"
       }
     },
+    "pakola": {
+      "word": "pakola",
+      "audio": {
+        "kala_asi": "https://raw.githubusercontent.com/lipu-linku/ijo/main/kalama/kalaasi2023/pakola.mp3"
+      },
+      "coined_year": "2022",
+      "coined_era": "post-ku",
+      "book": "none",
+      "usage_category": "obscure",
+      "source_language": "toki pona",
+      "etymology": "pakala",
+      "etymology_data": {
+        "langs": "toki pona",
+        "words": "pakala"
+      },
+      "creator": "the Half as Interesting team",
+      "recognition": {
+        "2023-09": "3"
+      },
+      "def": {
+        "en": "[misspelling of pakola]"
+      }
+    },
     "pali": {
       "word": "pali",
       "sitelen_pona": "pali",
@@ -11016,7 +11227,8 @@
       "creator": "jan Sonja",
       "ku_data": "work\u2075, do\u2075, construct\u2075, make\u2075, produce\u2075, activity\u2075, job\u2075, build\u2075, production\u2075, labour\u2075, working\u2075, action\u2075, task\u2075, create\u2075, function\u2075, occupation\u2075, operating\u2074, project\u2074, execute\u2074, craft\u2074, manufacturing\u2074, develop\u00b3, generate\u00b3, compose\u00b3, assemble\u00b3, act\u00b3, profession\u00b3, assignment\u00b3, commit\u00b3, perform\u00b3, enact\u00b3, operation\u00b3, creation\u00b3, effort\u00b3, service\u00b3, accomplish\u00b3, implement\u00b3, operate\u00b3, implementation\u00b3, behaviour\u00b3, processing\u00b3, behave\u00b3, career\u00b3, actively\u00b2, employment\u00b2, practice\u00b2, development\u00b2, execution\u00b2, invent\u00b2, industry\u00b2, role\u00b2, procedure\u00b2, functional\u00b2, construction\u00b2, achieve\u00b2, prepare\u00b2, interact\u00b2, undergo\u00b2, accomplishment\u00b2, undertake\u00b2, busy\u00b2, behavioural\u00b2, productive\u00b2, industrial\u00b2, plan\u00b2, participation\u00b2, manipulate\u00b2",
       "recognition": {
-        "2022-08": "99"
+        "2022-08": "99",
+        "2023-09": "100"
       },
       "pu_verbatim": {
         "en": "VERB to do, take action on, work on; build, make, prepare",
@@ -11089,7 +11301,8 @@
       "creator": "jan Sonja",
       "ku_data": "stick\u2075, rod\u2075, stake\u2074, pole\u2074, branch\u00b3, staff\u00b3, straight\u00b2, bar\u00b2, stem\u00b9, beam\u00b9",
       "recognition": {
-        "2022-08": "99"
+        "2022-08": "99",
+        "2023-09": "99"
       },
       "see_also": "linja",
       "pu_verbatim": {
@@ -11164,7 +11377,8 @@
       "ku_data": "bread\u2075, grain\u2075, wheat\u2074, rice\u00b3, corn\u00b2, carbohydrate\u00b2",
       "recognition": {
         "2020-04": "96",
-        "2022-08": "98"
+        "2022-08": "98",
+        "2023-09": "99"
       },
       "pu_verbatim": {
         "en": "NOUN cereal, grain; barley, corn, oat, rice, wheat; bread, pasta",
@@ -11236,7 +11450,8 @@
       "creator": "jan Sonja",
       "ku_data": "give\u2075, put\u2075, deliver\u2075, grant\u2075, delivery\u2075, send\u2074, submit\u2074, provide\u2074, transfer\u2074, distribute\u2074, distribution\u00b3, donate\u00b3, appoint\u00b3, contribute\u00b3, output\u00b3, given\u00b3, publishing\u00b3, yield\u00b3, share\u00b3, offering\u00b3, assign\u00b3, deploy\u00b3, deposit\u00b3, convey\u00b3, offer\u00b2, input\u00b2, emission\u00b2, lend\u00b2, supply\u00b2, release\u00b2, pour\u00b2, publish\u00b2, provision\u00b2, gift\u00b2, export\u00b2, shared\u00b2, serve\u00b2, spend\u00b2, spread\u00b2, attach\u00b2, administer\u00b2, devote\u00b2, serving\u00b2, donation\u00b2, contribution\u00b2, added\u00b2, post\u00b2, toss\u00b2, apply\u00b2, transmission\u00b2, present\u00b2, bring\u00b2, add\u00b2, install\u00b2, show\u00b2, introduce\u00b2, dedicate\u00b2, exhibit\u00b2, insert\u00b2",
       "recognition": {
-        "2022-08": "99"
+        "2022-08": "99",
+        "2023-09": "100"
       },
       "pu_verbatim": {
         "en": "VERB to give, send, emit, provide, put, release",
@@ -11302,7 +11517,8 @@
       "recognition": {
         "2020-04": "25",
         "2021-10": "31",
-        "2022-08": "4"
+        "2022-08": "4",
+        "2023-09": "3"
       },
       "see_also": "pona",
       "def": {
@@ -11359,7 +11575,8 @@
       "recognition": {
         "2020-04": "28",
         "2021-10": "36",
-        "2022-08": "5"
+        "2022-08": "5",
+        "2023-09": "4"
       },
       "see_also": "sama",
       "def": {
@@ -11415,7 +11632,8 @@
       "creator": "jan Tesa",
       "recognition": {
         "2020-04": "13",
-        "2022-08": "1"
+        "2022-08": "1",
+        "2023-09": "2"
       },
       "see_also": "laso",
       "def": {
@@ -11470,7 +11688,8 @@
       "recognition": {
         "2020-04": "20",
         "2021-10": "28",
-        "2022-08": "3"
+        "2022-08": "3",
+        "2023-09": "2"
       },
       "commentary": "This word is deprecated by the creator.",
       "def": {
@@ -11532,7 +11751,8 @@
       "creator": "jan Sonja",
       "ku_data": "concerning\u00b9, about\u2070",
       "recognition": {
-        "2022-08": "98"
+        "2022-08": "98",
+        "2023-09": "99"
       },
       "tags": "pre-pu ALT",
       "pu_verbatim": {
@@ -11597,7 +11817,8 @@
       },
       "creator": "Kriskee_",
       "recognition": {
-        "2022-08": "2"
+        "2022-08": "2",
+        "2023-09": "5"
       },
       "see_also": "linluwi, ilo",
       "author_verbatim": "MOD. electric, electronic, conductive, mashinical, online\nN. electricity, lightning, thunder, network\nV. struck by electric/lightning",
@@ -11652,7 +11873,8 @@
       "creator": "jan Sonja",
       "ku_data": "feeling\u2075, emotion\u2075, feel\u2075, sentiment\u2075, mood\u2074, emotionally\u2074, heart\u2074, sense\u2074, attitude\u2074, emotional\u2074, opinion\u00b3, notion\u00b3, assume\u00b3, impression\u00b3, hypothesis\u00b3, perceive\u00b3, deem\u00b3, thinking\u00b2, believe\u00b2, assumption\u00b2, thought\u00b2, speculation\u00b2, conscience\u00b2, suppose\u00b2, experience\u00b2, stimulus\u00b2, reaction\u00b2, suspicion\u00b2, belief\u00b2, perception\u00b2, touch\u00b2, idea\u00b2, estimated\u00b2, consider\u00b2, outlook\u00b2, think\u00b2, mentally\u00b2",
       "recognition": {
-        "2022-08": "100"
+        "2022-08": "100",
+        "2023-09": "100"
       },
       "pu_verbatim": {
         "en": "NOUN heart (physical or emotional)\nADJECTIVE feeling (an emotion, a direct experience)",
@@ -11724,7 +11946,8 @@
       "creator": "jan Sonja",
       "ku_data": "dark\u2075, black\u2075, darkness\u2075, shadow\u00b3, shade\u00b3",
       "recognition": {
-        "2022-08": "99"
+        "2022-08": "99",
+        "2023-09": "100"
       },
       "pu_verbatim": {
         "en": "ADJECTIVE black, dark, unlit",
@@ -11787,7 +12010,8 @@
       "ku_data": "car\u2070",
       "recognition": {
         "2021-10": "20",
-        "2022-08": "5"
+        "2022-08": "5",
+        "2023-09": "4"
       },
       "def": {
         "en": "car",
@@ -11846,7 +12070,8 @@
       "creator": "jan Sonja",
       "ku_data": "end\u2075, finish\u2075, shut\u2075, ending\u2074, cease\u2074, outcome\u2074, conclude\u2074, close (v)\u2074, closed\u2074, quit\u00b3, latter\u00b3, final\u00b3, complete\u00b3, stop\u00b3, off\u00b3, cancel\u00b3, conclusion\u00b2, result\u00b2, previous\u00b2, pause\u00b2, interrupt\u00b2, lock\u00b2, over\u00b2",
       "recognition": {
-        "2022-08": "99"
+        "2022-08": "99",
+        "2023-09": "100"
       },
       "see_also": "pake, open, kama",
       "pu_verbatim": {
@@ -11920,7 +12145,8 @@
       "creator": "jan Sonja",
       "ku_data": "bug\u2075, insect\u2075, spider\u00b3",
       "recognition": {
-        "2022-08": "98"
+        "2022-08": "98",
+        "2023-09": "99"
       },
       "pu_verbatim": {
         "en": "NOUN bug, insect, ant, spider",
@@ -11987,7 +12213,8 @@
       "recognition": {
         "2020-04": "19",
         "2021-10": "21",
-        "2022-08": "1"
+        "2022-08": "1",
+        "2023-09": "2"
       },
       "def": {
         "en": "annoy, annoyance, bothersome, boring",
@@ -12041,7 +12268,8 @@
       "recognition": {
         "2020-04": "25",
         "2021-10": "34",
-        "2022-08": "5"
+        "2022-08": "5",
+        "2023-09": "5"
       },
       "see_also": "mute",
       "tags": "nimi nanpa",
@@ -12109,7 +12337,8 @@
       "creator": "jan Sonja",
       "ku_data": "side\u2075, hip\u2074, beside\u00b3, aside\u00b3, closely\u00b2, left (not right)\u00b2, sidebar\u00b2, alongside\u00b2",
       "recognition": {
-        "2022-08": "98"
+        "2022-08": "98",
+        "2023-09": "99"
       },
       "see_also": "kan",
       "tags": "pre-pu ALT",
@@ -12182,7 +12411,8 @@
       "creator": "jan Sonja",
       "ku_data": "container\u2075, jar\u2075, box\u2075, package\u2075, bag\u2075, basket\u2074, bucket\u2074, bottle\u2074, pot\u2074, cabinet\u2074, classify\u00b3, drawer\u00b3, locker\u00b3, storage\u00b3, case\u00b3, bowl\u00b3, sack\u00b2, cup\u00b2, pack\u00b2, cage\u00b2, purse\u00b2, trunk\u00b2, pitcher\u00b2, cell\u00b2",
       "recognition": {
-        "2022-08": "99"
+        "2022-08": "99",
+        "2023-09": "99"
       },
       "pu_verbatim": {
         "en": "NOUN container, bag, bowl, box, cup, cupboard, drawer, vessel",
@@ -12247,7 +12477,8 @@
       "recognition": {
         "2020-04": "14",
         "2021-10": "21",
-        "2022-08": "4"
+        "2022-08": "4",
+        "2023-09": "4"
       },
       "author_verbatim": "Noun\n\u2022Bowling pin\nAdjective\n\u2022Bowling pin like\nVerb\n\u2022To be a Bowling pin",
       "author_verbatim_source": "https://discord.com/channels/301377942062366741/375591429608570881/555598531407118336",
@@ -12306,7 +12537,8 @@
       "recognition": {
         "2020-04": "14",
         "2021-10": "21",
-        "2022-08": "3"
+        "2022-08": "3",
+        "2023-09": "2"
       },
       "see_also": "pona, ken, wawa",
       "author_verbatim": "Effective, useful, \u201cto give [good] results\u201d",
@@ -12371,7 +12603,8 @@
       "creator": "jan Sonja",
       "ku_data": "good\u2075, appropriate\u2075, nice\u2075, acceptable\u2075, simply\u2074, OK\u2074, fine\u2074, proper\u2074, quality\u2074, valid\u2074, pleasant\u2074, friendly\u2074, positive\u2074, well\u2074, simple\u2074, benefit\u2074, virtue\u2074, alright\u2074, correct\u00b3, fix\u00b3, repair\u00b3, cool\u00b3, advantage\u00b3, right (not wrong)\u00b3, okay\u00b3, fixed\u00b3, validity\u00b3, helpful\u00b3, kind\u00b3, merit\u00b3, successfully\u00b3, ethical\u00b3, peaceful\u00b3, ideal\u00b3, improve\u00b3, improvement\u00b3, correction\u00b3, fair\u00b3, grace\u00b3, heal\u00b3, ease\u00b3, successful\u00b3, supportive\u00b3, awesome\u00b3, approval\u00b3, correctly\u00b2, adequate\u00b2, effectiveness\u00b2, reasonable\u00b2, decent\u00b2, thanks\u00b2, welfare\u00b2, peace\u00b2, wonderful\u00b2, plain\u00b2, properly\u00b2, fairly\u00b2, civil\u00b2, terrific\u00b2, improved\u00b2, worthy\u00b2, well-being\u00b2, lovely\u00b2, natural\u00b2, resolve\u00b2, easy\u00b2, elementary\u00b2, enhance\u00b2, efficiency\u00b2, mercy\u00b2, useful\u00b2, justice\u00b2, elegant\u00b2, beautiful\u00b2, courtesy\u00b2, effective\u00b2, comfortable\u00b2, reliability\u00b2, perfect\u00b2, please\u00b2, relieve\u00b2, basic\u00b2, better\u00b2, honest\u00b2, solve\u00b2, free\u00b2, success\u00b2, fascinating\u00b2, qualify\u00b2, morality\u00b2, easily\u00b2, excellent\u00b2, sufficient\u00b2",
       "recognition": {
-        "2022-08": "100"
+        "2022-08": "100",
+        "2023-09": "100"
       },
       "pu_verbatim": {
         "en": "ADJECTIVE good, positive, useful; friendly, peaceful; simple",
@@ -12433,7 +12666,8 @@
       },
       "creator": "jan Kita",
       "recognition": {
-        "2022-08": "1"
+        "2022-08": "1",
+        "2023-09": "2"
       },
       "see_also": "soweli",
       "author_verbatim": "pony",
@@ -12485,7 +12719,8 @@
       "recognition": {
         "2020-04": "31",
         "2021-10": "56",
-        "2022-08": "21"
+        "2022-08": "21",
+        "2023-09": "23"
       },
       "see_also": "ike",
       "def": {
@@ -12547,7 +12782,8 @@
       "ku_data": "interact with Toki Pona: The Language of Good\u2075, officially\u00b2",
       "recognition": {
         "2020-04": "82",
-        "2022-08": "94"
+        "2022-08": "94",
+        "2023-09": "96"
       },
       "pu_verbatim": {
         "en": "ADJECTIVE interacting with the official Toki Pona book",
@@ -12613,7 +12849,8 @@
       "creator": "jan Seli",
       "recognition": {
         "2021-10": "31",
-        "2022-08": "14"
+        "2022-08": "14",
+        "2023-09": "17"
       },
       "see_also": "suwi, ko",
       "def": {
@@ -12674,7 +12911,8 @@
       "creator": "jan Sonja",
       "ku_data": "alike\u2075, equal\u2075, similar\u2075, equivalent\u2075, as\u2074, similarly\u2074, equality\u00b3, equally\u00b3, like\u00b3, identical\u00b3, likewise\u00b2, related\u00b2, relation\u00b2, constant\u00b2, associated\u00b2, relate\u00b2, seem\u00b2, even\u00b2, copy\u00b2, mutual\u00b2, equity\u00b2, resemble\u00b2, fellow\u00b2",
       "recognition": {
-        "2022-08": "99"
+        "2022-08": "99",
+        "2023-09": "99"
       },
       "see_also": "pata",
       "pu_verbatim": {
@@ -12742,7 +12980,8 @@
       "recognition": {
         "2020-04": "16",
         "2021-10": "29",
-        "2022-08": "3"
+        "2022-08": "3",
+        "2023-09": "1"
       },
       "see_also": "nimisin",
       "commentary": "Coined in reference to jan Samu, a Facebook user who attempted to propose a new word.",
@@ -12800,7 +13039,8 @@
       "recognition": {
         "2020-04": "15",
         "2021-10": "33",
-        "2022-08": "7"
+        "2022-08": "7",
+        "2023-09": "9"
       },
       "see_also": "mute, tuli",
       "tags": "nimi nanpa",
@@ -12867,7 +13107,8 @@
       "creator": "jan Sonja",
       "ku_data": "fire\u2075, heat\u2075, hot\u2075, burning\u2075, flame\u2075, burn\u2074, warm\u2074, warming\u00b3, bake\u00b2, temperature\u00b2, cook\u00b2, boil\u00b2, cooking\u00b2, tropical\u00b9",
       "recognition": {
-        "2022-08": "99"
+        "2022-08": "99",
+        "2023-09": "99"
       },
       "pu_verbatim": {
         "en": "ADJECTIVE fire; cooking element, chemical reaction, heat source",
@@ -12938,7 +13179,8 @@
       "creator": "jan Sonja",
       "ku_data": "skin\u2075, boundary\u2074, surface\u00b3, peel\u00b3, outer\u00b3, shape\u00b3, layer\u00b3, outline\u00b2, edge\u00b2, external\u00b2, border\u00b2, frame\u00b2, margin\u00b2, shell\u00b2, barrier\u00b2, cover\u00b2, appearance\u00b9",
       "recognition": {
-        "2022-08": "98"
+        "2022-08": "98",
+        "2023-09": "98"
       },
       "pu_verbatim": {
         "en": "NOUN outer form, outer layer; bark, peel, shell, skin; boundary",
@@ -13010,7 +13252,8 @@
       "creator": "jan Sonja",
       "ku_data": "what\u2075, which\u2074, huh\u00b3",
       "recognition": {
-        "2022-08": "100"
+        "2022-08": "100",
+        "2023-09": "100"
       },
       "pu_verbatim": {
         "en": "PARTICLE what? which?",
@@ -13084,7 +13327,8 @@
       "creator": "jan Sonja",
       "ku_data": "divine\u2075, upper\u2075, sacred\u2074, top\u2074, holy\u2074, sky\u2074, elevated\u2074, high\u00b3, spiritual\u00b3, raise\u00b3, supreme\u00b3, highly\u00b3, peak\u00b3, God\u00b2, rise\u00b2, above\u00b2, superior\u00b2, magical\u00b2, summit\u00b2, weather\u00b2, upstairs\u00b2, religious\u00b2, arise\u00b2",
       "recognition": {
-        "2022-08": "100"
+        "2022-08": "100",
+        "2023-09": "99"
       },
       "pu_verbatim": {
         "en": "NOUN area above, highest part, something elevated\nADJECTIVE awe-inspiring, divine, sacred, supernatural",
@@ -13156,7 +13400,8 @@
       "creator": "jan Sonja",
       "ku_data": "body\u2075, torso\u2074, flesh\u00b3, physically\u00b2, form\u00b2, figure\u00b2, self\u00b2, physical\u00b2",
       "recognition": {
-        "2022-08": "99"
+        "2022-08": "99",
+        "2023-09": "99"
       },
       "pu_verbatim": {
         "en": "NOUN body (of person or animal), physical state, torso",
@@ -13227,7 +13472,8 @@
       "creator": "jan Sonja",
       "ku_data": "round\u2075, circle\u2075, sphere\u2075, ball\u2074, loop\u2074, cycle\u2074, wheel\u2074, disc\u00b3, globe\u00b3, circuit\u00b3, spin\u00b2, ring\u00b2, surround\u00b2, curve\u00b2, rolling\u00b2, spot\u00b2, orbit\u00b2, twist\u00b2, roll\u00b9",
       "recognition": {
-        "2022-08": "99"
+        "2022-08": "99",
+        "2023-09": "100"
       },
       "see_also": "leko",
       "pu_verbatim": {
@@ -13293,7 +13539,8 @@
       "recognition": {
         "2020-04": "19",
         "2021-10": "22",
-        "2022-08": "1"
+        "2022-08": "1",
+        "2023-09": "2"
       },
       "see_also": "epiku",
       "commentary": "Coined in reference to the Travis Scott song \u2018Sicko Mode\u2019.",
@@ -13352,7 +13599,8 @@
       "creator": "jan Sonja",
       "ku_data": "new\u2075, newly\u2075, fresh\u2075, back (i.e. as before or returned)\u00b2, again\u00b2, unprecedented\u00b2, innovative\u00b2, modern\u00b2, another\u00b2, additionally\u00b2, recent\u00b2, repeat\u00b2, innovation\u00b2, young\u00b2",
       "recognition": {
-        "2022-08": "99"
+        "2022-08": "99",
+        "2023-09": "99"
       },
       "see_also": "namako",
       "pu_verbatim": {
@@ -13425,7 +13673,8 @@
       "creator": "jan Sonja",
       "ku_data": "you\u2075, your\u2075, yours\u2075, yourself\u2074",
       "recognition": {
-        "2022-08": "100"
+        "2022-08": "100",
+        "2023-09": "100"
       },
       "pu_verbatim": {
         "en": "NOUN you",
@@ -13499,7 +13748,8 @@
       "creator": "jan Sonja",
       "ku_data": "front\u2075, face (n)\u2074, wall\u00b3, chest (anatomy)\u00b2, ahead\u00b2, barrier\u00b2",
       "recognition": {
-        "2022-08": "98"
+        "2022-08": "98",
+        "2023-09": "99"
       },
       "see_also": "monsi",
       "pu_verbatim": {
@@ -13562,7 +13812,8 @@
       },
       "creator": "spad0103",
       "recognition": {
-        "2022-08": "0"
+        "2022-08": "0",
+        "2023-09": "1"
       },
       "author_verbatim": "I thought of another word which would mean the \"ego\", \"self\", \"own\",because Toki Pona doesn't have reflexive voice and pronoun like inthe sentences \"he's watching himself (and not somebody else)\" or \"Hetake his own(not her) hand\". I called it \"sipi\" (as it is \"sibi\" inLatin). Then it would be \"ona li lukin e sipi (pi ona)\" (he watcheshis ego) and \"ona li jo e luka sipi (pi ona)\" (he takes his ego'shand). It would also be used to compound words like \"egoism\"(nasin/pilin sipi) and so on...What do you think?",
       "author_verbatim_source": "http://forums.tokipona.org/viewtopic.php?f=33&t=639&hilit=word+requests&sid=401a37e08cc5150e7a0738d068ea4a77&start=50#p2368",
@@ -13620,7 +13871,8 @@
       "creator": "jan Sonja",
       "ku_data": "picture\u2075, image\u2075, graphic\u2075, symbol\u2075, drawing\u2075, illustration\u2075, photo\u2075, write\u2074, painting\u2074, illustrate\u2074, writing\u2074, written\u2074, depict\u2074, draw\u2074, photograph\u2074, portrait\u00b3, icon\u00b3, representation\u00b3, mark\u00b3, portray\u00b3, record\u00b2, render\u00b2, text\u00b2, note\u00b2, sign\u00b2, pattern\u00b2, graph\u00b2, poster\u00b2, compose\u00b2, letter (of alphabet)\u00b2",
       "recognition": {
-        "2022-08": "100"
+        "2022-08": "100",
+        "2023-09": "100"
       },
       "pu_verbatim": {
         "en": "NOUN image, picture, representation, symbol, mark, writing",
@@ -13683,7 +13935,8 @@
       "creator": "jan Kawa",
       "recognition": {
         "2020-04": "12",
-        "2022-08": "1"
+        "2022-08": "1",
+        "2023-09": "2"
       },
       "see_also": "lape",
       "def": {
@@ -13725,7 +13978,7 @@
       "coined_year": "2019",
       "coined_era": "post-pu",
       "book": "ku suli",
-      "usage_category": "widespread",
+      "usage_category": "common",
       "source_language": "Georgian",
       "etymology": "\u10e1\u10dd\u10d9\u10dd sok\u2019o \u2018mushroom\u2019",
       "etymology_data": {
@@ -13739,7 +13992,8 @@
       "recognition": {
         "2020-04": "17",
         "2021-10": "77",
-        "2022-08": "70"
+        "2022-08": "70",
+        "2023-09": "63"
       },
       "see_also": "kili",
       "def": {
@@ -13808,7 +14062,8 @@
       "creator": "jan Sonja",
       "ku_data": "information\u2075, know\u2075, knowledge\u2075, understand\u2075, understanding\u2075, aware\u2075, info\u2074, wisdom\u2074, awareness\u2074, known\u2074, data\u00b3, wise\u00b3, recognition\u00b3, recognize\u00b3, expertise\u00b3, intelligence\u00b2, smart\u00b2, sure\u00b2, experienced\u00b2, insight\u00b2, educational\u00b2, identify\u00b2, remember\u00b2, conscious\u00b2, clever\u00b2, cognitive\u00b2, logical\u00b2, familiar\u00b2, logic\u00b2, acknowledge\u00b2, skill\u00b2",
       "recognition": {
-        "2022-08": "100"
+        "2022-08": "100",
+        "2023-09": "100"
       },
       "pu_verbatim": {
         "en": "VERB to know, be skilled in, be wise about, have information on\nPRE-VERB to know how to",
@@ -13874,7 +14129,8 @@
       "recognition": {
         "2020-04": "22",
         "2021-10": "34",
-        "2022-08": "8"
+        "2022-08": "8",
+        "2023-09": "6"
       },
       "see_also": "poka, teje",
       "def": {
@@ -13937,7 +14193,8 @@
       "creator": "jan Sonja",
       "ku_data": "animal\u2075, deer\u2075, creature\u2074, dog\u2074, cat\u2074, llama\u00b3, goat\u00b3, Musteloidea\u00b3, beast\u00b3, lion\u00b3, pig\u00b2, capybara\u00b2, wolf\u00b2, horse\u00b2, mouse (2020)\u00b2, tiger\u00b2, large domesticated animal\u00b2, Hominidae\u00b2, procyonid\u00b2, monkey\u00b2, rabbit\u00b2",
       "recognition": {
-        "2022-08": "100"
+        "2022-08": "100",
+        "2023-09": "100"
       },
       "pu_verbatim": {
         "en": "NOUN animal, beast, land mammal",
@@ -13999,7 +14256,8 @@
       "recognition": {
         "2020-04": "14",
         "2021-10": "28",
-        "2022-08": "1"
+        "2022-08": "1",
+        "2023-09": "0"
       },
       "see_also": "pu, ku",
       "def": {
@@ -14047,7 +14305,8 @@
       "creator": "jan Sonja",
       "recognition": {
         "2021-10": "3",
-        "2022-08": "1"
+        "2022-08": "1",
+        "2023-09": "0"
       },
       "commentary": "The typo was made by jan Sonja while writing ku. The absolute majority of the community does not treat it as a newly coined word.",
       "def": {
@@ -14103,7 +14362,8 @@
       "creator": "jan Sonja",
       "ku_data": "large\u2075, importance\u2075, big\u2075, important\u2075, significant\u2075, matter (v)\u2075, significantly\u2074, grand\u2074, huge\u2074, tall\u2074, weight\u2074, vast\u2074, crucial\u2074, extensive\u2074, prominent\u2074, broad\u2074, fat\u2074, substantial\u2074, long\u2074, size\u2074, significance\u2074, heavy\u2074, giant\u2074, extended\u2074, wide\u2074, considerable\u2074, thick\u2074, major\u00b3, tremendous\u00b3, extent\u00b3, magnitude\u00b3, great\u00b3, vital\u00b3, length\u00b3, height\u00b3, greatly\u00b3, importantly\u00b3, severe\u00b3, dramatically\u00b3, mass\u00b3, essential\u00b2, largely\u00b2, relevant\u00b2, massive\u00b2, fundamental\u00b2, emphasize\u00b2, stretch\u00b2, enormous\u00b2, extend\u00b2, heavily\u00b2, critical\u00b2, expansion\u00b2, expand\u00b2, depth\u00b2, volume\u00b2, extension\u00b2, age\u00b2, profound\u00b2, deeply\u00b2, density\u00b2, widely\u00b2, influential\u00b2, dominant\u00b2, grow\u00b2, growth\u00b2, dramatic\u00b2, super\u00b2, emphasis\u00b2, remarkable\u00b2, mainly\u00b2",
       "recognition": {
-        "2022-08": "99"
+        "2022-08": "99",
+        "2023-09": "100"
       },
       "see_also": "lili",
       "pu_verbatim": {
@@ -14176,7 +14436,8 @@
       "creator": "jan Sonja",
       "ku_data": "sun\u2075, solar\u2075, light\u2074, sunlight\u2074, bright\u2074, shine\u00b3",
       "recognition": {
-        "2022-08": "99"
+        "2022-08": "99",
+        "2023-09": "100"
       },
       "see_also": "mun",
       "pu_verbatim": {
@@ -14248,7 +14509,8 @@
       "creator": "jan Sonja",
       "ku_data": "platform\u2075, table\u2075, shelf\u2074, board\u2074, furniture\u00b3, flat\u00b3, lie (be in flat position)\u00b3, level\u00b3, desk\u00b3, deck\u00b2, couch\u00b2, stage\u00b2, seat\u00b2, bench\u00b2, tablet\u00b2, surface\u00b2, chair\u00b2, counter\u00b2, pad\u00b2",
       "recognition": {
-        "2022-08": "98"
+        "2022-08": "98",
+        "2023-09": "99"
       },
       "pu_verbatim": {
         "en": "NOUN horizontal surface, thing to put or rest something on",
@@ -14312,7 +14574,8 @@
       "ku_data": "platypus\u00b9",
       "recognition": {
         "2021-10": "33",
-        "2022-08": "7"
+        "2022-08": "7",
+        "2023-09": "8"
       },
       "see_also": "kijetesantakalu",
       "author_verbatim": "Dear Sonja, That's a great idea, but if you do so, you need also to add a special word forthe Platypus (Ornithorhynchus anatinus). I would suggest the word \"sutopatikuna\"from the croatian word \u00c8udnovati kljuna\u00b9. Bonega ideo, sed se vi farus tion, vi devus ankaux aldoni apartan vorton porla Ornitorinko (Ornithorhynchus anatinus). Mi proponus la vorton \"sutopatikuna\"prenita de la kroatan vorton \u00c8udnovati kljuna\u00b9.:P",
@@ -14380,7 +14643,8 @@
       "creator": "jan Sonja",
       "ku_data": "sweet\u2075, cute\u2075, candy\u2074, sugar\u00b3, gentle\u00b2, dessert\u00b2, tender\u00b2, soft\u00b2, darling\u00b2, treat\u00b2",
       "recognition": {
-        "2022-08": "100"
+        "2022-08": "100",
+        "2023-09": "100"
       },
       "pu_verbatim": {
         "en": "ADJECTIVE sweet, fragrant; cute, innocent, adorable",
@@ -14445,7 +14709,8 @@
       "ku_data": "bond\u2070, attract\u2070, attach\u2070, clip\u2070",
       "recognition": {
         "2021-10": "38",
-        "2022-08": "14"
+        "2022-08": "14",
+        "2023-09": "14"
       },
       "see_also": "wan, wile",
       "def": {
@@ -14510,7 +14775,8 @@
       "creator": "jan Sonja",
       "ku_data": "from\u2075, reason\u2075, because of\u2074, by\u2074, source\u2074, behalf of\u00b2, basis\u00b2, origin\u00b2, motive\u00b2, cause\u00b2, purpose\u00b2, per\u00b2, since\u00b2, factor\u00b2, incentive\u00b2",
       "recognition": {
-        "2022-08": "99"
+        "2022-08": "99",
+        "2023-09": "99"
       },
       "pu_verbatim": {
         "en": "PREPOSITION by, from, because of",
@@ -14581,7 +14847,8 @@
       "creator": "jan Sonja",
       "ku_data": "only\u2075, but\u2075, solely\u2075, however\u2075, exclusively\u2074, although\u2074, though\u2074, just\u2074, exclusive\u2074, despite\u2074, nonetheless\u2074, mere\u2074, merely\u00b3, except\u00b3, yet\u00b3, sole\u00b3, nevertheless\u00b3, whereas\u00b3, regardless\u00b2, exception\u00b2",
       "recognition": {
-        "2022-08": "99"
+        "2022-08": "99",
+        "2023-09": "99"
       },
       "pu_verbatim": {
         "en": "PARTICLE but, however\nADJECTIVE only",
@@ -14654,7 +14921,8 @@
       "creator": "jan Sonja",
       "ku_data": "move\u2075, go\u2075, toward\u2075, motion\u2075, movement\u2075, towards\u2075, to\u2075, for\u2075, transit\u2074, travel\u2074, transportation\u00b3, trip\u00b3, walk\u00b3, advance\u00b3, onto\u00b3, transport\u00b3, pass\u00b3, walking\u00b3, migration\u00b3, departure\u00b3, from the perspective of\u00b3, push\u00b3, march\u00b2, slide\u00b2, proceed\u00b2, forth\u00b2, drift\u00b2, according to\u00b2, mobile\u00b2, until\u00b2, transfer\u00b2, cross\u00b2, till\u00b2, approach\u00b2, forward\u00b2, momentum\u00b2, attend\u00b2, progress\u00b2",
       "recognition": {
-        "2022-08": "99"
+        "2022-08": "99",
+        "2023-09": "100"
       },
       "see_also": "awen",
       "pu_verbatim": {
@@ -14721,7 +14989,8 @@
       "recognition": {
         "2020-04": "22",
         "2021-10": "40",
-        "2022-08": "11"
+        "2022-08": "11",
+        "2023-09": "14"
       },
       "see_also": "to",
       "commentary": "May be paired with \"to\", or used on its own. It is unclear how accepted either approach is among te / to users.",
@@ -14779,7 +15048,8 @@
       "ku_data": "right (not left)\u2070",
       "recognition": {
         "2021-10": "34",
-        "2022-08": "8"
+        "2022-08": "8",
+        "2023-09": "6"
       },
       "see_also": "poka, soto",
       "def": {
@@ -14842,7 +15112,8 @@
       "creator": "jan Sonja",
       "ku_data": "fluid\u2075, water\u2075, wet\u2074, wash\u00b3, pond\u00b3, pool\u00b3, drink\u00b2, shower\u00b2, lake\u00b2",
       "recognition": {
-        "2022-08": "100"
+        "2022-08": "100",
+        "2023-09": "100"
       },
       "pu_verbatim": {
         "en": "NOUN water, liquid, fluid, wet substance; beverage",
@@ -14906,7 +15177,8 @@
       "recognition": {
         "2020-04": "14",
         "2021-10": "19",
-        "2022-08": "1"
+        "2022-08": "1",
+        "2023-09": "1"
       },
       "commentary": "Out of use.",
       "def": {
@@ -14967,7 +15239,8 @@
       "creator": "jan Sonja",
       "ku_data": "time\u2075, timing\u2074, session\u2074, occasion\u2074, phase\u2074, moment\u00b3, date\u00b3, circumstance\u00b3, hour\u00b3, appointment\u00b3, scenario\u00b3, event\u00b2, season\u00b2, period\u00b2, interval\u00b2, situation\u00b2, instance\u00b2",
       "recognition": {
-        "2022-08": "100"
+        "2022-08": "100",
+        "2023-09": "100"
       },
       "see_also": "waleja",
       "pu_verbatim": {
@@ -15033,7 +15306,8 @@
       "ku_data": "(closing quotation particle)\u2070",
       "recognition": {
         "2021-10": "38",
-        "2022-08": "11"
+        "2022-08": "11",
+        "2023-09": "14"
       },
       "see_also": "te",
       "commentary": "May be paired with \"te\", or used on its own. It is unclear how accepted either approach is among te / to users.",
@@ -15090,7 +15364,8 @@
       "creator": "jan Wesu, jan inwin",
       "recognition": {
         "2021-10": "18",
-        "2022-08": "1"
+        "2022-08": "1",
+        "2023-09": "2"
       },
       "def": {
         "en": "focus, attention, concentrate, resolution, fineness; focus on",
@@ -15147,7 +15422,8 @@
       "creator": "jan Sonja",
       "ku_data": "communicate\u2075, speak\u2075, say\u2075, conversation\u2075, communication\u2075, hello\u2075, speech\u2075, talk\u2075, language\u2075, tell\u2075, statement\u2075, hi\u2075, discuss\u2075, discussion\u2075, discourse\u2074, mention\u2074, comment\u2074, refer\u2074, message\u2074, express\u00b3, remark\u00b3, dialogue\u00b3, reporting\u00b3, call\u00b3, narrative\u00b3, contact\u00b3, respond\u00b3, commentary\u00b3, disclose\u00b3, proposal\u00b3, admit\u00b3, verbal\u00b3, tale\u00b3, story\u00b3, declare\u00b3, interview\u00b3, testify\u00b3, answer\u00b3, report\u00b3, expression\u00b3, phrase\u00b3, excuse\u00b2, hey\u00b2, response\u00b2, reply\u00b2, greet\u00b2, confess\u00b2, declaration\u00b2, interaction\u00b2, suggest\u00b2, quote\u00b2, state\u00b2, preach\u00b2, describe\u00b2, negotiate\u00b2, specify\u00b2, claim\u00b2, feedback\u00b2, counsel\u00b2, coverage\u00b2, proposition\u00b2, suggestion\u00b2, accuse\u00b2, consult\u00b2",
       "recognition": {
-        "2022-08": "100"
+        "2022-08": "100",
+        "2023-09": "100"
       },
       "pu_verbatim": {
         "en": "VERB to communicate, say, speak, say, talk, use language, think",
@@ -15209,7 +15485,8 @@
       "creator": "jan Sonja",
       "recognition": {
         "2021-10": "3",
-        "2022-08": "0"
+        "2022-08": "0",
+        "2023-09": "0"
       },
       "commentary": "The typo was made by jan Sonja while writing ku. The absolute majority of the community does not treat it as a newly coined word.",
       "def": {
@@ -15265,7 +15542,8 @@
       "creator": "jan Sonja",
       "ku_data": "building\u2075, house\u2075, housing\u2075, chamber\u2075, home\u2075, room\u2075, shelter\u2074, residence\u2074, suite\u00b3, domestic\u00b3, structural\u00b3, structure\u00b3, facility\u00b3, residential\u00b3, establishment\u00b3, household\u00b3, cabin\u00b3, apartment\u00b3, station\u00b2, hall\u00b2, venue\u00b2, institute\u00b2, construction\u00b2",
       "recognition": {
-        "2022-08": "100"
+        "2022-08": "100",
+        "2023-09": "100"
       },
       "pu_verbatim": {
         "en": "NOUN indoor space; building, home, house, room",
@@ -15335,7 +15613,8 @@
       "recognition": {
         "2020-04": "57",
         "2021-10": "89",
-        "2022-08": "86"
+        "2022-08": "86",
+        "2023-09": "83"
       },
       "see_also": "meli, mije, kule",
       "commentary": "Widely regarded in the community to be a crucial addition to toki pona. Occasionally referred to as an \"honorary pu word\" to highlight its status, or equated to a pu word outright.",
@@ -15404,7 +15683,8 @@
       "ku_data": "two\u2075, pair\u2075, double\u2074, both\u2074, twice\u00b3, couple\u00b3, cut\u00b2, divide\u00b2",
       "recognition": {
         "2020-04": "99",
-        "2022-08": "99"
+        "2022-08": "99",
+        "2023-09": "100"
       },
       "see_also": "kipisi",
       "tags": "nimi nanpa",
@@ -15472,7 +15752,8 @@
       "recognition": {
         "2020-04": "26",
         "2021-10": "31",
-        "2022-08": "4"
+        "2022-08": "4",
+        "2023-09": "2"
       },
       "see_also": "san",
       "tags": "nimi nanpa",
@@ -15527,7 +15808,8 @@
       "creator": "jan Sonja",
       "recognition": {
         "2021-10": "28",
-        "2022-08": "1"
+        "2022-08": "1",
+        "2023-09": "1"
       },
       "def": {
         "en": "(word reserved for future use by Sonja Lang)",
@@ -15575,7 +15857,8 @@
       "creator": "jan Wija",
       "recognition": {
         "2021-10": "23",
-        "2022-08": "2"
+        "2022-08": "2",
+        "2023-09": "1"
       },
       "author_verbatim": "to amaze people by being on top of the musi Ako leaderboard",
       "author_verbatim_source": "https://discord.com/channels/301377942062366741/786041291707777034/806023115745263636",
@@ -15627,7 +15910,8 @@
       "creator": "jan Sonja",
       "ku_data": "sex\u2075, sexual\u2075, sexually\u2075, fucking\u00b3, fuck\u00b2",
       "recognition": {
-        "2022-08": "97"
+        "2022-08": "97",
+        "2023-09": "98"
       },
       "pu_verbatim": {
         "en": "VERB to have sexual or marital relations with",
@@ -15693,7 +15977,8 @@
       "ku_data": "purple\u00b2",
       "recognition": {
         "2021-10": "43",
-        "2022-08": "12"
+        "2022-08": "12",
+        "2023-09": "16"
       },
       "see_also": "laso, loje",
       "def": {
@@ -15740,7 +16025,7 @@
       "coined_year": "2019",
       "coined_era": "post-pu",
       "book": "ku lili",
-      "usage_category": "rare",
+      "usage_category": "uncommon",
       "source_language": "Swahili",
       "etymology": "uchawi \u2018witchcraft, sorcery\u2019",
       "etymology_data": {
@@ -15752,7 +16037,8 @@
       "ku_data": "magic\u2070",
       "recognition": {
         "2021-10": "41",
-        "2022-08": "16"
+        "2022-08": "16",
+        "2023-09": "22"
       },
       "see_also": "wawa, nasa",
       "commentary": "Originally, usawi also included \"technology so complex it's impossible to tell apart from magic\" in its meaning, but this meaning has been deprecated by the creator.",
@@ -15816,7 +16102,8 @@
       "creator": "jan Sonja",
       "ku_data": "mouth\u2075, lip\u00b3, kiss\u00b3, jaw\u00b3, bite\u00b2, chew\u00b2",
       "recognition": {
-        "2022-08": "98"
+        "2022-08": "98",
+        "2023-09": "99"
       },
       "pu_verbatim": {
         "en": "NOUN mouth,lips, oral cavity, jaw",
@@ -15889,7 +16176,8 @@
       "creator": "jan Sonja",
       "ku_data": "battle\u2075, fight\u2075, fighting\u2075, combat\u2075, conflict\u2075, contend\u2075, assault\u2075, attack\u2075, versus\u2074, compete\u2074, violent\u2074, challenge\u2074, hit\u2074, violence\u2074, struggle\u00b3, war\u00b3, contest\u00b3, oppose\u00b3, dispute\u00b3, competitive\u00b2, tackle\u00b2, competition\u00b2, aggressive\u00b2, resist\u00b2, beat\u00b2, opposed\u00b2, punch\u00b2, hostile\u00b2, confront\u00b2, riot\u00b2, opposition\u00b2, against\u00b2, strike\u00b2",
       "recognition": {
-        "2022-08": "99"
+        "2022-08": "99",
+        "2023-09": "100"
       },
       "pu_verbatim": {
         "en": "VERB to battle, challenge, compete against struggle against",
@@ -15951,7 +16239,8 @@
       "ku_data": "whoa\u00b2, wow\u00b9",
       "recognition": {
         "2021-10": "39",
-        "2022-08": "13"
+        "2022-08": "13",
+        "2023-09": "17"
       },
       "see_also": "a, n, je",
       "commentary": "Sometimes analyzed as a variety of \"a\".",
@@ -16009,7 +16298,8 @@
       "recognition": {
         "2020-04": "19",
         "2021-10": "34",
-        "2022-08": "5"
+        "2022-08": "5",
+        "2023-09": "3"
       },
       "see_also": "tenpo",
       "commentary": "May be used as a preposition, e.g. \"lipu waleja toki pona = a book about toki pona\". However, this usage is very rare.",
@@ -16069,7 +16359,8 @@
       "creator": "jan Sonja",
       "ku_data": "white\u2075, pale\u2074",
       "recognition": {
-        "2022-08": "98"
+        "2022-08": "98",
+        "2023-09": "100"
       },
       "pu_verbatim": {
         "en": "ADJECTIVE white, whitish; light-coloured, pale",
@@ -16140,7 +16431,8 @@
       "creator": "jan Sonja",
       "ku_data": "one\u2075, united\u2075, unity\u2075, combined\u2074, unite\u2074, single\u2074, unit\u00b3, blend\u00b3, combine\u00b3, union\u00b3, bind\u00b2, solo\u00b2, whole\u00b2, integration\u00b2, integrate\u00b2, component\u00b2, alone\u00b2, together\u00b2, segment\u00b2, mix\u00b2, particular\u00b2, independent\u00b2, portion\u00b2, slice\u00b2, primary\u00b2, combination\u00b2, part\u00b2",
       "recognition": {
-        "2022-08": "100"
+        "2022-08": "100",
+        "2023-09": "100"
       },
       "tags": "nimi nanpa",
       "pu_verbatim": {
@@ -16212,7 +16504,8 @@
       "creator": "jan Sonja",
       "ku_data": "bird\u2075, chicken\u00b3, duck\u00b2, turkey\u00b2, eagle\u00b2, bat\u00b2",
       "recognition": {
-        "2022-08": "99"
+        "2022-08": "99",
+        "2023-09": "99"
       },
       "pu_verbatim": {
         "en": "NOUN bird, flying creature, winged animal",
@@ -16275,7 +16568,8 @@
       "creator": "akesi kon Nalasuni, jan Atenaja",
       "recognition": {
         "2021-10": "22",
-        "2022-08": "3"
+        "2022-08": "3",
+        "2023-09": "6"
       },
       "see_also": "waso, soweli, sutopatikuna",
       "author_verbatim": "In my Caves of Qud mod, I added toki-pona-speaking bird-beasts who call themselves \"wasoweli\"; I figured as 'native speakers' they're entitled to a portmanteau noun for themselves, and that's the only intentional artistic liberty I took with the language.",
@@ -16333,7 +16627,8 @@
       "creator": "jan Sonja",
       "ku_data": "strength\u2075, power\u2075, powerful\u2075, strong\u2075, energy\u2075, strongly\u2075, force\u2074, intense\u2074, bold\u2074, intensity\u2074, reinforce\u2074, firmly\u2074, strengthen\u2074, charge\u00b3, brave\u00b3, rapid\u00b3, electrical\u00b3, might\u00b2, tough\u00b2, electricity\u00b2, fast\u00b2, rapidly\u00b2, compelling\u00b2, confident\u00b2, quickly\u00b2, glory\u00b2, boost\u00b2, severe\u00b2",
       "recognition": {
-        "2022-08": "99"
+        "2022-08": "99",
+        "2023-09": "100"
       },
       "pu_verbatim": {
         "en": "ADJECTIVE strong, powerful; confident, sure; energetic, intense",
@@ -16397,7 +16692,8 @@
       "recognition": {
         "2020-04": "18",
         "2021-10": "24",
-        "2022-08": "2"
+        "2022-08": "2",
+        "2023-09": "4"
       },
       "see_also": "wuwojiti",
       "author_verbatim": "\u2022Something that appears to break the rules but doesn't\n\u2022Faux edginess\n\u2022Provocation",
@@ -16432,6 +16728,30 @@
     },
     "we": {
       "word": "we",
+      "audio": {
+        "kala_asi": "https://raw.githubusercontent.com/lipu-linku/ijo/main/kalama/kalaasi2023/we.mp3"
+      },
+      "coined_year": "2022",
+      "coined_era": "post-ku",
+      "book": "none",
+      "usage_category": "obscure",
+      "source_language": "Spanish",
+      "etymology": "g\u00fcey \u2018man\u2019",
+      "etymology_data": {
+        "langs": "Spanish",
+        "words": "g\u00fcey",
+        "defs": "man"
+      },
+      "creator": "jan Kiwisin, jan Telupiso",
+      "recognition": {
+        "2023-09": "2"
+      },
+      "def": {
+        "en": "guy, pal, friend, buddy"
+      }
+    },
+    "we1": {
+      "word": "we",
       "sitelen_pona": "we",
       "sitelen_emosi": "\ud83d\udd12",
       "audio": {
@@ -16451,7 +16771,8 @@
       "creator": "jan inwin",
       "recognition": {
         "2021-10": "19",
-        "2022-08": "1"
+        "2022-08": "1",
+        "2023-09": "1"
       },
       "commentary": "Out of use.",
       "def": {
@@ -16509,7 +16830,8 @@
       "creator": "jan Sonja",
       "ku_data": "rid\u2075, removal\u2075, remove\u2075, eliminate\u2074, apart\u2074, omit\u2074, missing\u2074, away\u2074, absence\u2074, loss\u2074, dismiss\u2074, delete\u2074, distant\u2074, leave\u2074, abandon\u2074, vanish\u00b3, far\u00b3, disappear\u00b3, avoid\u00b3, exclude\u00b3, out\u00b3, escape\u00b3, distance\u00b3, drain\u00b2, flee\u00b2, withdraw\u00b2, reject\u00b2, ban\u00b2, sweep\u00b2, exit\u00b2, resign\u00b2, separation\u00b2, skip\u00b2, strip\u00b2, wipe\u00b2, fade\u00b2, lack\u00b2, remote\u00b2, lose\u00b2, separate\u00b2",
       "recognition": {
-        "2022-08": "99"
+        "2022-08": "99",
+        "2023-09": "99"
       },
       "pu_verbatim": {
         "en": "ADJECTIVE absent, away, ignored",
@@ -16572,7 +16894,8 @@
       "creator": "jan ko",
       "recognition": {
         "2021-10": "25",
-        "2022-08": "5"
+        "2022-08": "5",
+        "2023-09": "5"
       },
       "see_also": "weka, kama",
       "author_verbatim": "also, when i meant wekama, i meant weka, then kama",
@@ -16625,7 +16948,8 @@
       "creator": "jan inwin",
       "recognition": {
         "2020-04": "14",
-        "2022-08": "0"
+        "2022-08": "0",
+        "2023-09": "1"
       },
       "see_also": "mi",
       "def": {
@@ -16683,7 +17007,8 @@
       "creator": "jan Sonja",
       "ku_data": "want\u2075, wish\u2075, intend\u2075, require\u2075, need\u2075, desire\u2075, intention\u2075, willing\u2075, will\u2075, intent\u2074, preference\u2074, motivation\u2074, necessity\u2074, ought\u2074, yearn\u2074, necessary\u2074, willingness\u2074, ambition\u2074, hope\u2074, prefer\u2074, requirement\u2074, required\u2074, must\u00b3, obligation\u00b3, decision\u00b3, should\u00b3, demand\u00b3, eager\u00b3, request\u00b3, agenda\u00b3, goal\u00b2, would\u00b2, select\u00b2, motive\u00b2, interested\u00b2, criteria\u00b2, dare\u00b2, opt\u00b2, choose\u00b2, consent\u00b2, expectation\u00b2, shall\u00b2, urge\u00b2, determination\u00b2, pick\u00b2, objective\u00b2, depend\u00b2, elect\u00b2, dependent\u00b2, deserve\u00b2, selection\u00b2, incentive\u00b2, strive\u00b2, choice\u00b2, supposed\u00b2, interest\u00b2, enthusiasm\u00b2",
       "recognition": {
-        "2022-08": "100"
+        "2022-08": "100",
+        "2023-09": "100"
       },
       "pu_verbatim": {
         "en": "PRE-VERB must, need, require, should, want, wish",
@@ -16735,7 +17060,7 @@
       "coined_year": "2018",
       "coined_era": "post-pu",
       "book": "none",
-      "usage_category": "rare",
+      "usage_category": "uncommon",
       "source_language": "toki pona",
       "etymology": "syllables wu, wo, ji, and ti",
       "etymology_data": {
@@ -16745,7 +17070,8 @@
       },
       "creator": "unknown",
       "recognition": {
-        "2022-08": "13"
+        "2022-08": "13",
+        "2023-09": "22"
       },
       "commentary": "May be seen not as a word in toki pona, but as a kind of memorisation tool in English to refer to the \"banned\" syllables.",
       "def": {
@@ -16778,7 +17104,7 @@
       "coined_year": "2019",
       "coined_era": "post-pu",
       "book": "ku lili",
-      "usage_category": "rare",
+      "usage_category": "uncommon",
       "source_language": "a priori",
       "etymology_data": {
         "langs": "a priori"
@@ -16788,7 +17114,8 @@
       "recognition": {
         "2020-04": "27",
         "2021-10": "40",
-        "2022-08": "16"
+        "2022-08": "16",
+        "2023-09": "22"
       },
       "commentary": "Coined as a random keystroke. It is presumed jan Sonja used \"y\" by mistake, but then make it part of the joke by adding \"nobody knows how to pronounce the y\".",
       "def": {
@@ -16841,7 +17168,8 @@
       },
       "creator": "inari",
       "recognition": {
-        "2022-08": "3"
+        "2022-08": "3",
+        "2023-09": "2"
       },
       "see_also": "mun",
       "author_verbatim": "discord star emoji",
