@@ -8,11 +8,11 @@
       "credits": "Dox",
       "completeness_percent": {
         "obscure": "9",
-        "rare": "12",
-        "uncommon": "13",
-        "common": "13",
-        "widespread": "13",
-        "core": "20"
+        "rare": "15",
+        "uncommon": "16",
+        "common": "17",
+        "widespread": "17",
+        "core": "19"
       }
     },
     "ceb_l": {
@@ -23,11 +23,11 @@
       "credits": "jan Lakuwinsu",
       "completeness_percent": {
         "obscure": "9",
-        "rare": "12",
-        "uncommon": "13",
-        "common": "14",
-        "widespread": "14",
-        "core": "21"
+        "rare": "15",
+        "uncommon": "17",
+        "common": "17",
+        "widespread": "18",
+        "core": "20"
       }
     },
     "cs": {
@@ -38,11 +38,11 @@
       "credits": "jan Kataki",
       "completeness_percent": {
         "obscure": "98",
-        "rare": "82",
-        "uncommon": "80",
-        "common": "79",
-        "widespread": "78",
-        "core": "106"
+        "rare": "100",
+        "uncommon": "100",
+        "common": "100",
+        "widespread": "100",
+        "core": "100"
       }
     },
     "cy": {
@@ -53,11 +53,11 @@
       "credits": "jan Lali Lita (Ra'ees Richards)",
       "completeness_percent": {
         "obscure": "15",
-        "rare": "12",
-        "uncommon": "13",
-        "common": "13",
-        "widespread": "13",
-        "core": "19"
+        "rare": "15",
+        "uncommon": "16",
+        "common": "17",
+        "widespread": "17",
+        "core": "18"
       }
     },
     "da": {
@@ -68,11 +68,11 @@
       "credits": "VikingCow, pan Waja",
       "completeness_percent": {
         "obscure": "98",
-        "rare": "82",
-        "uncommon": "80",
-        "common": "79",
-        "widespread": "78",
-        "core": "106"
+        "rare": "100",
+        "uncommon": "100",
+        "common": "100",
+        "widespread": "100",
+        "core": "100"
       }
     },
     "de": {
@@ -83,11 +83,11 @@
       "credits": "jan Alonola, jan Ke Tami, jan Jonatan",
       "completeness_percent": {
         "obscure": "93",
-        "rare": "81",
-        "uncommon": "79",
-        "common": "79",
-        "widespread": "78",
-        "core": "106"
+        "rare": "98",
+        "uncommon": "99",
+        "common": "100",
+        "widespread": "100",
+        "core": "100"
       }
     },
     "el": {
@@ -98,11 +98,11 @@
       "credits": "jan Anesi",
       "completeness_percent": {
         "obscure": "98",
-        "rare": "82",
-        "uncommon": "80",
-        "common": "79",
-        "widespread": "78",
-        "core": "106"
+        "rare": "100",
+        "uncommon": "100",
+        "common": "100",
+        "widespread": "100",
+        "core": "100"
       }
     },
     "en": {
@@ -113,11 +113,11 @@
       "credits": "jan Sonja, jan inwin, jan Pensa, lipamanka, kapesi Pake",
       "completeness_percent": {
         "obscure": "100",
-        "rare": "82",
-        "uncommon": "80",
-        "common": "79",
-        "widespread": "78",
-        "core": "106"
+        "rare": "100",
+        "uncommon": "100",
+        "common": "100",
+        "widespread": "100",
+        "core": "100"
       }
     },
     "eo": {
@@ -128,11 +128,11 @@
       "credits": "jan Pensa, kapesi Pake",
       "completeness_percent": {
         "obscure": "93",
-        "rare": "81",
-        "uncommon": "79",
-        "common": "79",
-        "widespread": "78",
-        "core": "106"
+        "rare": "98",
+        "uncommon": "99",
+        "common": "100",
+        "widespread": "100",
+        "core": "100"
       }
     },
     "es": {
@@ -143,11 +143,11 @@
       "credits": "kapesi Pake, kijete Ampo, akesi kasi Panime, Andrea Dolores, jan Kima, Jos\u00e9 Loera, F Anon, jan Sila, jan Telupiso, jan Lina",
       "completeness_percent": {
         "obscure": "98",
-        "rare": "82",
-        "uncommon": "80",
-        "common": "79",
-        "widespread": "78",
-        "core": "106"
+        "rare": "100",
+        "uncommon": "100",
+        "common": "100",
+        "widespread": "100",
+        "core": "100"
       }
     },
     "fi": {
@@ -158,11 +158,11 @@
       "credits": "jan Asona",
       "completeness_percent": {
         "obscure": "65",
-        "rare": "76",
-        "uncommon": "79",
-        "common": "79",
-        "widespread": "78",
-        "core": "106"
+        "rare": "93",
+        "uncommon": "99",
+        "common": "100",
+        "widespread": "100",
+        "core": "100"
       }
     },
     "fr": {
@@ -173,11 +173,11 @@
       "credits": "jan Nisu, jan Alekan, jan Aleko",
       "completeness_percent": {
         "obscure": "98",
-        "rare": "82",
-        "uncommon": "80",
-        "common": "79",
-        "widespread": "78",
-        "core": "106"
+        "rare": "100",
+        "uncommon": "100",
+        "common": "100",
+        "widespread": "100",
+        "core": "100"
       }
     },
     "haw": {
@@ -188,11 +188,11 @@
       "credits": "jan Silisili, pan Wija",
       "completeness_percent": {
         "obscure": "46",
-        "rare": "62",
-        "uncommon": "68",
-        "common": "71",
-        "widespread": "73",
-        "core": "106"
+        "rare": "76",
+        "uncommon": "84",
+        "common": "89",
+        "widespread": "93",
+        "core": "100"
       }
     },
     "he": {
@@ -203,11 +203,11 @@
       "credits": "jan Jaten, ilo Kesija",
       "completeness_percent": {
         "obscure": "21",
-        "rare": "21",
-        "uncommon": "21",
-        "common": "19",
-        "widespread": "19",
-        "core": "25"
+        "rare": "25",
+        "uncommon": "26",
+        "common": "24",
+        "widespread": "24",
+        "core": "23"
       }
     },
     "hi": {
@@ -218,11 +218,11 @@
       "credits": "jan Sewi, jan Wato",
       "completeness_percent": {
         "obscure": "38",
-        "rare": "25",
-        "uncommon": "18",
-        "common": "15",
-        "widespread": "13",
-        "core": "12"
+        "rare": "30",
+        "uncommon": "23",
+        "common": "20",
+        "widespread": "16",
+        "core": "11"
       }
     },
     "hr": {
@@ -233,11 +233,11 @@
       "credits": "Zenithium",
       "completeness_percent": {
         "obscure": "94",
-        "rare": "81",
-        "uncommon": "79",
-        "common": "79",
-        "widespread": "78",
-        "core": "106"
+        "rare": "98",
+        "uncommon": "99",
+        "common": "100",
+        "widespread": "100",
+        "core": "100"
       }
     },
     "id": {
@@ -248,11 +248,11 @@
       "credits": "jan Melon, jan Lanu",
       "completeness_percent": {
         "obscure": "79",
-        "rare": "79",
-        "uncommon": "78",
-        "common": "77",
-        "widespread": "76",
-        "core": "104"
+        "rare": "96",
+        "uncommon": "97",
+        "common": "97",
+        "widespread": "97",
+        "core": "98"
       }
     },
     "io": {
@@ -263,10 +263,10 @@
       "credits": "kapesi Pake",
       "completeness_percent": {
         "obscure": "34",
-        "rare": "18",
-        "uncommon": "12",
-        "common": "8",
-        "widespread": "6",
+        "rare": "23",
+        "uncommon": "15",
+        "common": "11",
+        "widespread": "7",
         "core": "0"
       }
     },
@@ -278,11 +278,11 @@
       "credits": "kala Asi",
       "completeness_percent": {
         "obscure": "75",
-        "rare": "75",
-        "uncommon": "77",
-        "common": "78",
-        "widespread": "78",
-        "core": "106"
+        "rare": "92",
+        "uncommon": "95",
+        "common": "99",
+        "widespread": "99",
+        "core": "100"
       }
     },
     "isv_l": {
@@ -293,11 +293,11 @@
       "credits": "kala Asi",
       "completeness_percent": {
         "obscure": "75",
-        "rare": "75",
-        "uncommon": "77",
-        "common": "78",
-        "widespread": "78",
-        "core": "106"
+        "rare": "92",
+        "uncommon": "95",
+        "common": "99",
+        "widespread": "99",
+        "core": "100"
       }
     },
     "it": {
@@ -308,11 +308,11 @@
       "credits": "jan Lopeto",
       "completeness_percent": {
         "obscure": "93",
-        "rare": "81",
-        "uncommon": "79",
-        "common": "79",
-        "widespread": "78",
-        "core": "106"
+        "rare": "98",
+        "uncommon": "99",
+        "common": "100",
+        "widespread": "100",
+        "core": "100"
       }
     },
     "ith_n": {
@@ -324,9 +324,9 @@
       "completeness_percent": {
         "obscure": "2",
         "rare": "3",
-        "uncommon": "3",
-        "common": "3",
-        "widespread": "3",
+        "uncommon": "4",
+        "common": "4",
+        "widespread": "4",
         "core": "5"
       }
     },
@@ -338,11 +338,11 @@
       "credits": "jan Umijotalu",
       "completeness_percent": {
         "obscure": "98",
-        "rare": "82",
-        "uncommon": "80",
-        "common": "79",
-        "widespread": "78",
-        "core": "106"
+        "rare": "100",
+        "uncommon": "100",
+        "common": "100",
+        "widespread": "100",
+        "core": "100"
       }
     },
     "ko": {
@@ -353,11 +353,11 @@
       "credits": "jan Ijan",
       "completeness_percent": {
         "obscure": "32",
-        "rare": "43",
-        "uncommon": "46",
-        "common": "48",
-        "widespread": "50",
-        "core": "72"
+        "rare": "52",
+        "uncommon": "58",
+        "common": "61",
+        "widespread": "63",
+        "core": "68"
       }
     },
     "la": {
@@ -368,11 +368,11 @@
       "credits": "jan Jonatan",
       "completeness_percent": {
         "obscure": "76",
-        "rare": "80",
-        "uncommon": "79",
-        "common": "79",
-        "widespread": "78",
-        "core": "106"
+        "rare": "98",
+        "uncommon": "99",
+        "common": "100",
+        "widespread": "100",
+        "core": "100"
       }
     },
     "lt": {
@@ -383,11 +383,11 @@
       "credits": "jan Simona",
       "completeness_percent": {
         "obscure": "7",
-        "rare": "9",
-        "uncommon": "10",
-        "common": "11",
-        "widespread": "11",
-        "core": "16"
+        "rare": "11",
+        "uncommon": "13",
+        "common": "14",
+        "widespread": "14",
+        "core": "15"
       }
     },
     "mi": {
@@ -398,11 +398,11 @@
       "credits": "jan Silisili",
       "completeness_percent": {
         "obscure": "46",
-        "rare": "62",
-        "uncommon": "68",
-        "common": "71",
-        "widespread": "73",
-        "core": "106"
+        "rare": "76",
+        "uncommon": "84",
+        "common": "89",
+        "widespread": "93",
+        "core": "100"
       }
     },
     "nl": {
@@ -413,11 +413,11 @@
       "credits": "jan Jelo, jan Kasape",
       "completeness_percent": {
         "obscure": "66",
-        "rare": "81",
-        "uncommon": "80",
-        "common": "79",
-        "widespread": "78",
-        "core": "106"
+        "rare": "99",
+        "uncommon": "100",
+        "common": "100",
+        "widespread": "100",
+        "core": "100"
       }
     },
     "nno": {
@@ -428,11 +428,11 @@
       "credits": "jan Okun",
       "completeness_percent": {
         "obscure": "61",
-        "rare": "81",
-        "uncommon": "80",
-        "common": "79",
-        "widespread": "78",
-        "core": "106"
+        "rare": "99",
+        "uncommon": "100",
+        "common": "100",
+        "widespread": "100",
+        "core": "100"
       }
     },
     "nob": {
@@ -443,11 +443,11 @@
       "credits": "jan Okun",
       "completeness_percent": {
         "obscure": "61",
-        "rare": "81",
-        "uncommon": "80",
-        "common": "79",
-        "widespread": "78",
-        "core": "106"
+        "rare": "99",
+        "uncommon": "100",
+        "common": "100",
+        "widespread": "100",
+        "core": "100"
       }
     },
     "pa": {
@@ -458,10 +458,10 @@
       "credits": "jan Sewi",
       "completeness_percent": {
         "obscure": "33",
-        "rare": "18",
-        "uncommon": "11",
-        "common": "8",
-        "widespread": "5",
+        "rare": "22",
+        "uncommon": "14",
+        "common": "10",
+        "widespread": "6",
         "core": "0"
       }
     },
@@ -473,11 +473,11 @@
       "credits": "jan Alonola, jan Kita, Zy",
       "completeness_percent": {
         "obscure": "98",
-        "rare": "82",
-        "uncommon": "80",
-        "common": "79",
-        "widespread": "78",
-        "core": "106"
+        "rare": "100",
+        "uncommon": "100",
+        "common": "100",
+        "widespread": "100",
+        "core": "100"
       }
     },
     "pt": {
@@ -488,11 +488,11 @@
       "credits": "MaroonShaded, soweli Anja, jan Wito",
       "completeness_percent": {
         "obscure": "52",
-        "rare": "65",
-        "uncommon": "70",
-        "common": "72",
-        "widespread": "75",
-        "core": "106"
+        "rare": "79",
+        "uncommon": "87",
+        "common": "91",
+        "widespread": "95",
+        "core": "100"
       }
     },
     "ro": {
@@ -503,11 +503,11 @@
       "credits": "Kayo",
       "completeness_percent": {
         "obscure": "18",
-        "rare": "24",
-        "uncommon": "26",
-        "common": "27",
-        "widespread": "27",
-        "core": "39"
+        "rare": "29",
+        "uncommon": "32",
+        "common": "34",
+        "widespread": "35",
+        "core": "36"
       }
     },
     "ru": {
@@ -518,11 +518,11 @@
       "credits": "kala Asi",
       "completeness_percent": {
         "obscure": "98",
-        "rare": "82",
-        "uncommon": "80",
-        "common": "79",
-        "widespread": "78",
-        "core": "106"
+        "rare": "100",
+        "uncommon": "100",
+        "common": "100",
+        "widespread": "100",
+        "core": "100"
       }
     },
     "sl": {
@@ -548,11 +548,11 @@
       "credits": "jan Lilin, jan Supantelaso",
       "completeness_percent": {
         "obscure": "98",
-        "rare": "82",
-        "uncommon": "80",
-        "common": "79",
-        "widespread": "78",
-        "core": "106"
+        "rare": "100",
+        "uncommon": "100",
+        "common": "100",
+        "widespread": "100",
+        "core": "100"
       }
     },
     "tkl": {
@@ -563,11 +563,11 @@
       "credits": "jan Silisili",
       "completeness_percent": {
         "obscure": "46",
-        "rare": "62",
-        "uncommon": "68",
-        "common": "71",
-        "widespread": "73",
-        "core": "106"
+        "rare": "76",
+        "uncommon": "84",
+        "common": "89",
+        "widespread": "93",
+        "core": "100"
       }
     },
     "tl_l": {
@@ -578,11 +578,11 @@
       "credits": "jan Nikola, ok boye, ilo Anjo",
       "completeness_percent": {
         "obscure": "55",
-        "rare": "73",
-        "uncommon": "79",
-        "common": "78",
-        "widespread": "78",
-        "core": "106"
+        "rare": "90",
+        "uncommon": "98",
+        "common": "99",
+        "widespread": "99",
+        "core": "100"
       }
     },
     "tok": {
@@ -593,11 +593,11 @@
       "credits": "jan Kita, kapesi Pake, jan Seli, anomyq, kili pan Juli, pan Wija",
       "completeness_percent": {
         "obscure": "96",
-        "rare": "81",
-        "uncommon": "79",
-        "common": "79",
-        "widespread": "78",
-        "core": "106"
+        "rare": "98",
+        "uncommon": "99",
+        "common": "100",
+        "widespread": "100",
+        "core": "100"
       }
     },
     "tr": {
@@ -608,11 +608,11 @@
       "credits": "razorlovesbaba, anomyq",
       "completeness_percent": {
         "obscure": "98",
-        "rare": "82",
-        "uncommon": "80",
-        "common": "79",
-        "widespread": "78",
-        "core": "106"
+        "rare": "100",
+        "uncommon": "100",
+        "common": "100",
+        "widespread": "100",
+        "core": "100"
       }
     },
     "uk": {
@@ -623,11 +623,11 @@
       "credits": "kije Enki",
       "completeness_percent": {
         "obscure": "98",
-        "rare": "82",
-        "uncommon": "80",
-        "common": "79",
-        "widespread": "78",
-        "core": "106"
+        "rare": "100",
+        "uncommon": "100",
+        "common": "100",
+        "widespread": "100",
+        "core": "100"
       }
     },
     "ur": {
@@ -638,10 +638,10 @@
       "credits": "jan Sewi",
       "completeness_percent": {
         "obscure": "33",
-        "rare": "18",
-        "uncommon": "11",
-        "common": "8",
-        "widespread": "5",
+        "rare": "22",
+        "uncommon": "14",
+        "common": "10",
+        "widespread": "6",
         "core": "0"
       }
     },
@@ -653,11 +653,11 @@
       "credits": "ItMarki",
       "completeness_percent": {
         "obscure": "98",
-        "rare": "82",
-        "uncommon": "80",
-        "common": "79",
-        "widespread": "78",
-        "core": "106"
+        "rare": "100",
+        "uncommon": "100",
+        "common": "100",
+        "widespread": "100",
+        "core": "100"
       }
     },
     "zh_hant": {
@@ -668,11 +668,11 @@
       "credits": "ItMarki",
       "completeness_percent": {
         "obscure": "98",
-        "rare": "82",
-        "uncommon": "80",
-        "common": "79",
-        "widespread": "78",
-        "core": "106"
+        "rare": "100",
+        "uncommon": "100",
+        "common": "100",
+        "widespread": "100",
+        "core": "100"
       }
     }
   },
