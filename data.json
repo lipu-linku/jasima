@@ -410,7 +410,7 @@
       "name_endonym": "Nederlands",
       "name_english": "Dutch",
       "name_toki_pona": "toki Netelan",
-      "credits": "jan Jelo, jan Kasape",
+      "credits": "jan Jelo, jan Kasape, jan Pensa",
       "completeness_percent": {
         "obscure": "66",
         "rare": "99",
@@ -1927,8 +1927,9 @@
       },
       "author_verbatim": "distress, affliction, adversity, pain",
       "author_verbatim_source": "https://discord.com/channels/301377942062366741/375591429608570881/1072666397626335242",
+      "commentary": "an experience with the quality of being deeply felt or important to oneself while defying classification as positive, negative, or a simply described admixture of positive and negative",
       "def": {
-        "en": "distress, affliction, adversity, pain"
+        "en": "trial, adversity, challenge; bittersweet"
       }
     },
     "en": {
