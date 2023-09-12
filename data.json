@@ -97,7 +97,7 @@
       "name_toki_pona": "toki Elena",
       "credits": "jan Anesi",
       "completeness_percent": {
-        "obscure": "98",
+        "obscure": "100",
         "rare": "100",
         "uncommon": "100",
         "common": "100",
@@ -1929,7 +1929,8 @@
       "author_verbatim_source": "https://discord.com/channels/301377942062366741/375591429608570881/1072666397626335242",
       "commentary": "an experience with the quality of being deeply felt or important to oneself while defying classification as positive, negative, or a simply described admixture of positive and negative",
       "def": {
-        "en": "trial, adversity; bittersweet"
+        "en": "trial, adversity; bittersweet",
+        "el": "\u0394\u03c5\u03c3\u03ba\u03bf\u03bb\u03af\u03b1, \u03b3\u03bb\u03c5\u03ba\u03cc\u03be\u03b9\u03bd\u03bf"
       }
     },
     "en": {
@@ -11197,7 +11198,8 @@
         "2023-09": "3"
       },
       "def": {
-        "en": "[misspelling of pakala]"
+        "en": "[misspelling of pakala]",
+        "el": "[\u039f\u03c1\u03b8\u03bf\u03b3\u03c1\u03b1\u03c6\u03b9\u03ba\u03cc \u03bb\u03ac\u03b8\u03bf\u03c2 \u03c4\u03bf\u03c5 pakala]"
       }
     },
     "pali": {
@@ -16748,7 +16750,8 @@
         "2023-09": "2"
       },
       "def": {
-        "en": "guy, pal, friend, buddy"
+        "en": "guy, pal, friend, buddy",
+        "el": "\u03a6\u03af\u03bb\u03bf\u03c2, \u03c6\u03b9\u03bb\u03b1\u03c1\u03ac\u03ba\u03b9, \u03bc\u03ac\u03b3\u03ba\u03b1\u03c2"
       }
     },
     "we1": {
