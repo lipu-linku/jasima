@@ -337,7 +337,7 @@
       "name_toki_pona": "toki Nijon",
       "credits": "jan Umijotalu",
       "completeness_percent": {
-        "obscure": "98",
+        "obscure": "100",
         "rare": "100",
         "uncommon": "100",
         "common": "100",
@@ -1930,6 +1930,7 @@
       "commentary": "an experience with the quality of being deeply felt or important to oneself while defying classification as positive, negative, or a simply described admixture of positive and negative",
       "def": {
         "en": "trial, adversity; bittersweet",
+        "ja": "\u8a66\u7df4\u3001\u82e6\u96e3\u3001\u307b\u308d\u82e6\u3044\u7d4c\u9a13",
         "el": "\u0394\u03c5\u03c3\u03ba\u03bf\u03bb\u03af\u03b1, \u03b3\u03bb\u03c5\u03ba\u03cc\u03be\u03b9\u03bd\u03bf"
       }
     },
@@ -11199,6 +11200,7 @@
       },
       "def": {
         "en": "[misspelling of pakala]",
+        "ja": "[pakala \u306e\u8aa4\u5b57]",
         "el": "[\u039f\u03c1\u03b8\u03bf\u03b3\u03c1\u03b1\u03c6\u03b9\u03ba\u03cc \u03bb\u03ac\u03b8\u03bf\u03c2 \u03c4\u03bf\u03c5 pakala]"
       }
     },
@@ -16751,6 +16753,7 @@
       },
       "def": {
         "en": "guy, pal, friend, buddy",
+        "ja": "\u53cb\u9054\u3001\u30c0\u30c1\u3001\u76f8\u68d2",
         "el": "\u03a6\u03af\u03bb\u03bf\u03c2, \u03c6\u03b9\u03bb\u03b1\u03c1\u03ac\u03ba\u03b9, \u03bc\u03ac\u03b3\u03ba\u03b1\u03c2"
       }
     },
