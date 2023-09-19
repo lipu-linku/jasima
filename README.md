@@ -64,6 +64,7 @@ All children of `etymology_data` have the same list length once split on `;`.
   audio:
     [author]: URL to the audio of the word being spoken by [author].
   coined_era: One of [pre-pu, post-pu, post-ku] indicating the "era" the word was created in, relative to the publishing of the Toki Pona books.
+  coined_year: The year a word was coined.
   book: One of [pu, ku suli, ku lili, none] indicating what Toki Pona book the word was first documented in.
   usage_category: One of [core, widespread, common, uncommon, rare, obscure] indicating the word's popularity.
   source_language: The language(s) the word derives from.
