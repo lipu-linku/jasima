@@ -410,7 +410,7 @@
       "name_endonym": "Nederlands",
       "name_english": "Dutch",
       "name_toki_pona": "toki Netelan",
-      "credits": "jan Jelo, jan Kasape, jan Pensa",
+      "credits": "jan Jelo, jan Kasape, jan Pensa, ken la jan Matesi",
       "completeness_percent": {
         "obscure": "66",
         "rare": "99",
@@ -714,7 +714,7 @@
       "description": "enko entry"
     },
     "lipamanka": {
-      "description": "linja sike, commentary"
+      "description": "commentary, misc other"
     },
     "nimi ale pona": {
       "description": "definitions (English, Esperanto), most of the metadata (creators, etymology, see also)"
