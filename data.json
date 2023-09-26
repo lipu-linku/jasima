@@ -622,7 +622,7 @@
       "name_toki_pona": "toki Ukawina",
       "credits": "kije Enki",
       "completeness_percent": {
-        "obscure": "98",
+        "obscure": "100",
         "rare": "100",
         "uncommon": "100",
         "common": "100",
@@ -1932,6 +1932,7 @@
       "commentary": "an experience with the quality of being deeply felt or important to oneself while defying classification as positive, negative, or a simply described admixture of positive and negative",
       "def": {
         "en": "trial, adversity; bittersweet",
+        "uk": "\u043f\u043e\u0447\u0443\u0442\u0442\u044f, \u043a\u043e\u043b\u0438 \u0445\u0442\u043e\u0441\u044c \u043f\u043e\u0432\u02bc\u044f\u0437\u0430\u043d\u0438\u0439 \u0437 \u0447\u0438\u043c\u043e\u0441\u044c, \u0430\u043b\u0435 \u0457\u043c \u043d\u0435 \u043f\u043e\u0434\u043e\u0431\u0430\u0454\u0442\u044c\u0441\u044f, \u043a\u043e\u043b\u0438 \u0447\u0435\u0440\u0435\u0437 \u0446\u0435 \u0432\u0432\u0430\u0436\u0430\u044e\u0442\u044c, \u0449\u043e \u0446\u0456 \u00ab\u0445\u0442\u043e\u0441\u044c\u00bb \u043f\u043e\u0437\u0438\u0442\u0438\u0432\u043d\u043e \u0447\u0438 \u043d\u0435\u0433\u0430\u0442\u0438\u0432\u043d\u043e \u0434\u043e \u0446\u044c\u043e\u0433\u043e \u00ab\u0447\u043e\u0433\u043e\u0441\u044c\u00bb \u0441\u0442\u0430\u0432\u0438\u0442\u044c\u0441\u044f; \u043a\u0438\u0441\u043b\u043e-\u0441\u043e\u043b\u043e\u0434\u043a\u0438\u0439",
         "ja": "\u8a66\u7df4\u3001\u82e6\u96e3\u3001\u307b\u308d\u82e6\u3044\u7d4c\u9a13",
         "el": "\u0394\u03c5\u03c3\u03ba\u03bf\u03bb\u03af\u03b1, \u03b3\u03bb\u03c5\u03ba\u03cc\u03be\u03b9\u03bd\u03bf"
       }
@@ -3982,7 +3983,7 @@
         "tr": "Caryophyllales tak\u0131m\u0131ndaki b\u00fct\u00fcn bitkiler, \u00f6r. kakt\u00fcsler, karanfiller, turplar, \u00e7o\u011fu etobur bitkiler",
         "zh_hant": "\u77f3\u7af9\u76ee\u690d\u7269\uff0c\u5305\u62ec\u6240\u6709\u4ed9\u4eba\u638c\u4ee5\u53ca\u5eb7\u4e43\u99a8\u3001\u751c\u83dc\u548c\u8a31\u591a\u98df\u8089\u690d\u7269",
         "zh_hans": "\u77f3\u7af9\u76ee\u690d\u7269\uff0c\u5305\u62ec\u6240\u6709\u4ed9\u4eba\u638c\u4ee5\u53ca\u5eb7\u4e43\u99a8\u3001\u751c\u83dc\u548c\u8bb8\u591a\u98df\u8089\u690d\u7269",
-        "uk": "\u0440\u043e\u0441\u043b\u0438\u043d\u0430 \u0437 \u0433\u0440\u0443\u043f\u0438 Caryophyllales, \u0432\u043a\u043b\u044e\u0447\u0430\u044e\u0447\u0438 \u0432\u0441\u0456 \u043a\u0430\u043a\u0442\u0443\u0441\u0438, \u0430 \u0442\u0430\u043a\u043e\u0436 \u0433\u0432\u043e\u0437\u0434\u0438\u043a\u0438, \u0431\u0443\u0440\u044f\u043a \u0442\u0430 \u0431\u0430\u0433\u0430\u0442\u043e \u043c\u2019\u044f\u0441\u043e\u0457\u0434\u043d\u0438\u0445 \u0440\u043e\u0441\u043b\u0438\u043d",
+        "uk": "\u0440\u043e\u0441\u043b\u0438\u043d\u0430 \u0437 \u043f\u043e\u0440\u044f\u0434\u043a\u0443 \u0413\u0432\u043e\u0437\u0434\u0438\u043a\u043e\u0446\u0432\u0456\u0442\u0438\u0445, \u0432\u043a\u043b\u044e\u0447\u0430\u044e\u0447\u0438 \u0432\u0441\u0456 \u043a\u0430\u043a\u0442\u0443\u0441\u0438, \u0430 \u0442\u0430\u043a\u043e\u0436 \u0433\u0432\u043e\u0437\u0434\u0438\u043a\u0438, \u0431\u0443\u0440\u044f\u043a \u0442\u0430 \u0431\u0430\u0433\u0430\u0442\u043e \u043c\u2019\u044f\u0441\u043e\u0457\u0434\u043d\u0438\u0445 \u0440\u043e\u0441\u043b\u0438\u043d",
         "da": "medlem af ordenen Caryophyllales, der omfatter alle kaktusser samt nelliker, roer og mange k\u00f8d\u00e6dende planter",
         "sv": "v\u00e4xter innom ordningen Caryophyllales (nejlikeordningen) inklusive alla kaktusar samt tr\u00e4dg\u00e5rdsnejlika, r\u00f6dbetor och m\u00e5nga k\u00f6tt\u00e4tande v\u00e4xter",
         "ja": "\u30ca\u30c7\u30b7\u30b3\u76ee\u306e\u690d\u7269 (\u3042\u3089\u3086\u308b\u30b5\u30dc\u30c6\u30f3\u3001\u30ab\u30fc\u30cd\u30fc\u30b7\u30e7\u30f3\u3001\u30c6\u30f3\u30b5\u30a4\u3001\u304a\u3088\u3073\u591a\u304f\u306e\u98df\u866b\u690d\u7269\u3092\u542b\u3080)",
@@ -4657,7 +4658,7 @@
         "zh_hant": "LGBT+ \u7684",
         "zh_hans": "LGBT+ \u7684",
         "fi": "queer, LGBT+",
-        "uk": "\u043a\u0432\u0456\u0440, \u041b\u0413\u0411\u0422+",
+        "uk": "\u043a\u0432\u0456\u0440, \u041b\u0490\u0411\u0422+",
         "da": "queer, LGBT+",
         "hr": "LGBT+",
         "cy": "cwiar, LHDT",
@@ -10282,7 +10283,7 @@
         "tr": "\"cu\" ve \"m\u0131yala\" tarz\u0131 bir toki pona espirisi",
         "zh_hant": "\u82f1\u8a9e\u6897\u300cligma\u300d\u7684\u9053\u672c\u8a9e\u7248\u672c",
         "zh_hans": "\u82f1\u8bed\u6897\u201dligma\u201c\u7684\u9053\u672c\u8bed\u7248\u672c",
-        "uk": "\u0430\u0434\u0430\u043f\u0442\u0430\u0446\u0456\u044f \u0430\u043d\u0433\u043b\u0456\u0439\u0441\u044c\u043a\u043e\u0433\u043e \u0436\u0430\u0440\u0442\u0443 \"\u043b\u0456\u0433\u043c\u0430\" \u0443 \u0442\u043e\u043a\u0456 \u043f\u043e\u043d\u0456",
+        "uk": "\u0430\u0434\u0430\u043f\u0442\u0430\u0446\u0456\u044f \u0430\u043d\u0433\u043b\u0456\u0439\u0441\u044c\u043a\u043e\u0433\u043e \u0436\u0430\u0440\u0442\u0443 \u00ab\u043b\u0456\u0491\u043c\u0430\u00bb \u0443 \u0442\u043e\u043a\u0456 \u043f\u043e\u043d\u0456",
         "da": "toki pona tilpasning af det engelske meme \"ligma\"",
         "sv": "Toki Pona-anpassning till den engelska memen \"ligma\"",
         "ja": "\u300cligma\u300d\u3068\u3044\u3046\u82f1\u8a9e\u306e\u30df\u30fc\u30e0\uff08\u300cligma \u3063\u3066\u306a\u306b\uff1f\u300d\u3068\u8a0a\u306d\u3055\u305b\u3066\u300c\u4ffa\u306e\u30bf\u30de\u3092\u8210\u3081\u308d\u300d\u3068\u8fd4\u3059\u3068\u3044\u3046\u4e0b\u54c1\u306a\u30b8\u30e7\u30fc\u30af\uff09\u3092\u30c8\u30ad\u30dd\u30ca\u306b\u63a1\u308a\u5165\u308c\u305f\u3082\u306e",
@@ -10395,7 +10396,7 @@
         "tr": "boomer, bebek patlamas\u0131 ku\u015fa\u011f\u0131, d\u00fc\u015f\u00fcncesiz ya\u015fl\u0131",
         "zh_hant": "\u51fa\u751f\u65bc\u5b30\u5152\u6f6e\u4e00\u4ee3\uff081946\u5e74\uff0d1964\u5e74\uff09\u7684\u4eba\u3001\u4e0d\u66ff\u5225\u4eba\u8457\u60f3\u7684\u9577\u8005\uff1b\u5c0d\u9019\u985e\u4eba\u7684\u8fb1\u7f75\u8a5e",
         "zh_hans": "\u51fa\u751f\u4e8e\u5a74\u513f\u6f6e\u4e00\u4ee3\uff081946\u5e74\uff0d1964\u5e74\uff09\u7684\u4eba\u3001\u4e0d\u66ff\u522b\u4eba\u7740\u60f3\u7684\u957f\u8005\uff1b\u5bf9\u8fd9\u7c7b\u4eba\u7684\u8fb1\u9a82\u8bcd",
-        "uk": "\u0431\u0443\u043c\u0435\u0440, \u0431\u0435\u0431\u0456-\u0431\u0443\u043c\u0435\u0440, \u043d\u0435\u0431\u043b\u0430\u0433\u043e\u0440\u043e\u0437\u0443\u043c\u043d\u0430 \u043b\u0456\u0442\u043d\u044f \u043b\u044e\u0434\u0438\u043d\u0430; [\u0432\u0438\u0433\u0443\u043a/\u043e\u0431\u0440\u0430\u0437\u0430{",
+        "uk": "\u0431\u0443\u043c\u0435\u0440, \u0431\u0435\u0431\u0456-\u0431\u0443\u043c\u0435\u0440, \u043d\u0435\u0431\u043b\u0430\u0433\u043e\u0440\u043e\u0437\u0443\u043c\u043d\u0430 \u043b\u0456\u0442\u043d\u044f \u043b\u044e\u0434\u0438\u043d\u0430; [\u0432\u0438\u0433\u0443\u043a/\u043e\u0431\u0440\u0430\u0437\u0430]",
         "da": "boomer, Baby Boomer, ubet\u00e6nksom \u00e6ldre; [interjektion/forn\u00e6rmelse]",
         "hr": "boomer, Baby Boomer, bezobzirna starija osoba [usklik, uvreda]",
         "sv": "boomer, Baby Boomer, hansynsl\u00f6s \u00e4ldre person [interjektion/f\u00f6rol\u00e4mpning]",
@@ -11207,6 +11208,7 @@
       },
       "def": {
         "en": "[misspelling of pakala]",
+        "uk": "(\u043f\u043e\u043c\u0438\u043b\u043a\u0430 \u0443 \u0441\u043b\u043e\u0432\u0456 pakala)",
         "ja": "[pakala \u306e\u8aa4\u5b57]",
         "el": "[\u039f\u03c1\u03b8\u03bf\u03b3\u03c1\u03b1\u03c6\u03b9\u03ba\u03cc \u03bb\u03ac\u03b8\u03bf\u03c2 \u03c4\u03bf\u03c5 pakala]"
       }
@@ -14590,7 +14592,7 @@
         "2023-09": "8"
       },
       "see_also": "kijetesantakalu",
-      "author_verbatim": "Dear Sonja, That's a great idea, but if you do so, you need also to add a special word forthe Platypus (Ornithorhynchus anatinus). I would suggest the word \"sutopatikuna\"from the croatian word \u00c8udnovati kljuna\u00b9. Bonega ideo, sed se vi farus tion, vi devus ankaux aldoni apartan vorton porla Ornitorinko (Ornithorhynchus anatinus). Mi proponus la vorton \"sutopatikuna\"prenita de la kroatan vorton \u00c8udnovati kljuna\u00b9.:P",
+      "author_verbatim": "Dear Sonja, That's a great idea, but if you do so, you need also to add a special word forthe Platypus (Ornithorhynchus anatinus). I would suggest the word \"sutopatikuna\"from the croatian word \u010dudnovati kljuna\u0161. Bonega ideo, sed se vi farus tion, vi devus ankaux aldoni apartan vorton porla Ornitorinko (Ornithorhynchus anatinus). Mi proponus la vorton \"sutopatikuna\"prenita de la kroatan vorton \u010dudnovati kljuna\u0161.:P",
       "author_verbatim_source": "http://forums.tokipona.org/viewtopic.php?f=33&t=639&hilit=word+requests&sid=401a37e08cc5150e7a0738d068ea4a77&start=50#p2368",
       "commentary": "Coined by Alexandre Baudry in 2009 in response to jan Sonja coining \"kijetesantakalu\" as part of 2009's April Fools.",
       "def": {
@@ -15026,7 +15028,7 @@
         "tr": "(al\u0131nt\u0131 ba\u015flatma edat\u0131)",
         "zh_hant": "\uff08\u958b\u59cb\u5f15\u7528\u7684\u52a9\u8a5e\uff09",
         "zh_hans": "\uff08\u5f00\u59cb\u5f15\u7528\u7684\u52a9\u8bcd\uff09",
-        "uk": "(\u0447\u0430\u0441\u0442\u043a\u0430, \u0432\u0456\u0434\u043a\u0440\u0438\u0432\u0430\u044e\u0447\u044f \u0446\u0438\u0442\u0430\u0442\u0443)",
+        "uk": "(\u0447\u0430\u0441\u0442\u043a\u0430 \u0432\u0456\u0434\u043a\u0440\u0438\u0432\u0430\u044e\u0447\u0430 \u0446\u0438\u0442\u0430\u0442\u0443)",
         "da": "(partikel, der introducerer et citat)",
         "hr": "(\u010destica koja otvara citat)",
         "sv": "(partikel som inrtoducerar ett citat)",
@@ -15654,7 +15656,7 @@
         "zh_hant": "\u975e\u4e8c\u5143\u7684\u3001\u975e\u5e38\u898f\u6027\u5225\u7684 | ALT \u8de8\u6027\u5225\u7684\u3001\u975e\u9806\u6027\u5225\u7684",
         "zh_hans": "\u975e\u4e8c\u5143\u7684\u3001\u975e\u5e38\u89c4\u6027\u522b\u7684 | ALT \u8de8\u6027\u522b\u7684\u3001\u975e\u987a\u6027\u522b\u7684",
         "fi": "ei-bin\u00e4\u00e4rinen, muunsukupuolinen | ALT trans, ei-cissukupuolinen",
-        "uk": "\u043d\u0435\u0431\u0456\u043d\u0430\u0440\u043d\u0438\u0439, \u0433\u0435\u043d\u0434\u0435\u0440\u043d\u043e-\u043d\u0435\u043a\u043e\u043d\u0444\u043e\u0440\u043c\u043d\u0438\u0439 | ALT \u0442\u0440\u0430\u043d\u0441\u0433\u0435\u043d\u0434\u0435\u0440\u043d\u0438\u0439, \u043d\u0435\u0446\u0438\u0441\u0433\u0435\u043d\u0434\u0435\u0440\u043d\u0438\u0439",
+        "uk": "\u043d\u0435\u0431\u0456\u043d\u0430\u0440\u043d\u0438\u0439, \u0491\u0435\u043d\u0434\u0435\u0440\u043d\u043e-\u043d\u0435\u043a\u043e\u043d\u0444\u043e\u0440\u043c\u043d\u0438\u0439 | ALT \u0442\u0440\u0430\u043d\u0441\u0491\u0435\u043d\u0434\u0435\u0440\u043d\u0438\u0439, \u043d\u0435\u0446\u0438\u0441\u0491\u0435\u043d\u0434\u0435\u0440\u043d\u0438\u0439",
         "da": "ikke-bin\u00e6r, k\u00f8nsoverensstemmende | ALT trans, ikke-k\u00f8nsoverensstemmende",
         "hr": "nebinarno, rodno nesukladno | ALT transseksualno, necisrodno",
         "sv": "ickebin\u00e4r | ALT transsexuell, en ej cisperson",
@@ -16761,6 +16763,7 @@
       },
       "def": {
         "en": "guy, pal, friend, buddy",
+        "uk": "\u0434\u0440\u0443\u0433, \u043a\u0435\u043d\u0442, \u0431\u0440\u0430\u0442\u0430\u043d",
         "ja": "\u53cb\u9054\u3001\u30c0\u30c1\u3001\u76f8\u68d2",
         "el": "\u03a6\u03af\u03bb\u03bf\u03c2, \u03c6\u03b9\u03bb\u03b1\u03c1\u03ac\u03ba\u03b9, \u03bc\u03ac\u03b3\u03ba\u03b1\u03c2"
       }
@@ -17098,7 +17101,7 @@
         "tr": "bir ya da birden fazla \"yasakl\u0131\" hece kullanmak (wu, wo, ji, ti); toki pona sesdizimlerini ihlal etmek",
         "zh_hant": "\u4f7f\u7528\u4e00\u500b\u6216\u4ee5\u4e0a\u300c\u7981\u7528\u300d\u97f3\u7bc0 wu\u3001wo\u3001ji \u6216 ti\uff1b\u9055\u53cd\u9053\u672c\u8a9e\u7684\u8a9e\u97f3\u7d44\u5408\u6cd5",
         "zh_hans": "\u4f7f\u7528\u4e00\u4e2a\u6216\u4ee5\u4e0a\u201c\u7981\u7528\u201d\u97f3\u8282 wu\u3001wo\u3001ji \u6216 ti\uff1b\u8fdd\u53cd\u9053\u672c\u8bed\u7684\u8bed\u97f3\u7ec4\u5408\u6cd5",
-        "uk": "\u0441\u043a\u043b\u0430\u0434\u0438 wu, wo, ji \u0456 ti",
+        "uk": "\u0441\u043a\u043b\u0430\u0434\u0438 wu, wo, ji \u0439 ti, \u044f\u043a\u0456 \u0437\u0430\u0431\u043e\u0440\u043e\u043d\u0435\u043d\u0456 \u043e\u0440\u0442\u043e\u0435\u043f\u0456\u0454\u044e \u0442\u043e\u043a\u0456 \u043f\u043e\u043d\u0438",
         "da": "at bruge en eller flere af de \"forbudte\" stavelser wu, wo, ji eller ti; at bryde toki pona fonotaktikken",
         "sv": "att anv\u00e4nda en eller fler av de f\u00f6rbjudna stavelserna wu, wo, ji eller ti; att bryta mot Toki Ponas fonotax",
         "ja": "\u7981\u6b62\u97f3\u7bc0\u3067\u3042\u308b wu, wo, ji, ti \u306e\u3044\u3065\u308c\u304b\u3092\u4f7f\u3046; \u30c8\u30ad\u30dd\u30ca\u306e\u97f3\u7d20\u898f\u5247\u3092\u7834\u308b",
@@ -17203,7 +17206,7 @@
         "tr": "{Discord'da} \"Starboard\" i\u00e7in kullan\u0131lan y\u0131ld\u0131z emojisi (\"ma pona\" sayfas\u0131ndaki #pona-kulupu kanal\u0131)",
         "zh_hant": "{Discord \u4e2d} \u7cbe\u83ef\u8a0a\u606f\u6b04\uff08ma pona \u7684 #pona-kulupu\uff09\u6240\u7528\u7684\u661f\u661f\u8868\u60c5\u7b26\u865f",
         "zh_hans": "{Discord \u4e2d} \u7cbe\u534e\u4fe1\u606f\u680f\uff08ma pona \u7684 #pona-kulupu\uff09\u6240\u7528\u7684\u661f\u661f\u8868\u60c5\u7b26\u53f7",
-        "uk": "\u0435\u043c\u043e\u0434\u0437\u0456 \u0437\u0456\u0440\u043e\u0447\u043a\u0438 \u0443 #pona-kulupu",
+        "uk": "\u0435\u043c\u043e\u0434\u0436\u0456 \u0437\u0456\u0440\u043e\u0447\u043a\u0438 \u0443 #pona-kulupu (\u2b50\ufe0f)",
         "da": "{p\u00e5 Discord} den stjerne-emoji, der bruges til styrbord (#pona-kulupu in ma pona)",
         "hr": "{na Discordu} emoji zvijezde kori\u0161ten za plo\u010du poruka koje ljudi \u017eele istaknuti (kanal #pona-kulupu u \"ma pona pi toki pona\" Discord serveru)",
         "sv": "{p\u00e5 Discord} stj\u00e4rn-emojin som anv\u00e4nds i #pona-kulupu i ma pona Diskord-servern",
@@ -17254,8 +17257,8 @@
       },
       "creator": "jan Lepeka",
       "license": "OFL",
-      "version": "2023.04.01",
-      "last_updated": "2023-04",
+      "version": "2023.09.24",
+      "last_updated": "2023-09",
       "filename": "fairfax.ttf",
       "style": "pixelated",
       "features": "codepoints only, UCSUR-compliant, supports cartouches, extended glyphs, combined glyphs, ZWJ sequences, character variants, randomized jaki, supports all ku lili and extensively more"
@@ -17270,8 +17273,8 @@
       },
       "creator": "jan Lepeka",
       "license": "OFL",
-      "version": "2023.04.01",
-      "last_updated": "2023-04",
+      "version": "2023.09.24",
+      "last_updated": "2023-09",
       "filename": "fairfax-hd.ttf",
       "style": "uniform line weight",
       "features": "codepoints only, UCSUR-compliant, supports cartouches, extended glyphs, combined glyphs, ZWJ sequences, character variants, randomized jaki, supports all ku lili and extensively more"
@@ -17286,8 +17289,8 @@
       },
       "creator": "jan Lepeka",
       "license": "OFL",
-      "version": "2023.04.01",
-      "last_updated": "2023-04",
+      "version": "2023.09.24",
+      "last_updated": "2023-09",
       "filename": "fairfax-pona.ttf",
       "style": "pixelated",
       "features": "ASCII transcription and codepoints, UCSUR-compliant, supports cartouches, extended glyphs, combined glyphs, ZWJ sequences, character variants, randomized jaki, supports all ku lili and extensively more"
@@ -17302,8 +17305,8 @@
       },
       "creator": "jan Lepeka",
       "license": "OFL",
-      "version": "2023.04.01",
-      "last_updated": "2023-04",
+      "version": "2023.09.24",
+      "last_updated": "2023-09",
       "filename": "fairfax-pona-hd.ttf",
       "style": "uniform line weight",
       "features": "ASCII transcription and codepoints, UCSUR-compliant, supports cartouches, extended glyphs, combined glyphs, ZWJ sequences, character variants, randomized jaki, supports all ku lili and extensively more"
@@ -18151,8 +18154,8 @@
       },
       "creator": "jan Lepeka",
       "license": "OFL",
-      "version": "1.2.1",
-      "last_updated": "2023-04",
+      "version": "1.2.2",
+      "last_updated": "2023-09",
       "filename": "sitelenselikiwenasuki.ttf",
       "style": "handwritten",
       "features": "ASCII transcription and codepoints, UCSUR-compliant, supports cartouches, extended glyphs, combined glyphs, ZWJ sequences, character variants, randomized jaki, supports all ku lili and extensively more"
@@ -18167,8 +18170,8 @@
       },
       "creator": "jan Lepeka",
       "license": "OFL",
-      "version": "1.2.1",
-      "last_updated": "2023-04",
+      "version": "1.2.2",
+      "last_updated": "2023-09",
       "filename": "sitelenselikiwenjuniko.ttf",
       "style": "handwritten",
       "features": "codepoints only, UCSUR-compliant, supports cartouches, extended glyphs, combined glyphs, ZWJ sequences, character variants, randomized jaki, supports all ku lili and extensively more"
