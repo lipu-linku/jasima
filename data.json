@@ -17717,6 +17717,21 @@
       "style": "uniform line weight",
       "features": "-"
     },
+    "linja Sikipi": {
+      "name_short": "linja Sikipi",
+      "writing_system": "sitelen pona",
+      "links": {
+        "fontfile": "https://github.com/janSipiki/linja-Sipiki/raw/main/linja%20Sipiki.ttf",
+        "repo": "https://github.com/janSipiki/linja-Sipiki/"
+      },
+      "creator": "jan Sikipi",
+      "license": "OFL",
+      "version": "1.0",
+      "last_updated": "2023-10",
+      "filename": "linja-sikipi.ttf",
+      "style": "pixelated",
+      "features": "codepoints only, UCSUR-compliant"
+    },
     "linja suwi": {
       "name_short": "linja suwi",
       "writing_system": "sitelen pona",
