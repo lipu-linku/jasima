@@ -17730,7 +17730,7 @@
       "last_updated": "2023-10",
       "filename": "linja-sikipi.ttf",
       "style": "pixelated",
-      "features": "codepoints only, UCSUR-compliant"
+      "features": "ASCII transcription, UCSUR-compliant, supports cartouches, long pi, supports all ku suli and the rest of UCSUR"
     },
     "linja suwi": {
       "name_short": "linja suwi",
