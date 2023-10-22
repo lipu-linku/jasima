@@ -323,7 +323,7 @@
       "credits": "salarua, hla Vilhelm, jan Sakawi",
       "completeness_percent": {
         "obscure": "3",
-        "rare": "5",
+        "rare": "6",
         "uncommon": "6",
         "common": "6",
         "widespread": "6",
@@ -14117,6 +14117,7 @@
         "da": "svamp, fungi",
         "hr": "gljiva, gljivica",
         "cy": "ffwng, ffyngau",
+        "ith_n": "okstwav, okstyav",
         "sv": "svamp",
         "io": "fungo, fungi",
         "ja": "\u8338\u3001\u83cc\u985e",
