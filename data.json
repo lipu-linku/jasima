@@ -200,7 +200,7 @@
       "name_endonym": "\u05e2\u05d1\u05e8\u05d9\u05ea",
       "name_english": "Hebrew",
       "name_toki_pona": "toki Iwisi",
-      "credits": "jan Jaten, ilo Kesija, Net",
+      "credits": "jan Jaten, ilo Kesija, Net, jan Telesi",
       "completeness_percent": {
         "obscure": "23",
         "rare": "29",
@@ -17718,8 +17718,8 @@
       "style": "uniform line weight",
       "features": "-"
     },
-    "linja Sikipi": {
-      "name_short": "linja Sikipi",
+    "linja Sipiki": {
+      "name_short": "linja Sipiki",
       "writing_system": "sitelen pona",
       "links": {
         "fontfile": "https://github.com/janSipiki/linja-Sipiki/raw/main/linjaSipiki_v1.2.otf",
