@@ -18178,6 +18178,21 @@
       "style": "alternate design",
       "features": "ASCII transcription, UCSUR-compliant, extended pi, cartouches, ku suli, cartouches, autocartouches capitalised latin words"
     },
+    "Sitelen Ko": {
+      "name_short": "Sitelen Ko",
+      "writing_system": "logography",
+      "links": {
+        "fontfile": "https://jan-sikusi.neocities.org/fonts/sitelenko.otf",
+        "webpage": "https://jan-sikusi.neocities.org/html/sitelenko"
+      },
+      "creator": "jan Sikusi",
+      "license": "OFL",
+      "version": "1.0",
+      "last_updated": "2023-11",
+      "filename": "sitelenko.otf",
+      "style": "serif",
+      "features": "ASCII transcription"
+    },
     "sitelen Komalin": {
       "name_short": "sitelen Komalin",
       "writing_system": "alphabet",
