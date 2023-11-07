@@ -18393,6 +18393,20 @@
       "style": "pixelated, serif",
       "features": "codepoints only, supports nimi ku suli"
     },
+    "sitelen pona pi lasin lukin": {
+      "name_short": "sitelen pona pi lasina lukin",
+      "writing_system": "sitelen pona",
+      "links": {
+        "repo": "https://drive.google.com/drive/folders/1WTarSAMNSf-96p24Xtcj7LJxoQmF71Aa",
+        "webpage": "https://www.reddit.com/r/tokipona/comments/17oz1nz/a_romanstyled_sitelen_pona_font/"
+      },
+      "creator": "u/The-God-of-Snails",
+      "version": "1.0",
+      "last_updated": "2023-11",
+      "filename": "sitelen_pona_pi_lasin_lukin.ttf",
+      "style": "serif, alternate design",
+      "features": "ASCII transcription, cartouches"
+    },
     "sitelen pona pi palisa mute": {
       "name_short": "sitelen pona pi palisa mute",
       "writing_system": "sitelen pona",
