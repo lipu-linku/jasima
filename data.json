@@ -17743,6 +17743,21 @@
       "style": "handwritten",
       "features": "ASCII transcription, supports all ku suli and some others"
     },
+    "linja namako": {
+      "name_short": "linja namako",
+      "writing_system": "sitelen pona",
+      "links": {
+        "fontfile": "https://jan-sikusi.neocities.org/fonts/linjanamako.ttf",
+        "webpage": "https://jan-sikusi.neocities.org/html/linjanamako"
+      },
+      "creator": "jan Sikusi",
+      "license": "OFL",
+      "version": "1.0",
+      "last_updated": "2023-11",
+      "filename": "linjanamako.ttf",
+      "style": "serif",
+      "features": "ASCII transcription"
+    },
     "linja pi kama wan": {
       "name_short": "linja pi kama wan",
       "writing_system": "alphabet",
