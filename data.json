@@ -472,7 +472,7 @@
       "name_toki_pona": "toki Posuka",
       "credits": "jan Alonola, jan Kita, Zy",
       "completeness_percent": {
-        "obscure": "98",
+        "obscure": "100",
         "rare": "100",
         "uncommon": "100",
         "common": "100",
@@ -1953,6 +1953,7 @@
       "commentary": "an experience with the quality of being deeply felt or important to oneself while defying classification as positive, negative, or a simply described admixture of positive and negative",
       "def": {
         "en": "trial, adversity; bittersweet",
+        "pl": "utrapienie, przeciwno\u015b\u0107 losu; s\u0142odko-gorzki",
         "eo": "provo, aflikto, mizero; dol\u0109amara",
         "es": "pena, adversidad, afflicci\u00f3n; agridulce",
         "he": "\u05ea\u05dc\u05d0\u05d4, \u05de\u05e6\u05d5\u05e7\u05d4; \u05d7\u05de\u05d5\u05e5-\u05de\u05ea\u05d5\u05e7",
@@ -11389,6 +11390,7 @@
       },
       "def": {
         "en": "[misspelling of pakala]",
+        "pl": "[liter\u00f3wka pakala]",
         "es": "[error, quiere decir pakala]",
         "he": "[\u05e9\u05d2\u05d9\u05d0\u05ea \u05db\u05ea\u05d9\u05d1 \u05e9\u05dc pakala]",
         "uk": "(\u043f\u043e\u043c\u0438\u043b\u043a\u0430 \u0443 \u0441\u043b\u043e\u0432\u0456 pakala)",
@@ -17028,6 +17030,7 @@
       },
       "def": {
         "en": "guy, pal, friend, buddy",
+        "pl": "kolega, ziomek, kumpel",
         "es": "g\u00fcey, tipo, amigo, hombre",
         "he": "\u05d7\u05d1\u05e8 \u05d0\u05d5 \u05d7\u05d1\u05e8\u05d4",
         "uk": "\u0434\u0440\u0443\u0433, \u043a\u0435\u043d\u0442, \u0431\u0440\u0430\u0442\u0430\u043d",
