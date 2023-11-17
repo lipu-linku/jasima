@@ -202,7 +202,7 @@
       "name_toki_pona": "toki Iwisi",
       "credits": "jan Jaten, ilo Kesija, Net, jan Telesi, mun unu",
       "completeness_percent": {
-        "obscure": "92",
+        "obscure": "100",
         "rare": "100",
         "uncommon": "100",
         "common": "100",
@@ -427,8 +427,8 @@
       "name_toki_pona": "toki Nosiki sin",
       "credits": "jan Okun",
       "completeness_percent": {
-        "obscure": "61",
-        "rare": "99",
+        "obscure": "75",
+        "rare": "100",
         "uncommon": "100",
         "common": "100",
         "widespread": "100",
@@ -442,8 +442,8 @@
       "name_toki_pona": "toki Nosiki",
       "credits": "jan Okun",
       "completeness_percent": {
-        "obscure": "61",
-        "rare": "99",
+        "obscure": "75",
+        "rare": "100",
         "uncommon": "100",
         "common": "100",
         "widespread": "100",
@@ -845,6 +845,8 @@
         "sv": "plusliknande form, gatukorsning, \u00f6verlapp [alternativ form av natu]",
         "ja": "\u5341\u5b57\u5f62\u3001\u4ea4\u53c9\u3001\u91cd\u306a\u308a\u5408\u3046 [natu \u306e\u5225\u4f53]",
         "cs": "k\u0159\u00ed\u017e, k\u0159i\u017eovatka, p\u0159ekryv [alternativa k natu]",
+        "nno": "kryss, kryssliknande form, krysspunkt; overlappe [alternativ form av natu]",
+        "nob": "kryss, kryssliknende form, krysspunkt; overlappe [alternativ form av natu]",
         "nl": "kruisvorm, kruispunt, overlap [alternatieve vorm van natu]",
         "el": "\u03a3\u03c7\u03ae\u03bc\u03b1 \u03c3\u03b1\u03bd \u03a3\u03c4\u03b1\u03c5\u03c1\u03cc, \u03b4\u03b9\u03b1\u03c3\u03c4\u03b1\u03cd\u03c1\u03c9\u03c3\u03b7, \u03b5\u03c0\u03b9\u03ba\u03ac\u03bb\u03c5\u03c8\u03b7 (\u03b4\u03b9\u03b1\u03c6\u03bf\u03c1\u03b5\u03c4\u03b9\u03ba\u03ae \u03bb\u03ad\u03be\u03b7 \u03b3\u03b9\u03b1 \u201cnatu\u201d)"
       }
@@ -962,6 +964,8 @@
         "sv": "(vanlig interjektion, beroende av sammanhang)",
         "ja": "(\u4e00\u822c\u7684\u306a\u611f\u5606\u8a5e\u3002\u610f\u5473\u306f\u6587\u8108\u306b\u4f9d\u5b58)",
         "cs": "(univerz\u00e1ln\u00ed citoslovce, z\u00e1le\u017e\u00ed na kontextu)",
+        "nno": "(generell interjeksjon, avhenger av kontekst)",
+        "nob": "(generell interjeksjon, avhenger av kontekst)",
         "nl": "(algemeen tussenvoegsel, contextafhankelijk)",
         "el": "(\u0393\u03b5\u03bd\u03b9\u03ba\u03cc \u03b5\u03c0\u03b9\u03c6\u03ce\u03bd\u03b7\u03bc\u03b1, \u03b5\u03be\u03b1\u03c1\u03c4\u03ac\u03c4\u03b1\u03b9 \u03c3\u03c4\u03bf \u03c0\u03bb\u03b1\u03af\u03c3\u03b9\u03bf)"
       }
@@ -1250,6 +1254,8 @@
         "sv": "m\u00e4ngden av alla m\u00f6jliga m\u00e4nnskliga objekt subtraherat fr\u00e5n m\u00e4ngden koncept som etablerade ord i Toki Pona redan t\u00e4cker, v\u00e4gt efter deras relativa anv\u00e4ndning",
         "ja": "\u76f8\u5bfe\u7684\u4f7f\u7528\u7387\u306b\u3088\u3063\u3066\u91cd\u307f\u3065\u3051\u3057\u305f\u65e2\u5b58\u306e\u30c8\u30ad\u30dd\u30ca\u5358\u8a9e\u3067\u8868\u73fe\u3067\u304d\u308b\u6982\u5ff5\u5168\u4f53\u304b\u3089\u6f0f\u308c\u305f\u3001\u4eba\u9593\u306e\u3082\u3064\u3042\u3089\u3086\u308b\u6982\u5ff5\u306e\u96c6\u5408",
         "cs": "rozd\u00edl mno\u017einy v\u0161ech mo\u017en\u00fdch pojm\u016f mezilidsk\u00e9 komunikace a mno\u017einy ust\u00e1len\u00fdch pojm\u016f v Toki Pona",
+        "nno": "mengden av alle moglege menneskelege konsept subtrahert av mengden av konsept som allereie er omfatta av etablerte toki pona-ord vekta etter sin relative bruk",
+        "nob": "mengden av alle mulige menneskelige konsepter subtrahert av mengden av konsepter som allerede er omfattet av etablerte toki pona-ord vektlagt etter sin relative bruk",
         "nl": "De set van elk mogelijk menselijk consept, afgetrokken van de set van consepten die al bedekt worden door bestaande toki pona woorden in verhouding van hun relatief gebruik",
         "el": "\u03a4\u03bf \u03c3\u03cd\u03bd\u03bf\u03bb\u03bf \u03ba\u03ac\u03b8\u03b5 \u03c0\u03b9\u03b8\u03b1\u03bd\u03ae\u03c2 \u03b1\u03bd\u03b8\u03c1\u03ce\u03c0\u03b9\u03bd\u03b7\u03c2 \u03ad\u03bd\u03bd\u03bf\u03b9\u03b1\u03c2 \u03c0\u03bf\u03c5 \u03b1\u03c6\u03b1\u03b9\u03c1\u03b5\u03af\u03c4\u03b1\u03b9 \u03b1\u03c0\u03cc \u03c4\u03bf \u03c3\u03cd\u03bd\u03bf\u03bb\u03bf \u03c4\u03c9\u03bd \u03b5\u03bd\u03bd\u03bf\u03b9\u03ce\u03bd \u03c0\u03bf\u03c5 \u03ae\u03b4\u03b7 \u03ba\u03b1\u03bb\u03cd\u03c0\u03c4\u03bf\u03bd\u03c4\u03b1\u03b9 \u03b1\u03c0\u03cc \u03ba\u03b1\u03b8\u03b9\u03b5\u03c1\u03c9\u03bc\u03ad\u03bd\u03b5\u03c2 \u03bb\u03ad\u03be\u03b5\u03b9\u03c2 toki pona \u03c3\u03c4\u03b1\u03b8\u03bc\u03b9\u03c3\u03bc\u03ad\u03bd\u03b5\u03c2 \u03bc\u03b5 \u03c4\u03b7 \u03c3\u03c7\u03b5\u03c4\u03b9\u03ba\u03ae \u03c7\u03c1\u03ae\u03c3\u03b7 \u03c4\u03bf\u03c5\u03c2"
       }
@@ -1373,6 +1379,8 @@
         "io": "(inter la precipua frazo e la kuntexta frazo)",
         "ja": "(\u4e3b\u6587\u3068\u6761\u4ef6\u7bc0\u306e\u9593\u306b\u304a\u304f)",
         "cs": "(mezi hlavn\u00ed v\u011btou a dopl\u0148kov\u00fdm spojen\u00edm)",
+        "nno": "(mellom hovudsetning of kontekstfrase)",
+        "nob": "(mellom hovedsetning og kontekstfrase)",
         "nl": "(tussen de hoofdzin en de contextzin)",
         "el": "(\u039c\u03b5\u03c4\u03b1\u03be\u03cd \u03c4\u03b7\u03bd \u03ba\u03cd\u03c1\u03b9\u03b1 \u03c0\u03c1\u03cc\u03c4\u03b1\u03c3\u03ae \u03ba\u03b1\u03b9 \u03c4\u03b7\u03bd \u03c0\u03c1\u03cc\u03c4\u03b1\u03c3\u03ae \u03c3\u03c5\u03bc\u03c6\u03c1\u03ac\u03c3\u03b5\u03b9\u03c2)"
       }
@@ -1728,6 +1736,8 @@
         "sv": "st\u00f6ta, knacka, rycka",
         "ja": "\u3076\u3064\u304b\u308b\u3001\u53e9\u304f\u3001\u885d\u6483\u3092\u4e0e\u3048\u308b",
         "cs": "vrazit do, shodit",
+        "nno": "\u00e5 dunke, sl\u00e5, st\u00f8yte",
+        "nob": "\u00e5 dunke, sl\u00e5, st\u00f8te",
         "nl": "stoot, klop, schok",
         "el": "\u03a7\u03c4\u03cd\u03c0\u03b7\u03bc\u03b1 (\u03ba\u03b1\u03c4\u03ac \u03bb\u03ac\u03b8\u03bf\u03c2),\u03c7\u03c4\u03cd\u03c0\u03b7\u03bc\u03b1 (\u03bd\u03b1 \u03c1\u03af\u03c7\u03bd\u03b5\u03b9\u03c2 \u03ae \u03bd\u03b1 \u03c7\u03c4\u03c5\u03c0\u03ac\u03c2 \u03c0\u03cc\u03c1\u03c4\u03b1), \u03c4\u03c1\u03ac\u03bd\u03c4\u03b1\u03b3\u03bc\u03b1"
       }
@@ -1925,6 +1935,8 @@
         "sv": "plusliknande form, gatukorsning, \u00f6verlapp [alternativ form av natu]",
         "ja": "\u5341\u5b57\u5f62\u3001\u4ea4\u53c9\u3001\u91cd\u306a\u308a\u5408\u3046 [natu \u306e\u5225\u4f53]",
         "cs": "k\u0159\u00ed\u017e, k\u0159i\u017eovatka, p\u0159ekryv [alternativa k natu]",
+        "nno": "kryss, kryssliknande form, krysspunkt; overlappe [alternativ form av natu]",
+        "nob": "kryss, kryssliknende form, krysspunkt; overlappe [alternativ form av natu]",
         "nl": "kruisvorm, kruispunt, overlap [alternatieve vorm van natu]",
         "el": "\u03a3\u03c7\u03ae\u03bc\u03b1 \u03c3\u03b1\u03bd \u03a3\u03c4\u03b1\u03c5\u03c1\u03cc, \u03b4\u03b9\u03b1\u03c3\u03c4\u03b1\u03cd\u03c1\u03c9\u03c3\u03ae, \u03b5\u03c0\u03b9\u03ba\u03ac\u03bb\u03c5\u03c8\u03b7 (\u03b4\u03b9\u03b1\u03c6\u03bf\u03c1\u03b5\u03c4\u03b9\u03ba\u03ae \u03bb\u03ad\u03be\u03b7 \u03b3\u03b9\u03b1 \u201cnatu\u201d)"
       }
@@ -1959,6 +1971,8 @@
         "he": "\u05ea\u05dc\u05d0\u05d4, \u05de\u05e6\u05d5\u05e7\u05d4; \u05d7\u05de\u05d5\u05e5-\u05de\u05ea\u05d5\u05e7",
         "uk": "\u043f\u043e\u0447\u0443\u0442\u0442\u044f, \u043a\u043e\u043b\u0438 \u0445\u0442\u043e\u0441\u044c \u043f\u043e\u0432\u02bc\u044f\u0437\u0430\u043d\u0438\u0439 \u0437 \u0447\u0438\u043c\u043e\u0441\u044c, \u0430\u043b\u0435 \u0457\u043c \u043d\u0435 \u043f\u043e\u0434\u043e\u0431\u0430\u0454\u0442\u044c\u0441\u044f, \u043a\u043e\u043b\u0438 \u0447\u0435\u0440\u0435\u0437 \u0446\u0435 \u0432\u0432\u0430\u0436\u0430\u044e\u0442\u044c, \u0449\u043e \u0446\u0456 \u00ab\u0445\u0442\u043e\u0441\u044c\u00bb \u043f\u043e\u0437\u0438\u0442\u0438\u0432\u043d\u043e \u0447\u0438 \u043d\u0435\u0433\u0430\u0442\u0438\u0432\u043d\u043e \u0434\u043e \u0446\u044c\u043e\u0433\u043e \u00ab\u0447\u043e\u0433\u043e\u0441\u044c\u00bb \u0441\u0442\u0430\u0432\u0438\u0442\u044c\u0441\u044f; \u043a\u0438\u0441\u043b\u043e-\u0441\u043e\u043b\u043e\u0434\u043a\u0438\u0439",
         "ja": "\u8a66\u7df4\u3001\u82e6\u96e3\u3001\u307b\u308d\u82e6\u3044\u7d4c\u9a13",
+        "nno": "utfordring, motstand; bitters\u00f8t",
+        "nob": "utfordring, motstand; bitters\u00f8t",
         "nl": "beproeving, tegenslag, bitterzoet",
         "el": "\u0394\u03c5\u03c3\u03ba\u03bf\u03bb\u03af\u03b1, \u03b3\u03bb\u03c5\u03ba\u03cc\u03be\u03b9\u03bd\u03bf"
       }
@@ -2088,6 +2102,8 @@
         "sv": "(rumsliga motsvarigheter av tenpo-konstruktioner) rum, plats, avst\u00e5nd, storlek (l\u00e4ng, h\u00f6jd, djup, area, volym)",
         "ja": "(tenpo \u306e\u6642\u9593\u7684\u306a\u610f\u5473\u3068\u5bfe\u7b49\u306a\u3001\u7a7a\u9593\u7684\u306a\u3082\u306e) \u7a7a\u9593\u3001\u5834\u6240\u3001\u8ddd\u96e2\u3001\u5927\u304d\u3055 (\u9577\u3055\u3001\u5e45\u3001\u9ad8\u3055\u3001\u6df1\u3055\u3001\u9762\u7a4d\u3001\u4f53\u7a4d)",
         "cs": "(prostorov\u00e1 obdoba k tenpo) prostor, m\u00edsto, vzd\u00e1lenost, velikost, rozm\u011br (d\u00e9lka, \u0161\u00ed\u0159ka, v\u00fd\u0161ka, hloubka, obsah, objem)",
+        "nno": "(tilsvarande tenpo-konstruksjonar i rom) rom, sted, distanse, storleik (lengd, breidd, djupn, areal, volum)",
+        "nob": "(tilsvarende tenpo-konstruksjoner i rom) rom, sted, distanse, st\u00f8rrelse (lengde, bredde, dybde, areal, volum)",
         "nl": "(ruimtelijke equivalenten van tenpo-constructies) ruimte, plaats, afstand, grootte (lengte, breedte, hoogte, diepte, oppervlakte, volume)",
         "el": "(\u03a7\u03c9\u03c1\u03b9\u03ba\u03ac \u03b9\u03c3\u03bf\u03b4\u03cd\u03bd\u03b1\u03bc\u03b1 \u03c7\u03c1\u03bf\u03bd\u03b9\u03ba\u03ce\u03bd(tenpo) \u03ba\u03b1\u03c4\u03b1\u03c3\u03ba\u03b5\u03c5\u03ce\u03bd) \u03c7\u03ce\u03c1\u03bf\u03c2, \u03b8\u03ad\u03c3\u03b7, \u03b1\u03c0\u03cc\u03c3\u03c4\u03b1\u03c3\u03ae, \u03bc\u03ad\u03b3\u03b5\u03b8\u03bf\u03c2(\u03bc\u03ae\u03ba\u03bf\u03c2, \u03c6\u03ac\u03c1\u03b4\u03bf\u03c2, \u03cd\u03c8\u03bf\u03c2, \u03b2\u03ac\u03b8\u03bf\u03c2, \u03b5\u03bc\u03b2\u03b1\u03b4\u03cc\u03bd,\u03cc\u03b3\u03ba\u03bf\u03c2)"
       }
@@ -2294,6 +2310,8 @@
         "io": "ultre, super",
         "ja": "\uff5e\u306e\u5411\u3053\u3046\u3001\uff5e\u3092\u8d8a\u3048\u305f\u3001\uff5e\u306e\u5916\u3001\uff5e\u3092\u4e0a\u56de\u308b",
         "cs": "(a\u017e) za/p\u0159es, v\u00edce ne\u017e, p\u0159ekonat",
+        "nno": "bortanfor, utanfor, overstigande, meir enn",
+        "nob": "bortenfor, utenfor, overstigende, mer enn",
         "nl": "voorbij, overschrijden, buiten (iets), meer dan",
         "el": "\u03a0\u03ad\u03c1\u03b1, \u03c5\u03c0\u03b5\u03c1\u03b2\u03b1\u03af\u03bd\u03b5\u03b9, \u03ad\u03be\u03c9 \u03b1\u03c0\u03cc, \u03c0\u03b1\u03c1\u03b1\u03c0\u03ac\u03bd\u03c9"
       }
@@ -2353,6 +2371,8 @@
         "io": "petro, gravio, roko, stono; lavo",
         "ja": "\u77f3\u3001\u7802\u5229\u3001\u5ca9\u3001\u792b\u3001\u7194\u5ca9\u3001\u30de\u30b0\u30de",
         "cs": "k\u00e1men, \u0161t\u011brk, sk\u00e1la, obl\u00e1zek, l\u00e1va, magma",
+        "nno": "stein, grus, berg, lava, magma",
+        "nob": "stein, grus, berg, lava, magma",
         "nl": "steen(tjes), grind, gesteente, lava, magma",
         "el": "\u03a0\u03ad\u03c4\u03c1\u03b1, \u03c7\u03b1\u03bb\u03af\u03ba\u03b9, \u03b2\u03c1\u03ac\u03c7\u03bf\u03c2, \u03a0\u03b5\u03c4\u03c1\u03bf\u03cd\u03bb\u03b1, \u03bb\u03ac\u03b2\u03b1, \u03bc\u03ac\u03b3\u03bc\u03b1"
       }
@@ -2409,6 +2429,8 @@
         "io": "il(u), el(u), ol(u), lu, ili, eli, oli, li [alternativa formo de la vorto ona]",
         "ja": "\u5f7c\u3001\u5f7c\u5973\u3001\u5f7c\u3089\u3001\u305d\u308c\u3001\u305d\u308c\u3089 [ona \u306e\u5225\u4f53]",
         "cs": "on, ona, ono, oni, ony [alternativa k ona]",
+        "nno": "han, ho, hen, den, det, dei [alternativ form av ona]",
+        "nob": "han, hun, hen, den, det, de [alternativ form av ona]",
         "nl": "hij, zij/ze, het [alternatieve vorm van ona]",
         "el": "\u0391\u03c5\u03c4\u03cc\u03c2, \u03b1\u03c5\u03c4\u03ae, \u03b1\u03c5\u03c4\u03cc, \u03b1\u03c5\u03c4\u03bf\u03af (\u03b4\u03b9\u03b1\u03c6\u03bf\u03c1\u03b5\u03c4\u03b9\u03ba\u03ae \u03bb\u03ad\u03be\u03b7 \u03b3\u03b9\u03b1 \u201cona\u201d)"
       }
@@ -2627,6 +2649,8 @@
         "io": "il(u), el(u), ol(u), lu, ili, eli, oli, li [alternativa formo de la vorto ona]",
         "ja": "\u5f7c\u3001\u5f7c\u5973\u3001\u5f7c\u3089\u3001\u305d\u308c\u3001\u305d\u308c\u3089 [ona \u306e\u5225\u4f53]",
         "cs": "on, ona, ono, oni, ony [alternativa k ona]",
+        "nno": "han, ho, hen, den, det, dei [alternativ form av ona]",
+        "nob": "han, hun, hen, den, det, de [alternativ form av ona]",
         "nl": "hij, zij/ze, het [alternatieve vorm van ona]",
         "el": "\u0391\u03c5\u03c4\u03cc\u03c2, \u03b1\u03c5\u03c4\u03ae, \u03b1\u03c5\u03c4\u03cc, \u03b1\u03c5\u03c4\u03bf\u03af (\u03b4\u03b9\u03b1\u03c6\u03bf\u03c1\u03b5\u03c4\u03b9\u03ba\u03ae \u03bb\u03ad\u03be\u03b7 \u03b3\u03b9\u03b1 \u201cona\u201d)"
       }
@@ -2842,6 +2866,8 @@
         "io": "il(u), el(u), ol(u), lu, ili, eli, oli, li [alternativa formo de la vorto ona]",
         "ja": "\u5f7c\u3001\u5f7c\u5973\u3001\u5f7c\u3089\u3001\u305d\u308c\u3001\u305d\u308c\u3089 [ona \u306e\u5225\u4f53]",
         "cs": "on, ona, ono, oni, ony [alternativa k ona]",
+        "nno": "han, ho, hen, den, det, dei [alternativ form av ona]",
+        "nob": "han, hun, hen, den, det, de [alternativ form av ona]",
         "nl": "hij, zij/ze, het [alternatieve vorm van ona]",
         "el": "\u0391\u03c5\u03c4\u03cc\u03c2, \u03b1\u03c5\u03c4\u03ae, \u03b1\u03c5\u03c4\u03cc, \u03b1\u03c5\u03c4\u03bf\u03af (\u03b4\u03b9\u03b1\u03c6\u03bf\u03c1\u03b5\u03c4\u03b9\u03ba\u03ae \u03bb\u03ad\u03be\u03b7 \u03b3\u03b9\u03b1 \u201cona\u201d)"
       }
@@ -2960,6 +2986,8 @@
         "io": "nedireta insulto o desrespekto",
         "ja": "\u4eba\u306e\u4e0d\u5e78\u306f\u871c\u306e\u5473\u3001\u9593\u63a5\u7684\u306a\u4fae\u8fb1\u3084\u7121\u793c\u3001\u9670",
         "cs": "\u0161kodolibost, nep\u0159\u00edm\u00e1 ur\u00e1\u017eka, o\u010dernit",
+        "nno": "skadefryd, indirekte forn\u00e6rming eller krenking, uthenging",
+        "nob": "skadefryd, indirekte forn\u00e6rmelse eller krenkelse, uthenging",
         "nl": "leedvermaak, onrechtstreekse belediging of onrespectvolheid, schaduw",
         "el": "\u03a7\u03b1\u03b9\u03c1\u03b5\u03ba\u03b1\u03ba\u03af\u03b1, \u03ad\u03bc\u03bc\u03b5\u03c3\u03b7 \u03c0\u03c1\u03bf\u03c3\u03b2\u03bf\u03bb\u03ae \u03ae \u03b1\u03c3\u03ad\u03b2\u03b5\u03b9\u03ac"
       }
@@ -3097,6 +3125,8 @@
         "io": "cento",
         "ja": "\u767e",
         "cs": "sto",
+        "nno": "eitt hundre",
+        "nob": "ett hundre",
         "nl": "honderd",
         "el": "\u0395\u03ba\u03b1\u03c4\u03cc"
       }
@@ -3152,6 +3182,8 @@
         "io": "pedo [alternativa formo de la vorto noka]",
         "ja": "\u8db3 [noka \u306e\u5225\u4f53]",
         "cs": "noha [alternativa k noka]",
+        "nno": "fot [alternativ form av noka]",
+        "nob": "fot [alternativ form av noka]",
         "nl": "voet [alternatieve vorm van noka]",
         "el": "\u03a0\u03cc\u03b4\u03b9/\u03c0\u03b1\u03c4\u03bf\u03cd\u03c3\u03b1 (\u03ac\u03bb\u03bb\u03b7 \u03bb\u03ad\u03be\u03b7 \u03b3\u03b9\u03b1 \u201cnoka\u201d)"
       }
@@ -3209,6 +3241,8 @@
         "io": "delicioza",
         "ja": "\u304a\u3044\u3057\u3044\u3001\u524d\u5411\u304d\u306a\u77e5\u899a\u4f53\u9a13\u3092\u8a98\u767a\u30fb\u523a\u621f\u3059\u308b",
         "cs": "chutn\u00fd; vyvol\u00e1vaj\u00edc\u00ed pozitivn\u00ed smyslov\u00e9 vjemy",
+        "nno": "nydeleg, deilig, som framkaller ein positiv sanseoppleving",
+        "nob": "nydelig, deilig, som fremkaller en positiv sanseopplevelse",
         "nl": "lekker, uitlokken of stimuleren van een positieve zintuiglijke ervaring",
         "el": "\u03a0\u03b5\u03bd\u03c4\u03b1\u03bd\u03cc\u03c3\u03c4\u03b9\u03bc\u03bf\u00b7 \u03c0\u03c1\u03bf\u03ba\u03b1\u03bb\u03ce\u03bd\u03c4\u03b1\u03c2 \u03ae \u03b4\u03b9\u03b5\u03b3\u03b5\u03af\u03c1\u03bf\u03bd\u03c4\u03b1\u03c2 \u03bc\u03b9\u03b1 \u03b8\u03b5\u03c4\u03b9\u03ba\u03ae \u03b1\u03b9\u03c3\u03b8\u03b7\u03c4\u03b7\u03c1\u03b9\u03b1\u03ba\u03ae \u03b5\u03bc\u03c0\u03b5\u03b9\u03c1\u03af\u03b1"
       }
@@ -3338,6 +3372,8 @@
         "sv": "en s\u00e4rskild grupp tidiga medlemmar av \"ma pona\" discordservern",
         "ja": "Discord\u30b5\u30fc\u30f4\u30a1\u30fc\u300cma pona\u300d\u306e\u521d\u671f\u30e1\u30f3\u30d0\u30fc\u306e\u7279\u5b9a\u30b0\u30eb\u30fc\u30d7",
         "cs": "star\u0161\u00ed skupina u\u017eivatel\u016f Discordu ma pona",
+        "nno": "ei spesifikk gruppe tidlege medlemmar av Discord-gruppa ma pona",
+        "nob": "en spesifikk gruppe tidlige medlemmer av Discord-gruppen ma pona",
         "nl": "een specifieke groep van vroege leden van de ma pona Discord",
         "el": "\u0388\u03bd\u03b1 \u03c3\u03c5\u03b3\u03ba\u03b5\u03ba\u03c1\u03b9\u03bc\u03ad\u03bd\u03bf group \u03b1\u03c0\u03cc \u03c0\u03c1\u03ce\u03c4\u03b1 \u03bc\u03ad\u03bb\u03b7 \u03c4\u03bf\u03c5 \u201cma pona\u201d Discord"
       }
@@ -3448,6 +3484,8 @@
         "sv": "[interjektion] (visar sp\u00e4nning)",
         "ja": "[\u611f\u5606\u8a5e] (\u8208\u596e\u3092\u3042\u3089\u308f\u3059)",
         "cs": "(citoslovce vyjad\u0159uj\u00edc\u00ed nad\u0161en\u00ed)",
+        "nno": "[interjeksjon] (indikerer begeistring)",
+        "nob": "[interjeksjon] (indikerer begeistring)",
         "nl": "[tussenvoegsel] (geeft opwinding/spanning aan)",
         "el": "[\u0395\u03c0\u03b9\u03c6\u03ce\u03bd\u03b7\u03bc\u03b1] (\u03b4\u03b5\u03af\u03c7\u03bd\u03b5\u03b9 \u03b5\u03bd\u03b8\u03bf\u03c5\u03c3\u03b9\u03b1\u03c3\u03bc\u03cc)"
       }
@@ -3661,6 +3699,8 @@
         "sv": "g\u00e5s, g\u00e5sljud",
         "ja": "\u30ac\u30c1\u30e7\u30a6\u3001\u30ac\u30c1\u30e7\u30a6\u306e\u9cf4\u304d\u58f0",
         "cs": "husa, hus\u00ed kv\u00e1k\u00e1n\u00ed",
+        "nno": "g\u00e5s, g\u00e5selyd",
+        "nob": "g\u00e5s, g\u00e5selyd",
         "nl": "gans, ganzengeluid",
         "el": "\u03a7\u03ae\u03bd\u03b1, \u03ae\u03c7\u03bf\u03c2 \u03c7\u03ae\u03bd\u03b1\u03c2"
       }
@@ -3710,6 +3750,8 @@
         "sv": "(reserverat ord f\u00f6r framtida anv\u00e4ndning av Sonja Lang)",
         "ja": "(\u30bd\u30cb\u30e3\u30fb\u30e9\u30f3\u30b0\u6c0f\u306e\u4eca\u5f8c\u306e\u5229\u7528\u306e\u305f\u3081\u78ba\u4fdd\u3055\u308c\u308b\u5358\u8a9e)",
         "cs": "(slovo zamluven\u00e9 Sonjou Lang pro pozd\u011bj\u0161\u00ed pou\u017eit\u00ed)",
+        "nno": "(ord reservert for framtidig bruk av Sonja Lang)",
+        "nob": "(ord reservert for fremtidig bruk av Sonja Lang)",
         "nl": "(dit woord is gereserveerd voor toekomstig gebruik door Sonja Lang)",
         "el": "(\u039a\u03c1\u03b1\u03c4\u03b7\u03bc\u03ad\u03bd\u03b7 \u03bb\u03ad\u03be\u03b7 \u03b3\u03b9\u03b1 \u03bc\u03b5\u03bb\u03bb\u03bf\u03bd\u03c4\u03b9\u03ba\u03ae \u03c7\u03c1\u03ae\u03c3\u03b7 \u03b1\u03c0\u03cc \u03c4\u03b7\u03bd Sonja Lang)"
       }
@@ -3754,6 +3796,8 @@
         "sv": "obest\u00e4md, ofullst\u00e4ndig, prelimin\u00e4r; of\u00f6ruts\u00e4gbar, instabil; att vackla, att vibrera, att darra, att vingla, att skaka",
         "ja": "\u63fa\u308c\u308b\u3001\u632f\u52d5\u3059\u308b\u3001\u9707\u3048\u308b\u3001\u3075\u3089\u3075\u3089\u3059\u308b\u3001\u308f\u306a\u306a\u304f; \u3076\u3089\u3076\u3089\u3059\u308b\u3001\u63fa\u308c\u52d5\u304f; \u6ce2\u3001\u6f6e",
         "cs": "t\u0159\u00e1st, t\u0159epat, lomcovat, chv\u011bt se, houpat; vlna, p\u0159\u00edliv",
+        "nno": "ubestemd, uavgjort, f\u00f8rebels, tentativ; uf\u00f8reseieleg, ustabil, flyktig; \u00e5 vakle (i ei avgjerd); \u00e5 vibrere, riste, gynge",
+        "nob": "ubestemt, uavgjort, midlertidig, tentativ; uforutsigbar, ustabil, flyktig; \u00e5 vakle (i en beslutning); \u00e5 vibrere, riste, gynge",
         "nl": "niet overtuigend, onbepaald, voorlopig; onvoorstelbaar, onstabiel, vluchtig; wankelen, bibberen, wiebelen, schudden",
         "el": "\u0391\u03ba\u03b1\u03b8\u03cc\u03c1\u03b9\u03c3\u03c4\u03bf,\u03bc\u03b7 \u03c4\u03b5\u03bb\u03b5\u03c3\u03af\u03b4\u03b9\u03ba\u03bf\u03c2, \u03b4\u03bf\u03ba\u03b9\u03bc\u03b1\u03c3\u03c4\u03b9\u03ba\u03cc\u00b7 \u03b1\u03c0\u03c1\u03cc\u03b2\u03bb\u03b5\u03c0\u03c4\u03bf, \u03b1\u03c3\u03c4\u03b1\u03b8\u03ae\u03c2, \u03bd\u03b1 \u03b4\u03b9\u03b1\u03c4\u03ac\u03b6\u03b5\u03b9\u03c2 \u03bd\u03b1 \u03c4\u03c1\u03ad\u03bc\u03b5\u03b9\u03c2, \u03bd\u03b1 \u03c4\u03c1\u03ad\u03bc\u03b5\u03b9\u03c2"
       }
@@ -3809,6 +3853,8 @@
         "sv": "dr\u00f6m",
         "ja": "\u5922",
         "cs": "sen",
+        "nno": "draum; \u00e5 dr\u00f8yme",
+        "nob": "dr\u00f8m; \u00e5 dr\u00f8mme",
         "nl": "droom",
         "el": "\u038c\u03bd\u03b5\u03b9\u03c1\u03cc"
       }
@@ -4016,6 +4062,8 @@
         "sv": "piratljud",
         "ja": "\u6d77\u8cca\u306e\u53eb\u3073\u58f0",
         "cs": "pir\u00e1tsk\u00fd pok\u0159ik",
+        "nno": "piratlyd",
+        "nob": "piratlyd",
         "nl": "piratengeluid",
         "el": "\u0389\u03c7\u03bf\u03c2 \u03c0\u03b5\u03b9\u03c1\u03b1\u03c4\u03ae"
       }
@@ -4060,6 +4108,8 @@
         "sv": "v\u00e4xter innom ordningen Caryophyllales (nejlikeordningen) inklusive alla kaktusar samt tr\u00e4dg\u00e5rdsnejlika, r\u00f6dbetor och m\u00e5nga k\u00f6tt\u00e4tande v\u00e4xter",
         "ja": "\u30ca\u30c7\u30b7\u30b3\u76ee\u306e\u690d\u7269 (\u3042\u3089\u3086\u308b\u30b5\u30dc\u30c6\u30f3\u3001\u30ab\u30fc\u30cd\u30fc\u30b7\u30e7\u30f3\u3001\u30c6\u30f3\u30b5\u30a4\u3001\u304a\u3088\u3073\u591a\u304f\u306e\u98df\u866b\u690d\u7269\u3092\u542b\u3080)",
         "cs": "rostlina \u0159\u00e1du hvozd\u00edkotvar\u00fdch, obsahuj\u00edc\u00ed kaktusy, karafi\u00e1ty, \u0159epy a r\u016fzn\u00e9 maso\u017eravky",
+        "nno": "plantar i ordenen Caryophyllales, inkludert alle kaktusar, nellikar, beter, og mange kj\u00f8tetande plantar",
+        "nob": "planter i ordenen Caryophyllales, inkludert alle kaktuser, nelliker, beter, og mange kj\u00f8ttetende planter",
         "nl": "lid van de orde van de Caryophyllales, waaronder alle cactussen, anjers, bieten, en veel vleesetende planten",
         "el": "\u039c\u03ad\u03bb\u03bf\u03c2 \u03c4\u03b7\u03c2 \u03bf\u03b9\u03ba\u03bf\u03b3\u03ad\u03bd\u03b5\u03b9\u03ac\u03c2 \u03ba\u03b1\u03c1\u03c5\u03cc\u03c6\u03c5\u03bb\u03bb\u03c9\u03bd, \u03c0\u03bf\u03c5 \u03c3\u03c5\u03bc\u03c0\u03b5\u03c1\u03b9\u03bb\u03b1\u03bc\u03b2\u03ac\u03bd\u03b5\u03b9 \u03cc\u03bb\u03bf\u03c5\u03c2 \u03c4\u03bf\u03c5\u03c2 \u03ba\u03ac\u03ba\u03c4\u03bf\u03c5\u03c2 \u03ba\u03b1\u03b9 \u03b3\u03b1\u03c1\u03cd\u03c6\u03b1\u03bb\u03bb\u03bf, \u03c0\u03b1\u03bd\u03c4\u03b6\u03b1\u03c1\u03b9\u03ce\u03bd \u03ba\u03b1\u03b9 \u03c0\u03bf\u03bb\u03bb\u03ce\u03bd \u03c3\u03b1\u03c1\u03ba\u03bf\u03c6\u03ac\u03b3\u03c9\u03bd \u03c6\u03c5\u03c4\u03ce\u03bd"
       }
@@ -4192,6 +4242,8 @@
         "io": "anarkio, revolto, sedicio, rebeleso",
         "ja": "\u7121\u6cd5\u72b6\u614b\u3001\u53db\u4e71\u3001\u53db\u9006\u3001\u8b00\u53cd",
         "cs": "anarchie, povst\u00e1n\u00ed, vzpoura, revolta",
+        "nno": "anarki, oppr\u00f8r, oppstand",
+        "nob": "anarki, oppr\u00f8r, oppstand",
         "nl": "anarchie, opstand, verzet",
         "el": "\u0391\u03bd\u03b1\u03c1\u03c7\u03af\u03b1, \u03b5\u03be\u03ad\u03b3\u03b5\u03c1\u03c3\u03b7, \u03b5\u03c0\u03b1\u03bd\u03ac\u03c3\u03c4\u03b1\u03c3\u03ae"
       }
@@ -4250,6 +4302,8 @@
         "io": "kun, inter, che",
         "ja": "\uff5e\u3068\u3068\u3082\u306b\u3001\uff5e\u306e\u9593\u3067\u3001\uff5e\u3068\u3044\u3063\u3057\u3087\u306b",
         "cs": "s, mezi, ve spole\u010dnosti s",
+        "nno": "med, blant, saman med",
+        "nob": "med, blant, sammen med",
         "nl": "met, bij, in het gezelschap van",
         "el": "\u039c\u03b1\u03b6\u03af \u03bc\u03b5, \u03b1\u03bd\u03b1\u03bc\u03b5\u03c4\u03b1\u03be\u03cd, \u03c3\u03b5 \u03c0\u03b1\u03c1\u03ad\u03b1"
       }
@@ -4294,6 +4348,7 @@
         "it": "estrusione, sporgenza, collina, montagna, pulsante",
         "fr": "extrusion, protub\u00e9rance ; colline, montagne ; bouton",
         "tr": "\u00e7\u0131k\u0131nt\u0131, da\u011f, tepe, buton, [\"nena\" i\u00e7in alternatif form]",
+        "he": "\u05d1\u05dc\u05d9\u05d8\u05d4, \u05d2\u05d1\u05e2\u05d4, \u05d4\u05e8, \u05db\u05e4\u05ea\u05d5\u05e8",
         "zh_hant": "\u51f8\u584a\u3001\u6309\u9215\u3001\u5c71\u3001\u5c71\u4e18\u3001\u9f3b\u5b50\u3001\u9686\u8d77\u7684\u90e8\u5206",
         "zh_hans": "\u51f8\u5757\u3001\u6309\u94ae\u3001\u5c71\u3001\u5c71\u4e18\u3001\u9f3b\u5b50\u3001\u9686\u8d77\u7684\u90e8\u5206",
         "uk": "\u0432\u0438\u0441\u0442\u0443\u043f, \u043f\u0430\u0433\u043e\u0440\u0431, \u0433\u043e\u0440\u0430, \u043a\u043d\u043e\u043f\u043a\u0430, \u0491\u0443\u0434\u0437\u0438\u043a",
@@ -4303,6 +4358,8 @@
         "io": "kolino, monteto, monto, butono, gibo [alternativa formo de la vorto nena]",
         "ja": "\u62bc\u3057\u51fa\u3055\u308c\u305f\u3082\u306e\u3001\u7a81\u8d77\u3001\u4e18\u3001\u5c71\u3001\u30dc\u30bf\u30f3",
         "cs": "v\u00fdb\u011b\u017eek, v\u00fd\u010dn\u011blek, kopec, hora, tla\u010d\u00edtko",
+        "nno": "utvekst, kul, \u00e5s, fjell, knapp",
+        "nob": "utvekst, kul, \u00e5s, fjell, knapp",
         "nl": "uitsteeksel, heuvel, berg, knop",
         "el": "\u0395\u03ba\u03b2\u03bf\u03bb\u03ae, \u03ba\u03b1\u03c1\u03bf\u03cd\u03bc\u03c0\u03b1\u03bb\u03bf, \u03bb\u03cc\u03c6\u03bf\u03c2, \u03b2\u03bf\u03c5\u03bd\u03cc, \u03ba\u03bf\u03c5\u03bc\u03c0\u03af"
       }
@@ -4501,6 +4558,8 @@
         "io": "(agnosko o kredajo)",
         "ja": "(\u540c\u610f\u3001\u4e86\u627f\u3092\u3042\u3089\u308f\u3059)",
         "cs": "(uzn\u00e1n\u00ed, souhlas, pokynut\u00ed)",
+        "nno": "(anerkjenning eller aksept)",
+        "nob": "(anerkjennelse eller aksept)",
         "nl": "(erkenning of aanvaarding)",
         "el": "(\u0391\u03bd\u03b1\u03b3\u03bd\u03ce\u03c1\u03b9\u03c3\u03b7 \u03ae \u03b1\u03c0\u03bf\u03b4\u03bf\u03c7\u03ae)"
       }
@@ -4694,6 +4753,8 @@
         "sv": "(f\u00f6rkortning av kepeken)",
         "ja": "(kepeken \u306e\u7e2e\u7d04\u5f62)",
         "cs": "(zkr\u00e1cen\u00e1 varianta kepeken)",
+        "nno": "(forkorting av kepeken)",
+        "nob": "(forkortelse av kepeken)",
         "nl": "(verkorte variant van kepeken",
         "el": "(\u03a3\u03cd\u03bd\u03c4\u03bf\u03bc\u03b7 \u03bb\u03ad\u03be\u03b7 \u03b3\u03b9\u03b1 \u201ckepeken\u201d)"
       }
@@ -4751,6 +4812,8 @@
         "sv": "queer, HBTQ+",
         "ja": "\u30af\u30a3\u30a2\u3001\u6027\u306e\u591a\u69d8\u6027(LGBT+)\u306e",
         "cs": "queer, LGBT+",
+        "nno": "skeiv, LHBT+",
+        "nob": "skeiv, LHBT+",
         "nl": "queer, LHBTI+",
         "el": "queer, LGBT+"
       }
@@ -4793,6 +4856,7 @@
         "it": "(marcatore di proposizione relativa)",
         "fr": "(marqueur de proposition relative)",
         "tr": "(ilgili c\u00fcmle ba\u011flac\u0131)",
+        "he": "(\u05e1\u05de\u05df \u05de\u05e9\u05e4\u05d8 \u05d6\u05d9\u05e7\u05d4)",
         "zh_hant": "\uff08\u95dc\u4fc2\u5b57\u53e5\u6a19\u8a18\uff09",
         "zh_hans": "\uff08\u5173\u7cfb\u5b57\u53e5\u6807\u8bb0\uff09",
         "uk": "(\u043f\u043e\u043a\u0430\u0436\u0447\u0438\u043a \u0432\u0456\u0434\u043d\u043e\u0441\u043d\u043e\u0433\u043e \u0440\u0435\u0447\u0435\u043d\u043d\u044f)",
@@ -4802,6 +4866,8 @@
         "io": "(indikas la relativa membro di frazo)",
         "ja": "(\u95a2\u4fc2\u7bc0\u3092\u5c0e\u304f)",
         "cs": "(\u010d\u00e1stice pro tvorbu souv\u011bt\u00ed)",
+        "nno": "som (markerer relativsetning)",
+        "nob": "som (markerer relativsetning)",
         "nl": "(geeft de bijzin aan)",
         "el": "(\u0394\u03b5\u03af\u03ba\u03c4\u03b7\u03c2 \u03c3\u03c7\u03b5\u03c4\u03b9\u03ba\u03ae\u03c2 \u03c0\u03c1\u03cc\u03c4\u03b1\u03c3\u03b7\u03c2)"
       }
@@ -5219,6 +5285,8 @@
         "io": "kato",
         "ja": "\u732b",
         "cs": "ko\u010dka",
+        "nno": "katt",
+        "nob": "katt",
         "nl": "kat",
         "el": "\u0393\u03ac\u03c4\u03b1"
       }
@@ -5553,6 +5621,8 @@
         "sv": "att meddela",
         "ja": "\u77e5\u3089\u305b\u308b\u3001\u304a\u3057\u3048\u308b",
         "cs": "upozornit",
+        "nno": "\u00e5 informere, opplyse om",
+        "nob": "\u00e5 informere, opplyse om",
         "nl": "melden, laten weten",
         "el": "\u039d\u03b1 \u03b5\u03b9\u03b4\u03bf\u03c0\u03bf\u03b9\u03b5\u03af\u03c2, \u03bd\u03b1 \u03b5\u03bd\u03b7\u03bc\u03b5\u03c1\u03ce\u03bd\u03b5\u03b9\u03c2"
       }
@@ -5603,6 +5673,8 @@
         "sv": "animacitet, liv; autonom varelse, levande ting, organism; levande, dynamisk; att ge liv \u00e5t, att v\u00e4cka liv i",
         "ja": "\u6709\u751f\u6027\u3001\u751f\u547d\u3001\u81ea\u5f8b\u6027; \u81ea\u5f8b\u7684\u5b58\u5728\u3001\u751f\u7269\u3001\u6709\u6a5f\u4f53; \u751f\u304d\u3066\u3044\u308b\u3001\u6709\u751f\u306e\u3001\u52d5\u7684\u306a; \u751f\u304b\u3059\u3001\u751f\u547d\u3092\u3082\u305f\u3089\u3059",
         "cs": "\u017eivotnost, \u017eivot, samostatnost; autonomn\u00ed bytost, \u017eij\u00edc\u00ed v\u011bc, organismus; \u017eiv\u00fd; ob\u017eivit",
+        "nno": "livskraft, liv, autonomi; autonom skapning, levande vesen, organisme; levande, livlig, dynamisk; \u00e5 animere, bringe til live",
+        "nob": "livskraft, liv, autonomi; autonom skapning, levende vesen, organisme; levende, livlig, dynamisk; \u00e5 animere, bringe til live",
         "nl": "leven, zelfstandig; autonoom wezen, levend ding, organisme, levend, bewegingsrijk, dynamisch; animeren, tot leven wekken",
         "el": "\u0396\u03c9\u03c4\u03b9\u03ba\u03cc\u03c4\u03b7\u03c4\u03ac, \u0396\u03c9\u03ae, \u03b1\u03c5\u03c4\u03bf\u03bd\u03bf\u03bc\u03af\u03b1 \u03b1\u03c5\u03c4\u03cc\u03bd\u03bf\u03bc\u03bf \u03c0\u03bb\u03ac\u03c3\u03bc\u03b1, \u03b6\u03c9\u03bd\u03c4\u03b1\u03bd\u03cc \u03c9\u03bd, \u03bf\u03c1\u03b3\u03b1\u03bd\u03b9\u03c3\u03bc\u03cc\u03c2 \u03b6\u03c9\u03bd\u03c4\u03b1\u03bd\u03cc, \u03b5\u03bc\u03c8\u03cd\u03c7\u03c9\u03c3\u03b7, \u03b4\u03c5\u03bd\u03b1\u03bc\u03b9\u03ba\u03bf\u00b7 \u03bd\u03b1 \u03b5\u03bc\u03c8\u03c5\u03c7\u03c9\u03b8\u03b5\u03af\u03c2, \u03bd\u03b1 \u03b4\u03af\u03bd\u03b5\u03b9\u03c2 \u03b6\u03c9\u03ae"
       }
@@ -6142,6 +6214,7 @@
         "es": "el grupo de chat en coreano \"kulupu pi toki pona pi ma Anku\"",
         "fr": "le tchat cor\u00e9en \"kulupu pi toki pona pi ma Anku\"",
         "tr": "Kore grup sohbeti \"kulupu pi toki pona pi ma Anku\"",
+        "he": "\u05d4\u05e7\u05d1\u05d5\u05e6\u05d4 \u05d4\u05e7\u05d5\u05e8\u05d9\u05d0\u05e0\u05d9\u05ea \"kulupu pi toki pona pi ma Anku\"",
         "zh_hant": "\u97d3\u570b\u804a\u5929\u5ba4\u300ckulupu pi toki pona pi ma Anku\u300d",
         "zh_hans": "\u97e9\u56fd\u804a\u5929\u5ba4\u201ckulupu pi toki pona pi ma Anku\u201d",
         "uk": "\u043d\u0430\u0437\u0432\u0430 \u043a\u043e\u0440\u0435\u0439\u0441\u044c\u043a\u043e\u0433\u043e \u0433\u0440\u0443\u043f\u043e\u0432\u043e\u0433\u043e \u0447\u0430\u0442\u0443 \"kulupu pi toki pona pi ma Anku\"",
@@ -7236,6 +7309,7 @@
         "it": "(prima della frase preposizionale)",
         "fr": "(introduit un groupe pr\u00e9positionel)",
         "tr": "(ilge\u00e7 \u00f6be\u011fi \u00f6ncesi)",
+        "he": "(\u05dc\u05e4\u05e0\u05d9 \u05de\u05e9\u05e4\u05d8 \u05d4\u05d9\u05d7\u05e1)",
         "zh_hant": "\uff08\u7f6e\u65bc\u4ecb\u8a5e\u77ed\u8a9e\u4e4b\u524d\uff09",
         "zh_hans": "\uff08\u7f6e\u4e8e\u4ecb\u8bcd\u77ed\u8bed\u4e4b\u524d\uff09",
         "uk": "(\u043f\u0435\u0440\u0435\u0434 \u0444\u0440\u0430\u0437\u043e\u044e-\u043f\u0440\u0438\u0439\u043c\u0435\u043d\u043d\u0438\u043a\u043e\u043c)",
@@ -9770,6 +9844,7 @@
         "it": "relazione, correlazione, comunanza; croce, nodo, giunzione, intersezione; sovrapporsi, piegare; oltrepassare, eccedere in un punto",
         "fr": "relation, corr\u00e9lation, communaut\u00e9 ; croisement, n\u0153ud, jonction, intersection ; chevaucher, croiser ; d\u00e9passer, franchir",
         "tr": "ili\u015fki, ba\u011flant\u0131, korelasyon, ortak \u00f6zellik; \u00e7arp\u0131, d\u00fc\u011f\u00fcm, kav\u015fak, ba\u011flant\u0131 noktas\u0131, kesi\u015fim noktas\u0131; kesi\u015fmek, katlanmak; fazla gitmek, a\u015fmak",
+        "he": "\u05de\u05e2\u05e8\u05db\u05ea \u05d9\u05d7\u05e1\u05d9\u05dd, \u05e7\u05d5\u05e8\u05dc\u05e6\u05d9\u05d4; \u05e6\u05dc\u05d1, \u05e7\u05e9\u05e8, \u05e6\u05d5\u05de\u05ea; \u05dc\u05d7\u05e4\u05d5\u05e3, \u05dc\u05e7\u05e4\u05dc; \u05dc\u05e2\u05d1\u05d5\u05e8 \u05d0\u05ea \u05d4\u05d2\u05d1\u05d5\u05dc",
         "zh_hant": "\u95dc\u4fc2\u3001\u806f\u7e6b\u3001\u95dc\u806f\u3001\u5171\u540c\u7279\u5fb5\uff1b\u4ea4\u53c9\u3001\u76f8\u4ea4\u3001\u7d50\u3001\u4ea4\u9ede\u3001\u63a5\u5408\u9ede\uff1b\u91cd\u758a\u3001\u4ea4\u758a\u3001\u647a\u758a\u3001\u8d85\u8d8a\uff08\u7bc4\u570d\uff09\u3001\u8d85\u8d8a\u5230\u4e00\u500b\u7a0b\u5ea6",
         "zh_hans": "\u5173\u7cfb\u3001\u8054\u7cfb\u3001\u5173\u8054\u3001\u5171\u540c\u7279\u5f81\uff1b\u4ea4\u53c9\u3001\u76f8\u4ea4\u3001\u7ed3\u3001\u4ea4\u70b9\u3001\u63a5\u5408\u70b9\uff1b\u91cd\u53e0\u3001\u4ea4\u53e0\u3001\u647a\u53e0\u3001\u8d85\u8d8a\uff08\u8303\u56f4\uff09\u3001\u8d85\u8d8a\u5230\u4e00\u4e2a\u7a0b\u5ea6",
         "uk": "\u0432\u0437\u0430\u0454\u043c\u043e\u0437\u0432'\u044f\u0437\u043e\u043a, \u043a\u043e\u0440\u0435\u043b\u044f\u0446\u0456\u044f, \u0441\u043f\u0456\u043b\u044c\u043d\u0456\u0441\u0442\u044c; \u0445\u0440\u0435\u0441\u0442, \u0432\u0443\u0437\u043e\u043b, \u0441\u0442\u0438\u043a, \u043f\u0435\u0440\u0435\u0445\u0440\u0435\u0441\u0442\u044f; \u043f\u0435\u0440\u0435\u043a\u0440\u0438\u0432\u0430\u0442\u0438, \u0441\u043a\u043b\u0430\u0434\u0430\u0442\u0438, \u043f\u0435\u0440\u0435\u043a\u0440\u043e\u043a\u043d\u0443\u0442\u0438, \u043f\u0435\u0440\u0435\u0432\u0435\u0440\u0448\u0438\u0442\u0438 \u0434\u043e \u0440\u0456\u0432\u043d\u044f",
@@ -10561,6 +10636,7 @@
         "it": "boomer, Baby Boomer, anziano sconsiderato; [interiezione/insulto]",
         "fr": "boomer, baby boomer, personna \u00e2g\u00e9e qui manque d'\u00e9gards ou de consid\u00e9ration ; (interjection ou insulte)",
         "tr": "boomer, bebek patlamas\u0131 ku\u015fa\u011f\u0131, d\u00fc\u015f\u00fcncesiz ya\u015fl\u0131",
+        "he": "\u05d1\u05d5\u05de\u05e8, \u05d1\u05d9\u05d9\u05d1\u05d9 \u05d1\u05d5\u05de\u05e8, \u05d0\u05d9\u05e9 \u05d6\u05e7\u05df \u05dc\u05d0 \u05de\u05ea\u05d7\u05e9\u05d1; [\u05e2\u05dc\u05d1\u05d5\u05df]",
         "zh_hant": "\u51fa\u751f\u65bc\u5b30\u5152\u6f6e\u4e00\u4ee3\uff081946\u5e74\uff0d1964\u5e74\uff09\u7684\u4eba\u3001\u4e0d\u66ff\u5225\u4eba\u8457\u60f3\u7684\u9577\u8005\uff1b\u5c0d\u9019\u985e\u4eba\u7684\u8fb1\u7f75\u8a5e",
         "zh_hans": "\u51fa\u751f\u4e8e\u5a74\u513f\u6f6e\u4e00\u4ee3\uff081946\u5e74\uff0d1964\u5e74\uff09\u7684\u4eba\u3001\u4e0d\u66ff\u522b\u4eba\u7740\u60f3\u7684\u957f\u8005\uff1b\u5bf9\u8fd9\u7c7b\u4eba\u7684\u8fb1\u9a82\u8bcd",
         "uk": "\u0431\u0443\u043c\u0435\u0440, \u0431\u0435\u0431\u0456-\u0431\u0443\u043c\u0435\u0440, \u043d\u0435\u0431\u043b\u0430\u0433\u043e\u0440\u043e\u0437\u0443\u043c\u043d\u0430 \u043b\u0456\u0442\u043d\u044f \u043b\u044e\u0434\u0438\u043d\u0430; [\u0432\u0438\u0433\u0443\u043a/\u043e\u0431\u0440\u0430\u0437\u0430]",
@@ -10802,6 +10878,7 @@
         "es": "(nombre propio) el nombre de una canci\u00f3n creada por jan Usawi",
         "fr": "(nom propre) chanson de jan Usawi",
         "tr": "(proper name) jan Usawi'nin bir \u015fark\u0131s\u0131",
+        "he": "(\u05e9\u05dd) \u05e9\u05d9\u05e8 \u05e2\u05dc \u05d9\u05d3\u05d9 jan Usawi",
         "zh_hant": "\uff08\u5c08\u6709\u540d\u8a5e\uff09jan Usawi \u7684\u4e00\u9996\u6b4c\u66f2",
         "zh_hans": "\uff08\u4e13\u6709\u540d\u8bcd\uff09jan Usawi \u7684\u4e00\u9996\u6b4c\u66f2",
         "uk": "\u043d\u0430\u0437\u0432\u0430 \u043f\u0456\u0441\u043d\u0456 \u0432\u0456\u0434 jan Usawi",
@@ -11165,6 +11242,7 @@
         "it": "Orwelliano, totalitario, di o relativo al Grande Fratello (da 1984), antonimo di kamalawala",
         "fr": "{antonyme de kamalawala} orwellien, totalitaire, de ou en rapport avec Big Brother dans le roman 1984 de George Orwell",
         "tr": "Orwell'ci, b\u00fct\u00fcnc\u00fcl, totaliter, Karde\u015fler (1984, en: Big Brother) filmi ile alakal\u0131, \"kamalawala\" kelimesinin z\u0131t anlaml\u0131s\u0131",
+        "he": "\u05d0\u05d5\u05e8\u05d5\u05d5\u05dc\u05d9\u05d0\u05e0\u05d9, \u05d8\u05d5\u05d8\u05dc\u05d9\u05d8\u05e8\u05d9, \u05de\u05ea\u05e7\u05e9\u05e8 \u05d0\u05d5 \u05e9\u05d9\u05d9\u05da \u05dc\u05d0\u05d7 \u05d4\u05d2\u05d3\u05d5\u05dc (\u05de\u05d4\u05e1\u05e4\u05e8 1984), \u05d4\u05d4\u05e4\u05da \u05e9\u05dc kamalawala",
         "zh_hant": "\u6b50\u5a01\u723e\u5f0f\u7684\u3001\u6975\u6b0a\u4e3b\u7fa9\u7684\u3001\u8207\uff08\u300a\u4e00\u4e5d\u516b\u56db\u300b\u7684\uff09\u8001\u5927\u54e5\u6709\u95dc\u7684\u3001kamalawala \u7684\u53cd\u7fa9\u8a5e",
         "zh_hans": "\u6b27\u5a01\u5c14\u5f0f\u7684\u3001\u6781\u6743\u4e3b\u4e49\u7684\u3001\u4e0e\uff08\u300a\u4e00\u4e5d\u516b\u56db\u300b\u7684\uff09\u8001\u5927\u54e5\u6709\u5173\u7684\u3001kamalawala \u7684\u53cd\u4e49\u8bcd",
         "uk": "\u041e\u0440\u0443\u0435\u043b\u0456\u0432\u0441\u044c\u043a\u0438\u0439, \u0442\u043e\u0442\u0430\u043b\u0456\u0442\u0430\u0440\u043d\u0438\u0439, \u0432\u0456\u0434\u043d\u043e\u0441\u044f\u0447\u0438\u0439\u0441\u044f \u0434\u043e \u0430\u0431\u043e \u043f\u043e\u0432'\u044f\u0437\u0430\u043d\u0438\u0439 \u0437 \u0412\u0435\u043b\u0438\u043a\u0438\u043c \u0411\u0440\u0430\u0442\u043e\u043c (\u0437 1984), \u0430\u043d\u0442\u043e\u043d\u0456\u043c kamalawala",
@@ -11217,6 +11295,7 @@
         "it": "[interiezione] che cavolo!; espressione di incredulit\u00e0, esasperazione o eccitazione",
         "fr": "(interjection : mec ; \u00e9tonnement, exasp\u00e9ration, excitation)",
         "tr": "[\u00fcnlem] bruh, eh; inan\u00e7s\u0131zl\u0131k, \u00f6fke veya s\u0131k\u0131lma ifadesi",
+        "he": "[\u05de\u05d9\u05dc\u05ea \u05e7\u05e8\u05d9\u05d0\u05d4] \u05d0\u05d7\u05d9; \u05d4\u05d1\u05e2\u05ea \u05d7\u05d5\u05e1\u05e8 \u05d0\u05de\u05d5\u05df, \u05d4\u05ea\u05de\u05e8\u05de\u05e8\u05d5\u05ea, \u05d0\u05d5 \u05d4\u05ea\u05e8\u05d2\u05e9\u05d5\u05ea",
         "zh_hant": "[\u611f\u5606\u8a5e] \u8868\u793a\u4e0d\u4fe1\u3001\u60f1\u6012\u6216\u8208\u596e",
         "zh_hans": "[\u611f\u53f9\u8bcd] \u8868\u793a\u4e0d\u4fe1\u3001\u607c\u6012\u6216\u5174\u594b",
         "uk": "(\u0432\u0438\u0433\u0443\u043a) bruh; \u0432\u0438\u0440\u0430\u0437 \u043d\u0435\u0434\u043e\u0432\u0456\u0440\u0438, \u0440\u043e\u0437\u0434\u0440\u0430\u0442\u0443\u0432\u0430\u043d\u043d\u044f \u0430\u0431\u043e \u0445\u0432\u0438\u043b\u044e\u0432\u0430\u043d\u043d\u044f",
@@ -12047,6 +12126,7 @@
         "it": "elettrico, elettronico, conduttivo, meccanico, online; elettricit\u00e0, fulmine, tuono, rete",
         "fr": "\u00e9lectrique, \u00e9lectronique, conducteur, m\u00e9canique ; \u00e9lectricit\u00e9, \u00e9clair, foudre ; en ligne, r\u00e9seau",
         "tr": "elektrik, elektronik, iletkeni mekanik, \u00e7evrimi\u00e7i; \u015fim\u015fek, y\u0131ld\u0131r\u0131m, a\u011f",
+        "he": "\u05d7\u05e9\u05de\u05dc\u05d9, \u05d0\u05dc\u05e7\u05d8\u05e8\u05d5\u05e0\u05d9, \u05de\u05d5\u05dc\u05d9\u05da \u05d7\u05e9\u05de\u05dc, \u05de\u05db\u05e0\u05d9, \u05d0\u05d5\u05e0\u05dc\u05d9\u05d9\u05df; \u05d7\u05e9\u05de\u05dc, \u05d1\u05e8\u05e7, \u05e8\u05e2\u05dd, \u05e8\u05e9\u05ea",
         "zh_hant": "\u96fb\u52d5\u7684\u3001\u767c\u96fb\u7684\u3001\u96fb\u5b50\u7684\u3001\u5c0e\u96fb\u7684\u3001\u6a5f\u52d5\u7684\u3001\u6a5f\u68b0\u7684\u3001\u5728\u7dda\u7684\uff1b\u96fb\u529b\u3001\u9583\u96fb\u3001\u96f7\u3001\u7db2\u8def",
         "zh_hans": "\u7535\u52a8\u7684\u3001\u53d1\u7535\u7684\u3001\u7535\u5b50\u7684\u3001\u5bfc\u7535\u7684\u3001\u673a\u52a8\u7684\u3001\u673a\u68b0\u7684\u3001\u5728\u7ebf\u7684\uff1b\u7535\u529b\u3001\u95ea\u7535\u3001\u96f7\u3001\u7f51\u7edc",
         "uk": "\u0435\u043b\u0435\u043a\u0442\u0440\u0438\u0447\u043d\u0438\u0439, \u0435\u043b\u0435\u043a\u0442\u0440\u043e\u043d\u043d\u0438\u0439, \u0442\u043e\u043a\u043e\u043f\u0440\u043e\u0432\u043e\u0434\u044f\u0447\u0438\u0439, \u043c\u0435\u0445\u0430\u043d\u0456\u0447\u043d\u0438\u0439, \u043e\u043d\u043b\u0430\u0439\u043d; \u0435\u043b\u0435\u043a\u0442\u0440\u0438\u043a\u0430, \u0431\u043b\u0438\u0441\u043a\u0430\u0432\u043a\u0430, \u0433\u0440\u0456\u043c, \u043c\u0435\u0440\u0435\u0436\u0430",
@@ -12784,6 +12864,7 @@
         "it": "efficace, utile, dare buoni risultati",
         "fr": "efficace, utile, donner de bons r\u00e9sultats",
         "tr": "etkili, i\u015fe yarar, iyi sonu\u00e7 vermek",
+        "he": "\u05d9\u05e2\u05d9\u05dc, \u05e9\u05d9\u05de\u05d5\u05e9, \u05dc\u05ea\u05ea \u05ea\u05d5\u05e6\u05d0\u05d5\u05ea \u05d8\u05d5\u05d1\u05d5\u05ea",
         "zh_hant": "\u6709\u6548\u7684\u3001\u6709\u7528\u7684\u3001\u5e36\u4f86\u597d\u7d50\u679c\u7684\u3001\u6709\u6536\u7a6b\u7684",
         "zh_hans": "\u6709\u6548\u7684\u3001\u6709\u7528\u7684\u3001\u5e26\u6765\u597d\u7ed3\u679c\u7684\u3001\u6709\u6536\u83b7\u7684",
         "fi": "tehokas, hy\u00f6dyllinen, toimia hyvin",
@@ -13233,6 +13314,7 @@
         "pt": "querer criar novas palavras",
         "fr": "d\u00e9sir de cr\u00e9er de nouveaux mots",
         "tr": "yeni kelimeler olu\u015fturma iste\u011fi",
+        "he": "\u05dc\u05e8\u05e6\u05d5\u05ea \u05dc\u05d9\u05e6\u05d5\u05e8 \u05de\u05d9\u05dc\u05d9\u05dd \u05d7\u05d3\u05e9\u05d5\u05ea",
         "zh_hant": "\u60f3\u8981\u9020\u65b0\u8a5e\u7684",
         "zh_hans": "\u60f3\u8981\u9020\u65b0\u8bcd\u7684",
         "uk": "\u0445\u043e\u0442\u0456\u0442\u0438 \u0441\u0442\u0432\u043e\u0440\u044e\u0432\u0430\u0442\u0438 \u043d\u043e\u0432\u0456 \u0441\u043b\u043e\u0432\u0430",
@@ -13795,6 +13877,7 @@
         "it": "su un livello/piano superiore, illuminato, epico; in misura estremamente vasta",
         "fr": "sur un plan/ ou niveau sup\u00e9rieur, \u00e9clair\u00e9, \u00e9pique ; en tr\u00e8s grande partie, extr\u00eamement",
         "tr": "daha y\u00fcksek r\u00fctbede/d\u00fczlemde, ayd\u0131nlanmak, ayd\u0131nlanm\u0131\u015f, epik; son derece kapsaml\u0131",
+        "he": "\u05d1\u05e8\u05de\u05d4/\u05de\u05d9\u05e9\u05d5\u05e8 \u05d2\u05d1\u05d5\u05d4 \u05d9\u05d5\u05ea\u05e8, \u05dc\u05d4\u05d0\u05d9\u05e8 (\u05d1\u05d0\u05d5\u05e4\u05df \u05e8\u05d5\u05d7\u05e0\u05d9), \u05d0\u05e4\u05d9; \u05dc\u05e8\u05de\u05d4 \u05d2\u05d1\u05d5\u05d4\u05d4 \u05d1\u05d9\u05d5\u05ea\u05e8",
         "zh_hant": "\u5728\u66f4\u9ad8\u7684\u7b49\u7d1a/\u5c64\u6b21\u4e0a\u7684\u3001\u53f2\u8a69\u7d1a\u7684\uff1b\u6975\u5927\u7a0b\u5ea6\u4e0a",
         "zh_hans": "\u5728\u66f4\u9ad8\u7684\u7b49\u7ea7/\u5c42\u6b21\u4e0a\u7684\u3001\u53f2\u8bd7\u7ea7\u7684\uff1b\u6781\u5927\u7a0b\u5ea6\u4e0a",
         "uk": "\u0431\u0456\u043b\u044c\u0448 \u0432\u0438\u0441\u043e\u043a\u043e\u0433\u043e \u0440\u0456\u0432\u043d\u044f, \u043f\u0440\u043e\u0441\u0432\u0456\u0447\u0435\u043d\u0438\u0439, \u0435\u043f\u0456\u0447\u043d\u0438\u0439; \u0443 \u0437\u0430\u043d\u0430\u0434\u0442\u043e \u0432\u0435\u043b\u0438\u043a\u0456\u0439 \u043c\u0456\u0440\u0456",
@@ -14071,6 +14154,7 @@
         "it": "ego, s\u00e9, proprio",
         "fr": "\u00e9go, soi",
         "tr": "ego, kendi, kendinin",
+        "he": "\u05d0\u05d2\u05d5, \u05e2\u05e6\u05de\u05d9, \u05e9\u05dc\u05d9",
         "zh_hant": "\u81ea\u6211\u3001\u81ea\u5df1",
         "zh_hans": "\u81ea\u6211\u3001\u81ea\u5df1",
         "uk": "\u0435\u0433\u043e, \u0441\u0435\u0431\u0435, \u0441\u0430\u043c, \u0441\u0430\u043c\u043e, \u0432\u043b\u0430\u0441\u043d\u0438\u0439",
@@ -15645,6 +15729,7 @@
         "it": "messa a fuoco, attenzione, concentrazione, risoluzione, finezza; concentrarsi su",
         "fr": "concentration, attention, r\u00e9solution, finesse ; se concentrer, se focaliser sur",
         "tr": "odak, dikkat, konsantrasyon, kararl\u0131l\u0131k; (-e) odaklanmak",
+        "he": "\u05de\u05d9\u05e7\u05d5\u05d3, \u05ea\u05e9\u05d5\u05de\u05ea \u05dc\u05d1, \u05dc\u05d4\u05ea\u05e8\u05db\u05d6, \u05d0\u05d9\u05db\u05d5\u05ea; \u05dc\u05d4\u05ea\u05de\u05e7\u05d3",
         "zh_hant": "\u4e2d\u5fc3\u9ede\u3001\u6ce8\u610f\u529b\u3001\u5c08\u5fc3\u3001\u5c08\u6ce8\u3001\u8a73\u7d30\uff1b\u6ce8\u610f",
         "zh_hans": "\u4e2d\u5fc3\u70b9\u3001\u6ce8\u610f\u529b\u3001\u4e13\u5fc3\u3001\u4e13\u6ce8\u3001\u8be6\u7ec6\uff1b\u6ce8\u610f",
         "uk": "\u0444\u043e\u043a\u0443\u0441, \u0443\u0432\u0430\u0433\u0430, \u043a\u043e\u043d\u0446\u0435\u043d\u0442\u0440\u0430\u0446\u0456\u044f, \u0432\u0438\u0437\u043d\u0430\u0447\u0435\u043d\u043d\u044f, \u0434\u043e\u0441\u043a\u043e\u043d\u0430\u043b\u0456\u0441\u0442\u044c; \u0437\u043e\u0441\u0435\u0440\u0435\u0434\u0436\u0443\u0432\u0430\u0442\u0438\u0441\u044f \u043d\u0430",
@@ -16594,6 +16679,7 @@
         "it": "contesto, argomento, salienza, pertinente, attuale, pertinenza, essere rilevante",
         "fr": "contexte, sujet, importance, saillance ; pertinent, d'actualit\u00e9 ; concerner, \u00eatre pertinent",
         "tr": "ba\u011flam, konu, iligili, alakal\u0131",
+        "he": "\u05d4\u05e7\u05e9\u05e8, \u05e0\u05d5\u05e9\u05d0, \u05e7\u05e9\u05d5\u05e8, \u05dc\u05d4\u05ea\u05e7\u05e9\u05e8, \u05dc\u05d4\u05d9\u05d5\u05ea \u05e8\u05dc\u05d5\u05d5\u05e0\u05d8\u05d9",
         "zh_hant": "\u80cc\u666f\u3001\u74b0\u5883\u3001\u4e3b\u984c\u3001\u6709\u95dc\u7684\u3001\u8cbc\u5207\u4e3b\u984c\u7684\u3001\u6709\u95dc\u6642\u4e8b\u7684",
         "zh_hans": "\u80cc\u666f\u3001\u73af\u5883\u3001\u4e3b\u9898\u3001\u6709\u5173\u7684\u3001\u8d34\u5207\u4e3b\u9898\u7684\u3001\u6709\u5173\u65f6\u4e8b\u7684",
         "uk": "\u043a\u043e\u043d\u0442\u0435\u043a\u0441\u0442, \u0442\u0435\u043c\u0430, \u0437\u043d\u0430\u0447\u0438\u043c\u0456\u0441\u0442\u044c, \u0434\u043e\u0440\u0435\u0447\u043d\u0456\u0441\u0442\u044c, \u0430\u043a\u0442\u0443\u0430\u043b\u044c\u043d\u0456\u0441\u0442\u044c, \u043c\u0430\u0442\u0438 \u0432\u0456\u0434\u043d\u043e\u0448\u0435\u043d\u043d\u044f, \u0431\u0443\u0442\u0438 \u0430\u043a\u0442\u0443\u0430\u043b\u044c\u043d\u0438\u043c",
@@ -16995,6 +17081,7 @@
         "it": "qualcosa che sembra infrangere le regole ma non lo fa; finta spigolosit\u00e0, provocazione",
         "fr": "quelque chose qui a l'air d'enfreindre les r\u00e8gles sans que ce ne soit le cas ; faux avant-gardisme, arrogance",
         "tr": "kurallar\u0131 \u00e7i\u011fnememesine ra\u011fmen \u00f6yleymi\u015f gibi g\u00f6z\u00fcken \u015fey; provokasyon",
+        "he": "\u05d3\u05d1\u05e8 \u05e9\u05e0\u05d3\u05de\u05d4 \u05db\u05d0\u05d9\u05dc\u05d5 \u05d4\u05d5\u05d0 \u05e9\u05d5\u05d1\u05e8 \u05d0\u05ea \u05d4\u05d7\u05d5\u05e7\u05d9\u05dd, \u05d0\u05da \u05dc\u05de\u05e2\u05e9\u05d4 \u05dc\u05d0; \u05e4\u05e8\u05d5\u05d1\u05d5\u05e7\u05e6\u05d9\u05d4",
         "zh_hant": "\u770b\u4f3c\u9055\u53cd\u898f\u5247\u4f46\u5be6\u5247\u4e0d\u7136\u7684\u6771\u897f\uff1b\u865b\u507d\u7684\u6ecb\u4e8b\u3001\u6311\u91c1",
         "zh_hans": "\u770b\u4f3c\u8fdd\u53cd\u89c4\u5219\u4f46\u5b9e\u5219\u4e0d\u7136\u7684\u4e1c\u897f\uff1b\u865a\u4f2a\u7684\u6ecb\u4e8b\u3001\u6311\u8845",
         "uk": "\u0449\u043e\u0441\u044c, \u0449\u043e \u043d\u0456\u0431\u0438\u0442\u043e \u043f\u043e\u0440\u0443\u0448\u0443\u0454 \u043f\u0440\u0430\u0432\u0438\u043b\u0430, \u0430\u043b\u0435 \u0437\u043d\u0430\u0445\u043e\u0434\u0438\u0442\u044c\u0441\u044f \u0443 \u0457\u0445 \u043c\u0435\u0436\u0430\u0445; \u043f\u0440\u043e\u0432\u043e\u043a\u0430\u0446\u0456\u044f",
@@ -17079,6 +17166,7 @@
         "it": "(agisce come transizione da una frase completa all'altra)",
         "fr": "(marque la transition d'une phrase compl\u00e8te \u00e0 une autre)",
         "tr": "(tamamlanm\u0131\u015f bir c\u00fcmleden bir di\u011ferine ge\u00e7erken ara ge\u00e7i\u015f g\u00f6revi g\u00f6r\u00fcr)",
+        "he": "(\u05de\u05e9\u05de\u05e9 \u05db\u05de\u05e2\u05d1\u05e8 \u05d1\u05d9\u05df \u05de\u05e9\u05e4\u05d8 \u05e9\u05dc\u05dd \u05d0\u05d7\u05d3 \u05dc\u05e9\u05e0\u05d9)",
         "zh_hant": "\uff08\u5b8c\u6574\u53e5\u5b50\u4e4b\u9593\u7684\u904e\u6e21\u8a5e\uff09",
         "zh_hans": "\uff08\u5b8c\u6574\u53e5\u5b50\u4e4b\u95f4\u7684\u8fc7\u6e21\u8bcd\uff09",
         "uk": "(\u043f\u0440\u0430\u0446\u044e\u0454 \u044f\u043a \u043f\u0435\u0440\u0435\u0445\u0456\u0434 \u043c\u0456\u0436 \u043e\u0434\u043d\u0438\u043c \u043f\u043e\u0432\u043d\u0438\u043c \u0440\u0435\u0447\u0435\u043d\u043d\u044f\u043c \u0434\u043e \u0456\u043d\u0448\u043e\u0433\u043e)",
@@ -17484,6 +17572,7 @@
         "it": "{su Discord} l'emoji della stella usata per la starboard (#pona-kulupu in ma pona)",
         "fr": "\u00e9moji \u00e9toile utilis\u00e9 pour le Starboard #pona-kulupu sur le serveur Discord \"ma pona\"",
         "tr": "{Discord'da} \"Starboard\" i\u00e7in kullan\u0131lan y\u0131ld\u0131z emojisi (\"ma pona\" sayfas\u0131ndaki #pona-kulupu kanal\u0131)",
+        "he": "{\u05d1\u05d3\u05d9\u05e1\u05e7\u05d5\u05e8\u05d3} \u05d0\u05d9\u05de\u05d5\u05d2'\u05d9 \u05d4\u05db\u05d5\u05db\u05d1 \u05d4\u05de\u05e9\u05de\u05e9 \u05e2\u05d1\u05d5\u05e8 \u05dc\u05d5\u05d7 \u05d4\u05db\u05d5\u05db\u05d1\u05d9\u05dd (#pona-kulupu \u05d1ma pona)",
         "zh_hant": "{Discord \u4e2d} \u7cbe\u83ef\u8a0a\u606f\u6b04\uff08ma pona \u7684 #pona-kulupu\uff09\u6240\u7528\u7684\u661f\u661f\u8868\u60c5\u7b26\u865f",
         "zh_hans": "{Discord \u4e2d} \u7cbe\u534e\u4fe1\u606f\u680f\uff08ma pona \u7684 #pona-kulupu\uff09\u6240\u7528\u7684\u661f\u661f\u8868\u60c5\u7b26\u53f7",
         "uk": "\u0435\u043c\u043e\u0434\u0436\u0456 \u0437\u0456\u0440\u043e\u0447\u043a\u0438 \u0443 #pona-kulupu (\u2b50\ufe0f)",
