@@ -18707,16 +18707,6 @@
       "style": "uniform line weight",
       "features": "ASCII transcription"
     },
-    "toki pona PixelFonts": {
-      "name_short": "toki pona PixelFonts",
-      "writing_system": "sitelen pona",
-      "links": {
-        "fontfile": "https://cdn.discordapp.com/attachments/340307145373253642/631510265455706132/tokiponaPixelFonts12Medium.ttf"
-      },
-      "last_updated": "2022-07",
-      "style": "pixelated",
-      "features": "ASCII transcription"
-    },
     "toki pona updated": {
       "name_short": "toki pona updated",
       "writing_system": "logography",
