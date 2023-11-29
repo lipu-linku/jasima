@@ -1083,6 +1083,7 @@
         "2022-08": "97",
         "2023-09": "99"
       },
+      "see_also": "lukin",
       "pu_verbatim": {
         "en": "VERB to hunt, forage",
         "fr": "VERBE chasser, cueillir",
@@ -1416,6 +1417,7 @@
         "2022-08": "99",
         "2023-09": "99"
       },
+      "see_also": "noka",
       "tags": "pre-pu ALT",
       "pu_verbatim": {
         "en": "ADJECTIVE bowing down, downward, humble, lowly, dependent",
@@ -2138,7 +2140,7 @@
         "2022-08": "44",
         "2023-09": "53"
       },
-      "see_also": "pona",
+      "see_also": "pona, wawa",
       "def": {
         "en": "epic, cool, awesome, amazing",
         "pl": "fajny, epicki, odjazdowy, niesamowity, zar\u0105bisty",
@@ -3406,6 +3408,7 @@
         "2022-08": "47",
         "2023-09": "43"
       },
+      "see_also": "tu, lukin",
       "def": {
         "en": "reflect, resound, mirror, be on the opposite/polar end of",
         "pl": "lustro, przeciwie\u0144stwo; naprzeciw; odbija\u0107, odzwierciedla\u0107",
@@ -7018,6 +7021,7 @@
         "2022-08": "100",
         "2023-09": "100"
       },
+      "see_also": "suli",
       "pu_verbatim": {
         "en": "ADJECTIVE little, small, short; few; a bit; young",
         "fr": "ADJECTIF petit, (un) peu, jeune",
@@ -7668,6 +7672,7 @@
         "2022-08": "99",
         "2023-09": "100"
       },
+      "see_also": "noka",
       "tags": "pre-pu ALT",
       "pu_verbatim": {
         "en": "NOUN arm, hand, tactile organ\nNUMBER five",
@@ -8664,6 +8669,7 @@
         "2022-08": "63",
         "2023-09": "60"
       },
+      "see_also": "moku",
       "def": {
         "en": "medicine, medical",
         "pl": "lekarstwo, lek; medyczny; leczy\u0107",
@@ -9011,6 +9017,7 @@
         "2022-08": "85",
         "2023-09": "83"
       },
+      "see_also": "ike, pilin",
       "def": {
         "en": "fear, dread; monster, predator; threat, danger",
         "pl": "strach, przera\u017cenie; potw\u00f3r, drapie\u017cca; zagro\u017cenie, niebezpiecze\u0144stwo",
@@ -9361,6 +9368,7 @@
         "2022-08": "100",
         "2023-09": "100"
       },
+      "see_also": "wan, tu, ale",
       "tags": "nimi nanpa",
       "pu_verbatim": {
         "en": "ADJECTIVE many, a lot, more, much, several, very\nNOUN quantity",
@@ -9430,6 +9438,7 @@
         "2022-08": "68",
         "2023-09": "70"
       },
+      "see_also": "a",
       "def": {
         "en": "(indicates thinking, pondering, recognition, agreement, or humming)",
         "pl": "(oznacza my\u015blenie, rozwa\u017canie, uznanie, zgod\u0119 lub nucenie)",
@@ -9995,7 +10004,6 @@
         "2022-08": "97",
         "2023-09": "99"
       },
-      "see_also": "kapa",
       "pu_verbatim": {
         "en": "NOUN bump, button, hill, mountain, nose, protuberance",
         "fr": "NOM nez ; bosse, colline, montagne ; bouton",
@@ -10319,8 +10327,6 @@
         "2022-08": "98",
         "2023-09": "99"
       },
-      "see_also": "jalan",
-      "tags": "nimi nanpa",
       "pu_verbatim": {
         "en": "NOUN foot, leg, organ of locomotion; bottom, lower part",
         "fr": "NOM pied, jambe, organe de locomotion ; bas, dessous",
@@ -11038,7 +11044,6 @@
         "2022-08": "99",
         "2023-09": "100"
       },
-      "see_also": "i, iki, ipi",
       "pu_verbatim": {
         "en": "NOUN he, she, it, they",
         "fr": "NOM il(s), elle(s)",
@@ -11661,6 +11666,7 @@
         "2022-08": "98",
         "2023-09": "99"
       },
+      "see_also": "moku",
       "pu_verbatim": {
         "en": "NOUN cereal, grain; barley, corn, oat, rice, wheat; bread, pasta",
         "fr": "NOM c\u00e9r\u00e9ale ; riz, bl\u00e9, orge, ma\u00efs, avoine ; pain, p\u00e2tes",
@@ -12244,6 +12250,7 @@
         "2022-08": "99",
         "2023-09": "100"
       },
+      "see_also": "suno, walo",
       "pu_verbatim": {
         "en": "ADJECTIVE black, dark, unlit",
         "fr": "ADJECTIF noir, fonc\u00e9, sombre",
@@ -12369,7 +12376,7 @@
         "2022-08": "99",
         "2023-09": "100"
       },
-      "see_also": "pake, open, kama",
+      "see_also": "open, kama",
       "pu_verbatim": {
         "en": "ADJECTIVE ago, completed, ended, finished, past",
         "fr": "ADJECTIF fini, pass\u00e9, termin\u00e9",
@@ -12639,7 +12646,7 @@
         "2022-08": "98",
         "2023-09": "99"
       },
-      "see_also": "kan",
+      "see_also": "lon",
       "tags": "pre-pu ALT",
       "pu_verbatim": {
         "en": "NOUN hip, side; next to, nearby, vicinity",
@@ -13028,7 +13035,7 @@
         "2022-08": "21",
         "2023-09": "23"
       },
-      "see_also": "ike",
+      "see_also": "ike, lon",
       "def": {
         "en": "unreal, false, untrue; pretend; deceive, trick",
         "pl": "nierealne, fa\u0142szywe, nieprawdziwe; udawa\u0107; oszuka\u0107",
@@ -13092,6 +13099,7 @@
         "2022-08": "94",
         "2023-09": "96"
       },
+      "see_also": "ku",
       "pu_verbatim": {
         "en": "ADJECTIVE interacting with the official Toki Pona book",
         "fr": "ADJECTIF interagissant avec le livre officiel du Toki Pona",
@@ -13223,7 +13231,7 @@
         "2022-08": "99",
         "2023-09": "99"
       },
-      "see_also": "pata",
+      "see_also": "ante",
       "pu_verbatim": {
         "en": "ADJECTIVE same, similar; each other; sibling, peer, fellow\nPREPOSITION as, like",
         "fr": "ADJECTIF m\u00eame, semblable; l'un l'autre ; fraternel, homologue\nPR\u00c9POSITION comme",
@@ -13423,6 +13431,7 @@
         "2022-08": "99",
         "2023-09": "99"
       },
+      "see_also": "lete",
       "pu_verbatim": {
         "en": "ADJECTIVE fire; cooking element, chemical reaction, heat source",
         "fr": "NOM feu ; \u00e9l\u00e9ment de cuisson, r\u00e9action chimique, chaleur",
@@ -13645,6 +13654,7 @@
         "2022-08": "100",
         "2023-09": "99"
       },
+      "see_also": "anpa",
       "pu_verbatim": {
         "en": "NOUN area above, highest part, something elevated\nADJECTIVE awe-inspiring, divine, sacred, supernatural",
         "fr": "NOM dessus, le haut, chose \u00e9lev\u00e9e\nADJECTIF divin, sacr\u00e9, surnaturel, qui inspire le respect et la crainte",
@@ -14773,7 +14783,7 @@
         "2022-08": "99",
         "2023-09": "100"
       },
-      "see_also": "mun",
+      "see_also": "mun, pimeja",
       "pu_verbatim": {
         "en": "NOUN sun; light brightness, glow, radiance, shine; light source",
         "fr": "NOM soleil, lumi\u00e8re, lueur, brillant",
@@ -15264,7 +15274,7 @@
         "2022-08": "99",
         "2023-09": "100"
       },
-      "see_also": "awen",
+      "see_also": "awen, kama",
       "pu_verbatim": {
         "en": "PREPOSITION going to, toward; for; from the perspective of\nADJECTIVE moving",
         "fr": "PR\u00c9POSITION \u00e0, allant \u00e0, vers, pour, du point de vue de\nADJECTIF en mouvement, anim\u00e9",
@@ -15587,7 +15597,6 @@
         "2022-08": "100",
         "2023-09": "100"
       },
-      "see_also": "waleja",
       "pu_verbatim": {
         "en": "NOUN time, duration, moment, occasion, period, situation",
         "fr": "NOM temps, dur\u00e9e, moment, occasion, p\u00e9riode, situation",
@@ -16797,6 +16806,7 @@
         "2022-08": "100",
         "2023-09": "100"
       },
+      "see_also": "tu, mute",
       "tags": "nimi nanpa",
       "pu_verbatim": {
         "en": "ADJECTIVE unique, united\nNUMBER one",
@@ -18063,13 +18073,13 @@
       "name_short": "linja Sipiki",
       "writing_system": "sitelen pona",
       "links": {
-        "fontfile": "https://github.com/janSipiki/linja-Sipiki/raw/main/linjaSipiki_v1.2.otf",
+        "fontfile": "https://github.com/janSipiki/linja-Sipiki/raw/main/linjaSipiki_v1.3.otf",
         "repo": "https://github.com/janSipiki/linja-Sipiki/"
       },
-      "creator": "jan Sikipi",
+      "creator": "jan Sipiki & jan Ke Tami",
       "license": "OFL",
-      "version": "1.2",
-      "last_updated": "2023-10",
+      "version": "1.3",
+      "last_updated": "2023-11",
       "filename": "linja-sikipi.ttf",
       "style": "pixelated",
       "features": "ASCII transcription, UCSUR-compliant, supports cartouches, long pi, supports all ku suli and the rest of UCSUR",
