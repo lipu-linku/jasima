@@ -1656,6 +1656,7 @@
         "2022-08": "20",
         "2023-09": "23"
       },
+      "see_also": "pilin",
       "commentary": "According to jan Sonja, \"apeja\" never appeared in any pre-pu toki pona dictionary made by her and never promoted by her, instead it may have been \"just an experimental idea in a forum post\".",
       "def": {
         "en": "guilt, shame, shun, stigma, disgrace; to accuse, to single out, to expose, to dishonor, to embarrass",
@@ -1716,7 +1717,7 @@
         "2022-08": "0",
         "2023-09": "1"
       },
-      "see_also": "utala, pakala, tawa",
+      "see_also": "utala, pakala, tawa, anpa",
       "commentary": "jan Lenoka further elaborated the semantics to imply \"to bump into, to make contact with\".",
       "def": {
         "en": "bump, knock, jolt",
@@ -1962,6 +1963,7 @@
       "recognition": {
         "2023-09": "3"
       },
+      "see_also": "utala, pilin, ike",
       "author_verbatim": "distress, affliction, adversity, pain",
       "author_verbatim_source": "https://discord.com/channels/301377942062366741/375591429608570881/1072666397626335242",
       "commentary": "an experience with the quality of being deeply felt or important to oneself while defying classification as positive, negative, or a simply described admixture of positive and negative",
@@ -2084,6 +2086,7 @@
         "2023-09": "4"
       },
       "see_also": "lon, ma",
+      "commentary": "Considered deprecated by the author: \"mi pali e nimi enko a a\nopen la pilin mi li sama\nnimi enko li pona, jan mute o kepeken\ntaso kepeken pi toki pona la mi kama sona\nnimi ante li ken toki e wile toki pi nimi enko\nla ona li suli ala\"",
       "def": {
         "en": "(spatial equivalents of tenpo constructions) space, place, distance, size (length, width, height, depth, area, volume)",
         "pl": "(przestrzenny odpowiednik tenpo) przestrze\u0144, miejsce, odleg\u0142o\u015b\u0107, rozmiar (d\u0142ugo\u015b\u0107, szeroko\u015b\u0107, wysoko\u015b\u0107, g\u0142\u0119boko\u015b\u0107, powierzchnia, obj\u0119to\u015b\u0107)",
@@ -2284,7 +2287,7 @@
         "2022-08": "5",
         "2023-09": "4"
       },
-      "see_also": "suli, sewi",
+      "see_also": "suli, sewi, wawa",
       "def": {
         "en": "beyond, exceeding, outside of, more than",
         "pl": "poza, przekraczaj\u0105cy, b\u0119d\u0105cy poza czym\u015b, wi\u0119cej ni\u017c",
@@ -2902,7 +2905,7 @@
         "2022-08": "14",
         "2023-09": "19"
       },
-      "see_also": "pilin, toki, insa",
+      "see_also": "pilin, toki, insa, lawa",
       "def": {
         "en": "to think, brainstorm, rationalize, conclude, ponder",
         "pl": "my\u015ble\u0107, wyobra\u017ca\u0107 sobie, wierzy\u0107, uwa\u017ca\u0107, pami\u0119ta\u0107, przypomnie\u0107 sobie; my\u015bl, pomys\u0142",
@@ -3098,7 +3101,7 @@
         "2022-08": "1",
         "2023-09": "1"
       },
-      "see_also": "mute",
+      "see_also": "mute, ale",
       "def": {
         "en": "one hundred",
         "pl": "sto",
@@ -3214,7 +3217,7 @@
         "2022-08": "5",
         "2023-09": "6"
       },
-      "see_also": "suwi",
+      "see_also": "suwi, pilin",
       "author_verbatim": "also tp needs a specific interjection (i.e. not a or kin) for \"yum\"",
       "author_verbatim_source": "https://discord.com/channels/301377942062366741/301382587287339018/353665304569839616",
       "commentary": "Often used for \"stim\".",
@@ -5040,7 +5043,7 @@
         "2022-08": "99",
         "2023-09": "99"
       },
-      "see_also": "soko",
+      "see_also": "kasi, moku, soko",
       "pu_verbatim": {
         "en": "NOUN fruit, vegetable, mushroom",
         "fr": "NOM fruit, l\u00e9gume, champignon",
@@ -7097,6 +7100,7 @@
         "2022-08": "99",
         "2023-09": "99"
       },
+      "see_also": "palisa",
       "tags": "pre-pu ALT",
       "pu_verbatim": {
         "en": "NOUN long and flexible thing; cord, hair, rope, thread, yarn",
@@ -7168,7 +7172,7 @@
         "2022-08": "29",
         "2023-09": "34"
       },
-      "see_also": "len, ilo",
+      "see_also": "len, ilo, wan",
       "def": {
         "en": "network, internet, connection; weave, braid, interlace",
         "pl": "sie\u0107, internet, po\u0142\u0105czenie; ple\u015b\u0107",
@@ -7546,6 +7550,7 @@
         "2022-08": "100",
         "2023-09": "100"
       },
+      "see_also": "tenpo, ma",
       "tags": "pre-pu ALT",
       "pu_verbatim": {
         "en": "PREPOSITION located at, present at, real, true, existing",
@@ -7975,7 +7980,7 @@
         "2022-08": "32",
         "2023-09": "34"
       },
-      "see_also": "suli",
+      "see_also": "suli, tenpo",
       "def": {
         "en": "old, aged, ancient",
         "pl": "stary, staro\u017cytny, pradawny",
@@ -8813,6 +8818,7 @@
         "2022-08": "99",
         "2023-09": "99"
       },
+      "see_also": "pini",
       "pu_verbatim": {
         "en": "ADJECTIVE dead, dying",
         "fr": "ADJECTIF mort, mourant",
@@ -8987,6 +8993,7 @@
       "word": "monsuta",
       "sitelen_pona": "monsuta",
       "ucsur": "U+F197D",
+      "sitelen_pona_etymology": "visual representation of shaking as seen in cartoons",
       "sitelen_sitelen": "https://raw.githubusercontent.com/lipu-linku/ijo/main/sitelensitelen/jonathangabel/monsuta.jpg",
       "sitelen_emosi": "\ud83d\udc79",
       "luka_pona": {
@@ -9017,7 +9024,6 @@
         "2022-08": "85",
         "2023-09": "83"
       },
-      "see_also": "ike, pilin",
       "def": {
         "en": "fear, dread; monster, predator; threat, danger",
         "pl": "strach, przera\u017cenie; potw\u00f3r, drapie\u017cca; zagro\u017cenie, niebezpiecze\u0144stwo",
@@ -9294,6 +9300,7 @@
         "2022-08": "100",
         "2023-09": "100"
       },
+      "see_also": "pona",
       "pu_verbatim": {
         "en": "ADJECTIVE artistic, entertaining, frivolous, playful, recreational",
         "fr": "ADJECTIF artistique, divertissant, frivole, pour s'amuser",
@@ -10327,6 +10334,7 @@
         "2022-08": "98",
         "2023-09": "99"
       },
+      "see_also": "luka",
       "pu_verbatim": {
         "en": "NOUN foot, leg, organ of locomotion; bottom, lower part",
         "fr": "NOM pied, jambe, organe de locomotion ; bas, dessous",
@@ -10564,7 +10572,7 @@
         "2022-08": "16",
         "2023-09": "24"
       },
-      "see_also": "pona, ke, n",
+      "see_also": "pona, ke, n, a",
       "def": {
         "en": "(acknowledgement or acceptance)",
         "pl": "(uznanie lub akceptacja)",
@@ -10721,8 +10729,8 @@
       "etymology": "\u043eko \u043e\u043a\u043e \u2018eye\u2019",
       "etymology_data": {
         "langs": "Serbo-Croatian",
-        "words": "\u043eko",
-        "alts": "\u043e\u043a\u043e",
+        "words": "\u043e\u043a\u043e",
+        "alts": "\u043eko",
         "defs": "eye"
       },
       "creator": "jan Sonja",
@@ -11044,6 +11052,7 @@
         "2022-08": "99",
         "2023-09": "100"
       },
+      "see_also": "ni",
       "pu_verbatim": {
         "en": "NOUN he, she, it, they",
         "fr": "NOM il(s), elle(s)",
@@ -11345,6 +11354,7 @@
         "2022-08": "100",
         "2023-09": "100"
       },
+      "see_also": "pini, kipisi",
       "tags": "pre-pu ALT",
       "pu_verbatim": {
         "en": "ADJECTIVE botched, broken, damaged, harmed, messed up",
@@ -12917,6 +12927,7 @@
         "2022-08": "100",
         "2023-09": "100"
       },
+      "see_also": "ike",
       "pu_verbatim": {
         "en": "ADJECTIVE good, positive, useful; friendly, peaceful; simple",
         "fr": "ADJECTIF bon, positif, utile ; sympa, paisible ; simple",
@@ -14331,7 +14342,7 @@
         "2022-08": "70",
         "2023-09": "63"
       },
-      "see_also": "kili",
+      "see_also": "kasi, kili",
       "def": {
         "en": "fungus, fungi",
         "pl": "grzyb",
@@ -14857,6 +14868,7 @@
         "2022-08": "98",
         "2023-09": "99"
       },
+      "see_also": "sinpin",
       "pu_verbatim": {
         "en": "NOUN horizontal surface, thing to put or rest something on",
         "fr": "NOM surface horizontale sur laquelle on pose quelque chose",
@@ -14992,6 +15004,7 @@
         "2022-08": "100",
         "2023-09": "100"
       },
+      "see_also": "pona",
       "pu_verbatim": {
         "en": "ADJECTIVE sweet, fragrant; cute, innocent, adorable",
         "fr": "ADJECTIF doux, parfum\u00e9, mignon, innocent, adorable",
@@ -15597,6 +15610,7 @@
         "2022-08": "100",
         "2023-09": "100"
       },
+      "see_also": "lon",
       "pu_verbatim": {
         "en": "NOUN time, duration, moment, occasion, period, situation",
         "fr": "NOM temps, dur\u00e9e, moment, occasion, p\u00e9riode, situation",
@@ -15906,6 +15920,7 @@
         "2022-08": "100",
         "2023-09": "100"
       },
+      "see_also": "poki",
       "pu_verbatim": {
         "en": "NOUN indoor space; building, home, house, room",
         "fr": "NOM espace int\u00e9rieur, lieu couvert ; maison, b\u00e2timent, \u00e9difice, pi\u00e8ce, chambre, chez soi, demeure",
@@ -16345,7 +16360,7 @@
         "2022-08": "12",
         "2023-09": "16"
       },
-      "see_also": "laso, loje",
+      "see_also": "laso, loje, pimeja",
       "def": {
         "en": "purple",
         "pl": "fioletowy",
@@ -16405,7 +16420,7 @@
         "2022-08": "16",
         "2023-09": "22"
       },
-      "see_also": "wawa, nasa",
+      "see_also": "wawa, nasa, ken",
       "commentary": "Originally, usawi also included \"technology so complex it's impossible to tell apart from magic\" in its meaning, but this meaning has been deprecated by the creator.",
       "def": {
         "en": "magic, sorcery; enchant; magical, supernatural, occult, incomprehensible",
@@ -16546,6 +16561,7 @@
         "2022-08": "99",
         "2023-09": "100"
       },
+      "see_also": "ike, anpa",
       "pu_verbatim": {
         "en": "VERB to battle, challenge, compete against struggle against",
         "fr": "VERBE se battre contre, lutter contre",
@@ -16733,6 +16749,7 @@
         "2022-08": "98",
         "2023-09": "100"
       },
+      "see_also": "pimeja",
       "pu_verbatim": {
         "en": "ADJECTIVE white, whitish; light-coloured, pale",
         "fr": "ADJECTIF blanc, clair, p\u00e2le",
@@ -17221,6 +17238,7 @@
         "2022-08": "99",
         "2023-09": "99"
       },
+      "see_also": "pini",
       "pu_verbatim": {
         "en": "ADJECTIVE absent, away, ignored",
         "fr": "ADJECTIF absent, enlev\u00e9, \u00e9loign\u00e9",
