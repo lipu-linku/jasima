@@ -889,7 +889,7 @@
         "de": "NOMEN nichts\u00fc\u00dfes Tier; Reptil, Amphibie",
         "eo": "SUBSTANTIVO reptilio, amfibio"
       },
-      "commentary": "akesi used to mean \"non-cute animal,\" and is defined this way in pu, but this definition has fallen out of use.",
+      "commentary": "akesi used to mean \"non-cute animal,\" and is defined this way in pu, but this definition has fallen out of use and was later removed in the pu annotations published with ku.",
       "def": {
         "en": "reptile, amphibian",
         "pl": "nies\u0142odkie zwierz\u0119; gad, p\u0142az",
@@ -1290,7 +1290,7 @@
         "2023-09": "32"
       },
       "see_also": "ale",
-      "commentary": "\"ali\" is an alternative to \"ale\", coined in a poll in 2002 in order to avoid confusion with \"ala\". However, the usage of \"ale\" over \"ali\" remains more common. Generally not considered a word in its own right.",
+      "commentary": "\"ali\" is an alternative to \"ale\", coined in a poll in 2002 in order to avoid confusion with \"ala\". However, the usage of \"ale\" over \"ali\" has been more common since at least the release of pu. Generally not considered a word in its own right.",
       "def": {
         "en": "[alternate form of ale]",
         "pl": "[alternatywna forma ale]",
@@ -5510,7 +5510,7 @@
       "etymology_data": {
         "langs": "Esperanto;Esperanto",
         "words": "krokodilas;krokodilo",
-        "defs": "(present of krokodili);crocodile"
+        "defs": "to speak among Esperantists in a language other than Esperanto;crocodile"
       },
       "creator": "jan Sonja",
       "ku_data": "speak another language in a Toki Pona only environment\u00b3",
@@ -9694,7 +9694,7 @@
       "etymology_data": {
         "langs": "Tok Pisin;English",
         "words": "namba;number",
-        "defs": "namba \u2018number, (ordinal marker)\u2019 \u2190 English number"
+        "defs": "number;number"
       },
       "creator": "jan Sonja",
       "ku_data": "number\u2075, count\u2074, score\u00b3, rating\u00b3, rank\u00b3, measurement\u00b3, ranking\u00b3, statistical\u00b3, quantity\u00b2, calculate\u00b2, grade\u00b2, percentage\u00b2, edition\u00b2, percent\u00b2, statistics\u00b2, version\u00b2",
@@ -10080,7 +10080,7 @@
       "etymology_data": {
         "langs": "Finnish",
         "words": "nen\u00e4",
-        "defs": "nen\u00e4"
+        "defs": "nose"
       },
       "creator": "jan Sonja",
       "ku_data": "hill\u2074, nose\u00b3, ridge\u00b2, button\u00b2, peak\u00b2, mountain\u00b2, pile\u00b2, breast\u00b9, mount\u00b9, fold\u00b9",
@@ -10833,7 +10833,7 @@
         "de": "NOMEN Kopf, Geist (Verstand)\nVERB kontrollieren, f\u00fchren, anleiten, besitzen, planen, regulieren, beherrschen\nHILFSVERB suchen, anstreben, versuchen",
         "eo": "SUBSTANTIVO okulo\nVERBO rigardi, vidi, ekzameni, observi, legi, spekti\nANTA\u016cVERBO provi"
       },
-      "commentary": "In common usage (both before and after pu), \"lukin\" and \"oko\" are separate words, each with their own meaning. In pu, they are considered synonyms. Those who consider them synonyms typically don't use \"oko\" at all, preferring \"lukin\" in all circumstances.",
+      "commentary": "In common usage (both before and after pu), \"lukin\" and \"oko\" are separate words, each with their own meaning. In pu, they are considered synonyms. Those who consider them synonyms typically don't use \"oko\" at all, preferring \"lukin\" in all circumstances, though some speakers do the opposite and use \"oko\" exclusively instead.",
       "def": {
         "en": "{see lukin} | ALT eye, ocular, visual {cf. lukin}",
         "pl": "{patrz lukin} | ALT oko, oczny, wzrokowy {por\u00f3wnaj lukin}",
@@ -11274,7 +11274,7 @@
         "de": "VERB beginnen, starten; \u00f6ffnen; anschalten",
         "eo": "VERBO komenci; malfermi; \u015dalti"
       },
-      "commentary": "Some proficient speakers use open as a preverb that means \"to start,\" that goes along with the complimentary pini preverb \"to stop\"",
+      "commentary": "Some proficient speakers use open as a preverb that means \"start to,\" that goes along with the complimentary pini preverb \"to stop\"",
       "def": {
         "en": "begin, start; open; turn on",
         "pl": "rozpocz\u0105\u0107, zacz\u0105\u0107; otworzy\u0107; w\u0142\u0105czy\u0107",
@@ -12026,7 +12026,7 @@
       "etymology_data": {
         "langs": "Esperanto",
         "words": "verda",
-        "defs": "verda"
+        "defs": "green"
       },
       "creator": "jan Tesa",
       "recognition": {
@@ -12494,7 +12494,7 @@
         "de": "ADJEKTIV vorbei, vollendet, beendet, geendet, vergangen",
         "eo": "ADJEKTIVO anta\u016da, finfarita, finita, fini\u011dinta, pasinta"
       },
-      "commentary": "Some proficient speakers use pini as a preverb that means \"to stop,\" that goes along with the complimentary open preverb \"to start\"",
+      "commentary": "Some proficient speakers use pini as a preverb that means \"to stop,\" that goes along with the complimentary open preverb \"start to\"",
       "def": {
         "en": "ago, completed, ended, finished, past",
         "pl": "(jaki\u015b czas) temu, zako\u0144czony, sko\u0144czony, przesz\u0142y",
@@ -12840,6 +12840,7 @@
         "de": "NOMEN Beh\u00e4ltnis, Beutel, Schale, Kiste, Tasse, Karton, Schublade, Gef\u00e4\u00df",
         "eo": "SUBSTANTIVO ujo, sako, bovlo, skatolo, taso, \u015dranko, tirkesto"
       },
+      "commentary": "poki is sometimes used as \"category\" or to express types of things. One example is roles or groups, in discord chat contexts",
       "def": {
         "en": "container, bag, bowl, box, cup, cupboard, drawer, vessel",
         "pl": "pojemnik, torba, miska, pude\u0142ko, kubek, szafka, szuflada, naczynie",
@@ -15358,7 +15359,7 @@
         "de": "PARTIKEL aber, jedoch\nADJEKTIV nur, lediglich, alleinig",
         "eo": "PARTIKULO sed, tamen\nADJEKTIVO nur"
       },
-      "commentary": "Many proficient speakers use taso as a connector between sentences (X taso Y), similar to \"X, but Y,\" though others do not use this method.",
+      "commentary": "Some proficient speakers use taso as a connector between sentences (X taso Y), similar to \"X, but Y,\" as though taso behaved like la grammatically.",
       "def": {
         "en": "but, however; only",
         "pl": "ale, jednak\u017ce; tylko, jedyny",
@@ -17661,7 +17662,7 @@
         "2022-08": "13",
         "2023-09": "22"
       },
-      "commentary": "May be seen not as a word in toki pona, but as a kind of memorisation tool in English to refer to the \"banned\" syllables.",
+      "commentary": "May be seen not as a word in toki pona, but as a kind of memorisation tool in English to refer to the \"banned\" syllables. Occasionally extended to wuwojitinmanna to include the illegal consecutive nasal consonants.",
       "def": {
         "en": "to use one or more of the \"banned\" syllables wu, wo, ji, or ti; to break toki pona phonotactics",
         "pl": "u\u017cywa\u0107 jednej lub wi\u0119cej z \"zabronionych sylab\" wu, wo, ji oraz ti; \u0142ama\u0107 zasady fonotaktyczne toki pony",
