@@ -1971,7 +1971,7 @@
         "2023-09": "3"
       },
       "see_also": "utala, pilin, ike",
-      "author_verbatim": "distress, affliction, adversity, pain",
+      "author_verbatim": "<:nimisin:743741432350769152> **eliki** - distress, affliction, adversity, pain <- Tsalagi *ehisdi* \u2018pain, distress\u2019",
       "author_verbatim_source": "https://discord.com/channels/301377942062366741/375591429608570881/1072666397626335242",
       "commentary": "an experience with the quality of being deeply felt or important to oneself while defying classification as positive, negative, or a simply described admixture of positive and negative",
       "def": {
@@ -2420,7 +2420,7 @@
       "see_also": "ona",
       "commentary": "\"i\" was proposed as a replacement for \"iki\" in a poll in 2002. However, \"i\" failed to get enough votes. \"iki\" was instead replaced by \"ona\".",
       "def": {
-        "en": "he, she, it, they [alternate form of ona]",
+        "en": "he, she, it, they [polled as a replacement third-person pronoun in 2002]",
         "pl": "on, ona, ono, oni, one [alternatywna forma s\u0142owa ona]",
         "ru": "\u043e\u043d, \u043e\u043d\u0430, \u043e\u043d\u043e, \u043e\u043d\u0438 [\u0430\u043b\u044c\u0442\u0435\u0440\u043d\u0430\u0442\u0438\u0432\u043d\u0430\u044f \u0444\u043e\u0440\u043c\u0430 ona]",
         "isv_l": "on, ona, ono, oni, one [alternativna forma slova ona]",
@@ -2641,7 +2641,7 @@
       "see_also": "ona",
       "commentary": "In a poll in 2002, \"iki\" was deemed too similar to \"ike\" and replaced by \"ona\".",
       "def": {
-        "en": "he, she, it, they [alternate form of ona]",
+        "en": "he, she, it, they [third-person pronoun in 2002, replaced by ona in a poll]",
         "pl": "on, ona, ono, oni, one [alternatywna forma s\u0142owa ona]",
         "ru": "\u043e\u043d, \u043e\u043d\u0430, \u043e\u043d\u043e, \u043e\u043d\u0438 [\u0430\u043b\u044c\u0442\u0435\u0440\u043d\u0430\u0442\u0438\u0432\u043d\u0430\u044f \u0444\u043e\u0440\u043c\u0430 ona]",
         "isv_l": "on, ona, ono, oni, one [alternativna forma slova ona]",
@@ -2859,7 +2859,7 @@
       "see_also": "ona",
       "commentary": "\"ipi\" was proposed as a replacement for \"iki\" in a poll in 2002. However, \"ipi\" failed to get enough votes. \"iki\" was instead replaced by \"ona\".",
       "def": {
-        "en": "he, she, it, they [alternate form of ona]",
+        "en": "he, she, it, they [polled as a replacement third-person pronoun in 2002]",
         "pl": "on, ona, ono, oni, one [alternatywna forma s\u0142owa ona]",
         "ru": "\u043e\u043d, \u043e\u043d\u0430, \u043e\u043d\u043e, \u043e\u043d\u0438 [\u0430\u043b\u044c\u0442\u0435\u0440\u043d\u0430\u0442\u0438\u0432\u043d\u0430\u044f \u0444\u043e\u0440\u043c\u0430 ona]",
         "isv_l": "on, ona, ono, oni, one [alternativna forma slova ona]",
@@ -3182,7 +3182,7 @@
       "see_also": "noka",
       "commentary": "In a poll in 2002, \"jalan\" was proposed as a replacement for \"noka\". However, \"jalan\" failed to get enough votes.",
       "def": {
-        "en": "foot [alternate form of noka]",
+        "en": "foot, leg [polled as a replacement for noka in 2002]",
         "pl": "stopa [alternatywna forma s\u0142owa noka]",
         "ru": "\u043d\u043e\u0433\u0430, \u0441\u0442\u043e\u043f\u0430 [\u0430\u043b\u044c\u0442\u0435\u0440\u043d\u0430\u0442\u0438\u0432\u043d\u0430\u044f \u0444\u043e\u0440\u043c\u0430 noka]",
         "eo": "piedo [alternativa formo de la vorto noka]",
@@ -3379,7 +3379,7 @@
       },
       "see_also": "jan",
       "def": {
-        "en": "a particular group of early members of the ma pona Discord",
+        "en": "a particular group of early members of the ma pona pi toki pona Discord server",
         "pl": "konkretna grupa wczesnych cz\u0142onk\u00f3w Discorda ma pona",
         "ru": "\u043e\u043f\u0440\u0435\u0434\u0435\u043b\u0451\u043d\u043d\u0430\u044f \u0433\u0440\u0443\u043f\u043f\u0430 \u0440\u0430\u043d\u043d\u0438\u0445 \u0447\u043b\u0435\u043d\u043e\u0432 \u0414\u0438\u0441\u043a\u043e\u0440\u0434-\u0441\u0435\u0440\u0432\u0435\u0440\u0430 ma pona",
         "eo": "la fruaj membroj de la servilo Discorda ma pona",
@@ -4371,8 +4371,9 @@
         "2023-09": "1"
       },
       "see_also": "nena",
+      "commentary": "In a poll in 2002, \"kapa\" was proposed as a replacement for \"nena\". However, \"kapa\" failed to get enough votes.",
       "def": {
-        "en": "extrusion, protrusion, hill, mountain, button",
+        "en": "extrusion, protrusion, hill, mountain, button [polled as a replacement for nena in 2002]",
         "pl": "g\u00f3ra, wzg\u00f3rze, guzik, wybrzuszenie, wzniesienie, wypuk\u0142o\u015b\u0107",
         "ru": "\u0432\u044b\u0441\u0442\u0443\u043f, \u0445\u043e\u043b\u043c, \u0433\u043e\u0440\u0430, \u043a\u043d\u043e\u043f\u043a\u0430, \u043f\u0443\u0433\u043e\u0432\u0438\u0446\u0430",
         "eo": "elstara malebena\u0135o, elstara\u0135o, monteto, monto, butono",
@@ -4490,7 +4491,7 @@
       "etymology_data": {
         "langs": "Finnish",
         "words": "kasvi",
-        "defs": "kasvi \u2018plant\u2019"
+        "defs": "plant"
       },
       "creator": "jan Sonja",
       "ku_data": "plant\u2075, bush\u2074, herb\u00b2, tree\u00b2",
@@ -14441,7 +14442,7 @@
       "word": "soko",
       "sitelen_pona": "soko soko2",
       "ucsur": "U+F1981",
-      "sitelen_pona_etymology": "mushroom",
+      "sitelen_pona_etymology": "pictogram of a mushroom",
       "sitelen_sitelen": "https://raw.githubusercontent.com/lipu-linku/ijo/main/sitelensitelen/jonathangabel/soko.jpg",
       "sitelen_emosi": "\ud83c\udf44",
       "audio": {
