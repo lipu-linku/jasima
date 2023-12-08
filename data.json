@@ -939,8 +939,19 @@
       "audio": {
         "kala_asi": "https://raw.githubusercontent.com/lipu-linku/ijo/main/kalama/kalaasi2023/ako.mp3"
       },
+      "coined_year": "2021",
+      "coined_era": "post-ku",
       "book": "none",
       "usage_category": "obscure",
+      "source_language": "Korean",
+      "etymology": "\uc544\uc774\uace0 aigo '(interjection) surprise'",
+      "etymology_data": {
+        "langs": "Korean",
+        "words": "\uc544\uc774\uace0",
+        "alts": "aigo",
+        "defs": "(interjection) surprise"
+      },
+      "creator": "jan Epen",
       "recognition": {
         "2022-08": "0",
         "2023-09": "0"
@@ -3361,6 +3372,7 @@
       "audio": {
         "kala_asi": "https://raw.githubusercontent.com/lipu-linku/ijo/main/kalama/kalaasi2023/jans.mp3"
       },
+      "coined_year": "2017",
       "coined_era": "post-pu",
       "book": "none",
       "usage_category": "obscure",
@@ -3369,15 +3381,17 @@
       "etymology_data": {
         "langs": "toki pona;English",
         "words": "jan;-/z/",
-        "defs": "jan;(plural)"
+        "defs": "person, people;(plural suffix)"
       },
-      "creator": "unknown",
       "recognition": {
         "2020-04": "13",
         "2022-08": "1",
         "2023-09": "1"
       },
       "see_also": "jan",
+      "author_verbatim": "how are jans doing that!?@?",
+      "author_verbatim_source": "https://discord.com/channels/301377942062366741/301377942062366741/339777658172735489",
+      "commentary": "Not coined directly, but developed out of repeated use in the early ma pona pi toki pona Discord server community. jans was repeatedly used because of the humor in adding an English plural suffix to a Toki Pona word.",
       "def": {
         "en": "a particular group of early members of the ma pona pi toki pona Discord server",
         "pl": "konkretna grupa wczesnych cz\u0142onk\u00f3w Discorda ma pona",
@@ -5637,20 +5651,24 @@
       "audio": {
         "kala_asi": "https://raw.githubusercontent.com/lipu-linku/ijo/main/kalama/kalaasi2023/konsi.mp3"
       },
+      "coined_year": "2021",
+      "coined_era": "post-ku",
       "book": "none",
       "usage_category": "obscure",
       "source_language": "Korean",
-      "etymology": "\uacf5\uc9c0 (gongji) 'announcement, notice'",
+      "etymology": "\uacf5\uc9c0 gongji 'announcement, notice'",
       "etymology_data": {
         "langs": "Korean",
         "words": "\uacf5\uc9c0",
         "alts": "gongji",
         "defs": "announcement, notice"
       },
+      "creator": "jan Epen",
       "recognition": {
         "2022-08": "0",
         "2023-09": "1"
       },
+      "see_also": "toki",
       "commentary": "Virtually unknown outside the Korean toki pona community. Apparently used humorously.",
       "def": {
         "en": "to notify, to let know",
@@ -6951,6 +6969,8 @@
       "audio": {
         "kala_asi": "https://raw.githubusercontent.com/lipu-linku/ijo/main/kalama/kalaasi2023/lijokuku.mp3"
       },
+      "coined_year": "2021",
+      "coined_era": "post-ku",
       "book": "none",
       "usage_category": "obscure",
       "source_language": "Korean",
@@ -6961,10 +6981,12 @@
         "alts": "realkk",
         "defs": "Exactly!', lit. 'real LOL'"
       },
+      "creator": "jan Epen",
       "recognition": {
         "2022-08": "0",
         "2023-09": "0"
       },
+      "see_also": "a, kalama",
       "commentary": "Virtually unknown outside the Korean toki pona community.",
       "def": {
         "en": "to agree (with laughter)",
@@ -16344,6 +16366,7 @@
         "2022-08": "1",
         "2023-09": "1"
       },
+      "see_also": "pu, ku",
       "def": {
         "en": "(word reserved for future use by Sonja Lang)",
         "pl": "(s\u0142owo zarezerwowane do przysz\u0142ego u\u017cytku przez Sonj\u0119 Lang)",
