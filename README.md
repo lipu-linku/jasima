@@ -1,3 +1,9 @@
+# ARCHIVED
+
+nimi Linku (the Google sheet) and jasima Linku (this repo) have been archived, replaced by [sona Linku](https://github.com/lipu-linku/sona) (the dataset) and [nimi Linku](https://nimi.linku.la) (the localization platform Crowdin). If you are looking to contribute, please see those projects or join [kulupu Linku](https://discord.gg/A3ZPqnHHsy) (the Discord server).
+
+---
+
 # data.json schema
 
 - This README documents both [nimi Linku, the sheet](https://docs.google.com/spreadsheets/d/1xwgTAxwgn4ZAc4DBnHte0cqta1aaxe112Wh1rv9w5Yk/) and [jasima Linku, the database](https://linku.la/jasima/data.json), as jasima Linku is built from nimi Linku.
