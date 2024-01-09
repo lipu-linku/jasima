@@ -107,5 +107,5 @@ if __name__ == "__main__":
         sheets = json.load(file)
     bundle = {key: build_dict_from_sheet(value) for key, value in sheets.items()}
     with open("../data.json", "w") as f:
-        json.dump(bundle, f, indent=2)
+        json.dump(bundle, f, separators=(',', ':'))
     commit_push("..")
